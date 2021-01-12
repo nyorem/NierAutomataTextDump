@@ -1,0 +1,287 @@
+-- Section 1
+
+ID: M5120_S0010_G0000_001_toolshop
+JP: お、新顔だな。新しいお客さんは大歓迎だ！
+EN: Welcome, welcome! It's always great to get new customers.
+RU: 
+
+ID: M5120_S0010_G0010_001_a9s
+JP: へえ……レジスタンスの道具屋さんですか。
+EN: You some kind of supply trader for the Resistance?
+RU: 
+
+ID: M5120_S0010_G0020_001_toolshop
+JP: ああ、廃品や鹵獲した敵機体を再利用して道具を作ってるんだ。
+EN: You know it. Every item here is hand-crafted from abandoned parts and stuff plundered from enemy corpses.
+RU: 
+
+ID: M5120_S0010_G0030_001_toolshop
+JP: 何か買っていくかい？
+EN: So then! To business. What can I get you?
+RU: 
+
+ID: M5120_S0010_G0040_001_a9s
+JP: こちらではプラグイン・チップは扱ってないんですか？
+EN: Do you sell plug-in chips?
+RU: 
+
+ID: M5120_S0010_G0050_001_toolshop
+JP: ああ、義体を強化するチップか……
+EN: You mean those little doo-dads that serve as power-ups for your body? 'Fraid not.
+RU: 
+
+ID: M5120_S0010_G0060_001_toolshop
+JP: 今、チップ関係は機材不調で休業中だ。
+EN: I'd love to sell plug-in chips, but I don't have the necessary raw materials.
+RU: 
+
+ID: M5120_S0010_G0070_001_toolshop
+JP: 修理資材があれば対応出来るんだが……
+EN: Now, if I happened to GET those raw materials, I bet we could do business. But until then...
+RU: 
+
+ID: M5120_S0010_G0080_001_toolshop
+JP: そうだ！もしお望みなら、あんたらで資材を調達してきてくれないか？
+EN: Say! Now there's an idea: what if YOU got the materials for me?
+RU: 
+
+ID: M5120_S0010_G0090_001_toolshop
+JP: 足が悪くてね。もう少し自由に動けば、自分で探しに行くんだが……
+EN: I've got this bum leg, see? Can't really get around myself.
+RU: 
+
+ID: M5120_S0010_G0100_001_a9s
+JP: だったら、まずは自分の足を修理したらどうです？
+EN: Can't you just repair your own leg? You work in the supply trade, after all.
+RU: 
+
+ID: M5120_S0010_G0110_001_toolshop
+JP: そうはいかない。まずは戦力になるヤツを優先して修理しないと。
+EN: If only! Unfortunately, all of our parts are dedicated to the war effort. Can't spare any for myself.
+RU: 
+
+ID: M5120_S0010_G0120_001_toolshop
+JP: あんたらが機械生命体どもを一掃したら、ゆっくり自分を修理するさ。\nだから頼む！
+EN: Personally, I'm hoping you wipe out those machines so I can start dancing again. But until then, will you look for what I need?
+RU: 
+
+ID: M5120_S0010_G0130_001_sele
+JP: 依頼を引き受ける。
+EN: Agree to help.
+RU: 
+
+ID: M5120_S0010_G0140_001_sele
+JP: 依頼を断る。
+EN: Refuse to help.
+RU: 
+
+
+-- Section 2
+
+ID: M5120_S0010_G0030_001_toolshop
+JP: 何か買っていくかい？
+EN: So then! To business. What can I get you?
+RU: 
+
+ID: M5120_S0010_G0060_001_toolshop
+JP: 今、チップ関係は機材不調で休業中だ。
+EN: I'd love to sell plug-in chips, but I don't have the necessary raw materials.
+RU: 
+
+ID: M5120_S0010_G0070_001_toolshop
+JP: 修理資材があれば対応出来るんだが……
+EN: Now, if I happened to GET those raw materials, I bet we could do business. But until then...
+RU: 
+
+ID: M5120_S0010_G0130_001_sele
+JP: 依頼を引き受ける。
+EN: Agree to help.
+RU: 
+
+ID: M5120_S0010_G0140_001_sele
+JP: 依頼を断る。
+EN: Refuse to help.
+RU: 
+
+
+-- Section 3
+
+ID: M5120_S0010_G0150_001_a2b
+JP: ……了解。
+EN: All right.
+RU: 
+
+ID: M5120_S0010_G0160_001_toolshop
+JP: 恩に着るよ！
+EN: Aw, thanks a million!
+RU: 
+
+ID: M5120_S0010_G0170_001_toolshop
+JP: じゃあ、『壊れたゼンマイ』に『小さな歯車』、『壊れた回路』を集めてきてくれ。
+EN: Okay, so I need one broken spring, one small gear, and one broken circuit. You can smash up a few small machines to find 'em.
+RU: 
+
+ID: M5120_S0010_G0175_001_toolshop
+JP: ここのキャンプを出て、左の方に行った広場の場所の敵から\n入手できるはずだ。
+EN: You can obtain them from enemies at the big open area towards the left when you exit the camp.
+RU: 
+
+
+-- Section 4
+
+ID: M5120_S0010_G0180_001_toolshop
+JP: そうか……無理言ってすまなかったな。
+EN: Hey, I get it. You're probably busy with the killin' and whatnot. Maybe next time.
+RU: 
+
+ID: M5120_S0010_G0190_001_toolshop
+JP: もし時間があれば、修理用の資材を頼まれてくれないか？
+EN: If you've got the time, can you help me find some raw materials?
+RU: 
+
+
+-- Section 5
+
+ID: M5920_S0010_G0280_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+ID: M5920_S0020_G0280_001_pod153
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 6
+
+ID: M5120_S0010_G0030_001_toolshop
+JP: 何か買っていくかい？
+EN: So then! To business. What can I get you?
+RU: 
+
+ID: M5120_S0010_G0200_001_toolshop
+JP: 依頼した『壊れたゼンマイ』、『小さな歯車』、『壊れた回路』を\n忘れないでくれよ。
+EN: I need one broken spring, one small gear, and one broken circuit. Don’t forget!
+RU: 
+
+
+-- Section 7
+
+ID: M5120_S0020_G0000_001_a9s
+JP: よし、これで道具屋さんに頼まれたものは全て集まりましたね。
+EN: Okay, that's everything the supply trader asked for.
+RU: 
+
+ID: M5120_S0020_G0010_001_a9s
+JP: 雑用って大変ですね～
+EN: Man, these chores are a real pain in the butt, huh?
+RU: 
+
+ID: M5120_S0020_G0020_001_a2b
+JP: 地上のレジスタンスはヨルハ部隊にとっても大事な同胞。
+EN: The Resistance is a valuable ally to YoRHa.
+RU: 
+
+ID: M5120_S0020_G0030_001_a2b
+JP: 彼等の手助けをするのも、私達の重要な任務。
+EN: By helping them, we also help ourselves.
+RU: 
+
+ID: M5120_S0020_G0040_001_a2b
+JP: だから、文句を言わない。
+EN: So no. I don't think they're a pain.
+RU: 
+
+ID: M5120_S0020_G0050_001_a9s
+JP: はーい。
+EN: Yeah, yeah...
+RU: 
+
+
+-- Section 8
+
+ID: M5120_S0010_G0030_001_toolshop
+JP: 何か買っていくかい？
+EN: So then! To business. What can I get you?
+RU: 
+
+ID: M5120_S0010_G0200_001_toolshop
+JP: 依頼した『壊れたゼンマイ』、『小さな歯車』、『壊れた回路』を\n忘れないでくれよ。
+EN: I need one broken spring, one small gear, and one broken circuit. Don’t forget!
+RU: 
+
+
+-- Section 9
+
+ID: M5120_S0030_G0000_001_toolshop
+JP: おお、資材を調達してきてくれたんだな。ありがたい！
+EN: Hey, you found the materials! That's great.
+RU: 
+
+ID: M5120_S0030_G0010_001_toolshop
+JP: これでプラグイン・チップを売ることが出来る……
+EN: Now I can start upgrading and crafting items for you.
+RU: 
+
+ID: M5120_S0030_G0020_001_a2b
+JP: それで自分の足も直したら？資材は十分だと思うけど……
+EN: I imagine you can spare a few of these supplies to fix your leg?
+RU: 
+
+ID: M5120_S0030_G0030_001_toolshop
+JP: ああ、うん……いや……
+EN: Yeaaaaaah...no.
+RU: 
+
+ID: M5120_S0030_G0040_001_a2b
+JP: 何か他に修理できない理由が？
+EN: Why don't you tell us what's really going on.
+RU: 
+
+ID: M5120_S0030_G0050_001_toolshop
+JP: ……壊れた左足は……まだオリジナルパーツなんだ。
+EN: See, it's my left leg that's all busted up. And my left leg is the one that's fully original.
+RU: 
+
+ID: M5120_S0030_G0060_001_toolshop
+JP: 長い戦争の間に、この身体は何度も修理した。
+EN: I've repaired this ol' body of mine a hundred times over during this war.
+RU: 
+
+ID: M5120_S0030_G0070_001_toolshop
+JP: 部品を換装して換装して換装して換装して、
+EN: I've swapped parts in and out so many times I can't even keep track.
+RU: 
+
+ID: M5120_S0030_G0080_001_toolshop
+JP: 最初から残ってるのは……この左足だけなんだ。
+EN: But this leg? This left leg? It's never been touched.
+RU: 
+
+ID: M5120_S0030_G0090_001_toolshop
+JP: これまで交換してしまったら、自分が自分でなくなるような気がして。
+EN: So if I go and replace that, what happens?
+RU: 
+
+ID: M5120_S0030_G0100_001_toolshop
+JP: 俺はまだ本当に『俺』なのかな……
+EN: I mean, would I even be ME anymore? Or would I just...
+RU: 
+
+ID: M5120_S0030_G0110_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5120_S0030_G0120_001_toolshop
+JP: ああ、しみったれた話をしてすまない。
+EN: Anyway, it's my own problem. Didn't mean to trouble you with it.
+RU: 
+
+ID: M5120_S0030_G0130_001_toolshop
+JP: これからもしっかり仕入れるから、いつでも寄ってくれよな！
+EN: I should be getting more inventory soon, so swing by when you can.
+RU: 
+
+

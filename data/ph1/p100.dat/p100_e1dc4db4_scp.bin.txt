@@ -1,0 +1,98 @@
+-- Section 1
+
+ID: M0010_S0140_G0000_201_op210
+JP: 攻撃部隊支援の為、敵の防衛システムをダウンさせます。
+EN: We'll need you to take down the enemy's defense systems to give our attack squadron a chance.
+RU: 
+
+ID: M0010_S0140_G0010_201_op210
+JP: ハッキングターゲットは４箇所。
+EN: You have four targets that need to be hacked.
+RU: 
+
+ID: M0010_S0140_G0020_201_op210
+JP: 目標の周囲には敵の反応がありますので、まず排除してください。
+EN: Be advised that hostiles have been detected around each target and must be defeated before continuing.
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0140_G0030_201_op210
+JP: 目標へのアクセスが可能になりました。
+EN: The target is now accessible.
+RU: 
+
+ID: M0010_S0140_G0040_201_a9s
+JP: ハイハーイ。
+EN: Yeah, yeah.
+RU: 
+
+ID: M0010_S0140_G0050_201_op210
+JP: ハイは一回でいいです。
+EN: One affirmation will suffice.
+RU: 
+
+ID: M0010_S0140_G0060_201_a9s
+JP: ハーイ。
+EN: Fine.
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0140_G0070_201_op210
+JP: ハッキング完了。次の目標へ向かってください。
+EN: Hacking complete. Proceed to the next target.
+RU: 
+
+
+-- Section 4
+
+ID: M0010_S0140_G0080_201_op210
+JP: ハッキング完了。残り２箇所です。
+EN: Hacking complete. Two targets remain.
+RU: 
+
+
+-- Section 5
+
+ID: M0010_S0140_G0090_201_op210
+JP: ハッキング完了。残り1箇所です。
+EN: Hacking complete. One target remains.
+RU: 
+
+ID: M0010_S0140_G0100_201_a9s
+JP: いやー。意外と面倒くさいですね。
+EN: Man, this is a real pain...
+RU: 
+
+ID: M0010_S0140_G0110_201_op210
+JP: 作戦中の私語は認められません。
+EN: May I remind you that personal chatter during operations is restricted?
+RU: 
+
+ID: M0010_S0140_G0120_201_a9s
+JP: ハーイ。
+EN: Fiiiine.
+RU: 
+
+
+-- Section 6
+
+ID: M0010_S0140_G0130_201_op210
+JP: 敵防衛システムのハッキングを完了しました。
+EN: Hacking of enemy defense system complete.
+RU: 
+
+ID: M0010_S0140_G0140_201_op210
+JP: これで攻撃部隊の侵入が可能になります。
+EN: Our attack squadron can now infiltrate the base.
+RU: 
+
+ID: M0010_S0140_G0150_201_op210
+JP: 引き続き、侵入した攻撃部隊の支援にあたってください。
+EN: You are to continue providing support by whatever means available.
+RU: 
+
+

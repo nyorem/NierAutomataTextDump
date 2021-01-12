@@ -1,0 +1,136 @@
+-- Section 1
+
+ID: M6130_S0000_G0000_001_robomask
+JP: 掟６０６６４に従い、この先は試練を受ける者以外の立ち入りを禁ずる。
+EN: As per Rule 60,664, this place is out of limits for anyone not taking the trials.
+RU: 
+
+
+-- Section 2
+
+ID: M6130_S0090_G0000_001_robomask
+JP: 掟３１５６４に従い、試練の場では静粛に願いマス。
+EN: Rule 31,564 demands that you stay quiet during the trials.
+RU: 
+
+
+-- Section 3
+
+ID: M6130_S0090_G0010_001_robomask
+JP: 掟１４８９に従い、王として品位ある行動を願いマス。
+EN: As is stated in Rule 1,489, the King has to display dignity at all times.
+RU: 
+
+
+-- Section 4
+
+ID: M6130_S0020_G0000_001_robomask
+JP: 掟２４３８９に従って、我々が試練を見届けよう。
+EN: Pursuant to Rule 24,389, we shall bear witness to the trials.
+RU: 
+
+
+-- Section 5
+
+ID: M6130_S0020_G0010_001_robomask
+JP: 流石は真の仮面の人。見事な戦いだった。
+EN: That was a wonderful fight. You are truly worthy of that mask.
+RU: 
+
+
+-- Section 6
+
+ID: M6130_S0030_G0000_001_robomask
+JP: 掟３０２２５：試練を受ける者には敬意を示すべし。
+EN: Rule 30,225: Respect must be paid to those undertaking the trials.
+RU: 
+
+
+-- Section 7
+
+ID: M6130_S0030_G0010_001_robomask
+JP: 掟１０２８６：王は最大限敬うべし。
+EN: Rule 10,286: The King deserves the most respect of all.
+RU: 
+
+
+-- Section 8
+
+ID: M6130_S0040_G0000_001_robomask
+JP: 掟２１……挨拶サレタラ、応ジルベシ……
+EN: Rule 21... Always return a greeting...
+RU: 
+
+
+-- Section 9
+
+ID: M6130_S0040_G0010_001_robomask
+JP: 掟０８……王ニ挨拶サレタラ……ドウスルンダッケ……？
+EN: Rule 8... When the King addresses you... Uh... What are you supposed to do again?
+RU: 
+
+
+-- Section 10
+
+ID: M6130_S0050_G0000_001_robomask
+JP: ココでハ掟が絶対ダ。掟に従ッテいれバ安全ダ。
+EN: Rules are everything here. As long as you abide, you'll be fine.
+RU: 
+
+
+-- Section 11
+
+ID: M6130_S0050_G0010_001_robomask
+JP: 王ダ。掟ニ従い、我々ヲ守ッてクレ。
+EN: It's the King! Please protect us! In line with the rules, of course.
+RU: 
+
+
+-- Section 12
+
+ID: M6130_S0060_G0000_001_robomask
+JP: かレコれ１００回以上試練に挑ンデいるガ、一つモ突破デキていナイ……
+EN: I've tried my luck at the trials at least 100 times now, but I haven't been able to clear a single one of them!
+RU: 
+
+
+-- Section 13
+
+ID: M6130_S0060_G0010_001_robomask
+JP: 先に試練ヲ突破されテシまっタ……悔シイが、お前を王ト認めヨウ。
+EN: Aww, I can't believe someone beat me to it! Well, fair's fair, you're the King now.
+RU: 
+
+
+-- Section 14
+
+ID: M6130_S0070_G0000_001_robomask
+JP: 試練を受けるのだな。掟２９４５０に従い、健闘を祈っている。
+EN: So you're taking the trials then? In accordance with Rule 29,450, I wish you good luck.
+RU: 
+
+
+-- Section 15
+
+ID: M6130_S0070_G0010_001_robomask
+JP: 我らが王よ。掟４３９５３に従い、模範を示してほしい。
+EN: Your Majesty! Please become a model for us, as Rule 43,953 dictates.
+RU: 
+
+
+-- Section 16
+
+ID: M6130_S0080_G0000_001_robomask
+JP: ムム……オ前ハ仮面ノ人デハナイガ、掟１５３９２ニ従ッテ、危害ハ加エナイ。
+EN: Hmph... You're not one of us, but I have to respect Rule 15,392, so I won't kill you.
+RU: 
+
+
+-- Section 17
+
+ID: M6130_S0080_G0010_001_robomask
+JP: オ前ハ王ニナッタ。掟３０２８４二従ッテ、我々ハオ前ノ帰還ヲ歓迎スル。
+EN: You have become our King... We welcome your return, as per Rule 30,284.
+RU: 
+
+

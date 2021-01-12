@@ -1,0 +1,48 @@
+-- Section 1
+
+ID: M5092_S0050_G0000_001_apolorobo
+JP: オオオオォォォ！ナントイウ悲劇！ナゼココヲ見ツケテシマッタノデスカ！
+EN: Oh no! Oh no oh no oh no! \nWhy!? Why did you have to find this place!?
+RU: 
+
+ID: M5092_S0050_G0010_001_apolorobo
+JP: アナタ様ハ幸運者デアリ資格ヲ持タヌ者！
+EN: You are fortunate enough NOT to be qualified to enter!
+RU: 
+
+ID: M5092_S0050_G0020_001_apolorobo
+JP: コレ程ノ不幸ガコノ世ニアルノデショウカ！ハヤク、ハヤクコノ場カラ離レテ下サイ！
+EN: Oh but how cruel the gods can be, to allow such misfortune to occur! Please, you must get away from here as far as you can!
+RU: 
+
+ID: M5092_S0050_G0030_001_apolorobo
+JP: コノ場所ニイルダケ、ココニ心惹カレルダケ、アナタノソノ身ガ\n怒リニ焼カレルコトニナルノデス！
+EN: Just standing here will be detrimental to your health, as you will be slowly consumed by rage!
+RU: 
+
+ID: M5092_S0050_G0040_001_apolorobo
+JP: アナタ様ノ為ニ、ワタクシガ出来ルコトハ、タダヒトツ。
+EN: There is only one thing I can do for you now!
+RU: 
+
+ID: M5092_S0050_G0050_001_apolorobo
+JP: ……ワタクシハ、今カラ、爆死シマス！
+EN: I will... Nay, I MUST self-destruct!
+RU: 
+
+ID: M5092_S0050_G0060_001_apolorobo
+JP: ソウスレバ幾バクカノ素材ガ飛ビ散ルデショウ。ソレヲアナタ様ニ捧ゲルノデス。
+EN: This will result in a rain of useful materials. They are yours to keep!
+RU: 
+
+ID: M5092_S0050_G0070_001_apolorobo
+JP: イツカアナタニモ真実ガワカルハズデス。
+EN: One day you will discover the truth, of that I am sure.
+RU: 
+
+ID: M5092_S0050_G0080_001_apolorobo
+JP: アナタ様ノ、幸セヲ祈ッテイマスヨ……
+EN: May you live a long and healthy life!
+RU: 
+
+

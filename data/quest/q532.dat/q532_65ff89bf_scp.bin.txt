@@ -1,0 +1,290 @@
+-- Section 1
+
+ID: M6080_S0010_G0010_300_sp
+JP: よぉ、今日からここで森支店を開店する事になったんだ。\n何か物入りなら遠慮せずに言ってくれ。
+EN: This forest branch just opened for business today. Feel free to swing by if there's anything you need.
+RU: 
+
+ID: M5530_S0010_G0000_001_resiitem
+JP: なあ、アンタ。突然だが、食文化に興味はないか？
+EN: Hey, I know this is a bit out of left field, but you look like someone who cares very deeply about gastronomy.
+RU: 
+
+ID: M5530_S0010_G0010_001_resiitem
+JP: 俺は今、人類が地球を奪還した際の食料について研究しているんだ。
+EN: See, I'm doing research about food for whenever the human race decides to return to Earth.
+RU: 
+
+ID: M5530_S0010_G0020_001_resiitem
+JP: 衣食住で言ったら、まずは食い物！そうだろ？
+EN: Those humans were always going on about eating, right? Well, also clothing and shelter. But mostly eating.
+RU: 
+
+ID: M5530_S0010_G0030_001_resiitem
+JP: つーわけで、研究用に各地から様々な食料を集めているんだが、\nアンタも協力しちゃくれないか？
+EN: Anyway, I'm collecting ingredients from across the land for research purposes, and I'm betting you'd like to help me out! Er, right?
+RU: 
+
+ID: M5530_S0010_G0040_001_sele
+JP: 協力する。
+EN: Help out.
+RU: 
+
+ID: M5530_S0010_G0050_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5530_S0010_G0080_001_resiitem
+JP: ありがとな！今研究しているのは「肉食」なんだ。\n『シカの肉』と『イノシシの肉』を持ってきて欲しい。
+EN: Thanks a million! So meat's at the top of the list, naturally, which means I need you to head out and find both moose and boar meat.
+RU: 
+
+
+-- Section 3
+
+ID: M5530_S0010_G0060_001_resiitem
+JP: そっかぁ。まあ、気が変わったらまた声をかけてくれ。
+EN: Really? I thought I had you pegged as a foodie for sure. Well, let me know if you change your mind.
+RU: 
+
+
+-- Section 4
+
+ID: M6080_S0010_G0020_300_sp
+JP: おう、よく来たな。\nまぁ、ゆっくりしていってくれ。
+EN: Welcome, and thank you for visiting my shop. Feel free to look around.
+RU: 
+
+ID: M5530_S0010_G0070_001_resiitem
+JP: なあ、各地の食料を集めてきちゃくれないか？\n人類が地球を奪還した際に必要となる研究なんだ。
+EN: I need your help collecting ingredients from across the land. It's research for when humans come back and reclaim the Earth.
+RU: 
+
+ID: M5530_S0010_G0040_001_sele
+JP: 協力する。
+EN: Help out.
+RU: 
+
+ID: M5530_S0010_G0050_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 5
+
+ID: M6080_S0010_G0020_300_sp
+JP: おう、よく来たな。\nまぁ、ゆっくりしていってくれ。
+EN: Welcome, and thank you for visiting my shop. Feel free to look around.
+RU: 
+
+ID: M5530_S0010_G0090_001_resiitem
+JP: 頼んでいた『シカの肉』と『イノシシの肉』が集まったら教えてくれ。\nたのんだぞ。
+EN: Just bring back whatever moose and boar meat you find, all right? And thanks!
+RU: 
+
+
+-- Section 6
+
+ID: M5530_S0020_G0000_001_pod042
+JP: 疑問：アンドロイドは、水からエネルギーを生成可能。\nレジスタンスにも動物の肉は不必要。
+EN: Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?
+RU: 
+
+ID: M5530_S0020_G0010_001_a2b
+JP: さあ……私にはわからない。
+EN: Don't ask me.
+RU: 
+
+
+-- Section 7
+
+ID: M5530_S0020_G0020_001_pod153
+JP: 疑問：アンドロイドは、水からエネルギーを生成可能。\nレジスタンスにとって動物の肉は不必要。
+EN: Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?
+RU: 
+
+ID: M5530_S0020_G0022_001_a9s
+JP: さあ……気分の問題なんじゃない？たまには食べたくなるとかさ。
+EN: Maybe it's more of a feeling thing. Like, some people just want to eat it every now and then?
+RU: 
+
+ID: M5530_S0020_G0030_001_pod153
+JP: 理解不能。
+EN: It appears illogical.
+RU: 
+
+ID: M5530_S0020_G0040_001_a9s
+JP: だろうね。
+EN: Hey, you got me.
+RU: 
+
+
+-- Section 8
+
+ID: M5530_S0020_G0020_001_pod153
+JP: 疑問：アンドロイドは、水からエネルギーを生成可能。\nレジスタンスにとって動物の肉は不必要。
+EN: Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?
+RU: 
+
+ID: M5530_S0020_G0024_001_a9s
+JP: さあ……気分の問題なんじゃない？たまには食べたくなるとかさ。
+EN: Who knows. Maybe it's more of a feeling thing. Like, some people just want to eat it every now and then.
+RU: 
+
+ID: M5530_S0020_G0030_001_pod153
+JP: 理解不能。
+EN: It appears illogical.
+RU: 
+
+ID: M5530_S0020_G0045_001_a9s
+JP: だろうね。
+EN: Whatever.
+RU: 
+
+
+-- Section 9
+
+ID: M5530_S0020_G0050_001_pod042
+JP: 疑問：アンドロイドは、水からエネルギーを生成可能。\nレジスタンスにも動物の肉は不必要。
+EN: Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?
+RU: 
+
+ID: M5530_S0020_G0060_001_a2
+JP: さあね。食ってみたら意外と楽しいのかもな。
+EN: Who knows? Maybe it's fun to eat. Or more fun than it looks, at any rate...
+RU: 
+
+
+-- Section 10
+
+ID: M5530_S0020_G0070_001_a2b
+JP: 『シカの肉』と『イノシシの肉』は揃ったな。依頼主のところへ行こう。
+EN: That should be enough moose and boar meat.\nLet's get it back to the trader.
+RU: 
+
+
+-- Section 11
+
+ID: M5530_S0020_G0080_001_a9s
+JP: 『シカの肉』と『イノシシの肉』が揃った。依頼主のところへ行こう。
+EN: That should do it for the moose and boar meat. Guess we should report back to the trader.
+RU: 
+
+
+-- Section 12
+
+ID: M5530_S0020_G0090_001_a9s
+JP: 『シカの肉』と『イノシシの肉』が揃った。依頼主のところへ行こう。
+EN: That should do it for the meat. Let's get it to that trader.
+RU: 
+
+
+-- Section 13
+
+ID: M5530_S0020_G0100_001_a2
+JP: 『シカの肉』と『イノシシの肉』は揃ったな。依頼主のところへ行くか。
+EN: This should be enough moose and boar meat. Time to unload it on that weirdo...
+RU: 
+
+
+-- Section 14
+
+ID: M5530_S0030_G0000_001_resiitem
+JP: 『シカの肉』と『イノシシの肉』、確かに受け取った。ありがとな！
+EN: Okay, let's see... Moose meat... Boar meat... Yes, that's everything.
+RU: 
+
+ID: M5530_S0030_G0010_001_resiitem
+JP: これを塩コショウで炭火で焼いたら最高……らしいぞ？
+EN: I tell you what, you fry this up with a little salt and pepper? Bam! Taste EXPLOSION! ...Er, allegedly.
+RU: 
+
+ID: M5530_S0030_G0020_001_a2b
+JP: 食べたことあるの？
+EN: Have you tried it yourself?
+RU: 
+
+ID: M5530_S0030_G0030_001_a9s
+JP: 食べたことあるんですか？
+EN: Have you ever eaten it before?
+RU: 
+
+ID: M5530_S0030_G0040_001_a9s
+JP: 食べたことが？
+EN: You've had it before?
+RU: 
+
+ID: M5530_S0030_G0050_001_a2
+JP: それ、食べるのか？
+EN: You're not seriously going to eat that?
+RU: 
+
+ID: M5530_S0030_G0060_001_resiitem
+JP: まあね。あんまり効果はないけど、戦闘モデルのレジスタンスなんかには\n人気があるぜ？
+EN: It's actually pretty popular among Resistance combat models. Not that it has much of an effect...
+RU: 
+
+ID: M5532_S0030_G0030_001_resiitem
+JP: それにしてもさ……人間って凄いよなあ？こんな料理の知恵があるなんて。
+EN: Humans were so amazing, weren't they? Just their cooking knowledge alone is enough to blow my mind!
+RU: 
+
+ID: M5532_S0030_G0040_001_resiitem
+JP: その人間が地球を奪還したら、俺達アンドロイドにはどういった役割が\n与えられるんだろう。
+EN: What do you think will happen to us androids once they finally come back?
+RU: 
+
+ID: M5532_S0030_G0050_001_resiitem
+JP: 戦う事にしか特化していない、俺達に……
+EN: I mean, we're built to fight, and if we don't need to do that...
+RU: 
+
+ID: M5532_S0030_G0055_001_resiitem
+JP: ……
+EN: ...
+RU: 
+
+ID: M5532_S0030_G0060_001_resiitem
+JP: ……俺達には俺達の仕事がある、そうだよな？
+EN: Ah, forget it. We've all got our own work to do, right?
+RU: 
+
+ID: M5532_S0030_G0071_001_resiitem
+JP: 俺はこれからも、食材の研究を続けるぜ。
+EN: I'm going to keep up with food research for as long as I can.
+RU: 
+
+ID: M5532_S0030_G0080_001_resiitem
+JP: 海にも川にも水産資源は沢山戻って来ている。
+EN: Marine life has returned in force to the oceans and rivers, after all.
+RU: 
+
+ID: M5532_S0030_G0090_001_resiitem
+JP: いつか人類が戻って来た時に、旨い料理を作ってやれるようにしとかないとな！
+EN: So when humans return, I'll make sure to greet them with a glorious feast!
+RU: 
+
+ID: M5532_S0030_G0130_001_resiitem
+JP: じゃあな！
+EN: See you around!
+RU: 
+
+
+-- Section 15
+
+ID: M6080_S0010_G0020_300_sp
+JP: おう、よく来たな。\nまぁ、ゆっくりしていってくれ。
+EN: Welcome, and thank you for visiting my shop. Feel free to look around.
+RU: 
+
+ID: M5530_S0010_G0090_001_resiitem
+JP: 頼んでいた『シカの肉』と『イノシシの肉』が集まったら教えてくれ。\nたのんだぞ。
+EN: Just bring back whatever moose and boar meat you find, all right? And thanks!
+RU: 
+
+

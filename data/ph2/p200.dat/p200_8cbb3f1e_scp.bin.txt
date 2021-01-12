@@ -1,0 +1,16 @@
+-- Section 1
+
+ID: M1050_S0195_S0131_201_largerobot
+JP: この先は行かせる訳には行かぬ！
+EN: I'll never let you pass!
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0195_S0132_201_largerobot
+JP: 死ねい！アンドロイド！
+EN: Die, androids!
+RU: 
+
+

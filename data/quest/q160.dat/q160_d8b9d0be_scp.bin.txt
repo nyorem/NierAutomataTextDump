@@ -1,0 +1,262 @@
+-- Section 1
+
+ID: M5160_S0010_G0000_001_cmd
+JP: ああ、そういえば頼みたい仕事がある。
+EN: Actually, there's something I needed to ask you.
+RU: 
+
+ID: M5160_S0010_G0010_001_cmd
+JP: 君達には、地上とこことの通信環境の改善を行ってもらいたい。
+EN: We need your help improving the network environment between the Bunker and the surface.
+RU: 
+
+ID: M5160_S0010_G0020_001_cmd
+JP: これは、より効率の良い作戦展開を図る為だ。
+EN: Doing so will allow us to carry out our operations in a more efficient manner.
+RU: 
+
+ID: M5160_S0010_G0030_001_cmd
+JP: まずは、レジスタンスキャンプのリーダーに必要な資材を届けて欲しい。
+EN: First, I need you to transport the required materials to the leader of the Resistance camp.
+RU: 
+
+ID: M5160_S0010_G0040_001_cmd
+JP: 資材の入手方法は、地上降下後にオペレーターを通じて伝える。
+EN: I'll have an operator explain how to obtain the materials once you touch down.
+RU: 
+
+ID: M5160_S0010_G0050_001_a9s
+JP: 了解しました。
+EN: Yes, Commander.
+RU: 
+
+
+-- Section 2
+
+ID: M5160_S0000_G0000_300_cmd
+JP: 必要な素材はレジスタンスリーダーに届けてくれ。
+EN: Take the necessary materials to the Resistance leader.
+RU: 
+
+
+-- Section 3
+
+ID: M5160_S0020_G0000_001_op60
+JP: オペレーターより２Ｂさんへ。
+EN: Operator to 2B. Come in, 2B.
+RU: 
+
+ID: M5160_S0020_G0010_001_op60
+JP: 通信環境改善の為に必要な資材を収集してください。
+EN: We need you to collect the materials required to improve the network environment.
+RU: 
+
+ID: M5160_S0020_G0020_001_op60
+JP: 必要な資材は『錆びたボルト』、『小さな歯車』、『ゼンマイ』です。
+EN: You're going to need a rusty bolt, a small gear, and a spring.
+RU: 
+
+ID: M5160_S0020_G0021_001_op60
+JP: 素材は小型の敵から入手出来る場合があるみたいです。
+EN: You should be able to find them on small-sized enemies.
+RU: 
+
+ID: M5160_S0020_G0030_001_op60
+JP: 資材が集まったらレジスタンスキャンプのリーダー、\nアネモネさんに渡してくださいね。
+EN: Once you have everything, please take it to the Resistance leader, Anemone.
+RU: 
+
+ID: M5160_S0020_G0040_001_a2b
+JP: 了解。
+EN: Understood.
+RU: 
+
+ID: M5160_S0020_G0050_001_op60
+JP: 少し大変ですけど、頑張ってくださいね、２Ｂさん！
+EN: I know it's a bit of a pain, but good luck!
+RU: 
+
+ID: M5920_S0010_G0280_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 4
+
+ID: M5160_S0020_G0060_001_op210
+JP: オペレーターより９Ｓへ。
+EN: Operator to 9S.
+RU: 
+
+ID: M5160_S0020_G0070_001_op60
+JP: 通信環境改善の為に必要な資材を伝えます。
+EN: I will now relay the materials necessary to improve the network environment.
+RU: 
+
+ID: M5160_S0020_G0080_001_op60
+JP: 必要な資材は『錆びたボルト』、『小さな歯車』、『ゼンマイ』。
+EN: You need to acquire a rusty bolt, a small gear, and a spring.
+RU: 
+
+ID: M5160_S0020_G0081_001_op60
+JP: 素材は小型の敵から入手出来る場合があるようです。
+EN: You should be able to find them on small-sized enemies.
+RU: 
+
+ID: M5160_S0020_G0090_001_op60
+JP: 資材が集まったらレジスタンスキャンプのアネモネリーダーに\n資材を渡すように。
+EN: Once you have the materials, bring them to Anemone, the leader of the Resistance.
+RU: 
+
+ID: M5160_S0020_G0100_001_a9s
+JP: 了解でーす。
+EN: Gotcha.
+RU: 
+
+ID: M5160_S0020_G0110_001_op210
+JP: 語尾は伸ばす必要はありません。以上。
+EN: "Gotcha" is not an approved form of radio engagement, 9S. Operator 21O out.
+RU: 
+
+ID: M5920_S0020_G0280_001_pod153
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 5
+
+ID: M5160_S0030_G0000_001_op60
+JP: オペレーター６Ｏより２Ｂさんへ。
+EN: Operator 6O to 2B.
+RU: 
+
+ID: M5160_S0030_G0010_001_op60
+JP: 通信環境改善に必要な素材が全て手に入ったようですね。
+EN: Looks like you found all the necessary parts to improve our network environment. Nice work!
+RU: 
+
+ID: M5160_S0030_G0020_001_op60
+JP: 収集した素材はアネモネさんに渡してください。それで任務は終了です。
+EN: You can conclude your mission by bringing everything over to Anemone.
+RU: 
+
+
+-- Section 6
+
+ID: M5160_S0030_G0030_001_op210
+JP: オペレーター２１Ｏより９Ｓへ。
+EN: Operator 21O to 9S.
+RU: 
+
+ID: M5160_S0030_G0040_001_op60
+JP: 通信環境改善に必要な素材が揃った事を確認しました。
+EN: I've confirmed that you have the necessary parts to improve our network environment.
+RU: 
+
+ID: M5160_S0030_G0050_001_op60
+JP: 収集した素材はレジスタンスリーダーに渡してください。以上。
+EN: Take the materials to Anemone in the Resistance camp. Operator 21O out.
+RU: 
+
+
+-- Section 7
+
+ID: M5160_S0040_G0000_001_ane
+JP: バンカーから連絡は受けている。
+EN: I heard about this from the Bunker.
+RU: 
+
+ID: M5160_S0040_G0010_001_ane
+JP: 通信環境整備の為に必要な資材だな。確かに受け取った。
+EN: These are the parts we need for our network structure, right? Thanks for bringing them over.
+RU: 
+
+ID: M5160_S0040_G0020_001_ane
+JP: これは、少ないけど謝礼だ。\n規定違反だろうから、司令官には内緒にしておくよ。
+EN: It's not much, but I have a reward for you. Oh, but don't tell the Commander—it's probably against regulations.
+RU: 
+
+
+-- Section 8
+
+ID: M6090_S0010_G0000_300_ane
+JP: 調子はどうだ？\nあまり無茶するなよ。
+EN: How's it going? You hanging in there?
+RU: 
+
+
+-- Section 9
+
+ID: M5160_S0040_G0030_001_a2b
+JP: ２Ｂからオペレーター６Ｏへ。資材の受け渡しを完了。
+EN: 2B to Operator 6O. Material handover complete.
+RU: 
+
+ID: M5160_S0040_G0040_001_op60
+JP: 了解です。おつかれ様でした！
+EN: Copy that. Good work!
+RU: 
+
+ID: M5160_S0040_G0050_001_a9s
+JP: ……全く、相変わらず司令官は人使いが荒いですよね。
+EN: I see the Commander's as much of a slave driver as ever.
+RU: 
+
+ID: M5160_S0040_G0060_001_a9s
+JP: ルールにも厳しいし、効率優先のロボットみたいな\n生活を送ってるんでしょうね。
+EN: It's like she was built to be as efficient and hard-assed as possible.
+RU: 
+
+ID: M5160_S0040_G0070_001_op60
+JP: 司令官はそんなにお固くないですよ？
+EN: Aw, she's not so bad.
+RU: 
+
+ID: M5160_S0040_G0080_001_a9s
+JP: え？どういうコトですか？
+EN: Are you serious?
+RU: 
+
+ID: M5160_S0040_G0090_001_op60
+JP: 司令官って、ああ見えて意外に大雑把なんです。
+EN: Totally serious! The Commander actually lets a lot of things slide on the side.
+RU: 
+
+ID: M5160_S0040_G0100_001_op60
+JP: 服なんて脱いだら脱ぎっぱなしの溜めっぱなしなので、\nよく洗濯班が嘆いてるんですよ。
+EN: Like, did you know that she leaves piles of clothes strewn everywhere? The cleaning team is SO sick of it.
+RU: 
+
+ID: M5160_S0040_G0110_001_op60
+JP: それに、自分のボディのメンテナンスチェックとか\n全然実行しないんですよね。
+EN: Oh, and she never performs regular maintenance on herself.
+RU: 
+
+ID: M5160_S0040_G0120_001_op60
+JP: そういう雑な所を人に見せないのが司令官らしいんですけど。
+EN: A lot of the "hard-ass" nature you mention is just for show.
+RU: 
+
+ID: M5160_S0040_G0130_001_a2b
+JP: 貴方はどうしてそれを知ってるの？
+EN: How do you know all this?
+RU: 
+
+ID: M5160_S0040_G0140_001_op60
+JP: ふふふっ……秘密です。
+EN: Hee hee! I can't tell you that...
+RU: 
+
+ID: M5160_S0040_G0150_001_op60
+JP: それでは。
+EN: Operator 6O out.
+RU: 
+
+ID: M5160_S0040_G0160_001_a9s
+JP: 秘密……
+EN: What the heck was all that about?
+RU: 
+
+

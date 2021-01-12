@@ -1,0 +1,88 @@
+-- Section 1
+
+ID: M5095_S0300_G0000_001_n02
+JP: ヤレヤレ。過去の記録整理も楽じゃないナ。
+EN: Phew. Organizing all these records sure isn't easy.
+RU: 
+
+ID: M5095_S0300_G0010_001_n02
+JP: 毎日残業、残業、残業、残業、残業デ死にソウだよ。
+EN: I'm busting my can doing overtime every single day.
+RU: 
+
+ID: M5095_S0300_G0100_001_n02
+JP: フウ、コレデここの記録整理は完了ット。
+EN: Well, that wraps up all of the record keeping for this place.
+RU: 
+
+ID: M5095_S0300_G0110_001_n02
+JP: エート、次の現場はドコダッタカナ……
+EN: Ummm... Where was I supposed to go next again?
+RU: 
+
+ID: M5095_S0300_G0120_001_n02
+JP: サーバールームで記録整理カ。
+EN: Oh yeah, the server room.
+RU: 
+
+ID: M5095_S0300_G0130_001_n02
+JP: ハァ、アソコノ部屋は空気が淀んデて嫌いナンダヨナ。
+EN: That place is so stuffy. I hate it there.
+RU: 
+
+
+-- Section 2
+
+ID: M5095_S0300_G0140_001_n02
+JP: エエト、ワタシの端末はドコだったカナ？
+EN: Hmmm, where was my terminal again?
+RU: 
+
+
+-- Section 3
+
+ID: M5095_S0300_G0150_001_n02
+JP: アア、コレだったね。
+EN: Oh, here it is.
+RU: 
+
+
+-- Section 4
+
+ID: M5095_S0300_G0020_001_n02
+JP: 今日の資料ハ……プラトン１７２８か。
+EN: Lessee, what do we have today? Hmm... Plato 1728, eh?
+RU: 
+
+ID: M5095_S0300_G0030_001_n02
+JP: アア、暴走した、あの個体ね……
+EN: Oh yeah, I remember. That's the guy who went haywire.
+RU: 
+
+
+-- Section 5
+
+ID: M6150_S0145_G0000_001_juniorR
+JP: あ、お疲れ様デス！！\n先輩はこの後、サーバールームで記録整理でしたヨネ！！
+EN: Oh hello, Senpai!! Wait, don't tell me... \nYou're on your way to the server room, right?
+RU: 
+
+ID: M6150_S0145_G0010_001_juniorR
+JP: サーバールームはコノ先を行った所ッスヨ！！
+EN: See! I knew it!\nThe server room is right up ahead, you can't miss it!
+RU: 
+
+
+-- Section 6
+
+ID: M6150_S0145_G0020_001_juniorR
+JP: ジブン、本日ヨリ案内係兼交通整備を任されたッス！\nヨロシクッス！！
+EN: I just started working here today, and they put me in charge of guidance and traffic regulation! Lookin' forward to workin' with ya, Senpai!
+RU: 
+
+ID: M6150_S0145_G0030_001_juniorR
+JP: この辺はドコモ迷いヤスイらしく、管理部に苦情が来たそうッス！\nデモ、自分が配属されたカラにはもう安心ッス！！
+EN: This place is like a maze, so the management department is being flooded with complaints! Now that I'm here though, you'll have nothing to worry about!
+RU: 
+
+

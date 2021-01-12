@@ -1,0 +1,319 @@
+-- Section 1
+
+ID: M5100_S0010_G0000_001_robomaster
+JP: ヤアアアアアアッ！！
+EN: Yaaaaaaaaaaah!
+RU: 
+
+
+-- Section 2
+
+ID: M5100_S0010_G0010_001_robomaster
+JP: ククク……なかなかヤルではナイカ……
+EN: Heh heh. Not too shabby. Not too shabby at all...
+RU: 
+
+ID: M5100_S0010_G0020_001_robomaster
+JP: 我が名ハ、ロボ導師……武を追求センとするモノ。
+EN: I am the warrior monk Father Servo, and I seek the enlightened path through perfection in battle!
+RU: 
+
+ID: M5100_S0010_G0030_001_a9s
+JP: ロボ、導師？
+EN: Father...Servo?
+RU: 
+
+ID: M5100_S0010_G0040_001_robomaster
+JP: しかし、武を追求すルには一人では限界ガアル……
+EN: But alas, there is only so much Father Servo is capable of on his own.
+RU: 
+
+ID: M5100_S0010_G0050_001_robomaster
+JP: お前サン達、良かったラ修行に付き合ッテはクレンカのう？
+EN: Perhaps you would be so good as to aid a fellow on his spiritual journey?
+RU: 
+
+ID: M5100_S0010_G0060_001_a9s
+JP: はあっ？……どうして僕達が機械生命体の修行に……
+EN: Uh...I'm not sure we should be helping a machine with combat training...
+RU: 
+
+ID: M5100_S0010_G0070_001_robomaster
+JP: フォフォフォ……理解出来ヌ事を即座に拒否するノは、若輩者の証……
+EN: Oh ho ho! Fear of the unknown clouds your mind, young one.
+RU: 
+
+ID: M5100_S0010_G0080_001_a2b
+JP: ……私達のメリットは？
+EN: What's in it for us?
+RU: 
+
+ID: M5100_S0010_G0090_001_robomaster
+JP: 我が武の奥義を教えてしんぜよう。
+EN: Father Servo shall impart upon you all of his secret battle arts.
+RU: 
+
+ID: M5100_S0010_G0100_001_a9s
+JP: うさん臭いですけど……どうします？
+EN: I dunno, 2B. This seems pretty suspicious. What do you think?
+RU: 
+
+ID: M5100_S0010_G0110_001_sele
+JP: 修行ニ付キ合ウ。
+EN: Help Father Servo train.
+RU: 
+
+ID: M5100_S0010_G0120_001_sele
+JP: 修行ニ付キ合ワナイ。
+EN: Refuse to help.
+RU: 
+
+
+-- Section 3
+
+ID: M5100_S0010_G0130_001_robomaster
+JP: オオ、ありガタイ！それデハ、いっちょヤリマスカのう！
+EN: The heavens smile upon Father Servo this day! Now then, let us start with a light round of sparring.
+RU: 
+
+
+-- Section 4
+
+ID: M5100_S0010_G0140_001_robomaster
+JP: 残念じゃ……気が変わったラまた来てオクレ。
+EN: Ah, a pity. Come find Father Servo if you change your mind.
+RU: 
+
+
+-- Section 5
+
+ID: M5100_S0010_G0000_300_robomaster
+JP: オオ、修行に付き合ッテクレルノカのう？
+EN: Ah! Will you help Father Servo after all?
+RU: 
+
+ID: M5100_S0010_G0110_001_sele
+JP: 修行ニ付キ合ウ。
+EN: Help Father Servo train.
+RU: 
+
+ID: M5100_S0010_G0120_001_sele
+JP: 修行ニ付キ合ワナイ。
+EN: Refuse to help.
+RU: 
+
+
+-- Section 6
+
+ID: M5100_S0010_G0150_001_a9s
+JP: クソッ……油断した……
+EN: Nnngh... I let my guard down...
+RU: 
+
+ID: M5100_S0010_G0160_001_robomaster
+JP: なぁに、恥ずかしガル事はナイ。
+EN: You fought well, my child. Do not be ashamed.
+RU: 
+
+ID: M5100_S0010_G0170_001_robomaster
+JP: いつデモ修行には付キ合うゾ。
+EN: Father Servo will be happy to train with you any time.
+RU: 
+
+
+-- Section 7
+
+ID: M5100_S0010_G0030_300_robomaster
+JP: オオ、修行を再開スルカのう？
+EN: Oh? Shall we begin the training again?
+RU: 
+
+ID: M5100_S0010_G0040_300_sele
+JP: 修行を再開スル。
+EN: Begin again.
+RU: 
+
+ID: M5100_S0010_G0050_300_sele
+JP: 修行を再開シナイ。
+EN: Begin nothing.
+RU: 
+
+
+-- Section 8
+
+ID: M5100_S0010_G0130_001_robomaster
+JP: オオ、ありガタイ！それデハ、いっちょヤリマスカのう！
+EN: The heavens smile upon Father Servo this day! Now then, let us start with a light round of sparring.
+RU: 
+
+
+-- Section 9
+
+ID: M5100_S0010_G0140_001_robomaster
+JP: 残念じゃ……気が変わったラまた来てオクレ。
+EN: Ah, a pity. Come find Father Servo if you change your mind.
+RU: 
+
+
+-- Section 10
+
+ID: M5100_S0010_G0060_300_robomaster
+JP: 弱った状態では相手にならぬ。出直してくるのじゃ。
+EN: I refuse to take on an already-weakened foe. Come back again later.
+RU: 
+
+
+-- Section 11
+
+ID: M5100_S0010_G0180_001_robomaster
+JP: マイッタ！ココマデジャッ！
+EN: Enough! Father Servo yields!
+RU: 
+
+ID: M5100_S0010_G0190_001_a9s
+JP: 口程にもない……
+EN: I don't think this guy's quite as tough as he lets on.
+RU: 
+
+ID: M5100_S0010_G0200_001_a9s
+JP: でも、いい運動になりましたね？２Ｂ。
+EN: Well, it was a nice workout at least.
+RU: 
+
+ID: M5100_S0010_G0210_001_robomaster
+JP: ……ほウ？いい運動になッタと。そレハ良かった。
+EN: Nice? Yes, well. Good for you.
+RU: 
+
+ID: M5100_S0010_G0220_001_robomaster
+JP: では授業料として、『歪んだ針金』を持ってくるが良イ。
+EN: Now then! As payment for this lesson, you must bring Father Servo a warped wire.
+RU: 
+
+ID: M5100_S0010_G0230_001_a9s
+JP: は？
+EN: Whaaa? Listen, you didn't say anything about bri—
+RU: 
+
+ID: M5100_S0010_G0240_001_robomaster
+JP: 手合わせシテやったんだカラ、お礼は当然じゃテ。なア？
+EN: We sparred, yes? You learned many things, yes? Then surely an emolument is to be expected!
+RU: 
+
+ID: M5100_S0010_G0250_001_a9s
+JP: こ、このロボット図々しい……！
+EN: This guy is shameless!
+RU: 
+
+ID: M5100_S0030_G0000_001_robomaster
+JP: 『歪んだ針金』はソノアタリをウロついとる恐竜のヨウナ機械生命体が\n持っておるゾ。
+EN: You should be able to retrieve a warped wire from the dinosaur-like machines roaming about nearby,
+RU: 
+
+ID: M5100_S0010_G0260_001_robomaster
+JP: 次回の手合ワセ迄に持ってクレバ構わんからナ？
+EN: Bring it here before our next bout, if you would be so kind.
+RU: 
+
+
+-- Section 12
+
+ID: M5920_S0010_G0280_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+ID: M5920_S0020_G0280_001_pod153
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 13
+
+ID: M5920_S0010_G0240_001_pod042
+JP: 依頼されていた資材を入手。
+EN: Requested material obtained.
+RU: 
+
+ID: M5920_S0020_G0240_001_pod153
+JP: 依頼されていた資材を入手。
+EN: Requested material obtained.
+RU: 
+
+
+-- Section 14
+
+ID: M5100_S0010_G0080_300_robomaster
+JP: オオ、アイテムを持ってきてくれたんじゃな？
+EN: Have you brought the required item?
+RU: 
+
+ID: M5100_S0010_G0090_300_sele
+JP: アイテムを渡す
+EN: Give him the item.
+RU: 
+
+ID: M5100_S0010_G0100_300_sele
+JP: アイテムを渡さない
+EN: Keep it.
+RU: 
+
+
+-- Section 15
+
+ID: M5100_S0010_G0080_300_robomaster
+JP: オオ、アイテムを持ってきてくれたんじゃな？
+EN: Have you brought the required item?
+RU: 
+
+ID: M5100_S0010_G0090_300_sele
+JP: アイテムを渡す
+EN: Give him the item.
+RU: 
+
+ID: M5100_S0010_G0100_300_sele
+JP: アイテムを渡さない
+EN: Keep it.
+RU: 
+
+
+-- Section 16
+
+ID: M5100_S0010_G0110_300_robomaster
+JP: 違うのかの？\n手合ワセのお礼ハ『歪んだ針金』で良いゾ？
+EN: A shame. Father Servo needs a warped wire before he will spar with you.
+RU: 
+
+
+-- Section 17
+
+ID: M5100_S0020_G0000_001_robomaster
+JP: オオ、サンキューじゃ！コレで新たナ修行が出来ル！
+EN: Ah, excellent. Now we can engage in a new form of training.
+RU: 
+
+ID: M5100_S0020_G0010_001_robomaster
+JP: イツでも挑戦ハ受けてやるカラナ！
+EN: Father Servo will accept your challenge whenever you feel ready.
+RU: 
+
+ID: M5100_S0020_G0020_001_robomaster
+JP: 有料デな！
+EN: ...For a fee, of course.
+RU: 
+
+ID: M5100_S0020_G0030_001_a9s
+JP: ははっ……
+EN: Of course.
+RU: 
+
+
+-- Section 18
+
+ID: M5100_S0020_G0000_300_robomaster
+JP: 今は仕込み中だワイ。\nマタあとで来てチョ。
+EN: Father Servo is currently engaged in preparations.\nCome back later.
+RU: 
+
+

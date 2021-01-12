@@ -1,0 +1,13 @@
+-- Section 1
+
+ID: M5040_S0010_G0190_300_mama
+JP: 息子を捜しに出かけたっきり、お父さんが帰ってこないんです。
+EN: My husband still hasn't returned. He went to look for our son some time ago, and...
+RU: 
+
+ID: M5040_S0010_G0200_300_mama
+JP: 二人とも無事だといいけど……
+EN: Well, I just hope the two of them are all right.
+RU: 
+
+

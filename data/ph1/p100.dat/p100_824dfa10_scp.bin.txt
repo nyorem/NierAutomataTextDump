@@ -1,0 +1,110 @@
+-- Section 1
+
+ID: M1030_S0015_G0000_001_ane
+JP: ああ、君達か。
+EN: Ah, it's you.
+RU: 
+
+ID: M1030_S0015_G0010_001_ane
+JP: 砂漠の機械生命体の話はジャッカスから聞いた。大変だったな。
+EN: I heard from Jackass about your encounter in the desert. Good work.
+RU: 
+
+ID: M1030_S0015_G0020_001_ane
+JP: 礼と言っては何だが、君達ヨルハの為に部屋を用意しておいた。
+EN: We don't have much to offer in thanks, but I've readied a room for you here.
+RU: 
+
+ID: M1030_S0015_G0030_001_a2b
+JP: 部屋？
+EN: Oh?
+RU: 
+
+
+-- Section 2
+
+ID: M1030_S0015_G0040_001_ane
+JP: ヨルハ部隊には世話になってるからな……遠慮無く使ってくれ。
+EN: It's the least we can do. Feel free to use it however you like.
+RU: 
+
+
+-- Section 3
+
+ID: M1030_S0015_G0050_001_a9s
+JP: ありがとうございます！
+EN: Hey, thanks!
+RU: 
+
+
+-- Section 4
+
+ID: M1030_S0010_G0111_001_op210
+JP: オペレーターより９Ｓ。
+EN: Operator to 9S.
+RU: 
+
+ID: M1030_S0010_G0112_001_a9s
+JP: はい。こちら９Ｓ。
+EN: This is 9S. Go ahead.
+RU: 
+
+ID: M1030_S0010_G0113_001_op210
+JP: 司令官から２Ｂ・９Ｓ両名へのメッセージがあります。
+EN: I have an incoming message for 2B and 9S from the Commander.
+RU: 
+
+ID: M1030_S0010_G0120_001_op210
+JP: 再生します。
+EN: Initiating playback.
+RU: 
+
+ID: M1030_S0010_G0130_001_cmd
+JP: 地上に向かっているヨルハ部隊の数機が連絡を絶った。
+EN: 2B? 9S? We've lost contact with several YoRHa units that were on their way to the surface.
+RU: 
+
+ID: M1030_S0010_G0140_001_cmd
+JP: 現在もブラックボックス信号が確認されている事から、\n死亡はしていないと推定される。
+EN: Their black boxes are online, so we presume they're still alive.
+RU: 
+
+ID: M1030_S0010_G0150_001_cmd
+JP: 信号の発信されているポイントを絞り込んだので、
+EN: We've tracked the location of their signals,
+RU: 
+
+ID: M1030_S0010_G0160_001_cmd
+JP: 地上に滞在中のヨルハ部隊員には、本件の調査を命ずる。
+EN: so I need all YoRHa units on the surface to head over and investigate.
+RU: 
+
+ID: M1030_S0010_G0170_001_op210
+JP: 以上で、通信を終了します。
+EN: End transmission.
+RU: 
+
+
+-- Section 5
+
+ID: M1030_S0010_G0180_001_a2b
+JP: そういえば……レジスタンスキャンプでも同じような話を聞いた……
+EN: Hmm. I heard something about that back at the Resistance camp.
+RU: 
+
+ID: M1030_S0010_G0190_001_a9s
+JP: 目標地点の情報をセットしました。
+EN: Target location confirmed.
+RU: 
+
+ID: M1030_S0010_G0200_001_a9s
+JP: 他のアンドロイドの人達が心配ですね……
+EN: I'm worried about the other androids...
+RU: 
+
+ID: M1030_S0010_G0210_001_a9s
+JP: 早めに行った方がいい気がします。
+EN: We should probably check this out as soon as possible.
+RU: 
+
+

@@ -1,0 +1,20 @@
+ID: M1080_S0850_H0000_201_cmd
+JP: 理由なく戦える者などいない。
+EN: No one fights without a reason.
+RU: 
+
+ID: M1080_S0850_H0010_201_cmd
+JP: 我々には命を捧げるに値する神が必要なのだ。
+EN: And we need a god worth dying for.
+RU: 
+
+ID: M1080_S0850_H0020_201_cmd
+JP: 自分で決めるんだな……これから、どうするか。
+EN: What path will you take? It's up to you to decide.
+RU: 
+
+ID: M1080_S0850_H0030_201_a9s
+JP: ……
+EN: ......
+RU: 
+

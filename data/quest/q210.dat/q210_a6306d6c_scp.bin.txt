@@ -1,0 +1,308 @@
+-- Section 1
+
+ID: M5210_S0010_G0000_001_n02
+JP: ああ……アンタ達はアンドロイドか……
+EN: Oh. You're androids, yes?
+RU: 
+
+ID: M5210_S0010_G0010_001_n02
+JP: てことはアタシを殺しに来たんだね……
+EN: Then you must be here to kill me.
+RU: 
+
+ID: M5210_S0010_G0020_001_n02
+JP: 私はもう十分イキタけど、殺すならあまり痛くしないでおくれよ。
+EN: I've lived long enough. I only ask that you not make it too painful.
+RU: 
+
+ID: M5210_S0010_G0040_001_sele
+JP: 破壊しない。
+EN: Spare her.
+RU: 
+
+ID: M5210_S0010_G0030_001_sele
+JP: 破壊する。
+EN: Destroy the machine.
+RU: 
+
+
+-- Section 2
+
+ID: M5210_S0010_G0050_001_n02
+JP: ヒトオモイにやっとくれ……
+EN: Be quick, then.
+RU: 
+
+
+-- Section 3
+
+ID: M5210_S0010_G0060_001_n02
+JP: ……なぜコロサナイ？
+EN: Why do you not strike?
+RU: 
+
+ID: M5210_S0010_G0070_001_a2b
+JP: ……戦う意思が無いから。
+EN: Because you have no desire to fight.
+RU: 
+
+ID: M5210_S0010_G0080_001_a2b
+JP: パスカルのところにいる機械生命体と同じ
+EN: You're like the machines in Pascal's village.
+RU: 
+
+ID: M5210_S0010_G0090_001_a2b
+JP: 私達に害を及ぼさないなら、破壊する理由もない。
+EN: If you don't attempt to harm us, we have no cause for quarrel.
+RU: 
+
+ID: M5210_S0010_G0100_001_n02
+JP: パスカルに会ったのかい。ナルホドネ……
+EN: You know Pascal? I see...
+RU: 
+
+ID: M5210_S0010_G0110_001_n02
+JP: だが、気をつけるンダヨ？
+EN: Still, you should be careful.
+RU: 
+
+ID: M5210_S0010_G0120_001_a2b
+JP: 何を？
+EN: Of what?
+RU: 
+
+ID: M5210_S0010_G0130_001_n02
+JP: 機械生命体の中にはアバレテ手のつけられない奴もいる。
+EN: Some of our kind can be violent. They are beyond our control.
+RU: 
+
+ID: M5210_S0010_G0140_001_n02
+JP: 敵味方カマワズに襲ってくるんだ。
+EN: They attack everything they see, be it friend or foe.
+RU: 
+
+ID: M5210_S0010_G0150_001_n02
+JP: この先の谷には、そういった奴がウロツイテイルからね。
+EN: Many of these machines are waiting in the canyon ahead.
+RU: 
+
+ID: M5210_S0010_G0160_001_n02
+JP: 滅多な事ではチカヅイチャ駄目だよ……
+EN: You would be wise to keep your distance.
+RU: 
+
+
+-- Section 4
+
+ID: M5210_S0010_G0170_001_a2b
+JP: 無差別に攻撃する機械生命体……
+EN: Machines attacking indiscriminately...
+RU: 
+
+ID: M5210_S0010_G0180_001_pod042
+JP: 推奨：敵性機械生命体の排除。
+EN: Proposal: Unit 2B should eliminate the hostile machines.
+RU: 
+
+
+-- Section 5
+
+ID: M5210_S0010_G0150_001_n02
+JP: この先の谷には、そういった奴がウロツイテイルからね。
+EN: Many of these machines are waiting in the canyon ahead.
+RU: 
+
+ID: M5210_S0010_G0160_001_n02
+JP: 滅多な事ではチカヅイチャ駄目だよ……
+EN: You would be wise to keep your distance.
+RU: 
+
+
+-- Section 6
+
+ID: M5210_S0020_G0000_001_a9s
+JP: 機械生命体の死体……墓場でしょうか？
+EN: Look at all the corpses. Is this some kind of graveyard?
+RU: 
+
+
+-- Section 7
+
+ID: M5210_S0020_G0010_001_a2b
+JP: 気をつけて！まだ生きてる。
+EN: Watch out! They're still alive!
+RU: 
+
+ID: M5210_S0020_G0020_001_a9s
+JP: はいっ！
+EN: I'm on it!
+RU: 
+
+
+-- Section 8
+
+ID: M5210_S0020_G0030_001_a9s
+JP: まだ居ます！
+EN: There's more!
+RU: 
+
+ID: M5210_S0020_G0040_001_n02
+JP: コロス……コロス……
+EN: KILL... KILL...
+RU: 
+
+ID: M5210_S0020_G0050_001_n02
+JP: イタイ……コロシテ……
+EN: SUCH PAIN... KILL ME...
+RU: 
+
+ID: M5210_S0020_G0060_001_a2b
+JP: 何か……言ってる。
+EN: What's it saying?
+RU: 
+
+ID: M5210_S0020_G0070_001_a9s
+JP: ２Ｂ！油断しちゃダメです！
+EN: Don't listen to it, 2B!
+RU: 
+
+ID: M5210_S0020_G0080_001_n02
+JP: コロシテ……
+EN: KILL...
+RU: 
+
+ID: M5210_S0020_G0090_001_n02
+JP: コロス……コロシテ……クレ。
+EN: PLEASE...KILL...ME...
+RU: 
+
+ID: M5210_S0020_G0100_001_n02
+JP: コロシテクダサイ。
+EN: PLEASE KILL ME.
+RU: 
+
+
+-- Section 9
+
+ID: M5210_S0020_G0110_001_a2b
+JP: 一体こいつは……
+EN: What was with that thing?
+RU: 
+
+ID: M5210_S0020_G0120_001_a9s
+JP: 喋っていましたね……
+EN: It was talking.
+RU: 
+
+ID: M5210_S0020_G0130_001_a9s
+JP: この場所を言ってた機械生命体に聞いてみましょうか。
+EN: Maybe that machine who sent us here knows something about this.
+RU: 
+
+ID: M5210_S0020_G0140_001_a9s
+JP: 何か情報を知っているかもしれませんし。
+EN: We should try asking her.
+RU: 
+
+
+-- Section 10
+
+ID: M5210_S0030_G0000_001_n02
+JP: ああ……アンタ達かい。
+EN: Oh... It's you again.
+RU: 
+
+ID: M5210_S0030_G0010_001_a9s
+JP: この先の谷にいる機械生命体だけど……
+EN: We have a question about the machines in the canyon.
+RU: 
+
+ID: M5210_S0030_G0020_001_n02
+JP: ああ、アイツらは危ないからチカヅイチャ駄目だよ……
+EN: Yes. Very dangerous. You should avoid them.
+RU: 
+
+ID: M5210_S0030_G0030_001_a9s
+JP: もう大丈夫。全部倒してきた。
+EN: Actually, we already took care of them.
+RU: 
+
+ID: M5210_S0030_G0040_001_n02
+JP: エエッ！？
+EN: You what!?
+RU: 
+
+ID: M5210_S0030_G0050_001_n02
+JP: ……そうかい。じゃあ、アイツらも天国ってトコロに行けるかねぇ？
+EN: ...I see. Then perhaps they can finally reach heaven.
+RU: 
+
+ID: M5210_S0030_G0060_001_a2b
+JP: 天国？
+EN: Come again?
+RU: 
+
+ID: M5210_S0030_G0070_001_n02
+JP: 最近、あの谷に飛び込む機械生命体が多いんだよ。
+EN: Many machines have thrown themselves into that canyon of late.
+RU: 
+
+ID: M5210_S0030_G0080_001_n02
+JP: 中には自分でジブンを傷つけて壊そうとするヤツもいる。
+EN: They were trying to hurt themselves beyond repair.
+RU: 
+
+ID: M5210_S0030_G0090_001_n02
+JP: そうやって死んだヤツと、死に損なったヤツらがあの谷には溜まってるんだ。
+EN: You found the remains of those who succeeded...and fought those who did not.
+RU: 
+
+ID: M5210_S0030_G0100_001_n02
+JP: どうしてそんな事をするのかアタシにはよくわからないんだけど。
+EN: I know not what would drive them to do such a thing...
+RU: 
+
+ID: M5210_S0030_G0110_001_n02
+JP: ヤツらの魂が天国に行けるように、ここでオイノリしているのさ。
+EN: But I pray regardless that their souls might reach heaven.
+RU: 
+
+ID: M5210_S0030_G0120_001_n02
+JP: ……これはオレイだ。
+EN: ...Here. A gift for you.
+RU: 
+
+ID: M5210_S0030_G0130_001_n02
+JP: コロシテやってくれて、アリガトウな。
+EN: Thank you for killing them.
+RU: 
+
+
+-- Section 11
+
+ID: M5210_S0030_G0140_001_a9s
+JP: 魂が天国に行けるように祈る……か。
+EN: Souls and heaven, huh?
+RU: 
+
+ID: M5210_S0030_G0150_001_a9s
+JP: そんな物ってあるのかな？
+EN: Do either of those things exist?
+RU: 
+
+ID: M5210_S0030_G0160_001_a2b
+JP: ……きっと、この世界から消滅する時に判る。
+EN: They'll find out in the end.
+RU: 
+
+ID: M5210_S0030_G0170_001_a2b
+JP: 私達にも。
+EN: And so will we.
+RU: 
+
+ID: M5210_S0030_G0180_001_a9s
+JP: ……そうですね。
+EN: Okay, that's grim.
+RU: 
+
+

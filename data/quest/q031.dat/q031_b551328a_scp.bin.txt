@@ -1,0 +1,281 @@
+-- Section 1
+
+ID: M5031_S0020_G0000_001_a9s
+JP: ２Ｂ、ちょっと待ってください。
+EN: Hang on, 2B.
+RU: 
+
+ID: M5031_S0020_G0010_001_a2b
+JP: ん？
+EN: Hmm?
+RU: 
+
+
+-- Section 2
+
+ID: M5031_S0020_G0020_001_a9s
+JP: この機械生命体、まだ生きてますね。
+EN: This machine is still alive.
+RU: 
+
+ID: M5031_S0020_G0030_001_a2b
+JP: じゃあ、破壊を……
+EN: So destroy it.
+RU: 
+
+ID: M5031_S0020_G0040_001_a9s
+JP: いえ、その必要は無いと思います。
+EN: Maybe we should hold off.
+RU: 
+
+ID: M5031_S0020_G0050_001_a9s
+JP: 駆動部分が破壊されているので攻撃してくる心配はありません。
+EN: Its main drive has been trashed, so there's no way it can attack us.
+RU: 
+
+ID: M5031_S0020_G0060_001_a9s
+JP: 調べてみると何か面白い物が出てくるかもしれません。
+EN: And we might be able to learn something interesting if we study it.
+RU: 
+
+
+-- Section 3
+
+ID: M5031_S0020_G0070_001_a9s
+JP: ……なるほど。ちょっと脳回路を修復してみましょうか。
+EN: I'm going to try and repair some of its damaged circuits.
+RU: 
+
+ID: M5031_S0020_G0080_001_a2b
+JP: 修復？どうして？
+EN: Why?
+RU: 
+
+ID: M5031_S0020_G0090_001_a9s
+JP: 他の機械生命体に関する情報を得る為です。\nやってみる価値はあると思いますよ？
+EN: So we can learn more about the machines! Don't you think it's at least worth a shot?
+RU: 
+
+ID: M5031_S0020_G0100_001_a2b
+JP: わかった。９Ｓがそう言うのなら。
+EN: If you say so.
+RU: 
+
+ID: M5031_S0020_G0110_001_a9s
+JP: ただ、部品が足りないんですよね。『新品のネジ』があればいいんですが……
+EN: Hmm... I'm going to need a pristine screw in order to finish the repairs.
+RU: 
+
+ID: M5031_S0020_G0120_001_a2b
+JP: 新しいネジか……敵の残骸から入手出来るかもしれない。
+EN: We might be able to find one in the remains of other enemies.
+RU: 
+
+ID: M5031_S0020_G0125_001_a9s
+JP: ポッド、該当する敵の場所を調べて。
+EN: Pod, search for the locations of relevant enemies.
+RU: 
+
+ID: M5920_S0010_G0280_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+ID: M5920_S0020_G0280_001_pod153
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 4
+
+ID: M5031_S0020_G0130_001_a2b
+JP: でも、倒すべき機械生命体を修理するなんて……複雑な気分。
+EN: You know, I'm still not sure any of this is a good idea.
+RU: 
+
+ID: M5031_S0020_G0140_001_a9s
+JP: 情報はあればあるに越したことはないですよ。２Ｂ。
+EN: The more data we have, the better, right?
+RU: 
+
+
+-- Section 5
+
+ID: M5031_S0030_G0000_001_a9s
+JP: このネジがあれば、あの大きな機械生命体を修理出来ますね。
+EN: We can use this screw to repair that big machine.
+RU: 
+
+
+-- Section 6
+
+ID: M5031_S0030_G0005_001_telo
+JP: 47分後……
+EN: 47 minutes later...
+RU: 
+
+
+-- Section 7
+
+ID: M5031_S0020_G0070_300_a2b
+JP: ……中々素材が集まらない。
+EN: Finding this stuff is proving tougher than I'd hoped.
+RU: 
+
+
+-- Section 8
+
+ID: M5031_S0030_G0010_001_a9s
+JP: よし、これで……どうだ！？
+EN: Okay then. Let's see what we've got...
+RU: 
+
+ID: M5031_S0030_G0020_001_eng
+JP: ワタ……ルス……１１０……
+EN: I a......cal......gles 110......
+RU: 
+
+ID: M5031_S0030_G0030_001_eng
+JP: ジ……セイゾ……ゲ……
+EN: I was manu......huma......
+RU: 
+
+ID: M5031_S0030_G0040_001_eng
+JP: ゲンザ……ヨウ……
+EN: Request......ation of......stat......
+RU: 
+
+ID: M5031_S0030_G0090_001_a2b
+JP: ……喋った？
+EN: This thing can talk?
+RU: 
+
+ID: M5031_S0030_G0100_001_a9s
+JP: 何かのデータが再生されているみたいですね。
+EN: It seems to be replaying some kind of data.
+RU: 
+
+ID: M5031_S0030_G0110_001_a9s
+JP: でも、機械生命体に意識なんてありませんよ。
+EN: Machines don't have a conscious mind, you know.
+RU: 
+
+ID: M5031_S0030_G0120_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5031_S0030_G0130_001_a9s
+JP: あと、断片的ですが、データを抜き出せました。
+EN: I managed to pull some data out of its memory.
+RU: 
+
+ID: M5031_S0030_G0140_001_a9s
+JP: どうやら、このロボットが作られた工場の情報のようです。
+EN: It seems to be info on the factory where it was constructed.
+RU: 
+
+ID: M5031_S0030_G0150_001_a9s
+JP: 読める形にして保存しておきますね。
+EN: I'll save it in a readable format.
+RU: 
+
+ID: M5031_S0030_G0160_001_a2b
+JP: 情報はこれで全部？
+EN: Is this everything?
+RU: 
+
+ID: M5031_S0030_G0170_001_a9s
+JP: いえ、
+EN: No, it seems there's more.
+RU: 
+
+ID: M5031_S0030_G0180_001_a9s
+JP: まだ……部品が足りないみたいです。
+EN: But I need additional parts to access the rest.
+RU: 
+
+ID: M5031_S0030_G0190_001_a9s
+JP: 記憶領域同士をつなぐ為に、『新品のネジ』４本と、『大きな歯車』を\n入手したいですね。
+EN: Let's see... Four pristine screws and one large gear should be enough to bridge the gap in its memory circuits.
+RU: 
+
+ID: M5031_S0030_G0200_001_a2b
+JP: わかった。
+EN: Fair enough.
+RU: 
+
+ID: M5920_S0010_G0280_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+ID: M5920_S0020_G0280_001_pod153
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 9
+
+ID: M5031_S0020_G0000_300_a2b
+JP: 中々素材が集まらない……
+EN: We can't seem to locate the required material.
+RU: 
+
+ID: M5031_S0020_G0010_300_a9s
+JP: オペレーターさんに聞いてみましょうか
+EN: Maybe we should ask an Operator.
+RU: 
+
+
+-- Section 10
+
+ID: M5031_S0020_G0070_300_a2b
+JP: ……中々素材が集まらない。
+EN: Finding this stuff is proving tougher than I'd hoped.
+RU: 
+
+
+-- Section 11
+
+ID: M5540_S0030_G0400_001_op210
+JP: こちら２１Ｏ。どうしました？
+EN: Operator 21O here. Go ahead.
+RU: 
+
+ID: M5031_S0020_G0020_300_a9s
+JP: オペレーターさん、ちょっと聞きたいことがあるんですけど\n僕達『新品のネジ』を探していて、どこで入手できそうかわかりませんか？
+EN: 9S to Operator. Quick question: Do you know where we might find a pristine screw?
+RU: 
+
+ID: M5031_S0020_G0030_300_op210
+JP: それなら、大型二足歩行の機械生命体から入手した記録が残っています。
+EN: According to our records, that material can be obtained from the bodies of large bipedal machine lifeforms.
+RU: 
+
+ID: M5031_S0020_G0040_300_a9s
+JP: 助かります。
+EN: Thanks, Operator. 9S out.
+RU: 
+
+ID: M5031_S0020_G0050_300_a2b
+JP: 大型二足歩行……確か砂漠地帯にいた……
+EN: I remember seeing large two-legged machines in the desert...
+RU: 
+
+ID: M5031_S0020_G0060_300_a9s
+JP: 行きましょう
+EN: Let's go.
+RU: 
+
+
+-- Section 12
+
+ID: M5031_S0020_G0100_300_a2b
+JP: 今はこいつを修理している場合じゃない
+EN: Now's not the time to be fixing this thing.
+RU: 
+
+

@@ -1,0 +1,28 @@
+-- Section 1
+
+ID: M1060_S0120_G0160_101_a9s
+JP: ２B！
+EN: 2B!
+RU: 
+
+ID: M1060_S0120_G0170_101_a9s
+JP: 僕は空母に搭載予定だったミサイルを使用出来ないか試してみます。
+EN: I'm going to see if we can use those missiles back on the shore.
+RU: 
+
+ID: M1060_S0120_G0180_101_a9s
+JP: コントロールを妨害されないよう、
+EN: But I need you to destroy the EMP unit on that thing's back.
+RU: 
+
+ID: M1060_S0120_G0190_101_a9s
+JP: 敵の背面にあるＥＭＰ攻撃ユニットを破壊しておいてください！
+EN: Otherwise they're just going to go off course.
+RU: 
+
+ID: M1060_S0120_G0200_101_a2b
+JP: 了解。
+EN: On it.
+RU: 
+
+

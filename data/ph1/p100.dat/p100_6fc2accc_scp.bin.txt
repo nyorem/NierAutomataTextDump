@@ -1,0 +1,289 @@
+-- Section 1
+
+ID: M1020_S0950_G0130_300_a9s
+JP: 止まった……ここまで来たら大丈夫そうですね。
+EN: It stopped. Looks like we're safe now.
+RU: 
+
+ID: M1020_S0950_G0010_001_a2b
+JP: 一体……あの機械生命体は……
+EN: What the hell just happened?
+RU: 
+
+ID: M1020_S0950_G0020_001_a9s
+JP: これまでに見たことのないタイプでした。
+EN: I know! I've never seen a machine like that before.
+RU: 
+
+ID: M1020_S0950_G0030_001_a9s
+JP: 後で司令部に報告しましょう。
+EN: We'd better report this to Command.
+RU: 
+
+
+-- Section 2
+
+ID: M5920_S0010_G0100_001_pod042
+JP: 警告。
+EN: Alert.
+RU: 
+
+
+-- Section 3
+
+ID: M5920_S0020_G0100_001_pod153
+JP: 警告。
+EN: Alert.
+RU: 
+
+
+-- Section 4
+
+ID: M1030_S0010_G0000_001_a9s
+JP: 司令部に連絡する為に、通信状況の良いエリアに移動しましょう。
+EN: Let's move to an area with better reception so we can contact Command.
+RU: 
+
+
+-- Section 5
+
+ID: M1030_S0010_G0010_001_a9s
+JP: 司令部との通信、出来るようになりました。
+EN: Okay, this is good. We should be able to reach Command here.
+RU: 
+
+ID: M1030_S0010_G0020_001_a9s
+JP: ９Ｓからバンカーへ。応答をお願いします。
+EN: 9S to Bunker, do you copy?
+RU: 
+
+ID: M1030_S0010_G0030_001_op210
+JP: オペレーターより９Ｓ。受信しました。
+EN: I read you, 9S. Go ahead.
+RU: 
+
+ID: M1030_S0010_G0040_001_a9s
+JP: 先ほど、人型……つまりアンドロイドに似た質感を持つ\n機械生命体と遭遇しました。
+EN: Operator, we uh... We just encountered a pair of humanoid machines.
+RU: 
+
+ID: M1030_S0010_G0050_001_a9s
+JP: 残念ながら取り逃しましたが……
+EN: We weren't able to capture them...
+RU: 
+
+ID: M1030_S0010_G0060_001_a9s
+JP: その時の交戦データを転送させてもらいます。
+EN: But I have combat data ready for upload.
+RU: 
+
+ID: M1030_S0010_G0070_001_op210
+JP: 了解しました。転送を開始します。
+EN: Understood. Ready to receive.
+RU: 
+
+ID: M1030_S0010_G0080_001_a9s
+JP: それじゃあ分析の方、よろしくお願いしますね。
+EN: Hopefully you can get something out of it.
+RU: 
+
+
+-- Section 6
+
+ID: M1020_S0950_G0031_001_pod042
+JP: 流量の多い箇所の移動は困難。
+EN: Alert: High-flow areas may impede movement.
+RU: 
+
+ID: M1020_S0950_G0032_001_pod042
+JP: 推奨：岩場を移動。
+EN: It would be more efficient to traverse the rocky area instead.
+RU: 
+
+
+-- Section 7
+
+ID: M1030_S0010_G0081_001_a9s
+JP: ……ふうっ、これで一段落しましたね。
+EN: Whew. I think we've earned a breather.
+RU: 
+
+ID: M1030_S0010_G0082_001_a9s
+JP: ２Ｂ、ここからの作戦行動について相談があるんですが。
+EN: Say, 2B? I was hoping we could talk about our next move.
+RU: 
+
+ID: M1030_S0010_G0083_001_a9s
+JP: さっきの機械生命体との戦闘で受けたダメージが心配です。
+EN: I'm worried about the damage we took in that last battle with the machines.
+RU: 
+
+ID: M1030_S0010_G0084_001_a9s
+JP: 一度レジスタンスキャンプに戻って補給やメンテナンスをしますか？
+EN: Maybe we should return to the Resistance camp to resupply and conduct maintenance?
+RU: 
+
+ID: M1030_S0010_G0085_001_sele
+JP: レジスタンスキャンプに戻る。
+EN: Return to the Resistance camp.
+RU: 
+
+ID: M1030_S0010_G0086_001_sele
+JP: このまま戦闘を続ける。
+EN: Continue fighting.
+RU: 
+
+
+-- Section 8
+
+ID: M1030_S0010_G0087_001_a2b
+JP: 確かに……一旦、レジスタンスキャンプに戻ろう。
+EN: All right. Let's go back.
+RU: 
+
+ID: M1030_S0010_G0088_001_a9s
+JP: 了解です。
+EN: You got it.
+RU: 
+
+
+-- Section 9
+
+ID: M1030_S0010_G0089_001_a2b
+JP: いや、このまま継続して機械生命体を排除しよう。
+EN: No. We should keep fighting.
+RU: 
+
+ID: M1030_S0010_G0091_001_a9s
+JP: 了解です。あまり無理しないでくださいね、２Ｂ。
+EN: Roger that. Just try not to overdo it, okay?
+RU: 
+
+
+-- Section 10
+
+ID: M1030_S0010_G0090_001_op210
+JP: オペレーターより９Ｓ。先ほどのデータの転送が完了しました。
+EN: Operator to 9S: Data upload complete.
+RU: 
+
+ID: M1030_S0010_G0100_001_a9s
+JP: 了解です。
+EN: Roger.
+RU: 
+
+ID: M1030_S0010_G0110_001_op210
+JP: 別件ですが、司令官から２Ｂ・９Ｓ両名へのメッセージがあります。
+EN: I also have an incoming message from the Commander.
+RU: 
+
+ID: M1030_S0010_G0120_001_op210
+JP: 再生します。
+EN: Initiating playback.
+RU: 
+
+ID: M1030_S0010_G0130_001_cmd
+JP: 地上に向かっているヨルハ部隊の数機が連絡を絶った。
+EN: 2B? 9S? We've lost contact with several YoRHa units that were on their way to the surface.
+RU: 
+
+ID: M1030_S0010_G0140_001_cmd
+JP: 現在もブラックボックス信号が確認されている事から、\n死亡はしていないと推定される。
+EN: Their black boxes are online, so we presume they're still alive.
+RU: 
+
+ID: M1030_S0010_G0150_001_cmd
+JP: 信号の発信されているポイントを絞り込んだので、
+EN: We've tracked the location of their signals,
+RU: 
+
+ID: M1030_S0010_G0160_001_cmd
+JP: 地上に滞在中のヨルハ部隊員には、本件の調査を命ずる。
+EN: so I need all YoRHa units on the surface to head over and investigate.
+RU: 
+
+ID: M1030_S0010_G0170_001_op210
+JP: 以上で、通信を終了します。
+EN: End transmission.
+RU: 
+
+ID: M1030_S0010_G0180_001_a2b
+JP: そういえば……レジスタンスキャンプでも同じような話を聞いた……
+EN: Hmm. I heard something about that back at the Resistance camp.
+RU: 
+
+
+-- Section 11
+
+ID: M1030_S0010_G0190_001_a9s
+JP: 目標地点の情報をセットしました。
+EN: Target location confirmed.
+RU: 
+
+ID: M1030_S0010_G0200_001_a9s
+JP: 他のアンドロイドの人達が心配ですね……
+EN: I'm worried about the other androids...
+RU: 
+
+ID: M1030_S0010_G0210_001_a9s
+JP: 早めに行った方がいい気がします。
+EN: We should probably check this out as soon as possible.
+RU: 
+
+
+-- Section 12
+
+ID: M1030_S0050_G0071_001_a9s
+JP: 地上からのルートは封鎖されているみたいですね……
+EN: Looks like our surface route's been cut off.
+RU: 
+
+ID: M1030_S0050_G0072_001_a9s
+JP: 地下から行けないか調べてみましょう。
+EN: Maybe we can get through from underground.
+RU: 
+
+
+-- Section 13
+
+ID: M1030_S0050_G0000_001_a9s
+JP: ねぇ、２Ｂ。
+EN: So, 2B—
+RU: 
+
+ID: M1030_S0050_G0010_001_a9s
+JP: 砂漠にいた機械生命体、見た目は完全にアンドロイドと同じでしたね。
+EN: Those machines out in the desert looked just like androids, right?
+RU: 
+
+ID: M1030_S0050_G0020_001_a2b
+JP: 確かに。
+EN: Right.
+RU: 
+
+ID: M1030_S0050_G0030_001_a9s
+JP: 僕らアンドロイドは、創造主たる人間の姿を模して作られてるけど……
+EN: But we androids were modeled after our human creators.
+RU: 
+
+ID: M1030_S0050_G0040_001_a9s
+JP: 機械生命体はどうして僕らの姿を真似するんでしょうか？
+EN: So why would machines try to look like us?
+RU: 
+
+ID: M1030_S0050_G0050_001_a2b
+JP: …………
+EN: ......
+RU: 
+
+ID: M1030_S0050_G0060_001_a2b
+JP: ……考えても判らない事に時間を割くのは無駄。
+EN: There's no point trying to work out unsolvable problems.
+RU: 
+
+ID: M1030_S0050_G0070_001_a9s
+JP: ……そうですね。
+EN: I suppose...
+RU: 
+
+

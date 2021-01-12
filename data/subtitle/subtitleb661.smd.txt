@@ -1,0 +1,25 @@
+ID: M1090_S0250_H0000_001_eve
+JP: ああ……来たのか……
+EN: Ah... And here you are.
+RU: 
+
+ID: M1090_S0250_H0010_001_eve
+JP: お前たちも思うだろう？
+EN: I know you two feel the same.
+RU: 
+
+ID: M1090_S0250_H0020_001_eve
+JP: こんな世界……意味がないって。
+EN: That this world...is utterly meaningless.
+RU: 
+
+ID: M1090_S0250_H0030_001_eve
+JP: 俺にとっては、にイチゃんが……にいチャンダケガ……
+EN: As far as I'm concerned, my brother...was everything...
+RU: 
+
+ID: M1090_S0250_H0040_001_eve
+JP: 全部……消エテ無クナレッ！！
+EN: And now...EVERYTHING MUST DIE!
+RU: 
+

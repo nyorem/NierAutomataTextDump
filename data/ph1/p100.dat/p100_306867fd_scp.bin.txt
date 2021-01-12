@@ -1,0 +1,443 @@
+-- Section 1
+
+ID: M1010_S0060_G0000_001_a9s
+JP: ここがレジスタンスキャンプか……
+EN: So this is the Resistance Camp, huh?
+RU: 
+
+ID: M1010_S0060_G0010_001_a9s
+JP: まず、リーダーに情報を聞いてみましょうよ。
+EN: We should probably go talk to their leader first thing.
+RU: 
+
+
+-- Section 2
+
+ID: M1010_S0060_G0020_001_ane
+JP: お前達は……
+EN: You're...
+RU: 
+
+ID: M1010_S0060_G0025_001_ane
+JP: 二号……
+EN: Number Two...
+RU: 
+
+ID: M1010_S0060_G0030_001_a9s
+JP: あれ？２Ｂの事、知ってるんですか？
+EN: Hmm? You know about 2B?
+RU: 
+
+ID: M1010_S0060_G0040_001_ane
+JP: ……いや、バンカーから連絡が来てたからな。
+EN: Um... Yes, well, the Bunker told me to expect you.
+RU: 
+
+ID: M1010_S0060_G0050_001_ane
+JP: 私の名前はアネモネ。
+EN: My name is Anemone.
+RU: 
+
+ID: M1010_S0060_G0060_001_ane
+JP: この辺り一帯のアンドロイドレジスタンスを取りまとめている。
+EN: I'm the leader of the android Resistance that controls most of this territory.
+RU: 
+
+ID: M1010_S0060_G0070_001_ane
+JP: バンカーから話は聞いている。このエリアの調査担当になったらしいな。
+EN: You must be the new scouts we heard about.
+RU: 
+
+ID: M1010_S0060_G0080_001_ane
+JP: 情報は私よりも他の連中の方が詳しいだろう。
+EN: Well, I'm sure my people will have plenty of information for you.
+RU: 
+
+ID: M1010_S0060_G0090_001_ane
+JP: 私を通さなくていいから、好きに聞いてくれ。
+EN: Please, feel free to ask them anything you like.
+RU: 
+
+
+-- Section 3
+
+ID: M1010_S0060_G0100_001_ane
+JP: 武器屋や道具屋は頻繁に使うだろうから、挨拶くらいしといてもいいかもな。
+EN: I expect you'll be dealing a lot with the weapons trader and the supply trader, so why don't you go say 'hi'?
+RU: 
+
+ID: M1010_S0060_G0110_001_ane
+JP: それと、入り口近くに機械生命体の頭をかぶったヤツがいるんだが……
+EN: Also, there's this girl near the entrance wearing the head of a machine lifeform...
+RU: 
+
+ID: M1010_S0060_G0120_001_ane
+JP: 変なヤツだが物知りだから、色々聞いてみるといい。
+EN: She's a bit of an odd-ball, but she's really smart, so I'm sure she's got lots of useful information for you.
+RU: 
+
+
+-- Section 4
+
+ID: M1020_S0005_G0000_001_ane
+JP: そうだ。私からも一つ頼みがある。
+EN: Oh, hey, I actually have a request for you as well.
+RU: 
+
+ID: M1020_S0005_G0010_001_ane
+JP: 最近、砂漠地帯で凶悪な機械生命体が多く出現しているらしい。
+EN: There have been lots of reports of dangerous machines appearing in the desert recently.
+RU: 
+
+ID: M1020_S0005_G0020_001_ane
+JP: これまで無かった現象で、何か起きているのかもしれない。
+EN: This is very unusual, so it may be indicative of something bigger.
+RU: 
+
+ID: M1020_S0005_G0030_001_ane
+JP: 君達ヨルハ部隊は調査も得意だと聞いている。
+EN: Now, I hear you YoRHa types are pretty good at examining things.
+RU: 
+
+ID: M1020_S0005_G0040_001_ane
+JP: 砂漠地帯の異変の原因を調べてもらえないだろうか？
+EN: You think you can look into this whole mess for me?
+RU: 
+
+ID: M1020_S0005_G0050_001_ane
+JP: 手伝う。
+EN: Help her.
+RU: 
+
+ID: M1020_S0005_G0060_001_ane
+JP: 手伝わない。
+EN: Don't help her.
+RU: 
+
+
+-- Section 5
+
+ID: M1020_S0005_G0070_001_ane
+JP: そうか。ありがとう。
+EN: Thanks! I knew I could count on you!
+RU: 
+
+ID: M1020_S0005_G0080_001_ane
+JP: 砂漠にいる私達の仲間には連絡しておく。
+EN: I'll tell our allies in the desert that you're coming.
+RU: 
+
+ID: M1020_S0005_G0090_001_ane
+JP: くれぐれも、気をつけて。
+EN: Be careful out there, okay?
+RU: 
+
+
+-- Section 6
+
+ID: M1020_S0005_G0100_001_ane
+JP: そうか……気が向いたらまた声をかけてくれ。
+EN: I see. Alright, let me know if you change your mind.
+RU: 
+
+
+-- Section 7
+
+ID: M1010_S0050_G0040_300_a9s
+JP: ここは植物の侵食がかなり進んでいますが、\n当時はかなり大きな都市だったんでしょうね。
+EN: This must have been quite a city once upon a time. Too bad vegetation's claimed most of it now...
+RU: 
+
+
+-- Section 8
+
+ID: M5920_S0100_G0000_001_op60
+JP: オペレーター６Ｏより、２Ｂさんへ。定期連絡の時間です。
+EN: Operator 6O to 2B. It is time for your regularly-scheduled contact.
+RU: 
+
+ID: M5920_S0100_G0010_001_a2b
+JP: こちら２Ｂ。異常なし。
+EN: This is 2B. Nothing to report.
+RU: 
+
+ID: M5920_S0100_G0020_001_op60
+JP: それは良かったです。今日の地球の天気は良いですか？
+EN: Good to hear. Say, how's the weather on Earth today? Good?
+RU: 
+
+ID: M5920_S0100_G0030_001_a2b
+JP: 問題なし……それは作戦に関係する情報？
+EN: It's fine. Does that question have anything to do with our operation?
+RU: 
+
+ID: M5920_S0100_G0040_001_op60
+JP: いえいえ、そうではなくて。天気がいいと気分が良いのかなー、なんて。
+EN: Not really! I just figured it might feel nice to have some good weather.
+RU: 
+
+ID: M5920_S0100_G0050_001_a2b
+JP: 気分が良くても良くなくても、作戦には関係ない。
+EN: Feeling nice has no bearing on completing missions.
+RU: 
+
+ID: M5920_S0100_G0060_001_op60
+JP: ははっ……２Ｂさんらしいですね。
+EN: Hee hee! That is so like you, 2B.
+RU: 
+
+ID: M5920_S0100_G0070_001_op60
+JP: それでは、また！
+EN: Anyway, talk to you later!
+RU: 
+
+
+-- Section 9
+
+ID: M5920_S0100_G0320_001_op210
+JP: オペレーター２１Ｏより、９Ｓ。定期連絡を行います。
+EN: Operator 21O to 9S. This is your regularly-scheduled contact.
+RU: 
+
+ID: M5920_S0100_G0330_001_a9s
+JP: はーい。こちら９Ｓ。異常ありませーん。いやあ、今日も天気が良くて……
+EN: This is 9S. Nothing to report. Weather's sure nice today, though!
+RU: 
+
+ID: M5920_S0100_G0340_001_op210
+JP: 異常なしとの事。了解しました。
+EN: Nothing to report, copy that.
+RU: 
+
+ID: M5920_S0100_G0350_001_op210
+JP: 天気の情報は必要ありません。以上です。
+EN: And...no need for a weather report. Operator 21O out.
+RU: 
+
+ID: M5920_S0100_G0360_001_a9s
+JP: いやあ、オペレーターさん、相変わらずカタイなあ……
+EN: Aw, you don't have to be so formal all the time, Operator.
+RU: 
+
+ID: M5920_S0100_G0370_001_a9s
+JP: そこがいいところな気もしますけど。
+EN: Though I kinda like that about you.
+RU: 
+
+
+-- Section 10
+
+ID: M6090_S0010_G0015_300_kj
+JP: ああ、新顔さんかい？\nそこにいる隊長に話を聞きに行くといい。
+EN: Newcomer, are you? Go talk to the commanding officer over there.
+RU: 
+
+
+-- Section 11
+
+ID: M6090_S0010_G0045_300_toolshop
+JP: ヨルハの人？まずはリーダーに話を通してくれ。\n色々あるんだよ……シキタリってのが。
+EN: You're with YoRHa, right? Well, you still need to talk to our commanding officer first. Even you guys gotta follow the rules.
+RU: 
+
+
+-- Section 12
+
+ID: M6090_S0010_G0835_300_bs
+JP: ああ、ヨルハ部隊の方ですか。\nまずはリーダーのアネモネさんに会っていただけますか？
+EN: Oh, you're a YoRHa soldier? You should talk to our leader Anemone first.
+RU: 
+
+
+-- Section 13
+
+ID: M6090_S0010_G0125_300_resiman
+JP: ここを仕切ってるのは、リーダーのアネモネ姐さんだ。\nまずはそこに挨拶しにいくんだな。
+EN: Our leader Anemone is responsible for this camp. You should go say hi when you get a minute.
+RU: 
+
+
+-- Section 14
+
+ID: M6090_S0010_G0145_300_resiman
+JP: ……見ない顔だな？
+EN: Heya. Haven't seen you around here before.
+RU: 
+
+
+-- Section 15
+
+ID: M6090_S0010_G0165_300_resiman
+JP: おっと。リーダーの所には行ったのかい？
+EN: Oh, hey. Did you talk to our leader yet?
+RU: 
+
+
+-- Section 16
+
+ID: M6090_S0010_G0195_300_resiman
+JP: …………
+EN: ......
+RU: 
+
+
+-- Section 17
+
+ID: M6090_S0010_G0255_300_resiwoman
+JP: そこにいるアネモネさんがこのキャンプのリーダーだよ。
+EN: Anemone over there is the camp leader.
+RU: 
+
+
+-- Section 18
+
+ID: M6090_S0010_G0285_300_resiwoman
+JP: あ、こんにちは！ヨルハ部隊の方ですね！お待ちしてました！リーダーの\nアネモネさんに会いました？会ってません？それとも会いました？
+EN: You're a YoRHa soldier, right? I've been expecting you. Have you met our fearless leader Anemone yet? You have, right? Or maybe not?
+RU: 
+
+
+-- Section 19
+
+ID: M6090_S0010_G0415_300_resiwoman
+JP: やあ。ここのキャンプを色々調べるならまずは上を通してくれないかな？
+EN: If you're going to inspect the camp, make sure you get permission first, okay?
+RU: 
+
+
+-- Section 20
+
+ID: M6090_S0010_G0435_300_resiwoman
+JP: ……ええっと……あなたは……誰ですか？
+EN: Um, soooo...who are you?
+RU: 
+
+
+-- Section 21
+
+ID: M6090_S0091_G0001_300_hennawresi
+JP: アンタ達、ヨルハ部隊の新顔の人？\nだったら、ここのリーダーと会っておくといいよ。
+EN: Are you the new YoRHa soldiers? If so, you should go meet our leader.
+RU: 
+
+
+-- Section 22
+
+ID: M6090_S0010_G0485_300_resiman
+JP: あなたも新顔ですか？
+EN: Are you new here?
+RU: 
+
+
+-- Section 23
+
+ID: M6090_S0010_G0515_300_resiman
+JP: この救護室に運び込まれるようにはなるなよ……？
+EN: Make sure you're never taken into this first-aid room, okay? Stay safe out there!
+RU: 
+
+
+-- Section 24
+
+ID: M6090_S0010_G0535_300_resiman
+JP: こらこら。お嬢ちゃん達。まずはリーダーのアネモネさんに\n話を通してくるんだな。それがここの流儀だ。
+EN: Hey, you! You've got to speak to our leader Anemone before you do anything else. That's how things work around here.
+RU: 
+
+
+-- Section 25
+
+ID: M6090_S0010_G0555_300_resiwoman
+JP: 新しい人？よろしくね。
+EN: You new here? Nice to meet you.
+RU: 
+
+
+-- Section 26
+
+ID: M6090_S0010_G0575_300_resiman
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 27
+
+ID: M6090_S0010_G0605_300_resiwoman
+JP: リーダーのアネモネさんは広場のテントにいると思うよ？
+EN: I think our leader Anemone is in the tent at the square.
+RU: 
+
+
+-- Section 28
+
+ID: M6090_S0010_G0625_300_resiwoman
+JP: 部外者には色々話せない事があるんですよね……
+EN: I can't just tell any outsider that comes barging in here everything that's going on at this camp.
+RU: 
+
+
+-- Section 29
+
+ID: M6090_S0010_G0645_300_resiman
+JP: ん？新しいヨルハの人か……
+EN: Hmm? Oh, a new YoRHa unit, eh?
+RU: 
+
+
+-- Section 30
+
+ID: M6090_S0010_G0665_300_resiman
+JP: あれ？リーダーの許可なくこんな奥まで来ちゃだめだよ。
+EN: Huh? Hey, you can't come this far without our leader's permission.
+RU: 
+
+
+-- Section 31
+
+ID: M6090_S0010_G0685_300_resiman
+JP: すまないね。リーダーに話を通さないとダメ、ってルールがあるんだ。
+EN: Sorry. You've got to talk to our leader first. Them's the rules.
+RU: 
+
+
+-- Section 32
+
+ID: M6090_S0010_G0705_300_resiman
+JP: ここは各地のキャンプの中でも特にルールが厳しくてね。\nまずはリーダーの承認を得るところから始めてね。
+EN: The rules here are a lot stricter than the other camps. You have to get the leader's approval before you do anything.
+RU: 
+
+
+-- Section 33
+
+ID: M6090_S0010_G0735_300_resiman
+JP: あー、リーダーはここにはいないよ？
+EN: Oh, our leader isn't here?
+RU: 
+
+
+-- Section 34
+
+ID: M6090_S0010_G0785_300_resiman
+JP: ん？リーダーの許可なくこんなところをウロついちゃダメだぞ？
+EN: Hey, you can't loiter here without our leader's permission.
+RU: 
+
+
+-- Section 35
+
+ID: M6090_S0010_G0805_300_ys
+JP: ああ、新顔さんか。まずはリーダーのアネモネに話を聞くといい。
+EN: Oh, a newcomer? You should you talk to our leader, Anemone.
+RU: 
+
+
+-- Section 36
+
+ID: M6090_S0010_G0455_300_resiwoman
+JP: リーダーはテントの奥にいますよ。
+EN: Our leader's in the back.
+RU: 
+
+

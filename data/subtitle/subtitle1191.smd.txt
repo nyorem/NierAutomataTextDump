@@ -1,0 +1,45 @@
+ID: M3060_S0610_H0000_001_girlA
+JP: 私達には淘汰圧が必要だ。
+EN: We need more evolutionary pressure.
+RU: 
+
+ID: M3060_S0610_H0010_001_girlA
+JP: このアンドロイドを殺さずにおけば……
+EN: If we allow this android to continue living,
+RU: 
+
+ID: M3060_S0610_H0020_001_girlA
+JP: さらなる困難が私達に訪れる。
+EN: we can create even more hardship for ourselves.
+RU: 
+
+ID: M3060_S0610_H0030_001_girlA
+JP: その問題を乗り越える事で、私達はより一層の進化を遂げるだろう。
+EN: Overcoming the crisis this creates will present an opportunity for our kind to evolve even further.
+RU: 
+
+ID: M3060_S0610_H0040_001_girlB
+JP: 賛同しない。このアンドロイドは危険だ。
+EN: We disagree. This android is dangerous.
+RU: 
+
+ID: M3060_S0610_H0050_001_girlB
+JP: この場で破壊してしまう必要がある。
+EN: It must be destroyed immediately.
+RU: 
+
+ID: M3060_S0610_H0060_001_girlA
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S0610_H0070_001_girlA
+JP: 私達の勝利を疑う者は……敵だ。
+EN: Those who would doubt our victory...are enemies.
+RU: 
+
+ID: M3060_S0610_H0080_001_girlB
+JP: ……勝てると思っているのか？
+EN: Do you truly think you can win?
+RU: 
+

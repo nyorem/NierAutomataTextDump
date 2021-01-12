@@ -1,0 +1,189 @@
+-- Section 1
+
+ID: M1080_S0070_G0300_300_n02
+JP: カミになるのだー！
+EN: We shall become gods!
+RU: 
+
+ID: M1080_S0070_G0310_300_n02
+JP: 君達もカミになるのだー！
+EN: You shall also become gods!
+RU: 
+
+ID: M1080_S0070_G0320_300_n02
+JP: 皆で死んで、カミになる！
+EN: Everyone shall die and become gods!
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0070_G0330_300_n02
+JP: カミ！カミ！カミ！カミ！カミ！カミ！
+EN: Gods! Gods! Gods! Gods! Gods!
+RU: 
+
+ID: M1080_S0070_G0340_300_n02
+JP: カミィィイイーー！
+EN: Goooooood!
+RU: 
+
+ID: M1080_S0070_G0350_300_n02
+JP: 機械！人！アンドロイド！皆まとめてカミになるのだー！
+EN: Machines! People! Androids! Every one of them, a god!
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0070_G0360_300_n02
+JP: 何故逃げるのだ！？
+EN: Why do you flee from us!?
+RU: 
+
+ID: M1080_S0070_G0370_300_n02
+JP: カミになれるというのに！
+EN: Don't you see? You can become gods now!
+RU: 
+
+ID: M1080_S0070_G0380_300_n02
+JP: 
+EN: 
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0070_G0400_300_n02
+JP: 嫌だ、お願いだどうか殺さないでくれ……
+EN: No! Please don't kill me!
+RU: 
+
+ID: M1080_S0070_G0410_300_n02
+JP: 喜べ！君達は選ばれた！
+EN: Rejoice! You have all been chosen!
+RU: 
+
+ID: M1080_S0070_G0420_300_n02
+JP: 死んでカミになれるのだ！
+EN: With your death, you will become gods!
+RU: 
+
+ID: M1080_S0070_G0430_300_n02
+JP: 誰か、誰か助けて……
+EN: Somebody help us!
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0070_G0450_300_osoware
+JP: 助けてくれてアリガトウ……
+EN: Thanks for the help...
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0070_G0520_300_osoware
+JP: カミさま、助けて……
+EN: May our God have mercy on us...
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0070_G0460_300_osoware
+JP: アリガトウ、コレはお礼です。
+EN: Thank you. Here, take this.
+RU: 
+
+
+-- Section 8
+
+ID: M1080_S0070_G0530_300_osoware
+JP: 分からナイ、何でこんなコトに……
+EN: Why did this have to happen!?
+RU: 
+
+
+-- Section 9
+
+ID: M1080_S0070_G0470_300_osoware
+JP: 助けて頂き有り難うゴザイマス。\nコレをお受け取り下さい。
+EN: Thank you very much. \nHere is a token of my appreciation.
+RU: 
+
+
+-- Section 10
+
+ID: M1080_S0070_G0540_300_osoware
+JP: ああ、私達はドコで道を誤ったのでしょう……
+EN: Where did we go wrong?
+RU: 
+
+
+-- Section 11
+
+ID: M1080_S0070_G0480_300_osoware
+JP: コレを受け取って下さい……
+EN: Please, take this...
+RU: 
+
+
+-- Section 12
+
+ID: M1080_S0070_G0550_300_osoware
+JP: ……
+EN: ...
+RU: 
+
+
+-- Section 13
+
+ID: M1080_S0070_G0490_300_osoware
+JP: 皆オカシクなってシマッタ……\nアナタもお気をつけて……
+EN: Everyone has gone crazy...\nBe careful out there...
+RU: 
+
+
+-- Section 14
+
+ID: M1080_S0070_G0560_300_osoware
+JP: ナゼ死を望むのだ……
+EN: Why would anyone choose death over life?
+RU: 
+
+
+-- Section 15
+
+ID: M1080_S0070_G0500_300_osoware
+JP: アリガトウ、アリガトウ。
+EN: Thank you, thank you!
+RU: 
+
+
+-- Section 16
+
+ID: M1080_S0070_G0570_300_osoware
+JP: 死にたくナイ、死にたくナイヨ……
+EN: I don't wanna die, I don't wanna die...
+RU: 
+
+
+-- Section 17
+
+ID: M1080_S0070_G0510_300_osoware
+JP: コレ、お礼……
+EN: Here...as a thank you.
+RU: 
+
+
+-- Section 18
+
+ID: M1080_S0070_G0580_300_osoware
+JP: ワカラナイ、何デ仲間を殺すの？
+EN: Why would anyone kill their friends? I don't get it...
+RU: 
+
+

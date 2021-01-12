@@ -1,0 +1,225 @@
+-- Section 1
+
+ID: M1020_S0040_G0230_001_a9s
+JP: あそこに逃げ込んでます！
+EN: There it goes!
+RU: 
+
+
+-- Section 2
+
+ID: M1020_S0040_G0060_300_n02
+JP: シツコイ！ニゲル！ニゲルッ！！
+EN: They don't give up! Run! Run!
+RU: 
+
+ID: M1020_S0040_G0214_001_n02
+JP: ニゲナキャー
+EN: Must! Run!
+RU: 
+
+
+-- Section 3
+
+ID: M1020_S0040_G0090_300_a9s
+JP: この先に多数の機械生命体反応を確認。
+EN: Multiple machines detected ahead.
+RU: 
+
+ID: M1020_S0040_G0100_300_a9s
+JP: でも、このアンドロイドの死体は一体……
+EN: But what's with these android bodies...?
+RU: 
+
+ID: M1020_S0040_G0110_300_a2b
+JP: 注意して進もう。
+EN: Stay focused.
+RU: 
+
+
+-- Section 4
+
+ID: M1020_S0040_G0250_001_n02
+JP: コドモ　コドモ　コドモ
+EN: Child. Child. Child.
+RU: 
+
+
+-- Section 5
+
+ID: M1020_S0040_G0260_001_a2b
+JP: 何だ……これは。
+EN: What IS this?
+RU: 
+
+ID: M1020_S0040_G0270_001_n02
+JP: ダイスキ　ダイスキ
+EN: My. Love. My. Love.
+RU: 
+
+ID: M1020_S0040_G0280_001_a9s
+JP: ２Ｂ……耳を貸しちゃダメです。
+EN: Don't listen to them, 2B.
+RU: 
+
+
+-- Section 6
+
+ID: M1020_S0040_G0290_001_n02
+JP: イッショニイヨウ　イッショニイヨウ。
+EN: Together. Forever. Together. Forever.
+RU: 
+
+ID: M1020_S0040_G0300_001_n02
+JP: ダッコ　ダッコ
+EN: Carry. Me. Carryyyy.
+RU: 
+
+
+-- Section 7
+
+ID: M1020_S0040_G0310_001_a9s
+JP: こいつらに心なんか無い。
+EN: They don't have any feelings.
+RU: 
+
+ID: M1020_S0040_G0320_001_a9s
+JP: ただ、人間の言葉を真似してるだけだよ……
+EN: They're just imitating human speech.
+RU: 
+
+ID: M1020_S0040_G0330_001_a9s
+JP: 破壊しましょう。
+EN: Let's take them out.
+RU: 
+
+
+-- Section 8
+
+ID: M1020_S0040_G0340_001_n02
+JP: オッパイ
+EN: Feed. Me!
+RU: 
+
+ID: M1020_S0040_G0350_001_n02
+JP: スキ　スキ　スキ　スキ
+EN: Love. Love. Love. Love.
+RU: 
+
+
+-- Section 9
+
+ID: M1020_S0040_G0070_300_n02
+JP: ヤッテヤルッ！！
+EN: I'll get you for this!
+RU: 
+
+
+-- Section 10
+
+ID: M1020_S0040_G0351_001_n02
+JP: アンドロイド　コロス！
+EN: Kill the androids!
+RU: 
+
+ID: M1020_S0040_G0352_001_n02
+JP: コロス！　コワス！
+EN: Kill! Destroy!
+RU: 
+
+ID: M1020_S0040_G0353_001_n02
+JP: アイシテル！　コロス！
+EN: I love you! Kill!
+RU: 
+
+ID: M1020_S0040_G0354_001_n02
+JP: ウラミ！　ツラミ！
+EN: Hatred! Pain!
+RU: 
+
+ID: M1020_S0040_G0355_001_n02
+JP: ブチコワス！
+EN: Slaughter!
+RU: 
+
+
+-- Section 11
+
+ID: M1020_S0040_G0360_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+
+-- Section 12
+
+ID: M1020_S0040_G0370_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+
+-- Section 13
+
+ID: M1020_S0040_G0380_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+
+-- Section 14
+
+ID: M1020_S0040_G0360_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+
+-- Section 15
+
+ID: M1020_S0040_G0370_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+
+-- Section 16
+
+ID: M1020_S0040_G0380_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+
+-- Section 17
+
+ID: M1020_S0040_G0360_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+
+-- Section 18
+
+ID: M1020_S0040_G0370_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+
+-- Section 19
+
+ID: M1020_S0040_G0360_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+
+-- Section 20
+
+ID: M1020_S0040_G0370_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: 
+
+

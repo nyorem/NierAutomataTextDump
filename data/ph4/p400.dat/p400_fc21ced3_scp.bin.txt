@@ -1,0 +1,51 @@
+-- Section 1
+
+ID: M5095_S0080_G0000_001_announce
+JP: プラトンモデル１７２８号機。
+EN: Plato Model No. 1728.
+RU: 
+
+ID: M5095_S0080_G0010_001_announce
+JP: 起動を許可シマス。
+EN: Activation approved.
+RU: 
+
+ID: M5095_S0080_G0020_001_announce
+JP: 3……2……1……
+EN: 3... 2... 1...
+RU: 
+
+ID: M5095_S0080_G0030_001_announce
+JP: プラトン起動。
+EN: Activating Plato.
+RU: 
+
+ID: M5095_S0080_G0040_001_announce
+JP: プラトン起動を確認シマシた。
+EN: Activation of Plato confirmed.
+RU: 
+
+ID: M5095_S0080_G0050_001_announce
+JP: 運動機能試験の為、速やかにルーム18に向カッテ下サイ。
+EN: Head to Room 18 immediately for your motor functions examination.
+RU: 
+
+ID: M5095_S0080_G0060_001_announce
+JP: 以上。
+EN: That is all.
+RU: 
+
+
+-- Section 2
+
+ID: M6150_S0140_G0000_001_badR
+JP: ナンダ誰カト思ったらプラトン１７２８か、今日ハ運動機能試験ダロ。
+EN: Hey, Plato 1728. Shouldn't you be taking your motor function examination right now?
+RU: 
+
+ID: M6150_S0140_G0010_001_badR
+JP: 試験場ならこの先ヲ行った所ダロ、遂ニ記憶領域マデも壊レタノカ？
+EN: The test site is up ahead, you know that, right? Are your memories corrupted or something?
+RU: 
+
+

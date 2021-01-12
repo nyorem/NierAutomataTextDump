@@ -1,0 +1,216 @@
+-- Section 1
+
+ID: M3030_S0160_G0100_300_pod042
+JP: 確認：ハッキングによる記憶回路の切断を実行。
+EN: Initiating hacking to cut off memory circuits.
+RU: 
+
+ID: M3030_S0160_G0110_300_a2
+JP: 待て……
+EN: Wait...
+RU: 
+
+ID: M3030_S0160_G0120_300_a2
+JP: ああ…頼む……
+EN: Right... Do it.
+RU: 
+
+
+-- Section 2
+
+ID: M3030_S0133_S0000_001_pascal
+JP: 大丈夫ですか？Ａ２さん。
+EN: Are you all right, A2?
+RU: 
+
+ID: M3030_S0133_S0010_001_a2
+JP: ああ……助かった。
+EN: Yeah. Thanks for the assist.
+RU: 
+
+ID: M3030_S0140_G0000_001_pascal
+JP: 子供達が心配です……部屋に戻りましょう。
+EN: I fear for the children. Let us hurry to them!
+RU: 
+
+
+-- Section 3
+
+ID: M3030_S0140_G0000_001_pascal
+JP: 子供達が心配です……部屋に戻りましょう。
+EN: I fear for the children. Let us hurry to them!
+RU: 
+
+
+-- Section 4
+
+ID: M3030_S0160_G0000_001_a2
+JP: 自分達のコアを……
+EN: Their own cores...?
+RU: 
+
+ID: M3030_S0160_G0010_001_a2
+JP: これは……自殺……
+EN: They...killed themselves.
+RU: 
+
+ID: M3030_S0160_G0020_001_pascal
+JP: こんな……こんな事になるなんて……
+EN: How...how could this happen...?
+RU: 
+
+ID: M3030_S0160_G0030_001_a2
+JP: 何で……何でこんな事に……
+EN: Why...Why would they do such a thing?
+RU: 
+
+ID: M3030_S0160_G0040_001_pascal
+JP: 私は……様々な感情と知識を、この子達に教えてきました。
+EN: I taught them everything... All my thoughts and emotions.
+RU: 
+
+ID: M3030_S0160_G0050_001_pascal
+JP: それが、将来の役に立つと思って……
+EN: I thought it would serve them well in the future. But instead...
+RU: 
+
+ID: M3030_S0160_G0060_001_a2
+JP: 知識を与えるだけで、何で自殺を……
+EN: How would teaching them lead to something like this?
+RU: 
+
+ID: M3030_S0160_G0070_001_pascal
+JP: 『恐怖』です……
+EN: Fear...
+RU: 
+
+ID: M3030_S0160_G0080_001_a2
+JP: 恐怖……？
+EN: I don't understand.
+RU: 
+
+ID: M3030_S0160_G0090_001_pascal
+JP: 私は、この子たちに『怖い』という感情を教えたのです。
+EN: I taught the children what fear is.
+RU: 
+
+ID: M3030_S0160_G0100_001_pascal
+JP: 恐怖を知らなければ、無謀な事で命を落としてしまいます。
+EN: I felt they had to know so they wouldn't rush heedlessly into danger.
+RU: 
+
+ID: M3030_S0160_G0110_001_pascal
+JP: でも……でも……
+EN: But...instead...
+RU: 
+
+ID: M3030_S0160_G0120_001_a2
+JP: その、恐怖に押しつぶされて……自らの命を……
+EN: Fear destroyed them. It caused them to take their own lives.
+RU: 
+
+ID: M3030_S0160_G0130_001_pascal
+JP: こんな事なら……あの子達に……
+EN: If I knew this could happen, I never would have...
+RU: 
+
+
+-- Section 5
+
+ID: M3030_S0160_G0140_001_pascal
+JP: お願いが……あります……
+EN: A2? I need your aid.
+RU: 
+
+ID: M3030_S0160_G0150_001_pascal
+JP: この……苦痛に私は耐えられません……
+EN: I...I cannot live with this heartbreak inside me.
+RU: 
+
+ID: M3030_S0160_G0160_001_pascal
+JP: 私の……
+EN: I need you...
+RU: 
+
+ID: M3030_S0160_G0170_001_pascal
+JP: 私の記憶を消去していただけないでしょうか？
+EN: I need you to delete my memories.
+RU: 
+
+ID: M3030_S0160_G0180_001_pascal
+JP: さもなくば、私を……殺してください。
+EN: And if not, then I need you to kill me.
+RU: 
+
+
+-- Section 6
+
+ID: M3030_S0160_G0130_300_pascal
+JP: Ａ２さん、まさかこのまま置いて行く気ですか？
+EN: A2? You aren't...leaving me like this, are you?
+RU: 
+
+ID: M3030_S0160_G0140_300_pascal
+JP: お願いします…どうか私をッ！
+EN: Please... You have to end this for me!
+RU: 
+
+
+-- Section 7
+
+ID: M3030_S0160_G0210_001_pascal
+JP: 貴方を恨みます……Ａ２さん。
+EN: How...how could you...A2...
+RU: 
+
+
+-- Section 8
+
+ID: M3030_S0160_G0190_001_pascal
+JP: あり……がとう……
+EN: Thank...you...
+RU: 
+
+
+-- Section 9
+
+ID: M3030_S0160_G0201_001_a2
+JP: ポッド……パスカルの記憶を……
+EN: Pod, Pascal's memories...
+RU: 
+
+ID: M3030_S0160_G0202_001_pod042
+JP: 了解。記憶消去プロセス開始。
+EN: Understood. Initiating memory deletion procedure.
+RU: 
+
+
+-- Section 10
+
+ID: M3030_S0160_G0205_001_pod042
+JP: 記憶消去終了。再起動タイマーをセット完了。
+EN: Memory deletion complete. Reset timer activated.
+RU: 
+
+ID: M3030_S0160_G0206_001_a2
+JP: パスカル……
+EN: Pascal...
+RU: 
+
+
+-- Section 11
+
+ID: M3030_S0160_G0000_300_a2
+JP: パスカルを置いてはいけない……
+EN: I can't leave Pascal by himself...
+RU: 
+
+
+-- Section 12
+
+ID: M3030_S0160_G0150_001_pascal
+JP: この……苦痛に私は耐えられません……
+EN: I...I cannot live with this heartbreak inside me.
+RU: 
+
+

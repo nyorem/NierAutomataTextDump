@@ -1,0 +1,50 @@
+-- Section 1
+
+ID: M5092_S0010_G0000_001_robomask
+JP: 汝は試練への挑戦を望む者か？
+EN: Come you here to challenge the trials?
+RU: 
+
+ID: M5092_S0010_G0010_001_sele
+JP: はい。
+EN: Indeed.
+RU: 
+
+ID: M5092_S0010_G0020_001_sele
+JP: いいえ。
+EN: Not really.
+RU: 
+
+
+-- Section 2
+
+ID: M5092_S0010_G0030_001_robomask
+JP: ならば立ち去るがよい。
+EN: Then begone!
+RU: 
+
+
+-- Section 3
+
+ID: M5092_S0010_G0040_001_robomask
+JP: ならば迎えよう。
+EN: Then enter and be welcome.
+RU: 
+
+
+-- Section 4
+
+ID: M5092_S0010_G0045_001_robomask
+JP: 我らが王よ。この先で皆が待っている。
+EN: Your Majesty! Everyone is waiting for you up ahead.
+RU: 
+
+
+-- Section 5
+
+ID: M5092_S0010_G0041_001_robomask
+JP: 試練を望むならばそこのエレベーターに乗るがいい……
+EN: If you wish to partake in the trials, please get on the elevator over there.
+RU: 
+
+

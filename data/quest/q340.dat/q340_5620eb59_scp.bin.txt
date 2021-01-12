@@ -1,0 +1,403 @@
+-- Section 1
+
+ID: M5340_S0010_G0000_001_resiwoman
+JP: うーん……
+EN: Hmm...
+RU: 
+
+ID: M5340_S0010_G0010_001_a9s
+JP: どうかしたんですか？
+EN: Is something wrong?
+RU: 
+
+ID: M5340_S0010_G0020_001_resiwoman
+JP: ……ああ貴方達、ヨルハの人？
+EN: You're from YoRHa, right? I don't suppose you'd...
+RU: 
+
+ID: M5340_S0010_G0030_001_resiwoman
+JP: 最近、機械生命体との小競り合いがあって、それ以来調子が悪くてね……
+EN: The thing is, I recently came out on the losing end of a scuffle with some machine lifeforms.
+RU: 
+
+ID: M5340_S0010_G0040_001_resiwoman
+JP: 記憶領域が欠けてて、いろいろ面倒なんだよ。
+EN: The battle ended up corrupting a portion of my memory—which is a serious pain, as I'm sure you can imagine.
+RU: 
+
+ID: M5340_S0010_G0050_001_resiwoman
+JP: 今も、この写真がどこで撮った何の写真かわからなくてね……
+EN: Take these photographs, for instance. I have no idea when they were taken, or even what they are. I only know that they're...important.
+RU: 
+
+
+-- Section 2
+
+ID: M5340_S0010_G0100_001_resiwoman
+JP: この写真がどこで撮った物か……情報が欲しいの。
+EN: I need to know where these photographs were taken...
+RU: 
+
+ID: M5340_S0010_G0070_001_sele
+JP: 記憶回復を手伝う。
+EN: Help her recover her memories.
+RU: 
+
+ID: M5340_S0010_G0080_001_sele
+JP: 記憶回復を手伝わない。
+EN: Turn her down.
+RU: 
+
+
+-- Section 3
+
+ID: M5340_S0010_G0110_001_resiwoman
+JP: ありがとう！
+EN: Thank you so much.
+RU: 
+
+ID: M5340_S0010_G0120_001_resiwoman
+JP: もし、私の撮影した場所を見つけたら位置座標を教えて。
+EN: If you find the location shown in any of these photos, please send me the coordinates.
+RU: 
+
+ID: M5340_S0010_G0130_001_resiwoman
+JP: 何か思い出せるかもしれない……
+EN: Hopefully that will help me recover my missing memories.
+RU: 
+
+ID: M5340_S0010_G0140_001_a9s
+JP: わかりました。もし見つけたらお知らせしますね。
+EN: We'll let you know if we find anything.
+RU: 
+
+ID: M5340_S0010_G0150_001_resiwoman
+JP: お願いするね。
+EN: Thank you.
+RU: 
+
+
+-- Section 4
+
+ID: M5340_S0010_G0090_001_resiwoman
+JP: そう……また、気が向いたら声かけてね。
+EN: Oh. Well, I understand. Feel free to stop by later if you manage to free up some time.
+RU: 
+
+
+-- Section 5
+
+ID: M5340_S0010_G0060_001_resiwoman
+JP: もしこの場所の詳細情報を知ってたら教えてくれない？
+EN: I recognize that you're busy, but if you have the time to help me out, I'd appreciate it.
+RU: 
+
+ID: M5340_S0010_G0070_001_sele
+JP: 記憶回復を手伝う。
+EN: Help her recover her memories.
+RU: 
+
+ID: M5340_S0010_G0080_001_sele
+JP: 記憶回復を手伝わない。
+EN: Turn her down.
+RU: 
+
+
+-- Section 6
+
+ID: M5340_S0010_G0110_001_resiwoman
+JP: ありがとう！
+EN: Thank you so much.
+RU: 
+
+ID: M5340_S0010_G0120_001_resiwoman
+JP: もし、私の撮影した場所を見つけたら位置座標を教えて。
+EN: If you find the location shown in any of these photos, please send me the coordinates.
+RU: 
+
+ID: M5340_S0010_G0130_001_resiwoman
+JP: 何か思い出せるかもしれない……
+EN: Hopefully that will help me recover my missing memories.
+RU: 
+
+ID: M5340_S0010_G0140_001_a9s
+JP: わかりました。もし見つけたらお知らせしますね。
+EN: We'll let you know if we find anything.
+RU: 
+
+ID: M5340_S0010_G0150_001_resiwoman
+JP: お願いするね。
+EN: Thank you.
+RU: 
+
+
+-- Section 7
+
+ID: M5340_S0010_G0090_001_resiwoman
+JP: そう……また、気が向いたら声かけてね。
+EN: Oh. Well, I understand. Feel free to stop by later if you manage to free up some time.
+RU: 
+
+
+-- Section 8
+
+ID: M5340_S0020_G0000_001_a9s
+JP: この写真の場所か……
+EN: Hmm... These places look familiar...
+RU: 
+
+ID: M5340_S0020_G0010_001_a9s
+JP: 遊園地廃墟と、砂漠のどこか、後は森のあたりかな……
+EN: One looks like the amusement park, one looks like the desert, and one looks like the forest...
+RU: 
+
+ID: M5340_S0020_G0020_001_a9s
+JP: ちょっと探してみましょう。
+EN: Let's keep our eyes open next time we're in any of those areas.
+RU: 
+
+
+-- Section 9
+
+ID: M5340_S0040_G0005_300_telo
+JP: 砂漠の写真を渡した
+EN: Handed over the desert photo
+RU: 
+
+ID: M5340_S0040_G0000_001_resiwoman
+JP: ああ、この写真は。
+EN: Oh! This photo...
+RU: 
+
+ID: M5340_S0040_G0010_001_resiwoman
+JP: 気温が高くて大変だった時に見つけたんだっけ。
+EN: I can still feel the intense heat beating down on me...
+RU: 
+
+ID: M5340_S0040_G0020_001_resiwoman
+JP: 一緒に、誰か居た気がするけど……
+EN: Was I...with someone?
+RU: 
+
+
+-- Section 10
+
+ID: M5340_S0040_G0055_300_telo
+JP: 遊園地の写真を渡した
+EN: Handed over the amusement park photo
+RU: 
+
+ID: M5340_S0040_G0060_001_resiwoman
+JP: この座標……遊園地の廃墟……
+EN: This is from the amusement park...
+RU: 
+
+ID: M5340_S0040_G0070_001_resiwoman
+JP: ここは……一緒に遊んだ記憶がある。
+EN: I remember having fun there...together.
+RU: 
+
+ID: M5340_S0040_G0080_001_resiwoman
+JP: 遊んだ……？
+EN: ..."Together"?
+RU: 
+
+
+-- Section 11
+
+ID: M5340_S0040_G0025_300_telo
+JP: 森の写真を渡した
+EN: Handed over the forest photo
+RU: 
+
+ID: M5340_S0040_G0030_001_resiwoman
+JP: 森林エリアにある滝だったんだ……
+EN: This was a waterfall in the forest...
+RU: 
+
+ID: M5340_S0040_G0040_001_resiwoman
+JP: ここは迷子になって迷い込んだ気がする。
+EN: I think I stumbled onto it one day when I was lost.
+RU: 
+
+ID: M5340_S0040_G0050_001_resiwoman
+JP: どうやって行ったんだっけ……？
+EN: But how did I get there in the first place...?
+RU: 
+
+
+-- Section 12
+
+ID: M5340_S0010_G0160_001_resiwoman
+JP: お願いした写真の位置座標がわかったら教えて……お願いね。
+EN: If you find the location shown in any of these photos, please send me the coordinates.
+RU: 
+
+
+-- Section 13
+
+ID: M5340_S0020_G0080_300_telo
+JP: 砂漠の写真を記録した
+EN: Desert photo recorded
+RU: 
+
+
+-- Section 14
+
+ID: M5340_S0020_G0045_300_telo
+JP: 遊園地の写真を記録した
+EN: Amusement park photo recorded
+RU: 
+
+
+-- Section 15
+
+ID: M5340_S0020_G0090_300_telo
+JP: 森の写真を記録した
+EN: Forest photo recorded
+RU: 
+
+
+-- Section 16
+
+ID: M5340_S0020_G0030_001_a9s
+JP: あ、この場所……あの女性にお願いされた写真の場所じゃないですか？
+EN: Hold on... This is one of the places in that Resistance member's photographs.
+RU: 
+
+ID: M5340_S0020_G0040_001_a9s
+JP: 座標を記録しておきましょう。
+EN: Better record the coordinates.
+RU: 
+
+
+-- Section 17
+
+ID: M5340_S0020_G0050_001_a9s
+JP: ここ、見覚えがありますね……
+EN: This place looks familiar...
+RU: 
+
+ID: M5340_S0020_G0060_001_a9s
+JP: この写真と同じ場所です。
+EN: Oh, right! It's from that woman's photograph!
+RU: 
+
+ID: M5340_S0020_G0070_001_a9s
+JP: レジスタンスの女性に座標を伝えましょう。
+EN: I'll be sure to get her the coordinates...
+RU: 
+
+
+-- Section 18
+
+ID: M5340_S0030_G0000_001_a9s
+JP: これで、依頼されてた写真の位置座標は全部集まりましたね。
+EN: Okay. That's all the coordinates that Resistance member wanted.
+RU: 
+
+
+-- Section 19
+
+ID: M5340_S0030_G0010_001_a9s
+JP: でも……どうしてこんな写真の場所が知りたいんでしょう。
+EN: I'll be honest though—I don't quite get why she cares about these particular photos.
+RU: 
+
+ID: M5340_S0030_G0020_001_a2b
+JP: どんな人にも大切な記憶はある。
+EN: Everyone has memories that are precious for one reason or another.
+RU: 
+
+ID: M5340_S0030_G0030_001_a2b
+JP: その価値を決めるのは私達じゃない。
+EN: It's not for us to judge their value.
+RU: 
+
+ID: M5340_S0030_G0040_001_a2b
+JP: 他人にわからなくても、きっとこれは……必要な情報。
+EN: They're important to her; that's all we need to know.
+RU: 
+
+ID: M5340_S0030_G0050_001_a9s
+JP: そうですね……
+EN: Yeah, I guess...
+RU: 
+
+
+-- Section 20
+
+ID: M5340_S0040_G0100_001_resiwoman
+JP: ……
+EN: ......
+RU: 
+
+ID: M5340_S0040_G0110_001_resiwoman
+JP: 全部思い出した……
+EN: Now I remember.
+RU: 
+
+ID: M5340_S0040_G0120_001_resiwoman
+JP: この写真は……私の恋人からのデータ。
+EN: These aren't just photos. They're bits of data from my beloved.
+RU: 
+
+ID: M5340_S0040_G0130_001_resiwoman
+JP: ８年前の戦闘。彼と私は機械生命体に囲まれて窮地に陥ったの。
+EN: Eight years ago, we were attacked by machines and fought a pitched battle.
+RU: 
+
+ID: M5340_S0040_G0140_001_resiwoman
+JP: 彼は死に、私も記憶を失った。
+EN: My love was killed, and many of my memories were lost.
+RU: 
+
+ID: M5340_S0040_G0150_001_resiwoman
+JP: これは、戦闘の中で、彼が最後に遺してくれたメッセージ。
+EN: This must have been his final message for me.
+RU: 
+
+ID: M5340_S0040_G0160_001_resiwoman
+JP: ありがとう。思い出せて良かった……
+EN: ...Thank you. You have no idea what this means to me.
+RU: 
+
+ID: M5340_S0040_G0170_001_resiwoman
+JP: これ、少ないけどお礼ね。
+EN: I know it's not much, but please take this.
+RU: 
+
+
+-- Section 21
+
+ID: M5340_S0040_G0180_001_resiwoman
+JP: 私も、死のうかと思ったけど……
+EN: Honestly, I've been thinking a lot recently about whether it's worth it to continue living.
+RU: 
+
+ID: M5340_S0040_G0190_001_resiwoman
+JP: このデータが、私に『生き残れ』っていうの。
+EN: This data is telling me that I need to continue on.
+RU: 
+
+ID: M5340_S0040_G0200_001_resiwoman
+JP: でも……彼の居ない世界に何の意味があるの？
+EN: And yet, what's the point of a world where my love is gone?
+RU: 
+
+ID: M5340_S0040_G0210_001_resiwoman
+JP: 生きてる意味って……
+EN: What's the point of living...?
+RU: 
+
+ID: M5340_S0040_G0220_001_resiwoman
+JP: ……
+EN: ......
+RU: 
+
+ID: M5340_S0040_G0230_001_a2b
+JP: ……行こう。９Ｓ。
+EN: Come on, 9S. Let's go.
+RU: 
+
+

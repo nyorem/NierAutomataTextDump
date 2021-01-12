@@ -1,0 +1,8 @@
+-- Section 1
+
+ID: M1090_S0260_G0080_001_a9s
+JP: イヴにハッキングして停止させてみる！
+EN: I'm going to try hacking into Eve and shutting him down!
+RU: 
+
+

@@ -1,0 +1,25 @@
+ID: M3000_S0426_H0000_001_cmd
+JP: ……２Ｂ、９Ｓ、貴様達をウィルス汚染の疑いで拘束する。
+EN: 2B... 9S... You're being detained under suspicion of virus contamination.
+RU: 
+
+ID: M3000_S0426_H0010_001_a9s
+JP: 待ってくださいッ！！
+EN: Wait a minute!
+RU: 
+
+ID: M3000_S0426_H0020_001_op60
+JP: ふふふ……正解ー！
+EN: Eee hee hee! Bingooooo!
+RU: 
+
+ID: M3000_S0426_H0030_001_a9s
+JP: 汚染！？
+EN: They're...infected!?
+RU: 
+
+ID: M3000_S0426_H0040_001_a2b
+JP: 司令官ッ！！退避します！！
+EN: Commander? We have to go.
+RU: 
+

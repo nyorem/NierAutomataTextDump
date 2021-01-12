@@ -1,0 +1,206 @@
+-- Section 1
+
+ID: M5910_S0300_G0000_001_a2
+JP: 機械生命体だらけ……
+EN: There's machines everywhere...
+RU: 
+
+ID: M5910_S0300_G0010_001_pod042
+JP: ここはパスカルの管理する平和的な機械生命体のコロニー。
+EN: Analysis: This is a colony of pacifistic machine lifeforms led by the unit known as Pascal.
+RU: 
+
+ID: M5910_S0300_G0020_001_pod042
+JP: 機械生命体が多数存在するのは予測の範囲内。
+EN: It is logical for a large number of machine lifeforms to be present.
+RU: 
+
+ID: M5910_S0300_G0030_001_pod042
+JP: 疑問：ヨルハ機体Ａ２の予測能力。
+EN: This Pod has concerns regarding YoRHa unit A2's predictive skills.
+RU: 
+
+ID: M5910_S0300_G0040_001_a2
+JP: そのうち、ブッ壊す……
+EN: I'd be more concerned about me smashing your face if I were you.
+RU: 
+
+
+-- Section 2
+
+ID: M5910_S0300_G0050_001_pascal
+JP: ああ、あの時の！
+EN: Ah! It's the woman from before!
+RU: 
+
+ID: M5910_S0300_G0060_001_pascal
+JP: 助けていただき、本当にありがとうございました。
+EN: Thank you again for rescuing me.
+RU: 
+
+ID: M5910_S0300_G0070_001_a2
+JP: ……
+EN: ......
+RU: 
+
+ID: M5910_S0300_G0080_001_pascal
+JP: それで……何の御用でしょうか？
+EN: Now then! How can I help you?
+RU: 
+
+ID: M5910_S0300_G0090_001_a2
+JP: …………
+EN: ......
+RU: 
+
+ID: M5910_S0300_G0100_001_pascal
+JP: あの……
+EN: Um...
+RU: 
+
+ID: M5910_S0300_G0110_001_pod042
+JP: 説明：ヨルハ機体Ａ２の燃料用濾過フィルターに不具合。
+EN: Summary: YoRHa unit A2 possesses a faulty fuel filter.
+RU: 
+
+ID: M5910_S0300_G0120_001_pod042
+JP: 経過：レジスタンスキャンプのリーダーアネモネより情報を入手。
+EN: She has obtained information from Anemone, leader of the Resistance camp.
+RU: 
+
+ID: M5910_S0300_G0130_001_pod042
+JP: 目的：当地区のフィルターを入手する為に来訪。
+EN: She has traveled to this village in order to obtain a new filter. End summary.
+RU: 
+
+ID: M5910_S0300_G0140_001_pod042
+JP: 要求：燃料用濾過フィルター。
+EN: Request: One functional fuel filter.
+RU: 
+
+ID: M5910_S0300_G0150_001_a2
+JP: 全部説明するな。
+EN: Do you really need to spell it all out like that?
+RU: 
+
+ID: M5910_S0300_G0160_001_pod042
+JP: 報告：Ａ２の発言不足によるコミュニケーション不足。
+EN: Analysis: A2's lack of verbal communication made this Pod's assistance necessary.
+RU: 
+
+ID: M5910_S0300_G0170_001_a2
+JP: うるさい。
+EN: Shut. Up.
+RU: 
+
+ID: M5910_S0300_G0180_001_pascal
+JP: ああ、なるほど。そういう事ですか。
+EN: Ah, I see, I see.
+RU: 
+
+ID: M5910_S0300_G0190_001_pascal
+JP: ただ、今は材料が無くて……
+EN: Sadly, I'm a bit short on materials right now.
+RU: 
+
+ID: M5910_S0300_G0200_001_pascal
+JP: フィルターを作るには『剛性植物の樹皮』が必要なんですが、\n採取エリア近くに凶暴な機械生命体がいるんです。
+EN: I need rigid tree bark to create a filter, but the only location I know of is guarded by ferocious machine lifeforms.
+RU: 
+
+ID: M5910_S0300_G0210_001_pascal
+JP: 申し訳ありませんが、今は作る事が出来ません。
+EN: I apologize, but I'm afraid I can't make a filter at the moment.
+RU: 
+
+ID: M5910_S0300_G0220_001_pod042
+JP: 了解：『剛性植物の樹皮』の確保と輸送。
+EN: Confirmation: Unit A2 will secure and deliver rigid tree bark.
+RU: 
+
+ID: M5910_S0300_G0230_001_a2
+JP: 何勝手に了解してるんだ……
+EN: Don't confirm that by yourself!
+RU: 
+
+
+-- Section 3
+
+ID: M5910_S0300_G0240_001_pascal
+JP: フィルターを作るには『剛性植物の樹皮』が必要なんですが、\n今は採りに行けなくて……
+EN: I need some rigid tree bark to create a filter, but I can't fetch any at the moment.
+RU: 
+
+
+-- Section 4
+
+ID: M5910_S0310_G0060_001_a2
+JP: 持ってきたぞ。
+EN: Here's your stuff.
+RU: 
+
+ID: M5910_S0310_G0070_001_pascal
+JP: ああ、Ａ２さん。ありがとうございます。
+EN: Ah! Thank you so much.
+RU: 
+
+ID: M5910_S0310_G0080_001_pascal
+JP: 今からフィルターを作って来ますので、待っててください！
+EN: I'll make a filter right away. Please just give me one moment.
+RU: 
+
+ID: M5910_S0310_G0090_001_a2
+JP: 飛んだ……
+EN: He can fly?
+RU: 
+
+ID: M5910_S0310_G0100_001_pod042
+JP: パスカルの帰還を確認。
+EN: Alert: The machine lifeform Pascal has returned.
+RU: 
+
+ID: M5910_S0310_G0110_001_a2
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 5
+
+ID: M5910_S0310_G0000_001_pod042
+JP: 『剛性植物の樹皮』の採取可能な場所をマーク。
+EN: Areas where rigid tree bark is available marked on map.
+RU: 
+
+ID: M5910_S0310_G0010_001_a2
+JP: ……クソッ。
+EN: Goddammit...
+RU: 
+
+
+-- Section 6
+
+ID: M5910_S0310_G0020_001_pod042
+JP: 報告：平和的機械生命体であるパスカルへの敵意は\nコスト的に無意味と判断。
+EN: Analysis: Hostility toward the peaceful machine lifeform Pascal is pointless from an energy-usage standpoint.
+RU: 
+
+ID: M5910_S0310_G0030_001_pod042
+JP: 推奨：早急な友好関係の締結。
+EN: Proposal: Form a friendly relationship immediately.
+RU: 
+
+ID: M5910_S0310_G0040_001_a2
+JP: 友好？……冗談じゃない。
+EN: You have GOT to be kidding me.
+RU: 
+
+
+-- Section 7
+
+ID: M5910_S0310_G0050_001_a2
+JP: あの機械生命体の所に行くか……
+EN: Guess I'll go back to that machine...
+RU: 
+
+

@@ -1,0 +1,69 @@
+-- Section 1
+
+ID: M3010_S0040_G0000_001_pod042
+JP: 砂漠地帯用に進化した機械生命体と推測。
+EN: It appears to be a machine lifeform that has adapted to the desert environment.
+RU: 
+
+ID: M3010_S0040_G0010_001_pod042
+JP: 推奨：敵機械生命体の破壊。
+EN: Proposal: Destroy the enemy machine.
+RU: 
+
+ID: M3010_S0040_G0020_001_a2
+JP: 言われなくても！
+EN: Yeah, that's REAL helpful!
+RU: 
+
+
+-- Section 2
+
+ID: M3010_S0040_G0030_001_a2
+JP: クソッ……固いな。
+EN: Damn! He's tough.
+RU: 
+
+ID: M3010_S0040_G0040_001_a2
+JP: Ｂモードで倒すか……
+EN: Time to bust out B-Mode.
+RU: 
+
+ID: M3010_S0040_G0050_001_pod042
+JP: 警告：核融合ユニットの出力を増大させるＢモードは危険。
+EN: Alert: The use of B-Mode to increase nuclear fusion output carries unacceptable levels of risk.
+RU: 
+
+ID: M3010_S0040_G0060_001_pod
+JP: 攻撃力は増大するが防御力は低下し、メンテナンスコストも増大する。
+EN: Any offensive boost is offset by lowered defense and increased maintenance costs.
+RU: 
+
+ID: M3010_S0040_G0070_001_pod
+JP: その証として、最新型のモデルからは機能削除されている。
+EN: The feature was removed from newer models for this reason.
+RU: 
+
+ID: M3010_S0040_G0080_001_a2
+JP: 旧型モデルで悪かったな。
+EN: Guess it's too bad I'm not a newer model.
+RU: 
+
+
+-- Section 3
+
+ID: M3010_S0040_G0090_001_pod042
+JP: ヨルハ機体Ａ２のような旧型のアタッカーモデルには射撃機能はない。
+EN: Older attacker models such as the YoRHa A2 are not equipped with ranged weaponry.
+RU: 
+
+ID: M3010_S0040_G0100_001_pod042
+JP: 推奨：遠距離攻撃手段を持つ本随行支援ユニットに対する感謝の提示。
+EN: Proposal: Unit A2 should take advantage of her support Pod, which is equipped with helpful long-range attack features.
+RU: 
+
+ID: M3010_S0040_G0110_001_a2
+JP: 恩着せがましい……
+EN: Don't patronize me.
+RU: 
+
+

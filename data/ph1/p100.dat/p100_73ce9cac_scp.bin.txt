@@ -1,0 +1,175 @@
+-- Section 1
+
+ID: M1030_S0400_G0001_001_a2b
+JP: 助けてくれて、ありがとう。
+EN: Thanks for the assist.
+RU: 
+
+ID: M1030_S0400_G0002_001_a9s
+JP: あ、ハッキングの事ですか？
+EN: Oh, you mean the hacking? No worries.
+RU: 
+
+ID: M1030_S0400_G0003_001_a9s
+JP: 僕達スキャナーモデルにとってハッキングは得意分野です。
+EN: Us scanners are pretty good at that kind of thing.
+RU: 
+
+ID: M1030_S0400_G0004_001_a9s
+JP: いつでも援護しますよ。
+EN: I've got your back anytime.
+RU: 
+
+
+-- Section 2
+
+ID: M1030_S0400_G0000_001_a2b
+JP: アンドロイド達を助けないと……
+EN: We have to save those androids.
+RU: 
+
+
+-- Section 3
+
+ID: M1030_S0400_G0010_001_a9s
+JP: ……だめです。回路が全部焼き切れてます。
+EN: I'm sorry, 2B. Their circuits are fried.
+RU: 
+
+ID: M1030_S0400_G0020_001_a9s
+JP: 敵のシステムによってかろうじて生き延びていただけみたいですね……
+EN: I think they were only being kept alive by that enemy.
+RU: 
+
+ID: M1030_S0400_G0030_001_a2b
+JP: ……そう。
+EN: ...Oh.
+RU: 
+
+
+-- Section 4
+
+ID: M1030_S0400_G0040_001_a9s
+JP: ねぇ……２Ｂ。
+EN: So, um...
+RU: 
+
+
+-- Section 5
+
+ID: M1030_S0400_G0050_001_a2b
+JP: 何？
+EN: What is it?
+RU: 
+
+ID: M1030_S0400_G0060_001_a9s
+JP: あの機械生命体、何だか不思議な事を言ってました。
+EN: That machine had some pretty weird things to say, huh?
+RU: 
+
+ID: M1030_S0400_G0070_001_a9s
+JP: まるで、感情が
+EN: It's almost like it had actual emotion—
+RU: 
+
+ID: M1030_S0400_G0080_001_a2b
+JP: 機械生命体に意識なんかない……
+EN: The machines don't have feelings.
+RU: 
+
+ID: M1030_S0400_G0090_001_a2b
+JP: そう言ったのは貴方よ。９Ｓ。
+EN: You said that yourself.
+RU: 
+
+ID: M1030_S0400_G0100_001_a9s
+JP: ……そう……ですね。
+EN: Yeah, I...I guess.
+RU: 
+
+
+-- Section 6
+
+ID: M1030_S0400_G0110_001_a2b
+JP: 敵……！
+EN: Hostiles!
+RU: 
+
+
+-- Section 7
+
+ID: M1030_S0400_G0120_001_n02
+JP: ワタシ、敵ジャナイ。
+EN: I am not hostile.
+RU: 
+
+ID: M1030_S0400_G0130_001_a9s
+JP: え……？
+EN: Huh?
+RU: 
+
+ID: M1030_S0400_G0140_001_n02
+JP: アナタ達、壊れた機械生命体、倒してクレタ。
+EN: You defeated broken machine. You saved us.
+RU: 
+
+ID: M1030_S0400_G0150_001_a9s
+JP: 機械生命体が、こんなに言葉を使えるなんて……
+EN: This thing is awfully verbose for a machine.
+RU: 
+
+ID: M1030_S0400_G0160_001_n02
+JP: お礼スル……ワタシ達の村ニ来イ。
+EN: We repay you. Come to our village.
+RU: 
+
+ID: M1030_S0400_G0170_001_sele
+JP: 村ニ行ク。
+EN: Go to the village.
+RU: 
+
+ID: M1030_S0400_G0180_001_sele
+JP: 村ニ行カナイ。
+EN: Don't go to the village.
+RU: 
+
+
+-- Section 8
+
+ID: M1030_S0400_G0190_001_a9s
+JP: 罠かもしれませんが……
+EN: It could be a trap...
+RU: 
+
+ID: M1030_S0400_G0200_001_a9s
+JP: とりあえず情報収集の為に行ってみましょうか。
+EN: Still, we should at least head over there and gather data, right?
+RU: 
+
+
+-- Section 9
+
+ID: M1030_S0400_G0210_001_a9s
+JP: 確かに怪しいですが……
+EN: It does seem awfully suspicious...
+RU: 
+
+ID: M1030_S0400_G0220_001_a9s
+JP: ここまでコミュニケーションを取れる個体は見たことがありません。
+EN: But I've never seen a machine that could communicate at this level.
+RU: 
+
+ID: M1030_S0400_G0230_001_a9s
+JP: 確認してみる価値はあるかもしれませんね。
+EN: It might be worth checking out.
+RU: 
+
+
+-- Section 10
+
+ID: M1030_S0400_G0240_001_n02
+JP: ワタシ達、戦うキモチ、ナイ。
+EN: We do not want fight.
+RU: 
+
+

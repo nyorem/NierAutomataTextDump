@@ -1,0 +1,837 @@
+-- Section 1
+
+ID: M5150_S0020_G0111_300_jackas
+JP: 研究に協力してほしいところだけど、今はそれどころじゃないよな……
+EN: I need your help with my research, but I'm kinda tied up at the moment.
+RU: 
+
+ID: M5150_S0020_G0121_300_jackas
+JP: またあとで来てくれ！
+EN: Come back later. And don't forget!
+RU: 
+
+
+-- Section 2
+
+ID: M5150_S0010_G0000_001_resiman
+JP: ふざけんなよ、ジャッカス。お前の道楽に付き合ってられるか！
+EN: Leave me alone, Jackass! I can't deal with your weird hobbies anymore!
+RU: 
+
+ID: M5150_S0010_G0010_001_jackas
+JP: ふーんだ！ケチ！
+EN: Like I care what you think, jerk!
+RU: 
+
+
+-- Section 3
+
+ID: M5150_S0010_G0020_001_jackas
+JP: ああ、アンタ達か。
+EN: Oh. Hey there.
+RU: 
+
+ID: M5150_S0010_G0030_001_jackas
+JP: あいつ、ケチでさ……ちっとも仕事手伝ってくれないんだよね。
+EN: Listen, just ignore that guy. Selfish fool refuses to help me with my work.
+RU: 
+
+ID: M5150_S0010_G0050_001_jackas
+JP: 今、戦闘状態におけるアンドロイドの興奮について調べてるんだ。
+EN: See, I'm doing a study on the excitement levels of androids while in battle.
+RU: 
+
+ID: M5150_S0010_G0060_001_jackas
+JP: で、さらなる機能拡張の為に最新型の戦闘データを取らせて\n欲しいんだけど……
+EN: But I need to record combat data from the newest models in order to reach more steady conclusions. So whatcha think? Fun, right?
+RU: 
+
+ID: M5150_S0010_G0070_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0010_G0080_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 4
+
+ID: M5150_S0020_G0000_001_jackas
+JP: そうか、ありがとう！
+EN: All right! Good to know not everyone around this joint is a spineless hunk of crap!
+RU: 
+
+
+-- Section 5
+
+ID: M5150_S0010_G0090_001_resiman
+JP: まったく、ジャッカスときたら……
+EN: Man, I have had it up to HERE with Jackass lately. I mean, come on...
+RU: 
+
+
+-- Section 6
+
+ID: M5150_S0010_G0001_300_jackas
+JP: 協力してくれる気になったのかい？
+EN: Feel like helping yet?
+RU: 
+
+ID: M5150_S0010_G0011_300_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0010_G0021_300_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 7
+
+ID: M5150_S0020_G0001_001_jackas
+JP: じゃあ、ちょっとついてきてくれ。
+EN: Here. Follow me.
+RU: 
+
+
+-- Section 8
+
+ID: M5150_S0020_G0002_001_jackas
+JP: ほら、あそこに敵が見えるだろう？
+EN: All right. See that jerk over there?
+RU: 
+
+ID: M5150_S0020_G0003_001_jackas
+JP: アイツとの戦闘データを取りたいんだよ。
+EN: I need you to get combat data for him.
+RU: 
+
+ID: M5150_S0020_G0010_001_jackas
+JP: では、さらなる科学の発展の為に……いざ、戦いたまえ！
+EN: Science will pay you back for this, I promise. Now...FIGHT!
+RU: 
+
+
+-- Section 9
+
+ID: M5150_S0020_G0180_001_jackas
+JP: あそこにいる敵を全滅させて欲しいんだよね。やってくれるかい？
+EN: I need you to wipe out those enemies over there. Think you can handle that? Mmmm?
+RU: 
+
+
+-- Section 10
+
+ID: M5150_S0020_G0030_300_jackas
+JP: どうした？遠慮せずどんどんやってくれたまえ！
+EN: Come on! Do it already! Don't hold anything back!
+RU: 
+
+
+-- Section 11
+
+ID: M5150_S0020_G0040_300_jackas
+JP: おい、どうしたんだ？早く戦いたまえ。
+EN: Hey, what's the hold-up? Hurry up and start kicking some ass!
+RU: 
+
+
+-- Section 12
+
+ID: M5150_S0020_G0170_001_jackas
+JP: ……あれ、ちょっと難しくし過ぎた？これじゃデータにならないなぁ。\nやり直しを要求するッ！
+EN: Okay, that was pathetic. I mean, you are REALLY starting to chap my chrome over here. Now try it again!
+RU: 
+
+
+-- Section 13
+
+ID: M5150_S0020_G0050_300_jackas
+JP: やる気になってくれた？
+EN: Feel like helping yet?
+RU: 
+
+ID: M5150_S0020_G0060_300_sele
+JP: うん
+EN: Agree to help.
+RU: 
+
+ID: M5150_S0020_G0070_300_sele
+JP: いや……
+EN: Beg off.
+RU: 
+
+
+-- Section 14
+
+ID: M5150_S0020_G0080_300_jackas
+JP: 素晴らしい！じゃあ再開といこうか！
+EN: Peachy. Let's get rolling, then.
+RU: 
+
+
+-- Section 15
+
+ID: M5150_S0020_G0090_300_jackas
+JP: そうか……やる気になったらまた声をかけてくれ。
+EN: Freakin' USELESS. If you change your mind, let me know, I guess.
+RU: 
+
+
+-- Section 16
+
+ID: M5920_S0010_G0250_001_pod042
+JP: 依頼されていた目的を達成。
+EN: Requested mission completed.
+RU: 
+
+
+-- Section 17
+
+ID: M5150_S0020_G0130_001_jackas
+JP: うんうん、素晴らしい！お蔭で良いデータが取れたよ、ありがとう。
+EN: Oh man. Oh man, oh man. That was GREAT!
+RU: 
+
+ID: M5150_S0020_G0140_001_jackas
+JP: 知ってるかい？戦闘状態における興奮は、人類の記録にある『恋』と\n良く似ているんだ。
+EN: Hey, did you know that android battle fever is actually quite similar to the human emotion of "love"?
+RU: 
+
+ID: M5150_S0020_G0150_001_jackas
+JP: つまり、戦う事で『恋』の疑似体験が出来る……とも言える。
+EN: So if we want to know what all those old human records are always going on about, all we need to do is let our fists fly!
+RU: 
+
+ID: M5150_S0020_G0160_001_jackas
+JP: そう考えると、戦闘も中々にロマンチックだろう？
+EN: Makes this whole thing feel more romantic, don't you think?
+RU: 
+
+ID: M5150_S0040_G0000_300_jackas
+JP: うーん、まだデータが足りないなぁ……。\n君、もう少し協力してくれないか？
+EN: Hmmm, I still don't have enough data...\nI could use some more help.
+RU: 
+
+ID: M5150_S0040_G0030_300_sele
+JP: 協力する
+EN: Give her a hand.
+RU: 
+
+ID: M5150_S0040_G0040_300_sele
+JP: また今度
+EN: Keep your hands to yourself.
+RU: 
+
+
+-- Section 18
+
+ID: M5150_S0040_G0050_300_jackas
+JP: そうこなくっちゃな。
+EN: That's what I'm talkin' about!
+RU: 
+
+ID: M5150_S0020_G0330_001_jackas
+JP: あそこにいる敵を全滅させて欲しいんだが\n『一度もダメージを受けてはいけない』から。
+EN: Okay! So I need you to wipe out those enemies over there without taking any damage. Like, at all. Zero. Zip. Naaaaada.
+RU: 
+
+ID: M5150_S0040_G0075_300_jackas
+JP: では、さらなる科学の発展の為に……いざ、戦いたまえ！
+EN: Now it's time to fight! \nIn the name... OF SCIENCE!
+RU: 
+
+
+-- Section 19
+
+ID: M5150_S0020_G0308_001_jackas
+JP: 他にも調査したい事が沢山あるから、またいつでも声をかけてくれ。
+EN: There's lots of other research I need help with, so don't hesitate to holler at me.
+RU: 
+
+
+-- Section 20
+
+ID: M5150_S0020_G0310_001_jackas
+JP: お、まだまだヤル気満々だねぇ～今度の戦闘は面白いぞ。
+EN: Hey there! Big challenge this time, but I know you're up for it.
+RU: 
+
+ID: M5150_S0020_G0320_001_jackas
+JP: 是非ともデータを取らせてくれたまえ！
+EN: And I ALSO know you'll let me record some of that sweet, sweet data.
+RU: 
+
+ID: M5150_S0020_G0330_001_jackas
+JP: あそこにいる敵を全滅させて欲しいんだが\n『一度もダメージを受けてはいけない』から。
+EN: Okay! So I need you to wipe out those enemies over there without taking any damage. Like, at all. Zero. Zip. Naaaaada.
+RU: 
+
+ID: M5150_S0020_G0331_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0020_G0332_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 21
+
+ID: M5150_S0020_G0340_001_jackas
+JP: そうか、ありがとう！では、さらなる科学の発展の為に……\nいざ、戦いたまえ！
+EN: Remember that science will reward you handsomely for your efforts. Now...FIGHT!
+RU: 
+
+
+-- Section 22
+
+ID: M5150_S0020_G0090_300_jackas
+JP: そうか……やる気になったらまた声をかけてくれ。
+EN: Freakin' USELESS. If you change your mind, let me know, I guess.
+RU: 
+
+
+-- Section 23
+
+ID: M5150_S0020_G0430_001_jackas
+JP: あそこの、敵を全滅させて欲しいんだが\n『一度もダメージを受けてはいけない』……できるかい？
+EN: I need you to wipe out those enemies over there without taking any damage. Think you can handle that?
+RU: 
+
+ID: M5150_S0020_G0331_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0020_G0332_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 24
+
+ID: M5150_S0020_G0030_300_jackas
+JP: どうした？遠慮せずどんどんやってくれたまえ！
+EN: Come on! Do it already! Don't hold anything back!
+RU: 
+
+
+-- Section 25
+
+ID: M5150_S0020_G0170_001_jackas
+JP: ……あれ、ちょっと難しくし過ぎた？これじゃデータにならないなぁ。\nやり直しを要求するッ！
+EN: Okay, that was pathetic. I mean, you are REALLY starting to chap my chrome over here. Now try it again!
+RU: 
+
+
+-- Section 26
+
+ID: M5150_S0020_G0430_001_jackas
+JP: あそこの、敵を全滅させて欲しいんだが\n『一度もダメージを受けてはいけない』……できるかい？
+EN: I need you to wipe out those enemies over there without taking any damage. Think you can handle that?
+RU: 
+
+ID: M5150_S0020_G0331_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0020_G0332_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 27
+
+ID: M5150_S0020_G0080_300_jackas
+JP: 素晴らしい！じゃあ再開といこうか！
+EN: Peachy. Let's get rolling, then.
+RU: 
+
+
+-- Section 28
+
+ID: M5150_S0020_G0090_300_jackas
+JP: そうか……やる気になったらまた声をかけてくれ。
+EN: Freakin' USELESS. If you change your mind, let me know, I guess.
+RU: 
+
+
+-- Section 29
+
+ID: M5920_S0010_G0250_001_pod042
+JP: 依頼されていた目的を達成。
+EN: Requested mission completed.
+RU: 
+
+
+-- Section 30
+
+ID: M5150_S0020_G0350_001_jackas
+JP: いや、さすがヨルハ部隊。期待以上のデータが取れたよ！
+EN: YESSSSS! I love you YoRHa goons. I really do. Just look at all this data!
+RU: 
+
+ID: M5150_S0020_G0360_001_jackas
+JP: 時に、キミ達ヨルハは戦闘に特化しているが、普通に思考は\nしているみたいだね。
+EN: Speaking of YoRHa goons, I'm a bit surprised you types are so...intellectual.
+RU: 
+
+ID: M5150_S0020_G0370_001_jackas
+JP: いやね、戦闘に特化したモデルなら普通の思考なんて邪魔かなと\n思ってね。
+EN: I thought combat models would be a bit more dense. Less thinking, more killing and all that?
+RU: 
+
+ID: M5150_S0020_G0380_001_jackas
+JP: むしろ無駄な機能だと思うんだけどねぇ。
+EN: Frankly, giving you any kind of intellect at all strikes me as pointless.
+RU: 
+
+ID: M5150_S0020_G0400_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5150_S0040_G0010_300_jackas
+JP: もっと……もっとデータが欲しい……！\nもちろん、協力するだろう？
+EN: More data... I NEED MORE DATA!\nAnd YOU are going to help me, right?\nThat's a rhetorical question by the way.
+RU: 
+
+ID: M5150_S0040_G0030_300_sele
+JP: 協力する
+EN: Give her a hand.
+RU: 
+
+ID: M5150_S0040_G0040_300_sele
+JP: また今度
+EN: Keep your hands to yourself.
+RU: 
+
+
+-- Section 31
+
+ID: M5150_S0020_G0441_001_jackas
+JP: おお、また挑戦してくれるのか？いいねぇ。\nヤル気がオーバーフローしているねぇ！
+EN: Still haven't had enough, eh? I like you! You've got GUTS! Metaphorically speaking, of course.
+RU: 
+
+ID: M5150_S0020_G0445_001_jackas
+JP: あそこにいる敵を『３０秒以内』に殲滅して欲しいんだよね。
+EN: I want you to take out those enemies over there in 30 seconds or less.
+RU: 
+
+ID: M5150_S0040_G0075_300_jackas
+JP: では、さらなる科学の発展の為に……いざ、戦いたまえ！
+EN: Now it's time to fight! \nIn the name... OF SCIENCE!
+RU: 
+
+
+-- Section 32
+
+ID: M5150_S0020_G0309_001_jackas
+JP: 他にも手伝って欲しい事はあるんだな～\nヒマになったら寄ってくれ。
+EN: There's plenty of stuff to do around here, so drop why when you feel bored.
+RU: 
+
+
+-- Section 33
+
+ID: M5150_S0020_G0440_001_jackas
+JP: キミ達！今度の戦闘は手強いぞ。
+EN: Okay, killers. I've prepared a real rogues' gallery of thugs for you today.
+RU: 
+
+ID: M5150_S0020_G0445_001_jackas
+JP: あそこにいる敵を『３０秒以内』に殲滅して欲しいんだよね。
+EN: I want you to take out those enemies over there in 30 seconds or less.
+RU: 
+
+ID: M5150_S0020_G0450_001_jackas
+JP: 是非ともデータを取らせてくれたまえ！
+EN: Because more thugs means more data! And more data means we get some BEAUTIFUL SCIENCE up in this joint!
+RU: 
+
+ID: M5150_S0020_G0331_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0020_G0332_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 34
+
+ID: M5150_S0020_G0480_001_jackas
+JP: そうか、ありがとう！では、さらなる科学の発展の為に……\nいざ、戦いたまえ！
+EN: You're doing good work here. You really are. Now...FIGHT!
+RU: 
+
+
+-- Section 35
+
+ID: M5150_S0020_G0090_300_jackas
+JP: そうか……やる気になったらまた声をかけてくれ。
+EN: Freakin' USELESS. If you change your mind, let me know, I guess.
+RU: 
+
+
+-- Section 36
+
+ID: M5150_S0020_G0535_001_jackas
+JP: あそこにいる敵を『３０秒以内』に殲滅して欲しいんだ。
+EN: I want you to wipe out those enemies in 30 seconds or less.
+RU: 
+
+ID: M5150_S0020_G0460_001_sele
+JP: 協力する。
+EN: Agree to get science up in the joint.
+RU: 
+
+ID: M5150_S0020_G0470_001_sele
+JP: 協力しない。
+EN: Walk away.
+RU: 
+
+
+-- Section 37
+
+ID: M5150_S0020_G0030_300_jackas
+JP: どうした？遠慮せずどんどんやってくれたまえ！
+EN: Come on! Do it already! Don't hold anything back!
+RU: 
+
+
+-- Section 38
+
+ID: M5150_S0020_G0530_001_jackas
+JP: はい、駄目です。駄目駄目です。次は真面目にやってくださーい。
+EN: Are you serious about this or what? Come ON already!
+RU: 
+
+
+-- Section 39
+
+ID: M5150_S0020_G0535_001_jackas
+JP: あそこにいる敵を『３０秒以内』に殲滅して欲しいんだ。
+EN: I want you to wipe out those enemies in 30 seconds or less.
+RU: 
+
+ID: M5150_S0020_G0331_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0020_G0332_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 40
+
+ID: M5150_S0020_G0080_300_jackas
+JP: 素晴らしい！じゃあ再開といこうか！
+EN: Peachy. Let's get rolling, then.
+RU: 
+
+
+-- Section 41
+
+ID: M5150_S0020_G0090_300_jackas
+JP: そうか……やる気になったらまた声をかけてくれ。
+EN: Freakin' USELESS. If you change your mind, let me know, I guess.
+RU: 
+
+
+-- Section 42
+
+ID: M5920_S0010_G0250_001_pod042
+JP: 依頼されていた目的を達成。
+EN: Requested mission completed.
+RU: 
+
+
+-- Section 43
+
+ID: M5150_S0020_G0490_001_jackas
+JP: キミ達のお蔭で、面白いデータが取れたよ。これを見てくれ！
+EN: Holy crispy crap on a stick... Now THIS is data!
+RU: 
+
+ID: M5150_S0020_G0500_001_jackas
+JP: ここ、この反応だ。どうやら、アンドロイドの回路内には『戦闘に\n喜びを見出す』というアルゴリズムが組まれているようなんだ。
+EN: Here, look at this. See this reaction? It proves that android brains contain an algorithm which allows them to derive pleasure from battle!
+RU: 
+
+ID: M5150_S0020_G0510_001_jackas
+JP: まあ、そうじゃなきゃ戦い続けていられないよねぇ。\n実に効率的で素晴らしい！
+EN: Without that, we'd probably have stopped fighting a long time ago. What a brutally efficient piece of evolution!
+RU: 
+
+ID: M5150_S0020_G0520_001_jackas
+JP: もしかしたら人類を模倣したのかな……だとしたら、人間とは何と\n偉大なんだ！
+EN: It's possible this is based on an identical pleasure center in the human brain. Man, those fleshbags really were something!
+RU: 
+
+ID: M5150_S0040_G0020_300_jackas
+JP: もう少しだけ、不足してるデータがあるんだ。協力してくれ。
+EN: I just need a teensy bit more data...\nYou look like you've got nothing better to do, \nso give me a hand here!
+RU: 
+
+ID: M5150_S0020_G0331_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0020_G0332_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 44
+
+ID: M5150_S0040_G0070_300_jackas
+JP: よし来た！君は最高だな！\nこれが最後のデータ採取だ。
+EN: Excellent! You're the best guinea pig a gal could ask for! This should be the last bit of data I need.
+RU: 
+
+ID: M5150_S0020_G0545_001_jackas
+JP: 『一度もダメージを受けず』に『３０秒以内』に敵を殲滅してほしい。
+EN: I want you to wipe out those enemies in 30 seconds or less... Oh, and you can't take any damage either.
+RU: 
+
+ID: M5150_S0040_G0075_300_jackas
+JP: では、さらなる科学の発展の為に……いざ、戦いたまえ！
+EN: Now it's time to fight! \nIn the name... OF SCIENCE!
+RU: 
+
+
+-- Section 45
+
+ID: M5150_S0040_G0100_300_jackas
+JP: これは君にしか頼めないことなんだ。わかるね？
+EN: You're the only one stu...uh, brave enough to do this for me. You know that, right?
+RU: 
+
+
+-- Section 46
+
+ID: M5150_S0020_G0540_001_jackas
+JP: 今度の戦闘でデータの採取は最後だ。
+EN: All right, my little science nerds. I have one more data-gathering battle for you.
+RU: 
+
+ID: M5150_S0020_G0545_001_jackas
+JP: 『一度もダメージを受けず』に『３０秒以内』に敵を殲滅してほしい。
+EN: I want you to wipe out those enemies in 30 seconds or less... Oh, and you can't take any damage either.
+RU: 
+
+ID: M5150_S0020_G0550_001_jackas
+JP: 是非とも協力してくれ！
+EN: So let's get out there and do it already! Woo!
+RU: 
+
+ID: M5150_S0020_G0331_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0020_G0332_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 47
+
+ID: M5150_S0020_G0580_001_jackas
+JP: そうか、ありがとう！では、さらなる科学の発展の為に……\nいざ、戦いたまえ！
+EN: Excellent! The fruits of science are but a battle away! Now, FIGHT!
+RU: 
+
+
+-- Section 48
+
+ID: M5150_S0020_G0090_300_jackas
+JP: そうか……やる気になったらまた声をかけてくれ。
+EN: Freakin' USELESS. If you change your mind, let me know, I guess.
+RU: 
+
+
+-- Section 49
+
+ID: M5150_S0020_G0645_001_jackas
+JP: 『一度もダメージを受けず』に『３０秒以内』に敵を殲滅……\nやれるかい？
+EN: I want you to wipe out those enemies in 30 seconds or less without taking any damage. Now MAKE IT HAPPEN!
+RU: 
+
+ID: M5150_S0020_G0331_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0020_G0332_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 50
+
+ID: M5150_S0020_G0030_300_jackas
+JP: どうした？遠慮せずどんどんやってくれたまえ！
+EN: Come on! Do it already! Don't hold anything back!
+RU: 
+
+
+-- Section 51
+
+ID: M5150_S0020_G0640_001_jackas
+JP: ここまで来てこの結果とは……\n何事も全力で取り組んでいただきたい。
+EN: Hey! This is NOT the time to start slacking off!
+RU: 
+
+
+-- Section 52
+
+ID: M5150_S0020_G0645_001_jackas
+JP: 『一度もダメージを受けず』に『３０秒以内』に敵を殲滅……\nやれるかい？
+EN: I want you to wipe out those enemies in 30 seconds or less without taking any damage. Now MAKE IT HAPPEN!
+RU: 
+
+ID: M5150_S0020_G0331_001_sele
+JP: 協力する。
+EN: Agree to help Jackass.
+RU: 
+
+ID: M5150_S0020_G0332_001_sele
+JP: 協力しない。
+EN: Carefully turn her down.
+RU: 
+
+
+-- Section 53
+
+ID: M5150_S0020_G0080_300_jackas
+JP: 素晴らしい！じゃあ再開といこうか！
+EN: Peachy. Let's get rolling, then.
+RU: 
+
+
+-- Section 54
+
+ID: M5150_S0020_G0090_300_jackas
+JP: そうか……やる気になったらまた声をかけてくれ。
+EN: Freakin' USELESS. If you change your mind, let me know, I guess.
+RU: 
+
+
+-- Section 55
+
+ID: M5920_S0010_G0250_001_pod042
+JP: 依頼されていた目的を達成。
+EN: Requested mission completed.
+RU: 
+
+
+-- Section 56
+
+ID: M5150_S0020_G0590_001_jackas
+JP: 聞いてくれ！前回に引き続き、実に興味深い事が判ったんだ。
+EN: Bloody hell. Bloody, nasty, gut-strewn HELL! Do you know what I just discovered?
+RU: 
+
+ID: M5150_S0020_G0600_001_jackas
+JP: 戦闘状態におけるアンドロイドの興奮だが、ある種の快楽物質に\n似た成分が回路内に生成される事が確認された。
+EN: The excitement we feel in battle is caused by a type of pleasure-generating chemical produced in our circuits!
+RU: 
+
+ID: M5150_S0020_G0610_001_jackas
+JP: これを利用すれば、機能拡張用の新しい薬を開発する事が\n出来そうだ。
+EN: Anyway, I think I can localize this substance and turn it into a drug that will help expand our combat capabilities.
+RU: 
+
+ID: M5150_S0020_G0620_001_jackas
+JP: それもこれも、キミ達が協力してくれたお蔭だ。
+EN: All these advances, and it's all thanks to YOU! ...See? I told you science was the best.
+RU: 
+
+ID: M5150_S0020_G0630_001_jackas
+JP: ありがとう！薬が出来るのを楽しみにしていてくれたまえ。
+EN: Anyway, keep an eye out for that drug. Once I get it synthesized, it's all yours.
+RU: 
+
+
+-- Section 57
+
+ID: M5150_S0020_G0100_300_jackas
+JP: 薬ができるまで少し時間がかかるから、好きにしているといい。
+EN: I can't just whip up a complicated drug like this overnight. Go keep yourself busy for a while, yeah?
+RU: 
+
+
+-- Section 58
+
+ID: M5920_S0010_G0180_001_pod042
+JP: 報告：アクセスポイントからメール受信の連絡。
+EN: Report: Mail notification received from access point.
+RU: 
+
+
+-- Section 59
+
+ID: M5150_S0030_G0000_001_jackas
+JP: やあ、キミ達！薬を試しに来てくれたのかい？
+EN: Ha! I bet SOMEONE'S here to try out my new combat wonder drug!
+RU: 
+
+ID: M5150_S0030_G0010_001_jackas
+JP: これがまた評判が良くてねぇ。一度使うと止められないらしいんだ。
+EN: I've already handed it out to a few folks, and man, is it ever popular. One taste and you're hooked for life!
+RU: 
+
+ID: M5150_S0030_G0020_001_jackas
+JP: 君達のお仲間にも気に入ってもらっている。
+EN: And yeah, it sounds bad when I say it like that, but your YoRHa buddies don't seem to mind.
+RU: 
+
+ID: M5150_S0030_G0030_001_jackas
+JP: まあ、副作用でちょっとだけ精神が不安定になるんだが……
+EN: Sure, there are some side effects... Like a horrifying destabilizing effect on one's psyche.
+RU: 
+
+ID: M5150_S0030_G0040_001_jackas
+JP: 戦闘に特化したモデルなら問題ないはずだ。
+EN: But none of that should be a problem for combat-focused models like you.
+RU: 
+
+ID: M5150_S0030_G0050_001_jackas
+JP: 手伝ってくれた君たちにもサービスであげるから、試してくれたまえ。
+EN: Anyway, the first round's on me. Check it out and let me know what you think.
+RU: 
+
+ID: M5150_S0030_G0071_001_jackas
+JP: もっと薬が欲しければ、砂漠の奥にある油田にいるヨルハ部隊員を\n訪ねてみるといい。
+EN: If you want more, go visit the YoRHa unit at the oil field in the desert.
+RU: 
+
+ID: M5150_S0030_G0072_001_jackas
+JP: そいつはレシピを聞いてきたから、きっと自分で作ってるはずだよ。
+EN: She was asking for the recipe, so I'm sure she's cooking up a stash of her own.
+RU: 
+
+

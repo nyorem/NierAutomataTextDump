@@ -1,0 +1,33 @@
+-- Section 1
+
+ID: M3020_S0210_G0000_001_n02
+JP: コロセ……コロセ……
+EN: Kill...me... Kill...
+RU: 
+
+ID: M3020_S0210_G0010_001_n02
+JP: 殺……セ
+EN: Kiiiiiiii...ll...
+RU: 
+
+ID: M3020_S0210_G0020_001_n02
+JP: 私達ガ……何をした……
+EN: What did...we ever do...
+RU: 
+
+ID: M3020_S0220_H0000_001_n02
+JP: コロセ！オレヲ、コロセ！
+EN: Kill...me! Do it! Kill...me! Do it!
+RU: 
+
+ID: M3020_S0220_H0010_001_n02
+JP: コノ卑怯者ッ！！
+EN: Kill me, coward! Kill me! Kill me! Kill me! Kill me!
+RU: 
+
+ID: M3020_S0220_H0020_001_a9s
+JP: う……あああああああっ！！
+EN: 
+RU: 
+
+

@@ -1,0 +1,425 @@
+ID: M5096_S0010_H0000_001_telo
+JP: 命にふさわしい
+EN: Deserving of Life
+RU: 
+
+ID: M5096_S0010_H0010_001_telo
+JP: 好きな人ができた
+EN: I met someone I liked
+RU: 
+
+ID: M5096_S0010_H0020_001_telo
+JP: 確かに触れ合った
+EN: We unmistakably touched
+RU: 
+
+ID: M5096_S0010_H0030_001_telo
+JP: アスファルトより土
+EN: Asphalt over dirt
+RU: 
+
+ID: M5096_S0010_H0040_001_telo
+JP: 鋼鉄より人肌
+EN: Skin over steel
+RU: 
+
+ID: M5096_S0010_H0050_001_telo
+JP: 無意識に選ぶのが
+EN: If we instinctively choose warmth
+RU: 
+
+ID: M5096_S0010_H0060_001_telo
+JP: 冷たさより温みなら
+EN: instead of the cold
+RU: 
+
+ID: M5096_S0010_H0070_001_telo
+JP: その汚れた顔こそ
+EN: Then our dirt-covered faces
+RU: 
+
+ID: M5096_S0010_H0080_001_telo
+JP: 命にふさわしい
+EN: are deserving of life
+RU: 
+
+ID: M5096_S0010_H0090_001_telo
+JP: 身の程知らずと
+EN: There are those who snarl
+RU: 
+
+ID: M5096_S0010_H0100_001_telo
+JP: ののしった奴らの
+EN: that we’re overreaching
+RU: 
+
+ID: M5096_S0010_H0110_001_telo
+JP: 身の程知らなさを
+EN: but we’ll sing
+RU: 
+
+ID: M5096_S0010_H0120_001_telo
+JP: 散々歌うのだ
+EN: of their hypocrisy
+RU: 
+
+ID: M5096_S0010_H0130_001_telo
+JP: 前に進む為に
+EN: If you need a reason
+RU: 
+
+ID: M5096_S0010_H0140_001_telo
+JP: 理由が必要なら
+EN: to push forward
+RU: 
+
+ID: M5096_S0010_H0150_001_telo
+JP: 怒りであれなんであれ
+EN: Be it anger, or something else
+RU: 
+
+ID: M5096_S0010_H0160_001_telo
+JP: 命にふさわしい
+EN: it is deserving of life
+RU: 
+
+ID: M5096_S0010_H0170_001_telo
+JP: こぼれた涙を蒸発させる為に
+EN: For the sun to rise
+RU: 
+
+ID: M5096_S0010_H0180_001_telo
+JP: 陽が照る朝を
+EN: and dry my spilled tears
+RU: 
+
+ID: M5096_S0010_H0190_001_telo
+JP: 飽きもせず
+EN: Patiently
+RU: 
+
+ID: M5096_S0010_H0200_001_telo
+JP: こりもせず
+EN: and tirelessly
+RU: 
+
+ID: M5096_S0010_H0210_001_telo
+JP: 待っている
+EN: I wait
+RU: 
+
+ID: M5096_S0010_H0220_001_telo
+JP: 待っている
+EN: and wait
+RU: 
+
+ID: M5096_S0010_H0230_001_telo
+JP: 全部を無駄にした日から
+EN: I’ve continued reaching
+RU: 
+
+ID: M5096_S0010_H0240_001_telo
+JP: 僕は虎視眈々と描いてた
+EN: since that day it all fell apart
+RU: 
+
+ID: M5096_S0010_H0250_001_telo
+JP: 全部が報われる朝を
+EN: For the morning I will be redeemed
+RU: 
+
+ID: M5096_S0010_H0260_001_telo
+JP: 世界を滅ぼすに値する
+EN: It’s worth destroying the world
+RU: 
+
+ID: M5096_S0010_H0270_001_telo
+JP: その温もりは
+EN: for the warmth I seek
+RU: 
+
+ID: M5096_S0010_H0280_001_telo
+JP: 二人になれなかった
+EN: We could not be together
+RU: 
+
+ID: M5096_S0010_H0290_001_telo
+JP: 孤独と孤独では
+EN: Loneliness with loneliness
+RU: 
+
+ID: M5096_S0010_H0300_001_telo
+JP: 道すがら何があった？
+EN: What happened on those travels?
+RU: 
+
+ID: M5096_S0010_H0310_001_telo
+JP: 傷ついて笑うその癖は
+EN: That habit of laughing away pain
+RU: 
+
+ID: M5096_S0010_H0320_001_telo
+JP: そんなに悲しむことなんて無かったのにな
+EN: There wouldn’t have been much to regret
+RU: 
+
+ID: M5096_S0010_H0330_001_telo
+JP: 心さえなかったなら
+EN: If only we didn’t have hearts
+RU: 
+
+ID: M5096_S0010_H0340_001_telo
+JP: 友達ができた
+EN: I made a friend
+RU: 
+
+ID: M5096_S0010_H0350_001_telo
+JP: 理想を分かち合った
+EN: We shared ideals
+RU: 
+
+ID: M5096_S0010_H0360_001_telo
+JP: 向かうべき場所に
+EN: We headed forward
+RU: 
+
+ID: M5096_S0010_H0370_001_telo
+JP: 歩幅すら共にした
+EN: Our strides were the same
+RU: 
+
+ID: M5096_S0010_H0380_001_telo
+JP: 裏切られたっていいと
+EN: I’d even stomach betrayal
+RU: 
+
+ID: M5096_S0010_H0390_001_telo
+JP: 道端ひれ伏すような
+EN: The nights we drank till dawn
+RU: 
+
+ID: M5096_S0010_H0400_001_telo
+JP: 酩酊の夜明けこそ
+EN: sprawled on the side of the road
+RU: 
+
+ID: M5096_S0010_H0410_001_telo
+JP: 命にふさわしい
+EN: are deserving of life
+RU: 
+
+ID: M5096_S0010_H0420_001_telo
+JP: 失くした何かの埋め合わせを
+EN: We kept searching for something
+RU: 
+
+ID: M5096_S0010_H0430_001_telo
+JP: 探してばかりいるけど
+EN: to replace what we’d lost
+RU: 
+
+ID: M5096_S0010_H0440_001_telo
+JP: そうじゃなく
+EN: Perhaps it’s not so
+RU: 
+
+ID: M5096_S0010_H0450_001_telo
+JP: 喪失も正解と言えるような
+EN: and loss is the solution
+RU: 
+
+ID: M5096_S0010_H0460_001_telo
+JP: 逆転劇を期待してる
+EN: Hoping for the tables to turn
+RU: 
+
+ID: M5096_S0010_H0470_001_telo
+JP: そしてそれは決して不可能じゃない
+EN: knowing that it’s not impossible
+RU: 
+
+ID: M5096_S0010_H0480_001_telo
+JP: 途絶えた足跡も
+EN: Even the footsteps that trailed off
+RU: 
+
+ID: M5096_S0010_H0490_001_telo
+JP: 旅路と呼べ
+EN: should be called the journey
+RU: 
+
+ID: M5096_S0010_H0500_001_telo
+JP: 世界を欺くに値する
+EN: It was worth deceiving the world
+RU: 
+
+ID: M5096_S0010_H0510_001_telo
+JP: 僕らのこれまでは
+EN: for what we had
+RU: 
+
+ID: M5096_S0010_H0520_001_telo
+JP: 一人になれなかった
+EN: We couldn’t keep apart
+RU: 
+
+ID: M5096_S0010_H0530_001_telo
+JP: 寂しがりや共が集って
+EN: loners who had found each other
+RU: 
+
+ID: M5096_S0010_H0540_001_telo
+JP: 道すがら何があった？
+EN: What happened on those travels?
+RU: 
+
+ID: M5096_S0010_H0550_001_telo
+JP: 傷つけて当然な顔をして
+EN: A look that said inflicting pain was to be expected
+RU: 
+
+ID: M5096_S0010_H0560_001_telo
+JP: そんなに悲しむことなんて無かったのにな
+EN: There wouldn’t have been much to regret
+RU: 
+
+ID: M5096_S0010_H0570_001_telo
+JP: 心さえなかったなら
+EN: If only we didn’t have hearts
+RU: 
+
+ID: M5096_S0010_H0580_001_telo
+JP: 愛した物を守りたい故に
+EN: To protect what I loved
+RU: 
+
+ID: M5096_S0010_H0590_001_telo
+JP: 壊してしまった数々
+EN: I broke many things
+RU: 
+
+ID: M5096_S0010_H0600_001_telo
+JP: あっけなく打ち砕かれた
+EN: So many wishes
+RU: 
+
+ID: M5096_S0010_H0610_001_telo
+JP: 願いの数々
+EN: brought suddenly to an end
+RU: 
+
+ID: M5096_S0010_H0620_001_telo
+JP: その破片を裸足で渡るような
+EN: Walking across the broken pieces with bare feet
+RU: 
+
+ID: M5096_S0010_H0630_001_telo
+JP: 次の一歩で滑落して
+EN: falling with my next step
+RU: 
+
+ID: M5096_S0010_H0640_001_telo
+JP: そこで死んでもいいと
+EN: I’d accept death
+RU: 
+
+ID: M5096_S0010_H0650_001_telo
+JP: 思える一歩こそ
+EN: with that one step
+RU: 
+
+ID: M5096_S0010_H0660_001_telo
+JP: ただ、ただ、それこそが　命にふさわしい
+EN: yet that is the one deserving of life
+RU: 
+
+ID: M5096_S0010_H0670_001_telo
+JP: 心を失くすのに値した
+EN: That loss
+RU: 
+
+ID: M5096_S0010_H0680_001_telo
+JP: その喪失は
+EN: worth giving your heart for
+RU: 
+
+ID: M5096_S0010_H0690_001_telo
+JP: 喜びと悲しみは
+EN: But sadness can’t make
+RU: 
+
+ID: M5096_S0010_H0700_001_telo
+JP: 引き換えじゃなかったはずだ
+EN: a clean switch for joy
+RU: 
+
+ID: M5096_S0010_H0710_001_telo
+JP: 道すがら何があった？
+EN: What happened on those travels?
+RU: 
+
+ID: M5096_S0010_H0720_001_telo
+JP: その答えこそ今の僕で
+EN: The answer is what I am now
+RU: 
+
+ID: M5096_S0010_H0730_001_telo
+JP: 希望なんて
+EN: Hope
+RU: 
+
+ID: M5096_S0010_H0740_001_telo
+JP: いとも容易く投げ捨てる事はできる
+EN: We could have thrown it away so simply
+RU: 
+
+ID: M5096_S0010_H0750_001_telo
+JP: 心さえなかったなら
+EN: If only we didn’t have hearts
+RU: 
+
+ID: M5096_S0010_H0760_001_telo
+JP: 光と陰
+EN: Light and darkness
+RU: 
+
+ID: M5096_S0010_H1000_001_telo
+JP: “システム再起動”
+EN: "Rebooting System"
+RU: 
+
+ID: M5096_S0010_H1010_001_telo
+JP: “システムチェック開始”
+EN: "Running System Check"
+RU: 
+
+ID: M5096_S0010_H1020_001_telo
+JP: “戦闘ログを消去中”
+EN: "Deleting Combat Log"
+RU: 
+
+ID: M5096_S0010_H1030_001_telo
+JP: “メインカメラ起動”
+EN: "Activating Main Camera"
+RU: 
+
+ID: M5096_S0010_H1040_001_telo
+JP: “任務：システムエラーの原因の排除”
+EN: "Mission: Remove cause of System Error"
+RU: 
+
+ID: M5096_S0010_H1050_001_telo
+JP: “すべての人形を破壊せよ”
+EN: "Destroy all dolls"
+RU: 
+
+ID: M5096_S0010_H1060_001_telo
+JP: “感情マトリクスの検出”
+EN: "Emotion Matrix Detected"
+RU: 
+
+ID: M5096_S0010_H1070_001_telo
+JP: “パッチの強制インストール”
+EN: "Forcing Patch Install"
+RU: 
+

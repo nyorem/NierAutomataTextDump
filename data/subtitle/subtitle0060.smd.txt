@@ -1,0 +1,10 @@
+ID: M0010_S0200_H0000_001_a9s
+JP: ちゃんと死んだのを確認しないと
+EN: Better make sure he's actually dead next time.
+RU: 
+
+ID: M0010_S0200_H0010_001_a9s
+JP: 危ないですよ。
+EN: That was dangerous, ma'am.
+RU: 
+

@@ -1,0 +1,13 @@
+-- Section 1
+
+ID: M1040_S0900_G0000_001_a2b
+JP: エイリアン達が……既に滅んでいた……
+EN: The aliens were already dead.
+RU: 
+
+ID: M1040_S0900_G0010_001_a9s
+JP: ２Ｂ、とりあえずバンカーに戻って報告しよう。
+EN: Yeah. We'd better get back to the Bunker.
+RU: 
+
+

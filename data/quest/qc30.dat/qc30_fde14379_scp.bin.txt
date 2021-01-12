@@ -1,0 +1,8 @@
+-- Section 1
+
+ID: M5130_S0150_G0000_001_a9s
+JP: 記録回路調査……８８％、９２％、９８％……
+EN: Examining storage circuits... 88 percent... 92 percent... 98 percent...
+RU: 
+
+

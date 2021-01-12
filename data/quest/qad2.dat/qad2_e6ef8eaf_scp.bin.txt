@@ -1,0 +1,13 @@
+-- Section 1
+
+ID: M3030_S0160_G0203_001_pascal
+JP: Ａ２さん……ありがとうございます……
+EN: Thank you, A2...
+RU: 
+
+ID: M3030_S0160_G0200_001_pascal
+JP: ありがとう……
+EN: Thank you...
+RU: 
+
+

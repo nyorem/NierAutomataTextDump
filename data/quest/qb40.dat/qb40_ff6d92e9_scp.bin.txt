@@ -1,0 +1,763 @@
+-- Section 1
+
+ID: M6010_S0080_G0070_300_op
+JP: ＜＜地上部隊、こちらバンカーだ＞＞
+EN: "This is the Bunker. What is your status?"
+RU: 
+
+ID: M6010_S0080_G0080_300_op
+JP: ＜＜…………なるほど、了解した。すぐに対処する＞＞
+EN: "...Okay, copy that. I'll take care of it at once."
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0080_G0090_300_op
+JP: ……悪いが後にしてくれないか？\n今はちょっと忙しい。
+EN: Er, do you mind coming back later? I've got a lot on my plate right now.
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0020_G0210_300_op
+JP: 大先輩がちょっとした豆知識を教えてやろう。\n転送端末には常に替えの義体素材が収納されているんだ。
+EN: Here's a piece of friendly advice: we've always got spare body materials stored at transport terminals.
+RU: 
+
+ID: M6010_S0020_G0220_300_op
+JP: 素材はバンカーから各地のキャンプに支給されて、\nレジスタンスが補充している。
+EN: The materials are distributed to the different camps from the Bunker, and replenished by the Resistance.
+RU: 
+
+ID: M6010_S0020_G0230_300_op
+JP: 次に、遠隔地にあるパーソナルデータを新しい義体に移すことで、\n瞬時に移動できるというわけだ。
+EN: Then your personal data is transferred to a new body in a distant location, allowing you to travel there in instantly.
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0020_G0240_300_op
+JP: たまに機械生命体が電波を妨害して、転送端末が使えなくなることがある。
+EN: Sometimes you may not be able to use a transport terminal if machine lifeforms are jamming it.
+RU: 
+
+ID: M6010_S0020_G0250_300_op
+JP: 妨害してる敵を倒して転送端末にアクセスすると復旧させられるんだが……\n実に厄介だ。
+EN: If you take out the enemies, you can access the terminal and restore it, but it's a real pain in the butt.
+RU: 
+
+
+-- Section 5
+
+ID: M6010_S0010_G0210_300_op
+JP: 大先輩からの有難いアドバイスだ。\nパーソナルデータはこまめにバックアップしておけよ。
+EN: Want a piece of advice from someone who's been in your shoes before? Back up your data whenever you can.
+RU: 
+
+ID: M6010_S0010_G0220_300_op
+JP: そうすれば、たとえ義体を失っても問題ない。\nバックアップデータを新しい義体に入れれば、元通りだ。
+EN: If you do that, it doesn't matter if you lose your body. You can just upload the back-up data to a new body and be on your merry way.
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0010_G0230_300_op
+JP: 転送端末に個体情報を登録しておけば、地上からでもデータを\nバックアップできるんだ。
+EN: Oh, and if you register your personal info at a transport terminal, you can back up data from Earth as well.
+RU: 
+
+ID: M6010_S0010_G0240_300_op
+JP: 電波の届く範囲ならな。
+EN: Well, so long as you're within transmission range, anyway.
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0080_G0100_300_op
+JP: ＜＜もしもしこちらバンカー、今からデータを転送します＞＞
+EN: "Bunker here. I'm sending over the data now."
+RU: 
+
+ID: M6010_S0080_G0110_300_op
+JP: ……あら、ごめんなさいねぇ。\n今ちょっと立てこんでて、お喋りする暇がないのよ。
+EN: ...Sorry, no time to talk. I'm busier than a one-legged machine in an ass-kicking contest.
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0080_G0120_300_op
+JP: ＜＜…………はい……はい。了解、ちょっとまってねぇ＞＞
+EN: "Yes... Yes... Understood... One moment please..."
+RU: 
+
+ID: M6010_S0080_G0130_300_op
+JP: ……あら、まだいたの？
+EN: Are you still here?
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0020_G0260_300_op
+JP: そうだ、あるアイテムでちょっとしたお着替えができるのは知ってるかしら？
+EN: Info dump incoming! Did you know that you can change clothes at transport terminals?
+RU: 
+
+ID: M6010_S0020_G0270_300_op
+JP: あら、知ってるの……あなたって意外と大胆なのね。
+EN: ...Wait, you did? Huh. So I guess you don't mind taking off your clothes outside.
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0020_G0280_300_op
+JP: ヨルハ部隊の衣装って素敵よね。
+EN: YoRHa outfits are so amazing!
+RU: 
+
+ID: M6010_S0020_G0290_300_op
+JP: この衣装も好きなんだけど、あのクールなヘルメットとか……憧れるわぁ……
+EN: I mean, my uniform is fine and all, but I'd love to wear a cool helmet like they have!
+RU: 
+
+
+-- Section 11
+
+ID: M6010_S0010_G0250_300_op
+JP: あなた、ちゃんとメールを確認してる？
+EN: Are you checking your mail regularly?
+RU: 
+
+ID: M6010_S0010_G0260_300_op
+JP: たまに任務の内容をメールで送ったら、『どこで確認すればいいの？』なんて\n聞いてくる子がいるのよ。
+EN: Sometimes important mails sit around for weeks because the recipient doesn't know how to check 'em.
+RU: 
+
+ID: M6010_S0010_G0270_300_op
+JP: 転送端末で確認できるから、あなたは忘れないでね。
+EN: So don't be that person! Check your mail regularly at a transport terminal, all right?
+RU: 
+
+
+-- Section 12
+
+ID: M6010_S0010_G0280_300_op
+JP: ちょっと複雑な任務だと、口頭だけで説明するのはお互い大変でしょう？
+EN: When you've got a complicated mission, explaining it all verbally is tough on both us and you, you know?
+RU: 
+
+ID: M6010_S0010_G0290_300_op
+JP: 形に残るって点でも、メールって便利よねぇ。
+EN: That's why we use a mail system. That way, you have a permanent record of all the details.
+RU: 
+
+
+-- Section 13
+
+ID: M6010_S0080_G0140_300_op
+JP: ……今任務中だ。
+EN: I'm working right now. ...Which I figured was pretty obvious.
+RU: 
+
+
+-- Section 14
+
+ID: M6010_S0080_G0150_300_op
+JP: しつこいな……お前は暇なのか？\nさっさと任務に戻れ。
+EN: Surely you have something better to do than harass a poor working girl?
+RU: 
+
+
+-- Section 15
+
+ID: M6010_S0020_G0300_300_op
+JP: ……アンドロイドと機械生命体が和平を結ぶなど、私は反対だ。
+EN: Androids and machines making peace? I won't stand for it!
+RU: 
+
+ID: M6010_S0020_G0310_300_op
+JP: 奴らに対する恨みを捨てることなどできない。
+EN: I'll hate those miserable piles of bolts until my last breath!
+RU: 
+
+ID: M6010_S0020_G0320_300_op
+JP: 奴らの中にも我々への恨みを捨てられない奴がいれば、\nそれがたとえ一握りでも、争いの理由としては十分だ。
+EN: And if any of them still resent us—even if it's just a few—that's enough reason to keep fighting!
+RU: 
+
+
+-- Section 16
+
+ID: M6010_S0020_G0330_300_op
+JP: こんなところで私と話していても時間の無駄だろう。
+EN: Don't waste your time talking to me.
+RU: 
+
+ID: M6010_S0020_G0340_300_op
+JP: やるべきことをやれ……死んでいった仲間のためにも。
+EN: Do what needs to be done. On behalf of all those we've lost.
+RU: 
+
+
+-- Section 17
+
+ID: M6010_S0010_G0300_300_op
+JP: ヨルハ隊員の義体には、一度倒した敵の情報を自動でデータベースに\n登録する機能が備わっている。
+EN: Your bodies automatically register information from slain enemies to the database.
+RU: 
+
+ID: M6010_S0010_G0310_300_op
+JP: 戦闘部隊でありながら、情報収集も可能とは……実に合理的な設計だ。
+EN: It was a practical design decision to allow combat units to also collect intelligence.
+RU: 
+
+
+-- Section 18
+
+ID: M6010_S0010_G0320_300_op
+JP: まだ何か用かね？\n不必要な会話で無駄なエネルギーを消費するな。
+EN: ...Yes? Do you need something? If not, I suggest conserving your energy for more important matters.
+RU: 
+
+
+-- Section 19
+
+ID: M6010_S0080_G0160_300_op
+JP: 何かトラブル発生かしら？
+EN: Is there a problem?
+RU: 
+
+
+-- Section 20
+
+ID: M6010_S0080_G0170_300_op
+JP: 地上はかなり混乱してるみたいだから……気をつけてね。
+EN: Looks like things are pretty chaotic on Earth. Take care, all right?
+RU: 
+
+
+-- Section 21
+
+ID: M6010_S0020_G0350_300_op
+JP: 私達オペレーターはあなた達と違って、新しい義体になって、\n記憶が巻き戻るようなことがないから。
+EN: Unlike you, when we operators get new bodies, our memories aren't reset.
+RU: 
+
+ID: M6010_S0020_G0360_300_op
+JP: あなた達がもう覚えていないことでも、いつまでも覚えてる。
+EN: Meaning we remember the things you no longer can.
+RU: 
+
+
+-- Section 22
+
+ID: M6010_S0020_G0370_300_op
+JP: ジャンクデータはさっさと消去しないといけないんだけど、\n整理整頓は苦手なのよね。
+EN: I really should erase my junk data, but organizing's never been my strong point.
+RU: 
+
+
+-- Section 23
+
+ID: M6010_S0010_G0330_300_op
+JP: こんにちは。\nあなた達のチームは、いつも仲良しね。
+EN: Hi there. Boy, you two are thick as thieves, aren't you?
+RU: 
+
+ID: M6010_S0010_G0340_300_op
+JP: たまたま同じ任務についてるってだけでも、仲よしの方がいいに\n決まってるわ。
+EN: I know you're only working together by coincidence, but it's still nice that you've become friends.
+RU: 
+
+
+-- Section 24
+
+ID: M6010_S0010_G0350_300_op
+JP: 地上の任務にはもう慣れたかしら？\n私達にできることはあんまりないけど、精一杯サポートするわ。
+EN: Have you gotten used to engaging in missions on Earth? There's only so much we can do from here, but we'll back you up as best we can.
+RU: 
+
+ID: M6010_S0010_G0360_300_op
+JP: 頑張ってね。
+EN: Good luck!
+RU: 
+
+
+-- Section 25
+
+ID: M6010_S0080_G0180_300_op
+JP: ＜＜……地上部隊、応答せよ。こちらバンカー＞＞
+EN: "This is the Bunker. Do you read? ...I repeat, do you read me?"
+RU: 
+
+ID: M6010_S0080_G0190_300_op
+JP: …………
+EN: ......
+RU: 
+
+
+-- Section 26
+
+ID: M6010_S0080_G0200_300_op
+JP: ……ああ、すまない。\n今は放っておいてくれないか。
+EN: You mind giving me a minute?
+RU: 
+
+
+-- Section 27
+
+ID: M6010_S0020_G0380_300_op
+JP: 昔の義体には、蓄積された経験をプラグイン・チップとして書き出す\n機能が備わっていたんだ。
+EN: Your body can export stored experiences in the form of plug-in chips.
+RU: 
+
+ID: M6010_S0020_G0390_300_op
+JP: だが、仕様的に不要だと判断されて削除されたらしい。\n開発部の考える事は良くわからないよな……
+EN: That means if you keep practicing something you're not good at, you'll eventually get better! Pretty sweet, no?
+RU: 
+
+
+-- Section 28
+
+ID: M6010_S0020_G0400_300_op
+JP: プラグイン・チップの合成はもう試したか？
+EN: Have you tried creating plug-in chips?
+RU: 
+
+ID: M6010_S0020_G0410_300_op
+JP: 複数のチップのデータからより高性能なチップを書き出せる仕組みだ。
+EN: The chip system lets you create a high-powered chip from the data of several lesser ones.
+RU: 
+
+ID: M6010_S0020_G0420_300_op
+JP: 確か、レジスタンスキャンプのメンテナンス屋がやってくれる。\nまだ試したことがないなら試してみると良い。
+EN: The maintenance shop at the Resistance camp can help you out if you haven't tried it yet.
+RU: 
+
+
+-- Section 29
+
+ID: M6010_S0010_G0370_300_op
+JP: ちょっと君、プラグイン・チップを装備すると義体の性能を高められるのは\n知っているか？
+EN: Did you know you can install plug-in chips to improve your body's performance?
+RU: 
+
+ID: M6010_S0010_G0380_300_op
+JP: チップを沢山装備したいなら、\nサーバー管理室にいるS型モデルに聞いてみると良い。
+EN: If you want to install a bunch of chips, go talk to the S-type model in the server administration room.
+RU: 
+
+
+-- Section 30
+
+ID: M6010_S0010_G0390_300_op
+JP: 義体に装備されたプラグイン・チップは、死ぬとそのまま義体に\n残ってしまうんだ。
+EN: Plug-in chips remain in your body after you die.
+RU: 
+
+ID: M6010_S0010_G0400_300_op
+JP: ちゃんと義体を回収すれば戻ってくるから、忘れないように\n気をつけるんだぞ。
+EN: So don't forget to recover your body if want them back.
+RU: 
+
+
+-- Section 31
+
+ID: M6010_S0080_G0210_300_op
+JP: 今は仕事中だ。\n話をしたいなら後できてくれ。
+EN: Yeah, I'm working. A lot, actually. Maybe come back later.
+RU: 
+
+
+-- Section 32
+
+ID: M6010_S0080_G0220_300_op
+JP: こんなところにいていいのか？\nお前もほら、なんか……仕事くらいあるだろ？
+EN: Don't you have some important mission to attend to?
+RU: 
+
+ID: M6010_S0080_G0230_300_op
+JP: ……もしかして暇なのか？
+EN: You must be really bored if you're hanging out here.
+RU: 
+
+
+-- Section 33
+
+ID: M6010_S0020_G0430_300_op
+JP: 機械生命体から和睦協定を受けるとは、面白いことになってきたな。
+EN: Machines trying to make peace? I never thought I'd see the day!
+RU: 
+
+ID: M6010_S0020_G0440_300_op
+JP: 互いの思想や利害を超えて手をとりあえる、素晴らしいじゃないか。
+EN: It's an amazing thing to overcome different ideologies and interests and join hands in friendship.
+RU: 
+
+
+-- Section 34
+
+ID: M6010_S0020_G0450_300_op
+JP: ……まぁ、実際のところ、和睦協定を面白く思わない奴は多いだろうな。
+EN: Still, I bet there are plenty of folks out there who aren't wild about the idea.
+RU: 
+
+ID: M6010_S0020_G0460_300_op
+JP: 今まで奴らにされたこと、してきたことを忘れるなんて無理だ。
+EN: It's difficult to forget what the machines did to us...and what we did to them.
+RU: 
+
+ID: M6010_S0020_G0470_300_op
+JP: だがこれ以上悲劇を重ねないために、できることをすべきだと、私は思う。
+EN: But I still think we should try our best to prevent any more tragedies.
+RU: 
+
+
+-- Section 35
+
+ID: M6010_S0010_G0410_300_op
+JP: やあ君、ポッドを有効利用してるか？
+EN: Say, I've got a question for you: Are you using your Pod effectively?
+RU: 
+
+ID: M6010_S0010_G0420_300_op
+JP: ポッドに専用のプログラムをインストールして必殺技を繰り出す！\nその名もポッド・プログラム！
+EN: Random, I know! But the thing is, you can install these things called Pod Programs that let you use special attacks.
+RU: 
+
+ID: M6010_S0010_G0430_300_op
+JP: 上手く使いこなしてくれよ！
+EN: There are a bunch of different ones, so start tinkering and see which work best for you.
+RU: 
+
+
+-- Section 36
+
+ID: M6010_S0010_G0440_300_op
+JP: ポッドにどのプログラムを使わせるのか、忘れずにちゃんと設定するんだぞ！
+EN: Oh, and once you find a program you like, don't forget to set it!
+RU: 
+
+
+-- Section 37
+
+ID: M6010_S0080_G0240_300_op
+JP: ごめんなさい、今はちょっと……\n落ち着いてから来ていただけませんか？
+EN: Sorry, this isn't a good time. Maybe come back once everything's calmed down.
+RU: 
+
+
+-- Section 38
+
+ID: M6010_S0080_G0250_300_op
+JP: せっかく来ていただいて申し訳ないんですが、またあとでお願いします。
+EN: It's great you came all this way just to see me, but I'm swamped! Maybe let's hook up later.
+RU: 
+
+
+-- Section 39
+
+ID: M6010_S0020_G0480_300_op
+JP: 地上部隊、こちらバンカー。\nポッドの捜索はどうですか？
+EN: "This is the Bunker. What's the status on that missing Pod?"
+RU: 
+
+ID: M6010_S0020_G0490_300_op
+JP: …………まだ見つからないんですね。\n救援音が出ているはず……引き続き調査してください。
+EN: "...You still haven't located it? Understood. It should be giving off a distress signal, so continue searching until you find it."
+RU: 
+
+
+-- Section 40
+
+ID: M6010_S0020_G0500_300_op
+JP: ポッドちゃん……どこにいったんだろう……\n砂の中深くに埋もれちゃったのかも……
+EN: Geez, I hope that poor little Pod didn't get buried in the sand somewhere.
+RU: 
+
+
+-- Section 41
+
+ID: M6010_S0010_G0450_300_op
+JP: ＜＜もしもし、こちらバンカーです。\n…………え、ポッドをなくした？？＞＞
+EN: "This is the Bunker. Go ahead.\n...Say again? You lost your Pod!?"
+RU: 
+
+ID: M6010_S0010_G0460_300_op
+JP: ＜＜…………はい…………はい……そうですか……＞＞
+EN: "Uh huh... Uh huh... Yes, I see..."
+RU: 
+
+ID: M6010_S0010_G0470_300_op
+JP: ＜＜わかりました。\nポッドが救援音を出しているはずなので、辺りを捜索してみてください＞＞
+EN: "Well, a lost Pod will emit a distress signal, so try to locate that and then search the surrounding area. Bunker, out."
+RU: 
+
+ID: M6010_S0010_G0480_300_op
+JP: …………はぁ……全く……
+EN: And maybe don't LOSE IT NEXT TIME! Honestly...
+RU: 
+
+
+-- Section 42
+
+ID: M6010_S0010_G0490_300_op
+JP: ……すみません、お見苦しいところを。
+EN: ...Oh. Hello there. Sorry you had to hear that.
+RU: 
+
+ID: M6010_S0010_G0500_300_op
+JP: 担当している隊員が砂漠でポッドを失くしたみたいで……
+EN: But yes, apparently one of my units managed to misplace her Pod somewhere in the desert.
+RU: 
+
+ID: M6010_S0010_G0510_300_op
+JP: もし見つけたら保護してあげてください。\nよろしくお願いします。
+EN: If you happen to find it, make sure it to give it a good home, all right?
+RU: 
+
+
+-- Section 43
+
+ID: M6010_S0080_G0260_300_op
+JP: 戦争とかただでさえ面倒なのに、緊急事態とか……\n面倒臭すぎる……
+EN: The war is already so much work, and now we're in a state of emergency? I can't take this anymore!
+RU: 
+
+
+-- Section 44
+
+ID: M6010_S0080_G0270_300_op
+JP: あー……早く終わんねぇかな…………
+EN: Ugh... I hope this blows over quickly.
+RU: 
+
+
+-- Section 45
+
+ID: M6010_S0020_G0510_300_op
+JP: 仕事なら別の奴に頼んでくれ。\nずっと椅子に座っとくのも大変なんだ。
+EN: If you need something done, ask someone else. Having to sit in a chair all day is tougher than it looks.
+RU: 
+
+
+-- Section 46
+
+ID: M6010_S0020_G0520_300_op
+JP: あ～……だるい…………
+EN: Pheeeew... I'm exhausted...
+RU: 
+
+
+-- Section 47
+
+ID: M6010_S0010_G0520_300_op
+JP: ……なに？仕事？\n違うのか……ならいいや。
+EN: Do you need something? ...No? All right then.
+RU: 
+
+
+-- Section 48
+
+ID: M6010_S0010_G0530_300_op
+JP: あ～……眠い…………
+EN: Urgh... I'm so tired...
+RU: 
+
+
+-- Section 49
+
+ID: M6010_S0080_G0280_300_op
+JP: 地上の任務は順調ですか？\n報告は担当オペレーターを通して、司令官にお伝えください。
+EN: I hope the mission on Earth is going well. For now, you can report developments to the Commander through your assigned Operator.
+RU: 
+
+
+-- Section 50
+
+ID: M6010_S0080_G0290_300_op
+JP: ご武運をお祈りいたしております。\n頑張って。
+EN: I wish you success. Good luck.
+RU: 
+
+
+-- Section 51
+
+ID: M6010_S0020_G0530_300_op
+JP: あの……実はエイリアン反応の件を月面に報告してから、\nこれといった反応がなくて……
+EN: Strange... We reported the alien signal to the moon immediately, but there still hasn't been a response to speak of.
+RU: 
+
+ID: M6010_S0020_G0540_300_op
+JP: きっと、本部も混乱しているだけですよね……すみません、\nこんなこと言って。
+EN: I'm guessing they have plenty of things to worry about. I shouldn't run around spouting off such petty concerns.
+RU: 
+
+
+-- Section 52
+
+ID: M6010_S0020_G0550_300_op
+JP: 先の人型機械生命体の件も、本部からは特に指示がないままなんです。
+EN: We also didn't get instructions from headquarters about how to handle those humanoid machines.
+RU: 
+
+ID: M6010_S0020_G0560_300_op
+JP: 情報も少ないし、私達を信頼して任せているにしても……
+EN: Maybe they're just trusting us to deal with it? Or maybe...
+RU: 
+
+ID: M6010_S0020_G0570_300_op
+JP: もう地上に関心がないのかもって……不安です。
+EN: I mean, what if they're just not interested in Earth anymore?
+RU: 
+
+
+-- Section 53
+
+ID: M6010_S0010_G0540_300_op
+JP: 月面人類会議への連絡は司令官のみ承認権があります。\n各ヨルハ部隊員の個別連絡は認められていません。
+EN: Only the Commander can approve communications with the Council of Humanity. YoRHa soldiers aren't allowed to make individual contact.
+RU: 
+
+
+-- Section 54
+
+ID: M6010_S0010_G0550_300_op
+JP: 私は主に人類会議との通信を担当しています。
+EN: For the most part, I'm the operator in charge of communicating with the Council.
+RU: 
+
+ID: M6010_S0010_G0560_300_op
+JP: 人類会議からの連絡はあまりないので、通信はもっぱら地上の報告ですね。
+EN: They don't contact us much, so most of my job is just keeping them up-to-date on the latest Earth happenings.
+RU: 
+
+ID: M6010_S0010_G0570_300_op
+JP: それだけ、この基地が信頼されているということでしょう。
+EN: They must really trust us, huh?
+RU: 
+
+
+-- Section 55
+
+ID: M6010_S0080_G0300_300_op
+JP: ＜＜敵増援！マップデータを更新します！＞＞
+EN: "Enemy reinforcements approaching. I'm updating the map data and sendi—"
+RU: 
+
+
+-- Section 56
+
+ID: M6010_S0080_G0310_300_op
+JP: 話しかけられると敵を見失っちゃうんで、後にしてくださいー！
+EN: I'm more than a little busy here! Come back later!
+RU: 
+
+
+-- Section 57
+
+ID: M6010_S0020_G0580_300_op
+JP: 全裸男達の行方はいまだ掴めずって感じですけど、今全力で調査中です！
+EN: We still don't know the whereabouts of that naked machine man, but we're looking as hard as we can.
+RU: 
+
+
+-- Section 58
+
+ID: M6010_S0020_G0590_300_op
+JP: あの全裸男、見つけたと思ったら糸になって消えちゃうんですよねー。\nあれ何で出来てるんだろ。
+EN: Every time we track him down, he manages to slip through our fingers. How does he keep doing that!?
+RU: 
+
+
+-- Section 59
+
+ID: M6010_S0010_G0580_300_op
+JP: おつかれさま！こないだの戦闘、最高でした！\n次の活躍も楽しみにしてます！
+EN: You were fantastic in that battle the other day! I'm looking forward to seeing what you do next.
+RU: 
+
+
+-- Section 60
+
+ID: M6010_S0010_G0590_300_op
+JP: 何か面白いことはないかな～？
+EN: Oh my gosh, this day is lasting foreeeeeeever...
+RU: 
+
+
+-- Section 61
+
+ID: M6010_S0080_G0320_300_op
+JP: ＜＜レジスタンスキャンプ、こちらバンカー。被害状況の報告を\nお願いします＞＞
+EN: "Bunker to Resistance Camp: We need a damage report ASAP. Please respond."
+RU: 
+
+
+-- Section 62
+
+ID: M6010_S0080_G0330_300_op
+JP: …………
+EN: ......
+RU: 
+
+
+-- Section 63
+
+ID: M6010_S0020_G0600_300_op
+JP: 申し訳ありません……\n人型機械生命体の調査は難航していて、お伝えできることはありません。
+EN: Sorry, but the investigation into the humanoid machines is stalled; I don't have any new information for you.
+RU: 
+
+
+-- Section 64
+
+ID: M6010_S0020_G0610_300_op
+JP: 人型機械生命体の戦闘能力は依然成長しているようです。
+EN: The humanoid machines' battle abilities appear to be growing.
+RU: 
+
+ID: M6010_S0020_G0620_300_op
+JP: 調査に向かった部隊は全滅……
+EN: The troops we sent out to investigate were completely wiped out.
+RU: 
+
+ID: M6010_S0020_G0630_300_op
+JP: 油断ならない相手です。\n遭遇次第、破壊してください。
+EN: So don't let your guard down! If you run into one out there, destroy it at once!
+RU: 
+
+
+-- Section 65
+
+ID: M6010_S0010_G0600_300_op
+JP: お疲れ様です。任務は順調ですか？
+EN: Hello. How goes the mission?
+RU: 
+
+ID: M6010_S0010_G0610_300_op
+JP: HUDには任務に関する情報を表示できます。\n必要に応じて適切なプラグイン・チップをご利用ください。
+EN: If you need additional mission intel, you can find it on your HUD. Certain plug-in chips can also help you out.
+RU: 
+
+
+-- Section 66
+
+ID: M6010_S0010_G0620_300_op
+JP: 地上部隊が安全に戦えるよう、レジスタンスと協力してさまざまな情報を\n集めています。
+EN: We're collaborating with the Resistance to gather intel and help our troops win the war for Earth.
+RU: 
+
+ID: M6010_S0010_G0630_300_op
+JP: 皆さまのお役に立てれば幸いです。
+EN: We're happy to be of service.
+RU: 
+
+

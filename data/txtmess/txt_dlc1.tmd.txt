@@ -1,0 +1,340 @@
+ID: CORE_BOOK_11
+JP: 絵本：ソクバク
+EN: Restraints
+RU: 
+
+ID: CORE_BOOK_12
+JP: 絵本：トウソウ
+EN: Escape
+RU: 
+
+ID: CORE_BOOK_13
+JP: 絵本：フクシュウ
+EN: Revenge
+RU: 
+
+ID: CORE_ITEM_NAME_410
+JP: 禁断の果実
+EN: Forbidden Fruit
+RU: 
+
+ID: CORE_ITEM_NAME_875
+JP: 制約の証
+EN: Proof of Oath
+RU: 
+
+ID: CORE_ITEM_NAME_876
+JP: 正宗のお面
+EN: Masamune Mask
+RU: 
+
+ID: CORE_ITEM_NAME_877
+JP: 松田社長の被り物
+EN: Matsuda Mask
+RU: 
+
+ID: CORE_ITEM_NAME_878
+JP: 佐藤社長の被り物
+EN: Sato Mask
+RU: 
+
+ID: CORE_ITEM_NAME_880
+JP: ヘアカラー：ホワイト
+EN: White Hair
+RU: 
+
+ID: CORE_ITEM_NAME_881
+JP: ヘアカラー：ブラック
+EN: Black Hair
+RU: 
+
+ID: CORE_ITEM_NAME_882
+JP: ヘアカラー：ブラウン
+EN: Brown Hair
+RU: 
+
+ID: CORE_ITEM_NAME_883
+JP: ヘアカラー：レッド
+EN: Red Hair
+RU: 
+
+ID: CORE_ITEM_NAME_884
+JP: ヘアカラー：ブルー
+EN: Blue Hair
+RU: 
+
+ID: CORE_ITEM_NAME_885
+JP: ヘアカラー：グリーン
+EN: Green Hair
+RU: 
+
+ID: CORE_ITEM_NAME_886
+JP: ヘアカラー：パープル
+EN: Purple Hair
+RU: 
+
+ID: CORE_ITEM_NAME_887
+JP: ヘアカラー：アッシュグレー
+EN: Ash Grey Hair
+RU: 
+
+ID: CORE_ITEM_NAME_888
+JP: ヘアカラー：ゴールド
+EN: Golden Hair
+RU: 
+
+ID: CORE_ITEM_NAME_889
+JP: ヘアカラー：パステルピンク
+EN: Pastel Pink Hair
+RU: 
+
+ID: CORE_ITEM_NAME_890
+JP: ヘアカラー：ライトブルー
+EN: Light Blue Hair
+RU: 
+
+ID: CORE_ITEM_NAME_891
+JP: ヘアカラー：ライムグリーン
+EN: Lime Green Hair
+RU: 
+
+ID: CORE_ITEM_NAME_892
+JP: ヘアカラー：ライトパープル
+EN: Light Purple Hair
+RU: 
+
+ID: CORE_ITEM_NAME_893
+JP: ヘアカラー：ネオンホワイト
+EN: Neon White Hair
+RU: 
+
+ID: CORE_ITEM_NAME_894
+JP: ヘアカラー：ネオンイエロー
+EN: Neon Yellow Hair
+RU: 
+
+ID: CORE_ITEM_NAME_895
+JP: ヘアカラー：ネオンピンク
+EN: Neon Pink Hair
+RU: 
+
+ID: CORE_ITEM_NAME_896
+JP: ヘアカラー：ネオンブルー
+EN: Neon Blue Hair
+RU: 
+
+ID: CORE_ITEM_NAME_897
+JP: ヘアカラー：ネオングリーン
+EN: Neon Green Hair
+RU: 
+
+ID: CORE_ITEM_NAME_898
+JP: ヘアカラー：ネオンパープル
+EN: Neon Purple Hair
+RU: 
+
+ID: CORE_ITEM_NAME_935
+JP: レコード：3C3C1D119440927
+EN: Record: 3C3C1D119440927
+RU: 
+
+ID: CORE_ITEM_NAME_936
+JP: レコード：社長
+EN: Record: CEO
+RU: 
+
+ID: CORE_ITEM_NAME_960
+JP: 特殊弾：エミール
+EN: Emil Bullets
+RU: 
+
+ID: CORE_ITEM_NAME_961
+JP: 特殊弾：社長
+EN: CEO Bullets
+RU: 
+
+ID: CORE_ITEM_NAME_983
+JP: 露出の多い女性の服
+EN: Revealing Outfit
+RU: 
+
+ID: CORE_ITEM_NAME_994
+JP: 砂の仮面
+EN: Sand Mask
+RU: 
+
+ID: DLC1_DIALOG_PV_00
+JP: プラトン1728の記憶は、あの場所でいつでも見ることができます。
+EN: You can view the memories of Plato 1728 at any time.
+RU: 
+
+ID: DLC1_DIFF_01
+JP: EASY
+EN: Easy
+RU: 
+
+ID: DLC1_DIFF_02
+JP: NORMAL
+EN: Normal
+RU: 
+
+ID: DLC1_DIFF_03
+JP: HARD
+EN: Hard
+RU: 
+
+ID: DLC1_DIFF_04
+JP: VERY HARD
+EN: Very Hard
+RU: 
+
+ID: DLC1_PLATO_TELOP_01
+JP: １０分後……
+EN: 10 minutes later...
+RU: 
+
+ID: DLC1_PLATO_TELOP_02
+JP: ３２分後……
+EN: 32 minutes later...
+RU: 
+
+ID: DLC1_PLATO_TELOP_03
+JP: ８７分後……
+EN: 87 minutes later...
+RU: 
+
+ID: DLC1_PLATO_TELOP_04
+JP: ４３２分後……
+EN: 432 minutes later...
+RU: 
+
+ID: DLC1_PLATO_TELOP_05
+JP: ４分後……
+EN: 4 minutes later...
+RU: 
+
+ID: DLC1_PLATO_TELOP_06
+JP: ６４分後……
+EN: 64 minutes later...
+RU: 
+
+ID: HUD_LOG_TXT_20
+JP: 撃破数：<NUM>
+EN: Destroyed: <NUM>
+RU: 
+
+ID: HUD_LOG_TXT_21
+JP: 到達回数：<NUM>
+EN: Rings: <NUM>
+RU: 
+
+ID: PAUSE_ITEM_TXT_02
+JP: 「<ITEM_NAME>」を使用してプレイヤーのレベルを下げます。\nよろしいですか？
+EN: Use "<ITEM_NAME>" to lower your player level?
+RU: 
+
+ID: PAUSE_MAIL_BODY_035
+JP: e79bb2e5be93\n-1168.237183 -23.058865 -356.92981\ne99798e4ba89\n547.184265 -12.990042 -589.484436\ne5bea9e8ae90\n371.447266 -68.753235 784.282715
+EN: e79bb2e5be93\n-1168.237183 -23.058865 -356.92981\ne99798e4ba89\n547.184265 -12.990042 -589.484436\ne5bea9e8ae90\n371.447266 -68.753235 784.282715
+RU: 
+
+ID: PAUSE_MAIL_BODY_036
+JP: e69ab4e8b5b0\n616.088013 　13.446137 　314.672119
+EN: e69ab4e8b5b0\n616.088013 　13.446137 　314.672119
+RU: 
+
+ID: PAUSE_MAIL_BODY_037
+JP: 生まれてきた理由を　ずっと考えていた。\n全てを　間違えた僕に、価値はない。\n全てを　失った僕に、意味はない。\n\nただ、時折、一人でいることが、どうしようもなく辛くなる。\nだから、誰かに聞いてほしかったのかもしれない。\n\nもし僕ノ記憶にまた触れたくなったら、あの遊園地廃墟地下まで来てくれ。\n\n話を聞いてくれて、ありがとう。\n\n[添付ファイル]\ne591bde381abe381b5e38195e3828fe38197e38184
+EN: I've been wondering for ages why I was born.\nI do everything wrong; my life has no value.\nI've lost all that is dear to me; my existence is meaningless.\n\nAnd yet, sometimes, I feel an excruciating sadness at being alone.\nMaybe I just needed someone to listen to me.\n\nIf you wish to see my memories again, come to the area below the amusement park.\n\nThanks for listening to my story.\n\n[Attachment]\ne591bde381abe381b5e38195e3828fe38197e38184
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q085/DONE
+JP: 座標の地点には謎の施設があった。メールの差出人は、何の意図があってこの施設に導いたのだろうか。
+EN: There was a mysterious facility at the coordinates. You wonder why the sender of that mail wanted you to go there.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q085/RUN_1
+JP: 突然受信した差出人不明のメールには、３つの座標が記されていた。座標はそれぞれ、砂漠地帯、水没廃墟地帯、森林地帯を指しているようだ。\nメールに記された地点を調査する。
+EN: You received a sudden mail from an unknown source, containing 3 coordinates. They seem to point at locations in the desert, the flooded city, and the forest.\nInvestigate the coordinates.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q090/DONE
+JP: 戦いを通して、ここの機械生命体達が戦う事で自分達の存在意義を見出していることを理解した。彼等の戦いの行く末は、一体どこにあるのだろうか……
+EN: By participating in the contest, you came to understand that these machines use combat to find meaning in their lives. \nWill their battle ever come to an end?
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q090/RUN_1
+JP: 森の滝の裏には機械生命体が警備するエレベーターがあった。\nエレベーターの先には何と機械生命体達が最強のロボットを決める大会を開いているのであった。\n機械生命体達の大会に出場する。
+EN: Behind the waterfall in the forest, you find an elevator guarded by machines who have initiated a contest to determine their strength. Perplexed but intrigued, you decide to enter.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q090/RUN_2
+JP: 機械生命体達の大会で、全てのランクを制覇する。
+EN: Earn every rank in the contest.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q091/DONE
+JP: 内部調査していくと、ここのアンドロイド達は人間が持つ残虐性を持ち始め、機械生命体に対する残虐行為を楽しんでいる事が判明した。その行為をもたらすのは、憎悪か、それとも別の感情なのだろうか。
+EN: During your investigation, you learned that these androids had developed an almost human capacity for cruelty, and began to see violence against machine lifeforms as a form of sport. You wonder what is causing this behavior. Is it hate, or some other kind of emotion?
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q091/RUN_1
+JP: 水没都市のビルの裏手に怪しげなレジスタンスが立っており、地下へと案内された。\n案内された地下では、アンドロイドが運営する秘密の賭博闘技場が運営されているのであった。\n内部調査のため、賭博闘技場に参加する。
+EN: You found a fishy Resistance member in the flooded city who was directing those with the right credentials to an underground arena where android gamblers bet on fights. Intrigued, you join the tournament in order to investigate it from the inside.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q091/RUN_2
+JP: レジスタンス達の賭博闘技場で、全てのランクを制覇する。
+EN: Earn every rank in the underground fighting contest.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q092/DONE
+JP: 試練を乗り越えていくと、ここの機械生命体達は、遥か昔この砂の地で暮らす仮面の人々の王国の文化を模倣していると言う。何かに縋らねば生きていけない者達と、自分達の姿を重ねた。
+EN: After completing the trials, the machine lifeforms recounted that long ago, on these same sands, there existed a kingdom of people who lived their whole lives wearing masks. They say they can relate to people who desperately need something to cling to in order to keep on living.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q092/RUN_1
+JP: 砂漠地帯の一角に奇妙な雰囲気を醸し出す機械生命体達がいた。\nこの機械生命体達が言うには、ここは真の仮面の人を選定する場所だと言う。\n"真の仮面の人"への試練に挑む。
+EN: In a corner of the great desert, there is a group of machine lifeforms who claim to dwell in the spot where the true Masked People are chosen. Despite your uncertainty, you agree to undergo a set of trials to prove your worth.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q092/RUN_2
+JP: "真の仮面の人"への全ての試練を踏破する。
+EN: Surpass every trial of the Masked People.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q095/DONE
+JP: 遊園地廃墟地下にはプラトン１７２８の記録が保管されていた。\nノロマで出来そこないの、争いが嫌いなプラトン１７２８は、友達を失った怒りから暴走し、敵味方関係なくあらゆるものを破壊した。記憶だけの存在になった彼は、今も世界を見つめ、生まれてきた理由を考えている。
+EN: The area below the amusement park contained the diary of Plato 1728. \nA bumbling failure of a machine, Plato 1728 despised conflict. After losing a close friend, he flew into a fit of rage, and started destroying everything in sight, friend and foe alike.\nNow that he consists of nothing but memories, he watches out over the world, eternally contemplating the meaning of his existence.
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q095/RUN_1
+JP: 施設の調査を全て終えると、再び差出人不明のメールが届いた。メールには遊園地廃墟地下付近の座標が記されている。\nメールに記された地点を調査する。
+EN: Once all facilities had been examined, you received another mail from the unknown source, containing coordinates for a location below the amusement park.\nGo investigate!
+RU: 
+
+ID: PAUSE_QUEST_NAME_q085
+JP: 謎の手紙
+EN: Mysterious Letter
+RU: 
+
+ID: PAUSE_QUEST_NAME_q090
+JP: 地下闘技場
+EN: Underground Colosseum
+RU: 
+
+ID: PAUSE_QUEST_NAME_q091
+JP: 賭博闘技場
+EN: Gambler's Colosseum
+RU: 
+
+ID: PAUSE_QUEST_NAME_q092
+JP: 砂の試練
+EN: Trial of Sand
+RU: 
+
+ID: PAUSE_QUEST_NAME_q095
+JP: 謎の招待状
+EN: Mysterious Invitation
+RU: 
+

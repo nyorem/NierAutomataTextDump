@@ -1,0 +1,23 @@
+-- Section 1
+
+ID: M0010_S0220_G0070_111_pod042
+JP: ゲートの封鎖を確認。
+EN: Exit confirmed closed.
+RU: 
+
+ID: M0010_S0220_G0080_111_a2b
+JP: 扉の解除。
+EN: So open it.
+RU: 
+
+ID: M0010_S0220_G0090_111_pod042
+JP: 不可能：本エリアの敵が妨害電波を出している。
+EN: Negative. Nearby enemies are jamming our signal.
+RU: 
+
+ID: M0010_S0220_G0100_111_a2b
+JP: 面倒くさい……
+EN: Nothing's ever easy...
+RU: 
+
+

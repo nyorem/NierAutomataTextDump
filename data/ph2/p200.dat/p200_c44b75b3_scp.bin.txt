@@ -1,0 +1,188 @@
+-- Section 1
+
+ID: M1080_S0070_G0000_101_a2b
+JP: こいつら……！
+EN: Damn it...!
+RU: 
+
+ID: M1080_S0070_G0010_101_pascal
+JP: やはり私の予測は的中したようですね。
+EN: I was right. This IS shady!
+RU: 
+
+ID: M1080_S0070_G0020_101_pascal
+JP: しかし興味深い……
+EN: Fascinating, though...
+RU: 
+
+ID: M1080_S0070_G0030_101_pascal
+JP: こんな特殊な思想を持つ機械生命体は見た事がありません。
+EN: I've never seen machines with such...unique perspectives.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0070_G0040_101_pascal
+JP: きっと貴重なサンプルとして……
+EN: I wonder if there's a way to collect some samples and—
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0070_G0050_101_a2b
+JP: いいから逃げるッ！
+EN: Less talk. More running.
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0070_G0060_101_a2b
+JP: バンカー！こちら２Ｂ。
+EN: 2B to Bunker.
+RU: 
+
+ID: M1080_S0070_G0070_101_a2b
+JP: 廃工場跡地で敵性機械生命体と遭遇。
+EN: We've had a run-in with hostile machines in the abandoned factory.
+RU: 
+
+ID: M1080_S0070_G0080_101_a2b
+JP: 脱出ルートの確保を要請！
+EN: We need an immediate escape route.
+RU: 
+
+ID: M1080_S0070_G0090_101_op60
+JP: こ……ンカー。２Ｂさ……ました？
+EN: Op...here. What...2B?
+RU: 
+
+ID: M1080_S0070_G0100_101_pod042
+JP: 通信環境が不安定。
+EN: Communications are currently unstable.
+RU: 
+
+ID: M1080_S0070_G0110_101_a2b
+JP: 救援信号をループ発信！
+EN: Loop a distress signal!
+RU: 
+
+ID: M1080_S0070_G0120_101_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0070_G0130_101_a2b
+JP: クソッ！
+EN: Damn it!
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0070_G0081_101_prst
+JP: 君達も死んでカミになるのだ！
+EN: You also must die and become gods!
+RU: 
+
+ID: M1080_S0070_G0082_101_prst
+JP: 死後の世界はスバラシイ！
+EN: The afterlife is wonderful!
+RU: 
+
+ID: M1080_S0070_G0083_101_prst
+JP: 死ぬことこそが最後の平穏なのだ！
+EN: Death brings final tranquility!
+RU: 
+
+ID: M1080_S0070_G0084_101_prst
+JP: 死んでカミになれっ！
+EN: Die and become gods!
+RU: 
+
+ID: M1080_S0070_G0085_101_prst
+JP: みんなでカミになろう！
+EN: Let us become gods together!
+RU: 
+
+ID: M1080_S0070_G0086_101_prst
+JP: オレ達もカミになるんだ！なるんだ！
+EN: We shall become gods! We shall!
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0070_G0140_101_a2b
+JP: 封鎖されてるッ……
+EN: We're locked in...!
+RU: 
+
+
+-- Section 8
+
+ID: M1080_S0070_G0150_101_pascal
+JP: ２Ｂさん！部屋の奥のゲートが開いたようです。
+EN: 2B! The door on the other side of the room just opened!
+RU: 
+
+ID: M1080_S0070_G0160_101_pascal
+JP: 行ってみましょう。
+EN: Let's check it out.
+RU: 
+
+
+-- Section 9
+
+ID: M1080_S0070_G0170_101_a2b
+JP: 
+EN: 
+RU: 
+
+
+-- Section 10
+
+ID: M1080_S0070_G0180_101_rbot9s
+JP: 待って待って待って！２Ｂ！
+EN: Whoa, whoa, whoa, whoa, whoa! 2B!
+RU: 
+
+
+-- Section 11
+
+ID: M1080_S0070_G0190_101_rbot9s
+JP: 僕です！９Ｓです！
+EN: It's me! 9S!
+RU: 
+
+ID: M1080_S0070_G0200_101_a2b
+JP: ……９Ｓ！？
+EN: ...9S!?
+RU: 
+
+ID: M1080_S0070_G0210_101_a9s
+JP: バンカーからハッキングしてこの機械生命体をコントロールしています。
+EN: I hacked into this machine from the Bunker. I'm controlling it!
+RU: 
+
+ID: M1080_S0070_G0220_101_a9s
+JP: これから工場のシステムに侵入し、お二人を脱出させます！
+EN: I'm gonna break into this factory's systems and get you outta here!
+RU: 
+
+ID: M1080_S0070_G0050_300_a9s
+JP: ２Ｂ、無茶はしないで下さいね。\nまた後で会いましょう。
+EN: Don't do anything too reckless, 2B. We'll meet up later on.
+RU: 
+
+ID: M1080_S0070_G0230_101_a2b
+JP: わかった。お願い！
+EN: Appreciated.
+RU: 
+
+

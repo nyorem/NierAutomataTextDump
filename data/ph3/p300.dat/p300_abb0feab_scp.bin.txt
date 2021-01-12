@@ -1,0 +1,178 @@
+-- Section 1
+
+ID: M3030_S0040_G0000_001_a2
+JP: なんだこれ……
+EN: What the hell?
+RU: 
+
+ID: M3030_S0040_G0010_001_a2
+JP: 機械生命体同士が共食いをしてる……！？
+EN: The machines are...eating each other!?
+RU: 
+
+ID: M3030_S0040_G0020_001_a2
+JP: ポッド！パスカルは！？
+EN: Pod, where's Pascal!?
+RU: 
+
+ID: M3030_S0040_G0030_001_pod042
+JP: 通信不能の為、確認できず。
+EN: Unknown. Cannot establish connection.
+RU: 
+
+
+-- Section 2
+
+ID: M3030_S0040_G0040_001_pascal
+JP: ああっ！Ａ２さん……！
+EN: Aaaah! A2!
+RU: 
+
+ID: M3030_S0040_G0050_001_a2
+JP: どうしたんだ！？
+EN: What happened!?
+RU: 
+
+ID: M3030_S0040_G0060_001_pascal
+JP: わかりません……
+EN: I don't know.
+RU: 
+
+ID: M3030_S0040_G0070_001_pascal
+JP: いきなり一部の村人達が暴走して……
+EN: Some of the villagers suddenly went mad.
+RU: 
+
+ID: M3030_S0040_G0080_001_pascal
+JP: 仲間を襲い始めたのです。
+EN: They began attacking their friends.
+RU: 
+
+ID: M3030_S0040_G0090_001_pascal
+JP: 子供達だけは別の場所に逃がしたのですが、
+EN: I managed to help the children flee to safety.
+RU: 
+
+ID: M3030_S0040_G0100_001_pascal
+JP: 他の村人は……
+EN: But I fear everyone else is...
+RU: 
+
+ID: M3030_S0040_G0110_001_a2
+JP: このままだとお前も食われるぞ！
+EN: You need to get out of here before you're next.
+RU: 
+
+ID: M3030_S0040_G0120_001_a2
+JP: ここはなんとかするから、先に逃げろッ！
+EN: Just go. Run! I'll figure out how to handle this!
+RU: 
+
+ID: M3030_S0040_G0130_001_pascal
+JP: Ａ２さんは！？
+EN: But what about you?
+RU: 
+
+ID: M3030_S0040_G0140_001_a2
+JP: こんな雑魚共にやられる訳ないだろう！
+EN: These guys can't touch me.
+RU: 
+
+ID: M3030_S0040_G0150_001_a2
+JP: さっさと行けッ！！
+EN: Now move your ass!
+RU: 
+
+ID: M3030_S0040_G0160_001_pascal
+JP: は、はいっ！
+EN: R-Right!
+RU: 
+
+
+-- Section 3
+
+ID: M3030_S0040_G0170_001_a2
+JP: これで、全部か……
+EN: Is that all of them?
+RU: 
+
+ID: M3030_S0040_G0180_001_a2
+JP: 生き残っている機械生命体は？
+EN: Pod, scan for survivors.
+RU: 
+
+ID: M3030_S0040_G0190_001_pod042
+JP: 存在しない。全て機能停止している。
+EN: Scanning. No life signs detected.
+RU: 
+
+ID: M3030_S0040_G0200_001_a2
+JP: そうか……
+EN: None, huh...?
+RU: 
+
+ID: M3030_S0040_G0210_001_a2
+JP: パスカル。聞こえるか？
+EN: Pascal, can you hear me?
+RU: 
+
+ID: M3030_S0040_G0220_001_pascal
+JP: ああっ……Ａ２さん。
+EN: Ah! A2!
+RU: 
+
+ID: M3030_S0040_G0230_001_pascal
+JP: 村は、村の皆はどうなりましたか？
+EN: How is my village? My people?
+RU: 
+
+ID: M3030_S0040_G0240_001_a2
+JP: すまない……ダメだった。
+EN: I'm sorry. I couldn't help them.
+RU: 
+
+ID: M3030_S0040_G0250_001_pascal
+JP: そんな……
+EN: Oh no....
+RU: 
+
+ID: M3030_S0040_G0260_001_a2
+JP: 子供達は、大丈夫か？
+EN: Are the children all right?
+RU: 
+
+ID: M3030_S0040_G0270_001_pascal
+JP: 廃工場跡地に避難させています。
+EN: I've taken them to the abandoned factory.
+RU: 
+
+ID: M3030_S0040_G0280_001_a2
+JP: わかった。ひとまずそっちに行く。
+EN: All right. I'm on my way.
+RU: 
+
+
+-- Section 4
+
+ID: M3030_S0040_G0161_300_a2
+JP: ここを放っておく訳にはいかない……
+EN: I can't leave this village to fend for itself.
+RU: 
+
+
+-- Section 5
+
+ID: M3030_S0040_G0161_300_a2
+JP: ここを放っておく訳にはいかない……
+EN: I can't leave this village to fend for itself.
+RU: 
+
+
+-- Section 6
+
+ID: M3030_S0040_G0161_300_a2
+JP: ここを放っておく訳にはいかない……
+EN: I can't leave this village to fend for itself.
+RU: 
+
+

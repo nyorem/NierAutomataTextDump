@@ -1,0 +1,23 @@
+-- Section 1
+
+ID: M1060_S0150_G0000_201_a9s
+JP: 姿勢制御がこんなに重いなんて……！
+EN: I didn't think...this would be...so hard to control!
+RU: 
+
+ID: M1060_S0150_G0010_201_pod153
+JP: 警告：障害物に注意。
+EN: Alert: Obstacle ahead.
+RU: 
+
+ID: M1060_S0150_G0020_201_pod153
+JP: 接触すると重大な事故に繋がる恐れ。
+EN: A collision at this speed is not recommended.
+RU: 
+
+ID: M1060_S0150_G0030_201_a9s
+JP: 判ってるって！
+EN: Well aware, thank you!
+RU: 
+
+

@@ -1,0 +1,39 @@
+-- Section 1
+
+ID: M0010_S0740_G0000_001_a9s
+JP: 状況は！？
+EN: What's your status!?
+RU: 
+
+ID: M0010_S0740_G0010_001_a2b
+JP: これが目標の超大型兵器。破壊する。
+EN: This is the target. I'm going to destroy it.
+RU: 
+
+ID: M0010_S0740_G0020_001_a9s
+JP: 援護しますっ！
+EN: Uh...right. I'll provide support!
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0720_H0011_101_pod042
+JP: 警告：敵兵器による下方向からの攻撃。
+EN: Alert: Incoming enemy attack from below.
+RU: 
+
+ID: M0010_S0720_H0012_101_pod042
+JP: 推奨：退避。
+EN: Proposal: Evade.
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0740_G0065_021_a9s
+JP: ハッキング開始します！
+EN: Hacking in!
+RU: 
+
+

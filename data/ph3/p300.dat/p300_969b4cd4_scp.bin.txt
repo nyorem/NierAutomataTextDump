@@ -1,0 +1,223 @@
+-- Section 1
+
+ID: M3010_S0020_G0000_001_a2
+JP: 何だ……お前？
+EN: Who are you?
+RU: 
+
+ID: M3010_S0020_G0010_001_pod042
+JP: 私は随行支援ユニット『ポッド０４２』。
+EN: Tactical Support Unit Pod 042.
+RU: 
+
+ID: M3010_S0020_G0020_001_pod042
+JP: ヨルハ機体Ａ２の射撃支援を担当。
+EN: This Pod has been tasked with providing firing support for YoRHa unit A2.
+RU: 
+
+ID: M3010_S0020_G0030_001_a2
+JP: そんな事……頼んでない。
+EN: I didn't ask for help.
+RU: 
+
+ID: M3010_S0020_G0040_001_pod042
+JP: 肯定：Ａ２からの依頼は受けていない。
+EN: Affirmative. No request was received from unit A2.
+RU: 
+
+ID: M3010_S0020_G0050_001_pod042
+JP: この行動は前随行対象機体の２Ｂからの最終命令として記録されている。
+EN: Rather, it was the final order from this Pod's previous support assignment, unit 2B.
+RU: 
+
+ID: M3010_S0020_G0060_001_a2
+JP: 必要ない。
+EN: Well, it's unnecessary.
+RU: 
+
+ID: M3010_S0020_G0070_001_pod042
+JP: ヨルハ機体Ａ２にその判断をする権限はない。
+EN: YoRHa unit A2 lacks the authority to override this order.
+RU: 
+
+ID: M3010_S0020_G0080_001_a2
+JP: 勝手にしろ……
+EN: Whatever.
+RU: 
+
+
+-- Section 2
+
+ID: M3010_S0020_G0081_001_a2
+JP: 一体、何なんだ、あのデカイのは……
+EN: What the hell is that huge thing?
+RU: 
+
+ID: M3010_S0020_G0082_001_pod042
+JP: 不明
+EN: Unknown.
+RU: 
+
+ID: M3010_S0020_G0083_001_a2
+JP: 役に立たないハコだな。
+EN: You're pretty useless, you know that?
+RU: 
+
+
+-- Section 3
+
+ID: M3010_S0020_G0090_001_pod042
+JP: 要請：ヨルハ機体Ａ２の行動目的の開示。
+EN: Proposal: Unit A2 should state her intentions.
+RU: 
+
+ID: M3010_S0020_G0100_001_a2
+JP: 何でイチイチそんな事を……
+EN: Why the hell would I do that?
+RU: 
+
+ID: M3010_S0020_G0110_001_pod042
+JP: 支援する上で必要な情報と判断。
+EN: In order to provide optimal support, Pods must be supplied with data relating to the activities of supported units.
+RU: 
+
+ID: M3010_S0020_G0120_001_a2
+JP: 教える理由はない。
+EN: Not happening.
+RU: 
+
+
+-- Section 4
+
+ID: M3010_S0020_G0130_001_pod042
+JP: 要請：ヨルハ機体Ａ２の行動目的の開示。
+EN: Proposal: Unit A2 should state her intentions.
+RU: 
+
+ID: M3010_S0020_G0140_001_a2
+JP: 教えないって言っただろう！
+EN: What did I just say?
+RU: 
+
+ID: M3010_S0020_G0150_001_pod042
+JP: 随行支援ユニットは対象支援機体の行動目的が開示されない場合、
+EN: If an attending support unit is not provided with data related to the activity of its target,
+RU: 
+
+ID: M3010_S0020_G0160_001_pod042
+JP: 要請プロセスが３０秒に一度自動的に実行される事になっている。
+EN: it is programmed to automatically repeat the request every 30 seconds until such data is made available.
+RU: 
+
+ID: M3010_S0020_G0170_001_a2
+JP: はあ！？
+EN: Are you kidding me?
+RU: 
+
+ID: M3010_S0020_G0180_001_pod042
+JP: 推奨：速やかな行動目的の開示。
+EN: Proposal: Unit A2 should state her intentions.
+RU: 
+
+ID: M3010_S0020_G0190_001_pod042
+JP: 不必要に会話を繰り返すのはエネルギーの無駄と判断。
+EN: Needlessly repeating conversations on the same topic is a waste of energy resources.
+RU: 
+
+ID: M3010_S0020_G0200_001_a2
+JP: お前が勝手にやってるんだろう！
+EN: You're the one who keeps talking!
+RU: 
+
+
+-- Section 5
+
+ID: M3010_S0020_G0210_001_pod042
+JP: ３０秒経過。
+EN: Thirty seconds have passed.
+RU: 
+
+ID: M3010_S0020_G0220_001_pod042
+JP: 要請：ヨルハ機体Ａ２の行動目的の開示。
+EN: Proposal: Unit A2 should state her intentions.
+RU: 
+
+ID: M3010_S0020_G0230_001_a2
+JP: クソッ！
+EN: Damn it, stop!
+RU: 
+
+ID: M3010_S0020_G0240_001_a2
+JP: 目的は機械生命体をぶっ壊すことだ。わかったか！
+EN: My intention is to beat the hell out of every god damn machine I can find! Is that enough for you!?
+RU: 
+
+ID: M3010_S0020_G0250_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+
+-- Section 6
+
+ID: M3010_S0020_G0260_001_pod042
+JP: 付近の機械生命体のスキャン及び、マーク完了。
+EN: Scanning and marking of nearby machine lifeforms complete.
+RU: 
+
+ID: M3010_S0020_G0270_001_pod042
+JP: 砂漠地帯に大型の敵性機械生命体を感知。
+EN: Goliath-class enemies detected in desert area.
+RU: 
+
+ID: M3010_S0020_G0280_001_pod042
+JP: 推奨：大型機械生命体の破壊。
+EN: Proposal: Goliath-class enemies should be destroyed.
+RU: 
+
+ID: M3010_S0020_G0290_001_a2
+JP: 私に命令するな。
+EN: Don't tell me what to do.
+RU: 
+
+ID: M3010_S0020_G0300_001_pod042
+JP: 否定：これは命令ではない。
+EN: Pods are not authorized to issue commands.
+RU: 
+
+ID: M3010_S0020_G0310_001_pod042
+JP: ヨルハ機体Ａ２の行動目的に対する支援情報である。
+EN: Proposals are merely recommendations based on data provided by unit A2.
+RU: 
+
+ID: M3010_S0020_G0320_001_pod042
+JP: 推奨：情報に不満がある場合、行動目的の更新。
+EN: Proposal: Unit A2 should state updated intentions in order to secure more usable data.
+RU: 
+
+ID: M3010_S0020_G0330_001_a2
+JP: う　る　さ　い　黙　れ。
+EN: Shut...the hell...up.
+RU: 
+
+ID: M3010_S0020_G0340_001_pod042
+JP: 否定：本支援ユニットはヨルハ機体２Ｂの最終命令によって行動中。
+EN: Negative. This Pod is engaging in activity based on the final order of unit 2B.
+RU: 
+
+ID: M3010_S0020_G0350_001_pod042
+JP: ヨルハ機体Ａ２に命令権限は存在しない。
+EN: YoRHa unit A2 lacks the authority to issue commands.
+RU: 
+
+ID: M3010_S0020_G0360_001_a2
+JP: 勝手にしろ。邪魔するな。
+EN: Look, just stay out of my way.
+RU: 
+
+ID: M3010_S0020_G0370_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+

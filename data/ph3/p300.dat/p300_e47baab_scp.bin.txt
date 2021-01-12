@@ -1,0 +1,119 @@
+-- Section 1
+
+ID: M3005_S1010_S0000_001_telo
+JP: ２週間後……
+EN: Two Weeks Later...
+RU: 
+
+
+-- Section 2
+
+ID: M3005_S1010_S0010_001_pod042
+JP: 状況を共有する。
+EN: Data exchange engaged.
+RU: 
+
+
+-- Section 3
+
+ID: M3005_S1010_S0020_001_pod042
+JP: ヨルハ機体、２Ｂのブラックボックス信号は途絶。
+EN: Black-box signal for YoRHa unit 2B offline.
+RU: 
+
+ID: M3005_S1010_S0030_001_pod042
+JP: 死亡を確認。
+EN: Death confirmed.
+RU: 
+
+
+-- Section 4
+
+ID: M3005_S1010_S0040_001_pod153
+JP: ヨルハ機体、９Ｓは本日、破損部分の復元修復が完了。
+EN: YoRHa unit 9S has completed repair and reconstruction of all damaged areas.
+RU: 
+
+ID: M3005_S1010_S0050_001_pod153
+JP: 再起動可能状態にある。
+EN: Unit is ready for reactivation.
+RU: 
+
+
+-- Section 5
+
+ID: M3005_S1010_S0060_001_pod042
+JP: ヨルハ機体、Ａ２も再起動予定。
+EN: YoRHa unit A2 also ready for reactivation.
+RU: 
+
+
+-- Section 6
+
+ID: M3005_S1010_S0070_001_pod153
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 7
+
+ID: M3005_S1010_S0080_001_pod153
+JP: 提案：ライトの点灯。
+EN: Proposal: Illuminate surrounding area.
+RU: 
+
+
+-- Section 8
+
+ID: M3005_S1010_S0090_001_pod042
+JP: 確認：Ａ２及び９Ｓ機体の安全の確保。
+EN: Analysis: Units 9S and A2 are safe.
+RU: 
+
+
+-- Section 9
+
+ID: M3005_S1010_S0100_001_pod153
+JP: 問題ない。
+EN: No problems detected.
+RU: 
+
+
+-- Section 10
+
+ID: M3005_S1010_S0110_001_pod042
+JP: ならば、残りの課題は一つ。
+EN: Only one issue remains.
+RU: 
+
+
+-- Section 11
+
+ID: M3005_S1010_S0120_001_pod042
+JP: 我々はヨルハ支援システム。
+EN: We comprise the YoRHa support system.
+RU: 
+
+ID: M3005_S1010_S0130_001_pod042
+JP: Ａ２及び、９Ｓの機体が稼働するなら随行支援する義務が存在する。
+EN: If the A2 and 9S units are operational, we are required to attend and support.
+RU: 
+
+
+-- Section 12
+
+ID: M3005_S1010_S0140_001_pod153
+JP: 同意。
+EN: Agreed.
+RU: 
+
+
+-- Section 13
+
+ID: M3005_S1010_S0150_001_pod042
+JP: Ａ２及び、９Ｓの位置を表示。
+EN: Displaying positions of units A2 and 9S.
+RU: 
+
+

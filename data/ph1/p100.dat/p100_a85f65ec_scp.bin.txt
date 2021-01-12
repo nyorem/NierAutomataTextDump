@@ -1,0 +1,18 @@
+-- Section 1
+
+ID: M0010_S0715_G0000_101_pod042
+JP: 強力なジャミングを探知。
+EN: Alert: High-powered jamming detected.
+RU: 
+
+ID: M0010_S0715_G0010_101_pod042
+JP: 遠距離通信応答なし。
+EN: No response from long-range communications.
+RU: 
+
+ID: M0010_S0715_G0020_101_a2b
+JP: 倒せばいい。
+EN: Doesn't matter. I'll just take 'em out.
+RU: 
+
+

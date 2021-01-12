@@ -1,0 +1,55 @@
+ID: M0010_S0790_H0000_001_a2b
+JP: 今から、修復するッ！
+EN: I have to repair him.
+RU: 
+
+ID: M0010_S0790_H0010_001_a2b
+JP: ポッド！！止血ジェルと論理ウィルスワクチン！それと
+EN: Pod, get me staunching gel and logic-virus vaccines. Then access the—
+RU: 
+
+ID: M0010_S0790_H0020_001_pod042
+JP: 非推奨：当該９Ｓのバイタル低下はこの場での応急処置程度では\n止める事は出来
+EN: Inadvisable. The subject's vital signs are too poor to attempt field repair in the current—
+RU: 
+
+ID: M0010_S0790_H0030_001_a2b
+JP: うるさいっ！！いいから出してッ！！
+EN: Shut up! Just do what I say!
+RU: 
+
+ID: M0010_S0790_H0040_001_a9s
+JP: ……ツ……２Ｂ……行って……
+EN: 2B... Just go...
+RU: 
+
+ID: M0010_S0790_H0050_001_a2b
+JP: 黙って！！
+EN: You shut up too!
+RU: 
+
+ID: M0010_S0790_H0060_001_a9s
+JP: 僕達は、兵士……です。その戦いに、誇りを……ッ！！
+EN: We...we're sold...iers... We take pride in...our service...
+RU: 
+
+ID: M0010_S0790_H0070_001_pod042
+JP: 装備 Ho229。コマンド６７７受諾。
+EN: Ho229 flight unit. Command 677 received.
+RU: 
+
+ID: M0010_S0790_H0080_001_pod042
+JP: 使用者を９Ｓから２Ｂに権限移譲。２Ｂの承認を求む。
+EN: Usage rights transferred from 9S to 2B. Requesting acknowledgement.
+RU: 
+
+ID: M0010_S0790_H0090_001_a9s
+JP: お願い……
+EN: Please...
+RU: 
+
+ID: M0010_S0790_H0100_001_a2b
+JP: わかった……
+EN: ...All right.
+RU: 
+

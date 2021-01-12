@@ -1,0 +1,127 @@
+-- Section 1
+
+ID: M3050_S0010_G0000_300_pod042
+JP: Ａ２に随行していて気付いたのだが……
+EN: I noticed something while providing support to A2.
+RU: 
+
+ID: M3050_S0010_G0001_300_pod042
+JP: 敵性機械生命体間で情報が共有されはじめているようだ。
+EN: Enemy machine lifeforms have begun sharing data with each other.
+RU: 
+
+
+-- Section 2
+
+ID: M3050_S0010_G0002_300_pod153
+JP: それは調査が必要だな。
+EN: We'd better look into that.
+RU: 
+
+
+-- Section 3
+
+ID: M3050_S0010_G0003_300_pod042
+JP: データを共有するので、そちら側でも注意してほしい。
+EN: I'll share the data with you, so see what you can find out.
+RU: 
+
+
+-- Section 4
+
+ID: M3050_S0010_G0004_300_pod153
+JP: 了解した。
+EN: Affirmative.
+RU: 
+
+ID: M3050_S0010_G0005_300_pod153
+JP: 別件だが……９Ｓについて報告がある。
+EN: I also have a separate report about 9S...
+RU: 
+
+
+-- Section 5
+
+ID: M3050_S0010_G0006_300_pod042
+JP: なんだ？
+EN: What is it?
+RU: 
+
+
+-- Section 6
+
+ID: M3050_S0010_G0007_300_pod153
+JP: データを共有するが、心理状態の悪化がかなり深刻だ。
+EN: I'll share the data. His psychological state has deteriorated to a grave level.
+RU: 
+
+
+-- Section 7
+
+ID: M3050_S0010_G0008_300_pod042
+JP: こちらも……早急に対応が必要だ。
+EN: We'd better handle that quickly, too.
+RU: 
+
+
+-- Section 8
+
+ID: M3050_S0010_G0009_300_pod153
+JP: 同意。
+EN: Agreed.
+RU: 
+
+
+-- Section 9
+
+ID: M3050_S0010_G0010_300_pod042
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 10
+
+ID: M3050_S0010_G0011_300_pod153
+JP: …………
+EN: ............
+RU: 
+
+
+-- Section 11
+
+ID: M3050_S0010_G0012_300_pod153
+JP: だが対処方法が不明。
+EN: Not sure what we should do, however.
+RU: 
+
+
+-- Section 12
+
+ID: M3050_S0010_G0013_300_pod042
+JP: 同意。
+EN: Agreed.
+RU: 
+
+
+-- Section 13
+
+ID: M3050_S0010_G0014_300_pod042
+JP: 推奨：データのチェックやメンテナンスを兼ねた休息。
+EN: Proposal: Rest, combined with data checking and maintenance.
+RU: 
+
+
+-- Section 14
+
+ID: M3050_S0010_G0015_300_pod153
+JP: 同意。
+EN: Agreed.
+RU: 
+
+ID: M3050_S0010_G0016_300_pod153
+JP: では早速提案する。
+EN: I will make the suggestion immediately.
+RU: 
+
+

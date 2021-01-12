@@ -1,0 +1,143 @@
+-- Section 1
+
+ID: M1080_S0080_G0100_201_a9s
+JP: ２Ｂの脱出経路を確保しないと……
+EN: I'd better secure her an escape route...
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0080_G0110_201_a9s
+JP: よし。最初のゲート解除！
+EN: There we go. First door unlocked!
+RU: 
+
+ID: M1080_S0080_G1120_201_a9s
+JP: ２Ｂ！そのまま、まっすぐ進んでください！
+EN: 2B! Keep going straight!
+RU: 
+
+ID: M1080_S0080_G1130_201_a2b
+JP: 了解。
+EN: Will do.
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0080_G0140_201_a9s
+JP: 第二ゲート解除。
+EN: Door two disabled.
+RU: 
+
+ID: M1080_S0080_G1150_201_a9s
+JP: ゲートのロックを解除しました！先に進んでください！
+EN: The door's open! Keep moving!
+RU: 
+
+ID: M1080_S0080_G1160_201_a2b
+JP: わかった！
+EN: All right.
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0080_G0170_201_a9s
+JP: 解放したぞ。
+EN: It's open.
+RU: 
+
+ID: M1080_S0080_G1180_201_a9s
+JP: 出口までのルートを確保完了です！
+EN: Exit route secured!
+RU: 
+
+ID: M1080_S0080_G1190_201_a2b
+JP: ありがとう！
+EN: Thanks!
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0080_G0200_201_pod153
+JP: 報告：２Ｂが大型の機械生命体と交戦中。
+EN: Alert: 2B is currently engaging a machine lifeform of significant ability.
+RU: 
+
+ID: M1080_S0080_G0210_201_pod153
+JP: 大型機械生命体は工場施設より電力供給を受けている事を確認。
+EN: Said machine is drawing electrical power from the factory itself.
+RU: 
+
+ID: M1080_S0080_G0220_201_pod153
+JP: 推奨：工場施設のメインフレームに侵入し電力停止を敢行。
+EN: Proposal: Infiltrate the factory's mainframe and shut off the power.
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0070_G1290_101_a2b
+JP: ……９Ｓ！
+EN: 9S?
+RU: 
+
+ID: M1080_S0070_G1300_101_a2b
+JP: いま遭遇してる大型機械生命体が……
+EN: That Goliath we just encountered—
+RU: 
+
+ID: M1080_S0070_G1310_101_a9s
+JP: 大丈夫です！モニターしてました。工場の電力を落とします！
+EN: I got it! I've been keeping an eye on you. I'm gonna shut off power to the factory now!
+RU: 
+
+ID: M1080_S0070_G1320_101_a2b
+JP: お願い！
+EN: Do it!
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0070_G1500_300_a9s
+JP: 工場システム掌握２０％\n２Ｂ、何とか耐えぬいて下さい！
+EN: Factory system at 20 percent control. You have to hold out for me, 2B!
+RU: 
+
+
+-- Section 8
+
+ID: M1080_S0070_G1510_300_a9s
+JP: 工場システム掌握５０％！！\n後は、このコアさえ何とかすれば……
+EN: Factory system at 50 percent control! Now we just have to do something about this core...
+RU: 
+
+
+-- Section 9
+
+ID: M1080_S0070_G1520_300_a9s
+JP: システム掌握率８０％！！\n２Ｂ、あと少しです！
+EN: Factory system at 80 percent control! Hang in there, 2B!
+RU: 
+
+
+-- Section 10
+
+ID: M1080_S0070_G1530_300_a9s
+JP: ９０％……９２……９５……９８……
+EN: 90 percent... 92... 95... 98...
+RU: 
+
+
+-- Section 11
+
+ID: M1080_S0070_G1330_101_a9s
+JP: 電源供給を停止させました！２Ｂ！
+EN: 2B! I just shut down the electrical grid!
+RU: 
+
+

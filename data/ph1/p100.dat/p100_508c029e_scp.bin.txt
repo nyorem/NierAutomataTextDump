@@ -1,0 +1,39 @@
+-- Section 1
+
+ID: M1030_S0015_G0060_001_ane
+JP: ああ、君達か。
+EN: Ah, it's you.
+RU: 
+
+ID: M1030_S0015_G0070_001_ane
+JP: いつも世話になってすまないな……
+EN: Thanks for all you've been doing for us.
+RU: 
+
+ID: M1030_S0015_G0080_001_ane
+JP: 礼と言っては何だが、君達ヨルハの為に部屋を用意しておいた。
+EN: We don't have much to offer in thanks, but I have readied a room for you here.
+RU: 
+
+ID: M1030_S0015_G0090_001_a2b
+JP: 部屋？
+EN: Oh?
+RU: 
+
+
+-- Section 2
+
+ID: M1030_S0015_G0100_001_ane
+JP: ヨルハ部隊には世話になってるからな……遠慮無く使ってくれ。
+EN: It's the least we can do. Feel free to use it however you like.
+RU: 
+
+
+-- Section 3
+
+ID: M1030_S0015_G0110_001_a9s
+JP: ありがとうございます！
+EN: Hey, thanks!
+RU: 
+
+

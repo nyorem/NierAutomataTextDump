@@ -1,0 +1,388 @@
+-- Section 1
+
+ID: M5072_S0010_G0090_001_a2b
+JP: ……
+EN: I see where this is going.
+RU: 
+
+ID: M5072_S0010_G0100_001_sele
+JP: 助ける。
+EN: Offer to help.
+RU: 
+
+ID: M5072_S0010_G0110_001_sele
+JP: 助けない。
+EN: Refuse to help.
+RU: 
+
+
+-- Section 2
+
+ID: M5072_S0010_G0000_001_n02
+JP: コンニチハ。アソビニキテクレタノ？デモ……
+EN: GREETINGS. YOU HAVE RETURNED TO US. HOWEVER...
+RU: 
+
+ID: M5072_S0010_G0010_001_a2b
+JP: また、病気になった動物？
+EN: Let me guess: You need more medicine.
+RU: 
+
+ID: M5072_S0010_G0020_001_n02
+JP: ウウン、チガウ。ミンナゲンキダヨ！
+EN: NO. EVERYONE HERE IS FINE.
+RU: 
+
+ID: M5072_S0010_G0030_001_n02
+JP: ……デモ、チョットコマッタコトニナッテテ。
+EN: BUT, THERE IS A PROBLEM.
+RU: 
+
+ID: M5072_S0010_G0040_001_a9s
+JP: 何があったの？
+EN: What's going on?
+RU: 
+
+ID: M5072_S0010_G0050_001_n02
+JP: サイキン、ヨソノモリカラ、ドウブツノムレガ、イジュウシテキタンダ。
+EN: A PACK OF WILD ANIMALS HAS RECENTLY MIGRATED HERE FROM ELSEWHERE IN THE FOREST.
+RU: 
+
+ID: M5072_S0010_G0060_001_n02
+JP: ソノムレハ、ナワバリイシキガツヨイラシクテ。
+EN: THEY SEEM TO HAVE A STRONG TERRITORIAL INSTINCT.
+RU: 
+
+ID: M5072_S0010_G0070_001_n02
+JP: マワリノドウブツタチヲキズツケテイルンダ。
+EN: THEY HAVE BEEN INJURING SOME OF THE OTHER NEARBY ANIMALS.
+RU: 
+
+ID: M5072_S0010_G0080_001_n02
+JP: クヤシイケド、ボクヒトリジャ、ドウニモナラナイ……
+EN: SADLY, I DO NOT HAVE THE POWER TO STOP THEM...
+RU: 
+
+
+-- Section 3
+
+ID: M5072_S0010_G0120_001_n02
+JP: キミタチニハカンケイナイカラ、キニシナイデ。
+EN: OF COURSE. THIS IS NOT YOUR PROBLEM, AFTER ALL.
+RU: 
+
+ID: M5072_S0010_G0130_001_n02
+JP: コレハボクノモンダイダカラ。
+EN: I MUST FIGURE OUT A SOLUTION ON MY OWN.
+RU: 
+
+
+-- Section 4
+
+ID: M5072_S0010_G0140_001_n02
+JP: ミンナヲキズツケテイル、アノムレヲナントカシタイケド……
+EN: IF ONLY I COULD STOP THE WILD ANIMALS FROM ATTACKING...
+RU: 
+
+ID: M5072_S0010_G0150_001_n02
+JP: ボクヒトリジャドウニモデキナイ……
+EN: BUT I AM POWERLESS TO HELP...
+RU: 
+
+
+-- Section 5
+
+ID: M5072_S0010_G0160_001_n02
+JP: エ……イイノ？
+EN: OH! ARE YOU SURE?
+RU: 
+
+ID: M5072_S0010_G0170_001_a9s
+JP: 事情を知って見過ごすのも気分が悪いからね……それで、群れはどこに？
+EN: We can't just let some pack of animals bully their way in here. Where are they now?
+RU: 
+
+ID: M5072_S0010_G0180_001_n02
+JP: アリガトウ！アイツラハ、モリノイッカクヲネグラニシテル。
+EN: THANK YOU! THEY HAVE ADOPTED A CORNER OF THE FOREST AS THEIR LAIR.
+RU: 
+
+ID: M5072_S0010_G0190_001_n02
+JP: ……デモ、ムリハシナイデ。
+EN: PLEASE BE CAREFUL...
+RU: 
+
+
+-- Section 6
+
+ID: M5072_S0010_G0180_001_n02
+JP: アリガトウ！アイツラハ、モリノイッカクヲネグラニシテル。
+EN: THANK YOU! THEY HAVE ADOPTED A CORNER OF THE FOREST AS THEIR LAIR.
+RU: 
+
+ID: M5072_S0010_G0190_001_n02
+JP: ……デモ、ムリハシナイデ。
+EN: PLEASE BE CAREFUL...
+RU: 
+
+
+-- Section 7
+
+ID: M5072_S0010_G0200_001_a9s
+JP: でも……殺していい動物と、そうでない動物がいるなんて。
+EN: So it's okay to kill some animals, but not others?
+RU: 
+
+ID: M5072_S0010_G0210_001_a9s
+JP: 勝手な話ですね。
+EN: Seems kind of arbitrary, no?
+RU: 
+
+ID: M5072_S0010_G0220_001_a2b
+JP: ……ためらう権利なんかない。
+EN: We have no right to judge.
+RU: 
+
+ID: M5072_S0010_G0230_001_a2b
+JP: 私達は、殺すために作られた兵士だから。
+EN: We're soldiers that were created to kill.
+RU: 
+
+ID: M5072_S0010_G0240_001_a9s
+JP: そう……ですね。
+EN: Yeah...
+RU: 
+
+
+-- Section 8
+
+ID: M5072_S0010_G0250_001_a2b
+JP: あれは……
+EN: Is that...?
+RU: 
+
+
+-- Section 9
+
+ID: M5072_S0010_G0260_001_n02
+JP: ウウ……
+EN: NNNGH...
+RU: 
+
+
+-- Section 10
+
+ID: M5072_S0010_G0270_001_n02
+JP: ウウ……アアアアアアアアッ！
+EN: GRRRRRRRRRAAAAAAAAGH!
+RU: 
+
+
+-- Section 11
+
+ID: M5072_S0010_G0280_001_a9s
+JP: まさか、動物の群れのリーダーが機械生命体だなんて……
+EN: Wow... So the leader of the pack was a machine?
+RU: 
+
+
+-- Section 12
+
+ID: M5072_S0010_G0290_001_a9s
+JP: 群れは全て倒しましたね。
+EN: That's the last of them.
+RU: 
+
+ID: M5072_S0010_G0300_001_a9s
+JP: あのロボットに知らせましょう。
+EN: Let's go tell that machine that his animal friends are safe.
+RU: 
+
+
+-- Section 13
+
+ID: M5072_S0010_G0180_001_n02
+JP: アリガトウ！アイツラハ、モリノイッカクヲネグラニシテル。
+EN: THANK YOU! THEY HAVE ADOPTED A CORNER OF THE FOREST AS THEIR LAIR.
+RU: 
+
+ID: M5072_S0010_G0190_001_n02
+JP: ……デモ、ムリハシナイデ。
+EN: PLEASE BE CAREFUL...
+RU: 
+
+
+-- Section 14
+
+ID: M5072_S0010_G0310_001_a2b
+JP: ……あの、動物を真似ていたロボット。
+EN: I've been thinking about the machine who was leading that pack.
+RU: 
+
+ID: M5072_S0010_G0320_001_a9s
+JP: はい？
+EN: Oh yeah?
+RU: 
+
+ID: M5072_S0010_G0330_001_a2b
+JP: 真似というより、動物そのものの様な行動を取っていた。
+EN: It seemed less like imitation and more like actual animal behavior.
+RU: 
+
+ID: M5072_S0010_G0340_001_a9s
+JP: 言われてみれば不思議ですね。何か理由があったんでしょうか？
+EN: Yeah, I guess it was kind of odd. You thinking there's a reason for it?
+RU: 
+
+ID: M5072_S0010_G0350_001_a2b
+JP: うん……
+EN: Perhaps.
+RU: 
+
+
+-- Section 15
+
+ID: M5072_S0010_G0360_001_n02
+JP: ムレヲヤッツケテクレタンダネ。アリガトウ！
+EN: YOU DISPATCHED THE WILD ANIMALS. THANK YOU!
+RU: 
+
+ID: M5072_S0010_G0370_001_n02
+JP: コレデアンシンシテクラセルヨ。
+EN: NOW WE CAN LIVE HERE IN PEACE.
+RU: 
+
+ID: M5072_S0010_G0380_001_n02
+JP: コレ、ヨカッタラモラッテ！
+EN: HERE, PLEASE TAKE THIS.
+RU: 
+
+
+-- Section 16
+
+ID: M5072_S0010_G0390_001_a2b
+JP: あの群れのリーダーと思われるロボットを見た事は？
+EN: Do you know anything about the machine that was leading the pack?
+RU: 
+
+ID: M5072_S0010_G0400_001_n02
+JP: エ？ウウン、ロボットダッタノ？
+EN: HMM? WHAT MACHINE?
+RU: 
+
+ID: M5072_S0010_G0410_001_a2b
+JP: 動物の真似をして……いや、もはや動物そのままだったと言ってもいい。\n言葉も通じなかった。
+EN: The pack leader was a machine lifeform that seemed to think it was an animal. We couldn't even communicate with it.
+RU: 
+
+ID: M5072_S0010_G0420_001_n02
+JP: ロボットガ、ドウブツニ……？
+EN: A MACHINE-TURNED-ANIMAL...
+RU: 
+
+ID: M5072_S0010_G0430_001_n02
+JP: ナニガアッテソウナッタカハ、ワカラナイケド……デモ……
+EN: I DO NOT KNOW WHAT COULD HAVE CAUSED THIS.
+RU: 
+
+ID: M5072_S0010_G0440_001_n02
+JP: ソウナッタロボットト、ドウブツヲワケルモノハ……ナンダロウ……
+EN: BUT I WONDER...WHAT IS LEFT THAT SEPARATES SUCH A MACHINE FROM BEING CALLED AN ANIMAL?
+RU: 
+
+ID: M5072_S0010_G0450_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 17
+
+ID: M5072_S0010_G0460_001_n02
+JP: ムレヲヤッツケテクレタンダネ。アリガトウ！
+EN: IN ANY CASE, YOU DISPATCHED THE WILD ANIMALS. YOU HAVE MY THANKS.
+RU: 
+
+ID: M5072_S0010_G0470_001_n02
+JP: コレデアンシンシテクラセルヨ。
+EN: NOW WE CAN LIVE HERE IN PEACE.
+RU: 
+
+ID: M5072_S0010_G0480_001_n02
+JP: ボク、オレイヲヨウイシタンダ。ヨカッタラモラッテ。
+EN: HERE, PLEASE TAKE THIS.
+RU: 
+
+
+-- Section 18
+
+ID: M5072_S0010_G0490_001_a9s
+JP: あの群れのリーダーと思われるロボットを見た事はある？
+EN: Do you know anything about the machine that was leading the pack?
+RU: 
+
+ID: M5072_S0010_G0500_001_n02
+JP: エ？ウウン、ロボットダッタノ？
+EN: HMM? WHAT MACHINE?
+RU: 
+
+ID: M5072_S0010_G0510_001_a9s
+JP: 動物の真似をしてた。というより、最早動物そのままだったよ。
+EN: The pack leader was a machine lifeform that seemed to think it was an animal.
+RU: 
+
+ID: M5072_S0010_G0520_001_a9s
+JP: 言葉も通じなくて……
+EN: We couldn't even communicate with it.
+RU: 
+
+ID: M5072_S0010_G0530_001_n02
+JP: ソウナンダ……デモ、コロシタンダヨネ？
+EN: I SEE... BUT YOU DISPATCHED THEM, YES?
+RU: 
+
+ID: M5072_S0010_G0540_001_n02
+JP: ジャア、ココハ、アンシンダ！ヘイワダ！
+EN: IN THAT CASE, ALL IS WELL. ALL IS PEACE!
+RU: 
+
+ID: M5072_S0010_G0550_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 19
+
+ID: M5072_S0010_G0470_001_n02
+JP: コレデアンシンシテクラセルヨ。
+EN: NOW WE CAN LIVE HERE IN PEACE.
+RU: 
+
+
+-- Section 20
+
+ID: M5071_S0030_G0120_001_n02
+JP: マタキテネ！ミンナマッテルヨ。
+EN: COME AGAIN. WE WILL BE WAITING.
+RU: 
+
+
+-- Section 21
+
+ID: M5072_S0010_G0560_001_a9s
+JP: 動物を愛する事が出来るのに、仲間の機械生命体の死を望むなんて……
+EN: How can you love animals and yet not bat an eye at the death of a fellow machine?
+RU: 
+
+ID: M5072_S0010_G0570_001_a9s
+JP: ……不思議ですね。機械生命体は。
+EN: I do not get these guys.
+RU: 
+
+ID: M5072_S0010_G0580_001_a2b
+JP: ……うん。
+EN: ...Yeah.
+RU: 
+
+

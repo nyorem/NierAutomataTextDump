@@ -1,0 +1,8 @@
+-- Section 1
+
+ID: M1010_S0010_G0710_300_a9s
+JP: ははは、２Ｂさん、あんまり複雑に操作するものだから\n保存容量の上限に達してしまいました。一旦保存は停止しますね。
+EN: Heh. Ma'am, you fiddled with so many things, I ended up hitting my max storage limit. I'll have to stop recording for now.
+RU: 
+
+

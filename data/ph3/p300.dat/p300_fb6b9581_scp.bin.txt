@@ -1,0 +1,56 @@
+-- Section 1
+
+ID: M3040_S0010_S0000_001_pod153
+JP: 警告：９Ｓのバイタルに異変を感知。
+EN: Alert: Abnormality detected in vitals of unit 9S.
+RU: 
+
+ID: M3040_S0010_S0010_001_pod153
+JP: 推奨：早急なデータオーバーホール。
+EN: Proposal: Commence data overhaul immediately.
+RU: 
+
+ID: M3040_S0010_S0020_001_a9s
+JP: ……他の大型ユニットの位置を検索。
+EN: Pod, search for the other structural units.
+RU: 
+
+ID: M3040_S0010_S0030_001_a9s
+JP: さっさと『認証キー』を集めて塔を破壊しないと……
+EN: I need to find those authorization keys and destroy the Tower.
+RU: 
+
+ID: M3040_S0010_S0040_001_pod153
+JP: 警告：バイタルに異変を抱えたままの戦闘継続は危険。
+EN: Alert: Combat inadvisable during abnormal vital conditions.
+RU: 
+
+ID: M3040_S0010_S0050_001_a9s
+JP: いいから、検索しろ。
+EN: It's fine. Run the search.
+RU: 
+
+ID: M3040_S0010_S0060_001_pod153
+JP: ……アクセス可能な位置に稼働中の敵大型ユニットを確認。
+EN: Scanning. Actively operating enemy large structural unit detected in accessible location.
+RU: 
+
+ID: M3040_S0010_S0070_001_pod153
+JP: マップにユニットの場所をマーク。
+EN: Marking location on map.
+RU: 
+
+
+-- Section 2
+
+ID: M5640_S0050_G0430_001_pod042
+JP: 司令部からのメールを確認。
+EN: Alert: Mail received from Command.
+RU: 
+
+ID: M5640_S0050_G0440_001_pod153
+JP: 司令部からのメールを確認。
+EN: Alert: Mail received from Command.
+RU: 
+
+

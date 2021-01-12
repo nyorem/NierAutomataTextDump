@@ -1,0 +1,618 @@
+-- Section 1
+
+ID: M5562_S0010_G0000_001_dbl
+JP: なあ、今、時間はあるか？出来ればちょっと頼まれて欲しいんだ。
+EN: Hey! You have a second? I've got a little favor to ask.
+RU: 
+
+ID: M5562_S0010_G0010_001_dbl
+JP: テントを修復するための『樹液』が欲しいんだけど、ちょっと厄介な\n敵が湧いててね。
+EN: We need some tree sap to repair a tent, but there are some super strong enemies guarding it.
+RU: 
+
+ID: M5562_S0010_G0020_001_dbl
+JP: アタシ達の武器じゃあ……
+EN: We can't even dent the things with the flimsy little weapons we have, so maybe you can—
+RU: 
+
+ID: M5562_S0010_G0030_001_a9s
+JP: ねえ、デボル。何で君達がそんな危険な雑用ばかりやらされてるの？
+EN: Hey, Devola? Why do you two keep getting all these incredibly dangerous odd jobs?
+RU: 
+
+ID: M5562_S0010_G0040_001_a9s
+JP: 戦闘が必要なら他のアンドロイドに頼めばいいのに。
+EN: If fighting is involved, there are plenty of androids more suited for the task.
+RU: 
+
+ID: M5562_S0010_G0041_001_dbl
+JP: それは……
+EN: I...
+RU: 
+
+ID: M5562_S0010_G0042_001_dbl
+JP: …………
+EN: ...
+RU: 
+
+ID: M5562_S0010_G0043_001_dbl
+JP: ……すまない。
+EN: I'm sorry...
+RU: 
+
+ID: M5562_S0010_G0080_001_dbl
+JP: 私達の仕事は、自分達でやらなきゃな。
+EN: We really should be handling our own tasks.
+RU: 
+
+ID: M5562_S0010_G0090_001_ppl
+JP: デボル……
+EN: Devola...
+RU: 
+
+ID: M5562_S0010_G0100_001_sele
+JP: デボル達を手助けする。
+EN: Help the twins out.
+RU: 
+
+ID: M5562_S0010_G0110_001_sele
+JP: 何もしない。
+EN: Do nothing.
+RU: 
+
+
+-- Section 2
+
+ID: M5562_S0010_G0120_001_a9s
+JP: いいよ。君が受けてる雑用、引き受けるよ。
+EN: No! It's not that! Honestly, I'm happy to help you guys if you need it.
+RU: 
+
+ID: M5562_S0010_G0130_001_a9s
+JP: ヨルハ型の僕の方が、戦闘には向いてるからね。
+EN: I'm YoRHa, remember? I'm way more suited to this line of work than you are anyway.
+RU: 
+
+ID: M5562_S0010_G0140_001_a9s
+JP: 『樹液』を集めてくればいいんだね？
+EN: What was it you needed again? Tree sap?
+RU: 
+
+ID: M5562_S0010_G0180_001_dbl
+JP: いいって、あれは私達がやるべき仕事……
+EN: That's okay. We'll handle this one ourselves.
+RU: 
+
+ID: M5562_S0010_G0190_001_ppl
+JP: デボル、ここはお願いしましょう。
+EN: Devola, I think we should accept the assistance.
+RU: 
+
+ID: M5562_S0010_G0200_001_dbl
+JP: ポポル……
+EN: Come on, Sis! We can't keep—
+RU: 
+
+ID: M5562_S0010_G0210_001_ppl
+JP: ごめんなさいね。すごく助かるわ。
+EN: Thank you. You have no idea how much this helps.
+RU: 
+
+
+-- Section 3
+
+ID: M5562_S0010_G0000_001_dbl
+JP: なあ、今、時間はあるか？出来ればちょっと頼まれて欲しいんだ。
+EN: Hey! You have a second? I've got a little favor to ask.
+RU: 
+
+ID: M5562_S0010_G0010_001_dbl
+JP: テントを修復するための『樹液』が欲しいんだけど、ちょっと厄介な\n敵が湧いててね。
+EN: We need some tree sap to repair a tent, but there are some super strong enemies guarding it.
+RU: 
+
+ID: M5562_S0010_G0020_001_dbl
+JP: アタシ達の武器じゃあ……
+EN: We can't even dent the things with the flimsy little weapons we have, so maybe you can—
+RU: 
+
+ID: M5562_S0010_G0050_001_a2
+JP: なあ、どうしてそんな危険な雑用ばかりやらされてるんだ？
+EN: Shut up for a second. Why do you two keep getting assigned the most dangerous jobs?
+RU: 
+
+ID: M5562_S0010_G0060_001_a2
+JP: お前達の機能はそんな用途には向かないだろう。
+EN: You're not exactly equipped to handle this kind of thing.
+RU: 
+
+ID: M5562_S0010_G0041_001_dbl
+JP: それは……
+EN: I...
+RU: 
+
+ID: M5562_S0010_G0042_001_dbl
+JP: …………
+EN: ...
+RU: 
+
+ID: M5562_S0010_G0043_001_dbl
+JP: ……すまない。
+EN: I'm sorry...
+RU: 
+
+ID: M5562_S0010_G0080_001_dbl
+JP: 私達の仕事は、自分達でやらなきゃな。
+EN: We really should be handling our own tasks.
+RU: 
+
+ID: M5562_S0010_G0090_001_ppl
+JP: デボル……
+EN: Devola...
+RU: 
+
+ID: M5562_S0010_G0100_001_sele
+JP: デボル達を手助けする。
+EN: Help the twins out.
+RU: 
+
+ID: M5562_S0010_G0110_001_sele
+JP: 何もしない。
+EN: Do nothing.
+RU: 
+
+
+-- Section 4
+
+ID: M5562_S0010_G0150_001_a2
+JP: あー、そのなんだ。雑用ってヤツを引き受けてやるよ。
+EN: Stop it. I'll take the job.
+RU: 
+
+ID: M5562_S0010_G0160_001_a2
+JP: アタッカーモデルの私の方が向いてるしな。
+EN: I'm better at killing crap than you, anyway.
+RU: 
+
+ID: M5562_S0010_G0170_001_a2
+JP: 『樹液』を採ってくればいいんだな。
+EN: What was it you needed again? Tree sap?
+RU: 
+
+ID: M5562_S0010_G0180_001_dbl
+JP: いいって、あれは私達がやるべき仕事……
+EN: That's okay. We'll handle this one ourselves.
+RU: 
+
+ID: M5562_S0010_G0190_001_ppl
+JP: デボル、ここはお願いしましょう。
+EN: Devola, I think we should accept the assistance.
+RU: 
+
+ID: M5562_S0010_G0200_001_dbl
+JP: ポポル……
+EN: Come on, Sis! We can't keep—
+RU: 
+
+ID: M5562_S0010_G0210_001_ppl
+JP: ごめんなさいね。すごく助かるわ。
+EN: Thank you. You have no idea how much this helps.
+RU: 
+
+
+-- Section 5
+
+ID: M6090_S0020_G0780_300_dbl
+JP: やあ、何か見ていくか？
+EN: Are you looking for something?
+RU: 
+
+ID: M5562_S0010_G0220_001_dbl
+JP: 『樹液』集めの仕事、頼んでしまってすまない……
+EN: Sorry we had to ask this of you...
+RU: 
+
+ID: M5562_S0010_G0210_001_ppl
+JP: ごめんなさいね。すごく助かるわ。
+EN: Thank you. You have no idea how much this helps.
+RU: 
+
+
+-- Section 6
+
+ID: M5562_S0020_G0000_001_a9s
+JP: あ……デボルに頼まれた『樹液』、場所を聞くのを忘れたな。
+EN: Oh shoot! I forgot to ask Devola where to find that tree sap she wanted.
+RU: 
+
+ID: M5562_S0020_G0010_001_a9s
+JP: ポッド。『樹液』の採取可能な地域を検索。
+EN: Pod, search for regions where I might be able to obtain tree sap.
+RU: 
+
+ID: M5562_S0020_G0020_001_pod153
+JP: 既に検索完了。当該資材『樹液』がある区域を地図にマーク。
+EN: Search already performed. Regions rich in tree sap marked on map.
+RU: 
+
+
+-- Section 7
+
+ID: M5562_S0020_G0030_001_a2
+JP: あ……赤毛に頼まれた『樹液』、場所を聞くのを忘れたな。
+EN: Aw, crap. I forgot to ask the redhead where to find tree sap.
+RU: 
+
+ID: M5562_S0020_G0040_001_a2
+JP: 『樹液』の採取可能な地域って……
+EN: Where the heck am I gonna find that?
+RU: 
+
+ID: M5562_S0020_G0050_001_pod042
+JP: 既に検索完了。当該資材『樹液』がある区域を地図にマーク。
+EN: Search already performed. Regions rich in tree sap marked on map.
+RU: 
+
+ID: M5562_S0020_G0060_001_a2
+JP: ……気が利くハコだな。
+EN: Well, aren't YOU a helpful little box?
+RU: 
+
+
+-- Section 8
+
+ID: M5562_S0020_G0070_001_pod153
+JP: 敵性機械生命体を確認。
+EN: Alert: Hostile machine lifeforms detected.
+RU: 
+
+ID: M5562_S0020_G0080_001_a9s
+JP: デボル達が言ってた敵か……
+EN: The ones Devola mentioned, maybe?
+RU: 
+
+ID: M5562_S0020_G0081_001_a9s
+JP: しかし、何だあの形？
+EN: What's with the crazy shape?
+RU: 
+
+
+-- Section 9
+
+ID: M5562_S0020_G0090_001_pod042
+JP: 敵性機械生命体を確認。
+EN: Alert: Hostile machine lifeforms detected.
+RU: 
+
+ID: M5562_S0020_G0101_001_a2
+JP: 何だ……アレ？
+EN: Huh. That's...something.
+RU: 
+
+ID: M5562_S0020_G0100_001_a2
+JP: さっさと済ませるぞ。
+EN: Well, let's get it over with.
+RU: 
+
+
+-- Section 10
+
+ID: M5562_S0020_G0110_001_a9s
+JP: 後は『樹液』を集めればいいな。
+EN: Now I just need to collect some tree sap.
+RU: 
+
+
+-- Section 11
+
+ID: M5562_S0020_G0120_001_a2
+JP: 邪魔者は倒したな。後は『樹液』集めか。
+EN: Now that the fun's over, it's time to collect some tree sap.
+RU: 
+
+
+-- Section 12
+
+ID: M5562_S0020_G0130_001_a9s
+JP: 『樹液』はこのくらいでいいか。
+EN: Hopefully this is enough sap.
+RU: 
+
+
+-- Section 13
+
+ID: M5562_S0020_G0140_001_a2
+JP: 『樹液』はもういいな。２人の元へ戻るか。
+EN: That oughta be enough sap. Time to head back.
+RU: 
+
+
+-- Section 14
+
+ID: M5562_S0020_G0010_001_a9s
+JP: ポッド。『樹液』の採取可能な地域を検索。
+EN: Pod, search for regions where I might be able to obtain tree sap.
+RU: 
+
+ID: M5562_S0020_G0020_001_pod153
+JP: 既に検索完了。当該資材『樹液』がある区域を地図にマーク。
+EN: Search already performed. Regions rich in tree sap marked on map.
+RU: 
+
+ID: M5562_S0020_G0130_001_a9s
+JP: 『樹液』はこのくらいでいいか。
+EN: Hopefully this is enough sap.
+RU: 
+
+
+-- Section 15
+
+ID: M5562_S0020_G0040_001_a2
+JP: 『樹液』の採取可能な地域って……
+EN: Where the heck am I gonna find that?
+RU: 
+
+ID: M5562_S0020_G0050_001_pod042
+JP: 既に検索完了。当該資材『樹液』がある区域を地図にマーク。
+EN: Search already performed. Regions rich in tree sap marked on map.
+RU: 
+
+ID: M5562_S0020_G0060_001_a2
+JP: ……気が利くハコだな。
+EN: Well, aren't YOU a helpful little box?
+RU: 
+
+ID: M5562_S0020_G0140_001_a2
+JP: 『樹液』はもういいな。２人の元へ戻るか。
+EN: That oughta be enough sap. Time to head back.
+RU: 
+
+
+-- Section 16
+
+ID: M5561_S0010_G0000_001_ppl
+JP: あら、いらっしゃい。
+EN: Hello again.
+RU: 
+
+
+-- Section 17
+
+ID: M5562_S0030_G0000_001_ppl
+JP: あっ、お願いしていた『樹液』持ってきてくれたのね。
+EN: Hello again. Did you manage to secure the tree sap?
+RU: 
+
+ID: M5562_S0030_G0010_001_ppl
+JP: 大変だったでしょう。ありがとう。
+EN: Thank you. I know this must have been difficult.
+RU: 
+
+ID: M5562_S0030_G0020_001_a9s
+JP: デボルは……寝てるの？
+EN: Is Devola...sleeping?
+RU: 
+
+ID: M5562_S0030_G0040_001_ppl
+JP: ああ、お酒飲んで疲れちゃったみたい。
+EN: She was drinking. I think she finally passed out.
+RU: 
+
+ID: M5562_S0030_G0050_001_ppl
+JP: 最近控えてたけど、辛い事があるとどうしても……ね。
+EN: She's been trying to cut back, but with things as rough as they are... Well, everyone needs a release, I suppose.
+RU: 
+
+ID: M5562_S0030_G0060_001_a9s
+JP: 辛い事って……
+EN: As rough as they are?
+RU: 
+
+ID: M5562_S0030_G0080_001_ppl
+JP: 私達のモデルは不良品だから。
+EN: It's not easy being a defective model, you know?
+RU: 
+
+ID: M5562_S0030_G0090_001_ppl
+JP: 昔、私達の同型モデルが大きな事故を……
+EN: In the past, a pair of models identical to ours caused a major incident.
+RU: 
+
+ID: M5562_S0030_G0100_001_dbl
+JP: おおいっ！ポポル！酒もってこーい！
+EN: Popola! POPOLAAAAA! My glassh ain't getting any fuller over here!
+RU: 
+
+ID: M5562_S0030_G0110_001_dbl
+JP: ムニャムニャ……
+EN: Buncha no good... Razza frazza...
+RU: 
+
+ID: M5562_S0030_G0120_001_ppl
+JP: ……ふふっ、デボルったら。
+EN: Tee hee! Oh, Devola...
+RU: 
+
+ID: M5562_S0030_G0130_001_ppl
+JP: そうだ。デボルが飲んだお酒、この前もらった『砂漠のバラ』で\n作ったのよ。
+EN: She does love that particular spirit. She makes it with desert rose, actually.
+RU: 
+
+ID: M5562_S0030_G0140_001_ppl
+JP: 良ければ飲んでみて。
+EN: You're welcome to try some if you like.
+RU: 
+
+ID: M5562_S0030_G0150_001_dbl
+JP: ポポルはお酒のんじゃ……ムニャ……ダメだにゃん！
+EN: Huh? Whuzza? NO! Keep yer goddamn handsh off my BOOZE!
+RU: 
+
+ID: M5562_S0030_G0160_001_dbl
+JP: ポポルの分まで私が飲む……にゃん！
+EN: It's MINE! Mine. I'm gonna...drink it all up!  Mee-YOW!
+RU: 
+
+ID: M5562_S0030_G0170_001_a9s
+JP: ……にゃん？
+EN: ...Meow?
+RU: 
+
+ID: M5562_S0030_G0190_001_ppl
+JP: 寝言、ヒドイわよね。ふふっ。
+EN: Heh. She can say some pretty odd things in her sleep.
+RU: 
+
+ID: M5562_S0030_G0200_001_a9s
+JP: 君は……飲まないの？
+EN: Aren't you going to drink anything?
+RU: 
+
+ID: M5562_S0030_G0220_001_ppl
+JP: また今度ね。
+EN: Oh, maybe next time.
+RU: 
+
+ID: M5562_S0030_G0230_001_ppl
+JP: 私は飲むと大変になるのよ……いつか教えてあげる。
+EN: When I drink... Well, it's not always a good thing. Let's leave it at that.
+RU: 
+
+ID: M5562_S0030_G0240_001_ppl
+JP: 今日はどうもありがとう。貴方もゆっくり休んでね。
+EN: Anyway, thank you again. You should take a bit of time to rest if you can.
+RU: 
+
+
+-- Section 18
+
+ID: M5562_S0030_G0000_001_ppl
+JP: あっ、お願いしていた『樹液』持ってきてくれたのね。
+EN: Hello again. Did you manage to secure the tree sap?
+RU: 
+
+ID: M5562_S0030_G0010_001_ppl
+JP: 大変だったでしょう。ありがとう。
+EN: Thank you. I know this must have been difficult.
+RU: 
+
+ID: M5562_S0030_G0030_001_a2
+JP: デボルは……寝てるのか？
+EN: Is Devola...sleeping?
+RU: 
+
+ID: M5562_S0030_G0040_001_ppl
+JP: ああ、お酒飲んで疲れちゃったみたい。
+EN: She was drinking. I think she finally passed out.
+RU: 
+
+ID: M5562_S0030_G0050_001_ppl
+JP: 最近控えてたけど、辛い事があるとどうしても……ね。
+EN: She's been trying to cut back, but with things as rough as they are... Well, everyone needs a release, I suppose.
+RU: 
+
+ID: M5562_S0030_G0070_001_a2
+JP: 辛い事って……
+EN: What do you mean, "rough"?
+RU: 
+
+ID: M5562_S0030_G0080_001_ppl
+JP: 私達のモデルは不良品だから。
+EN: It's not easy being a defective model, you know?
+RU: 
+
+ID: M5562_S0030_G0090_001_ppl
+JP: 昔、私達の同型モデルが大きな事故を……
+EN: In the past, a pair of models identical to ours caused a major incident.
+RU: 
+
+ID: M5562_S0030_G0100_001_dbl
+JP: おおいっ！ポポル！酒もってこーい！
+EN: Popola! POPOLAAAAA! My glassh ain't getting any fuller over here!
+RU: 
+
+ID: M5562_S0030_G0110_001_dbl
+JP: ムニャムニャ……
+EN: Buncha no good... Razza frazza...
+RU: 
+
+ID: M5562_S0030_G0120_001_ppl
+JP: ……ふふっ、デボルったら。
+EN: Tee hee! Oh, Devola...
+RU: 
+
+ID: M5562_S0030_G0130_001_ppl
+JP: そうだ。デボルが飲んだお酒、この前もらった『砂漠のバラ』で\n作ったのよ。
+EN: She does love that particular spirit. She makes it with desert rose, actually.
+RU: 
+
+ID: M5562_S0030_G0140_001_ppl
+JP: 良ければ飲んでみて。
+EN: You're welcome to try some if you like.
+RU: 
+
+ID: M5562_S0030_G0150_001_dbl
+JP: ポポルはお酒のんじゃ……ムニャ……ダメだにゃん！
+EN: Huh? Whuzza? NO! Keep yer goddamn handsh off my BOOZE!
+RU: 
+
+ID: M5562_S0030_G0160_001_dbl
+JP: ポポルの分まで私が飲む……にゃん！
+EN: It's MINE! Mine. I'm gonna...drink it all up!  Mee-YOW!
+RU: 
+
+ID: M5562_S0030_G0180_001_a2
+JP: ……にゃん？
+EN: ...Meow?
+RU: 
+
+ID: M5562_S0030_G0190_001_ppl
+JP: 寝言、ヒドイわよね。ふふっ。
+EN: Heh. She can say some pretty odd things in her sleep.
+RU: 
+
+ID: M5562_S0030_G0210_001_a2
+JP: ……自分は飲まないのか？
+EN: So you gonna have a belt or what?
+RU: 
+
+ID: M5562_S0030_G0220_001_ppl
+JP: また今度ね。
+EN: Oh, maybe next time.
+RU: 
+
+ID: M5562_S0030_G0230_001_ppl
+JP: 私は飲むと大変になるのよ……いつか教えてあげる。
+EN: When I drink... Well, it's not always a good thing. Let's leave it at that.
+RU: 
+
+ID: M5562_S0030_G0240_001_ppl
+JP: 今日はどうもありがとう。貴方もゆっくり休んでね。
+EN: Anyway, thank you again. You should take a bit of time to rest if you can.
+RU: 
+
+
+-- Section 19
+
+ID: M5562_S0030_G0261_001_dbl
+JP: もう飲めないよ……ムニャムニャ
+EN: Nooooo... Can't drink any more.... Zzzzz...
+RU: 
+
+
+-- Section 20
+
+ID: M5562_S0030_G0262_001_dbl
+JP: うう……きもちわるいにゃん……
+EN: Think I'm gonna puke... Zzzzzz...
+RU: 
+
+
+-- Section 21
+
+ID: M5562_S0030_G0263_001_dbl
+JP: 私たち……悪くない……
+EN: It'sh...not our fault... Zzzzzz...
+RU: 
+
+

@@ -1,0 +1,39 @@
+-- Section 1
+
+ID: M4020_S0000_G0000_300_a9s
+JP: 中央エリアはかなり植物の侵食が進んでるな……
+EN: Plant life has claimed most of the central area...
+RU: 
+
+ID: M4020_S0000_G0010_300_a9s
+JP: サイズもかなり大きい。
+EN: Big plants, too.
+RU: 
+
+ID: M4020_S0000_G0020_300_pod153
+JP: 情報：人類退避後、植物の巨大化現象を確認。
+EN: Report: Records show that vegetation has grown to an abnormal size since the departure of humans.
+RU: 
+
+ID: M4020_S0000_G0030_300_a9s
+JP: ふーん。でっかいイノシシとか居たりして。
+EN: Hmm. Wonder if there are any huge boars and such too?
+RU: 
+
+
+-- Section 2
+
+ID: M4020_S0000_G0040_300_pod153
+JP: 警告：機械生命体反応。高エネルギーで危険な装備を確認。
+EN: Alert: Machine lifeforms detected. Confirmed to be high-energy and equipped with dangerous weaponry.
+RU: 
+
+
+-- Section 3
+
+ID: M1040_S0033_G0141_001_a9s
+JP: その箱を動かせば、廃墟都市に出られますね。
+EN: We can get into the city ruins if we move that box.
+RU: 
+
+

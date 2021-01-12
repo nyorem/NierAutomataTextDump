@@ -1,0 +1,31 @@
+-- Section 1
+
+ID: M3060_S0580_G0000_001_girls
+JP: ハハハハッ！
+EN: Ah ha ha ha ha ha ha ha hah!
+RU: 
+
+ID: M3060_S0580_G0020_001_girls
+JP: コロス……コワス……！
+EN: Kill! Kill!
+RU: 
+
+ID: M3060_S0580_G0040_001_a2
+JP: 何だ？こいつッ！？
+EN: Huh? Who are they?
+RU: 
+
+ID: M3060_S0580_G0050_001_girls
+JP: ハハハハアッハハハハアッ！
+EN: Ah ha ha ha ha ha ha ha hah!
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0580_G0070_001_girls
+JP: アーッハッハッハ！ハハハ！アハハハッ！
+EN: Ah ha ha ha ha ha ha ha hah! Ha ha ha hah!
+RU: 
+
+

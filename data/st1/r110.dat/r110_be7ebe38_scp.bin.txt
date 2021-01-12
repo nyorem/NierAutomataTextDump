@@ -1,0 +1,215 @@
+-- Section 1
+
+ID: M5140_S0020_G0050_300_a2b
+JP: 開かないな……
+EN: It won't open...
+RU: 
+
+ID: M5140_S0020_G0060_300_a9s
+JP: 開かないな……
+EN: It won't open...
+RU: 
+
+
+-- Section 2
+
+ID: M4020_S0000_G0060_300_a9s
+JP: なかなか広いですね。\nいいのかな？こんな部屋もらっちゃって。
+EN: This is pretty big. You sure it's okay for us to get a room like this?
+RU: 
+
+ID: M4020_S0000_G0070_300_a2b
+JP: リーダーから許可が出たんだからいいんだろう。\n地上の任務も長くなりそうだし、ベッドで休めるのは助かる。
+EN: We have permission, remember? Plus, we'll probably be stationed here for a while, so a bed won't go amiss.
+RU: 
+
+ID: M4020_S0000_G0070_300_a9s
+JP: そうですね、ありがたく使わせてもらいましょう。
+EN: Then I guess there's no point turning it down!
+RU: 
+
+
+-- Section 3
+
+ID: M4020_S0000_G0080_300_a9s
+JP: はぁ～……疲れましたねぇ。
+EN: Whew! I'm beat.
+RU: 
+
+ID: M4020_S0000_G0090_300_a2b
+JP: ……少し休憩したらすぐに出るよ。
+EN: We're heading right back out once you rest a little.
+RU: 
+
+ID: M4020_S0000_G0100_300_a9s
+JP: はぁい
+EN: Yeah, yeah...
+RU: 
+
+
+-- Section 4
+
+ID: M4020_S0000_G0110_300_a9s
+JP: 帰ってくる場所があるって最高だなぁ。
+EN: It's nice having a home to go back to, don't you think?
+RU: 
+
+ID: M4020_S0000_G0120_300_a2b
+JP: 何、急に。
+EN: What's this about?
+RU: 
+
+ID: M4020_S0000_G0130_300_a9s
+JP: なんとなく。人間が家を立てて定住してた気持ち、\nちょっとわかります……
+EN: No, it's just... I'm starting to understand why humans lived in houses, is all.
+RU: 
+
+ID: M4020_S0000_G0140_300_a2b
+JP: バンカーにも自室が割り当てられてるだろう。
+EN: You have your own room in the Bunker.
+RU: 
+
+ID: M4020_S0000_G0150_300_a9s
+JP: うーん……バンカーは何となく落ち着かないんですよね。
+EN: Yeah, but it's hard to relax in the Bunker, you know?
+RU: 
+
+
+-- Section 5
+
+ID: M4020_S0000_G0160_300_a9s
+JP: ちょっと休憩していきますか？
+EN: Shall we rest a bit?
+RU: 
+
+ID: M4020_S0000_G0170_300_a2b
+JP: わかった……
+EN: ...All right.
+RU: 
+
+ID: M4020_S0000_G0180_300_a2b
+JP: ちょっと休憩しようか。
+EN: Let's take a break.
+RU: 
+
+ID: M4020_S0000_G0190_300_a9s
+JP: そうですね。
+EN: Sounds great to me.
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0110_G0010_300_pod042
+JP: 休憩しますか？
+EN: Do you want to take a break?
+RU: 
+
+ID: M6010_S0110_G0020_300_pod153
+JP: 休憩しますか？
+EN: Do you want to take a break?
+RU: 
+
+ID: M6010_S0110_G0030_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M6010_S0110_G0040_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0110_G0010_300_pod042
+JP: 休憩しますか？
+EN: Do you want to take a break?
+RU: 
+
+ID: M6010_S0110_G0020_300_pod153
+JP: 休憩しますか？
+EN: Do you want to take a break?
+RU: 
+
+ID: M6010_S0110_G0030_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M6010_S0110_G0040_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0110_G0050_300_pod042
+JP: セーブしますか？
+EN: Do you want to save?
+RU: 
+
+ID: M6010_S0110_G0060_300_pod153
+JP: セーブしますか？
+EN: Do you want to save?
+RU: 
+
+ID: M6010_S0110_G0070_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M6010_S0110_G0080_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0110_G0090_300_pod042
+JP: ゲームをつづけますか？
+EN: Do you want to continue the game?
+RU: 
+
+ID: M6010_S0110_G0100_300_pod153
+JP: ゲームをつづけますか？
+EN: Do you want to continue the game?
+RU: 
+
+ID: M6010_S0110_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M6010_S0110_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0110_G0090_300_pod042
+JP: ゲームをつづけますか？
+EN: Do you want to continue the game?
+RU: 
+
+ID: M6010_S0110_G0100_300_pod153
+JP: ゲームをつづけますか？
+EN: Do you want to continue the game?
+RU: 
+
+ID: M6010_S0110_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M6010_S0110_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+

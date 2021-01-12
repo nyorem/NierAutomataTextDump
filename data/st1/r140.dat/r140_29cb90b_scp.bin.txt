@@ -1,0 +1,431 @@
+-- Section 1
+
+ID: M6050_S0010_G2530_300_villager
+JP: 村の外が騒がしいナ。
+EN: What's all that noise outside the village?
+RU: 
+
+
+-- Section 2
+
+ID: M6050_S0010_G2570_300_villager
+JP: 子供タチを安全なところへ誘導シナクテハ。
+EN: We should take the children somewhere safe.
+RU: 
+
+
+-- Section 3
+
+ID: M6050_S0010_G2550_300_villager
+JP: ワタシたちは争いを望まない。
+EN: We don't want trouble.
+RU: 
+
+
+-- Section 4
+
+ID: M6050_S0010_G2550_300_villager
+JP: ワタシたちは争いを望まない。
+EN: We don't want trouble.
+RU: 
+
+
+-- Section 5
+
+ID: M6050_S0010_G2550_300_villager
+JP: ワタシたちは争いを望まない。
+EN: We don't want trouble.
+RU: 
+
+
+-- Section 6
+
+ID: M6050_S0010_G2580_300_villager
+JP: 争い事は嫌いデス。
+EN: I hate fighting.
+RU: 
+
+
+-- Section 7
+
+ID: M6050_S0010_G2580_300_villager
+JP: 争い事は嫌いデス。
+EN: I hate fighting.
+RU: 
+
+
+-- Section 8
+
+ID: M6050_S0010_G2580_300_villager
+JP: 争い事は嫌いデス。
+EN: I hate fighting.
+RU: 
+
+
+-- Section 9
+
+ID: M6050_S0010_G2540_300_villager
+JP: 村の外が騒がしデスネ。
+EN: What's that racket outside?
+RU: 
+
+
+-- Section 10
+
+ID: M6050_S0010_G2540_300_villager
+JP: 村の外が騒がしデスネ。
+EN: What's that racket outside?
+RU: 
+
+
+-- Section 11
+
+ID: M6050_S0010_G2540_300_villager
+JP: 村の外が騒がしデスネ。
+EN: What's that racket outside?
+RU: 
+
+
+-- Section 12
+
+ID: M6050_S0010_G2590_300_villager
+JP: 何が起こってイル？
+EN: What's going on?
+RU: 
+
+
+-- Section 13
+
+ID: M6050_S0010_G2560_300_villager
+JP: 私たちは戦いたくナイ。
+EN: We don't want a war.
+RU: 
+
+
+-- Section 14
+
+ID: M6050_S0010_G2610_300_villager
+JP: 落ち着いて行動しヨウ。
+EN: Let's calm down before we do anything, okay?
+RU: 
+
+
+-- Section 15
+
+ID: M6050_S0010_G2700_300_villager
+JP: ナニかあったノ？
+EN: Did something happen?
+RU: 
+
+
+-- Section 16
+
+ID: M6050_S0010_G2710_300_villager
+JP: ミンナ慌ててドウシタノ？
+EN: Why is everyone panicking?
+RU: 
+
+
+-- Section 17
+
+ID: M6050_S0010_G2720_300_villager
+JP: コワクない、コワクないヨ。
+EN: I'm not scared. I'm not scared at all!
+RU: 
+
+
+-- Section 18
+
+ID: M6050_S0010_G2720_300_villager
+JP: コワクない、コワクないヨ。
+EN: I'm not scared. I'm not scared at all!
+RU: 
+
+
+-- Section 19
+
+ID: M6050_S0010_G2720_300_villager
+JP: コワクない、コワクないヨ。
+EN: I'm not scared. I'm not scared at all!
+RU: 
+
+
+-- Section 20
+
+ID: M6050_S0010_G2750_300_villager
+JP: 危ないところには近付かナイヨ。
+EN: I'm not going near anything dangerous.
+RU: 
+
+
+-- Section 21
+
+ID: M6050_S0010_G2730_300_villager
+JP: ナニか様子が変ダネ。
+EN: Something weird is going on...
+RU: 
+
+
+-- Section 22
+
+ID: M6050_S0010_G2740_300_villager
+JP: 危険からはニゲナキャ。
+EN: We should stay out of danger.
+RU: 
+
+
+-- Section 23
+
+ID: M6050_S0010_G2700_300_villager
+JP: ナニかあったノ？
+EN: Did something happen?
+RU: 
+
+
+-- Section 24
+
+ID: M6050_S0010_G2840_300_villager
+JP: ミンナ慌ててルネ。
+EN: Everyone sure seems nervous today.
+RU: 
+
+
+-- Section 25
+
+ID: M6050_S0010_G2201_300_sarutoru
+JP: 全てのものに理由を求めるのは危険な行為だ。
+EN: It's dangerous to look for reason in everything.
+RU: 
+
+ID: M6050_S0010_G2211_300_sarutoru
+JP: 世の中は理由のない善意と悪意が入り混じってできているのだから。
+EN: There is both good and evil in this world, and no reason for any of it.
+RU: 
+
+
+-- Section 26
+
+ID: M6050_S0010_G2200_300_sarutoru
+JP: 全てのものに理由を求めるのは危険な行為だ。
+EN: It's dangerous to look for reason in everything.
+RU: 
+
+ID: M6050_S0010_G2210_300_sarutoru
+JP: 世の中は理由のない善意と悪意が入り混じってできているのだから。
+EN: There is both good and evil in this world, and no reason for any of it.
+RU: 
+
+
+-- Section 27
+
+ID: M6050_S0010_G2630_300_villager
+JP: 争いからは何もウマレナイデス。
+EN: Nothing good comes from fighting.
+RU: 
+
+
+-- Section 28
+
+ID: M6050_S0010_G2820_300_villager
+JP: しばらくしたら、ミンナ落ち着くはずダ。
+EN: I'm sure everyone will calm down after a while.
+RU: 
+
+
+-- Section 29
+
+ID: M6050_S0010_G2820_300_villager
+JP: しばらくしたら、ミンナ落ち着くはずダ。
+EN: I'm sure everyone will calm down after a while.
+RU: 
+
+
+-- Section 30
+
+ID: M6050_S0010_G2670_300_villager
+JP: 話し合えば、キット分かりあえるハズ。
+EN: I'm sure we can talk this out somehow.
+RU: 
+
+
+-- Section 31
+
+ID: M6050_S0010_G2830_300_villager
+JP: 危険なトコロには近寄らないようにするヨ。
+EN: I'm going to stay here for a while.
+RU: 
+
+
+-- Section 32
+
+ID: M5250_S0010_G0360_001_robostrange
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 33
+
+ID: M6050_S0010_G2600_300_papa
+JP: 大変ダ、タイヘンダ。
+EN: This is bad. This is really bad...
+RU: 
+
+
+-- Section 34
+
+ID: M5803_S0010_G0010_001_robomother
+JP: ウウ……私はどうしタラよいのでショウカ……
+EN: Rrrrgh! What am I supposed to DO!?
+RU: 
+
+
+-- Section 35
+
+ID: M6050_S0010_G2900_300_villager
+JP: ナ、ナニが起きてるノカナ。
+EN: Wh-What's going on?
+RU: 
+
+
+-- Section 36
+
+ID: M6050_S0010_G2890_300_villager
+JP: 今は遊ぶのガマンするヨ。
+EN: Guess I'll have to hold off on play for now.
+RU: 
+
+
+-- Section 37
+
+ID: M6050_S0010_G2890_300_villager
+JP: 今は遊ぶのガマンするヨ。
+EN: Guess I'll have to hold off on play for now.
+RU: 
+
+
+-- Section 38
+
+ID: M6050_S0010_G2890_300_villager
+JP: 今は遊ぶのガマンするヨ。
+EN: Guess I'll have to hold off on play for now.
+RU: 
+
+
+-- Section 39
+
+ID: M6050_S0010_G2850_300_villager
+JP: 今は遊ばナイ方がいいのカナ。
+EN: Maybe we should stop playing for the day.
+RU: 
+
+
+-- Section 40
+
+ID: M6050_S0010_G2800_300_villager
+JP: ネェ、みんなドウシタノ？
+EN: Hey, why is everyone acting so strange?
+RU: 
+
+
+-- Section 41
+
+ID: M6050_S0010_G2790_300_villager
+JP: ボ、ボクがみんなを守るヨ。
+EN: I...I'll protect everyone.
+RU: 
+
+
+-- Section 42
+
+ID: M6050_S0010_G2690_300_villager
+JP: ミンナがいれば、キット大丈夫。
+EN: We'll be fine as long as we all stay together.
+RU: 
+
+
+-- Section 43
+
+ID: M6050_S0010_G2860_300_villager
+JP: お家にモドラナキャ。
+EN: I should go home.
+RU: 
+
+
+-- Section 44
+
+ID: M6050_S0010_G2810_300_villager
+JP: ジョウキョウを把握しなくては。
+EN: Let's get a grip on the situation before we start panicking.
+RU: 
+
+
+-- Section 45
+
+ID: M6050_S0010_G2510_300_pascal
+JP: 村の子供たちを守らなければ……
+EN: I must protect the children of the village.
+RU: 
+
+ID: M6050_S0010_G2520_300_pascal
+JP: あなたも気をつけて、無茶はしないでくださいね。
+EN: You take care as well. Don't do anything rash.
+RU: 
+
+
+-- Section 46
+
+ID: M6050_S0010_G2650_300_villager
+JP: きっと大丈夫ダヨ。
+EN: Everything will be fine.
+RU: 
+
+
+-- Section 47
+
+ID: M6050_S0010_G2920_300_villager
+JP: 落ち着かないナ。
+EN: Something doesn't feel right.
+RU: 
+
+
+-- Section 48
+
+ID: M1040_S0030_G0020_001_n02
+JP: ヤメテ！殺さなイデ！
+EN: Stop! Do not kill!
+RU: 
+
+
+-- Section 49
+
+ID: M1040_S0030_G0030_001_n02
+JP: 戦わない！戦ワナい！
+EN: No fighting! No fighting!
+RU: 
+
+
+-- Section 50
+
+ID: M1040_S0030_G0040_001_n02
+JP: 殺さナイデ！殺さナイで！
+EN: Don't kill! Don't kill!
+RU: 
+
+
+-- Section 51
+
+ID: M1040_S0030_G0050_001_n02
+JP: 悪イコトしてない……！
+EN: We have done nothing bad!
+RU: 
+
+
+-- Section 52
+
+ID: M1040_S0030_G0060_001_n02
+JP: ごメンナさい！ゴメンなさい！
+EN: I'm sorry! I'm sorry!
+RU: 
+
+

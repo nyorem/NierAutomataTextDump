@@ -1,0 +1,63 @@
+-- Section 1
+
+ID: M3015_S0010_G0000_001_pod042
+JP: ポッド１５３へ。情報共有を開始する。
+EN: Pod 153. Commencing data sharing.
+RU: 
+
+
+-- Section 2
+
+ID: M3015_S0010_G0010_001_pod153
+JP: 了解。圧縮会話モードを起動。
+EN: Affirmative. Launching compressed conversation mode.
+RU: 
+
+
+-- Section 3
+
+ID: M3015_S0010_G0013_001_pod042
+JP: プログラムでランダムな記号を表示
+EN: 
+RU: 
+
+ID: M3015_S0010_G0013_001_pod153
+JP: プログラムでランダムな記号を表示
+EN: 
+RU: 
+
+
+-- Section 4
+
+ID: M3015_S0010_G0020_001_pod153
+JP: 圧縮会話モード終了。
+EN: Compressed conversation mode complete.
+RU: 
+
+ID: M3015_S0010_G0030_001_pod153
+JP: 理解した。
+EN: Affirmative.
+RU: 
+
+
+-- Section 5
+
+ID: M3015_S0010_G0040_001_pod153
+JP: Ａ２の記憶空間内にある２BデータがＡ２の自我に及ぼす影響について、\n今後の報告を待つ。
+EN: Awaiting report on the effects of unit 2B's memory data on unit A2's self-consciousness.
+RU: 
+
+
+-- Section 6
+
+ID: M3015_S0010_G0050_001_pod042
+JP: 了解した。
+EN: Understood.
+RU: 
+
+ID: M3015_S0010_G0060_001_pod042
+JP: 支援活動の参考情報としてアップデートする。
+EN: Updating as reference data for support activity.
+RU: 
+
+

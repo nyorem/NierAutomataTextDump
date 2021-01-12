@@ -1,0 +1,44 @@
+-- Section 1
+
+ID: M1080_S0080_G0010_201_op210
+JP: あっ、９Ｓ。
+EN: Ah. 9S.
+RU: 
+
+ID: M1080_S0080_G0000_201_a9s
+JP: オペレーターさん！？何があったの？
+EN: Operator? What happened?
+RU: 
+
+ID: M1080_S0080_G0020_201_op210
+JP: 実は、廃工場エリア全域に機械生命体の反応多数確認。
+EN: We recently detected large numbers of machine lifeforms throughout the factory area.
+RU: 
+
+ID: M1080_S0080_G0030_201_op210
+JP: その後２Ｂから支援要請があったけれど、電波状況が悪く……
+EN: We received a support request from 2B soon thereafter, but have been unable to respond due to poor reception.
+RU: 
+
+ID: M1080_S0080_G0040_201_a9s
+JP: わかった！こっちも大型ターミナルからアクセスしてみる。
+EN: All right. I'll try to gain access from the main terminal.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0080_G0000_300_pod153
+JP: 申請：サーバー管理室の利用。
+EN: Use of server administration room requested.
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0080_G0010_300_pod153
+JP: 申請の許可を確認。\nこの部屋の装置を使用することが可能。
+EN: Request granted. You may now use the device in this room.
+RU: 
+
+

@@ -1,0 +1,1220 @@
+ID: CHAPTER_HELP_01_00
+JP: 超大型兵器の破壊と情報収集の任を受けた２Ｂと９Ｓ。それぞれ工場廃墟の内部と外部から探索を行なう。目標を発見、交戦に当たるも、２Ｂをかばった９Ｓは深手を負ってしまう。
+EN: 2B and 9S have been ordered to gain intel and destroy a Goliath-class weapon. They find their target and engage in combat, but 9S ends up getting wounded trying to protect 2B.
+RU: 
+
+ID: CHAPTER_HELP_01_01_0
+JP: ヨルハ部隊の降下作戦が開始された。目標は超大型兵器の発見、及びこれの破壊。飛行ユニットによる攻撃部隊と、それを支援するスキャナーモデル単機という編成で展開される。
+EN: The YoRHa commence paratrooper operations, divided into aerial strike units with scanner models for support. Their mission is to locate and destroy colossal weaponry.
+RU: 
+
+ID: CHAPTER_HELP_01_01_1
+JP: 軌道上から大気圏内に突入したヨルハ降下部隊。飛行ユニットを駆り工場廃墟へと向かう中、２Ｂの仲間たちは次々と命を落としていく……
+EN: YoRHa paratroopers enter the atmosphere from orbit. While leading the aerial units towards the abandoned factory, 2B's comrades begin steadily dropping like flies...
+RU: 
+
+ID: CHAPTER_HELP_01_01_2
+JP: 地上配備された９Ｓの任務は、ヨルハ攻撃部隊支援のため敵拠点の防衛システムを解除すること。９Ｓは飛行ユニットに乗り込み敵防衛ユニットへの接触を図る。
+EN: On the ground, 9S is assigned to support the YoRHa by disabling the defense system at the enemy base. He boards an aerial unit to make contact with the enemy defenses.
+RU: 
+
+ID: CHAPTER_HELP_01_02_0
+JP: 再び出会う２Ｂと９Ｓ。二手に分かれ工場を探索する。
+EN: 2B and 9S are reunited before splitting up to search the factory.
+RU: 
+
+ID: CHAPTER_HELP_01_02_1
+JP: 工場廃墟へ降り立った２Ｂ。そこには重機のような見た目をした巨大防衛兵器が待ち構えていた。
+EN: 2B lands at the abandoned factory, where a gigantic defensive weapon resembling heavy machinery lies in wait.
+RU: 
+
+ID: CHAPTER_HELP_01_02_2
+JP: ２Ｂを襲う巨大防衛兵器を撃破し、彼女の前に現れる９Ｓ。飛行ユニットを用いて工場外部の探索に当たる。
+EN: 9S destroys the giant weapon attacking 2B and appears before her. He's investigating the factory exterior with the flight unit.
+RU: 
+
+ID: CHAPTER_HELP_01_02_3
+JP: 超大型兵器を捜索する為、２Ｂは工場内へと侵入する。
+EN: 2B heads into the factory in search of colossal weaponry.
+RU: 
+
+ID: CHAPTER_HELP_01_02_4
+JP: 一通り工場内を探した２Ｂだったが目標は発見できなかった。諦めかけた彼女の前に、巨大防衛兵器２体が襲いかかる。
+EN: 2B searched through the factory but failed to find her objective. Just as she was about to give up, it found her—two colossal weapons attack.
+RU: 
+
+ID: CHAPTER_HELP_01_03_0
+JP: 巨大防衛兵器は２Ｂによって打ち倒されたかに見えた。しかし２体の防衛兵器は工場の建造物と合体、ついに真の姿を現す。
+EN: It looked as if 2B had defeated her attackers. However, they reactivate and combine with the factory itself to reveal their true form.
+RU: 
+
+ID: CHAPTER_HELP_01_03_1
+JP: 橋の上で超大型兵器と戦闘する２Ｂ。その体格差はあまりにも大きく、苦戦を強いられる。
+EN: 2B takes on the colossal weaponry over the bridge. The fight proves a struggle due to their overwhelming difference in size.
+RU: 
+
+ID: CHAPTER_HELP_01_03_2
+JP: ２Ｂ援護のため、９Ｓは敵中枢へのハッキングを図る。２Ｂをかばい深手を負う９Ｓだが、重症ながらもポッドを使い敵機体の上腕部コントロールを奪う。
+EN: To support 2B, 9S tries to hack her foe's nervous system. Though heavily wounded in the attempt to protect 2B, he is able to take control of the machine's upper arm with his Pod.
+RU: 
+
+ID: CHAPTER_HELP_01_03_3
+JP: ９Ｓから飛行ユニットを継承した２Ｂは、超大型兵器に対して空中から攻撃を仕掛ける。
+EN: 2B receives the flight unit from 9S and uses it to mount an aerial assault on the colossal weaponry.
+RU: 
+
+ID: CHAPTER_HELP_01_04_0
+JP: ２Ｂと９Ｓはブラックボックス反応による大爆発で敵の群れを破壊した。自らの身体も失ってしまったが、アップロードしたデータを新しい義体に移し替えることで、彼女達は再び起動する。
+EN: 2B and 9S used the black box to destroy the enemy herd. Their bodies were also lost in the blast, but their data was loaded into new bodies, allowing them to be reactivated.
+RU: 
+
+ID: CHAPTER_HELP_01_04_1
+JP: ヨルハ部隊の衛星基地・バンカーで２Ｂは目を覚ます。
+EN: 2B wakes up in the YoRHa forces' satellite station in the bunker.
+RU: 
+
+ID: CHAPTER_HELP_01_04_2
+JP: ２Ｂの起動セットアップを手伝うため、９Ｓは彼女の部屋へと向かう。
+EN: 9S heads to 2B's room to help with her reboot setup process.
+RU: 
+
+ID: CHAPTER_HELP_01_05_0
+JP: 司令室。ヨルハ部隊司令官より、地上でのレジスタンスと接触・情報収集する任を受ける。
+EN: In the command room, the YoRHa commander gives the order to make contact with and gather information on the Resistance on the ground.
+RU: 
+
+ID: CHAPTER_HELP_02_00
+JP: レジスタンスから情報収集する任務を受け、廃墟都市に降り立った２Ｂと９Ｓ。彼らのキャンプ地で、彼女達は窮するレジスタンス達の手助けをする。
+EN: 2B and 9S have to gain intel from the Resistance at the city ruins. When they arrive at the camp, they find many androids who need their help.
+RU: 
+
+ID: CHAPTER_HELP_02_01_0
+JP: 飛行ユニットでバンカーから飛び立ち廃墟都市へと移動。地上に降り立ちレジスタンスキャンプを訪れた彼女達は、リーダーであるアネモネと接触する。
+EN: 2B and crew fly from the bunker to the City Ruins. Landing at the Resistance Camp, they soon make contact with the Resistance leader, Anemone.
+RU: 
+
+ID: CHAPTER_HELP_02_02_0
+JP: 砂漠地帯の機械生命体討伐のため２Ｂ達はレジスタンスキャンプを後にする。
+EN: 2B's crew leaves the Resistance Camp behind to pursue and take down machine lifeforms in the desert.
+RU: 
+
+ID: CHAPTER_HELP_03_00
+JP: アネモネの依頼で砂漠地帯へ向かった２Ｂ達。そこにいた機械生命体達は言葉を話す個体だった。逃げた個体を追い砂漠の奥に向かった彼女達は、アンドロイドに酷似した機械生命体と遭遇する。
+EN: While heading to the desert area, 2B and 9S run into machines that can talk. Chasing after them, they find a machine lifeform that looks exactly like an android...
+RU: 
+
+ID: CHAPTER_HELP_03_01_0
+JP: 目標である機械生命体達を討伐していく２Ｂと９Ｓ。不思議なことにその個体らは、言葉を話し衣服のようなものを身に纏っていた。
+EN: 2B and 9S enter the desert in pursuit of machine lifeforms. However, oddly, the machines they encounter are capable of speech and wear clothing.
+RU: 
+
+ID: CHAPTER_HELP_03_02_0
+JP: かつてマンモス団地と呼ばれていた廃墟。そこには夥しい数のアンドロイドの遺体が棄てられていた。
+EN: An uncountable number of android corpses were left abandoned in the ruins of what had once been an apartment complex.
+RU: 
+
+ID: CHAPTER_HELP_03_03_0
+JP: 奇妙に動き回る機械生命体達。それらが集合形成した繭から一人の男が産まれ落ちる。それはアンドロイドに酷似した機械生命体だった。
+EN: A group of erratically-moving machine lifeforms form up together to make a cocoon, from which one boy is born—a machine lifeform bearing a strong resemblance to androids.
+RU: 
+
+ID: CHAPTER_HELP_03_04_0
+JP: 人型の機械生命体を退け、崩れ落ちる洞穴から脱け出した２Ｂ達。バンカーからの通信で、行方不明のヨルハ部隊の捜索の任を受ける。
+EN: 2B and crew stave off the humanoid machine and escape from the collapsing grotto. They then receive a transmission from the Bunker with orders to search for a missing YoRHa party.
+RU: 
+
+ID: CHAPTER_HELP_04_00
+JP: 仲間を捜索するため、２Ｂと９Ｓは遊園地廃墟へと赴く。奇妙な格好をした機械生命体達の歓迎。そして、人間のように着飾った「歌う機械生命体」が姿を現す。
+EN: 2B and 9S head to the amusement park, where they are welcomed by strangely dressed machines. They also have an audience with an aspiring opera singer.
+RU: 
+
+ID: CHAPTER_HELP_04_01_0
+JP: 仲間の信号を辿った先は、異様な雰囲気を放つ遊園地の廃墟だった。道化師のような格好をした機械生命体達は楽しそうに歌い踊る。
+EN: The allied signal originated from the disquieting ruins of an amusement park. There, machine lifeforms dressed up as clowns sing and dance merrily.
+RU: 
+
+ID: CHAPTER_HELP_04_02_0
+JP: 遊園地内の広場。２Ｂ達を歓迎するのは、古めかしい戦車の形をした機械生命体だった。
+EN: In the amusement park square, 2B and crew were welcomed by a machine lifeform in the form of an old-world tank.
+RU: 
+
+ID: CHAPTER_HELP_04_03_0
+JP: ２Ｂと９Ｓは、仲間の反応がある劇場のホールへと飛び入る。暗い劇場の中、ステージの幕が開く。そして、アンドロイドの死体を身に付けたおどろおどろしい機械生命体が歌い出した。
+EN: 2B and 9S drop into a theatre where they expect to find their allies. The curtain rises in the darkness to reveal a fearsome machine, wrapped in android bodies... who begins to sing.
+RU: 
+
+ID: CHAPTER_HELP_04_04_0
+JP: 遊園地廃墟の入り口では、白旗を掲げた機械生命体が２Ｂ達を待っていた。
+EN: A machine lifeform bearing a white flag awaited 2B and crew at the entrance to the amusement park ruins.
+RU: 
+
+ID: CHAPTER_HELP_05_00
+JP: 廃墟都市での戦闘が大規模陥没をもたらし、同時にエイリアンの反応が再び現れる。地下へと向かった２Ｂ達は、そこで敵の母船を発見。船内で彼女達はアダムとイヴに遭遇する。
+EN: A large hole has opened up in the city ruins, and 2B and 9S travel down it to find the alien mothership. Inside, they run into Adam and Eve.
+RU: 
+
+ID: CHAPTER_HELP_05_01_0
+JP: 友好的な姿勢を見せる機械生命体に招かれ、パスカルと名乗る個体と交流する。
+EN: Invited along by a friendly-looking machine lifeform, 2B and crew come into contact with an individual calling himself "Pascal."
+RU: 
+
+ID: CHAPTER_HELP_05_02_0
+JP: パスカルの村を後にすると、廃墟都市に大型の機械生命体が現れたとの報を受ける。２Ｂ達は飛行ユニットを受領し、これの迎撃に当たる。
+EN: Upon leaving Pascal's village, 2B and her allies receive a report of a giant machine lifeform in the city ruins. They take a flight unit over to intercept it.
+RU: 
+
+ID: CHAPTER_HELP_05_03_0
+JP: 地下空間の崩落により、廃墟都市は大きく姿を変えた。突如現れたエイリアンの反応を追い地下へと向かう。その先にあったのはエイリアンの母船とおぼしき施設だった。
+EN: The city ruins have been greatly altered by an underground collapse. Following an alien signal, 2B and crew head down and find what appears to be an alien mothership.
+RU: 
+
+ID: CHAPTER_HELP_05_04_0
+JP: 母船内にあったのは、干からびたエイリアンの死体だけだった。驚きを隠せないでいる２Ｂ達の前に、砂漠の洞穴で生まれた２体の機械生命体、アダムとイヴが姿を現す。
+EN: Inside the ship, 2B and crew are shocked to find a desiccated alien corpse. Then, before their eyes, appear two machines born in the desert cave: Adam and Eve.
+RU: 
+
+ID: CHAPTER_HELP_06_00
+JP: パスカルの情報で森の国へと向かった２Ｂと９Ｓ。森の奥にそびえる城の中で森の王を見つけるも、王はヨルハの女性型アンドロイドに破壊されてしまう。彼女は部隊から脱走したＡ２という機体だった。
+EN: 2B and 9S head to the forest kingdom. As soon as they find the king, he is destroyed by a mysterious female android. Her name is A2 and she is a deserter.
+RU: 
+
+ID: CHAPTER_HELP_06_01_0
+JP: アダムとイヴを取り逃し、バンカーへと戻った２Ｂと９Ｓ。アダム達が語っていた内容、エイリアンが機械生命体の手によって滅ぼされていた事を司令官に報告する。
+EN: 2B and 9S return to the bunker, after Adam and Eve escape. They report to the commander that the aliens had been killed years ago by the machines.
+RU: 
+
+ID: CHAPTER_HELP_06_02_0
+JP: 司令官の命により、機械生命体の情報収集に赴く２Ｂ達。パスカルの話によると、ネットワークから独立した機械生命体が森の奥で国を作っているという。
+EN: 2B and crew are ordered to gather intelligence on machine lifeforms. According to Pascal, off-network machines have established a nation in the depths of the woods.
+RU: 
+
+ID: CHAPTER_HELP_06_03_0
+JP: 商業施設跡を通り、森林地帯へと立ち入った２Ｂと９Ｓ。鎧を着た機械生命体達は、口々に「王」と叫びながら２人へと襲いかかる。
+EN: 2B and 9S pass through the shopping center and into the forest. There, they're attacked by armored machine lifeforms, calling out in unison for their "King."
+RU: 
+
+ID: CHAPTER_HELP_06_04_0
+JP: ２Ｂと９Ｓは森の城へと到着する。敵機械生命体達を退けながら、城内を探索する。
+EN: 2B and 9S arrive at the castle in the woods. Fighting off enemy machine lifeforms, they make their way into the castle to investigate it.
+RU: 
+
+ID: CHAPTER_HELP_06_05_0
+JP: 玉座の間へと辿り着いた２Ｂ達だったが、王はまだ幼い赤子の機械生命体だった。呆気にとられる２Ｂ達の前に、突如謎のアンドロイドが現れる。
+EN: Finally arriving in the throne room, 2B and 9S find that the King is an infant machine lifeform. Then, a mysterious android suddenly appears before them.
+RU: 
+
+ID: CHAPTER_HELP_07_00
+JP: 空母の補給部隊護衛のため、水没都市を訪れた２Ｂ達。そこへ、敵襲撃の報が舞い込む。味方部隊を援護するため、飛行ユニットに乗り込み洋上へと向かうと、海中から巨大な機械生命体が現れる。
+EN: The aircraft carrier is under attack, so 2B and 9S head there to offer support. Once they arrive, a huge machine lifeform appears out of the depths of the ocean.
+RU: 
+
+ID: CHAPTER_HELP_07_01_0
+JP: ９Ｓは、森の城で会ったアンドロイド・Ａ２のことをパスカルに報告する。パスカル達の記録にもＡ２のことは残されていたが、危険なアンドロイドという以上の情報は得られなかった。
+EN: 9S reports on A2, the android they met in the forest castle, to Pascal. Pascal also has records of A2, but they don't offer much information beyond that she is dangerous.
+RU: 
+
+ID: CHAPTER_HELP_07_02_0
+JP: 自我データのチェックと補給のためにレジスタンスキャンプに戻った２Ｂと９Ｓ。アネモネの依頼で、アンドロイド軍の空母護衛に就くこととなり、水没都市へと向かう。
+EN: 2B and 9S return to the Resistance camp to check their data and refuel. Under request from Anemone, they then head to the Flooded City to protect the android army carrier.
+RU: 
+
+ID: CHAPTER_HELP_07_03_0
+JP: 洋上の空母が攻撃されているとの報が入った。飛行ユニットを受け取り、敵勢力の排除を行う。
+EN: Receiving word that the seaward carrier is under attack, they requisition flight units and repel the enemy forces.
+RU: 
+
+ID: CHAPTER_HELP_07_04_0
+JP: 海中から現れたのは、見たことがないほど巨大な機械生命体だった。強力な電磁波防壁により手をこまねく２Ｂ達だったが、迎撃砲を用いて敵の撃破を試みる。
+EN: A machine larger than any 2B has ever seen appears from the depths of the ocean. Held off by a powerful electromagnetic field, they try to fight back with an interception mortar.
+RU: 
+
+ID: CHAPTER_HELP_08_00
+JP: 巨大機械生命体を撃破した際、９Ｓは吹き飛ばされ消息を絶ってしまっていた。９Ｓを捜索する２Ｂは、やがて真っ白な結晶で出来た不思議な街へと辿り着く。そこにはアダムが一人待ち受けていた。
+EN: 9S has disappeared after the destruction of the giant machine. 2B sets out to find him and ends up in a mysterious white city where Adam is waiting for her.
+RU: 
+
+ID: CHAPTER_HELP_08_01_0
+JP: 撃破された超巨大機械生命体。しかし、９Ｓは敵撃破時の爆発の影響で行方不明になってしまう。２Ｂは捜索に奔走する。
+EN: The huge machine lifeform has been destroyed. However, 9S was lost in the explosion. 2B scrambles to search for him.
+RU: 
+
+ID: CHAPTER_HELP_08_01_1
+JP: 目を覚ました２Ｂは行方不明となった９Ｓの捜索に当たる。微弱なブラックボックス信号を検知するためアネモネから特殊なスキャナーの情報を入手する。
+EN: Waking up, 2B sets out to find the missing 9S. She receives information about a particular scanner from Anemone, to detect his faint black box signal.
+RU: 
+
+ID: CHAPTER_HELP_08_01_2
+JP: ９Ｓの信号を辿ってゆくうちに、真っ白な結晶の街に迷い込む２Ｂ。そして再び現れるアダム。彼は人類への興味からこの街を作り出し、さらには人類の本質『死』を理解するため２Ｂに闘いを挑む。
+EN: Following 9S's signal, 2B reaches a white crystal city. Adam appears; he built the city out of an interest in humanity. He challenges 2B to fight so that he might understand death.
+RU: 
+
+ID: CHAPTER_HELP_08_01_3
+JP: 超巨大生命体撃破の衝撃で破損した９Ｓは、自らの記憶領域の中を彷徨う。
+EN: 9S, broken down by the shockwave from the destruction of the machine lifeform, wanders among his own memory banks.
+RU: 
+
+ID: CHAPTER_HELP_09_00
+JP: 機械生命体の一団と和平協定を結ぶため、２Ｂはパスカルと共に工場廃墟へと足を運ぶ。そこでは、機械生命体が神を信じ宗教を成していた。狂った教義の矛先は２Ｂ達へと向けられる。
+EN: 2B and Pascal head to the abandoned factory to  negotiate peace with a group of machines. They find a religious cult that soon  turns out to be hostile.
+RU: 
+
+ID: CHAPTER_HELP_09_01_0
+JP: 和平交渉のため、工場廃墟を訪れた２Ｂとパスカルだが、交渉する間もなく機械生命体達に襲われる。一方９Ｓは、バンカーで自らのシステム検査を行っていた。
+EN: 2B and Pascal are taken into the abandoned factory for peace negotiations, but they're attacked by machines straight away. Meanwhile, 9S verifies his own systems in the Bunker.
+RU: 
+
+ID: CHAPTER_HELP_09_01_1
+JP: アダムに長く囚われていた９Ｓはウィルス汚染の疑いがあった。データオーバーホールのため、９Ｓは自身のシステムの検査を行う。
+EN: 9S wonders if he may have been infected with a virus while held captive by Adam. He performs an extensive verification of his own systems for a possible data overhaul.
+RU: 
+
+ID: CHAPTER_HELP_09_01_2
+JP: ２Ｂはネットワークから開放された機械生命体の動向を調べる任務に当たっている。パスカルに連絡を取ると、他の機械生命体の一団から和平協定の連絡があったという。
+EN: 2B is tasked with looking into the movements of machines released from the network. She contacts Pascal, who tells her that another machine group has offered a peace treaty.
+RU: 
+
+ID: CHAPTER_HELP_09_01_3
+JP: 機械生命体の一団との和平交渉を行うため、２Ｂは工場廃墟の入り口でパスカルと落ち合う。工場の中で待っていたのは、奇妙な宗教を信じるロボット達の集団だった。
+EN: 2B meets Pascal at the factory ruin entrance to negotiate peace with the group of machines. They find a strange cult of religious robots waiting for them inside the factory.
+RU: 
+
+ID: CHAPTER_HELP_09_02_0
+JP: ２Ｂ達の脱出を援護する為、９Ｓはバンカーからハッキングを行う。
+EN: 9S hacks from the Bunker to aid 2B and Pascal's escape.
+RU: 
+
+ID: CHAPTER_HELP_09_02_1
+JP: バンカーの自室で目を覚ました９Ｓは、オペレーターから２Ｂより支援要請を受けていることを聞かされる。２Ｂ支援のため、大型ターミナルから工場廃墟へハッキングを仕掛ける
+EN: Waking up in his quarters at the Bunker, 9S hears from the Operator that 2B has requested support. To help 2B, 9S hacks into the abandoned factory from the large terminal.
+RU: 
+
+ID: CHAPTER_HELP_09_02_2
+JP: ９Ｓの支援の下、２Ｂはパスカルとともに工場廃墟からの脱出を図る。
+EN: 2B and Pascal mange to escape the abandoned factory, thanks to 9S's help.
+RU: 
+
+ID: CHAPTER_HELP_09_02_3
+JP: 脱出の道中で、２Ｂは大型多脚兵器と遭遇する。その個体は強力なエネルギーシールドを展開しており、攻撃が一切通じない。シールド解除のため９Ｓは工場システムにハッキングを仕掛ける。
+EN: 2B encounters a large, many-legged weapon while escaping. Attacks can't penetrate its powerful energy shield. 9S hacks into the factory system to disable the shield.
+RU: 
+
+ID: CHAPTER_HELP_09_03_0
+JP: 大型多脚兵器を無事撃破したことを確認し、９Ｓはハッキングから離脱する。しかし、真実を知ってしまった彼は……
+EN: 9S stops hacking after confirming the destruction of the weapon. However, he learned a dangerous truth in the process...
+RU: 
+
+ID: CHAPTER_HELP_09_03_1
+JP: 大型多脚兵器を撃破し、パスカルとともにエレベーターで地上へと向かう。
+EN: The large, multi-legged weapon defeated, 2B rides the elevator back to the surface with Pascal.
+RU: 
+
+ID: CHAPTER_HELP_09_03_2
+JP: 司令官に呼び出された９Ｓはメインサーバーに残った記録の矛盾を伝える。司令官の口から伝えられたのは、人類が絶滅している事実だった。動揺する９Ｓ。
+EN: 9S is called by the commander, and reports the incoherent data he discovered in the main server.  The commander tells the trembling 9S the truth: Humanity is truly extinct.
+RU: 
+
+ID: CHAPTER_HELP_10_00
+JP: 廃墟都市で暴走した機械生命体が大量に出現。２Ｂと９Ｓはその迎撃へと向かう。レジスタンスキャンプ前に現れた大型兵器を破壊するも、残骸の中から怒り狂ったイヴが姿を現す。
+EN: The city ruins are overrun with machines, so 2B and 9S head there to support the Resistance. One particularly large weapon turns out to contain a very angry Eve.
+RU: 
+
+ID: CHAPTER_HELP_10_01_0
+JP: 戦闘配置を受け飛行ユニットでバンカーを発進する９Ｓ。地上の２Ｂは、暴走する機械生命体達に襲われるレジスタンスの救援にあたっていた。
+EN: 9S takes his flight unit from his battle station and takes off from the Bunker. 2B, on the ground, goes to save the Resistance from a berserk machine lifeform.
+RU: 
+
+ID: CHAPTER_HELP_10_01_1
+JP: 人類の滅亡という事実に困惑する９Ｓ。そんな９Ｓの思考をかき消すかのように戦闘配置の緊急指令が入る。
+EN: 9S is disturbed by the extinction of mankind. He gets an urgent order to his battle station, as if to drown out his troubled thoughts.
+RU: 
+
+ID: CHAPTER_HELP_10_01_2
+JP: パスカルとともに無事工場廃墟から脱出した２Ｂ。そこへレジスタンスキャンプのアネモネから救援要請が舞い込む。
+EN: 2B has safely escaped the abandoned factory with Pascal, when calls for rescue from Anemone at the Resistance camp come pouring in.
+RU: 
+
+ID: CHAPTER_HELP_10_01_3
+JP: レジスタンスキャンプに到着した２Ｂは、機械生命体がアンドロイドを捕食している様を目撃する。敵は射撃を弾くエネルギーシールドを展開しており、２Ｂは近接攻撃を以って敵殲滅に当たる。
+EN: 2B arrives at the Resistance camp to find a machine preying on the androids there. The machine has a shield that repels projectiles, so 2B must destroy it with close-range attacks.
+RU: 
+
+ID: CHAPTER_HELP_10_01_4
+JP: 廃墟都市で待ち受けていたのは放電攻撃をする大型多脚兵器だった。
+EN: Waiting in the City Ruins was a large multi-legged weapon that attacks with electrical discharges.
+RU: 
+
+ID: CHAPTER_HELP_10_02_0
+JP: 多脚兵器との戦闘の最中、９Ｓが飛来。飛行ユニットを切り離し、敵へと直撃させる。多脚兵器は沈黙したが、その残骸の中からイヴが姿を現す。
+EN: 9S flies in during the fight with the multi-legged weapon, dropping from his flight unit for a direct attack. The weapon is silenced, but from its husk appears Eve.
+RU: 
+
+ID: CHAPTER_HELP_10_03_0
+JP: パスカルからの救援要請を受け、パスカルの村へと急ぐ２Ｂと９Ｓ。村には暴走した機械生命体達が押し寄せていた。
+EN: 2B and 9S hurry to Pascal's village after receiving a distress signal from Pascal. Berserk machine lifeforms have invaded the village.
+RU: 
+
+ID: CHAPTER_HELP_10_04_0
+JP: アダムを失ったイヴは、憎悪のあまり暴走し、ネットワーク下の機械生命体達をも凶暴化させていた。イヴを停止させない限り、凶暴化した個体達は止まらない。２Ｂと９Ｓはイヴ撃破のため決戦に挑む。
+EN: Eve, driven wild with hate after losing Adam, has made the machine lifeforms on the network savage. 2B and 9S go into battle with Eve to destroy him and end the machine rampage.
+RU: 
+
+ID: CHAPTER_HELP_10_05_0
+JP: ９Ｓはイヴのネットワーク分離時に物理汚染されてしまう。汚染された９Ｓを、２Ｂは自らの手で彼を殺す決断をする……
+EN: 9S is physically infected when Eve is separated from the network. 2B decides to put the infected 9S out of his misery with her own hands...
+RU: 
+
+ID: CHAPTER_HELP_10_05_1
+JP: アダムとイヴを巡る戦いは終わりを迎える。アンドロイドと機械生命体の戦いは続いている中、２Ｂと９Ｓは今はただお互いの生を噛みしめた。
+EN: The end to the battle over Adam and Eve approaches. As the war between androids and machines continues around them, 2B and 9S cling tightly to life.
+RU: 
+
+ID: CHAPTER_HELP_10_05_2
+JP: ９Ｓと共にバンカーに戻った２Ｂ。装甲服に身を包んだ彼女は、新たな戦いへと身を投じる……
+EN: 2B returns to the Bunker with 9S. Dressed in armor, she sets out to plunge herself into a new battle...
+RU: 
+
+ID: CHAPTER_HELP_11_00
+JP: アダムとイヴを倒したヨルハ部隊は、機械生命体への総攻撃を敢行する。だが、部隊は大規模なウィルス汚染に見舞われ壊滅。なんとか生き延びた２Ｂ達だったが、汚染は２Ｂにも現れていた……
+EN: Having destroyed Adam and Eve, the YoRHa turn their attention to the other machines. However, they are wiped out by a large-scale virus, which has now spread to 2B as well...
+RU: 
+
+ID: CHAPTER_HELP_11_01_0
+JP: ネットワーク基幹ユニットである「アダム」、「イヴ」が撃破されたことにより、機械生命体の指揮系統は混乱状態へと陥った。これを好機と人類軍は地上への大規模侵攻作戦を展開する。
+EN: With Adam and Eve, the backbone of the network, gone and the machines' chain of command thrown into chaos, the android army proceeds with their large-scale ground invasion.
+RU: 
+
+ID: CHAPTER_HELP_11_02_0
+JP: 機械生命体の防空システムを麻痺させるため、９Ｓはスキャナー部隊とともにこれをハッキングする任務に当たる。
+EN: To cripple the machines' aerial defense system, 9S hacks into it along with the scanner squad.
+RU: 
+
+ID: CHAPTER_HELP_11_03_0
+JP: 遊撃部隊である２Ｂと９Ｓは、各地の制圧を行う先行部隊を援護する。
+EN: 2B and 9S, acting as a guerilla force, assist the front line troops in claiming each territory.
+RU: 
+
+ID: CHAPTER_HELP_11_04_0
+JP: 敵のＥＭＰ攻撃をトリガーに、ヨルハ部隊はウィルスに浸食されてしまう。２Ｂ達は襲い来る同胞たちに止む無く刃を向ける。
+EN: Triggered by an enemy EMP attack, YoRHa units are corroded by the virus. 2B and 9S are forced to turn their weapons on their own comrades to survive.
+RU: 
+
+ID: CHAPTER_HELP_11_05_0
+JP: バンカー内の自室ベッドで目を覚ました２Ｂ。９Ｓとともに司令官に状況を報告するが、既にバンカーはウィルスによって汚染されていた。司令官は崩壊するバンカーと運命を共にする。
+EN: 2B wakes in her quarters in the Bunker. She reported the situation to the commander with 9S, but the Bunker was already infected, and the commander would share its fate.
+RU: 
+
+ID: CHAPTER_HELP_11_06_0
+JP: バンカーから脱出した２Ｂ。しかし、ヨルハ部隊の攻撃を受け地上へ墜落してしまう。迫り来る機械生命体と対峙するも、自身の身体もウィルスによって蝕まれ始めていた。
+EN: 2B escapes the Bunker, but she's knocked out of the air by attacking YoRHa. While fighting off pursuing machines, she notices that her own body is being eaten away by the virus.
+RU: 
+
+ID: CHAPTER_HELP_11_07_0
+JP: 地上に降り立った９Ｓは、２Ｂのブラックボックス信号を頼りに彼女の下へと向かう。そこで彼が見たものは、Ａ２、そして……２Ｂの最期の姿だった。
+EN: 9S lands on the ground and heads towards 2B, relying on her black box signal. There, he sees A2 - and 2B, on her last legs.
+RU: 
+
+ID: CHAPTER_HELP_12_00
+JP: ２Ｂからの最終指令として「Ａ２への随行支援命令」を受けたポッド０４２。迷惑がるＡ２など構わず、ポッドは彼女にしつこく同行する。
+EN: Pod 042 received 2B's final order to support A2, and stuck fast to her through her travels - whether A2 liked it or not.
+RU: 
+
+ID: CHAPTER_HELP_12_01_0
+JP: 商業施設跡で目覚めたＡ２。付きまとうポッドを疎ましがりつつも大型機械生命体破壊のため砂漠地帯へと向かう。
+EN: A2 wakes up in the shopping center ruins. She heads to the desert to destroy a large machine, resenting the Pod clinging to her all the while.
+RU: 
+
+ID: CHAPTER_HELP_12_02_0
+JP: 砂漠地帯で敵機械生命体を撃破。拍子抜けするＡ２だったが砂の中から巨大な連結機械生命体が姿を現す。苦戦するＡ２はＢモードを用いてこれの撃破を試みる。
+EN: A2 destroys the machine in the desert, but is disheartened when a colossal, interlocking machine appears from the sand. Struggling, she goes into B Mode to fight it.
+RU: 
+
+ID: CHAPTER_HELP_13_00
+JP: 「塔」にアクセスした９Ｓは資源回収ユニットへ向かうよう誘導され、森の城近くの大型ユニットへと足を踏み入れる。
+EN: Having accessed the Tower, 9S was compelled to head for the Resource Recovery Unit. This led him towards the massive unit near the forest castle.
+RU: 
+
+ID: CHAPTER_HELP_13_01_0
+JP: 崩壊する地形に巻き込まれ気を失っていた９Ｓ。レジスタンスキャンプでデボルとポポルに介抱され目を覚ます。
+EN: 9S is knocked unconscious by the collapsing landform. He wakes up in the care of Devola and Popola in the Resistance camp.
+RU: 
+
+ID: CHAPTER_HELP_13_02_0
+JP: 廃墟都市に出現した巨大構造物へと向かった９Ｓ。そのシステムへとアクセスすると音声案内が流れ、『資源回収ユニット』へのツアーなるものを紹介される。
+EN: 9S heads towards the massive structure that appeared in the City Ruins. Accessing the system, he's greeted by a voice introducing a tour to the Resource Recovery Unit.
+RU: 
+
+ID: CHAPTER_HELP_13_03_0
+JP: 「塔」から資源回収ユニットへと向かう中、９Ｓは自らの意志で機械生命体殲滅とＡ２殺害を強く心に決める。
+EN: While going from the tower to the Resource Recovery Unit, 9S decisively makes up his mind to destroy machine lifeforms and kill A2.
+RU: 
+
+ID: CHAPTER_HELP_13_04_0
+JP: 資源回収ユニットの下へ辿り着いた９Ｓ。防衛体制をとる資源回収ユニットの内部へと乗り込み、『アクセス解除キー』を手に入れるため上層階を目指す。
+EN: 9S arrives at the bottom of the Resource Recovery Unit at last. He boards the defended Recovery Unit and sets off for the upper levels to get the Access Release Key.
+RU: 
+
+ID: CHAPTER_HELP_14_00
+JP: パスカルの村の機械生命体達が突如暴走を始めた。通信を受け村へと向かったＡ２は、パスカルと子供達を避難させ、敵を鎮圧する。避難先に現れた敵もパスカルと共に撃退するが……
+EN: The machines of Pascal's village suddenly went haywire. A2 rushed to the village to help Pascal and the children escape, but they find no safe harbor. A2 fights beside Pascal, but...
+RU: 
+
+ID: CHAPTER_HELP_14_01_0
+JP: 大型機械生命体戦の過負荷により停止・再起動したＡ２。劣化した燃料用濾過フィルターを交換するため、彼女はレジスタンスキャンプに足を運ぶ。アネモネからはパスカルと取引するよう言い渡された。
+EN: A2, having suffered an overload during the battle with the machine, reboots. She goes to the Resistance camp to change her fuel filter, and Anemone refers her to Pascal.
+RU: 
+
+ID: CHAPTER_HELP_14_02_0
+JP: 子供たちに構うパスカル。何の変哲もない大切な日常……だが、突如遠くから鳴り響いた不気味な音が、その平穏を破壊しようとしていた。
+EN: Pascal spent uneventful days tending to the children... Until suddenly, a strange sound blared out from afar, threatening to shatter his peaceful life.
+RU: 
+
+ID: CHAPTER_HELP_14_03_0
+JP: パスカルから依頼されていた素材を入手したＡ２。素材を届けるために村へ向かおうとした矢先、パスカルからただならぬ雰囲気の通信を受け取る。
+EN: A2, having gathered the materials Pascal requested, was just about to return to the village when she received an alarming message from Pascal.
+RU: 
+
+ID: CHAPTER_HELP_14_04_0
+JP: パスカルの村へ到着したＡ２は、共食いする機械生命体達を目撃する。
+EN: A2 arrives back at Pascal's village to find a group of cannibal machine lifeforms.
+RU: 
+
+ID: CHAPTER_HELP_14_05_0
+JP: 村の子供達とパスカルは工場廃墟へと避難していた。Ａ２もそこへ到着するが、多数の敵の集結を知り迎撃に当たる。そして、戦闘を終えた彼女達を待っていたのはあまりにも残酷な結末だった。
+EN: Pascal and the children escape to the abandoned factory. A2 goes, learns of a large group of enemies and moves to intercept them. But something far worse awaits her after the fight.
+RU: 
+
+ID: CHAPTER_HELP_15_00
+JP: ９Ｓが次に向かったのは水没都市に現れた資源回収ユニット。ハッキングを駆使し、２つめの「塔」のアクセス解除キーを手に入れる９Ｓだが、彼の義体は既に戦闘不能状態に陥っていた。
+EN: 9S's next target is the Resource Recovery Unit in the Flooded City. Through deft hacking, he obtains the second Tower access key, but his body is left unable to fight.
+RU: 
+
+ID: CHAPTER_HELP_15_01_0
+JP: ポッドからバイタルの異常を警告される９Ｓだが、彼はそれに構わず次の資源回収ユニットへと急ぐ。
+EN: 9S's Pod warns him of irregularities in his vitals, but he continues hurrying to the next Resource Recovery Unit without paying it any heed.
+RU: 
+
+ID: CHAPTER_HELP_15_02_0
+JP: 水没都市の資源回収ユニットへと乗り込む９Ｓ。内部には敵をまるで確認できない。そのユニットは、システムプロテクトをハッキングで解除しないとコアまで辿りつけない仕組みだった。
+EN: 9S boards the Resource Recovery Unit in the Flooded City. He isn't able to confirm any enemies inside it. This unit's system protections must be hacked to reach to core.
+RU: 
+
+ID: CHAPTER_HELP_15_03_0
+JP: ９ＳのNFCS（近距離攻撃管理システム）が故障。戦闘どころか満足に走ることもできない９Ｓは、デボルに修理してもらうためレジスタンスキャンプを目指す。
+EN: 9S's NFCS is malfunctioning, and 9S cannot operate at full capacity in combat. He aims for the Resistance camp, in order to have it repaired by Devola.
+RU: 
+
+ID: CHAPTER_HELP_15_04_0
+JP: レジスタンスキャンプに辿り着いた９Ｓ。心配するデボル達だったが、その言葉は９Ｓには届いていない。
+EN: 9S arrives at the Resistance camp at last. Devola and her friends have been worried about him — but their words don't reach him.
+RU: 
+
+ID: CHAPTER_HELP_16_00
+JP: 資源回収ユニット内で、９Ｓは汚染されたオペレーター２１Ｏと闘う。そしてＡ２との再会。怒りの矛先がＡ２に向かった時、機械生命体の乱入が状況を破壊する。
+EN: 9S fights the corrupted Operator 210 inside the recovery unit and again encounters A2. As soon as he turns his ire upon her, a machine lifeform crashes their reunion.
+RU: 
+
+ID: CHAPTER_HELP_16_01_1
+JP: 修理を終えた９Ｓは次の資源回収ユニットを目指し、遊園地廃墟へと出発する。
+EN: After being repaired, 9S heads towards the next Resource Recovery Unit. This leads him to the amusement park.
+RU: 
+
+ID: CHAPTER_HELP_16_01_2
+JP: 工場廃墟から外へ出たＡ２は、空に鳴り響く「塔」システムサービスの案内に誘導され、東の大型ユニットを目指す。
+EN: A2 leaves the abandoned factory and goes outside, where the sky rings with the Tower system's voice guidance system. Guided by the voice, she heads towards the giant unit in the east.
+RU: 
+
+ID: CHAPTER_HELP_16_02_0
+JP: 資源回収ユニットの内部では、遠距離攻撃をばら撒く機械生命体達が待ち構えていた。敵を破壊し進む９Ｓは、思いがけない相手と巡り合う。
+EN: Inside the Recovery Unit, 9S is barraged by long-distance attacks from machine lifeforms. Destroying them, he presses on until he meets the last person he expected to see...
+RU: 
+
+ID: CHAPTER_HELP_16_03_0
+JP: ９Ｓが倒し損ねたオペレーター２１Ｏは、Ａ２によってとどめを刺された。Ａ２へ怒りを向ける９Ｓだが、新たな敵の出現によって下層へと落下。Ａ２は出現した機械生命体の兄弟達と戦闘する。
+EN: Operator 210, wounded by 9S, is finished off by A2. 9S turns his fury onto A2 when a new foe appears below, and he descends, leaving A2 to fight the new enemy machine's brothers.
+RU: 
+
+ID: CHAPTER_HELP_17_00
+JP: 機械生命体が作り上げた「塔」。その目的を知らぬまま、９ＳとＡ２は導かれるように「塔」内部に入ってゆく。そこで待ち受けるのは赤い少女の用意した悪夢のような真実だった。
+EN: 9S and A2 are guided into the Tower, unaware of the purpose for which it was built by machine lifeforms. A truth awaits them inside, as hideous as the Red Girl's nightmare.
+RU: 
+
+ID: CHAPTER_HELP_17_01_0
+JP: ポッドの声で目を覚ます９Ｓ。全ての認証キーを手に入れた彼は、「塔」の入口へと向かう。ロックを解除すると夥しい数の敵が現れ苦戦する９Ｓだが、そこへデボルとポポルが加勢に現れる。
+EN: 9S is awakened by his Pod. He has all authentication keys, and heads for the Tower entrance. He unlocks it to find a huge number of enemies; Devola and Popola appear just in time.
+RU: 
+
+ID: CHAPTER_HELP_17_02_0
+JP: デボルとポポルの身を挺した援護により、９Ｓはついに「塔」内部へと入り込む。「塔」が用意していた余興は、９Ｓにとって最も疎ましいもの……２Ｂタイプのアンドロイド達だった。
+EN: Thanks to Devola and Popola's backup, 9S finally enters the Tower, which has some entertainment prepared. The worst thing 9S could imagine: A group of 2B-type androids.
+RU: 
+
+ID: CHAPTER_HELP_17_03_0
+JP: 遊園地廃墟の資源回収ユニットから出たＡ２。ポッドから「塔」のゲート解放が確認されたことを聞き、彼女はその入り口へと向かう。
+EN: A2 leaves the Recovery Unit in the amusement park. Hearing from her Pod that the Tower gate is open, she makes her way to the entrance.
+RU: 
+
+ID: CHAPTER_HELP_17_04_0
+JP: 「塔」へと潜り込んだＡ２は、内部を探索するうち白く巨大な図書室へと足を踏み入れる。
+EN: A2 sneaks into the Tower. While searching its interior, she steps into a gigantic, white library.
+RU: 
+
+ID: CHAPTER_HELP_17_05_0
+JP: 左腕を失った９Ｓは２Ｂコピーの腕を自らに接合する。しかし腕からウィルスに侵入されてしまい、これを除去するため自己ハッキングを行う。そして戦いを続ける９Ｓの前に現れたのは赤い服を着た少女達だった。
+EN: Having lost his left arm, 9S grafts one from a 2B copy. The arm is infected, and he must hack himself to remove the virus. As he fights, a group of girls in red clothes appear.
+RU: 
+
+ID: CHAPTER_HELP_17_06_0
+JP: 図書室に現れた大型多脚兵器を撃退するＡ２。「塔」上層へのエレベーターに乗ると敵から強制ハッキングを受けてしまう。電脳空間の中で、彼女は赤い少女から戦いを挑まれる。
+EN: A2 fights off the multi-leg weapon in the library. She boards the elevator to the top of the Tower when she's forcibly hacked. In cyberspace, girls in red clothes challenge her.
+RU: 
+
+ID: CHAPTER_HELP_17_07_0
+JP: 汚染されたヨルハから飛行ユニットを奪い、「塔」上層を目指す９Ｓ。Ａ２は上昇を続けるエレベーター上で大型多脚兵器と戦闘する。
+EN: 9S commandeers a flight unit from the infected YoRHa and heads to the top of the Tower. A2 fights the large multi-leg weapon in the ascending elevator.
+RU: 
+
+ID: CHAPTER_HELP_17_08_0
+JP: 「塔」の頂上へと辿り着いた９ＳとＡ２。二体が一つとなった大型多脚兵器が、二人の前へと立ちはだかる。
+EN: 9S and A2 reach the top of the Tower. Two large multi-leg weapons form into one and stand against them.
+RU: 
+
+ID: CHAPTER_HELP_17_09_0
+JP: 機械生命体を破壊し、対峙する９ＳとＡ２。Ａ２は互いに殺し合うことの無意味さを説こうとするも、憎しみに駆られた９Ｓには届かなかった。そうして最後のヨルハ機体達の死闘が開始される。
+EN: The machine defeated, 9S and A2 turn on each other. A2 explains it's pointless to kill each other, but 9S is deafened by hate. Thus begins the final battle between the last YoRHa.
+RU: 
+
+ID: CHAPTER_HELP_17_10_0
+JP: ９ＳとＡ２が、それぞれの最期を迎える。
+EN: 9S and A2 both greet their final moments.
+RU: 
+
+ID: CHAPTER_HELP_17_10_1
+JP: 斬りかかる９Ｓと反撃するＡ２。Ａ２は脳裏に２Ｂの声が聞こえ一瞬手を緩める。刺されたＡ２は、崩れ落ちる拍子に刀を９Ｓへと突き刺してしまう……
+EN: 9S attacks, and A2 counter-attacks. A2 hears 2B's voice in the back of her mind, and lowers her guard for just a moment. Run through, she stabs 9S with her sword as she falls...
+RU: 
+
+ID: CHAPTER_HELP_17_10_2
+JP: ９Ｓを倒したＡ２は、ウィルス汚染を除去するため彼のシステム内部へと入り込む。
+EN: Having felled 9S, A2 enters his system internals to eliminate the viral corruption.
+RU: 
+
+ID: CHAPTER_HELP_17_11_0
+JP: ヨルハ機体全機のブラックボックス反応が停止。ポッド達はヨルハ計画を最終段階へと移行させる。
+EN: Black box responses cease from all YoRHa units. The Pods move the YoRHa Project into its final phase.
+RU: 
+
+ID: CHAPTER_NAME_01_00
+JP: プロローグ
+EN: Prologue
+RU: 
+
+ID: CHAPTER_NAME_01_01_0
+JP: ヨルハ部隊地球降下作戦
+EN: YoRHa Descent
+RU: 
+
+ID: CHAPTER_NAME_01_01_1
+JP: ２Ｂ　空中戦
+EN: 2B's Aerial Battle
+RU: 
+
+ID: CHAPTER_NAME_01_01_2
+JP: ９Ｓ　防衛システム解除
+EN: 9S Disarms the Defense System
+RU: 
+
+ID: CHAPTER_NAME_01_02_0
+JP: 工場廃墟
+EN: Abandoned Factory
+RU: 
+
+ID: CHAPTER_NAME_01_02_1
+JP: ２Ｂ　巨大防衛兵器戦
+EN: 2B's Defense Machine Battle
+RU: 
+
+ID: CHAPTER_NAME_01_02_2
+JP: ９Ｓ　工場外部の探索
+EN: 9S Outside the Factory
+RU: 
+
+ID: CHAPTER_NAME_01_02_3
+JP: ２Ｂ　工場内探索
+EN: 2B Inside the Factory
+RU: 
+
+ID: CHAPTER_NAME_01_02_4
+JP: ２Ｂ　巨大防衛兵器再戦
+EN: 2B's Defense Machine Battle 2
+RU: 
+
+ID: CHAPTER_NAME_01_03_0
+JP: 超大型兵器戦
+EN: Goliath Battle
+RU: 
+
+ID: CHAPTER_NAME_01_03_1
+JP: ２Ｂ　地上戦
+EN: 2B's Battle on Land
+RU: 
+
+ID: CHAPTER_NAME_01_03_2
+JP: ９Ｓ　空中戦
+EN: 9S's Aerial Combat
+RU: 
+
+ID: CHAPTER_NAME_01_03_3
+JP: ２Ｂ　空中戦
+EN: 2B's Aerial Combat
+RU: 
+
+ID: CHAPTER_NAME_01_04_0
+JP: バンカー
+EN: The Bunker
+RU: 
+
+ID: CHAPTER_NAME_01_04_1
+JP: ２Ｂの目覚め
+EN: 2B Awakens
+RU: 
+
+ID: CHAPTER_NAME_01_04_2
+JP: ９Ｓ　２Ｂ起動セットアップのアシスト
+EN: 9S Gets 2B Set Up
+RU: 
+
+ID: CHAPTER_NAME_01_05_0
+JP: 与えられる任務
+EN: The Mission
+RU: 
+
+ID: CHAPTER_NAME_02_00
+JP: レジスタンスキャンプ
+EN: Resistance Camp
+RU: 
+
+ID: CHAPTER_NAME_02_01_0
+JP: 廃墟都市へ降り立つ
+EN: Landing at the City Ruins
+RU: 
+
+ID: CHAPTER_NAME_02_02_0
+JP: 砂漠へと向かう
+EN: Traveling to the Desert
+RU: 
+
+ID: CHAPTER_NAME_03_00
+JP: アダムとイヴ
+EN: Adam and Eve
+RU: 
+
+ID: CHAPTER_NAME_03_01_0
+JP: 砂漠地帯
+EN: At the Desert
+RU: 
+
+ID: CHAPTER_NAME_03_02_0
+JP: 砂漠の団地
+EN: Desert Residential District
+RU: 
+
+ID: CHAPTER_NAME_03_03_0
+JP: アダム戦
+EN: Battle with Adam
+RU: 
+
+ID: CHAPTER_NAME_03_04_0
+JP: ヨルハ部隊員の捜索
+EN: YoRHa Recon
+RU: 
+
+ID: CHAPTER_NAME_04_00
+JP: 狂気の歌姫
+EN: Mad Songstress
+RU: 
+
+ID: CHAPTER_NAME_04_01_0
+JP: 遊園地廃墟
+EN: Amusement Park
+RU: 
+
+ID: CHAPTER_NAME_04_02_0
+JP: 戦車型機械生命体戦
+EN: Tank Boss
+RU: 
+
+ID: CHAPTER_NAME_04_03_0
+JP: 歌姫降臨
+EN: Advent of the Songstress
+RU: 
+
+ID: CHAPTER_NAME_04_04_0
+JP: 使者の来訪
+EN: The Messenger Arrives
+RU: 
+
+ID: CHAPTER_NAME_05_00
+JP: 穿たれた大地
+EN: Excavated Land
+RU: 
+
+ID: CHAPTER_NAME_05_01_0
+JP: パスカルの村
+EN: Pascal's Village
+RU: 
+
+ID: CHAPTER_NAME_05_02_0
+JP: 超大型兵器の来襲
+EN: Goliath Attack
+RU: 
+
+ID: CHAPTER_NAME_05_03_0
+JP: エイリアンシップ
+EN: Alien Ship
+RU: 
+
+ID: CHAPTER_NAME_05_04_0
+JP: アダム・イヴ戦
+EN: Battle with Adam and Eve
+RU: 
+
+ID: CHAPTER_NAME_06_00
+JP: 森の王様
+EN: King of the Forest
+RU: 
+
+ID: CHAPTER_NAME_06_01_0
+JP: バンカーでの調査報告
+EN: Reporting to the Commander
+RU: 
+
+ID: CHAPTER_NAME_06_02_0
+JP: 商業施設跡へ
+EN: To the Commercial Facility
+RU: 
+
+ID: CHAPTER_NAME_06_03_0
+JP: 森林地帯を探索
+EN: Searching the Forest
+RU: 
+
+ID: CHAPTER_NAME_06_04_0
+JP: 森の城
+EN: Forest Castle
+RU: 
+
+ID: CHAPTER_NAME_06_05_0
+JP: 復讐者Ａ２
+EN: A2's Revenge
+RU: 
+
+ID: CHAPTER_NAME_07_00
+JP: 彷徨える子供
+EN: Lost Child
+RU: 
+
+ID: CHAPTER_NAME_07_01_0
+JP: パスカルへ報告
+EN: Reporting to Pascal
+RU: 
+
+ID: CHAPTER_NAME_07_02_0
+JP: 空母護衛任務の受注
+EN: The Aircraft Carrier
+RU: 
+
+ID: CHAPTER_NAME_07_03_0
+JP: 海上空中戦
+EN: Battle Over the Ocean
+RU: 
+
+ID: CHAPTER_NAME_07_04_0
+JP: 怪獣
+EN: Monster
+RU: 
+
+ID: CHAPTER_NAME_08_00
+JP: 複製された街
+EN: Copied City
+RU: 
+
+ID: CHAPTER_NAME_08_01_0
+JP: 囚われた少年
+EN: A Young Prisoner
+RU: 
+
+ID: CHAPTER_NAME_08_01_1
+JP: ２Ｂ　９Ｓ捜索
+EN: 2B Searches for 9S
+RU: 
+
+ID: CHAPTER_NAME_08_01_2
+JP: ２Ｂ　アダム戦
+EN: 2B's Battle with Adam
+RU: 
+
+ID: CHAPTER_NAME_08_01_3
+JP: ９Ｓ　記憶領域
+EN: 9S's Memory Area
+RU: 
+
+ID: CHAPTER_NAME_09_00
+JP: 狂った宗教
+EN: Deranged Religion
+RU: 
+
+ID: CHAPTER_NAME_09_01_0
+JP: 信じるモノ達
+EN: Those Who Believe
+RU: 
+
+ID: CHAPTER_NAME_09_01_1
+JP: ９Ｓ　データオーバーホール
+EN: 9S's Data Overhaul
+RU: 
+
+ID: CHAPTER_NAME_09_01_2
+JP: ２Ｂ　機械生命体動向調査
+EN: Trends Among the Machines
+RU: 
+
+ID: CHAPTER_NAME_09_01_3
+JP: ２Ｂ　和平交渉
+EN: 2B Negotiates Peace
+RU: 
+
+ID: CHAPTER_NAME_09_02_0
+JP: 脱出
+EN: Escape
+RU: 
+
+ID: CHAPTER_NAME_09_02_1
+JP: ９Ｓ　ハッキングによる２Ｂ支援
+EN: 9S Supports 2B
+RU: 
+
+ID: CHAPTER_NAME_09_02_2
+JP: ２Ｂ　工場廃墟からの脱出
+EN: 2B Escapes the Factory
+RU: 
+
+ID: CHAPTER_NAME_09_02_3
+JP: ２Ｂ　大型多脚兵器戦
+EN: Multi-leg Goliath Battle
+RU: 
+
+ID: CHAPTER_NAME_09_03_0
+JP: 真実
+EN: The Truth
+RU: 
+
+ID: CHAPTER_NAME_09_03_1
+JP: ２Ｂ　大型多脚兵器撃破
+EN: Multi-leg Goliath Destroyed
+RU: 
+
+ID: CHAPTER_NAME_09_03_2
+JP: ９Ｓ　真実を知る
+EN: 9S Learns the Truth
+RU: 
+
+ID: CHAPTER_NAME_10_00
+JP: 喪失
+EN: Loss
+RU: 
+
+ID: CHAPTER_NAME_10_01_0
+JP: 暴走する機械達
+EN: Machines out of Control
+RU: 
+
+ID: CHAPTER_NAME_10_01_1
+JP: ９Ｓ　戦闘配置
+EN: 9S Placed in Battle
+RU: 
+
+ID: CHAPTER_NAME_10_01_2
+JP: ２Ｂ　救援要請
+EN: 2B Requests Backup
+RU: 
+
+ID: CHAPTER_NAME_10_01_3
+JP: ２Ｂ　レジスタンスキャンプ救援
+EN: 2B Assists the Resistance
+RU: 
+
+ID: CHAPTER_NAME_10_01_4
+JP: ２Ｂ　大型多脚兵器戦
+EN: Multi-leg Goliath Battle
+RU: 
+
+ID: CHAPTER_NAME_10_02_0
+JP: 多塊構成球状兵器戦
+EN: Spherical Machine Battle
+RU: 
+
+ID: CHAPTER_NAME_10_03_0
+JP: パスカルの村救援
+EN: Attack on Pascal's Village
+RU: 
+
+ID: CHAPTER_NAME_10_04_0
+JP: イヴ決戦
+EN: Battling Eve
+RU: 
+
+ID: CHAPTER_NAME_10_05_0
+JP: ２Ｂと９Ｓ
+EN: 2B and 9S
+RU: 
+
+ID: CHAPTER_NAME_10_05_1
+JP: 戦いの終わり
+EN: The End of Battle
+RU: 
+
+ID: CHAPTER_NAME_10_05_2
+JP: 戦いの始まり
+EN: The Beginning of Battle
+RU: 
+
+ID: CHAPTER_NAME_11_00
+JP: 総攻撃
+EN: Full-scale Attack
+RU: 
+
+ID: CHAPTER_NAME_11_01_0
+JP: ２Ｂ　侵攻作戦開始
+EN: 2B's Invasion Begins
+RU: 
+
+ID: CHAPTER_NAME_11_02_0
+JP: ９Ｓ　防空システムハッキング
+EN: 9S Hacks the Defense System
+RU: 
+
+ID: CHAPTER_NAME_11_03_0
+JP: ２Ｂ　制圧戦
+EN: 2B's Battle for Control
+RU: 
+
+ID: CHAPTER_NAME_11_04_0
+JP: 汚染されたヨルハ部隊
+EN: Contaminated YoRHa
+RU: 
+
+ID: CHAPTER_NAME_11_05_0
+JP: ２Ｂ　バンカーからの脱出
+EN: 2B Escapes the Bunker
+RU: 
+
+ID: CHAPTER_NAME_11_06_0
+JP: ２Ｂ　最期
+EN: 2B's Final Moments
+RU: 
+
+ID: CHAPTER_NAME_11_07_0
+JP: ９Ｓ　別離
+EN: 9S Gets Separated
+RU: 
+
+ID: CHAPTER_NAME_12_00
+JP: 砂の記憶
+EN: Memories of Sand
+RU: 
+
+ID: CHAPTER_NAME_12_01_0
+JP: Ａ２　目覚め
+EN: A2 Awakens
+RU: 
+
+ID: CHAPTER_NAME_12_02_0
+JP: Ａ２　砂漠地帯戦闘
+EN: A2's Battle in the Desert
+RU: 
+
+ID: CHAPTER_NAME_13_00
+JP: 「肉の箱」
+EN: Meat Box
+RU: 
+
+ID: CHAPTER_NAME_13_01_0
+JP: ９Ｓ　目覚め
+EN: 9S Awakens
+RU: 
+
+ID: CHAPTER_NAME_13_02_0
+JP: ９Ｓ　「塔」へアクセス
+EN: 9S Accesses the Tower
+RU: 
+
+ID: CHAPTER_NAME_13_03_0
+JP: ９Ｓ　覚悟
+EN: 9S's Determination
+RU: 
+
+ID: CHAPTER_NAME_13_04_0
+JP: ９Ｓ　資源回収ユニット『肉の箱』
+EN: 9S and the Meat Box
+RU: 
+
+ID: CHAPTER_NAME_14_00
+JP: パスカルの絶望
+EN: Pascal's Despair
+RU: 
+
+ID: CHAPTER_NAME_14_01_0
+JP: Ａ２　燃料用濾過フィルターの補給
+EN: A2 and the Oil Filter
+RU: 
+
+ID: CHAPTER_NAME_14_02_0
+JP: パスカルの日常
+EN: A Day in the Life of Pascal
+RU: 
+
+ID: CHAPTER_NAME_14_03_0
+JP: Ａ２　パスカルの救援要請
+EN: Pascal Needs Help
+RU: 
+
+ID: CHAPTER_NAME_14_04_0
+JP: Ａ２　共食いする機械生命体
+EN: Cannibal Machines
+RU: 
+
+ID: CHAPTER_NAME_14_05_0
+JP: Ａ２　子供達
+EN: A2 and the Children
+RU: 
+
+ID: CHAPTER_NAME_15_00
+JP: 「魂の箱」
+EN: Soul Box
+RU: 
+
+ID: CHAPTER_NAME_15_01_0
+JP: ９Ｓ　戦闘継続
+EN: 9S Continues Fighting
+RU: 
+
+ID: CHAPTER_NAME_15_02_0
+JP: ９Ｓ　資源回収ユニット『魂の箱』
+EN: 9S and the Soul Box
+RU: 
+
+ID: CHAPTER_NAME_15_03_0
+JP: ９Ｓ　損傷
+EN: 9S Wounded
+RU: 
+
+ID: CHAPTER_NAME_15_04_0
+JP: ９Ｓ　修復
+EN: 9S Repaired
+RU: 
+
+ID: CHAPTER_NAME_16_00
+JP: 「神の箱」
+EN: God Box
+RU: 
+
+ID: CHAPTER_NAME_16_01_1
+JP: ９Ｓ　資源回収ユニットへ向かう
+EN: 9S and the Resource Unit
+RU: 
+
+ID: CHAPTER_NAME_16_01_2
+JP: Ａ２　資源回収ユニットへ向かう
+EN: A2 and the Resource Unit
+RU: 
+
+ID: CHAPTER_NAME_16_02_0
+JP: ９Ｓ　資源回収ユニット『神の箱』
+EN: 9S and the God Box
+RU: 
+
+ID: CHAPTER_NAME_16_03_0
+JP: Ａ２　機械生命体の兄弟
+EN: A2 and the Machine Siblings
+RU: 
+
+ID: CHAPTER_NAME_17_00
+JP: 「塔」
+EN: The Tower
+RU: 
+
+ID: CHAPTER_NAME_17_01_0
+JP: ９Ｓ　「塔」へ向かう
+EN: 9S Heads to the Tower
+RU: 
+
+ID: CHAPTER_NAME_17_02_0
+JP: ９Ｓ　「塔」内部
+EN: 9S Searches the Tower
+RU: 
+
+ID: CHAPTER_NAME_17_03_0
+JP: Ａ２　「塔」へ向かう
+EN: A2 Heads to the Tower
+RU: 
+
+ID: CHAPTER_NAME_17_04_0
+JP: Ａ２　「塔」探索
+EN: A2 Searches the Tower
+RU: 
+
+ID: CHAPTER_NAME_17_05_0
+JP: ９Ｓ　自己修復
+EN: 9S Self-repairs
+RU: 
+
+ID: CHAPTER_NAME_17_06_0
+JP: 赤い少女
+EN: The Red Girls
+RU: 
+
+ID: CHAPTER_NAME_17_07_0
+JP: 頂上へ
+EN: To the Peak
+RU: 
+
+ID: CHAPTER_NAME_17_08_0
+JP: 合体多脚兵器戦
+EN: Combined Multi-leg Machine
+RU: 
+
+ID: CHAPTER_NAME_17_09_0
+JP: ９ＳとＡ２
+EN: 9S and A2
+RU: 
+
+ID: CHAPTER_NAME_17_10_0
+JP: 終局
+EN: The End
+RU: 
+
+ID: CHAPTER_NAME_17_10_1
+JP: ９Ｓの最期
+EN: 9S's Final Moments
+RU: 
+
+ID: CHAPTER_NAME_17_10_2
+JP: Ａ２の最期
+EN: A2's Final Moments
+RU: 
+
+ID: CHAPTER_NAME_17_11_0
+JP: ヨルハ計画最終段階
+EN: The End of the YoRHa Project
+RU: 
+
+ID: CHAPTER_TXT_01
+JP: 『<CHAPTER_NAME>』を開始します。\nセーブされていないクエストの進捗データは破棄されます。\nよろしいですか？
+EN: Begin [<CHAPTER_NAME>]? All unsaved quest progress will be lost.
+RU: 
+
+ID: CHAPTER_TXT_02
+JP: 『<CHAPTER_NAME>』を開始します。\nよろしいですか？
+EN: Begin [<CHAPTER_NAME>]?
+RU: 
+

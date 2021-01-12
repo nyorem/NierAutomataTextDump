@@ -1,0 +1,563 @@
+-- Section 1
+
+ID: M6010_S0080_G0000_300_op
+JP: 地上部隊、こちらバンカー。\n報告書は受け取った。
+EN: "This is the Bunker. We've received your report."
+RU: 
+
+ID: M6010_S0080_G0010_300_op
+JP: 引き続き、しっかり働けよ。
+EN: "Please continue your hard work."
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0080_G0020_300_op
+JP: なんだ？何か用か？
+EN: Yes? Do you need something?
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0020_G0090_300_op
+JP: 人間がいたころの地球ってのはどんな感じだったんだろうな。
+EN: I wonder what Earth was like when the humans lived there.
+RU: 
+
+ID: M6010_S0020_G0100_300_op
+JP: まぁ、今の地球にも行ったことはないんだが。
+EN: Well, not that I know what it's like on Earth now. But you get what I mean.
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0020_G0110_300_op
+JP: 格納庫は横のエレベーターから行けるぞ。
+EN: You can get to the hangar from that elevator.
+RU: 
+
+ID: M6010_S0020_G0120_300_op
+JP: いい加減覚えたって？そりゃ悪かったな。
+EN: Oh, you already knew that? Well, excuuuuuse me!
+RU: 
+
+
+-- Section 5
+
+ID: M6010_S0010_G0090_300_op
+JP: 地球はどれだけ見てても飽きないな……
+EN: I never get tired of looking at Earth...
+RU: 
+
+ID: M6010_S0010_G0100_300_op
+JP: 格納庫なら横のエレベーターから行けるぞ？
+EN: The hangar? You can get to it from the elevator to my left.
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0010_G0110_300_op
+JP: 早く地球に戻れる日が来るといいな……人類と一緒に。
+EN: I hope we can return to Earth soon, together with mankind...
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0080_G0030_300_op
+JP: お疲れ様、調子はどうだ？
+EN: How's it going?
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0080_G0040_300_op
+JP: 少しくらい休むのも構わないが、そろそろ任務に戻った方がいいんじゃないか？
+EN: Soooo, I know that rest is important and all, but don't you have an important mission to finish?
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0080_G0050_300_op
+JP: おつかれさまです～\n休憩ですか～？
+EN: Hey there. Taking a break?
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0080_G0060_300_op
+JP: 休憩しすぎて、司令官に怒られても知りませんよ～
+EN: Well, not my business—but make sure the Commander doesn't catch you! I hear she likes to fire slackers out the airlock.
+RU: 
+
+
+-- Section 11
+
+ID: M6010_S0020_G0130_300_opb
+JP: う～ん……困りましたね～
+EN: Hmmm... What are we going to do?
+RU: 
+
+ID: M6010_S0020_G0140_300_opa
+JP: 中々見つからないな……
+EN: It still hasn't turned up...
+RU: 
+
+
+-- Section 12
+
+ID: M6010_S0020_G0150_300_opa
+JP: ……ん？何か問題かって？
+EN: ...What's that? You want to know what's happening?
+RU: 
+
+ID: M6010_S0020_G0160_300_opa
+JP: 実は地上部隊の１人が、水没都市でポッドを失くしたみたいでな。
+EN: Apparently, one of the units on Earth LOST a Pod in the flooded city.
+RU: 
+
+ID: M6010_S0020_G0170_300_opb
+JP: 救援音をたどろうとしたんですけど、見つからないんです～
+EN: They tried to follow the distress signal, but they still can't find the thing.
+RU: 
+
+ID: M6010_S0020_G0180_300_opa
+JP: あの辺りの地上は大体捜索したみたいなんだが……
+EN: How do you LOSE a Pod? It staggers the imagination!
+RU: 
+
+ID: M6010_S0020_G0190_300_opb
+JP: もし見つけたら、保護してあげてくれませんか？\n一人ぼっちはかわいそうなので。
+EN: Anyway, if you happen to find it, will you take care of it? The poor thing is all alone down there.
+RU: 
+
+ID: M6010_S0020_G0200_300_opa
+JP: よろしくな。
+EN: And make sure not to lose it!
+RU: 
+
+
+-- Section 13
+
+ID: M6010_S0010_G0120_300_opa
+JP: おや、こんにちは。
+EN: Hello there.
+RU: 
+
+ID: M6010_S0010_G0130_300_opa
+JP: お前達かなり噂になってるぞ。
+EN: You're starting to get quite the reputation.\n...Oh, but don't worry! It's all good!
+RU: 
+
+ID: M6010_S0010_G0140_300_opb
+JP: デカ物をブラックボックスでばーんなんて、すごいですね～
+EN: The way you used your black boxes to blow up those Goliaths was so awesome!
+RU: 
+
+ID: M6010_S0010_G0150_300_opa
+JP: 無茶が過ぎて、本当に死んだりするなよ？
+EN: Er, but try not to ACTUALLY die, okay?
+RU: 
+
+ID: M6010_S0010_G0160_300_opb
+JP: データは大事に預かりますから、こまめにアップロードしてくださいね～
+EN: We'll take good care of your data, so make sure to upload it frequently.
+RU: 
+
+
+-- Section 14
+
+ID: M6010_S0010_G0170_300_opa
+JP: 司令室に行きたいなら左に進むといい。
+EN: Looking for Command? Just head down the hall to the left.
+RU: 
+
+ID: M6010_S0010_G0180_300_opb
+JP: サーバー管理室は右ですよ～
+EN: The server administration room is on the right.
+RU: 
+
+ID: M6010_S0010_G0190_300_opa
+JP: 気をつけてな。
+EN: Take care.
+RU: 
+
+ID: M6010_S0010_G0200_300_opb
+JP: いってらっしゃい～
+EN: See you around!
+RU: 
+
+
+-- Section 15
+
+ID: M6010_S0080_G0450_300_op
+JP: ＜＜もしもし、お怪我はありませんか？＞＞
+EN: "This is the Bunker. Please confirm your current status."
+RU: 
+
+ID: M6010_S0080_G0460_300_op
+JP: ＜＜先ほどの報告を司令部に転送しました。次の任務を連絡します＞＞
+EN: "...Understood. I've sent your most recent report to Command and have intel regarding your next mission."
+RU: 
+
+
+-- Section 16
+
+ID: M6010_S0080_G0470_300_op
+JP: どうしました？どこか怪我でも？
+EN: What happened to you? Were you hurt?
+RU: 
+
+ID: M6010_S0080_G0480_300_op
+JP: 怪我したなら、ちゃんと治療しないとだめですよ？\n無理しないでくださいね。
+EN: If so, make sure to take the time to heal up. And be careful out there!
+RU: 
+
+
+-- Section 17
+
+ID: M6010_S0020_G0850_300_ys
+JP: ……お前達だろ？機械生命体から和睦の申し入れを受けたのは。\nどうだ？信用できそうか？
+EN: Wait, I know you. You're the ones who received a peace offer from the machines! So what do you think? Can we trust 'em?
+RU: 
+
+ID: M6010_S0020_G0860_300_ys
+JP: 悪いな、戦争が長く続いたせいか……どうも信用出来なくて。
+EN: We've been fighting those metalheads for so long, it doesn't feel right to suddenly take their word on anything.
+RU: 
+
+ID: M6010_S0020_G0870_300_ys
+JP: 確かに、和睦が結ばれれば地上も平和になるんだろうが……
+EN: On the other hand, if this works, Earth would finally be at peace...
+RU: 
+
+
+-- Section 18
+
+ID: M6010_S0020_G0880_300_op
+JP: 和睦が結ばれれば、地上は一応平和になるでしょう。
+EN: If we reconciled with the machines, then Earth would finally be at peace.
+RU: 
+
+ID: M6010_S0020_G0890_300_op
+JP: でもその平和は、ちょっとした衝突が起きればすぐに争いに発展してしまう……そんな危険をはらんでいます。
+EN: But it would be a fragile peace at best, so I don't think we'd ever be completely safe.
+RU: 
+
+ID: M6010_S0020_G0900_300_op
+JP: それでも、今みたいに戦闘部隊が真正面から敵と戦うこともなくなる。\nそれだけでも和睦協定は十分に価値があると思います。
+EN: Still, if it means our troops can finally lay down their weapons, perhaps it's something we should consider.
+RU: 
+
+
+-- Section 19
+
+ID: M6010_S0010_G0840_300_op
+JP: こんにちは。
+EN: Hello!
+RU: 
+
+ID: M6010_S0010_G0850_300_ys
+JP: 今地上で見た動植物について話してたんだ。\nオペレーターはデータ収集が好きみたいでな。
+EN: I was just talking about all the plants and animals I saw on Earth. Operators are kind of nuts for data collection, you know!
+RU: 
+
+ID: M6010_S0010_G0860_300_op
+JP: 戦闘部隊がうらやましいです。許されるなら、直接行ってデータを\n集めたいのに……
+EN: It makes me jealous of the combat troops. I'd love to go down there and collect the data myself, but they don't allow it.
+RU: 
+
+ID: M6010_S0010_G0870_300_ys
+JP: 許可が取れれば連れてってやれるんだがなぁ。やっぱり難しいかな。
+EN: Hey, I'd take you if I could, but...you know. I don't make the rules.
+RU: 
+
+
+-- Section 20
+
+ID: M6010_S0010_G0880_300_op
+JP: 地球の色んなことを聞けるのは楽しいですが、やっぱり皆が無事に\n帰ってくることが一番嬉しいです。
+EN: I love hearing about Earth, but the most important thing is seeing everyone come back safely.
+RU: 
+
+ID: M6010_S0010_G0890_300_op
+JP: だからあなた達も、心配かけちゃだめですよ？
+EN: And that includes you guys, okay? So be careful!
+RU: 
+
+
+-- Section 21
+
+ID: M6010_S0080_G0540_300_op
+JP: ＜＜地上部隊！飛行ユニットは高価なんですから、\n丁寧に扱ってください！！＞＞
+EN: "This is a message from the Bunker to all Earth-based troops. Flight units are not toys! Please take care of them!"
+RU: 
+
+
+-- Section 22
+
+ID: M6010_S0080_G0550_300_op
+JP: 今忙しいんです！後にして！
+EN: Why in the world are you bothering me!? Can't you see how busy I am!?
+RU: 
+
+
+-- Section 23
+
+ID: M6010_S0020_G1150_300_ysB
+JP: あなたたちか、機械生命体と話したっていうのは。
+EN: Say, you're the ones who talked to the machines, right?
+RU: 
+
+ID: M6010_S0020_G1160_300_op
+JP: ……まさか、あんな金属剥き出しの野蛮な連中の事を信じたりしてませんよね？
+EN: I've always said the only good machine is a dead machine, and I stand by it. I won't ever trust a machine! Ever!
+RU: 
+
+ID: M6010_S0020_G1170_300_op
+JP: 奴らは人類の敵であり、私達の同胞を殺した憎むべき敵です。\n今も地上に我が物顔でのさぼっているなんて耐えがたい。
+EN: They're the enemies of humanity! They killed our comrades! And now they're strutting around Earth like they own the joint!
+RU: 
+
+ID: M6010_S0020_G1180_300_ysA
+JP: しばらく膠着状態が続いていたから、こっちが条件を飲むと思ってるんだろう。
+EN: I bet they think we'll accept their terms just to put a stop to this never-ending war.
+RU: 
+
+ID: M6010_S0020_G1190_300_ysB
+JP: 結局、奴らの親玉はどこに隠れてるんだろうな。
+EN: I wonder where their boss is hiding...
+RU: 
+
+ID: M6010_S0020_G1200_300_ysB
+JP: エイリアンを倒したら全ておしまいなんだから、さっさと出てくれば良いのに。
+EN: This will all be over once we defeat the aliens. I wish they'd hurry up and show their slimy faces!
+RU: 
+
+
+-- Section 24
+
+ID: M6010_S0020_G1210_300_ysA
+JP: 今は我々が優勢だ。
+EN: We have the upper hand at the moment.
+RU: 
+
+ID: M6010_S0020_G1220_300_ysA
+JP: このまま奴らを滅ぼし、人類に勝利をささげよう。
+EN: We should just destroy them and bring victory to mankind once and for all!
+RU: 
+
+
+-- Section 25
+
+ID: M6010_S0010_G1130_300_ysA
+JP: お疲れ、今から出撃か？
+EN: Hey there! Are you going down to Earth again?
+RU: 
+
+ID: M6010_S0010_G1140_300_ysB
+JP: いいなぁ、私もまだ飛んでたい。
+EN: I'd give almost anything to spend more time in a flight unit...
+RU: 
+
+ID: M6010_S0010_G1150_300_op
+JP: 飛行ユニットは高価なんですから、無駄使いは許しませんよ？
+EN: We'd all like that! But they're expensive, delicate pieces of equipment, so they don't just hand 'em out willy-nilly.
+RU: 
+
+ID: M6010_S0010_G1160_300_op
+JP: そうでなくても戦闘部隊は扱いが雑なんだから。\n貴方こないだも機体に傷をつけてましたよね？
+EN: And you combat types are the worst! Last time you used a flight unit, it came back with huge scratches on the side!
+RU: 
+
+ID: M6010_S0010_G1170_300_op
+JP: 貴方達が剥がした塗装、誰が綺麗にしてると思ってるんですか？\nせっかくの美しい機体を台無しにして、そんなだから……
+EN: Who do you think fixes that, huh? We do! We work our fingers to the bone to get you a beautiful ride, and you go and crap all over it!
+RU: 
+
+ID: M6010_S0010_G1180_300_ysA
+JP: ストップ！私達が悪かったから、もうその辺でいいだろ？
+EN: All right, all right! I get it! Sheesh...
+RU: 
+
+
+-- Section 26
+
+ID: M6010_S0010_G1190_300_ysB
+JP: いっそボディに羽とジェットつけられたらなぁ。\n開発部に頼んでみるかな？
+EN: Flight units are great and all, but why doesn't R&D just install wings and jets right on our bodies?
+RU: 
+
+ID: M6010_S0010_G1200_300_op
+JP: それはいいですね、飛行ユニットも傷つきませんし。
+EN: That's a GREAT idea! Then you could stop damaging my precious flight units!
+RU: 
+
+ID: M6010_S0010_G1210_300_ysA
+JP: 前に頼んでみたんだが、ボディが耐えられないとかコストが高いとかで\n却下された。
+EN: Yeah, I asked about that once. They said it would put too much strain on our bodies. Also something about it not being "financially feasible."
+RU: 
+
+ID: M6010_S0010_G1220_300_ysB
+JP: え～……残念……
+EN: Ha! They would say that.
+RU: 
+
+
+-- Section 27
+
+ID: M6010_S0080_G0490_300_op
+JP: お疲れ様。\nどうした、サボりか？
+EN: Taking a break, eh?
+RU: 
+
+
+-- Section 28
+
+ID: M6010_S0080_G0500_300_op
+JP: あんまりサボりすぎるなよ。\n怒られても知らないぞ。
+EN: I love slacking off too, but try not to do it too much, okay? ...And if the Commander catches you, we never had this chat!
+RU: 
+
+
+-- Section 29
+
+ID: M6010_S0020_G0910_300_op
+JP: おお、お前か。\n新商品は試してくれたか？
+EN: Oh, hello! Have you tried out any of the new products yet?
+RU: 
+
+ID: M6010_S0020_G0920_300_op
+JP: まだならぜひ試してくれ！
+EN: They're pretty great, if I do say so myself. \n...And I do!
+RU: 
+
+
+-- Section 30
+
+ID: M6010_S0020_G0930_300_op
+JP: 我々の発明で少しでも被害が抑えられるなら、これほどうれしいことはない。
+EN: If our inventions help prevent even the smallest bit of damage, I'll be happy.
+RU: 
+
+ID: M6010_S0020_G0940_300_op
+JP: 義体の製造はコストがかかるからな！
+EN: Creating a new body costs a small fortune, you know?
+RU: 
+
+
+-- Section 31
+
+ID: M6010_S0010_G0900_300_op
+JP: やあ、こんにちは。\n回復薬は使ってくれてるか？
+EN: Heya! Have you been using your recovery items?
+RU: 
+
+ID: M6010_S0010_G0910_300_op
+JP: 我が技術開発部自慢の一品だ。\n個室にあるこのモニターから買えるから、是非使ってくれ。
+EN: Everyone on the R&D Team is really proud of them—you can even buy them from the terminals in your quarters. Give 'em a try!
+RU: 
+
+
+-- Section 32
+
+ID: M6010_S0010_G0920_300_op
+JP: ん？何か用か？\n……商品のラインナップが少ないだと？
+EN: Hmm? What's that? You'd like to see a greater variety of items for purchase?
+RU: 
+
+ID: M6010_S0010_G0930_300_op
+JP: 仕方ないだろ、バンカーは物資が限られてるんだ。\n今鋭意開発中だから、ちょっとまっててくれ。
+EN: Hey, I get you, but that's just how it is. We're trying to develop more, but for now, what you see is what you get.
+RU: 
+
+
+-- Section 33
+
+ID: M6010_S0020_G1080_300_ysA
+JP: うう……気持ち悪い……
+EN: Uuurgh... I don't feel so good...
+RU: 
+
+ID: M6010_S0020_G1090_300_ysB
+JP: お前達、機械生命体から和睦の申し入れを受けたんだってな。
+EN: Say, you're the one who got the peace offer from the machines, right?
+RU: 
+
+ID: M6010_S0020_G1100_300_ysB
+JP: 奴らの考えてることはさっぱり解らんな……なんで今更……
+EN: I don't get it. I mean, why now?
+RU: 
+
+ID: M6010_S0020_G1110_300_ysA
+JP: 和睦、結ばれれば……空、飛ばなくても……良い……？
+EN: If we...make peace...does that mean...I won't have to fly anymore?
+RU: 
+
+ID: M6010_S0020_G1120_300_ysB
+JP: ……まぁ今より回数は減るだろうな。
+EN: Well, not as much as you do now, at least!
+RU: 
+
+
+-- Section 34
+
+ID: M6010_S0020_G1130_300_ysB
+JP: もっと早く奴らと話せていたら、犠牲は減らせたんだろうか？
+EN: How many deaths could have been prevented if we'd just talked to the machines sooner?
+RU: 
+
+ID: M6010_S0020_G1140_300_ysB
+JP: 仮定の話なんて無意味だとは解ってるんだが、そう思わずにいられないよ。
+EN: I know it's pointless to think about that now, but I just can't shake it.
+RU: 
+
+
+-- Section 35
+
+ID: M6010_S0010_G1060_300_ysA
+JP: ……うう……気持ち悪い……
+EN: Uuurgh... I don't feel so good...
+RU: 
+
+ID: M6010_S0010_G1070_300_ysB
+JP: こいつ、平衡器官がやられちまってて、\nアンドロイドの癖に乗り物酔いするんだ。
+EN: Her balance sensors got damaged, so she gets motion sickness.
+RU: 
+
+ID: M6010_S0010_G1080_300_ysB
+JP: 何度も修理してるんだけど、直らないみたいでさ。\n癖になっちまってんのかな？
+EN: No matter how many times I repair the sensors, the problem comes back. It's almost like it's in her head or something...
+RU: 
+
+ID: M6010_S0010_G1090_300_ysB
+JP: お前達も気をつけろよ。
+EN: You guys take care of yourselves so you don't end up like her, all right?
+RU: 
+
+
+-- Section 36
+
+ID: M6010_S0010_G1100_300_ysB
+JP: 大丈夫か？戻れそうか？
+EN: How are you feeling? Ready to get back out there?
+RU: 
+
+ID: M6010_S0010_G1110_300_ysA
+JP: …………無理です……
+EN: N-no... Whole world...still spinny... *urp*
+RU: 
+
+ID: M6010_S0010_G1120_300_ysB
+JP: ……飛行ユニットで移動しなくて済むように、私からも頼んでやるか。
+EN: Right-o. I'll make sure to tell Command that you're not fit to use flight units for a while.
+RU: 
+
+

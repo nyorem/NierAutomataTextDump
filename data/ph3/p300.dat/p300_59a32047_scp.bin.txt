@@ -1,0 +1,141 @@
+-- Section 1
+
+ID: M3020_S0110_G0000_001_a9s
+JP: 文字……？
+EN: Is this writing?
+RU: 
+
+ID: M3020_S0110_G0010_001_a9s
+JP: 何て書いてあるんだ？
+EN: I can't read it.
+RU: 
+
+ID: M3020_S0110_G0020_001_pod153
+JP: 『天使文字』と呼ばれる旧時代の特殊な文字。
+EN: Analysis: Writing is an ancient language known as Angelic.
+RU: 
+
+ID: M3020_S0110_G0030_001_pod153
+JP: 『肉の箱』という文章。
+EN: It reads "meat box."
+RU: 
+
+ID: M3020_S0110_G0040_001_a9s
+JP: 何だ……それ。
+EN: Oooo-kay then.
+RU: 
+
+
+-- Section 2
+
+ID: M3020_S0040_G0071_001_a9s
+JP: この建物全体、内部まで機械で出来てるのか……
+EN: Is this entire building made of machines, even on the inside?
+RU: 
+
+ID: M3020_S0040_G0072_001_pod153
+JP: 報告：機械の機能とは関係ない無意味な部品を多数確認。
+EN: Analysis: Many useless parts unrelated to machine lifeform functionality detected.
+RU: 
+
+ID: M3020_S0040_G0073_001_pod153
+JP: そうした部品が使用されている理由は不明。
+EN: The reason for using said parts is unknown.
+RU: 
+
+ID: M3020_S0040_G0074_001_a9s
+JP: 奴らのやることに意味なんて無い。
+EN: There's no meaning to anything they do.
+RU: 
+
+
+-- Section 3
+
+ID: M3020_S0110_G0050_001_n02
+JP: この森ワ……我らの森……
+EN: This forest...is our forest...
+RU: 
+
+ID: M3020_S0110_G0060_001_n02
+JP: オササ……王……サマ
+EN: Y-Y-Your...Majesty...
+RU: 
+
+ID: M3020_S0110_G0070_001_n02
+JP: フクシュ……復シュウウ……
+EN: R-Revenge...reveeeeenge...
+RU: 
+
+
+-- Section 4
+
+ID: M3020_S0110_G0080_001_n02
+JP: イタイッ！イタイ！痛いイタイ！
+EN: Pain! So much pain!
+RU: 
+
+ID: M3020_S0110_G0090_001_n02
+JP: 苦しい……クルシ……苦シ
+EN: Pain pain pain...
+RU: 
+
+ID: M3020_S0110_G0100_001_n02
+JP: ネェ……死ぬノ……イヤ！
+EN: I do not...want to die...
+RU: 
+
+ID: M3020_S0110_G0110_001_a9s
+JP: 機械が苦しい訳ないだろ……
+EN: Machines can't feel pain.
+RU: 
+
+
+-- Section 5
+
+ID: M3020_S0110_G0120_001_a9s
+JP: うるさい……うるさい！うるさいッ！
+EN: Now shut up...shut up, SHUT UP!
+RU: 
+
+ID: M3020_S0110_G0130_001_a9s
+JP: うるさいッ！
+EN: SHUT UUUUPPPP!
+RU: 
+
+
+-- Section 6
+
+ID: M3020_S0110_G0140_001_a9s
+JP: 機械生命体の部品が……
+EN: Machine parts...
+RU: 
+
+ID: M3020_S0110_G0150_001_pod153
+JP: 推測：構造物自体の資材。もしくは、武器を製作する為の資源。
+EN: Speculation: Perhaps these are raw materials from the structure itself. Possibly useful for creating weapons.
+RU: 
+
+ID: M3020_S0110_G0160_001_a9s
+JP: 武器……
+EN: Weapons, eh?
+RU: 
+
+
+-- Section 7
+
+ID: M3020_S0110_G0170_001_core
+JP: 助けて……お願い……
+EN: Help... Please...
+RU: 
+
+ID: M3020_S0110_G0180_001_core
+JP: 助けて……怖い……
+EN: Help me... I'm scared...
+RU: 
+
+ID: M3020_S0110_G0190_001_core
+JP: 助けて……助けて……
+EN: Help...me...
+RU: 
+
+

@@ -1,0 +1,122 @@
+-- Section 1
+
+ID: M5162_S0010_G0000_001_op60
+JP: こちらオペレーター６Ｏ。２Ｂさん聞こえますか？
+EN: Operator 6O to 2B. Come in, 2B.
+RU: 
+
+ID: M5162_S0010_G0010_001_a2b
+JP: こちら２Ｂ。受信している。
+EN: 2B here.
+RU: 
+
+ID: M5162_S0010_G0020_001_op60
+JP: 起動したアクセスポイントからのモニタリング信号が途絶しました。
+EN: The monitoring signal from the new access point has gone silent.
+RU: 
+
+ID: M5162_S0010_G0030_001_op60
+JP: 位置情報を転送しますので、原因を調査してください。
+EN: I'm sending you the positional data. Please investigate the site as soon as possible.
+RU: 
+
+ID: M5162_S0010_G0040_001_a2b
+JP: 了解。
+EN: Understood.
+RU: 
+
+
+-- Section 2
+
+ID: M5162_S0010_G0050_001_a9s
+JP: 機械生命体がいるな……
+EN: We've got company. Looks like machines.
+RU: 
+
+ID: M5162_S0010_G0060_001_pod042
+JP: 敵個体の一部からジャミング電波を確認。
+EN: Alert: Jamming signals detected from enemy units.
+RU: 
+
+ID: M5162_S0010_G0070_001_a2b
+JP: ジャミング？
+EN: Yeah?
+RU: 
+
+ID: M5162_S0010_G0080_001_a9s
+JP: ……厄介ですね。
+EN: That's not good.
+RU: 
+
+
+-- Section 3
+
+ID: M5162_S0010_G0090_001_pod042
+JP: 敵性機械生命体の排除及びアクセスポイントの復旧を確認。
+EN: Enemy machine lifeforms eliminated. Access point returned to functioning status.
+RU: 
+
+ID: M5162_S0010_G0100_001_cmd
+JP: バンカーより２Ｂへ。
+EN: Bunker to 2B.
+RU: 
+
+ID: M5162_S0010_G0110_001_cmd
+JP: たった今、アクセスポイントの回復を確認した。ご苦労。
+EN: The signal from the access point just came back online. Good job.
+RU: 
+
+ID: M5162_S0010_G0120_001_a2b
+JP: 司令官、その件で報告があります。
+EN: I have some information about that, Commander.
+RU: 
+
+ID: M5162_S0010_G0130_001_cmd
+JP: 何だ？
+EN: Go on.
+RU: 
+
+ID: M5162_S0010_G0140_001_a2b
+JP: アクセスポイント不調の原因は、ジャミング電波を出していた\n機械生命体が原因でした。
+EN: The access point went offline because machine lifeforms were jamming it.
+RU: 
+
+ID: M5162_S0010_G0150_001_cmd
+JP: ……その設備が我々の通信端末である事を理解してるって事か。
+EN: Which means they know that facility is one of our network terminals...
+RU: 
+
+ID: M5162_S0010_G0160_001_a9s
+JP: それだけじゃありません。奴らは通信端末である事を理解しているのに、\nアクセスポイントを破壊していませんでした。
+EN: Yeah, but that's not all. While they knew it was connected to our network, they didn't try to destroy it.
+RU: 
+
+ID: M5162_S0010_G0170_001_a9s
+JP: 多分……罠を張ってたんだと思います。
+EN: It's almost like they were trying to lay a trap.
+RU: 
+
+ID: M5162_S0010_G0180_001_cmd
+JP: そこまで知性が発達してるのか……機械共め。
+EN: Damn... They're getting smarter by the day.
+RU: 
+
+ID: M5162_S0010_G0190_001_cmd
+JP: この件は月面の人類会議にも共有しておく。
+EN: Thank you. I'll be sure to share this with the Council of Humanity on the moon.
+RU: 
+
+ID: M5162_S0010_G0200_001_a2b
+JP: 了解。
+EN: Understood.
+RU: 
+
+
+-- Section 4
+
+ID: M5162_S0000_G0000_300_op60
+JP: アクセスポイントの信号途絶の件、よろしくお願いします。
+EN: Thanks in advance for investigating that access point that went dark.
+RU: 
+
+

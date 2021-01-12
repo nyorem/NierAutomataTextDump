@@ -1,0 +1,20 @@
+ID: M1020_S0900_H0000_001_a2b
+JP: これが……機械生命体……！？
+EN: Is this really a machine?
+RU: 
+
+ID: M1020_S0900_H0010_001_a9s
+JP: なっ
+EN: Wha!?
+RU: 
+
+ID: M1020_S0900_H0020_001_a2b
+JP: もう一体増えるなんて！
+EN: Damn it, not another one!
+RU: 
+
+ID: M1020_S0900_H0030_001_a9s
+JP: ２Ｂ！脱出しないとッ！！
+EN: 2B! We gotta get outta here!
+RU: 
+

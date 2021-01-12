@@ -1,0 +1,388 @@
+-- Section 1
+
+ID: M5123_S0010_G0000_001_ane
+JP: それにしても、やはりヨルハ部隊は強いな。我々レジスタンスとは格が違う。
+EN: Seriously, you YoRHa types are something else.
+RU: 
+
+ID: M5123_S0010_G0010_001_a9s
+JP: まあ、僕達はヨルハの最新型ですからね。Ａ２のような旧型とは——
+EN: Well, not to brag, but we ARE state-of-the-art units. Not like the A2 or those other old mode—
+RU: 
+
+ID: M5123_S0010_G0020_001_ane
+JP: ……何？
+EN: A2?
+RU: 
+
+ID: M5123_S0010_G0030_001_ane
+JP: Ａ２……アタッカー二号……？
+EN: Attacker Number 2?
+RU: 
+
+ID: M5123_S0010_G0040_001_a2b
+JP: 何か心当たりでもあるの？
+EN: You know her?
+RU: 
+
+ID: M5123_S0010_G0050_001_ane
+JP: いや……
+EN: No, not...
+RU: 
+
+ID: M5123_S0010_G0060_001_ane
+JP: ……
+EN: ......
+RU: 
+
+ID: M5123_S0010_G0070_001_ane
+JP: すまないが、もう１つ頼みを聞いてくれないか。
+EN: I'm sorry. Can I ask one more favor of you?
+RU: 
+
+ID: M5123_S0010_G0080_001_ane
+JP: その旧型ヨルハ、Ａ２の情報があれば私に教えて欲しい。
+EN: Can you give me any information you have on that old A2 YoRHa unit? Anything at all.
+RU: 
+
+ID: M5123_S0010_G0090_001_a9s
+JP: 僕達もＡ２の情報は必要ですが……どうしてですか？
+EN: That's funny—we've been trying to find more information ourselves. Why are you asking?
+RU: 
+
+ID: M5123_S0010_G0100_001_ane
+JP: ……確かめたい事があるんだ。
+EN: I just...need to be sure about something.
+RU: 
+
+
+-- Section 2
+
+ID: M5123_S0010_G0110_001_a2b
+JP: Ａ２の情報、といっても、どこを探せばいいのか……
+EN: She wants intel on A2, does she? Where should we start?
+RU: 
+
+ID: M5123_S0010_G0120_001_a9s
+JP: 戦闘時に発生するエネルギー反応を調べていくのはどうでしょう？
+EN: We could check out the energy reactions generated during battles.
+RU: 
+
+ID: M5123_S0010_G0130_001_a9s
+JP: アンドロイドや機械生命体が破壊されると、\n融合炉などがダウンするんですが、
+EN: The fusion reactors of androids and machine lifeforms shut down when they're destroyed.
+RU: 
+
+ID: M5123_S0010_G0140_001_a9s
+JP: その時に放出されるエネルギーが検知出来るんです。
+EN: And we can detect the energy released during that process.
+RU: 
+
+ID: M5123_S0010_G0150_001_a9s
+JP: 現在、このエリアで戦闘任務に入っているのは僕らだけの筈ですから……
+EN: We're the only units doing any combat missions in this area, right?
+RU: 
+
+ID: M5123_S0010_G0160_001_a9s
+JP: エネルギー反応があった場所にＡ２がいる可能性は高い気がします。
+EN: So if we detect any stray energy reactions, it probably means A2 is involved.
+RU: 
+
+ID: M5123_S0010_G0170_001_a9s
+JP: 廃工場跡地に集中しています……マップにポイントしておきますね。
+EN: ...Yeah, okay. We've got some readings around the abandoned factory. I'll put it on the map.
+RU: 
+
+
+-- Section 3
+
+ID: M5123_S0010_G0180_001_a2b
+JP: これは……
+EN: Look.
+RU: 
+
+ID: M5123_S0010_G0190_001_a9s
+JP: Ａ２の戦闘の跡でしょうか。
+EN: That's A2's handiwork, I bet.
+RU: 
+
+ID: M5123_S0010_G0200_001_a9s
+JP: 肝心のＡ２の反応は……ないみたいですね。
+EN: But I'm not picking up any sign of A2 herself.
+RU: 
+
+
+-- Section 4
+
+ID: M5123_S0010_G0210_001_a9s
+JP: ん？何だろう
+EN: Hmm? What in the world...?
+RU: 
+
+
+-- Section 5
+
+ID: M5123_S0010_G0220_001_a2b
+JP: ポッド、解析をお願い。
+EN: Pod, help me out here.
+RU: 
+
+ID: M5123_S0010_G0230_001_pod042
+JP: 解析結果：ヨルハ特殊指定機体、Ａ２に関するデータログと推測。
+EN: Analysis: It is believed to be a data log related to YoRHa unit A2.
+RU: 
+
+ID: M5123_S0010_G0240_001_a2b
+JP: 内容は？
+EN: What's the data?
+RU: 
+
+ID: M5123_S0010_G0250_001_pod042
+JP: 破損部分が大きく、これ以上の解析は不可。
+EN: The data log has been irreparably damaged. Further analysis is impossible.
+RU: 
+
+ID: M5123_S0010_G0260_001_a2b
+JP: どうして……機械生命体がＡ２の情報を……
+EN: Why do a bunch of machines have A2's data?
+RU: 
+
+ID: M5123_S0010_G0270_001_a9s
+JP: 他にも反応があります。行ってみましょう。
+EN: Hey, 2B? I'm picking up other reactions. We should check them out.
+RU: 
+
+
+-- Section 6
+
+ID: M5123_S0010_G0280_001_ane
+JP: これは……Ａ２に関するデータ！？
+EN: Is that...A2's data?
+RU: 
+
+ID: M5123_S0010_G0290_001_a2b
+JP: チップが破損していたから、中身はほとんど読み取れないけど。
+EN: Some of it. But it's badly damaged, so we didn't learn much.
+RU: 
+
+ID: M5123_S0010_G0300_001_ane
+JP: いや、それでも収穫だ。
+EN: It's still something. Thank you.
+RU: 
+
+ID: M5123_S0010_G0310_001_ane
+JP: もしかしたら、まだその周囲にデータチップが残っているかもしれない。
+EN: You know, there might be more data chips in that same area.
+RU: 
+
+ID: M5123_S0010_G0320_001_ane
+JP: 見つけたら持ってきてくれ。
+EN: Please let me know if you find any.
+RU: 
+
+
+-- Section 7
+
+ID: M5123_S0010_G0030_001_ane
+JP: Ａ２……アタッカー二号……？
+EN: Attacker Number 2?
+RU: 
+
+ID: M5123_S0010_G0060_001_ane
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 8
+
+ID: M5123_S0010_G0330_001_a9s
+JP: 他にデータチップの反応はありませんね。これで最後のようです。
+EN: Okay, I think that's the last of the data chips.
+RU: 
+
+ID: M5123_S0010_G0340_001_a2b
+JP: ポッド。回収したデータチップを解析後、各チップと照合して。
+EN: Pod, analyze and collate the information from those chips.
+RU: 
+
+ID: M5123_S0010_G0350_001_pod042
+JP: 解析完了：Ａ２に関するデータを含むデータ群。
+EN: Analysis complete: Data set contains information about YoRHa unit A2.
+RU: 
+
+ID: M5123_S0010_G0360_001_pod042
+JP: 他データチップと照合。
+EN: Collating with data from other chips. Stand by...
+RU: 
+
+ID: M5123_S0010_G0370_001_pod042
+JP: 照合完了：第十四次機械戦争真珠湾降下作戦に関する報告書と推定。
+EN: Collation complete. The contained data is a debriefing report for the Pearl Harbor descent undertaken during the 14th Machine War.
+RU: 
+
+ID: M5123_S0010_G0380_001_a2b
+JP: 真珠湾降下作戦……？
+EN: No kidding.
+RU: 
+
+ID: M5123_S0010_G0390_001_a9s
+JP: 僕達の前世代……旧型ヨルハで遂行された作戦ですね。
+EN: That operation was carried out by the YoRHa generation that came before us, right?
+RU: 
+
+ID: M5123_S0010_G0400_001_a9s
+JP: とりあえず、目的は達しました。レジスタンスキャンプへ戻りましょう。
+EN: Anyway, mission complete, I suppose. Let's get back to the Resistance camp.
+RU: 
+
+
+-- Section 9
+
+ID: M5123_S0030_G0000_001_a9s
+JP: Ａ２に関するデータを持ってきました。確認してください。
+EN: We found more data from A2. Take a look.
+RU: 
+
+ID: M5123_S0030_G0010_001_ane
+JP: これは……！
+EN: That's... It's Number 2.
+RU: 
+
+ID: M5123_S0030_G0020_001_ane
+JP: やはり、あの二号だ……
+EN: It really is her.
+RU: 
+
+ID: M5123_S0030_G0030_001_a2b
+JP: 知っているの？
+EN: You know her?
+RU: 
+
+ID: M5123_S0030_G0040_001_ane
+JP: 旧型ではあるが、君と同タイプのヨルハ二号……
+EN: YoRHa unit Number 2. She's an older model, but the same type as you.
+RU: 
+
+ID: M5123_S0030_G0050_001_ane
+JP: 過去に作戦を共にした事がある。
+EN: We...worked together.
+RU: 
+
+ID: M5123_S0030_G0060_001_a9s
+JP: ……真珠湾降下作戦。
+EN: The Pearl Harbor drop?
+RU: 
+
+ID: M5123_S0030_G0070_001_ane
+JP: ああ。
+EN: Yes.
+RU: 
+
+ID: M5123_S0030_G0080_001_ane
+JP: 作戦自体は成功。しかし、派遣されたヨルハ部隊は壊滅。
+EN: The operation itself was a success, but the YoRHa fighters were completely wiped out.
+RU: 
+
+ID: M5123_S0030_G0090_001_ane
+JP: その部隊の指揮を執っていたのが二号……Ａ２だ。
+EN: Their commander was Number 2... A2.
+RU: 
+
+ID: M5123_S0030_G0100_001_ane
+JP: 彼女と、会ったのか？今何してるんだ？
+EN: Have you met her? Do you know where she is?
+RU: 
+
+ID: M5123_S0030_G0110_001_a9s
+JP: Ａ２……Ａ２さんに対する破壊命令がバンカーから出ています。
+EN: Actually, we have orders from the Bunker to...destroy her.
+RU: 
+
+ID: M5123_S0030_G0120_001_ane
+JP: えっ！？
+EN: What!?
+RU: 
+
+ID: M5123_S0030_G0130_001_a9s
+JP: ヨルハ部隊から脱走し、追撃部隊を壊滅させたんです。
+EN: She's a deserter. She also wiped out an entire team that was sent to bring her back.
+RU: 
+
+ID: M5123_S0030_G0140_001_ane
+JP: そんな……Ａ２が……
+EN: A2...? No...
+RU: 
+
+ID: M5123_S0030_G0150_001_ane
+JP: すまない……
+EN: I'm sorry, I...
+RU: 
+
+ID: M5123_S0030_G0160_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M5123_S0030_G0170_001_a2b
+JP: ……９Ｓ、行こう。
+EN: Let's go, 9S.
+RU: 
+
+
+-- Section 10
+
+ID: M5123_S0030_G0180_001_a9s
+JP: アネモネさん、Ａ２さんと何があったんでしょう……
+EN: Wonder what that was all about? Something must've been up between Anemone and A2...
+RU: 
+
+ID: M5123_S0030_G0190_001_a2b
+JP: ……語るには時間が必要な事もある。
+EN: Some things just aren't easy to talk about.
+RU: 
+
+ID: M5123_S0030_G0200_001_a2b
+JP: 長く戦っている兵士ならなおさら。
+EN: Especially for a soldier who's been fighting that long.
+RU: 
+
+ID: M5123_S0030_G0210_001_a9s
+JP: そうなんですね……
+EN: I guess so.
+RU: 
+
+ID: M5123_S0030_G0220_001_a2b
+JP: ９Ｓ、あなたも……
+EN: 9S, you...
+RU: 
+
+ID: M5123_S0030_G0230_001_a9s
+JP: え？
+EN: Huh?
+RU: 
+
+ID: M5123_S0030_G0240_001_a2b
+JP: ……あなたにも、いつか判る日が来るかもしれない。
+EN: ...You might understand yourself someday.
+RU: 
+
+ID: M5123_S0030_G0250_001_a9s
+JP: ……はい。
+EN: Right...
+RU: 
+
+
+-- Section 11
+
+ID: M5122_S0010_G0000_300_ane
+JP: すまない、今は任務に集中してくれ
+EN: Sorry, but could you focus on your mission for now?
+RU: 
+
+ID: M5122_S0010_G0010_300_ane
+JP: せっかく来てもらったのに悪いな……
+EN: I know you came here and everything, but...
+RU: 
+
+

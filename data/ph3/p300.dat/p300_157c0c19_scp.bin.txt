@@ -1,0 +1,111 @@
+-- Section 1
+
+ID: M3060_S0640_G0060_001_spider
+JP: ボく達は……悪い…‥機カイじゃナ……
+EN: We are not bad machines...
+RU: 
+
+ID: M3060_S0640_G0070_001_spider
+JP: ボクハ……ワタしは……
+EN: I... We...
+RU: 
+
+ID: M3060_S0640_G0080_001_a9s
+JP: 何だこれ？
+EN: What's going on?
+RU: 
+
+ID: M3060_S0640_G0090_001_pod153
+JP: 報告：敵ＡＩの崩壊を確認。
+EN: Analysis: Enemy AI destroyed.
+RU: 
+
+ID: M3060_S0640_G0100_001_spider
+JP: ボボ……ワたシ……
+EN: I... I... I... I... I...
+RU: 
+
+ID: M3060_S0640_G0110_001_a9s
+JP: あの赤いＡ．Ｉ．が……死んだ？
+EN: So those red AIs are dead?
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0640_G0120_001_spider
+JP: ヨルハ……部隊……
+EN: YoRHa...forces...
+RU: 
+
+ID: M3060_S0640_G0130_001_spider
+JP: レジスタ……ンス殲滅……
+EN: Destroy the...Resistance...
+RU: 
+
+ID: M3060_S0640_G0140_001_spider
+JP: アダム……
+EN: Adam...
+RU: 
+
+ID: M3060_S0640_G0150_001_spider
+JP: 生マレ……子供……
+EN: Born...children...
+RU: 
+
+ID: M3060_S0640_G0160_001_spider
+JP: 遊ビ……歌……歌オウ
+EN: Play... song... sing...
+RU: 
+
+ID: M3060_S0640_G0170_001_spider
+JP: 美しク……ナリタ……
+EN: I want...to be beauti...
+RU: 
+
+ID: M3060_S0640_G0180_001_spider
+JP: あつメル……死体
+EN: Collect...corpses...
+RU: 
+
+ID: M3060_S0640_G0190_001_spider
+JP: 創造主……星……渡ル
+EN: Creator... star... traveler...
+RU: 
+
+ID: M3060_S0640_G0200_001_spider
+JP: 船……墓場……
+EN: Ship...grave...
+RU: 
+
+ID: M3060_S0640_G0210_001_spider
+JP: 遊んで遊ンデあそんで遊んで……アソンで
+EN: Play...play...play...play...play...
+RU: 
+
+ID: M3060_S0640_G0220_001_spider
+JP: 海には……怖い……怪物ガいるよ？
+EN: There's a scary monster...in the sea...
+RU: 
+
+ID: M3060_S0640_G0230_001_spider
+JP: お母さん・お母さん・お母サン
+EN: Mother, mother, mooother...
+RU: 
+
+ID: M3060_S0640_G0240_001_spider
+JP: 孤独……冷たく、寒い。
+EN: Lonely... So very cold...
+RU: 
+
+ID: M3060_S0640_G0250_001_a9s
+JP: 機械の癖に……
+EN: Goddamn machine...
+RU: 
+
+ID: M3060_S0640_G0260_001_a9s
+JP: ウルサイッ！！
+EN: Shut the hell up!
+RU: 
+
+

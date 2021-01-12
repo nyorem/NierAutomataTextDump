@@ -1,0 +1,54 @@
+-- Section 1
+
+ID: M3040_S0200_G0000_001_a9s
+JP: あれ……何だこれ……
+EN: Huh? What's going on here...?
+RU: 
+
+ID: M3040_S0200_G0010_001_a9s
+JP: 身体が……
+EN: My body...
+RU: 
+
+ID: M3040_S0200_G0020_001_a9s
+JP: これは……僕の記憶……
+EN: Those are...my memories.
+RU: 
+
+ID: M3040_S0200_G0030_001_a9s
+JP: どうして……
+EN: But why?
+RU: 
+
+
+-- Section 2
+
+ID: M3040_S0510_G0000_001_a9s
+JP: 僕の記憶に……
+EN: Stay the hell out...
+RU: 
+
+ID: M3040_S0510_G0010_001_a9s
+JP: 勝手に入ってくるなッ！！
+EN: of my GOD DAMN MEMORIES!
+RU: 
+
+ID: M3040_S0510_G0020_001_a9s
+JP: これは、僕の宝物だッ！
+EN: These belong to me and me alone!
+RU: 
+
+ID: M3040_S0510_G0030_001_a9s
+JP: 触るな！
+EN: Get away from them!
+RU: 
+
+
+-- Section 3
+
+ID: M3040_S0510_G0030_300_a9s
+JP: …………殺してやる。
+EN: ...You're going down.
+RU: 
+
+

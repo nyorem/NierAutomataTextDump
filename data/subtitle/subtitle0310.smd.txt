@@ -1,0 +1,20 @@
+ID: M1030_S0220_H0000_001_a9s
+JP: ２Ｂ！
+EN: 2B!
+RU: 
+
+ID: M1030_S0220_H0010_001_vw
+JP: 私は……私は……
+EN: Beautiful... Beautiful...
+RU: 
+
+ID: M1030_S0220_H0020_001_vw
+JP: 美しくなるんだっ！！
+EN: I MUST BE BEAUTIFUL!
+RU: 
+
+ID: M1030_S0220_H0030_001_a9s
+JP: これは……アンドロイドの死体！？
+EN: Those look like...corpses!
+RU: 
+

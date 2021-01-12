@@ -1,0 +1,43 @@
+-- Section 1
+
+ID: M3050_S0038_G0000_001_ppl
+JP: どうしたの！？その傷……
+EN: Oh dear. What happened to you?
+RU: 
+
+ID: M3050_S0038_G0010_001_pod153
+JP: 戦闘により負傷。ＮＦＣＳが機能していない。
+EN: Wounded in battle. NFCS not functioning.
+RU: 
+
+ID: M3050_S0038_G0020_001_dbl
+JP: よくそんな状態でここまで来られたな……
+EN: I'm amazed you were even able to drag yourself here.
+RU: 
+
+ID: M3050_S0038_G0040_001_dbl
+JP: 調整に時間がかかる。ちょっと待っててくれ。
+EN: This is gonna take a bit, so just hang tight.
+RU: 
+
+ID: M3050_S0038_G0050_001_ppl
+JP: 酷い……運動野が虫食いだらけになってる。
+EN: This is terrible! Your motor cortex is full of holes.
+RU: 
+
+ID: M3050_S0038_G0060_001_ppl
+JP: これじゃあ、歩くのも大変だったでしょう。
+EN: I can't believe you even managed to walk here.
+RU: 
+
+ID: M3050_S0038_G0075_001_system
+JP: NFCS修復完了。
+EN: NFCS fully recovered.
+RU: 
+
+ID: M3050_S0038_G0070_001_dbl
+JP: さ、修理はおわったぞ。
+EN: All right, you're all good.
+RU: 
+
+

@@ -1,0 +1,525 @@
+-- Section 1
+
+ID: M5110_S0010_G0000_001_roboane
+JP: すみマセん！聞いて下サイ！
+EN: Excuse me? Do you have a moment?
+RU: 
+
+ID: M5110_S0010_G0010_001_roboane
+JP: お願いシマス！オネガイします！
+EN: Please, I need your help!
+RU: 
+
+
+-- Section 2
+
+ID: M5110_S0010_G0020_001_roboane
+JP: あの、すみまセン！どうか、迷子になった私の妹を探してくれまセンカ？
+EN: Um, excuse me? Can you please help me? I need to find my little sister. She's lost.
+RU: 
+
+ID: M5110_S0010_G0021_001_sele
+JP: 探す。
+EN: Agree to help look for her.
+RU: 
+
+ID: M5110_S0010_G0022_001_sele
+JP: 探さない。
+EN: Refuse to help.
+RU: 
+
+
+-- Section 3
+
+ID: M5110_S0010_G0030_001_roboane
+JP: 元はと言えば私が悪いんデス……
+EN: And it's all my fault...
+RU: 
+
+ID: M5110_S0010_G0040_001_roboane
+JP: あの子の前でふと『パーツの調子が悪い』なんてぼやいてしまったカラ。
+EN: It seems she overheard me complaining about how one of my parts was starting to seize up.
+RU: 
+
+ID: M5110_S0010_G0050_001_roboane
+JP: 心配したあの子は、砂漠に代わりのパーツを探しに行ってくれたんデス。
+EN: So she went off to the desert in search of a replacement.
+RU: 
+
+ID: M5110_S0010_G0060_001_roboane
+JP: でも数日帰ってこなクテ……お礼はしますので、どうかお願いしマス！
+EN: It's been days now, and she's still not back. Please, you have to help me! I'll pay you whatever you want!
+RU: 
+
+
+-- Section 4
+
+ID: M5110_S0010_G0070_001_roboane
+JP: 砂漠で迷子になってイル私の妹を、どうか探してくだサイ！
+EN: Can you please help me find my little sister? She's lost in the desert!
+RU: 
+
+ID: M5110_S0010_G0021_001_sele
+JP: 探す。
+EN: Agree to help look for her.
+RU: 
+
+ID: M5110_S0010_G0022_001_sele
+JP: 探さない。
+EN: Refuse to help.
+RU: 
+
+
+-- Section 5
+
+ID: M5110_S0010_G0080_001_a9s
+JP: 妹想いのお姉さん……
+EN: She sure cares about her little sister, huh?
+RU: 
+
+ID: M5110_S0010_G0090_001_a9s
+JP: っていうか、機械生命体の姉妹って変な話ですね。
+EN: Still, it's pretty funny to hear machines talk about siblings.
+RU: 
+
+ID: M5110_S0010_G0100_001_a9s
+JP: 同じ工場で作られた、とかでしょうか？
+EN: Do you think she just means they were built at the same factory or something?
+RU: 
+
+ID: M5110_S0010_G0110_001_a2b
+JP: さあ……
+EN: Maybe.
+RU: 
+
+
+-- Section 6
+
+ID: M5110_S0020_G0000_001_pascal
+JP: ２Ｂさん、９Ｓさん。
+EN: Um, hello there! Hello? Testing testing?
+RU: 
+
+ID: M5110_S0020_G0010_001_a9s
+JP: わっ、パスカル？
+EN: Er, Pascal? Is that you?
+RU: 
+
+ID: M5110_S0020_G0020_001_pascal
+JP: 突然の通信ですみません。
+EN: Ah! 9S! Yes, it is me. Many apologies for the sudden transmission.
+RU: 
+
+ID: M5110_S0020_G0030_001_pascal
+JP: 話は聞きました。迷子を捜してくださっているそうですね。
+EN: I heard that you were searching for the missing child, yes?
+RU: 
+
+ID: M5110_S0020_G0040_001_pascal
+JP: 私からもお願いします。どうか、早く見つけてやってください。
+EN: Well, if you would, please consider this a personal request from myself as well. Go find the child as quickly as you can!
+RU: 
+
+ID: M5110_S0020_G0050_001_pascal
+JP: あれは姉思いのいい子なんです。
+EN: She's such a good little girl, and so fond of her sister!
+RU: 
+
+ID: M5110_S0020_G0060_001_pascal
+JP: 恐らく、あの子は砂漠地帯にいるかと思います。
+EN: She's probably somewhere around the desert at the moment.
+RU: 
+
+ID: M5110_S0020_G0070_001_pascal
+JP: その付近に、あの子の姉が必要としているパーツ\n『凹んだ金属板』があるので……
+EN: That's where she's likely to find the dented plate her sister needs.
+RU: 
+
+ID: M5110_S0020_G0080_001_a2b
+JP: わかった。
+EN: Got it.
+RU: 
+
+ID: M5110_S0020_G0090_001_pascal
+JP: ありがとうございます。２人とも、どうかお気をつけて。
+EN: Thank you so much. And please be careful, all right?
+RU: 
+
+
+-- Section 7
+
+ID: M5110_S0030_G0001_001_a9s
+JP: あれは……
+EN: Is that...?
+RU: 
+
+ID: M5110_S0030_G0000_001_roboimouto
+JP: うう……おうちにかえりたいヨゥ……おねえサン……
+EN: I wanna go hoooome... Siiiiisteeeeer! Where are you!?
+RU: 
+
+ID: M5110_S0030_G0010_001_roboimouto
+JP: ううう……
+EN: Nnngh... *sniff*
+RU: 
+
+
+-- Section 8
+
+ID: M5110_S0030_G0020_001_a9s
+JP: もしもし。君はもしかして、ここにパーツを探しに来たロボット？
+EN: Hey there. Are you the machine who came out here looking for a spare part?
+RU: 
+
+ID: M5110_S0030_G0030_001_roboimouto
+JP: お、おにいちゃんたち……ダレ？
+EN: Huh? Who are you?
+RU: 
+
+ID: M5110_S0030_G0040_001_a9s
+JP: 君のお姉さんに頼まれて、探しに来たんだよ。
+EN: Your sister asked us to look for you.
+RU: 
+
+ID: M5110_S0030_G0050_001_roboimouto
+JP: おねえサンに？ホントに？
+EN: ...She did? Really?
+RU: 
+
+ID: M5110_S0030_G0060_001_a9s
+JP: 本当。だから一緒に戻ろう？
+EN: Really. So what do you say we head home?
+RU: 
+
+ID: M5110_S0030_G0070_001_roboimouto
+JP: う……うわアああァん！こわかったアァ。こわかったよオォ！
+EN: Waaaaaaaah! I was soooo scaaaaaared!
+RU: 
+
+
+-- Section 9
+
+ID: M5110_S0030_G0080_001_a2b
+JP: じゃあ、あとはこの子をパスカルの村まで連れて行くだけ……
+EN: Right. Let's get her back to Pascal's village.
+RU: 
+
+ID: M5110_S0030_G0090_001_a9s
+JP: でも、どうしてこんなところをさ迷ってたの？
+EN: How'd you get lost out here, anyway?
+RU: 
+
+ID: M5110_S0030_G0110_001_roboimouto
+JP: おねえサンのパーツ……探してたら……
+EN: I was looking for my sister's part...
+RU: 
+
+ID: M5110_S0030_G0120_001_roboimouto
+JP: こわくて……動けな……うわあああアアアん！
+EN: But then I got scared and I couldn't move and...and...and... Waaaaah!
+RU: 
+
+ID: M5110_S0030_G0130_001_a9s
+JP: ああ、泣かないで。
+EN: Aw, come on now, don't cry!
+RU: 
+
+ID: M5110_S0030_G0140_001_a9s
+JP: それで？パーツは見つかったの？
+EN: Did you at least find what you needed?
+RU: 
+
+ID: M5110_S0030_G0150_001_roboimouto
+JP: うん……おねえサン、よろこぶカナ？
+EN: Y-Yeah. *sniff* She'll be happy, right?
+RU: 
+
+ID: M5110_S0030_G0160_001_a9s
+JP: そうだね。けど君が無事に戻ったら、もっと喜ぶと思うよ。
+EN: I'm sure she will. But I bet she'll be even happier to see you back home safe and sound.
+RU: 
+
+ID: M5110_S0030_G0170_001_roboimouto
+JP: ……うん
+EN: ...'Kay.
+RU: 
+
+
+-- Section 10
+
+ID: M5110_S0030_G0250_001_roboimouto
+JP: ねえ、どうしてさばくはできタノ？
+EN: Hey, mister? Why'd they make the desert?
+RU: 
+
+ID: M5110_S0030_G0260_001_a9s
+JP: えーっと……降水量の減少のせいで植生が失われて、
+EN: No one "made" the desert. It's just an area that lost all its vegetation due to a lack of precipitation.
+RU: 
+
+ID: M5110_S0030_G0270_001_a9s
+JP: それに従って土壌が変化し……
+EN: This caused lasting changes in the soil, which means plants aren't able to—
+RU: 
+
+ID: M5110_S0030_G0280_001_roboimouto
+JP: ドジョウってナアニ？
+EN: What's "soil"?
+RU: 
+
+ID: M5110_S0030_G0290_001_a9s
+JP: ああ、土壌っていうのは地面にある土の事だよ。
+EN: Soil? Uh, it's dirt. Ground. The stuff we're walking on?
+RU: 
+
+ID: M5110_S0030_G0300_001_roboimouto
+JP: ふうーん！土ってスゴイんダネ！
+EN: Oooooooo! I like ground.
+RU: 
+
+
+-- Section 11
+
+ID: M5110_S0030_G0310_001_roboimouto
+JP: ねえ、かぜはどこからふクノ？
+EN: Hey, mister? Where does the wind blow from?
+RU: 
+
+ID: M5110_S0030_G0320_001_a9s
+JP: それは気温や気圧の変化が……
+EN: Wind is just a force caused by changes in temperature and atmospheric pressure and...
+RU: 
+
+ID: M5110_S0030_G0330_001_a9s
+JP: っていうか、確かに風ってどこから吹いてくるんでしょうか。
+EN: Huh. That's actually a hard question, now that I think about it.
+RU: 
+
+ID: M5110_S0030_G0340_001_a9s
+JP: 哲学的な問いでもありますね……ね、２Ｂ？
+EN: Kind of deep, really. I mean, where does the wind blow from? What do you think, 2B?
+RU: 
+
+ID: M5110_S0030_G0350_001_a2b
+JP: 私に聞かない。
+EN: Don't know. Don't care.
+RU: 
+
+
+-- Section 12
+
+ID: M5110_S0030_G0360_001_roboimouto
+JP: ねえ、こどもはどうやってうまれルノ？
+EN: Hey, mister? How do you make children?
+RU: 
+
+ID: M5110_S0030_G0370_001_a9s
+JP: それは……
+EN: Uuuuuuum....
+RU: 
+
+ID: M5110_S0030_G0380_001_a9s
+JP: いや、機械生命体もアンドロイドも子供は作る事は出来なくて……
+EN: Well, machines can't really make children. Neither can androids, now that I think about it.
+RU: 
+
+ID: M5110_S0030_G0390_001_roboimouto
+JP: こどもはどうやってつくルノ？
+EN: Yeah, but how DO you make 'em?
+RU: 
+
+ID: M5110_S0030_G0400_001_a9s
+JP: ２Ｂ……
+EN: Uh, 2B? Little help here?
+RU: 
+
+ID: M5110_S0030_G0410_001_a2b
+JP: そ、そんな声で言われても、私は助けられない。
+EN: Huh? You're the chatty one. Work it out.
+RU: 
+
+ID: M5110_S0030_G0420_001_a9s
+JP: う……
+EN: Ooof.
+RU: 
+
+ID: M5110_S0030_G0430_001_roboimouto
+JP: ねえ、こどもは……
+EN: Mister! Mister, wait! You gotta tell me how you make chil—
+RU: 
+
+ID: M5110_S0030_G0440_001_a9s
+JP: 早く行こう！ほら、おねえサン待ってるよ！
+EN: Wow, it's getting late! Let's get you home already!
+RU: 
+
+
+-- Section 13
+
+ID: M5110_S0030_G0000_001_roboimouto
+JP: うう……おうちにかえりたいヨゥ……おねえサン……
+EN: I wanna go hoooome... Siiiiisteeeeer! Where are you!?
+RU: 
+
+
+-- Section 14
+
+ID: M5110_S0040_G0000_001_roboimouto
+JP: ここまでくれば、もうだいジョーブ！ひとりでかえれルヨ！
+EN: Hey, I know this place! I can get home by myself now.
+RU: 
+
+ID: M5110_S0040_G0010_001_roboimouto
+JP: あんないしてくれて、ありがトウ。これ、あゲル！
+EN: Thanks, mister! Thanks, grumpy lady! Oh, and here. You can have this.
+RU: 
+
+ID: M5110_S0040_G0020_001_roboimouto
+JP: じゃあね、おにーちゃん、おねーちゃん、バイバーイ！
+EN: Bye-byeeeeee!
+RU: 
+
+
+-- Section 15
+
+ID: M5110_S0040_G0030_001_roboimouto
+JP: 今度、こどもの作り方おしエテねえええええ！
+EN: Make sure to come back and tell me how to make childreeeeeeen!
+RU: 
+
+
+-- Section 16
+
+ID: M5110_S0040_G0040_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M5110_S0040_G0050_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5110_S0040_G0060_001_a9s
+JP: 何だか……どっと疲れました。
+EN: Well, that was exhausting.
+RU: 
+
+ID: M5110_S0040_G0070_001_a2b
+JP: ……確かに。
+EN: Yep.
+RU: 
+
+
+-- Section 17
+
+ID: M5110_S0010_G0001_300_sister
+JP: 妹を連れ戻してくれてありがとうございました。
+EN: Thank you for bringing my sister home.
+RU: 
+
+ID: M5110_S0010_G0002_300_sister
+JP: 妹が見つけてきてくれたパーツのおかげで、身体の具合も良くなりました。
+EN: I'm feeling much better thanks to the part she found.
+RU: 
+
+ID: M5110_S0010_G0007_300_sister
+JP: お礼にコレを差し上げマス
+EN: Please, take this...
+RU: 
+
+
+-- Section 18
+
+ID: M5110_S0010_G0003_300_youngsister
+JP: この前は探しに来てくれてアリガトウ
+EN: Thanks for helping me search earlier!
+RU: 
+
+ID: M5110_S0010_G0004_300_youngsister
+JP: もうお姉ちゃんに心配かけるようなコトはしないヨ
+EN: I promise not to make my sister worry any more.
+RU: 
+
+
+-- Section 19
+
+ID: M5110_S0010_G0001_300_sister
+JP: 妹を連れ戻してくれてありがとうございました。
+EN: Thank you for bringing my sister home.
+RU: 
+
+
+-- Section 20
+
+ID: M5110_S0010_G0004_300_youngsister
+JP: もうお姉ちゃんに心配かけるようなコトはしないヨ
+EN: I promise not to make my sister worry any more.
+RU: 
+
+
+-- Section 21
+
+ID: M5110_S0030_G0180_001_a2b
+JP: ９Ｓ……あの迷子だった子が見当たらない。
+EN: 9S? Where's the girl?
+RU: 
+
+ID: M5110_S0030_G0190_001_a9s
+JP: ええっ！？……本当だ。
+EN: Huh? Oh, hell!
+RU: 
+
+ID: M5110_S0030_G0200_001_a9s
+JP: どこではぐれちゃったんだろう……
+EN: We must have gotten separated somehow.
+RU: 
+
+ID: M5110_S0030_G0210_001_a9s
+JP: あの子を見つけた場所に戻ってみましょうか。
+EN: Let's go back to where we first found her. I bet she's waiting there.
+RU: 
+
+
+-- Section 22
+
+ID: M5110_S0030_G0220_001_roboimouto
+JP: う……うわアああァん！こわかったアァ。こわかったよオォ！
+EN: WAAAAAAAAAAAAH! YOU LEFT MEEEEEEEE!
+RU: 
+
+ID: M5110_S0030_G0230_001_roboimouto
+JP: おにいチャン達……いなくなって……
+EN: You guys walk too fast. *sniff*
+RU: 
+
+ID: M5110_S0030_G0240_001_a9s
+JP: ごめんごめん。次からは見失わないようにするから。
+EN: Sorry! Sorry. We'll try to walk slower, okay?
+RU: 
+
+
+-- Section 23
+
+ID: M5110_S0010_G0070_001_roboane
+JP: 砂漠で迷子になってイル私の妹を、どうか探してくだサイ！
+EN: Can you please help me find my little sister? She's lost in the desert!
+RU: 
+
+
+-- Section 24
+
+ID: M5110_S0010_G0070_001_roboane
+JP: 砂漠で迷子になってイル私の妹を、どうか探してくだサイ！
+EN: Can you please help me find my little sister? She's lost in the desert!
+RU: 
+
+
+-- Section 25
+
+ID: M5110_S0010_G0070_001_roboane
+JP: 砂漠で迷子になってイル私の妹を、どうか探してくだサイ！
+EN: Can you please help me find my little sister? She's lost in the desert!
+RU: 
+
+

@@ -1,0 +1,116 @@
+-- Section 1
+
+ID: M0010_S0005_S0070_101_op60
+JP: こちら司令部。ヨルハ部隊応答してください。
+EN: This is Command. YoRHa squadron, come in.
+RU: 
+
+ID: M0010_S0005_S0080_101_a2b
+JP: こちら２Ｂ。全機無事に成層圏を突破。
+EN: 2B here. All units have penetrated the stratosphere.
+RU: 
+
+ID: M0010_S0005_S0090_101_a2b
+JP: 自動航行システムに問題なし。
+EN: Autopilot systems green across the board.
+RU: 
+
+ID: M0010_S0005_S0100_101_op60
+JP: こちらオペレーター６Ｏ。全機反応確認しました。
+EN: This is Operator 6O. All units confirmed.
+RU: 
+
+ID: M0010_S0005_S0110_101_a2b
+JP: 現在、対目標５０ｋｍ地点を通過。
+EN: We've passed the 50-kilometer threshold and are proceeding toward the target.
+RU: 
+
+ID: M0010_S0005_S0120_101_op60
+JP: 敵防空圏内に突入後、マニュアル攻撃形態に移行し、
+EN: Understood. Once you reach their anti-air defenses, proceed to manual-attack formation...
+RU: 
+
+ID: M0010_S0005_S0130_101_op60
+JP: 目標の大型兵器の破壊と情報の収集にあたってください。
+EN: then destroy the Goliath-class unit by any means necessary and gather what data you can.
+RU: 
+
+ID: M0010_S0005_S0140_101_a2b
+JP: 了解……
+EN: Understood.
+RU: 
+
+ID: M0010_S0010_G0000_101_a2b
+JP: １２Ｈ、ロスト。
+EN: 12H down.
+RU: 
+
+ID: M0010_S0010_G0010_101_a2b
+JP: 全機マニュアルモード起動。目視で回避。
+EN: All units, activate manual mode and rely on visuals to evade.
+RU: 
+
+ID: M0010_S0010_G0020_101_pod042
+JP: 既に起動。移動操作可能。
+EN: Already engaged. Free movement unlocked.
+RU: 
+
+ID: M0010_S0010_G0030_101_a1d
+JP: 長距離レーザー発射点を確認。
+EN: Origin point of long-range lasers confirmed.
+RU: 
+
+ID: M0010_S0010_G0050_101_a1d
+JP: １１Ｂ、ロスト。
+EN: 11B down.
+RU: 
+
+ID: M0010_S0010_G0060_101_a1d
+JP: 装備Ho229のキャンセラー効果ナシ
+EN: Our Ho229 cancellers are ineffective.
+RU: 
+
+ID: M0010_S0010_G0070_101_pod042
+JP: 前方に敵機確認。
+EN: Alert: Enemy units sighted ahead.
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0005_S0000_101_a2b
+JP: 全ての存在は滅びるようにデザインされている。
+EN: Everything that lives is designed to end.
+RU: 
+
+ID: M0010_S0005_S0010_101_a2b
+JP: 生と死を繰り返す螺旋に……
+EN: We are perpetually trapped...
+RU: 
+
+ID: M0010_S0005_S0020_101_a2b
+JP: 私達は囚われ続けている。
+EN: in a never-ending spiral of life and death.
+RU: 
+
+ID: M0010_S0005_S0030_101_a2b
+JP: これは、呪いか。
+EN: Is this a curse?
+RU: 
+
+ID: M0010_S0005_S0040_101_a2b
+JP: それとも、罰か。
+EN: Or some kind of punishment?
+RU: 
+
+ID: M0010_S0005_S0050_101_a2b
+JP: 不可解なパズルを渡した神に
+EN: I often think about the god who blessed us with this cryptic puzzle...
+RU: 
+
+ID: M0010_S0005_S0060_101_a2b
+JP: いつか、私達は弓を引くのだろうか？
+EN: and wonder if we'll ever have the chance to kill him.
+RU: 
+
+

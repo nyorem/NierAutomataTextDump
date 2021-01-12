@@ -1,0 +1,82 @@
+-- Section 1
+
+ID: M0010_S0794_G0000_201_pod153
+JP: 敵兵器の接近を確認。
+EN: Incoming enemy fighters detected.
+RU: 
+
+ID: M0010_S0794_G0010_201_a9s
+JP: げ……迎撃する。
+EN: En...gaging...
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0794_G0040_201_pod153
+JP: 敵機体に脆弱性を発見。
+EN: Weaknesses found in enemy units.
+RU: 
+
+ID: M0010_S0794_G0050_201_a9s
+JP: ２Ｂ……敵機体の脆弱性を発見しました……
+EN: 2B... I found a weakness in the target...
+RU: 
+
+ID: M0010_S0794_G0060_201_a9s
+JP: 今から援護の為にハッキングします。
+EN: Hacking in...to provide support.
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0794_G0070_201_a9s
+JP: ２Ｂ……敵機体の上腕部の……コントロールを……
+EN: 2B... The control...on the enemy's upper arm...
+RU: 
+
+ID: M0010_S0794_G0080_201_a9s
+JP: ポッドを使っ……制御を取れるはず……
+EN: Use your Pod... Sh-should be able to...take it over...
+RU: 
+
+ID: M0010_S0794_G0090_201_a2b
+JP: いいから黙って！
+EN: I told you to shut up!
+RU: 
+
+
+-- Section 4
+
+ID: M0010_S0795_S0000_001_a2b
+JP: 制御システムを奪う！
+EN: Seize its control system!
+RU: 
+
+ID: M0010_S0795_S0010_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+ID: M0010_S0795_S0020_001_pod042
+JP: 敵サブユニット侵入。
+EN: Infiltrating enemy sub-unit.
+RU: 
+
+ID: M0010_S0795_S0030_001_pod042
+JP: 挙動テーブル変更終了。
+EN: Behavior table adjusted.
+RU: 
+
+ID: M0010_S0795_S0040_001_pod042
+JP: 姿勢制御バーニアコントロール。
+EN: Balance controls overridden.
+RU: 
+
+ID: M0010_S0795_S0050_001_pod042
+JP: 敵兵器の従属化を完了。
+EN: Enemy unit subjugation complete.
+RU: 
+
+

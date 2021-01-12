@@ -1,0 +1,20 @@
+ID: M5091_S0040_H0290_001_plato
+JP: 誰カを大事にするって言う事ハ、
+EN: To consider someone a friend...
+RU: 
+
+ID: M5091_S0040_H0300_001_plato
+JP: 誰かを大事にしないって言う事ラ。
+EN: Is to consider someone else your enemy.
+RU: 
+
+ID: M5091_S0040_H0310_001_plato
+JP: ソレハ差別と呼バレル感情カモシレナイ。
+EN: Perhaps this is what is meant by the emotion called "discrimination."
+RU: 
+
+ID: M5091_S0040_H0320_001_plato
+JP: ボクあ、その感情に飲み込マレルヨウニ……
+EN: An emotion that seems to consume me as I speak...
+RU: 
+

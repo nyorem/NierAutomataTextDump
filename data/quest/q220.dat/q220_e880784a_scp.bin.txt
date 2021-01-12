@@ -1,0 +1,206 @@
+-- Section 1
+
+ID: M5220_S0010_G0000_001_pascal
+JP: ああ、Ａ２さん。何か御用でしょうか？
+EN: Ah, A2. Can I help you with something?
+RU: 
+
+ID: M5220_S0010_G0010_001_a2
+JP: ……フィルターをタダでもらったからな。
+EN: You gave me that filter for free earlier.
+RU: 
+
+ID: M5220_S0010_G0020_001_a2
+JP: 借りを返さないと気が済まない。
+EN: I need to pay you back. It would bother me otherwise.
+RU: 
+
+ID: M5220_S0010_G0030_001_pascal
+JP: なんと、それは律儀な……
+EN: How conscientious of you!
+RU: 
+
+ID: M5220_S0010_G0040_001_a2
+JP: 何か手伝える事があれば手伝おう。
+EN: Yeah. So if you think of something, let me know.
+RU: 
+
+ID: M5220_S0010_G0050_001_pascal
+JP: ……実は、困っている事がありまして。
+EN: I do have a bit of a problem, now that you mention it.
+RU: 
+
+ID: M5220_S0010_G0060_001_pascal
+JP: 凶暴なロボットが遊び場に現れては、子供達を襲うようになったんです。
+EN: A ferocious machine has been attacking our children in the area where they play.
+RU: 
+
+ID: M5220_S0010_G0070_001_pascal
+JP: 不躾ですが、そのロボットを退治してはいただけないでしょうか？
+EN: Could I possibly trouble you to slay it for us?
+RU: 
+
+ID: M5220_S0010_G0080_001_pascal
+JP: こんな事、他の人には頼めません。どうかお願いします。
+EN: I do hope you'll agree. We don't really have anyone else to ask.
+RU: 
+
+ID: M5220_S0010_G0090_001_sele
+JP: 引き受ける。
+EN: Agree to help.
+RU: 
+
+ID: M5220_S0010_G0100_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5220_S0010_G0140_001_pascal
+JP: ありがとうございます！
+EN: Thank you so much!
+RU: 
+
+ID: M5220_S0010_G0150_001_pascal
+JP: きちんとお礼もいたしますので、何卒よろしくお願いします。
+EN: I promise to repay you for the trouble.
+RU: 
+
+
+-- Section 3
+
+ID: M5220_S0010_G0110_001_pascal
+JP: ……そうですよね。ご都合もあるでしょうし。
+EN: O-Of course. I know you have your own priorities.
+RU: 
+
+ID: M5220_S0010_G0120_001_pascal
+JP: 失礼しました。
+EN: It was rude to even ask. Please forgive me.
+RU: 
+
+
+-- Section 4
+
+ID: M5220_S0010_G0130_001_pascal
+JP: 子供たちの遊び場に現れる凶暴なロボットを、どうか退治しては\nいただけないでしょうか？
+EN: Will you slay the terrible machine that attacks our children while they play?
+RU: 
+
+ID: M5220_S0010_G0090_001_sele
+JP: 引き受ける。
+EN: Agree to help.
+RU: 
+
+ID: M5220_S0010_G0100_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 5
+
+ID: M5220_S0010_G0160_001_pascal
+JP: 子供たちの遊び場で暴れるロボットを退治してください。
+EN: Please slay the terrible machine that attacks our children while they play.
+RU: 
+
+ID: M5220_S0010_G0170_001_pascal
+JP: どうかよろしくお願いします。
+EN: You have my thanks.
+RU: 
+
+
+-- Section 6
+
+ID: M5220_S0030_G0000_001_pascal
+JP: ああ、ありがとうございます！
+EN: We heard you defeated that nasty creature!
+RU: 
+
+ID: M5220_S0030_G0010_001_pascal
+JP: あのロボットを退治してくださったんですね。
+EN: Thank you so much.
+RU: 
+
+ID: M5220_S0030_G0020_001_pascal
+JP: どうか謝礼をお受け取りください。さあ、遠慮なさらず。
+EN: Here is your reward. Please take it.
+RU: 
+
+ID: M5220_S0030_G0030_001_pascal
+JP: ……私達は平和主義者です。戦う事が嫌でこの村を作りました。
+EN: I built this village because I detest fighting. I wanted it to stand as a monument to the power of peace.
+RU: 
+
+ID: M5220_S0030_G0040_001_pascal
+JP: でも、武器を捨てた結果、チカラのある者に抗う術を失いました。
+EN: But when we surrendered our weapons, we lost the ability to defend ourselves.
+RU: 
+
+ID: M5220_S0030_G0050_001_pascal
+JP: 村の中には、平和を守る為に周囲の敵を滅ぼすべき、と主張する者も\nいます。
+EN: Now many within the village want us to re-arm and vanquish nearby enemies in order to preserve our peace.
+RU: 
+
+ID: M5220_S0030_G0060_001_pascal
+JP: Ａ２さん……私達はどうするべきでしょうか？
+EN: What do you think we should do, A2?
+RU: 
+
+ID: M5220_S0030_G0070_001_a2
+JP: さあね。
+EN: Dunno.
+RU: 
+
+ID: M5220_S0030_G0080_001_a2
+JP: それを決めるのは、パスカル。お前だろ？
+EN: That's for you to decide.
+RU: 
+
+ID: M5220_S0030_G0090_001_pascal
+JP: そう……ですね……
+EN: Yes, I suppose so.
+RU: 
+
+ID: M5220_S0030_G0100_001_a2
+JP: あと、私を襲うようなことがあったら遠慮なくこの村を滅ぼすからな。
+EN: But let your villager friends know—if anyone tries to attack me, I'll wipe this place clean off the map.
+RU: 
+
+ID: M5220_S0030_G0110_001_pascal
+JP: ……はは。心得ました。
+EN: I will make a firm note of it.
+RU: 
+
+ID: M5220_S0030_G0120_001_pascal
+JP: Ａ２さん。
+EN: Er, A2?
+RU: 
+
+ID: M5220_S0030_G0130_001_pascal
+JP: 良ければ、この村を見ていってください。
+EN: If you like, you're welcome to take a look around our village.
+RU: 
+
+ID: M5220_S0030_G0140_001_pascal
+JP: 貴方には、私達のことをもっと知ってもらいたいのです。
+EN: It would be nice for you to know more about us.
+RU: 
+
+ID: M5220_S0030_G0150_001_a2
+JP: ……気が向いたらな。
+EN: Sure. If I feel like it.
+RU: 
+
+
+-- Section 7
+
+ID: M5220_S0020_G0005_001_pod042
+JP: 敵性機械生命体を感知。
+EN: Hostile machine lifeformｓ detected.
+RU: 
+
+

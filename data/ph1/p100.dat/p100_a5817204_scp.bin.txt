@@ -1,0 +1,36 @@
+-- Section 1
+
+ID: M0010_S0798_G0020_201_a9s
+JP: ２Ｂの記録データパッケージをアップロード開始。
+EN: Upload 2B's memory data package.
+RU: 
+
+ID: M0010_S0798_G0030_201_pod153
+JP: 警告：機体９Ｓのデータパッケージが未更新。
+EN: Alert: Memory data for unit 9S has not yet been updated.
+RU: 
+
+ID: M0010_S0798_G0040_201_a9s
+JP: いいんだ……先に２Ｂのデータをアップしてくれ……
+EN: It's fine... Upload 2B's data first.
+RU: 
+
+ID: M0010_S0798_G0050_201_pod153
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0798_G0000_201_pod153
+JP: ２Ｂ、敵ユニットの奪取に成功。
+EN: 2B has successfully commandeered the enemy unit.
+RU: 
+
+ID: M0010_S0798_G0010_201_a9s
+JP: ……引き続き、防衛継続。
+EN: ...Continuing support.
+RU: 
+
+

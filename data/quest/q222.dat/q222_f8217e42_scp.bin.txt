@@ -1,0 +1,211 @@
+-- Section 1
+
+ID: M5222_S0010_G0000_001_pascal
+JP: ああ、Ａ２さん。
+EN: Hello, A2.
+RU: 
+
+ID: M5222_S0010_G0010_001_pascal
+JP: 遊び場の件、ありがとうございました。\n本当に感謝しています……
+EN: I appreciate all the time and effort you took for our children.
+RU: 
+
+ID: M5222_S0010_G0020_001_pascal
+JP: あの子達は、私にとって……
+EN: Every one of them is a singular treasure to me.
+RU: 
+
+ID: M5222_S0010_G0030_001_pascal
+JP: いえ、この村にとって宝であり、将来の希望なんです。
+EN: Indeed, they are treasures to the entire village! Our very future rests in their little hands.
+RU: 
+
+ID: M5222_S0010_G0040_001_pascal
+JP: 機械生命体の私達が将来を語るなんて、おかしいと思いますか？
+EN: I imagine you find it odd for machines to speak of the future like this.
+RU: 
+
+ID: M5222_S0010_G0050_001_a2
+JP: ……さあ。
+EN: I dunno.
+RU: 
+
+ID: M5222_S0010_G0060_001_pascal
+JP: あの子達ならきっと、この不毛な争いにも負けずに、\n新たな道を切り拓いてくれる。
+EN: I trust that our children can stand strong against the senseless conflicts of this world and blaze a new trail for our people.
+RU: 
+
+ID: M5222_S0010_G0070_001_pascal
+JP: 私は、そう信じているんです。でも……
+EN: However...
+RU: 
+
+ID: M5222_S0010_G0080_001_pascal
+JP: 実は村の子供の中に、記憶素子の調子が悪い子がおりまして。
+EN: One of the children is suffering from a faulty storage element.
+RU: 
+
+ID: M5222_S0010_G0090_001_pascal
+JP: このままだとあの子は……
+EN: If we don't do something for the child—
+RU: 
+
+ID: M5222_S0010_G0100_001_a2
+JP: 修理すればいいじゃないか。
+EN: So repair it already.
+RU: 
+
+ID: M5222_S0010_G0110_001_pascal
+JP: それが、必要な素材が不足してるんです。
+EN: Alas, we lack the parts to do so.
+RU: 
+
+ID: M5222_S0010_G0120_001_pascal
+JP: その素材は工場廃墟でしか手に入らないのですが、\nそこには凶暴な機械生命体が多くて……
+EN: They can only be found deep within the abandoned factory, and that area is swarming with terrible machines...
+RU: 
+
+ID: M5222_S0010_G0130_001_pascal
+JP: Ａ２さんなら、と思い恥を忍んでお願いしている次第なのです。
+EN: It pains me to say this, but you, A2, are the only one we can turn to.
+RU: 
+
+ID: M5222_S0010_G0140_001_sele
+JP: 手を貸す。
+EN: Help Pascal.
+RU: 
+
+ID: M5222_S0010_G0150_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5222_S0010_G0190_001_pascal
+JP: ありがとうございます！
+EN: Thank you so much.
+RU: 
+
+ID: M5222_S0010_G0200_001_pascal
+JP: 必要な素材は工場廃墟にありますので、どうかよろしくお願いします。
+EN: The required part is in the area known as the abandoned factory. I truly do appreciate this.
+RU: 
+
+
+-- Section 3
+
+ID: M5222_S0010_G0160_001_pascal
+JP: そうですか……もしご都合がつくようでしたら、考えておいてください。
+EN: I understand. Though I hope you will reconsider at a later time.
+RU: 
+
+
+-- Section 4
+
+ID: M5222_S0010_G0170_001_pascal
+JP: 村の子供の修理をしてやる為には素材が必要なんです。
+EN: We need a certain part to repair one of the children.
+RU: 
+
+ID: M5222_S0010_G0180_001_pascal
+JP: どうか手を貸していただけませんか？
+EN: Would you perhaps lend us your aid?
+RU: 
+
+ID: M5222_S0010_G0140_001_sele
+JP: 手を貸す。
+EN: Help Pascal.
+RU: 
+
+ID: M5222_S0010_G0150_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 5
+
+ID: M5222_S0010_G0210_001_pascal
+JP: 子供の修理に必要な素材は工場廃墟にあります。
+EN: The part needed to repair the child is in the area known as the abandoned factory.
+RU: 
+
+ID: M5222_S0010_G0220_001_pascal
+JP: 大変お手数ですが、よろしくお願いします。
+EN: I appreciate your help.
+RU: 
+
+
+-- Section 6
+
+ID: M5222_S0020_G0000_001_pod042
+JP: 敵性機械生命体の破壊を確認。
+EN: Enemy machines destroyed.
+RU: 
+
+ID: M5222_S0020_G0010_001_a2
+JP: これがパスカルの欲しがっていた記憶素子の素材か。
+EN: So this is the part Pascal wanted?
+RU: 
+
+ID: M5222_S0020_G0020_001_a2
+JP: 機械生命体の子供を守る為に、別の機械生命体を殺す……
+EN: Can't believe I'm killing machines to save a machine.
+RU: 
+
+ID: M5222_S0020_G0030_001_a2
+JP: ……
+EN: ......
+RU: 
+
+ID: M5222_S0020_G0040_001_a2
+JP: パスカルのところへ、素材を届けよう。
+EN: Ah, screw it. Better go see Pascal.
+RU: 
+
+
+-- Section 7
+
+ID: M5222_S0030_G0000_001_pascal
+JP: ああ！Ａ２さん。子供を修理する為の素材を\n集めてきてくださったんですね。
+EN: Ah, A2! You have the part needed to repair the child!
+RU: 
+
+ID: M5222_S0030_G0010_001_pascal
+JP: ありがとうございます。
+EN: I cannot thank you enough.
+RU: 
+
+ID: M5222_S0030_G0020_001_pascal
+JP: こちら、とても足りないと思いますが、お礼という事で……
+EN: This is meager compared to what you've done, but please take it.
+RU: 
+
+ID: M5222_S0030_G0030_001_pascal
+JP: ……本当はわざわざ修理せずとも、新しい身体にコアを移せばいい\n話なんです。
+EN: In all honestly, we could have transferred the child's core to another body instead of repairing the original.
+RU: 
+
+ID: M5222_S0030_G0040_001_pascal
+JP: そうすれば、私達は何度でも生き返る事ができる。
+EN: This process allows us to resurrect ourselves as many times as we want.
+RU: 
+
+ID: M5222_S0030_G0050_001_pascal
+JP: けれど……記憶は失われてしまいます。
+EN: However, it comes at the cost of our memories.
+RU: 
+
+ID: M5222_S0030_G0060_001_pascal
+JP: それは、もう……その子ではないような気がして。
+EN: So in a way, he would no longer be the same child.
+RU: 
+
+ID: M5222_S0030_G0070_001_pascal
+JP: 本当に、ありがとうございました！
+EN: Thankfully, this is no longer an issue. Thank you so much!
+RU: 
+
+

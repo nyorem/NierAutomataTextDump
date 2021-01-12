@@ -1,0 +1,25 @@
+ID: M1090_S0310_H0000_001_eve
+JP: ニイ……チャン……
+EN: Brother...
+RU: 
+
+ID: M1090_S0310_H0010_001_a2b
+JP: これで……全部……
+EN: Finally... It's over...
+RU: 
+
+ID: M1090_S0310_H0020_001_a9s
+JP:  
+EN:  
+RU: 
+
+ID: M1090_S0310_H0030_001_a2b
+JP: ９Ｓッ！！
+EN: 9S!
+RU: 
+
+ID: M1090_S0310_H0040_001_a9s
+JP: はは……失敗しちゃった……
+EN: Heh heh... I really screwed up...
+RU: 
+

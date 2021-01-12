@@ -1,0 +1,443 @@
+-- Section 1
+
+ID: M5221_S0010_G0000_001_robochild
+JP: ネーネー！お姉チャーン！
+EN: Sis! Hey, Big Sis!
+RU: 
+
+ID: M5221_S0010_G0010_001_a2
+JP: お、おねぇちゃん！？
+EN: Huh?
+RU: 
+
+ID: M5221_S0010_G0020_001_robochildren
+JP: アソンデー！遊んデー！
+EN: C'mon, Big Sis! Play with us!
+RU: 
+
+ID: M5221_S0010_G0030_001_a2
+JP: 機械生命体と遊ぶ趣味なんかない。
+EN: I don't play with machines. Now get lost.
+RU: 
+
+ID: M5221_S0010_G0040_001_robochildren
+JP: ヤーダー！アソンデー！アソンデー！
+EN: C'moooooon! I wanna plaaaaay with you!
+RU: 
+
+ID: M5221_S0010_G0050_001_a2
+JP: 私はお前たちの敵のアンドロイドだ。
+EN: I'm an android, weirdo. I'm your enemy.
+RU: 
+
+ID: M5221_S0010_G0060_001_a2
+JP: 言う事きかないとぶっ壊すぞ！
+EN: So do what I say before I kick your sorry ass!
+RU: 
+
+ID: M5221_S0010_G0070_001_robochildren
+JP: キャー！タノシー！
+EN: Tee hee hee! You're funny.
+RU: 
+
+ID: M5221_S0010_G0080_001_a2
+JP: 何で喜ぶんだ……
+EN: That's not supposed to make you happy!
+RU: 
+
+ID: M5221_S0010_G0090_001_robochild
+JP: ねえネェ、おねえチャン。オモチャ作ってー！
+EN: Big Sis! Make us something to play on, Big Sis!
+RU: 
+
+ID: M5221_S0010_G0100_001_a2
+JP: オモチャ！？
+EN: What? No.
+RU: 
+
+ID: M5221_S0010_G0110_001_robochild
+JP: 遊ぶのには遊具が必要デショー！
+EN: But we need something to play on!
+RU: 
+
+ID: M5221_S0010_G0120_001_robochildren
+JP: 必要デショー！
+EN: Yeah! It's boooooring right now!
+RU: 
+
+ID: M5221_S0010_G0130_001_a2
+JP: 何で私が……
+EN: Seriously...?
+RU: 
+
+ID: M5221_S0010_G0140_001_robochild
+JP: コノ村のドウグ屋さんで売ってるから買ッテキテー！
+EN: They sell stuff in the tool shop, so go buy us something!
+RU: 
+
+ID: M5221_S0010_G0150_001_robochildren
+JP: 買ッテキテー！
+EN: Yeah! Buy something for us!
+RU: 
+
+ID: M5221_S0010_G0160_001_sele
+JP: 買ってきてやる。
+EN: Purchase something for the children.
+RU: 
+
+ID: M5221_S0010_G0170_001_sele
+JP: 買わない。
+EN: Keep your money.
+RU: 
+
+
+-- Section 2
+
+ID: M5221_S0010_G0180_001_a2
+JP: わかった……わかったから……
+EN: All right, all right! Just quit bugging me already.
+RU: 
+
+ID: M5221_S0010_G0190_001_robochildren
+JP: キャー！ヤッター！
+EN: Yaaaaaay! We did it!
+RU: 
+
+
+-- Section 3
+
+ID: M5221_S0010_G0200_001_a2
+JP: ……そんな事を手伝う義理はない。
+EN: I'm not buying you squat.
+RU: 
+
+ID: M5221_S0010_G0210_001_robochildren
+JP: ヤダー！買ってきてー！
+EN: Nooooo! You have tooooo!
+RU: 
+
+ID: M5221_S0010_G0220_001_a2
+JP: クソッ……
+EN: Dammit...
+RU: 
+
+
+-- Section 4
+
+ID: M5221_S0000_G0000_300_robochild
+JP: オモチャマダー？
+EN: Did you get us anything yet?
+RU: 
+
+ID: M5221_S0000_G0010_300_robochildren
+JP: マダー？
+EN: Still nothing!?
+RU: 
+
+
+-- Section 5
+
+ID: M5221_S0000_G0000_300_robochild
+JP: オモチャマダー？
+EN: Did you get us anything yet?
+RU: 
+
+ID: M5221_S0000_G0010_300_robochildren
+JP: マダー？
+EN: Still nothing!?
+RU: 
+
+
+-- Section 6
+
+ID: M5221_S0010_G0230_001_robotoolshop
+JP: イラッシャイ。
+EN: Welcome!
+RU: 
+
+ID: M5221_S0010_G0240_001_robotoolshop
+JP: ……え？コドモの遊具？
+EN: ...You're looking for play equipment for the children?
+RU: 
+
+ID: M5221_S0010_G0250_001_robotoolshop
+JP: ああ、今、品切れしてイルンですよ。
+EN: I'm afraid we don't have anything like that in stock at the moment.
+RU: 
+
+ID: M5221_S0010_G0260_001_robotoolshop
+JP: 材料さえアレバ作れるんですけどね……
+EN: However, I'm sure I could build something with the proper materials.
+RU: 
+
+ID: M5221_S0010_G0270_001_robotoolshop
+JP: 材料はココに書いてるんですけどね……
+EN: Tell you what—here's a list of what I'll need.
+RU: 
+
+ID: M5221_S0010_G0280_001_robotoolshop
+JP: この材料を持ってきてイタダケタラ、子供たちを幸せに\n出来るんですけどね……
+EN: Bring me those materials and I can get to work.
+RU: 
+
+ID: M5221_S0010_G0290_001_a2
+JP: ……
+EN: ......
+RU: 
+
+ID: M5221_S0010_G0300_001_a2
+JP: この村の住人はみんな押し付けがましいのか？
+EN: Everyone around here is weirdly pushy.
+RU: 
+
+ID: M5221_S0010_G0310_001_robotoolshop
+JP: いえいえそんな。滅相もナイ……
+EN: Don't be absurd! We are not.
+RU: 
+
+ID: M5221_S0010_G0320_001_a2
+JP: どうせ断ってもしつこく言ってくるんだろう……集めてくるよ。
+EN: Fine, I'll do it. You'll just bug me about it every waking minute of my life otherwise.
+RU: 
+
+ID: M5221_S0010_G0330_001_robotoolshop
+JP: ありがトウゴザいます！
+EN: An excellent choice!
+RU: 
+
+ID: M5221_S0010_G0340_001_robotoolshop
+JP: 遊具に必要なザイリョウは、遊園地で集められるはずです。
+EN: You should be able to find what you need at the amusement park.
+RU: 
+
+ID: M5221_S0010_G0350_001_a2
+JP: は！？クソ遠いな……
+EN: Oh, hell. That's forever from here!
+RU: 
+
+ID: M5221_S0010_G0360_001_robotoolshop
+JP: よろしくお願いします。
+EN: Safe travels!
+RU: 
+
+
+-- Section 7
+
+ID: M6050_S0010_G1920_300_ps
+JP: 好きなダケ見ていってクレ。
+EN: Look around as much as you like.
+RU: 
+
+ID: M5221_S0010_G0380_001_robotoolshop
+JP: 遊具に必要なザイリョウは、遊園地で集められるはずです。
+EN: You should be able to find what you need at the amusement park.
+RU: 
+
+ID: M5221_S0010_G0390_001_robotoolshop
+JP: ヨロシクお願いします。
+EN: Safe travels!
+RU: 
+
+
+-- Section 8
+
+ID: M5221_S0010_G0370_001_a2
+JP: 全く……先が思いやられる。
+EN: This is going to suck...
+RU: 
+
+
+-- Section 9
+
+ID: M5221_S0020_G0000_001_a2
+JP: よし……
+EN: Finally...
+RU: 
+
+ID: M5221_S0020_G0010_001_a2
+JP: これで、パスカルの村の遊具に必要な材料は揃ったな。
+EN: This should be everything I need to make those bratty kids happy.
+RU: 
+
+ID: M5221_S0020_G0020_001_a2
+JP: 道具屋の所に行くか。
+EN: Better take it to that creep in the tool shop...
+RU: 
+
+
+-- Section 10
+
+ID: M5221_S0030_G0000_001_robotoolshop
+JP: ああ、オモチャのザイリョウを集めてきて下さったんですね？
+EN: Did you find the materials? Excellent!
+RU: 
+
+ID: M5221_S0030_G0010_001_robotoolshop
+JP: さっそく
+EN: Just give me a moment...
+RU: 
+
+ID: M5221_S0030_G0011_001_robotoolshop
+JP: ５分後……
+EN: 5 minutes later...
+RU: 
+
+ID: M5221_S0030_G0020_001_robotoolshop
+JP: 作って、設置してきました。
+EN: Done! I've built what you requested and installed it where the children like to play.
+RU: 
+
+ID: M5221_S0030_G0030_001_a2
+JP: 早いな。
+EN: That was fast.
+RU: 
+
+ID: M5221_S0010_G0141_001_robochild
+JP: そういえば子供達がオレイを言いたいそうです。
+EN: By the way, the children said they wanted to thank you personally.
+RU: 
+
+ID: M5221_S0030_G0040_001_robotoolshop
+JP: 子供達は村の最上部、スベリ台の一番上にいるので、\n良ければ遊んでやってください。
+EN: They're at the top of the village playing near the slide. They'll be happy to see you, I'm sure.
+RU: 
+
+
+-- Section 11
+
+ID: M5221_S0030_G0050_001_robochild
+JP: あ、オネエチャンだ！
+EN: Hey, it's Big Sis!
+RU: 
+
+ID: M5221_S0030_G0060_001_robochildren
+JP: オネエチャンダ！
+EN: Big Sis!
+RU: 
+
+ID: M5221_S0030_G0070_001_robochild
+JP: オユウグを作ってくれてアリガトー！
+EN: Thanks for building this, Big Sis!
+RU: 
+
+ID: M5221_S0030_G0080_001_robochildren
+JP: アリガトー！！
+EN: Yeah, thanks!
+RU: 
+
+ID: M5221_S0030_G0090_001_a2
+JP: ああ。
+EN: Uh, sure.
+RU: 
+
+ID: M5221_S0030_G0100_001_robochild
+JP: ネェネェ、オネエチャン。
+EN: Hey, Big Sis?
+RU: 
+
+ID: M5221_S0030_G0110_001_a2
+JP: な、何だ？もうお願いは叶えてやっただろう？
+EN: Huh? What now!?
+RU: 
+
+ID: M5221_S0030_G0120_001_robochild
+JP: ううん。コレ、ボクタチからのお礼。
+EN: Um...we just wanna...give you something? 'Cause you helped us?
+RU: 
+
+ID: M5221_S0030_G0130_001_robochild
+JP: アリガトウネ！
+EN: It's a thank-you present!
+RU: 
+
+ID: M5221_S0030_G0140_001_robochildren
+JP: アリガトウネ！
+EN: Yeah! Thank you!
+RU: 
+
+
+-- Section 12
+
+ID: M5221_S0000_G0020_300_robochild
+JP: オモチャタノシー！
+EN: This is sooo fuuuun!
+RU: 
+
+ID: M5221_S0000_G0030_300_robochildren
+JP: タノシー！
+EN: Yaaaaay! Fuuuuuun!
+RU: 
+
+ID: M5221_S0030_G0150_001_a2
+JP: ……ああ。
+EN: Yep. It's a thrill a minute.
+RU: 
+
+
+-- Section 13
+
+ID: M5221_S0030_G0170_001_a2
+JP: わっ……パスカル。
+EN: Argh! Don't do that, Pascal.
+RU: 
+
+ID: M5221_S0030_G0180_001_pascal
+JP: ああ、驚かせてしまってすみません。
+EN: I apologize if I scared you.
+RU: 
+
+ID: M5221_S0030_G0190_001_pascal
+JP: 子供達の為に遊具を作ってくれたそうで、ありがとうございます！
+EN: I heard you built some play equipment for our children and wanted to thank you in person.
+RU: 
+
+ID: M5221_S0030_G0200_001_a2
+JP: ああ。
+EN: Don't worry about it.
+RU: 
+
+ID: M5221_S0030_G0215_001_pascal
+JP: あまり……無理しないでくださいね。
+EN: Try not to overwork yourself, all right?
+RU: 
+
+ID: M5221_S0030_G0220_001_pascal
+JP: またいつでも、遊びに来てください。
+EN: Feel free to pay us another visit whenever you like.
+RU: 
+
+
+-- Section 14
+
+ID: M5221_S0030_G0160_001_pascal
+JP: Ａ２さん！
+EN: Ah! A2!
+RU: 
+
+
+-- Section 15
+
+ID: M5221_S0030_G0221_001_pascal
+JP: 平和的な機械生命体……か。
+EN: A group of pacifist machines, huh?
+RU: 
+
+
+-- Section 16
+
+ID: M5221_S0030_G0222_001_pascal
+JP: 推測：パスカル達と友好関係を結ぶ事でさらなる資材入手が可能。
+EN: Hypothesis: Forming a harmonious relationship with Pascal and the villagers may help unit A2 to obtain more materials.
+RU: 
+
+ID: M5221_S0030_G0223_001_pascal
+JP: 推奨：パスカル村の調査。
+EN: Proposal: Investigate the village.
+RU: 
+
+ID: M5221_S0030_G0224_001_pascal
+JP: ふん……
+EN: Hmph.
+RU: 
+
+

@@ -1,0 +1,663 @@
+-- Section 1
+
+ID: M5660_S0010_G0000_001_roborece
+JP: 遊園地にヨウコソ！コソコソ！
+EN: Hello hello! Welcome to the amusement park!
+RU: 
+
+ID: M5660_S0010_G0010_001_roborece
+JP: こちらはスタンプカードになります。スタンプを集めると景品をプレゼント！
+EN: Here's your stamp card. If you collect all the stamps, you'll win a free prize!
+RU: 
+
+
+-- Section 2
+
+ID: M5660_S0010_G0020_001_roborece
+JP: スタンプは園内のどこかにありマス。探してみてクダサイネ。
+EN: You'll find the stamps inside the amusement park. Make sure to search high and low!
+RU: 
+
+ID: M5660_S0010_G0030_001_roborece
+JP: ……ここダケのハナシ、景品はとっても豪華カモしれない可能性を秘メタ\n様子があるトイウ噂を聞キマスヨ？
+EN: And just between you and me, I hear that the prizes are more than just free—they're DELUXE!
+RU: 
+
+ID: M5660_S0010_G0040_001_roborece
+JP: それじゃあ、お楽しみクダサイ！
+EN: Off you go then. Good luck, and have fun!
+RU: 
+
+
+-- Section 3
+
+ID: M5660_S0010_G0020_001_roborece
+JP: スタンプは園内のどこかにありマス。探してみてクダサイネ。
+EN: You'll find the stamps inside the amusement park. Make sure to search high and low!
+RU: 
+
+ID: M5660_S0010_G0040_001_roborece
+JP: それじゃあ、お楽しみクダサイ！
+EN: Off you go then. Good luck, and have fun!
+RU: 
+
+
+-- Section 4
+
+ID: M5660_S0030_G0000_001_pod042
+JP: スタンプを発見。
+EN: Stamp discovered.
+RU: 
+
+ID: M5660_S0030_G0010_001_pod042
+JP: 推奨：カードへの押印。
+EN: Proposal: Imprint the stamp upon the card.
+RU: 
+
+
+-- Section 5
+
+ID: M5660_S0030_G0020_001_pod153
+JP: スタンプを発見。
+EN: Stamp discovered.
+RU: 
+
+ID: M5660_S0030_G0030_001_pod153
+JP: 推奨：カードへの押印。
+EN: Proposal: Imprint the stamp upon the card.
+RU: 
+
+
+-- Section 6
+
+ID: M5660_S0030_G0000_001_pod042
+JP: スタンプを発見。
+EN: Stamp discovered.
+RU: 
+
+ID: M5660_S0030_G0010_001_pod042
+JP: 推奨：カードへの押印。
+EN: Proposal: Imprint the stamp upon the card.
+RU: 
+
+
+-- Section 7
+
+ID: M5660_S0030_G0020_001_pod153
+JP: スタンプを発見。
+EN: Stamp discovered.
+RU: 
+
+ID: M5660_S0030_G0030_001_pod153
+JP: 推奨：カードへの押印。
+EN: Proposal: Imprint the stamp upon the card.
+RU: 
+
+
+-- Section 8
+
+ID: M5660_S0020_G0000_001_pod042
+JP: スタンプを発見。
+EN: Stamp discovered.
+RU: 
+
+ID: M5660_S0020_G0010_001_pod042
+JP: 用意された収集要素は可能な限り回収する事が合理的。
+EN: It is advisable to recover as many of these collectible items as possible.
+RU: 
+
+ID: M5660_S0020_G0020_001_pod042
+JP: 推奨：カードへの押印。
+EN: Proposal: Imprint the stamp upon the card.
+RU: 
+
+ID: M5660_S0020_G0030_001_a2b
+JP: スタンプ……
+EN: You mean "stamp it"?
+RU: 
+
+
+-- Section 9
+
+ID: M5660_S0020_G0040_001_pod153
+JP: スタンプを発見。
+EN: Stamp discovered.
+RU: 
+
+ID: M5660_S0020_G0050_001_pod153
+JP: 用意された収集要素は可能な限り回収する事が合理的。
+EN: It is advisable to recover as many of these collectible items as possible.
+RU: 
+
+ID: M5660_S0020_G0060_001_pod153
+JP: 推奨：カードへの押印。
+EN: Proposal: Imprint the stamp upon the card.
+RU: 
+
+ID: M5660_S0020_G0070_001_a9s
+JP: 真面目か……
+EN: You're taking this pretty seriously.
+RU: 
+
+
+-- Section 10
+
+ID: M5660_S0055_G0040_001_robosmail
+JP: アッハッハ……この世界ハおかしいネェ……
+EN: Aaaah ha ha ha! The world is hilarious!
+RU: 
+
+ID: M5660_S0055_G0050_001_robosmail
+JP: スタンプ？いくらでもアゲルヨ！ハッハッハ！
+EN: A stamp? Sure! I'll stamp whatever you want! Aaaaah ha ha ha!
+RU: 
+
+
+-- Section 11
+
+ID: M5660_S0055_G0040_001_robosmail
+JP: アッハッハ……この世界ハおかしいネェ……
+EN: Aaaah ha ha ha! The world is hilarious!
+RU: 
+
+
+-- Section 12
+
+ID: M5660_S0055_G0080_001_robokiller
+JP: フザケンナヨ！機械生命体ダッテ生キテルンダヨ！
+EN: BACK OFF, ASSHOLE! WE MACHINES ARE ALIVE! YOU GOT THAT?
+RU: 
+
+ID: M5660_S0055_G0090_001_robokiller
+JP: ミンナミンナシネ！スタンプもシネ！
+EN: YOU SHOULD DIE! ALL OF YOU SHOULD DIE! AND THIS GODDAMN STAMP SHOULD DIE TOO!
+RU: 
+
+
+-- Section 13
+
+ID: M5660_S0055_G0090_001_robokiller
+JP: ミンナミンナシネ！スタンプもシネ！
+EN: YOU SHOULD DIE! ALL OF YOU SHOULD DIE! AND THIS GODDAMN STAMP SHOULD DIE TOO!
+RU: 
+
+
+-- Section 14
+
+ID: M5660_S0055_G0000_001_roboeerie
+JP: スタンプ……ホシイの？
+EN: Saaaay. You...you wanna stamp?
+RU: 
+
+ID: M5660_S0055_G0010_001_roboeerie
+JP: じゃあアゲル……ふフッ……
+EN: Here... Take it... Eh heh heh heh...
+RU: 
+
+
+-- Section 15
+
+ID: M5660_S0055_G0010_001_roboeerie
+JP: じゃあアゲル……ふフッ……
+EN: Here... Take it... Eh heh heh heh...
+RU: 
+
+
+-- Section 16
+
+ID: M5660_S0055_G0020_001_roboyell
+JP: オイシャコラー！スタンプ？スタンプ！？
+EN: Yahoo! Stamps! Stamps stamps stamps!
+RU: 
+
+ID: M5660_S0055_G0030_001_roboyell
+JP: オッケーダゼ！スタンプオシテヤルゼ！ヤルゼ！
+EN: One stamp, comin' up! Oh yeah, I love stamps. Let's do this thing!
+RU: 
+
+
+-- Section 17
+
+ID: M5660_S0055_G0030_001_roboyell
+JP: オッケーダゼ！スタンプオシテヤルゼ！ヤルゼ！
+EN: One stamp, comin' up! Oh yeah, I love stamps. Let's do this thing!
+RU: 
+
+
+-- Section 18
+
+ID: M5660_S0055_G0060_001_robocry
+JP: うううっ……悲シイ……スタンプなんカホシインデスネ。
+EN: *sniff* S-So sad... I g-guess you want a dumb stamp, huh?
+RU: 
+
+ID: M5660_S0055_G0070_001_robocry
+JP: ホラ……ボクの涙デスタンプを押してあげ……ウワーン！
+EN: Fine... I'll stamp it with m-m-my tears! Waaaaaah!
+RU: 
+
+
+-- Section 19
+
+ID: M5660_S0055_G0060_001_robocry
+JP: うううっ……悲シイ……スタンプなんカホシインデスネ。
+EN: *sniff* S-So sad... I g-guess you want a dumb stamp, huh?
+RU: 
+
+
+-- Section 20
+
+ID: M5660_S0040_G0000_001_robozombie
+JP: イッショニ……アソボ……
+EN: Leeeet's...plaaaaay...
+RU: 
+
+ID: M5660_S0040_G0010_001_pod042
+JP: 敵の体内にスタンプを発見。
+EN: Stamp discovered inside enemy body.
+RU: 
+
+ID: M5660_S0040_G0020_001_pod042
+JP: 推奨：敵の破壊及びカードへの押印。
+EN: Proposal: Destroy the enemy and imprint the stamp upon the card.
+RU: 
+
+ID: M5660_S0040_G0030_001_a2b
+JP: って言われても……
+EN: Easy for you to say.
+RU: 
+
+
+-- Section 21
+
+ID: M5660_S0040_G0000_001_robozombie
+JP: イッショニ……アソボ……
+EN: Leeeet's...plaaaaay...
+RU: 
+
+ID: M5660_S0040_G0040_001_pod153
+JP: 敵の体内にスタンプを発見。
+EN: Stamp discovered inside enemy body.
+RU: 
+
+ID: M5660_S0040_G0050_001_pod153
+JP: 推奨：敵の破壊及びカードへの押印。
+EN: Proposal: Destroy the enemy and imprint the stamp upon the card.
+RU: 
+
+ID: M5660_S0040_G0060_001_a9s
+JP: 何でそんな所に……
+EN: Why the heck is there a stamp INSIDE a machine?
+RU: 
+
+
+-- Section 22
+
+ID: M5660_S0040_G0070_001_robozombie
+JP: アタシト……アソボ……
+EN: Plaaaay...with meeeee...
+RU: 
+
+ID: M5660_S0040_G0080_001_robozombie
+JP: アソボ……
+EN: Play...
+RU: 
+
+ID: M5660_S0040_G0090_001_robozombie
+JP: アーソーボー
+EN: Plaaaaay...
+RU: 
+
+
+-- Section 23
+
+ID: M5660_S0040_G0100_001_robozombie
+JP: アソンデクレテ……アリガトウ……
+EN: Thaaanks...for plaaaaying...with meeeee...
+RU: 
+
+
+-- Section 24
+
+ID: M5660_S0050_G0000_001_jyuri1
+JP: オオ！ロミオ！ロミオ！貴方は何故ロミオなの！
+EN: O Romeo, Romeo, wherefore art thou, Romeo?
+RU: 
+
+
+-- Section 25
+
+ID: M5660_S0050_G0010_001_romi1
+JP: アア！ジュリエット！ジュリエット！貴方は何故ジュリエットナノ？
+EN: Ah, Juliet, Juliet, wherefore art thou, Juliet?
+RU: 
+
+
+-- Section 26
+
+ID: M5660_S0050_G0020_001_jyuri2
+JP: オオ！ロミオ！ロミオ！一体ドレがロミオなの？
+EN: O Romeo, Romeo, which one of thou art Romeo?
+RU: 
+
+
+-- Section 27
+
+ID: M5660_S0050_G0030_001_romi2
+JP: アア！ジュリエット！ジュリエット！私にも良くわかラナインだ！
+EN: Ah Juliet, Juliet, I am not wholly sure!
+RU: 
+
+
+-- Section 28
+
+ID: M5660_S0050_G0040_001_jyuri3
+JP: オオ！ロミオ！ロミオ！ナラバ貴方の数を減らしましょう！
+EN: O Romeo, Romeo, then let us cull thy numbers!
+RU: 
+
+
+-- Section 29
+
+ID: M5660_S0050_G0050_001_romi3
+JP: アア！ジュリエット！ジュリエット！ナラバ君ノ命も奪ッテミセヨウ！
+EN: Ah Juliet, Juliet, then I shall take thy life!
+RU: 
+
+
+-- Section 30
+
+ID: M5660_S0050_G0060_001_jyuri1
+JP: 死ねイ！ロミオ！このクソ野郎！
+EN: Die, Romeo! Thou stupid asshole!
+RU: 
+
+
+-- Section 31
+
+ID: M5660_S0050_G0070_001_romi1
+JP: 生まレタ事を後悔サセテヤル！来いッ！
+EN: I shall make thee regret the day of thy birth!
+RU: 
+
+
+-- Section 32
+
+ID: M5660_S0050_G0080_001_jyuri2
+JP: 貴様ニ土の味を味アワセテやる！
+EN: I shall make thee taste dirt!
+RU: 
+
+
+-- Section 33
+
+ID: M5660_S0050_G0090_001_romi2
+JP: シネエエエエエエエエ！！！！
+EN: Diiiieeeeeee!
+RU: 
+
+
+-- Section 34
+
+ID: M5660_S0050_G0100_001_jyuri3
+JP: 滅びよ！呪ワレシ男ヨ！
+EN: Meet thy doom, O wretched man!
+RU: 
+
+
+-- Section 35
+
+ID: M5660_S0050_G0110_001_romi3
+JP: このクサレ女メ！世界から消エテ無くなれェエエ！
+EN: Begone from this world forever, wench!
+RU: 
+
+
+-- Section 36
+
+ID: M5660_S0050_G0120_001_jyuri1
+JP: 殺ス！
+EN: I'll kill thee!
+RU: 
+
+
+-- Section 37
+
+ID: M5660_S0050_G0130_001_jyuri2
+JP: ブッ壊ス！
+EN: I'll tear the shit out of thee!
+RU: 
+
+
+-- Section 38
+
+ID: M5660_S0050_G0140_001_jyuri3
+JP: イタイ！イタイ！
+EN: Owwww! Aaaah!
+RU: 
+
+
+-- Section 39
+
+ID: M5660_S0050_G0150_001_romi1
+JP: 破壊スル！
+EN: Destroy!
+RU: 
+
+
+-- Section 40
+
+ID: M5660_S0050_G0160_001_romi2
+JP: シネシネエ！！！！
+EN: Die die die!
+RU: 
+
+
+-- Section 41
+
+ID: M5660_S0050_G0170_001_romi3
+JP: バカチンがー！
+EN: Pisseth off!
+RU: 
+
+
+-- Section 42
+
+ID: M5660_S0050_G0180_001_jyuri3
+JP: ……
+EN: ......
+RU: 
+
+ID: M5660_S0050_G0190_001_jyuri3
+JP: アア……ロミオはモウイナイ。全部殺シテしまった！
+EN: My Romeos are no more. I have slain them each and all.
+RU: 
+
+
+-- Section 43
+
+ID: M5660_S0050_G0200_001_jyuri3
+JP: 私もオトモをイタシマス！
+EN: I must join them anon!
+RU: 
+
+
+-- Section 44
+
+ID: M5660_S0050_G0210_001_reception
+JP: えー、これにて『ロミオ達とジュリエット達』の上演を終わらせていただきます。
+EN: Ummm... Well, I suppose this marks the end of our production of "Romeos and Juliets."
+RU: 
+
+ID: M5660_S0050_G0220_001_reception
+JP: お足元にお気をつけてお帰りください。
+EN: Please watch your step as you exit.
+RU: 
+
+ID: M5660_S0050_G0230_001_reception
+JP: スタンプをご希望の方は、どうぞコチラまで。
+EN: If you'd like to have your card stamped, please come this way.
+RU: 
+
+
+-- Section 45
+
+ID: M5660_S0050_G0240_001_reception
+JP: はい、どうぞ。
+EN: Right then. Here you are.
+RU: 
+
+
+-- Section 46
+
+ID: M5660_S0050_G0250_001_reception
+JP: あれ？既にこのアトラクションはスタンプ押されていますね。
+EN: Hmm? You've already received the stamp for this attraction.
+RU: 
+
+
+-- Section 47
+
+ID: M5660_S0050_G0260_001_audience
+JP: アア、ジュリエット、ジュリエット……\n君ヲ思うと何故だかコアが熱クなるヨ……
+EN: Oh, Juliet, Juliet... Just thinking of you makes my core all warm and fuzzy.
+RU: 
+
+
+-- Section 48
+
+ID: M5660_S0050_G0270_001_audience
+JP: コノ劇、何カオカシクないカ？
+EN: This play doesn't make any sense at all.
+RU: 
+
+
+-- Section 49
+
+ID: M5660_S0050_G0280_001_audience
+JP: ブラボー、ナンテ素晴らしい劇ナんだ！
+EN: Bravo! Truly a most spectacular performance!
+RU: 
+
+
+-- Section 50
+
+ID: M5660_S0050_G0290_001_audience
+JP: ロミオが３体、ジュリエットが３体……\n最後はロミオもジュリエットも０体……
+EN: So we started out with 3 Romeos and 3 Juliets, and now there are none...
+RU: 
+
+ID: M5660_S0050_G0300_001_audience
+JP: ソウカ……コレガ真理か！
+EN: Wait! It's all starting to make sense now!!
+RU: 
+
+
+-- Section 51
+
+ID: M5660_S0050_G0310_001_audience
+JP: フム、コレが過去に残ル有名ナ文献か、ワタクシの見解によるとコノ話は\n人の残虐性を説いた物デスネ。
+EN: So this is a piece of literature from the old world? Hmmm. I believe it speaks of the cruelty of mankind.
+RU: 
+
+
+-- Section 52
+
+ID: M5660_S0050_G0320_001_audience
+JP: 感動スル劇がアルト聞いテ村からハルバル見ニ来たんダ。
+EN: I came all the way here from the village to see this play everyone's been talking about.
+RU: 
+
+ID: M5660_S0050_G0330_001_audience
+JP: コレが感動するとイウ事なんダネ！\n村に帰ったら友達ニモ教えてあげルンダ！
+EN: I haven't been this deeply moved by anything before! I'm going to go home and tell all my friends!
+RU: 
+
+
+-- Section 53
+
+ID: M5660_S0060_G0000_001_pod042
+JP: 報告：全てのスタンプを入手完了。
+EN: Alert: All stamps have been obtained.
+RU: 
+
+ID: M5660_S0060_G0010_001_pod042
+JP: 推奨：受付で豪華景品を入手。
+EN: Proposal: Return to the entrance and secure the promised "deluxe prize."
+RU: 
+
+ID: M5660_S0060_G0020_001_a2b
+JP: 豪華、景品……
+EN: Deluxe, huh?
+RU: 
+
+
+-- Section 54
+
+ID: M5660_S0060_G0030_001_pod153
+JP: 報告：全てのスタンプを入手完了。
+EN: Alert: All stamps have been obtained.
+RU: 
+
+ID: M5660_S0060_G0040_001_pod153
+JP: 推奨：受付で豪華景品を入手。
+EN: Proposal: Return to the entrance and secure the promised "deluxe prize."
+RU: 
+
+ID: M5660_S0060_G0050_001_a9s
+JP: 豪華、景品ねぇ……
+EN: Deluxe? We'll see...
+RU: 
+
+
+-- Section 55
+
+ID: M5660_S0060_G0060_001_roborece
+JP: スタンプを全て集めたんデスネ。オメデトウゴザイマス！
+EN: Hey, you got all the stamps! Great job!
+RU: 
+
+ID: M5660_S0060_G0070_001_roborece
+JP: 楽しんでイタダケマシタカ？イタダケマセンデシタカ？
+EN: Did you enjoy your time here? Or maybe not?
+RU: 
+
+ID: M5660_S0060_G0080_001_roborece
+JP: マアドチラデモいいです……ケド、本当はワカッテイルンデショウ？
+EN: Well, it doesn't really matter. Though I'm sure you realize that by now.
+RU: 
+
+ID: M5660_S0060_G0090_001_roborece
+JP: 貴方が楽シメルかドウカは、貴方ノ心ノ問題にしか存在シマセン。
+EN: Whether or not you enjoy something simply depends on your own heart.
+RU: 
+
+ID: M5660_S0060_G0100_001_roborece
+JP: コノ施設はソレを映し出す、鏡ノヨウナモノです。
+EN: This place is but a mirror that reflects one's true self back at them.
+RU: 
+
+ID: M5660_S0060_G0110_001_roborece
+JP: ハイ、コレをドウゾ。スタンプを全部集めた方へお渡しスル景品デス。
+EN: Anyway, here you go: One deluxe prize, coming up.
+RU: 
+
+ID: M5660_S0060_G0120_001_roborece
+JP: マタ遊びに来てクダサイネ！
+EN: Come again anytime!
+RU: 
+
+
+-- Section 56
+
+ID: M5660_S0060_G0090_001_roborece
+JP: 貴方が楽シメルかドウカは、貴方ノ心ノ問題にしか存在シマセン。
+EN: Whether or not you enjoy something simply depends on your own heart.
+RU: 
+
+ID: M5660_S0060_G0120_001_roborece
+JP: マタ遊びに来てクダサイネ！
+EN: Come again anytime!
+RU: 
+
+

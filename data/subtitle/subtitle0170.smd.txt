@@ -1,0 +1,80 @@
+ID: M1010_S0005_H0000_101_man
+JP: 西暦5012年
+EN: 5012 A.D.
+RU: 
+
+ID: M1010_S0005_H0010_101_man
+JP: 人類の華やかな歴史に突如終わりが訪れた。
+EN: The year mankind's glorious history came to a sudden and abrupt end...
+RU: 
+
+ID: M1010_S0005_H0020_101_man
+JP: 外宇宙から飛来したエイリアンによる侵略。
+EN: when the world was invaded by aliens from beyond the stars.
+RU: 
+
+ID: M1010_S0005_H0030_101_man
+JP: 異星人達の繰り出す兵器『機械生命体』によって人類文明は壊滅。
+EN: The aliens unleashed a new breed of weapon—machine lifeforms—that all but annihilated human civilization.
+RU: 
+
+ID: M1010_S0005_H0040_101_man
+JP: 生き延びた僅かな者達は、月に逃げ延びる事になった。
+EN: The handful of survivors that remained fled from Earth, seeking refuge on the moon.
+RU: 
+
+ID: M1010_S0005_H0050_101_man
+JP: 西暦5204年
+EN: 5204 A.D.
+RU: 
+
+ID: M1010_S0005_H0060_101_man
+JP: 衛星軌道上に敷設された基地群よりアンドロイドを使った反攻作戦が\n開始される。
+EN: Humanity launched its counterattack, deploying an army of androids from a network of orbiting bases.
+RU: 
+
+ID: M1010_S0005_H0070_101_man
+JP: 十数回に及ぶ大規模降下作戦を経てもなお、決定的な打撃を与えるには至っていない。
+EN: But after more than a dozen large-scale descents upon the enemy, we still haven't managed to repel the invaders.
+RU: 
+
+ID: M1010_S0005_H0080_101_man
+JP: この膠着状態に陥った戦況を打破するために
+EN: That is why you, the YoRHa forces, exist:
+RU: 
+
+ID: M1010_S0005_H0090_101_man
+JP: 君達ヨルハ部隊は存在するのだ。
+EN: To break this stalemate once and for all.
+RU: 
+
+ID: M1010_S0005_H0100_101_man
+JP: 最終決戦兵器としての役割を果たして欲しい。
+EN: You are our ultimate weapon...and you must put an end to this war.
+RU: 
+
+ID: M1010_S0005_H0110_101_cmd
+JP: はっ。承知しております。
+EN: Understood, sir.
+RU: 
+
+ID: M1010_S0005_H0120_101_man
+JP: 健闘を祈る
+EN: I wish you good hunting.
+RU: 
+
+ID: M1010_S0005_H0130_101_cmd
+JP: 人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+ID: M1010_S0005_H0140_101_yall
+JP: 人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+ID: M1010_S0005_H0150_101_man
+JP: 人類に……栄光あれ。
+EN: Glory...to mankind.
+RU: 
+

@@ -1,0 +1,75 @@
+-- Section 1
+
+ID: M1050_S0197_G0000_300_n02
+JP: これ以上の侵入を許すな！
+EN: Don't let them go any further!
+RU: 
+
+ID: M1050_S0197_G0010_300_n02
+JP: 恐れるな！進めー！
+EN: Stand strong! Move!
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0197_G0010_300_n02
+JP: 恐れるな！進めー！
+EN: Stand strong! Move!
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0197_G0040_300_n02
+JP: 許さんぞ侵略者め！
+EN: You'll pay for this, invaders!
+RU: 
+
+ID: M1050_S0197_G0050_300_n02
+JP: これ以上貴様らに何も奪わせはしない！
+EN: Don't let them take anything else from us!
+RU: 
+
+ID: M1050_S0197_G0060_300_n02
+JP: この国から出て行けー！
+EN: Leave our kingdom!
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0197_G0080_300_n02
+JP: 近頃ヨソ者の侵入が増えている……城の警備を強化しなくては。
+EN: More intruders are coming from the outside. We need to expand our castle's security.
+RU: 
+
+ID: M1050_S0197_G0090_300_n02
+JP: それに、森の近くに村を作っている機械生命体達にも警戒しなければ……
+EN: We'd best be wary of the machines building a village near the forest as well.
+RU: 
+
+ID: M1050_S0197_G0100_300_n02
+JP: 奴らの勢力がこれ以上拡大する前に先制攻撃を仕掛けよう！
+EN: We should launch a pre-emptive strike before their efforts proceed further!
+RU: 
+
+ID: M1050_S0197_G0110_300_n02
+JP: 我らが森の王の為に。
+EN: For the sake of our forest king.
+RU: 
+
+ID: M1050_S0197_G0120_300_n02
+JP: 森の王の為に。
+EN: For the sake of our king.
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0197_G0130_300_n02
+JP: て、敵だー！
+EN: Th-The enemy!
+RU: 
+
+

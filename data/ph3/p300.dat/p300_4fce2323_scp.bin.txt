@@ -1,0 +1,66 @@
+-- Section 1
+
+ID: M3030_S0025_G0000_001_a2
+JP: よし……あとはこれをパスカルの所に持っていけばいいんだな。
+EN: Right. Now I just have to bring this to Pascal...
+RU: 
+
+ID: M3030_S0025_G0010_001_pascal
+JP: ……聞こえますか！？Ａ２さん！
+EN: A2, can you hear me!?
+RU: 
+
+ID: M3030_S0025_G0020_001_a2
+JP: ああ、丁度良かった。頼まれていた素材は今……
+EN: Oh, perfect. I have the materials you asked me to—
+RU: 
+
+ID: M3030_S0025_G0030_001_pascal
+JP: Ａ２さんッ！村が‥…大変なんです！
+EN: Help, A2! The village is in great trouble!
+RU: 
+
+ID: M3030_S0025_G0040_001_pascal
+JP: 村人達が……ああっ！！
+EN: The villagers are— Oh, no...!
+RU: 
+
+ID: M3030_S0025_G0050_001_a2
+JP: おいっ！パスカル！？どうした？
+EN: Pascal? Pascal, are you there!?
+RU: 
+
+ID: M3030_S0025_G0060_001_a2
+JP: 一体……何が……！？
+EN: What the hell is going on!?
+RU: 
+
+ID: M3030_S0025_G0070_001_pod042
+JP: 推測：貴重な情報源であるパスカルに問題が発生。
+EN: Hypothesis: The valuable source of information known as Pascal has encountered difficulty.
+RU: 
+
+ID: M3030_S0025_G0080_001_pod042
+JP: 推奨：パスカルの村の状態調査。
+EN: Proposal: Unit A2 should investigate Pascal's village immediately.
+RU: 
+
+ID: M3030_S0025_G0090_001_a2
+JP: 言われなくても……！
+EN: I'm on my way!
+RU: 
+
+
+-- Section 2
+
+ID: M3030_S0025_G0100_300_pod042
+JP: 推奨：速やかなパスカル村の状態調査。
+EN: Proposal: Unit A2 should investigate the status of Pascal's village immediately.
+RU: 
+
+ID: M3030_S0025_G0110_300_a2
+JP: 分かってる。
+EN: I know.
+RU: 
+
+

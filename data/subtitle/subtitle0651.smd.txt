@@ -1,0 +1,20 @@
+ID: M1090_S0205_H0000_001_a2b
+JP: 大丈夫！？
+EN: You okay?
+RU: 
+
+ID: M1090_S0205_H0010_001_a9s
+JP: いやあ……命中して良かっ……
+EN: Good thing I...landed that direct...hit—
+RU: 
+
+ID: M1090_S0205_H0020_001_a9s
+JP: あれは……！？
+EN: Uh oh.
+RU: 
+
+ID: M1090_S0205_H0030_001_eve
+JP: 全部……全部、破壊してやルッ！！
+EN: You'll die... All of you are GOING TO DIE!
+RU: 
+

@@ -1,0 +1,304 @@
+-- Section 1
+
+ID: M5520_S0010_G0000_001_pascal
+JP: ああ……そうだ。出来れば少し手を貸していただきたい案件が\nあるのですが。
+EN: Hello there! Er, so I was wondering if you might help me with a small project.
+RU: 
+
+ID: M5520_S0010_G0010_001_pascal
+JP: 各地に散らばる、旧世界の情報を集めてきてほしいのです。
+EN: I'd like you to collect and bring back any information you find regarding the old world during your travels.
+RU: 
+
+ID: M5520_S0010_G0020_001_a9s
+JP: 旧世界の？どうして？
+EN: Really? Why?
+RU: 
+
+ID: M5520_S0010_G0030_001_pascal
+JP: この村をもっと暮らしやすくする為に、旧世界の遺産を有効活用したいと\n思いまして。
+EN: I'm hoping to use whatever knowledge remains of the old world to make life better for those here in the village.
+RU: 
+
+ID: M5520_S0010_G0040_001_pascal
+JP: もちろん、有益な情報があれば、あなた方にもお渡しします。\nどうか力を貸していただけませんか？
+EN: I'll be glad to share anything we find with you as well, of course. So would you be willing to assist us?
+RU: 
+
+ID: M5520_S0010_G0050_001_sele
+JP: 力を貸す。
+EN: Help him out.
+RU: 
+
+ID: M5520_S0010_G0060_001_sele
+JP: 貸さない。
+EN: Don't bother.
+RU: 
+
+
+-- Section 2
+
+ID: M5520_S0010_G0070_001_pascal
+JP: ありがとうございます。情報を見つけたら、私に見せてください。
+EN: Thank you. Please show me anything of interest you find.
+RU: 
+
+
+-- Section 3
+
+ID: M5520_S0010_G0080_001_pascal
+JP: なんと！旧世界の知識はあなた方にとっても重要な知識のはず……\n力を貸していただけませんか？
+EN: Oh? But surely knowledge of the old world would benefit you as well. Is there any chance you might reconsider?
+RU: 
+
+ID: M5520_S0010_G0050_001_sele
+JP: 力を貸す。
+EN: Help him out.
+RU: 
+
+ID: M5520_S0010_G0060_001_sele
+JP: 貸さない。
+EN: Don't bother.
+RU: 
+
+
+-- Section 4
+
+ID: M5520_S0010_G0090_001_pascal
+JP: この年老いた機械生命体を哀れと思って……力を貸していただけませんか？
+EN: Take pity on this poor old machine lifeform before you and lend us your aid!
+RU: 
+
+ID: M5520_S0010_G0050_001_sele
+JP: 力を貸す。
+EN: Help him out.
+RU: 
+
+ID: M5520_S0010_G0060_001_sele
+JP: 貸さない。
+EN: Don't bother.
+RU: 
+
+
+-- Section 5
+
+ID: M5520_S0010_G0100_001_pascal
+JP: そこをなんとか……
+EN: Please, my friend. Look inside yourself...
+RU: 
+
+ID: M5520_S0010_G0050_001_sele
+JP: 力を貸す。
+EN: Help him out.
+RU: 
+
+ID: M5520_S0010_G0060_001_sele
+JP: 貸さない。
+EN: Don't bother.
+RU: 
+
+
+-- Section 6
+
+ID: M5520_S0010_G0110_001_pascal
+JP: 旧世界の情報があれば、この村の子どもたちの暮らしも\nきっと楽になるでしょう……ご再考ください。
+EN: Relics of the old world are certain to make life easier for our children. I do hope you will reconsider.
+RU: 
+
+ID: M5520_S0010_G0050_001_sele
+JP: 力を貸す。
+EN: Help him out.
+RU: 
+
+
+-- Section 7
+
+ID: M5520_S0020_G0000_001_a9s
+JP: パスカルが欲しがってる旧世界の情報って……これ？
+EN: Hey, Pascal? Is this the kind of old-world information you were looking for?
+RU: 
+
+ID: M5520_S0020_G0010_001_pascal
+JP: おお！ありがとうございます……人類の情報は興味深いものばかりです。
+EN: Ah! Thank you so much. I find this data from mankind to be ever so fascinating...
+RU: 
+
+ID: M5520_S0020_G0020_001_pascal
+JP: これ、つまらないものですがお礼として……
+EN: I know it's not much, but please take this as thanks.
+RU: 
+
+
+-- Section 8
+
+ID: M5520_S0020_G0030_001_pascal
+JP: 素晴らしい！こんな貴重な情報、ありがとうございます……
+EN: Superb! Thank you for this valuable information.
+RU: 
+
+ID: M5520_S0020_G0040_001_pascal
+JP: こちらお礼となります。どうか受け取ってください。
+EN: Please take this as a reward.
+RU: 
+
+
+-- Section 9
+
+ID: M5520_S0010_G0075_300_pascal
+JP: 旧世界の情報を見つけたら教えてください。
+EN: Let me know if you find any data on the old world.
+RU: 
+
+
+-- Section 10
+
+ID: M5520_S0020_G0050_001_a9s
+JP: 旧世界の情報だ……けど、これ、内容が……
+EN: It's data from the old world, but it's...
+RU: 
+
+ID: M5520_S0020_G0060_001_pod153
+JP: 核分裂を用いた兵器の生成に関する情報。
+EN: This data is related to the creation of nuclear fission weapons.
+RU: 
+
+ID: M5520_S0020_G0070_001_a9s
+JP: ……これ、パスカルに渡してもいいんだろうか。
+EN: Oh, geez. I wonder if we should really hand this over to Pascal...
+RU: 
+
+ID: M5520_S0020_G0080_001_a9s
+JP: それとも司令官に……
+EN: I mean, the Commander might want it, right?
+RU: 
+
+ID: M5520_S0020_G0090_001_pod153
+JP: 判断をするのは９Ｓ。
+EN: Only unit 9S is qualified to make that decision.
+RU: 
+
+
+-- Section 11
+
+ID: M5520_S0020_G0100_001_pascal
+JP: これは……
+EN: Ah. Let me see...
+RU: 
+
+ID: M5520_S0020_G0110_001_pascal
+JP: ありがとうございます。貴重な情報ですね。
+EN: Oh my. This is valuable information indeed.
+RU: 
+
+ID: M5520_S0020_G0120_001_a9s
+JP: うん……
+EN: Yeah...
+RU: 
+
+ID: M5520_S0020_G0130_001_pascal
+JP: 核分裂のような技術は、私達にとっては失われた技術です。
+EN: Nuclear fission technology is something that was lost to us long ago.
+RU: 
+
+ID: M5520_S0020_G0140_001_pascal
+JP: 制御が難しい上に、環境に対する影響が大きい事から、私達を生み出した\n創造主が情報封印してしまったのです。
+EN: It presents many technical challenges, not to mention the devastating effects it has on the environment. This is why our creators had the data sealed away.
+RU: 
+
+ID: M5520_S0020_G0150_001_pascal
+JP: こんな危険な情報……受け取る訳にはいきません……
+EN: ...I'm sorry 9S, but I cannot accept this information. It is simply too dangerous.
+RU: 
+
+ID: M5520_S0020_G0160_001_a9s
+JP: ……そう。
+EN: Oh?
+RU: 
+
+ID: M5520_S0020_G0170_001_pascal
+JP: でも、わざわざ持ってきていただき、ありがとうございます。
+EN: However, I thank you for bringing it to my attention.
+RU: 
+
+ID: M5520_S0020_G0180_001_pascal
+JP: こちらお礼の品です。
+EN: Allow me to repay you with this.
+RU: 
+
+
+-- Section 12
+
+ID: M5520_S0020_G0190_001_pascal
+JP: ９Ｓさん……
+EN: 9S...
+RU: 
+
+ID: M5520_S0020_G0200_001_pascal
+JP: 核兵器を作らず、この村が滅んでしまったら、\n村の皆は私を恨むでしょうか……
+EN: If I reject the knowledge of nuclear weapons and our village is destroyed at some point in the future, do you think my people would resent me for it?
+RU: 
+
+ID: M5520_S0020_G0210_001_a9s
+JP: ……それを決めるのは、僕じゃない。
+EN: I don't know, Pascal. That's not for me to decide.
+RU: 
+
+ID: M5520_S0020_G0220_001_pascal
+JP: はい……
+EN: I see.
+RU: 
+
+
+-- Section 13
+
+ID: M5520_S0020_G0230_001_cmd
+JP: どうしたんだ？９Ｓ。
+EN: Yes, 9S? What is it?
+RU: 
+
+ID: M5520_S0020_G0240_001_a9s
+JP: 実は……旧世界の情報で核分裂に関する物を発見しました。
+EN: Commander, I've discovered data from the old world that includes information on nuclear fission.
+RU: 
+
+ID: M5520_S0020_G0250_001_a9s
+JP: この情報をどうしたらいいかと思って……
+EN: I wasn't sure what to do with it, so...
+RU: 
+
+ID: M5520_S0020_G0260_001_cmd
+JP: 核兵器か……
+EN: Nuclear armaments, is it?
+RU: 
+
+ID: M5520_S0020_G0270_001_cmd
+JP: 知ってると思うが、我々は人類会議からの指令によって核兵器の使用は\n制限されている。
+EN: As you're likely aware, by order of the Council of Humanity, our use of nuclear weapons is restricted.
+RU: 
+
+ID: M5520_S0020_G0280_001_cmd
+JP: しかし、敵である機械生命体も、どういう理由があるか分からないが\n核兵器を使用してこない。
+EN: However, I've always been curious as to why the machines also seem to abide by the same restrictions.
+RU: 
+
+ID: M5520_S0020_G0290_001_cmd
+JP: どういう理由があるか分からないが……いずれにせよ、この情報は\n保全しておいた方がいいな。
+EN: That's a riddle I may never solve, but at any rate, it's probably prudent for us to preserve the data.
+RU: 
+
+ID: M5520_S0020_G0300_001_a9s
+JP: 了解しました。
+EN: Understood.
+RU: 
+
+ID: M5520_S0020_G0310_001_cmd
+JP: ご苦労だった。情報提供の見返りと言う訳ではないが、\n自室にメンテナンス用の資材を配備しておくから使ってくれ。
+EN: Good work, 9S. And while I shouldn't reward you for doing your duty, I'll at least send some maintenance resources to your room. Feel free to make use of them.
+RU: 
+
+ID: M5520_S0020_G0320_001_a9s
+JP: ありがとうございます。
+EN: Thank you, Commander.
+RU: 
+
+

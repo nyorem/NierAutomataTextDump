@@ -1,0 +1,165 @@
+-- Section 1
+
+ID: M3030_S0100_G0000_300_n02
+JP: ダイジョウブダヨ、ニイチャンタチガツイテイルカラ
+EN: It's all right. You're safe with us.
+RU: 
+
+
+-- Section 2
+
+ID: M3030_S0100_G0010_300_n02
+JP: モウダイジョウブダヨ
+EN: It's all right now.
+RU: 
+
+
+-- Section 3
+
+ID: M3030_S0100_G0060_300_n02
+JP: シロハタ……アラソウキナイ……
+EN: White flag... No desire to fight...
+RU: 
+
+
+-- Section 4
+
+ID: M3030_S0100_G0030_300_n02
+JP: ダイジョウブ？
+EN: Are you okay?
+RU: 
+
+
+-- Section 5
+
+ID: M3030_S0100_G0040_300_n02
+JP: モウオワリダ……
+EN: It's all over...
+RU: 
+
+
+-- Section 6
+
+ID: M3030_S0100_G0020_300_n02
+JP: ウウ…コワイヨ……
+EN: Oooh, I'm scared...
+RU: 
+
+
+-- Section 7
+
+ID: M3030_S0100_G0040_300_n02
+JP: モウオワリダ……
+EN: It's all over...
+RU: 
+
+
+-- Section 8
+
+ID: M3030_S0100_G0050_300_n02
+JP: ウウ…カアチャン……
+EN: Nngh... Mommy...
+RU: 
+
+
+-- Section 9
+
+ID: M3030_S0100_G0070_300_n02
+JP: モウツカレタ……
+EN: I'm so tired...
+RU: 
+
+
+-- Section 10
+
+ID: M3030_S0100_G0080_300_n02
+JP: ネェ、カアチャンドコ？
+EN: Where's my mommy?
+RU: 
+
+
+-- Section 11
+
+ID: M3030_S0100_G0090_300_n02
+JP: ボクタチ、ナニモワルイコトシテナイ……
+EN: We didn't do anything bad...
+RU: 
+
+
+-- Section 12
+
+ID: M3030_S0100_G0100_300_n02
+JP: ホカノミンナハドコニイッタノ？
+EN: Where did everybody go?
+RU: 
+
+
+-- Section 13
+
+ID: M3030_S0100_G0110_300_n02
+JP: ミンナシンジャッタノ？
+EN: Is everyone dead?
+RU: 
+
+
+-- Section 14
+
+ID: M3030_S0100_G0120_300_n02
+JP: カラダモウナオラナイノ？
+EN: Their bodies won't get better?
+RU: 
+
+
+-- Section 15
+
+ID: M3030_S0100_G0130_300_n02
+JP: シンジャウッテナニ？
+EN: What does "dying" mean?
+RU: 
+
+
+-- Section 16
+
+ID: M3030_S0100_G0140_300_n02
+JP: カアチャンニモウアエナイノ？
+EN: I can't see mommy anymore?
+RU: 
+
+
+-- Section 17
+
+ID: M3030_S0100_G0150_300_n02
+JP: ナゼコンナコトニナッタノ……\nシズカニクラシテイタダケナノニ……
+EN: Why did this happen? We were just living our lives...
+RU: 
+
+
+-- Section 18
+
+ID: M3030_S0100_G0160_300_n02
+JP: ハヤクムラニカエリタイヨ……
+EN: I wanna go home...
+RU: 
+
+
+-- Section 19
+
+ID: M3030_S0100_G0170_300_n02
+JP: ダレカ、タスケテ……
+EN: Somebody help us...
+RU: 
+
+
+-- Section 20
+
+ID: M3030_S0100_G0200_300_pascal
+JP: Ａ２さん！？\nやめてください！！
+EN: A2!? Stop that at once!
+RU: 
+
+ID: M3030_S0100_G0210_300_pascal
+JP: 今破壊されると私達は元に戻れないのです！！\n冗談はやめて下さい！！
+EN: If we're destroyed now, we can't be restored! This isn't funny!
+RU: 
+
+

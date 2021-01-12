@@ -1,0 +1,59 @@
+-- Section 1
+
+ID: M3060_S0095_G0000_001_pod042
+JP: 報告：大型構造物、通称『塔』ゲートの開放を確認。
+EN: Alert: The structure known as the Tower has opened its gate.
+RU: 
+
+ID: M3060_S0095_G0010_001_a2
+JP: 行ってみるか……
+EN: Let's check it out.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0110_G0000_001_dbl
+JP: ああ……Ａ２か。
+EN: Ah... A2, right?
+RU: 
+
+ID: M3060_S0110_G0010_001_dbl
+JP: 塔の入り口は……開けておいた。
+EN: We...went ahead and opened the Tower.
+RU: 
+
+ID: M3060_S0110_G0020_001_dbl
+JP: ９Ｓが、先に行ってる……
+EN: 9S is already inside.
+RU: 
+
+ID: M3060_S0110_G0030_001_a2
+JP: ……そうか。
+EN: I see.
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S0120_S0000_001_dbl
+JP: ……なあ……
+EN: S-Say...
+RU: 
+
+ID: M3060_S0120_S0010_001_dbl
+JP: 私達は……
+EN: Did we...
+RU: 
+
+ID: M3060_S0120_S0020_001_dbl
+JP: 役に立ったか……？
+EN: Did we manage to help?
+RU: 
+
+ID: M3060_S0120_S0030_001_a2
+JP: ああ……
+EN: ...You did.
+RU: 
+
+

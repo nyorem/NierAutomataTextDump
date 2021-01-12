@@ -1,0 +1,337 @@
+-- Section 1
+
+ID: M5032_S0030_G0000_001_eng
+JP: 少々疲レタ……眠ル事ニスル……
+EN: I am tired. I must rest.
+RU: 
+
+
+-- Section 2
+
+ID: M5032_S0030_G0000_001_eng
+JP: 少々疲レタ……眠ル事ニスル……
+EN: I am tired. I must rest.
+RU: 
+
+
+-- Section 3
+
+ID: M5032_S0030_G0000_001_eng
+JP: 少々疲レタ……眠ル事ニスル……
+EN: I am tired. I must rest.
+RU: 
+
+
+-- Section 4
+
+ID: M5032_S0030_G0570_001_a9s
+JP: 壊れてる……機械の寿命が来たんだな……
+EN: No good. It's beyond repair. It must've finally reached the end of the line.
+RU: 
+
+
+-- Section 5
+
+ID: M5032_S0030_G0010_001_eng
+JP: ヤア、アンドロイド達。
+EN: Hello, androids.
+RU: 
+
+ID: M5032_S0030_G0020_001_eng
+JP: 暇ダカラ、話ヲ聞カセテクレ。
+EN: I have nothing to do. Tell me a story.
+RU: 
+
+ID: M5032_S0030_G0030_001_a2b
+JP: 話……
+EN: What?
+RU: 
+
+ID: M5032_S0030_G0040_001_a9s
+JP: 僕らの情報は機密事項が多いから話せないよ。
+EN: Er, there isn't much we can tell you. Most of our data is classified.
+RU: 
+
+ID: M5032_S0030_G0050_001_eng
+JP: 昔ノ話デ構ワナイ。
+EN: A story of the past would be fine.
+RU: 
+
+ID: M5032_S0030_G0060_001_eng
+JP: コノ街ハ、ドンナ街ダッタ？
+EN: Tell me about how this city used to be.
+RU: 
+
+ID: M5032_S0030_G0070_001_a9s
+JP: どんな……って。
+EN: Well, I suppose we can try.
+RU: 
+
+ID: M5032_S0030_G0080_001_a2b
+JP: 人類が沢山住んでいた……とても、沢山。
+EN: This city was once home to a great number of humans.
+RU: 
+
+ID: M5032_S0030_G0090_001_eng
+JP: 沢山ノ……人類。
+EN: Numbers beyond counting?
+RU: 
+
+ID: M5032_S0030_G0100_001_a9s
+JP: お前達が追い出したんだろう……
+EN: Something like that. Don't you remember driving them out of here?
+RU: 
+
+ID: M5032_S0030_G0110_001_eng
+JP: 私ガ製造サレタ時ニハ、人類ハ既ニ居ナカッタ。
+EN: Humans were already gone at the time of my manufacture.
+RU: 
+
+ID: M5032_S0030_G0120_001_eng
+JP: 私ガ知ッテイルノハ、コノ廃墟ト、アンドロイドダケダ。
+EN: All I know is ruin. And androids.
+RU: 
+
+ID: M5032_S0030_G0130_001_a9s
+JP: だからと言って、その罪が許される訳じゃない……
+EN: Regardless, don't expect us to forgive you for the sins of your people.
+RU: 
+
+ID: M5032_S0030_G0140_001_eng
+JP: 罪ノ概念ハ、我々機械生命体ニハ理解デキナイ。
+EN: Machine lifeforms do not comprehend the concept of "sin."
+RU: 
+
+ID: M5032_S0030_G0150_001_a9s
+JP: ……行こう、２Ｂ。
+EN: Let's go, 2B.
+RU: 
+
+ID: M5032_S0030_G0160_001_a2b
+JP: わかった。
+EN: Sounds good.
+RU: 
+
+
+-- Section 6
+
+ID: M5032_S0030_G0170_001_eng
+JP: ヤア。コノ前ハドウモ。
+EN: Thank you for visiting me previously.
+RU: 
+
+ID: M5032_S0030_G0180_001_a2b
+JP: 調子はどう？
+EN: How are you?
+RU: 
+
+ID: M5032_S0030_G0190_001_eng
+JP: 『ボチボチ』……トイウ感ジカ。
+EN: I am, as one says, "trucking along."
+RU: 
+
+ID: M5032_S0030_G0200_001_a2b
+JP: ……変わった言葉。
+EN: Does one actually say that?
+RU: 
+
+ID: M5032_S0030_G0210_001_eng
+JP: 暇ナノデ人類ノ記録ヲ読ンデイタ。
+EN: I have been reading through humanity's records to keep myself occupied.
+RU: 
+
+ID: M5032_S0030_G0220_001_eng
+JP: デ、質問ガ、アル。
+EN: This has led me to a question.
+RU: 
+
+ID: M5032_S0030_G0230_001_a2b
+JP: 質問？
+EN: Shoot.
+RU: 
+
+ID: M5032_S0030_G0240_001_eng
+JP: 『夜』トハ何カ？
+EN: What is "night"?
+RU: 
+
+ID: M5032_S0030_G0250_001_a2b
+JP: ……夜？
+EN: Night?
+RU: 
+
+ID: M5032_S0030_G0260_001_a9s
+JP: ああ、大昔にあった環境変化ですね。記録に残っています。
+EN: You must mean the cyclical cycle of light and dark that used to exist. The records mentioned that, did they?
+RU: 
+
+ID: M5032_S0030_G0270_001_a9s
+JP: 今は一日中太陽が出てますけど、昔は一日の半分は空が暗かったんですよ。
+EN: The sun never leaves the sky anymore, but apparently, it used to descend below the horizon for hours at a time.
+RU: 
+
+ID: M5032_S0030_G0280_001_a9s
+JP: バンカーから見る景色に似ていたそうです。
+EN: When that happened, it was like looking out of one of the Bunker's windows.
+RU: 
+
+ID: M5032_S0030_G0290_001_a2b
+JP: そうなんだ。
+EN: I didn't know that.
+RU: 
+
+ID: M5032_S0030_G0300_001_eng
+JP: 星……イツカ、見テミタイモノダ……
+EN: I would...like to see...stars sometime...
+RU: 
+
+
+-- Section 7
+
+ID: M5032_S0030_G0310_001_eng
+JP: ……
+EN: ......
+RU: 
+
+ID: M5032_S0030_G0320_001_a9s
+JP: どうした？機械生命体の癖に元気ないじゃないか。
+EN: What's going on? You seem pretty low, even by machine standards.
+RU: 
+
+ID: M5032_S0030_G0330_001_eng
+JP: ソロソロ、機械ノ……寿命ガ来ルヨウダ。
+EN: My lifespan's expiration period is drawing to a close.
+RU: 
+
+ID: M5032_S0030_G0340_001_a9s
+JP: ふうん。それで、修理して欲しいって？そんな身勝手な話……
+EN: Are you asking us to repair you? Because that's a pretty selfish request.
+RU: 
+
+ID: M5032_S0030_G0350_001_eng
+JP: イヤ……イイ。
+EN: No. Do not repair me.
+RU: 
+
+ID: M5032_S0030_G0360_001_a9s
+JP: え？
+EN: Huh?
+RU: 
+
+ID: M5032_S0030_G0370_001_eng
+JP: オマエノ……言ッテイタ……
+EN: I have been thinking about something.
+RU: 
+
+ID: M5032_S0030_G0380_001_eng
+JP: 『罪』ニツイテ考エテイタ。
+EN: Do you remember when you spoke of "sin"?
+RU: 
+
+ID: M5032_S0030_G0390_001_eng
+JP: 確カニ私……ハ……沢山ノ
+EN: You were right to call it so.
+RU: 
+
+ID: M5032_S0030_G0400_001_eng
+JP: アンドロイドヲ殺シタ。
+EN: I killed many of your kind. Killed androids beyond counting.
+RU: 
+
+ID: M5032_S0030_G0410_001_eng
+JP: ネットワーク接続……サレテイタ時ハ判ラナカッタガ……
+EN: It meant nothing while I was connected to the network.
+RU: 
+
+ID: M5032_S0030_G0420_001_eng
+JP: 今ハ、ソレガオマエ達ニトッテ……
+EN: But now I understand.
+RU: 
+
+ID: M5032_S0030_G0430_001_eng
+JP: 苦痛ダッタ事……ヲ理解出来ル。
+EN: I know the anguish it has caused you.
+RU: 
+
+ID: M5032_S0030_G0440_001_eng
+JP: 罪ハ贖ワナケレバナラナイ。
+EN: I must atone.
+RU: 
+
+ID: M5032_S0030_G0450_001_a9s
+JP: それは……
+EN: Wait. Are you...
+RU: 
+
+ID: M5032_S0030_G0460_001_eng
+JP: 私ガ死ンダラ……
+EN: My existence is ending. I am...dying.
+RU: 
+
+ID: M5032_S0030_G0470_001_eng
+JP: 素材ヲ……引キ抜イテ再利用スルトイイ。
+EN: Please take my parts...and use them elsewhere.
+RU: 
+
+ID: M5032_S0030_G0480_001_eng
+JP: サヨウナラ……アンドロイド……
+EN: Farewell...androids...
+RU: 
+
+ID: M5032_S0030_G0490_001_a9s
+JP: あっ……！
+EN: Ah!
+RU: 
+
+ID: M5032_S0030_G0500_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5032_S0030_G0510_001_a9s
+JP: 自分から死を選ぶなんて……
+EN: Wow... It just chose death.
+RU: 
+
+ID: M5032_S0030_G0520_001_a2b
+JP: 私達も、同じ。
+EN: We're no different.
+RU: 
+
+ID: M5032_S0030_G0530_001_a9s
+JP: え？
+EN: Huh? How so?
+RU: 
+
+ID: M5032_S0030_G0540_001_a2b
+JP: 同じように大量の機械生命体を破壊してきた。
+EN: We've destroyed machines beyond counting.
+RU: 
+
+ID: M5032_S0030_G0550_001_a2b
+JP: もしそれが罪だと問われたら……
+EN: Perhaps someone sees that as a sin.
+RU: 
+
+ID: M5032_S0030_G0560_001_a9s
+JP: ２Ｂ……
+EN: 2B...
+RU: 
+
+
+-- Section 8
+
+ID: M5032_S0030_G0580_001_eng
+JP: 自動防衛ヲ開始スル。
+EN: Commencing self-defense protocols.
+RU: 
+
+
+-- Section 9
+
+ID: M5032_S0030_G0590_001_eng
+JP: サスガヨルハ部隊……マイッタマイッタ……
+EN: Well done, YoRHa soldiers. I am...defeated...
+RU: 
+
+

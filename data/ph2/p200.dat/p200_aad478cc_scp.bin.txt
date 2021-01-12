@@ -1,0 +1,133 @@
+-- Section 1
+
+ID: M1080_S0050_G0110_101_prst
+JP: あちらの扉を開くと教祖様のいらっしゃるお部屋です。
+EN: That door leads to the sanctum of His Grace.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0050_G0120_101_prst
+JP: 神を信じるようになって心に安らぎが訪れました……
+EN: Once I accepted God into my heart, I was filled with serenity....
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0050_G0130_101_prst
+JP: 教祖様に私達はお導きいただいたのです……
+EN: How I yearn for His Grace to light the path forward for all...
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0050_G0140_101_prst
+JP: この地上から苦痛と戦争がなくなりますように……
+EN: May hardship and conflict be forever banished from this world...
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0050_G0120_101_prst
+JP: 神を信じるようになって心に安らぎが訪れました……
+EN: Once I accepted God into my heart, I was filled with serenity....
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0050_G0150_101_pascal
+JP: あの……私、パスカルと申します。
+EN: Um, hello. My name is Pascal.
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0050_G0160_101_pascal
+JP: 和平交渉についてお話をさせていただく為に……
+EN: I'm here to discuss the...peace treaty?
+RU: 
+
+
+-- Section 8
+
+ID: M1080_S0050_G0100_300_pascal
+JP: まずは彼らの話だけでも聞いてみましょう。
+EN: We should at least hear them out.
+RU: 
+
+
+-- Section 9
+
+ID: M1080_S0050_G0110_101_prst
+JP: あちらの扉を開くと教祖様のいらっしゃるお部屋です。
+EN: That door leads to the sanctum of His Grace.
+RU: 
+
+
+-- Section 10
+
+ID: M1080_S0050_G0120_101_prst
+JP: 神を信じるようになって心に安らぎが訪れました……
+EN: Once I accepted God into my heart, I was filled with serenity....
+RU: 
+
+
+-- Section 11
+
+ID: M1080_S0050_G0130_101_prst
+JP: 教祖様に私達はお導きいただいたのです……
+EN: How I yearn for His Grace to light the path forward for all...
+RU: 
+
+
+-- Section 12
+
+ID: M1080_S0050_G0140_101_prst
+JP: この地上から苦痛と戦争がなくなりますように……
+EN: May hardship and conflict be forever banished from this world...
+RU: 
+
+
+-- Section 13
+
+ID: M1080_S0050_G0120_101_prst
+JP: 神を信じるようになって心に安らぎが訪れました……
+EN: Once I accepted God into my heart, I was filled with serenity....
+RU: 
+
+
+-- Section 14
+
+ID: M1080_S0050_G0000_101_n02
+JP: 私達は、神の存在に気付きました。
+EN: We have come to know the existence of God.
+RU: 
+
+
+-- Section 15
+
+ID: M1080_S0050_G0010_101_n02
+JP: 神の名の下に、全ての存在は平等であらねばなりません。
+EN: And by His word, all living things are to be considered equal.
+RU: 
+
+
+-- Section 16
+
+ID: M1080_S0050_G0050_300_n02
+JP: おやめ下さい！！\n我々に戦闘の意思はありません！！
+EN: Stop! We have no desire to fight you!
+RU: 
+
+ID: M1080_S0050_G0060_300_pascal
+JP: 落ち着いて下さい！\n我々は和平交渉の為にここに来たのですから……
+EN: Please, you must be calm! We have come to negotiate peace with you!
+RU: 
+
+

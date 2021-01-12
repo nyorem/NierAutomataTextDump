@@ -1,0 +1,56 @@
+-- Section 1
+
+ID: M1060_S0077_G0000_001_a9s
+JP: くそっ！本体にも電磁波防壁があるのか……！
+EN: Oh, COME ON! Its got an electromagnetic barrier over its whole body!?
+RU: 
+
+ID: M1060_S0077_G0010_001_a4b
+JP: ははっ、苦戦しているようだな。
+EN: Heh. Having trouble over there?
+RU: 
+
+ID: M1060_S0077_G0020_001_a9s
+JP: ……ヨルハ部隊？
+EN: ...Are you YoRHa?
+RU: 
+
+ID: M1060_S0077_G0030_001_a4b
+JP: 北部１２Ｃ防衛本部から派遣された猟兵部隊だ。
+EN: Hunter squadron, deploying out of North 12C Defense HQ.
+RU: 
+
+ID: M1060_S0077_G0040_001_a4b
+JP: 私は隊長の４Ｂ。
+EN: I'm the commanding officer, 4B.
+RU: 
+
+ID: M1060_S0077_G0050_001_a4b
+JP: ここは我々に任せろ。
+EN: Don't worry—we'll take it from here.
+RU: 
+
+
+-- Section 2
+
+ID: M1060_S0077_G0060_001_a9s
+JP: ２B！
+EN: 2B!
+RU: 
+
+ID: M1060_S0077_G0070_001_a9s
+JP: ここは増援部隊に任せましょう。
+EN: Let's leave this area to the reinforcements.
+RU: 
+
+ID: M1060_S0077_G0080_001_a9s
+JP: 僕に考えがあります……
+EN: I have an idea.
+RU: 
+
+ID: M1060_S0077_G0090_001_a9s
+JP: 場所をポイントしました！そこで合流しましょう。
+EN: You and I should meet up at the spot I just marked.
+RU: 
+
+

@@ -1,0 +1,91 @@
+-- Section 1
+
+ID: M1080_S0080_G0080_201_a9s
+JP: よし。
+EN: Nice.
+RU: 
+
+ID: M1080_S0080_G0090_201_a9s
+JP: 次はこのまま、２Ｂのいる部屋のロックを解除……
+EN: Now I just have to unlock the door where 2B is...
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0080_G0091_201_a9s
+JP: あの機械生命体……この機体よりも耐久力が高そうだな……
+EN: That machine looks a lot tougher than this one...
+RU: 
+
+ID: M1080_S0080_G0092_201_a9s
+JP: こちらを警戒してないうちにハッキングで乗り換えましょう。
+EN: I should hack it and take control of it now while it's not suspecting anything.
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0080_G0100_300_a9s
+JP: ２Ｂのいる部屋に向かうには……\nこのまま工場の下層に向かえばいいのか……
+EN: If I want to reach 2B...I'll need to reach the factory's lower level first.
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0080_G0110_300_a9s
+JP: しまった！？\n……早く２Ｂの所へ行かないと。
+EN: Uh oh... I'd better get to 2B fast!
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0080_G0120_300_a9s
+JP: クソッ！\nもっとパワーのある機体に乗り換えた方が良いかもしれないな……
+EN: Damn it! Maybe I should've taken over something with a little more power...
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0080_G0200_300_n02
+JP: 止めろ！！
+EN: Stop!
+RU: 
+
+ID: M1080_S0080_G0210_300_n02
+JP: カミになるのだ！
+EN: We shall become gods!
+RU: 
+
+ID: M1080_S0080_G0220_300_n02
+JP: 何を考えてる！！回路が壊れたのか！？
+EN: What are you thinking!? Have your circuits failed you!?
+RU: 
+
+ID: M1080_S0080_G0230_300_n02
+JP: カミになるのだ！カミになるのだ！カミになるのだ！
+EN: We shall become gods! We shall become gods! We shall become gods!
+RU: 
+
+ID: M1080_S0080_G0240_300_n02
+JP: 一体皆に何が起こったというのだ……
+EN: What happened to all of you?
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0080_G0150_300_a9s
+JP: 停止したロボットの残骸……
+EN: Look at all these broken machines...
+RU: 
+
+ID: M1080_S0080_G0160_300_a9s
+JP: まだ幾つかは使えそうだな。\n念の為ここの座標をバンカーに送っておこう。
+EN: A few still look usable. Better send these coordinates to the Bunker, just in case.
+RU: 
+
+

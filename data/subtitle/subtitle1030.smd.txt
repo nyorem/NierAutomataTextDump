@@ -1,0 +1,10 @@
+ID: M3050_S0040_S0000_001_sku
+JP: こんにちは！資源回収ユニットです。防衛態勢に入ります！
+EN: Hello! This is the Resource Recovery Unit.\nNow activating defense mode!
+RU: 
+
+ID: M3050_S0040_S0001_001_a9s
+JP: 何度も何度も……
+EN: Over and over...
+RU: 
+

@@ -1,0 +1,34 @@
+-- Section 1
+
+ID: M1020_S0020_G0340_001_n02
+JP: 死ヌ　ニゲル　ニゲル　コワイ
+EN: Die... Run... Run... Scary...
+RU: 
+
+
+-- Section 2
+
+ID: M1020_S0020_G0350_001_a9s
+JP: あっちの岩場に逃げましたよ！
+EN: It's heading for that rocky area!
+RU: 
+
+ID: M1020_S0020_G0360_011_pod042
+JP: ターゲット個体識別信号をマーク
+EN: Individual target ID marked.
+RU: 
+
+
+-- Section 3
+
+ID: M1020_S0020_G0350_001_a9s
+JP: あっちの岩場に逃げましたよ！
+EN: It's heading for that rocky area!
+RU: 
+
+ID: M1020_S0020_G0370_021_pod153
+JP: ターゲット個体識別信号をマーク
+EN: Individual target ID marked.
+RU: 
+
+

@@ -1,0 +1,120 @@
+-- Section 1
+
+ID: M1030_S0500_S0000_201_eve
+JP: なぁ……にぃちゃん。
+EN: Brother...?
+RU: 
+
+
+-- Section 2
+
+ID: M1030_S0500_S0010_201_eve
+JP: なんで下着なんて面倒なモノを履く必要があるんだ？
+EN: Why do we have to wear undergarments?\nIt's such a hassle.
+RU: 
+
+
+-- Section 3
+
+ID: M1030_S0500_S0020_201_adam
+JP: 記録によると、人間は股間を隠して生きていたそうだ。
+EN: The records claim humans covered their crotches as they went about their business.
+RU: 
+
+
+-- Section 4
+
+ID: M1030_S0500_S0030_201_adam
+JP: 股間を露出するのは、問題のある行為……とされていたらしい。
+EN: Revealing one's genitals was seen as...problematic.
+RU: 
+
+
+-- Section 5
+
+ID: M1030_S0500_S0040_201_adam
+JP: 黙って履いてろ。イヴ。
+EN: So just be quiet and wear them already.
+RU: 
+
+
+-- Section 6
+
+ID: M1030_S0500_S0050_201_eve
+JP: 判ったよ……
+EN: Okay...
+RU: 
+
+
+-- Section 7
+
+ID: M1030_S0500_S0060_201_eve
+JP: でも、何でこの植物を食わなくちゃいけないんだ？
+EN: But why are we eating this plant matter?
+RU: 
+
+
+-- Section 8
+
+ID: M1030_S0500_S0070_201_eve
+JP: 俺達機械生命体は、こんなの食わなくても動けるよ。
+EN: Machines don't need to eat things like this.
+RU: 
+
+
+-- Section 9
+
+ID: M1030_S0500_S0080_201_adam
+JP: これは果実の一種だ。
+EN: This is a type of fruit.
+RU: 
+
+
+-- Section 10
+
+ID: M1030_S0500_S0090_201_adam
+JP: なんでも人はこれを食べる事で知性を得る事が出来たらしい。
+EN: Our data suggests that mankind gained great intelligence from consuming fruit.
+RU: 
+
+
+-- Section 11
+
+ID: M1030_S0500_S0100_201_adam
+JP: ガタガタ言わずに、黙って食べろ。
+EN: So quit griping and eat it already.
+RU: 
+
+
+-- Section 12
+
+ID: M1030_S0500_S0110_201_eve
+JP: わかったよ……にぃちゃんが言うのなら、食べるよ……
+EN: All right. If that's what you want.
+RU: 
+
+
+-- Section 13
+
+ID: M1030_S0500_S0120_201_eve
+JP: でも、これが終わったら、一緒に遊んでくれる？
+EN: But once we're done, can we play together for a bit?
+RU: 
+
+
+-- Section 14
+
+ID: M1030_S0500_S0130_201_adam
+JP: ……ああ。
+EN: ...Fine.
+RU: 
+
+
+-- Section 15
+
+ID: M1030_S0500_S0140_201_eve
+JP: じゃあ、頑張って食べるよ……！
+EN: Aw, great, then I'll eat lots of fruit!
+RU: 
+
+

@@ -1,0 +1,97 @@
+-- Section 1
+
+ID: M1050_S0130_S0000_201_telo
+JP: ２５６年前
+EN: 256 Years Ago...
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0130_S0010_201_largerobot
+JP: 我らが配備されたこの森……
+EN: This forest we are stationed in...
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0130_S0020_201_largerobot
+JP: 湿度が高く、不衛生であり、機械生命体には過酷な環境……
+EN: It is hot. Humid. Unhygienic. A punishing hell for machine lifeforms.
+RU: 
+
+ID: M1050_S0130_S0030_201_largerobot
+JP: あまりと言えば、あまりな境遇。
+EN: None should have to live in such a place.
+RU: 
+
+ID: M1050_S0130_S0040_201_largerobot
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0130_S0050_201_largerobot
+JP: ……我は決意した。
+EN: I have decided.
+RU: 
+
+ID: M1050_S0130_S0060_201_largerobot
+JP: この地を我らの王国とし、独立を宣言する！
+EN: I shall make this our kingdom and declare our independence!
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0130_S0070_201_smallrobot
+JP: あのう……
+EN: Ummm...
+RU: 
+
+ID: M1050_S0130_S0080_201_smallrobot
+JP: オウコク……って何ダベさ？
+EN: What's a kingdom?
+RU: 
+
+
+-- Section 6
+
+ID: M1050_S0130_S0090_201_largerobot
+JP: 王国とは、大きな家のようなモノだ。
+EN: Well, it's sort of like a large house.
+RU: 
+
+ID: M1050_S0130_S0100_201_largerobot
+JP: そして国民とは、家族のようなモノだ。
+EN: And inside this house, all our people live together as family.
+RU: 
+
+
+-- Section 7
+
+ID: M1050_S0130_S0110_201_smallrobot
+JP: 家族ダベか……
+EN: Fam...ily...
+RU: 
+
+
+-- Section 8
+
+ID: M1050_S0130_S0120_201_smallrobot
+JP: 家族……良いかもしんねぇな！
+EN: I suppose a family might be...good?
+RU: 
+
+
+-- Section 9
+
+ID: M1050_S0130_S0130_201_smallrobot
+JP: んだんだ……良いかもしんねぇな！
+EN: Yeah! Families are good!
+RU: 
+
+

@@ -1,0 +1,317 @@
+-- Section 1
+
+ID: M5180_S0010_G0000_001_a9s
+JP: あれ？オペレーターさん何してるんですか？
+EN: Um, Operator? What are you doing?
+RU: 
+
+ID: M5180_S0010_G0010_001_op210
+JP: 何って、データ解析です。
+EN: What am I doing? I am analyzing data.
+RU: 
+
+ID: M5180_S0010_G0020_001_a9s
+JP: データ解析？それが今の任務ですか？
+EN: Is this part of your current assignment?
+RU: 
+
+ID: M5180_S0010_G0030_001_op210
+JP: いいえ？単なる趣味です。
+EN: No, it is merely a hobby.
+RU: 
+
+ID: M5180_S0010_G0040_001_a9s
+JP: 単なる趣味……どうしてそんな事を……
+EN: Wait, really?
+RU: 
+
+ID: M5180_S0010_G0050_001_op210
+JP: 座標データ、通信ログデータ、撮影された画像データ……\n世界には沢山のデータがあります。
+EN: The world contains a vast amount of data. Coordinates. Network node readings. Photographic images. And so on.
+RU: 
+
+ID: M5180_S0010_G0060_001_op210
+JP: それらのデータを解析する事で新たに見えてくる情報があります。
+EN: Analyzing this data can often lead to discovering new information.
+RU: 
+
+ID: M5180_S0010_G0070_001_op210
+JP: 私はそれらの情報を発見するのが趣味です。
+EN: I spend my downtime seeking out such information.
+RU: 
+
+ID: M5180_S0010_G0080_001_a9s
+JP: データの解析……なんか面白くなさそうに感じるんですけど。
+EN: That seems kind of boring. I mean, no offense.
+RU: 
+
+ID: M5180_S0010_G0090_001_op210
+JP: 少なくとも貴方と無駄な雑談するより有用だと判断します。
+EN: It is more interesting than engaging in mindless banter.
+RU: 
+
+ID: M5180_S0010_G0100_001_a9s
+JP: ヒドイ！
+EN: Hey!
+RU: 
+
+ID: M5180_S0010_G0110_001_op210
+JP: あ、この雑談が無駄ではなくなる良い方法があります。
+EN: Still, there might be a way to make this chatter less mindless.
+RU: 
+
+ID: M5180_S0010_G0120_001_op210
+JP: 衛星からではアクセス出来ない情報端末が廃工場跡地にあります。
+EN: There is a data terminal in the abandoned factory that I cannot access with our satellites.
+RU: 
+
+ID: M5180_S0010_G0130_001_op210
+JP: それらの端末にアクセスし、情報を転送してください。
+EN: If you feel like helping, you can head over there and transfer the data to me.
+RU: 
+
+ID: M5180_S0010_G0140_001_sele
+JP: わかった！すぐ調べてみるよ！
+EN: Happily agree to help.
+RU: 
+
+ID: M5180_S0010_G0150_001_sele
+JP: ええっ？面倒だなあ……
+EN: Grumble about what a pain that would be.
+RU: 
+
+
+-- Section 2
+
+ID: M5180_S0010_G0160_001_op210
+JP: 良い返事ですね。それでは調査すべき位置座標を送信しておきます。
+EN: Wonderful. I'll send the coordinates at once.
+RU: 
+
+ID: M5180_S0010_G0165_001_op210
+JP: 端末は工場内の判りづらい場所にあるので気をつけてください。
+EN: The terminal is kind of hard to find, so keep your eyes peeled.
+RU: 
+
+ID: M5180_S0010_G0170_001_a9s
+JP: はーい。じゃ、調べたらまた連絡しますね～
+EN: I'll let you know once I find it.
+RU: 
+
+
+-- Section 3
+
+ID: M5180_S0010_G0180_001_op210
+JP: それでは調査すべき位置座標を送信しておきます。
+EN: I'll send the coordinates at once.
+RU: 
+
+ID: M5180_S0010_G0190_001_a9s
+JP: ええっ！？調査するなんて言ってませんよ！
+EN: What? Hey! I didn't agree to help!
+RU: 
+
+ID: M5180_S0010_G0200_001_op210
+JP: 調査しないとも言ってませんでしたから。
+EN: You also didn't refuse.
+RU: 
+
+ID: M5180_S0010_G0210_001_a9s
+JP: ヒドイ！
+EN: Oh, come on!
+RU: 
+
+ID: M5180_S0010_G0211_001_op210
+JP: 端末は工場内の判りづらい場所にあるので頑張って探してください。
+EN: The terminal is kind of hard to find, but I know you can do it.
+RU: 
+
+
+-- Section 4
+
+ID: M5180_S0010_G0220_001_op210
+JP: 廃工場跡地での情報調査、お願いしましたよ。
+EN: Please examine the abandoned factory at your earliest convenience.
+RU: 
+
+
+-- Section 5
+
+ID: M5180_S0020_G0000_001_a9s
+JP: この工場、機械生命体の巣みたいになってるな。
+EN: This whole place is like a giant machine's nest.
+RU: 
+
+ID: M5180_S0020_G0010_001_a9s
+JP: 以前はどんな場所だったんだろう……
+EN: I wonder what it used to be like?
+RU: 
+
+ID: M5180_S0020_G0020_001_pod153
+JP: 参照結果：人類文明が健在だった頃の兵器生産工場。
+EN: Accessing historical records...
+RU: 
+
+ID: M5180_S0020_G0030_001_pod153
+JP: 兵器生産と実験を行っていた。
+EN: Analysis: This location was once used for weapons production and experimentation.
+RU: 
+
+ID: M5180_S0020_G0040_001_a9s
+JP: へぇ……どんな武器を作っていたの？
+EN: No kidding? What kind of weapons?
+RU: 
+
+ID: M5180_S0020_G0050_001_pod153
+JP: 主に人型兵器を製造。代表モデル名はＰ−２２、Ｐ−３３。
+EN: Humanoid combat robots. Common examples include the P-22 and P-33 models.
+RU: 
+
+ID: M5180_S0020_G0060_001_a9s
+JP: 人型の兵器かぁ。飛行ユニットみたいな感じかなぁ。
+EN: Human-shaped weapons, huh? Wonder if they worked like flight units.
+RU: 
+
+ID: M5180_S0020_G0070_001_pod153
+JP: 当該兵器の写真資料は現存せず。
+EN: Unknown. No image-based information exists.
+RU: 
+
+
+-- Section 6
+
+ID: M5180_S0030_G0000_001_a9s
+JP: あそこからデータにアクセスできるみたいだな……
+EN: I think I can access the data over there...
+RU: 
+
+
+-- Section 7
+
+ID: M5180_S0030_G0010_001_a9s
+JP: オペレーターさんの言ってたデータは入手出来たな。
+EN: There we go. That's what 21O wanted.
+RU: 
+
+ID: M5180_S0030_G0020_001_a9s
+JP: あとは、このデータを送信すればいいな。
+EN: Now I just have to send it to her.
+RU: 
+
+ID: M5180_S0030_G0030_001_pod153
+JP: 報告：本場所は電波強度が不十分。
+EN: Alert: Poor reception in this area is preventing data upload.
+RU: 
+
+ID: M5180_S0030_G0040_001_pod153
+JP: 推奨：通信環境の良い場所への移動。
+EN: Proposal: Unit 9S should move to an area with better reception.
+RU: 
+
+ID: M5180_S0030_G0050_001_a9s
+JP: 了解。
+EN: Got it.
+RU: 
+
+
+-- Section 8
+
+ID: M5180_S0030_G0060_001_a9s
+JP: ここなら通信可能だな……
+EN: This should be good enough...
+RU: 
+
+ID: M5180_S0030_G0070_001_a9s
+JP: ポッド。オペレーターさん宛にデータをアップロードして。
+EN: Pod, upload that data to Operator 21O.
+RU: 
+
+ID: M5180_S0030_G0080_001_pod153
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+ID: M5180_S0030_G0090_001_op210
+JP: オペレーター２１Ｏより９Ｓへ。応答願います。
+EN: Operator 21O to 9S, come in.
+RU: 
+
+ID: M5180_S0030_G0100_001_a9s
+JP: はい。こちら９Ｓ。
+EN: This is 9S.
+RU: 
+
+ID: M5180_S0030_G0110_001_op210
+JP: データの受領を確認しました。
+EN: I received the data you sent.
+RU: 
+
+ID: M5180_S0030_G0120_001_op210
+JP: 現在解析していますが……これは興味深いですね。
+EN: It's...fascinating.
+RU: 
+
+ID: M5180_S0030_G0130_001_op210
+JP: このデータは過去に工場で働いていた人類の日記のようです。
+EN: It appears to be the journal of a human who once worked in the factory.
+RU: 
+
+ID: M5180_S0030_G0140_001_a9s
+JP: 日記？
+EN: What, like a diary?
+RU: 
+
+ID: M5180_S0030_G0150_001_op210
+JP: その日記によると、毎日長時間工場で労働していたのですが、
+EN: Yes. According to this, the man worked long hours on an almost daily basis.
+RU: 
+
+ID: M5180_S0030_G0160_001_op210
+JP: 『まるで機械のように働いている』と記載されています。
+EN: He says, and I quote, "They are working me like a machine."
+RU: 
+
+ID: M5180_S0030_G0170_001_op210
+JP: 機械のようになりながら、工場で機械を作る……\n人類は不思議ですね。
+EN: Working like a machine to build a machine? Humans truly were strange creatures.
+RU: 
+
+ID: M5180_S0030_G0180_001_a9s
+JP: なるほど……
+EN: Sounds like it.
+RU: 
+
+ID: M5180_S0030_G0190_001_op210
+JP: 後ほどメールで特別報酬を送信します。
+EN: I'll send your reward later.
+RU: 
+
+ID: M5180_S0030_G0200_001_a9s
+JP: 報酬？報酬がもらえるんですか？
+EN: Wait, I can get rewarded for doing this?
+RU: 
+
+ID: M5180_S0030_G0210_001_op210
+JP: 報酬を渡さないとは一言も言っていません。
+EN: I didn't say you would not get a reward.
+RU: 
+
+ID: M5180_S0030_G0220_001_a9s
+JP: それは、そうですけど～
+EN: Noooooo, but...
+RU: 
+
+ID: M5180_S0030_G0230_001_a9s
+JP: ……てか、通信切れてるし。
+EN: H-Hey! Don't disconnect me!
+RU: 
+
+
+-- Section 9
+
+ID: M5920_S0020_G0180_001_pod153
+JP: 報告：アクセスポイントからメール受信の連絡。
+EN: Report: Mail notification received from access point.
+RU: 
+
+

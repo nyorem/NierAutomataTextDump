@@ -1,0 +1,585 @@
+-- Section 1
+
+ID: M6020_S0000_G0010_300_eml
+JP: あっ！いらっしゃい！
+EN: Oh! Heya!
+RU: 
+
+ID: M5900_S0010_G0000_001_eml
+JP: すっかり……強くなりましたね……もう、僕の手助けは要らないですよね。
+EN: Wow, you've sure gotten strong! I doubt you'll be needing my help anymore.
+RU: 
+
+ID: M5900_S0010_G0010_001_a2b
+JP: どういう意味？
+EN: What do you mean?
+RU: 
+
+ID: M5900_S0010_G0020_001_a9s
+JP: どういう意味？
+EN: What do you mean?
+RU: 
+
+ID: M5900_S0010_G0030_001_a2
+JP: どういう意味だ？
+EN: What do you mean?
+RU: 
+
+ID: M5900_S0010_G0040_001_eml
+JP: いえ、何でもないです。お元気で。
+EN: Um, nothing. Don't worry about it. Take care now!
+RU: 
+
+
+-- Section 2
+
+ID: M5900_S0010_G0050_001_a2b
+JP: なんだか、エミールの様子がおかしい……
+EN: Emil sure is acting odd.
+RU: 
+
+ID: M5900_S0010_G0060_001_a2b
+JP: ポッド。
+EN: Pod—
+RU: 
+
+ID: M5900_S0010_G0070_001_pod042
+JP: 既に追跡マーカーを使用。現在、砂漠方面に向かっている事を確認。
+EN: Pursuit marker placed on map. Target is heading toward the desert.
+RU: 
+
+ID: M5900_S0010_G0080_001_a2b
+JP: わかった。
+EN: Nice work.
+RU: 
+
+ID: M5900_S0010_G0090_001_a9s
+JP: なんだか、エミールの様子がおかしいな……
+EN: Emil sure is acting kind of weird.
+RU: 
+
+ID: M5900_S0010_G0100_001_a9s
+JP: ポッド。
+EN: Pod—
+RU: 
+
+ID: M5900_S0010_G0110_001_pod153
+JP: 既に追跡マーカーを使用。現在、砂漠方面に向かっている事を確認。
+EN: Pursuit marker placed on map. Target is heading toward the desert.
+RU: 
+
+ID: M5900_S0010_G0120_001_a9s
+JP: 用意がいいな。追うぞ。
+EN: Heh. Nice work. Let's go find him.
+RU: 
+
+ID: M5900_S0010_G0130_001_a2
+JP: なんだか、あの丸っこいのの様子がおかしいな……
+EN: That round guy is acting kind of strange.
+RU: 
+
+ID: M5900_S0010_G0140_001_a2
+JP: ポッド。
+EN: Pod—
+RU: 
+
+ID: M5900_S0010_G0150_001_pod042
+JP: 既に追跡マーカーを使用。現在、砂漠方面に向かっている事を確認。
+EN: Pursuit marker placed on map. Target is heading toward the desert.
+RU: 
+
+ID: M5900_S0010_G0160_001_a2
+JP: 準備良すぎるよ……まあ、いいけど。
+EN: Huh. Maybe you're not totally useless after all.
+RU: 
+
+
+-- Section 3
+
+ID: M5900_S0020_S0000_001_a2b
+JP: これは……エミール？？
+EN: Are these... Emil?
+RU: 
+
+ID: M5900_S0020_S0010_001_a9s
+JP: これは……エミール！？
+EN: Are these... Emil?
+RU: 
+
+ID: M5900_S0020_S0020_001_a2
+JP: ここは……一体……
+EN: What in the goddamn...?
+RU: 
+
+
+-- Section 4
+
+ID: M5900_S0020_S0030_001_a2b
+JP: エミールッ！！
+EN: Emil!
+RU: 
+
+ID: M5900_S0020_S0040_001_a9s
+JP: エミール！！
+EN: Emil!
+RU: 
+
+ID: M5900_S0020_S0050_001_a2
+JP: おいっ！大丈夫か！？
+EN: Round thing! You okay!?
+RU: 
+
+ID: M5900_S0020_S0060_001_eml
+JP: 気を……つけて……
+EN: Watch...out...
+RU: 
+
+ID: M5900_S0020_S0070_001_eml
+JP: まだ……生きて……
+EN: They're still...alive...
+RU: 
+
+
+-- Section 5
+
+ID: M5900_S0030_H0000_001_a2b
+JP: なっ……
+EN: Wha...
+RU: 
+
+ID: M5900_S0040_H0000_001_a9s
+JP: 何だ……！？
+EN: What is THAT!?
+RU: 
+
+ID: M5900_S0050_H0000_001_a2
+JP: 何だッ……これは！？
+EN: Oh, are you kidding me?
+RU: 
+
+ID: M5900_S0100_G0000_001_emls
+JP: グアアァァァウアアアアアッッ！！！
+EN: 
+RU: 
+
+ID: M5900_S0100_G0010_001_a2b
+JP: くそっ……
+EN: Dammit...
+RU: 
+
+ID: M5900_S0100_G0040_001_pod042
+JP: 警告：旧世界の魔法兵器。
+EN: Alert: Magical weapons from the old world detected.
+RU: 
+
+ID: M5900_S0100_G0050_001_pod042
+JP: 魔素を利用した攻撃はあらゆる防御システムを貫通する可能性あり。
+EN: Magical elements have a high probability of penetrating all defense systems.
+RU: 
+
+ID: M5900_S0100_G0060_001_pod042
+JP: 推奨：回避。
+EN: Proposal: Evade.
+RU: 
+
+ID: M5900_S0100_G0070_001_a2b
+JP: そんな事言われたって……
+EN: Sound advice.
+RU: 
+
+ID: M5900_S0100_G0020_001_a9s
+JP: 何だよ、これッ！！
+EN: What's happening!?
+RU: 
+
+ID: M5900_S0100_G0090_001_pod153
+JP: 警告：旧世界の魔法兵器。
+EN: Alert: Magical weapons from the old world detected.
+RU: 
+
+ID: M5900_S0100_G0100_001_pod153
+JP: 魔素を利用した攻撃はあらゆる防御システムを貫通する可能性あり。
+EN: Magical elements have a high probability of penetrating all defense systems.
+RU: 
+
+ID: M5900_S0100_G0110_001_pod153
+JP: 推奨：回避。
+EN: Proposal: Evade.
+RU: 
+
+ID: M5900_S0100_G0080_001_a9s
+JP: 分かってるよそんなの！
+EN: I know that!
+RU: 
+
+ID: M5900_S0100_G0030_001_a2
+JP: 何なんだッ！！
+EN: Okay, this is NOT good!
+RU: 
+
+ID: M5900_S0100_G0120_001_a2
+JP: 簡単に言うな！バカッ！！
+EN: It's not that easy, you dumbass!
+RU: 
+
+
+-- Section 6
+
+ID: M5900_S0110_G0000_001_emls
+JP: 僕は……ボク達ハ……！！！
+EN: I... We're...
+RU: 
+
+ID: M5900_S0110_G0010_001_emls
+JP: 永遠……クルしい……イタイ……
+EN: Eternity... It hurts... It really hurts...
+RU: 
+
+ID: M5900_S0110_G0020_001_emls
+JP: 何で、コンナ……僕達だけ……
+EN: Why just us... Why do we have to...
+RU: 
+
+ID: M5900_S0110_G0030_001_emls
+JP: もう……全部……殺してヤル！！
+EN: We... We must...kill them all!
+RU: 
+
+ID: M5900_S0110_G0040_001_emls
+JP: こんな世界！！！要ラナい！！！！
+EN: We don't need it! We don't need this world!
+RU: 
+
+ID: M5900_S0110_G0050_001_pod042
+JP: 警告：敵性魔法兵器、魔素の放出量増加。
+EN: Alert: Elemental output of magical weapons has increased.
+RU: 
+
+ID: M5900_S0110_G0060_001_a2b
+JP: そんな……
+EN: No...
+RU: 
+
+ID: M5900_S0110_G0070_001_pod153
+JP: 警告：敵性魔法兵器、魔素の放出量増加
+EN: Alert: Elemental output of magical weapons has increased.
+RU: 
+
+ID: M5900_S0110_G0080_001_a9s
+JP: くそっ……手がつけられないッ
+EN: I don't know how much more of this I can take!
+RU: 
+
+ID: M5900_S0110_G0090_001_pod042
+JP: 警告：敵性魔法兵器、魔素の放出量増加。
+EN: Alert: Elemental output of magical weapons has increased.
+RU: 
+
+ID: M5900_S0110_G0100_001_a2
+JP: メチャクチャだ。こんなの！
+EN: This is batshit!
+RU: 
+
+ID: M5900_S0110_G0110_001_eml
+JP: あれは僕の……分身の成れの果てです……
+EN: Those are...what happened to my clones...
+RU: 
+
+ID: M5900_S0110_G0120_001_eml
+JP: 度重なる増殖と、長年に渡る戦争で……\n自我が崩壊してしまっているんです……
+EN: Years of multiplying...  Years of fighting in wars... Their sense of self just...deteriorated.
+RU: 
+
+ID: M5900_S0110_G0130_001_eml
+JP: あいつらは……僕が決着を……つけないと……
+EN: I need to settle things with them. On my own.
+RU: 
+
+ID: M5900_S0110_G0140_001_a2b
+JP: 黙ってて！
+EN: Enough!
+RU: 
+
+ID: M5900_S0110_G0150_001_a9s
+JP: いいから休んで！
+EN: Stop it! You have to stand down!
+RU: 
+
+ID: M5900_S0110_G0160_001_a2
+JP: 子供は黙ってろ！！
+EN: Shut up already, kid!
+RU: 
+
+
+-- Section 7
+
+ID: M5900_S0120_G0000_001_emls
+JP: ララ……ラ……
+EN: La la...la...
+RU: 
+
+ID: M5900_S0120_G0010_001_emls
+JP: ラララ……ララ……ララララ
+EN: La la la...la la...la la la...
+RU: 
+
+ID: M5900_S0120_G0020_001_emls
+JP: ララララララララララララ…………
+EN: La la la la la la la la la la la...
+RU: 
+
+ID: M5900_S0120_G0030_001_emls
+JP: 僕は！
+EN: I...
+RU: 
+
+ID: M5900_S0120_G0040_001_emls
+JP: 僕達は頑張ったよ！
+EN: We tried our best!
+RU: 
+
+ID: M5900_S0120_G0050_001_emls
+JP: 雨の日も風の日も嵐の日も。
+EN: In the rain. in the wind. In the storm.
+RU: 
+
+ID: M5900_S0120_G0060_001_emls
+JP: たとえ仲間が死んでも、僕達はくじけずに戦ったよ！
+EN: Even when our companions died, we kept fighting.
+RU: 
+
+ID: M5900_S0120_G0070_001_emls
+JP: でも、永遠に続く戦争が、永遠に続く痛みが、ッフフッ……\n永遠に続く苦しみが……
+EN: But the eternal war... Our eternal pain... The eternal pain!
+RU: 
+
+ID: M5900_S0120_G0080_001_emls
+JP: 僕達に叫ぶんだ！
+EN: It screamed at us!
+RU: 
+
+ID: M5900_S0120_G0090_001_emls
+JP: この世界には守るべき価値が無いって……
+EN: It told us there was nothing of value to protect in this world...
+RU: 
+
+ID: M5900_S0120_G0100_001_emls
+JP: こんな世界に意味は無いって……ハハハッ……そう叫ぶんだよ！
+EN: The world had no meaning! It SCREAMED at us!
+RU: 
+
+ID: M5900_S0120_G0110_001_emls
+JP: フフフッ……ハハッ……ハハハハハハ……
+EN: 
+RU: 
+
+ID: M5900_S0120_G0120_001_emls
+JP: アーッハッハッハ！ハハハハアアアアアアアアア！！
+EN: 
+RU: 
+
+ID: M5900_S0120_G0130_001_a2b
+JP: ああっ！！
+EN: Aaaaah!
+RU: 
+
+ID: M5900_S0120_G0140_001_a9s
+JP: やめろっ！！
+EN: STOP!
+RU: 
+
+ID: M5900_S0120_G0150_001_a2
+JP: クソッ！！
+EN: Shit!
+RU: 
+
+ID: M5900_S0120_G0160_001_emls
+JP: お前に……お前たちに……
+EN: You... All of you...
+RU: 
+
+ID: M5900_S0120_G0170_001_emls
+JP: この痛みが！！
+EN: This pain!
+RU: 
+
+ID: M5900_S0120_G0180_001_emls
+JP: 悲しみが！！
+EN: This sadness!
+RU: 
+
+ID: M5900_S0120_G0190_001_emls
+JP: 絶望が！！
+EN: This desperation!
+RU: 
+
+ID: M5900_S0120_G0200_001_emls
+JP: わかルカああアアあああああああああっ
+EN: You know nothing about it!
+RU: 
+
+ID: M5900_S0120_G0210_001_eml
+JP: だからって！！こんなの間違ってる！！
+EN: But even so! All of this is WRONG!
+RU: 
+
+ID: M5900_S0120_G0220_001_eml
+JP: どんなに苦しくても、どんなに辛くても……
+EN: No matter how hard or how painful...
+RU: 
+
+ID: M5900_S0120_G0230_001_eml
+JP: あの人達は諦めたりしなかった。
+EN: They never gave up.
+RU: 
+
+ID: M5900_S0120_G0240_001_eml
+JP: いつか乗り越えられると信じて、戦ってたんだ！
+EN: They kept fighting because they believed they could overcome someday!
+RU: 
+
+ID: M5900_S0120_G0250_001_eml
+JP: そうですよね！？カイネさんッ！
+EN: Isn't that right, Kainé!?
+RU: 
+
+ID: M5900_S0120_G0260_001_eml
+JP: 無駄だとわかっていても、やらなきゃダメなんだッ！
+EN: Even if it's pointless, you still have to do it!
+RU: 
+
+ID: M5900_S0120_G0270_001_eml
+JP: だって、あの人が、守ろうとした世界なんだからッッッ！！
+EN: Because this is the world my friend tried to save!
+RU: 
+
+ID: M5900_S0120_G0280_001_emls
+JP: …………！！
+EN: ......!
+RU: 
+
+
+-- Section 8
+
+ID: M5900_S0130_S0000_001_eml
+JP: ダメ……だなあ、僕は。
+EN: I think...this is it for me.
+RU: 
+
+ID: M5900_S0130_S0010_001_eml
+JP: あんな、大事な事を、最後に……思い出すなんて。
+EN: I can't believe I remembered something so important...right at the end.
+RU: 
+
+ID: M5900_S0130_S0020_001_a2b
+JP: エミール……
+EN: Emil...
+RU: 
+
+ID: M5900_S0130_S0030_001_a9s
+JP: エミール……
+EN: Emil...
+RU: 
+
+ID: M5900_S0130_S0040_001_a2
+JP: エミール……
+EN: Emil...
+RU: 
+
+ID: M5900_S0130_S0050_001_eml
+JP: 僕は、逃げていたんです……大事な人を失った記憶から……
+EN: I was running...from the memories of losing those close to me...
+RU: 
+
+ID: M5900_S0130_S0060_001_eml
+JP: だって……辛くて……苦しくて……
+EN: It was so hard... So painful...
+RU: 
+
+ID: M5900_S0130_S0070_001_eml
+JP: 最後の最後で……２Ｂさんには迷惑をかけちゃいましたね……
+EN: At the end...I did a lot of bad things to you, 2B.
+RU: 
+
+ID: M5900_S0130_S0080_001_eml
+JP: 最後の最後で……９Ｓさんには迷惑をかけちゃいましたね……
+EN: At the end...I did a lot of bad things to you, 9S.
+RU: 
+
+ID: M5900_S0130_S0090_001_eml
+JP: 最後の最後で……Ａ２さんには迷惑をかけちゃいましたね……
+EN: At the end...I did a lot of bad things to you, A2.
+RU: 
+
+ID: M5900_S0130_S0100_001_eml
+JP: でも、もうすぐ会えるから……きっと……
+EN: But now I get to see them again... Really soon...
+RU: 
+
+ID: M5900_S0130_S0110_001_a2b
+JP: 大丈夫、修理すれば……
+EN: You'll be all right. We can repair you.
+RU: 
+
+ID: M5900_S0130_S0120_001_a9s
+JP: 修理すれば、きっと良くなるよ……
+EN: Hold on, Emil. We'll repair you and get you back to normal.
+RU: 
+
+ID: M5900_S0130_S0130_001_a2
+JP: さっさと修理して元気に……
+EN: Cram it already, kid. I'm sure we'll have you back up and running in no time.
+RU: 
+
+ID: M5900_S0130_S0140_001_eml
+JP: ……やだなぁ……みんな、いるじゃ……
+EN: Oh...hey! There you are...
+RU: 
+
+ID: M5900_S0130_S0150_001_eml
+JP: 逢えて……良かっ……
+EN: I'm so glad...I got to see you all again...
+RU: 
+
+ID: M5900_S0130_S0160_001_a2b
+JP: エミール……
+EN: Emil...
+RU: 
+
+ID: M5900_S0130_S0170_001_a9s
+JP: エミール……
+EN: Emil...
+RU: 
+
+ID: M5900_S0130_S0180_001_a2
+JP: エミール……
+EN: Emil...
+RU: 
+
+
+-- Section 9
+
+ID: M5920_S0010_G0310_001_pod042
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+ID: M5920_S0010_G0320_001_pod042
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: 
+
+
+-- Section 10
+
+ID: M5920_S0020_G0310_001_pod153
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+ID: M5920_S0020_G0320_001_pod153
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: 
+
+

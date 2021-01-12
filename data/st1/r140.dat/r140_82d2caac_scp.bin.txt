@@ -1,0 +1,555 @@
+-- Section 1
+
+ID: M6050_S0010_G1270_300_villager
+JP: チョットマエ、大廃墟都市の方から凄い音が聞こえタ。
+EN: A while ago, I heard a terrible noise coming from the city ruins.
+RU: 
+
+ID: M6050_S0010_G1280_300_villager
+JP: ナ、ナニガあっても村はボクが守るヨ……！
+EN: But wh-whatever happens, I'll protect the village!
+RU: 
+
+ID: M6050_S0010_G1290_300_villager
+JP: デ、デモ交代の時間ハヤクこないカナ。
+EN: I s-sure wish my shift would end already...
+RU: 
+
+
+-- Section 2
+
+ID: M6050_S0010_G1300_300_villager
+JP: ここは安全なハズ……タブン。
+EN: We're safe here! I think. Maybe.
+RU: 
+
+
+-- Section 3
+
+ID: M6050_S0010_G1310_300_villager
+JP: 遠くで大きな音がキコエマシタ。
+EN: I heard a loud noise in the distance.
+RU: 
+
+ID: M6050_S0010_G1320_300_villager
+JP: 大丈夫でしたカ？
+EN: Are you okay?
+RU: 
+
+
+-- Section 4
+
+ID: M6050_S0010_G1330_300_villager
+JP: ユックリしてイッテくださいネ。
+EN: Make yourself at home!
+RU: 
+
+
+-- Section 5
+
+ID: M6050_S0010_G1430_300_villager
+JP: 地震に驚いて胴体を一つ落としてシマイマシタ。
+EN: The earthquake really caught me off guard! I actually dropped one of my torsos.
+RU: 
+
+ID: M6050_S0010_G1440_300_villager
+JP: 困ったゾ……一体どこにいってシマッタンダ。
+EN: Dear me... Where could it have gone?
+RU: 
+
+
+-- Section 6
+
+ID: M6050_S0010_G1450_300_villager
+JP: 胴体が落ちてたから拾っタ！
+EN: Hey, look at this torso I found lying on the ground!
+RU: 
+
+ID: M6050_S0010_G1460_300_villager
+JP: フフ、これでカッコよくなれたカナ！
+EN: Heh heh. How cool does this make me look!?
+RU: 
+
+
+-- Section 7
+
+ID: M6050_S0010_G1470_300_villager
+JP: まだ足りナイ……もっとほしいナ。
+EN: It's not enough! I want more!
+RU: 
+
+
+-- Section 8
+
+ID: M6050_S0010_G1480_300_villager
+JP: スゴク大きな音がキコエタから、森の様子を見に来タ。
+EN: There was a huge noise before, so I came here to see what's going on.
+RU: 
+
+ID: M6050_S0010_G1490_300_villager
+JP: 森の生き物たちがオドロイテいないとイイケド。
+EN: I hope the forest creatures are okay.
+RU: 
+
+
+-- Section 9
+
+ID: M6050_S0010_G1500_300_villager
+JP: 危険に一人で立ち向かう時、人は強くナル。
+EN: Facing dangers on your own makes you strong.
+RU: 
+
+ID: M6050_S0010_G1510_300_villager
+JP: 孤高の男こそ、真の戦士ナノダ。
+EN: A solitary man is a true soldier!
+RU: 
+
+
+-- Section 10
+
+ID: M6050_S0010_G1510_300_villager
+JP: 孤高の男こそ、真の戦士ナノダ。
+EN: A solitary man is a true soldier!
+RU: 
+
+ID: M6050_S0010_G1520_300_villager
+JP: デモ、タマになら遊びに来てもイイゾ。
+EN: But feel free to drop by whenever you want, okay?
+RU: 
+
+
+-- Section 11
+
+ID: M6050_S0010_G1650_300_villager
+JP: ボクの家では手が届く範囲に何でもあるんダ。
+EN: In my house, everything's within arm's reach.
+RU: 
+
+ID: M6050_S0010_G1660_300_villager
+JP: ナニ不自由のないカイテキな暮らしナノダ。
+EN: It's a comfortable life. I have everything I need.
+RU: 
+
+
+-- Section 12
+
+ID: M6050_S0010_G1670_300_villager
+JP: ボクは家を持たないんダ。
+EN: I don't need a house.
+RU: 
+
+ID: M6050_S0010_G1680_300_villager
+JP: 不自由なところもあるケド、心はいつだって自由なのダ。
+EN: Sure, sometimes it would be nice to be warm and cozy, but out here I'm always free.
+RU: 
+
+
+-- Section 13
+
+ID: M6050_S0010_G1560_300_villager
+JP: スゴク大きな音が聞こえタ！\nコワカッタけど、少しタノシカッタ！
+EN: I heard a really loud BOOOOOM! It was scary, but also kinda exciting.
+RU: 
+
+
+-- Section 14
+
+ID: M6050_S0010_G1570_300_villager
+JP: 次はナニして遊ぼうカナ。
+EN: What should we play next?
+RU: 
+
+
+-- Section 15
+
+ID: M6050_S0010_G1580_300_villager
+JP: スゴク揺れたネ！\nスゴイ音だったネ！
+EN: Everything was shaking so much! It was so loud!
+RU: 
+
+
+-- Section 16
+
+ID: M6050_S0010_G1590_300_villager
+JP: 少し気をつけながら遊ボウ。
+EN: I should probably be more careful while playing from now on.
+RU: 
+
+
+-- Section 17
+
+ID: M6050_S0010_G1600_300_villager
+JP: とても大きな地震ダッタ……
+EN: Wow, that was a HUGE earthquake!
+RU: 
+
+
+-- Section 18
+
+ID: M6050_S0010_G1610_300_villager
+JP: お前はダイジョウブだったか？\nボクは大丈夫だゾ。
+EN: Are you okay? 'Cause I'm okay! I don't go down that easily!
+RU: 
+
+
+-- Section 19
+
+ID: M6050_S0010_G1690_300_villager
+JP: 遠くで爆発がアッタみたいだけど、大丈夫ダッタ？
+EN: I heard an explosion in the distance. Are you okay?
+RU: 
+
+
+-- Section 20
+
+ID: M6050_S0010_G1700_300_villager
+JP: 危ないところにはあまり近付いちゃダメダヨ。
+EN: Stay out of trouble!
+RU: 
+
+
+-- Section 21
+
+ID: M5221_S0000_G0020_300_robochild
+JP: オモチャタノシー！
+EN: This is sooo fuuuun!
+RU: 
+
+
+-- Section 22
+
+ID: M6050_S0010_G0230_300_villager
+JP: ああ、<SARU_JAN>さん……
+EN: Ah, <SARU_JAN>...
+RU: 
+
+
+-- Section 23
+
+ID: M6050_S0010_G0550_300_villager
+JP: 我々が争うことに意味はありません。
+EN: There is no meaning in war.
+RU: 
+
+ID: M6050_S0010_G0560_300_villager
+JP: <SARU_JAN>の言う通りです。
+EN: <SARU_JAN>'s right.
+RU: 
+
+
+-- Section 24
+
+ID: M6050_S0010_G2600_300_papa
+JP: 大変ダ、タイヘンダ。
+EN: This is bad. This is really bad...
+RU: 
+
+
+-- Section 25
+
+ID: M5803_S0010_G0010_001_robomother
+JP: ウウ……私はどうしタラよいのでショウカ……
+EN: Rrrrgh! What am I supposed to DO!?
+RU: 
+
+
+-- Section 26
+
+ID: M5040_S0010_G0145_001_papa
+JP: どうかウチの子を助けてやってください……
+EN: Please, we beg of you. Save him...
+RU: 
+
+
+-- Section 27
+
+ID: M5040_S0010_G0145_001_papa
+JP: どうかウチの子を助けてやってください……
+EN: Please, we beg of you. Save him...
+RU: 
+
+
+-- Section 28
+
+ID: M5040_S0010_G0145_001_papa
+JP: どうかウチの子を助けてやってください……
+EN: Please, we beg of you. Save him...
+RU: 
+
+
+-- Section 29
+
+ID: M6050_S0010_G2930_300_villager
+JP: 私たちの村へヨウコソ。
+EN: Welcome to our village!
+RU: 
+
+
+-- Section 30
+
+ID: M6050_S0010_G2970_300_villager
+JP: 何かゴヨウがあれば言ってくださいネ。
+EN: Let me know if I can help you with anything.
+RU: 
+
+
+-- Section 31
+
+ID: M6050_S0010_G2960_300_villager
+JP: コンニチワ。\n今日もイイ天気デスネ。
+EN: Hello. Nice day we're having!
+RU: 
+
+
+-- Section 32
+
+ID: M5250_S0010_G0360_001_robostrange
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 33
+
+ID: M5110_S0010_G0005_300_sister
+JP: ……妹は砂漠で見つかったソウデス
+EN: I heard my sister was...found in the desert.
+RU: 
+
+ID: M5110_S0010_G0006_300_sister
+JP: ワタシより先に動かなくナッテしまうナンテ……
+EN: I can't believe she's no longer functioning while I'm still here...
+RU: 
+
+
+-- Section 34
+
+ID: M6050_S0010_G3090_300_villager
+JP: トモダチを運ぶのにツカレチャッタ。\nチョットお休み、休憩中、休憩中ダヨ。
+EN: I'm so tired from carrying my friend. I just need a little rest.
+RU: 
+
+
+-- Section 35
+
+ID: M6050_S0010_G3070_300_villager
+JP: この場所はマンキツしたから、ソロソロ別の場所に行きたいケド、\nナカナカ迎えが来ないんダ。
+EN: I think I've had my fill of this place. I'd like to go somewhere else, but my carrier isn't showing up.
+RU: 
+
+ID: M6050_S0010_G3080_300_villager
+JP: マッタク、約束の時間に遅れるなんてルーズなヤツダナ。\nモシカシテ、運ぶお願いをし過ぎちゃったから怒ったのカナ。
+EN: He just doesn't seem to care about punctuality at all! Or perhaps he's angry I keep asking him to carry me everywhere...
+RU: 
+
+
+-- Section 36
+
+ID: M6050_S0010_G1770_300_villager
+JP: ウーン。
+EN: Hmmm...
+RU: 
+
+ID: M6050_S0010_G1780_300_villager
+JP: ……今、足が短くてもできるアソビを考えてルンダ。
+EN: I'm trying to think of games we can play with their stubby little legs...
+RU: 
+
+
+-- Section 37
+
+ID: M6050_S0010_G1790_300_villager
+JP: モウ、オニごっこでいいカモナ。
+EN: Maybe we should just settle for tag.
+RU: 
+
+
+-- Section 38
+
+ID: M6050_S0010_G1800_300_villager
+JP: オニごっこも、悪くないヨネ。
+EN: Yeah, tag's not bad.
+RU: 
+
+
+-- Section 39
+
+ID: M6050_S0010_G1820_300_villager
+JP: クソウ……アイツみたいに身体ガ大きけレバなあ…・…
+EN: I wish I was as big as him!
+RU: 
+
+
+-- Section 40
+
+ID: M6050_S0010_G1830_300_villager
+JP: もっと……モット我に大きなボディを……
+EN: O, powers that be! Grant me a bigger body!
+RU: 
+
+
+-- Section 41
+
+ID: M6050_S0010_G1810_300_villager
+JP: 身体が大キイカラって強いとは限ラナイんダヨ……
+EN: Just because I'm big doesn't mean I'm strong...
+RU: 
+
+
+-- Section 42
+
+ID: M5520_S0020_G0030_001_pascal
+JP: 素晴らしい！こんな貴重な情報、ありがとうございます……
+EN: Superb! Thank you for this valuable information.
+RU: 
+
+ID: M5520_S0020_G0040_001_pascal
+JP: こちらお礼となります。どうか受け取ってください。
+EN: Please take this as a reward.
+RU: 
+
+
+-- Section 43
+
+ID: M6050_S0010_G1530_300_pascal
+JP: ああ、ご無事でしたか。\nとても大きな地震があったので、心配していました。
+EN: Say, are you all right? There was a huge earthquake, so I was worried.
+RU: 
+
+
+-- Section 44
+
+ID: M6050_S0010_G1540_300_pascal
+JP: 村人にもあなたたちにも、怪我がなくて良かったです。
+EN: I'm glad you and the villagers are all okay.
+RU: 
+
+ID: M6050_S0010_G1550_300_villager
+JP: 大したものはありませんが、ゆっくりしていってくださいね。
+EN: I know there's not much to do here, but consider yourself at home.
+RU: 
+
+
+-- Section 45
+
+ID: M6050_S0010_G1530_300_pascal
+JP: ああ、ご無事でしたか。\nとても大きな地震があったので、心配していました。
+EN: Say, are you all right? There was a huge earthquake, so I was worried.
+RU: 
+
+
+-- Section 46
+
+ID: M6050_S0010_G1540_300_pascal
+JP: 村人にもあなたたちにも、怪我がなくて良かったです。
+EN: I'm glad you and the villagers are all okay.
+RU: 
+
+ID: M6050_S0010_G1550_300_villager
+JP: 大したものはありませんが、ゆっくりしていってくださいね。
+EN: I know there's not much to do here, but consider yourself at home.
+RU: 
+
+
+-- Section 47
+
+ID: M6050_S0010_G1380_300_sp
+JP: オヤ、ご無事でしたカ。\nまた会えてウレシイデス。
+EN: It's good to see you in one piece. I was worried I'd lost a valuable customer.
+RU: 
+
+ID: M6050_S0010_G1390_300_sp
+JP: 何かミテイキマスカ？
+EN: Are you looking for something?
+RU: 
+
+ID: M6050_S0010_G1400_300_sp
+JP: イツデモ会いに来てクダサイネ。
+EN: Come back and see me anytime.
+RU: 
+
+
+-- Section 48
+
+ID: M6050_S0010_G1390_300_sp
+JP: 何かミテイキマスカ？
+EN: Are you looking for something?
+RU: 
+
+ID: M6050_S0010_G1400_300_sp
+JP: イツデモ会いに来てクダサイネ。
+EN: Come back and see me anytime.
+RU: 
+
+
+-- Section 49
+
+ID: M6050_S0010_G1340_300_kj
+JP: 凄い地震がアッタナ、大丈夫だったカ？
+EN: That was some earthquake. Are you all right?
+RU: 
+
+ID: M6050_S0010_G1350_300_kj
+JP: 備えあればウレウことはないそうダ。\n好きなダケ見ていってクレ。
+EN: I've been told that providing is preventing. So buy whatever you like!
+RU: 
+
+ID: M6050_S0010_G1360_300_kj
+JP: 森のヤツも無事だとイインダガ……
+EN: I hope that guy in the forest is okay.
+RU: 
+
+
+-- Section 50
+
+ID: M6050_S0010_G1350_300_kj
+JP: 備えあればウレウことはないそうダ。\n好きなダケ見ていってクレ。
+EN: I've been told that providing is preventing. So buy whatever you like!
+RU: 
+
+ID: M6050_S0010_G1370_300_kj
+JP: イツデモ見に来てイイゾ。
+EN: Come see me any time.
+RU: 
+
+
+-- Section 51
+
+ID: M1040_S0030_G0020_001_n02
+JP: ヤメテ！殺さなイデ！
+EN: Stop! Do not kill!
+RU: 
+
+
+-- Section 52
+
+ID: M1040_S0030_G0030_001_n02
+JP: 戦わない！戦ワナい！
+EN: No fighting! No fighting!
+RU: 
+
+
+-- Section 53
+
+ID: M1040_S0030_G0040_001_n02
+JP: 殺さナイデ！殺さナイで！
+EN: Don't kill! Don't kill!
+RU: 
+
+
+-- Section 54
+
+ID: M1040_S0030_G0050_001_n02
+JP: 悪イコトしてない……！
+EN: We have done nothing bad!
+RU: 
+
+
+-- Section 55
+
+ID: M1040_S0030_G0060_001_n02
+JP: ごメンナさい！ゴメンなさい！
+EN: I'm sorry! I'm sorry!
+RU: 
+
+

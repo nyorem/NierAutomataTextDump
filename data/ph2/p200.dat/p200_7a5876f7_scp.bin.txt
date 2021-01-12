@@ -1,0 +1,24 @@
+-- Section 1
+
+ID: M5920_S0010_G0320_001_pod042
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0120_G0010_300_a2b
+JP: まだ中に敵が……このまま放っては行けない……！
+EN: There are still enemies here—we can't just leave!
+RU: 
+
+
+-- Section 3
+
+ID: M5920_S0010_G0310_001_pod042
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+

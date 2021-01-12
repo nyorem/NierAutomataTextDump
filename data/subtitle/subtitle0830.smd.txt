@@ -1,0 +1,15 @@
+ID: M3000_S0460_H0000_001_a9s
+JP: ２Ｂ！もう、基地が……！
+EN: 2B, this place is lost!
+RU: 
+
+ID: M3000_S0460_H0010_001_a2b
+JP: 司令ッ！！！
+EN: Commander!
+RU: 
+
+ID: M3000_S0460_H0020_001_cmd
+JP: 行けええっ！！２Ｂッ！！
+EN: Move it, 2B! That's an order!
+RU: 
+

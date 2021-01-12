@@ -1,0 +1,13 @@
+-- Section 1
+
+ID: M1030_S0214_S0000_201_vw
+JP: わかった……私、もっとキレイになる。
+EN: I know... I must become more beautiful.
+RU: 
+
+ID: M1030_S0214_S0010_201_vw
+JP: 沢山の飾りをつけて……もっとキレイになります。
+EN: Adding lots of adornments will make me beautiful.
+RU: 
+
+

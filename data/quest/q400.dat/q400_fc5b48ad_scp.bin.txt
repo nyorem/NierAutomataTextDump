@@ -1,0 +1,433 @@
+-- Section 1
+
+ID: M5400_S0010_G0000_001_a2b
+JP: ……あのタイプ、見た事が無い。
+EN: ...Huh. That's new.
+RU: 
+
+ID: M5400_S0010_G0010_001_a9s
+JP: ……あのタイプ、データにあったかな？
+EN: ...Have we seen these things before?
+RU: 
+
+ID: M5400_S0010_G0020_001_a2
+JP: ……見た事ないタイプだ。
+EN: ...Never seen these guys before.
+RU: 
+
+
+-- Section 2
+
+ID: M5400_S0010_G0030_001_robolargegold
+JP: ムッ！？敵影発見シマシタ！
+EN: Mmm? Enemy detected!
+RU: 
+
+ID: M5400_S0010_G0040_001_robosmallgold
+JP: よし、行くぞ！機械生命体に栄光あれッ！！
+EN: Go! Show no mercy! Glory to machine lifeforms!
+RU: 
+
+ID: M5400_S0010_G0050_001_a2b
+JP: 迎撃する。ポッド、解析を進めて。
+EN: Engaging. Pod, analyze the enemy.
+RU: 
+
+ID: M5400_S0010_G0060_001_a9s
+JP: うわっ！なんか言ってる。
+EN: Whoa! They're speaking.
+RU: 
+
+ID: M5400_S0010_G0070_001_a2
+JP: そっちがその気なら……
+EN: If that's how you want it...
+RU: 
+
+
+-- Section 3
+
+ID: M5400_S0010_G0120_001_robosmallgold
+JP: うぐッ……！
+EN: Uuurgh!
+RU: 
+
+
+-- Section 4
+
+ID: M5400_S0010_G0130_001_robosmallgold
+JP: 貴様！よくも我が部下を……死して償えッ！
+EN: You dare defeat my faithful servant? You will pay with your life!
+RU: 
+
+
+-- Section 5
+
+ID: M5400_S0010_G0140_001_robosmallgold
+JP: くっ……無念……
+EN: Nnngh... D-Damn it all...
+RU: 
+
+
+-- Section 6
+
+ID: M5400_S0010_G0150_001_robolargegold
+JP: くそっ……
+EN: Damn...
+RU: 
+
+
+-- Section 7
+
+ID: M5401_S0010_G0000_001_a2b
+JP: あれは……確か以前戦った……
+EN: Haven't I fought this thing before...?
+RU: 
+
+ID: M5401_S0010_G0010_001_pod042
+JP: 推奨：破壊。
+EN: Proposal: Enemy should be dispatched immediately.
+RU: 
+
+ID: M5401_S0010_G0020_001_pod042
+JP: あの個体は、放っておくには危険と判断。
+EN: Leaving such a dangerous foe intact would be unwise.
+RU: 
+
+ID: M5401_S0010_G0030_001_a2b
+JP: ……了解。
+EN: Understood.
+RU: 
+
+ID: M5401_S0010_G0040_001_a9s
+JP: あれ、前に戦ったロボットだよね。
+EN: Hey, I've fought this machine before, right?
+RU: 
+
+ID: M5401_S0010_G0050_001_pod153
+JP: 推奨：破壊。
+EN: Proposal: Enemy should be dispatched immediately.
+RU: 
+
+ID: M5401_S0010_G0060_001_pod153
+JP: あの個体は、放っておくには危険と判断。
+EN: Leaving such a dangerous foe intact would be unwise.
+RU: 
+
+ID: M5401_S0010_G0070_001_a9s
+JP: 了解。
+EN: If you say so.
+RU: 
+
+ID: M5401_S0010_G0080_001_a2
+JP: あれは確か、前に戦った奴……
+EN: Wait. Haven't I fought this thing already?
+RU: 
+
+ID: M5401_S0010_G0090_001_pod042
+JP: 推奨：破壊。
+EN: Proposal: Enemy should be dispatched immediately.
+RU: 
+
+ID: M5401_S0010_G0100_001_pod042
+JP: あの個体は、放っておくには危険と判断。
+EN: Leaving such a dangerous foe intact would be unwise.
+RU: 
+
+ID: M5401_S0010_G0110_001_a2
+JP: 言われなくても。
+EN: Don't have to tell me twice.
+RU: 
+
+
+-- Section 8
+
+ID: M5401_S0010_G0120_001_robosmallgoldwoman
+JP: 見つけた。兄の仇……諸悪の根源め！覚悟！
+EN: You killed my brother. You are the true evil. You must die!
+RU: 
+
+ID: M5401_S0020_G0000_001_a2b
+JP: 迎撃する。
+EN: Engaging enemy.
+RU: 
+
+ID: M5401_S0020_G0010_001_a9s
+JP: 迎撃する。
+EN: Ready to engage.
+RU: 
+
+ID: M5401_S0020_G0020_001_a2
+JP: 倒すぞ。
+EN: Time to die.
+RU: 
+
+
+-- Section 9
+
+ID: M5401_S0020_G0030_001_robosmallgoldwoman
+JP: う……ああ……
+EN: Nnngh... Aahhhhhh...
+RU: 
+
+
+-- Section 10
+
+ID: M5401_S0020_G0040_001_robosmallgoldwoman
+JP: いやあぁッ！よくも……よくも彼を！
+EN: No! You...you killed him!
+RU: 
+
+
+-- Section 11
+
+ID: M5401_S0030_G0000_001_robosmallgoldwoman
+JP: 不覚……兄様……ごめんなさい……
+EN: I am...undone... Forgive me...Brother...
+RU: 
+
+ID: M5401_S0030_G0010_001_a2b
+JP: 兄様……他の個体もいるということ？
+EN: Brother? So there's another one?
+RU: 
+
+ID: M5401_S0030_G0020_001_a9s
+JP: 兄様って……他にもいるのか？
+EN: Brother? Wait, there's more of these things?
+RU: 
+
+ID: M5401_S0030_G0030_001_a2
+JP: 兄様……まさか他にも……？
+EN: Brother? So there's more of them?
+RU: 
+
+
+-- Section 12
+
+ID: M5403_S0010_G0000_001_a2b
+JP: あれは……例のロボット……
+EN: There's another one of those strange machines.
+RU: 
+
+ID: M5403_S0010_G0010_001_pod042
+JP: 推奨：破壊。
+EN: This machine type purposely seeks out androids in order to enact revenge.
+RU: 
+
+ID: M5403_S0010_G0020_001_pod042
+JP: 当該機械生命体は、アンドロイドを復讐の対象としている。
+EN: It should be dispatched immediately.
+RU: 
+
+ID: M5403_S0010_G0030_001_a2b
+JP: ……了解。
+EN: Roger.
+RU: 
+
+ID: M5403_S0010_G0040_001_a9s
+JP: あのタイプは……多分、襲ってくるよね。
+EN: There's another of those machines... I suppose it's going to attack me, right?
+RU: 
+
+ID: M5403_S0010_G0050_001_pod153
+JP: 推奨：破壊。
+EN: This machine type purposely seeks out androids in order to enact revenge.
+RU: 
+
+ID: M5403_S0010_G0060_001_pod153
+JP: 当該機械生命体は、アンドロイドを復讐の対象としている。
+EN: It should be dispatched immediately.
+RU: 
+
+ID: M5403_S0010_G0070_001_a9s
+JP: 了解。
+EN: Got it.
+RU: 
+
+ID: M5403_S0010_G0080_001_a2
+JP: あれは……
+EN: Is that...?
+RU: 
+
+ID: M5403_S0010_G0090_001_pod042
+JP: 推奨：破壊。
+EN: This machine type purposely seeks out androids in order to enact revenge.
+RU: 
+
+ID: M5403_S0010_G0100_001_pod042
+JP: 当該機械生命体は、アンドロイドを復讐の対象としている。
+EN: It should be dispatched immediately.
+RU: 
+
+ID: M5403_S0010_G0110_001_a2
+JP: 復讐、か……
+EN: Revenge, huh?
+RU: 
+
+
+-- Section 13
+
+ID: M5403_S0010_G0120_001_robolargegoldcchild
+JP: 家族、一族を全て殺された。
+EN: My family... My brethren... All have been killed.
+RU: 
+
+ID: M5403_S0010_G0130_001_robolargegoldcchild
+JP: その僕が、仇討せずに生きていく事は許されない。
+EN: If I cannot avenge them, then I have no right to live.
+RU: 
+
+ID: M5403_S0010_G0140_001_robolargegoldcchild
+JP: いざ尋常に……勝負！
+EN: Now...we fight!
+RU: 
+
+
+-- Section 14
+
+ID: M5403_S0020_G0000_001_robolargegoldcchild
+JP: あ、ああ……
+EN: Ah... Ahhhhh...
+RU: 
+
+ID: M5403_S0020_G0010_001_robolargegoldcchild
+JP: 兄ちゃん……姉ちゃん……
+EN: Brother... Sister...
+RU: 
+
+ID: M5403_S0020_G0020_001_robolargegoldcchild
+JP: みんな……ごめん、なさい……
+EN: I'm so sorry, everyone...
+RU: 
+
+
+-- Section 15
+
+ID: M5403_S0020_G0030_001_robosmallgoldwoman
+JP: 殺すッ！必ずこいつを倒すッ！
+EN: I'll kill you... I swear on my life to kill you!
+RU: 
+
+
+-- Section 16
+
+ID: M5403_S0030_G0000_001_robolargegoldcchild
+JP: ……殺せよ。
+EN: ...Go on. Finish me.
+RU: 
+
+ID: M5403_S0030_G0010_001_robolargegoldcchild
+JP: どうせ、仇討ち出来たら、死のうと思ってたんだ。
+EN: Even if I'd achieved my revenge, I was planning to die regardless.
+RU: 
+
+ID: M5403_S0030_G0020_001_robolargegoldcchild
+JP: 家族も、友達も、みんな死んだ。
+EN: My friends are dead. My family is dead.
+RU: 
+
+ID: M5403_S0030_G0030_001_robolargegoldcchild
+JP: お前らに殺された。僕はもう１人だ。
+EN: You killed them all and left me alone.
+RU: 
+
+ID: M5403_S0030_G0040_001_robolargegoldcchild
+JP: １人になった僕に……もう、生きる気力なんて無いんだ……
+EN: I don't have the strength to continue.
+RU: 
+
+ID: M5403_S0030_G0050_001_robolargegoldcchild
+JP: 痛い……よ……
+EN: It...hurts...
+RU: 
+
+ID: M5403_S0030_G0060_001_robolargegoldcchild
+JP: ……ゴメン……みんな……
+EN: I'm sorry, everyone...
+RU: 
+
+ID: M5403_S0030_G0070_001_robolargegoldcchild
+JP: 仇を討てなかった……
+EN: I couldn't avenge you...
+RU: 
+
+ID: M5403_S0030_G0080_001_robolargegoldcchild
+JP: アンドロイドめ……どこまで……僕達を愚弄すれば気が済むんだ！
+EN: Accursed androids... How much longer will you torment us!?
+RU: 
+
+ID: M5403_S0030_G0090_001_robolargegoldcchild
+JP: この悪魔がッ！！
+EN: You damn monsters!
+RU: 
+
+ID: M5403_S0030_G0100_001_robolargegoldcchild
+JP: ……バンザイ。
+EN: Glory to us...
+RU: 
+
+ID: M5403_S0030_G0110_001_robolargegoldcchild
+JP: 家族バンザアアアアアアアイ！！！！
+EN: Glory to my family!
+RU: 
+
+ID: M5403_S0030_G0120_001_a2b
+JP: 機械生命体が家族の復讐……
+EN: A machine seeking revenge for its family?
+RU: 
+
+ID: M5403_S0030_G0130_001_pod042
+JP: 報告：人類史にも似たような事例多数。
+EN: Data shows that humans often engaged in similar activities throughout mankind's history.
+RU: 
+
+ID: M5403_S0030_G0140_001_pod042
+JP: 復讐の多くは正当な行為として認知されている。
+EN: Such attempts at revenge were often seen as justified.
+RU: 
+
+ID: M5403_S0030_G0150_001_a2b
+JP: ……馬鹿げてる。
+EN: ...How absurd.
+RU: 
+
+ID: M5403_S0030_G0160_001_a9s
+JP: 機械生命体が家族の復讐？……馬鹿げてる。
+EN: Machines wanting to avenge their families? That's absurd.
+RU: 
+
+ID: M5403_S0030_G0170_001_pod153
+JP: 報告：人類史にも似たような事例多数。
+EN: Data shows that humans often engaged in similar activities throughout mankind's history.
+RU: 
+
+ID: M5403_S0030_G0180_001_pod153
+JP: 復讐の多くは正当な行為として認知されている。
+EN: Such attempts at revenge were often seen as justified.
+RU: 
+
+ID: M5403_S0030_G0190_001_a9s
+JP: でも……僕は……
+EN: And yet...I...
+RU: 
+
+ID: M5403_S0030_G0200_001_a2
+JP: 機械生命体が家族の復讐……
+EN: What kind of machine tries to avenge its family?
+RU: 
+
+ID: M5403_S0030_G0210_001_pod042
+JP: 報告：人類史にも似たような事例多数。
+EN: Data shows that humans often engaged in similar activities throughout mankind's history.
+RU: 
+
+ID: M5403_S0030_G0220_001_pod042
+JP: 復讐の多くは正当な行為として認知されている。
+EN: Such attempts at revenge were often seen as justified.
+RU: 
+
+ID: M5403_S0030_G0230_001_a2
+JP: ……馬鹿げてる。
+EN: ...Ridiculous.
+RU: 
+
+

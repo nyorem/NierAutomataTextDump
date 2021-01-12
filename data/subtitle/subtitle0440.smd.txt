@@ -1,0 +1,10 @@
+ID: M1060_S0060_H0000_001_a2b
+JP: 何……あれ！？
+EN: Well, that's new.
+RU: 
+
+ID: M1060_S0060_H1000_001_a2b
+JP: 何……あれ！？
+EN: Well, that's new.
+RU: 
+

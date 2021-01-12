@@ -1,0 +1,68 @@
+-- Section 1
+
+ID: M0010_S0700_G0040_101_a2b
+JP: 一通り工場を探索したけど、目標らしき兵器は発見出来ず。
+EN: I surveyed the entire factory, but couldn't find anything resembling our target.
+RU: 
+
+ID: M0010_S0700_G0060_101_a9s
+JP: もしかしたら別の場所に移動しちゃったかもしれませんね。
+EN: Maybe they...I dunno. Moved it somewhere?
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0700_G0031_101_a2b
+JP: あれは……
+EN: Is that...?
+RU: 
+
+ID: M0010_S0700_G0032_101_a9s
+JP: ああ、鳥ですか。
+EN: You mean the birds?
+RU: 
+
+ID: M0010_S0700_G0033_101_a9s
+JP: 環境の変化があったのか、動物や植物は\n旧世界の時よりも増えているみたいですね。
+EN: Yeah, there's more plants and animals here than there used to be. Probably because the environment's changed.
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0700_G0061_101_a9s
+JP: その橋の先に別の施設があるはずです。
+EN: There should be another facility across that bridge.
+RU: 
+
+ID: M0010_S0700_G0062_101_a9s
+JP: ちょっと遠いですが、移動してみましょうか。
+EN: It's a bit of a hike, but should we check it out?
+RU: 
+
+
+-- Section 4
+
+ID: M0010_S0700_G0070_101_a9s
+JP: しかし、司令部が敵兵器の予測位置を間違えるなんて、珍しいですね。
+EN: It's not like Command to get a location wrong. I guess even they get bad intel from time to time, huh?
+RU: 
+
+
+-- Section 5
+
+ID: M0010_S0700_G0080_101_a2b
+JP: いや。
+EN: Hmm.
+RU: 
+
+
+-- Section 6
+
+ID: M0010_S0700_G0090_101_a2b
+JP: どうかな……
+EN: I wouldn't bet on that.
+RU: 
+
+

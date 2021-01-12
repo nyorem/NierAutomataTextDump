@@ -1,0 +1,28 @@
+-- Section 1
+
+ID: M5095_S0350_G0000_001_unknown
+JP: レコード「amazarashi」ヲ　入手
+EN: Obtained "amazarashi" record
+RU: 
+
+ID: M5095_S0350_G0010_001_unknown
+JP: ……
+EN: ...
+RU: 
+
+ID: M5095_S0350_G0020_001_unknown
+JP: …………
+EN: ......
+RU: 
+
+ID: M5095_S0390_G0000_001_unknown
+JP: 僕ノ　記憶は　遊園地廃墟の地下で　いつでも鑑賞可能ダ
+EN: My memories can be viewed at any time underneath the amusement park ruins.
+RU: 
+
+ID: M5095_S0390_G0010_001_unknown
+JP: 遊ンデ　クレテ　アリガトウ
+EN: Thanks for playing with me.
+RU: 
+
+

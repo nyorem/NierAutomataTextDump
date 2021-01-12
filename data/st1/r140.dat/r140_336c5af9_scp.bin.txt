@@ -1,0 +1,417 @@
+-- Section 1
+
+ID: M5250_S0010_G0010_001_a9s
+JP: ちょっと聞きたい事があるんだけど……
+EN: I wanted to ask you something.
+RU: 
+
+ID: M5250_S0010_G0020_001_sele
+JP: 平和主義について聞く。
+EN: Ask about being pacifists.
+RU: 
+
+ID: M5250_S0010_G0030_001_sele
+JP: 村での暮らしについて聞く。
+EN: Ask about life in the village.
+RU: 
+
+ID: M5250_S0010_G0040_001_sele
+JP: 店舗について聞く。
+EN: Ask about the shop.
+RU: 
+
+
+-- Section 2
+
+ID: M5250_S0010_G0010_001_a9s
+JP: ちょっと聞きたい事があるんだけど……
+EN: I wanted to ask you something.
+RU: 
+
+ID: M5250_S0010_G0030_001_sele
+JP: 村での暮らしについて聞く。
+EN: Ask about life in the village.
+RU: 
+
+ID: M5250_S0010_G0040_001_sele
+JP: 店舗について聞く。
+EN: Ask about the shop.
+RU: 
+
+
+-- Section 3
+
+ID: M5250_S0010_G0010_001_a9s
+JP: ちょっと聞きたい事があるんだけど……
+EN: I wanted to ask you something.
+RU: 
+
+ID: M5250_S0010_G0040_001_sele
+JP: 店舗について聞く。
+EN: Ask about the shop.
+RU: 
+
+
+-- Section 4
+
+ID: M5250_S0010_G0010_001_a9s
+JP: ちょっと聞きたい事があるんだけど……
+EN: I wanted to ask you something.
+RU: 
+
+ID: M5250_S0010_G0020_001_sele
+JP: 平和主義について聞く。
+EN: Ask about being pacifists.
+RU: 
+
+ID: M5250_S0010_G0040_001_sele
+JP: 店舗について聞く。
+EN: Ask about the shop.
+RU: 
+
+
+-- Section 5
+
+ID: M5250_S0010_G0010_001_a9s
+JP: ちょっと聞きたい事があるんだけど……
+EN: I wanted to ask you something.
+RU: 
+
+ID: M5250_S0010_G0040_001_sele
+JP: 店舗について聞く。
+EN: Ask about the shop.
+RU: 
+
+
+-- Section 6
+
+ID: M5250_S0010_G0000_001_pascal
+JP: あら、９Ｓさん。どうされました？
+EN: Hello, 9S. What's on your mind?
+RU: 
+
+
+-- Section 7
+
+ID: M5250_S0010_G0050_001_pascal
+JP: ああ……私達が争いを嫌う理由ですか。
+EN: Ah... You wish to know the reason we in the village detest fighting?
+RU: 
+
+ID: M5250_S0010_G0060_001_pascal
+JP: 一言では言いづらいのですが、本質的には戦う意味を喪失してしまったからでしょうか。
+EN: Well, it's a bit of a heady concept, but in the end, I suppose it's because conflict has ceased to have meaning for us.
+RU: 
+
+ID: M5250_S0010_G0070_001_a9s
+JP: ……よくわからないな。
+EN: Care to explain?
+RU: 
+
+ID: M5250_S0010_G0080_001_pascal
+JP: 私達は戦争をする為に生み出された兵器です。\nしかし、戦争は長く続きすぎました。
+EN: We machines are weapons created for the purpose of waging war. However, this war simply goes on and on with no end in sight.
+RU: 
+
+ID: M5250_S0010_G0090_001_pascal
+JP: 戦争勝利によってもたらされるメリットよりも、個人のデメリットの総和の方が大きくなってしまった事に気づいたのです。
+EN: We have come to realize that the cost of fighting for us as individuals far outweighs any benefits that victory might bring.
+RU: 
+
+ID: M5250_S0010_G0100_001_pascal
+JP: アンドロイドと機械生命体が和平を結ぶ日も来ると思いますよ。
+EN: I believe we will eventually live to see a day when androids and machine lifeforms are able to live together in peace.
+RU: 
+
+ID: M5250_S0010_G0110_001_a9s
+JP: ……ありえないよ。
+EN: Not likely.
+RU: 
+
+
+-- Section 8
+
+ID: M5250_S0010_G0120_001_pascal
+JP: 私達の普段の暮らし……ですか？
+EN: Do you mean our day-to-day existence?
+RU: 
+
+ID: M5250_S0010_G0130_001_pascal
+JP: 見ての通り、私達は機械であり食料を必要としません。\n私達を駆動するコアが半永久的にエネルギーを補給しますから。
+EN: Well, as you know, we are machines. We do not require food or other typical sustenance, as our cores provide a near-infinite supply of energy.
+RU: 
+
+ID: M5250_S0010_G0140_001_pascal
+JP: ただ、機械なので時間が経てば壊れてしまいます。それを修理したり、\n交換したりするのが日常ですね。
+EN: We do, however, deteriorate over time, which means we need to procure parts and initiate repairs.
+RU: 
+
+ID: M5250_S0010_G0150_001_pascal
+JP: と言っても、頻繁に壊れる訳ではないので、ゆるやかに暮らしていますよ。
+EN: Still, it's not like we break down all that often. To be completely honest, life in the village is rather slow.
+RU: 
+
+
+-- Section 9
+
+ID: M5250_S0010_G0160_001_a9s
+JP: どうしてパスカルの村にはお店があるの？お金なんて持ってない筈だよね？
+EN: Why is there a shop in your village, Pascal? It's not like you folks use money.
+RU: 
+
+ID: M5250_S0010_G0170_001_pascal
+JP: いえ、私達は簡単な素材を利用してお金の替りにしています。
+EN: Oh, we do. For us, simple materials take the role of currency.
+RU: 
+
+ID: M5250_S0010_G0180_001_pascal
+JP: 私達は皆対等なので、これまでの収集・配給と言ったシステムが\n合いませんでしたから、交換を原則とする経済社会を作ってみました。
+EN: Each machine is an equal, which means the traditional capitalistic acquisition systems of the past don't work for us. Instead, our economy is focused on trading materials according to one's need.
+RU: 
+
+ID: M5250_S0010_G0190_001_pascal
+JP: これは人類の過去の記録から学びました。面白いシステムだと思います。
+EN: It was a lesson we learned from mankind's past history. Most fascinating, don't you think?
+RU: 
+
+ID: M5250_S0010_G0200_001_pascal
+JP: 私達の子供にも貨幣と経済を学習させていますよ。良ければ子ども達の\n話も聞いてやってください。
+EN: We've made it a point of emphasis to teach our children about different economic systems. You should speak to them if the subject is of further interest.
+RU: 
+
+
+-- Section 10
+
+ID: M5250_S0010_G0220_001_robochildrenA
+JP: アノネ、コイツヘンナノ！
+EN: This kid's being weird!
+RU: 
+
+
+-- Section 11
+
+ID: M5250_S0010_G0300_001_robochildrenB
+JP: コウイウノハ馬鹿ッテ言ウンダヨ！
+EN: Yeah. What a dummy!
+RU: 
+
+
+-- Section 12
+
+ID: M5250_S0010_G0310_001_robostrange
+JP: バカ？ボクバカ？エヘヘ〜、アリガト〜
+EN: I'M A DUMMY? HEE HEE! THANKS A LOT!
+RU: 
+
+
+-- Section 13
+
+ID: M5250_S0010_G0210_001_a9s
+JP: 楽しそうだね。何をしているの？
+EN: Heh. That looks like fun. Whatcha doing?
+RU: 
+
+
+-- Section 14
+
+ID: M5250_S0010_G0220_001_robochildrenA
+JP: アノネ、コイツヘンナノ！
+EN: This kid's being weird!
+RU: 
+
+ID: M5250_S0010_G0230_001_robochildrenB
+JP: 価値ノ高イ硬貨ト安イ硬貨、ドッチガホシイ？ッテ聞クト、\n安イ硬貨ガホシイッテ言ウンダゼ。
+EN: Yeah! I asked if he wanted a coin that's low value or one that's high value, and he said he wanted the worthless one!
+RU: 
+
+
+-- Section 15
+
+ID: M5250_S0010_G0240_001_a9s
+JP: へえ……
+EN: Seriously?
+RU: 
+
+ID: M5250_S0010_G0250_001_a9s
+JP: 君さ、価値の高い硬貨と安い硬貨、どっちが欲しい？
+EN: Hey, kid. I've got one coin that's worth a little and one that's worth a lot. Which one do you want?
+RU: 
+
+
+-- Section 16
+
+ID: M5250_S0010_G0260_001_robostrange
+JP: エエトネ〜、ヤスイコウカ！
+EN: UMMMM...THE LITTLE ONE!
+RU: 
+
+ID: M5250_S0010_G0270_001_a9s
+JP: 本当にこっちでいいの？
+EN: You sure about that?
+RU: 
+
+ID: M5250_S0010_G0280_001_robostrange
+JP: コッチノホウガカッコイイヨ〜。エヘヘ〜アリガト〜
+EN: YEAH, 'CAUSE IT LOOKS COOL. HEE HEE! THANKS A LOT!
+RU: 
+
+
+-- Section 17
+
+ID: M5250_S0010_G0290_001_robochildrenA
+JP: ネ？コイツヘンデショ？
+EN: See? He's weird!
+RU: 
+
+
+-- Section 18
+
+ID: M5250_S0010_G0300_001_robochildrenB
+JP: コウイウノハ馬鹿ッテ言ウンダヨ！
+EN: Yeah. What a dummy!
+RU: 
+
+
+-- Section 19
+
+ID: M5250_S0010_G0310_001_robostrange
+JP: バカ？ボクバカ？エヘヘ〜、アリガト〜
+EN: I'M A DUMMY? HEE HEE! THANKS A LOT!
+RU: 
+
+
+-- Section 20
+
+ID: M5250_S0010_G0320_001_a9s
+JP: ……計算用の回路に問題があるのかな。それとも思考回路自体が\nおかしいのか。
+EN: Hmm. This little guy might have a bad mathematical processor. Or maybe his logic circuits got crossed somehow...
+RU: 
+
+ID: M5250_S0010_G0330_001_a9s
+JP: ……ちょっと中を覗いてみるか。
+EN: I should probably take a look inside.
+RU: 
+
+
+-- Section 21
+
+ID: M5250_S0010_G0300_001_robochildrenB
+JP: コウイウノハ馬鹿ッテ言ウンダヨ！
+EN: Yeah. What a dummy!
+RU: 
+
+
+-- Section 22
+
+ID: M5250_S0010_G0310_001_robostrange
+JP: バカ？ボクバカ？エヘヘ〜、アリガト〜
+EN: I'M A DUMMY? HEE HEE! THANKS A LOT!
+RU: 
+
+
+-- Section 23
+
+ID: M5250_S0010_G0290_001_robochildrenA
+JP: ネ？コイツヘンデショ？
+EN: See? He's weird!
+RU: 
+
+
+-- Section 24
+
+ID: M5250_S0010_G0300_001_robochildrenB
+JP: コウイウノハ馬鹿ッテ言ウンダヨ！
+EN: Yeah. What a dummy!
+RU: 
+
+
+-- Section 25
+
+ID: M5250_S0010_G0310_001_robostrange
+JP: バカ？ボクバカ？エヘヘ〜、アリガト〜
+EN: I'M A DUMMY? HEE HEE! THANKS A LOT!
+RU: 
+
+
+-- Section 26
+
+ID: M5250_S0010_G0340_001_a9s
+JP: なんだこれ。予想以上に複雑だな……もう一度だ。
+EN: Wow, this is more complex than I was expecting. Let me try again...
+RU: 
+
+
+-- Section 27
+
+ID: M5250_S0010_G0350_001_a9s
+JP: ……君は……
+EN: Hmm...
+RU: 
+
+ID: M5250_S0010_G0360_001_robostrange
+JP: ……
+EN: ......
+RU: 
+
+ID: M5250_S0010_G0370_001_a9s
+JP: 君はこんなに高度な思考回路を持ちながら、どうして？
+EN: If your logic circuits are this advanced, why are you behaving like that?
+RU: 
+
+ID: M5250_S0010_G0380_001_robostrange
+JP: やれやれ、バレてしまいましたか。
+EN: Well, I suppose there's no point in pretending anymore.
+RU: 
+
+ID: M5250_S0010_G0390_001_robostrange
+JP: 答えは簡単だ。高い硬貨より安い硬貨を好むと言えば、\n周囲は面白がって何度でも与える。そうだろう？
+EN: It's simple, really: If I pretend to prefer smaller denominations of coins, the people around me are so entertained, they keep giving them to me.
+RU: 
+
+ID: M5250_S0010_G0400_001_robostrange
+JP: 結果、高い硬貨よりも多くの金額を得られるというわけだ。\nいや、稼がせてもらったよ。
+EN: In this fashion, I'm able to earn far more than I would if I asked for larger units of currency.
+RU: 
+
+ID: M5250_S0010_G0410_001_robostrange
+JP: いいかい？愚か者だと思わせておいた方が真実に近づくのだ。\n覚えておきたまえ。
+EN: There's an important lesson here: The more of a fool people take you for, the more you'll learn of their true nature.
+RU: 
+
+ID: M5250_S0010_G0420_001_robostrange
+JP: ああ、この事は内密に。\nまだまだ馬鹿だと思わせておかねばならないからね。
+EN: Oh, but keep this between us for now, all right? I need them to keep thinking that I'm slow.
+RU: 
+
+ID: M5250_S0010_G0430_001_robostrange
+JP: これは口止め料だ。
+EN: Here's a little hush money to smooth things over.
+RU: 
+
+
+-- Section 28
+
+ID: M5250_S0010_G0410_001_robostrange
+JP: いいかい？愚か者だと思わせておいた方が真実に近づくのだ。\n覚えておきたまえ。
+EN: There's an important lesson here: The more of a fool people take you for, the more you'll learn of their true nature.
+RU: 
+
+
+-- Section 29
+
+ID: M5250_S0010_G0440_001_a9s
+JP: 賢いって一体何だろうな……
+EN: I'm not sure I even know what it means to be smart anymore.
+RU: 
+
+ID: M5250_S0010_G0450_001_pod153
+JP: 回答不能：質問の定義が曖昧な為。
+EN: Reply unknown. Terms are too vague to formulate a reasoned response.
+RU: 
+
+ID: M5250_S0010_G0460_001_a9s
+JP: だろうね。
+EN: Heh. Don't I know it...
+RU: 
+
+

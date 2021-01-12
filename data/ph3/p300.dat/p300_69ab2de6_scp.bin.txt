@@ -1,0 +1,63 @@
+-- Section 1
+
+ID: M3000_S0060_G0000_001_op60
+JP: ２Ｂさんの作戦開始地点は廃墟都市の南西にあります。
+EN: 2B, the operation will begin at a point southwest of the city ruins.
+RU: 
+
+ID: M3000_S0060_G0010_001_op60
+JP: 飛行ユニットで向かい、現地で９Ｓさんと合流してください。
+EN: Use your flight unit to travel there and meet up with 9S.
+RU: 
+
+ID: M3000_S0060_G0020_001_a2b
+JP: 了解。
+EN: Will do.
+RU: 
+
+ID: M3000_S0060_G0021_001_op60
+JP: 先日のイヴ戦で破損した武器も修復して搭載しておきました。
+EN: We've repaired and reinstalled the weapons damaged in the fight against Eve.
+RU: 
+
+ID: M3000_S0060_G0030_001_op60
+JP: 到着時には既に全体の作戦が始まっていますので、気をつけてくださいね。
+EN: Be careful, okay? The mission will be in full swing by the time you get there.
+RU: 
+
+ID: M3000_S0060_G0040_001_a2b
+JP: ……ありがとう。
+EN: I will... And thanks.
+RU: 
+
+ID: M5920_S0090_G0070_001_human
+JP: 月面人類会議より地上で奮戦しているアンドロイド諸君に告げる。
+EN: The Council of Humanity has a message for all of our brave androids fighting on the surface.
+RU: 
+
+ID: M5920_S0090_G0080_001_human
+JP: 我らが誇る精鋭ヨルハ部隊が、敵ネットワークユニット、\nアダム及びイヴを撃破した。
+EN: Our elite YoRHa forces, the pride of humanity, have defeated two enemy network units known as Adam and Eve.
+RU: 
+
+ID: M5920_S0090_G0090_001_human
+JP: この勝利は地球奪還に向けての大きな一歩となろう。
+EN: This victory is a giant leap forward in our quest to reclaim Earth.
+RU: 
+
+ID: M5920_S0090_G0100_001_human
+JP: 我々月面の人類も喜びの声に満ちている。
+EN: The moon rings out with the cheers of the entire human race!
+RU: 
+
+ID: M5920_S0090_G0110_001_human
+JP: 今後のさらなる諸君らの健闘に期待する。
+EN: We look forward to your continued combat exploits.
+RU: 
+
+ID: M5920_S0090_G0120_001_human
+JP: 人類に栄光あれ。
+EN: Glory to mankind.
+RU: 
+
+

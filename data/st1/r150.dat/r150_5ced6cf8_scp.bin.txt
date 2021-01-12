@@ -1,0 +1,673 @@
+-- Section 1
+
+ID: M6030_S0010_G0390_300_sp
+JP: 無事だったか。\nこのエリアは幸い被害が少なかったが、これからはどうなるかわからない。
+EN: You all in one piece? There weren't many casualties in this area, but we might not be so lucky next time!
+RU: 
+
+ID: M6030_S0010_G0400_300_sp
+JP: 何か交換していくかい？
+EN: So then! What can I do ya for?
+RU: 
+
+ID: M6030_S0010_G0410_300_sp
+JP: また……な。
+EN: See ya.
+RU: 
+
+
+-- Section 2
+
+ID: M6030_S0010_G0400_300_sp
+JP: 何か交換していくかい？
+EN: So then! What can I do ya for?
+RU: 
+
+ID: M6030_S0010_G0410_300_sp
+JP: また……な。
+EN: See ya.
+RU: 
+
+
+-- Section 3
+
+ID: M6030_S0010_G0270_300_sp
+JP: 君達のおかげでまともな商品がそろってきたよ。
+EN: Thanks to you, I have a decent lineup of products.
+RU: 
+
+ID: M6030_S0010_G0280_300_sp
+JP: 何か交換していくかい？
+EN: Wanna do business?
+RU: 
+
+ID: M6030_S0010_G0290_300_sp
+JP: また寄ってくれよ。
+EN: Come back any time.
+RU: 
+
+
+-- Section 4
+
+ID: M6030_S0010_G0280_300_sp
+JP: 何か交換していくかい？
+EN: Wanna do business?
+RU: 
+
+ID: M6030_S0010_G0290_300_sp
+JP: また寄ってくれよ。
+EN: Come back any time.
+RU: 
+
+
+-- Section 5
+
+ID: M1020_S0010_G0260_001_resi
+JP: ああ、君達か。
+EN: Hey, welcome back!
+RU: 
+
+ID: M1020_S0010_G0270_001_resi
+JP: 砂漠の資材が入手出来るようになって助かったよ。
+EN: Thanks for securing access to those desert resources.\nIt's a huge help.
+RU: 
+
+ID: M1020_S0010_G0280_001_resi
+JP: つまらないモノだけど、これをお礼に取っておいてくれ。
+EN: I know it isn't much, but please take this. It's the least I can do.
+RU: 
+
+ID: M1020_S0010_G0290_001_resi
+JP: 何か入り用の時はここに立ち寄ってくれよ。
+EN: Oh, and be sure to swing by if you ever need anything, all right?
+RU: 
+
+
+-- Section 6
+
+ID: M1020_S0010_G0300_001_resi
+JP: 何か交換していくかい？
+EN: What can I help you with?
+RU: 
+
+ID: M6030_S0010_G0180_300_sp
+JP: また寄ってくれよ。
+EN: Come back any time.
+RU: 
+
+
+-- Section 7
+
+ID: M6030_S0010_G0160_300_sp
+JP: 君達か。\n砂漠の資材が入手出来るようになって助かったよ。
+EN: Oh, it's you. Hey, thanks for securing access to those desert resources. It's been a huge help.
+RU: 
+
+ID: M6030_S0010_G0170_300_sp
+JP: 何か交換していくかい？
+EN: Here to do a little business?
+RU: 
+
+ID: M6030_S0010_G0180_300_sp
+JP: また寄ってくれよ。
+EN: Come back any time.
+RU: 
+
+
+-- Section 8
+
+ID: M6030_S0010_G0170_300_sp
+JP: 何か交換していくかい？
+EN: Here to do a little business?
+RU: 
+
+ID: M6030_S0010_G0180_300_sp
+JP: また寄ってくれよ。
+EN: Come back any time.
+RU: 
+
+
+-- Section 9
+
+ID: M1020_S0010_G0160_001_resi
+JP: ああ、君達がヨルハか。話は聞いてるよ。
+EN: You're from YoRHa, right? I've heard about you guys.
+RU: 
+
+ID: M1020_S0010_G0170_001_resi
+JP: この先の岩場で仲間が待ってるから、そっちに向かってくれ。
+EN: We've got a squadmate waiting in a rocky stretch up ahead. Head on over.
+RU: 
+
+ID: M1020_S0010_G0180_001_resi
+JP: ただ、砂漠地帯には補給する場所が無い。
+EN: Just remember that there's nowhere to resupply out there.
+RU: 
+
+ID: M1020_S0010_G0190_001_resi
+JP: 何か必要だったらここで交換していった方がいいな。
+EN: If you need anything, best to take care of it here while you can.
+RU: 
+
+ID: M1020_S0010_G0300_001_resi
+JP: 何か交換していくかい？
+EN: What can I help you with?
+RU: 
+
+
+-- Section 10
+
+ID: M1020_S0010_G0300_001_resi
+JP: 何か交換していくかい？
+EN: What can I help you with?
+RU: 
+
+
+-- Section 11
+
+ID: M1020_S0010_G0120_001_resi
+JP: 最近、このあたりは物騒でね……
+EN: Things have been dangerous around here lately.
+RU: 
+
+
+-- Section 12
+
+ID: M6033_S0013_G0414_300_js
+JP: お前は……Ａ２……
+EN: You're...A2...
+RU: 
+
+ID: M6033_S0013_G0415_300_js
+JP: ……いや、なんでもない。気をつけてな。
+EN: ...Never mind. Just be careful out there, yeah?
+RU: 
+
+
+-- Section 13
+
+ID: M6033_S0013_G0416_300_js
+JP: 今はあまり、話したい気分じゃないな……
+EN: Don't really feel like talking now.
+RU: 
+
+
+-- Section 14
+
+ID: M6031_S0011_G0411_300_js
+JP: バンカーが落ちたのか……
+EN: So the Bunker's gone, eh?
+RU: 
+
+ID: M6032_S0012_G0412_300_js
+JP: ホワイト……クソッ！！
+EN: Goddammit, White...
+RU: 
+
+ID: M6033_S0013_G0413_300_js
+JP: ……すまない、ちょっと知り合いがバンカーにいてね。
+EN: ...Sorry. I had a friend back at the Bunker.
+RU: 
+
+
+-- Section 15
+
+ID: M6030_S0010_G0381_300_js
+JP: あんたには感謝している。
+EN: Thanks for the help.
+RU: 
+
+ID: M6030_S0010_G0382_300_js
+JP: 最近、ちょっと気になる事があってね……
+EN: You know, I've been thinking about something lately.
+RU: 
+
+ID: M6030_S0010_G0383_300_js
+JP: 少し調査してみようかな。
+EN: Maybe I should look into it...
+RU: 
+
+
+-- Section 16
+
+ID: M1020_S0010_G0310_001_resi
+JP: 砂漠の機械共を倒してもらえて助かったよ……
+EN: I hear you kicked some tin-can ass out in the desert.
+RU: 
+
+ID: M1020_S0010_G0320_001_resi
+JP: ありがと。
+EN: So I guess...you know. Thanks or whatever.
+RU: 
+
+
+-- Section 17
+
+ID: M1020_S0010_G0250_001_resi
+JP: ……あんまり無理しないようにね。
+EN: Don't go trying to be a hero, all right?
+RU: 
+
+
+-- Section 18
+
+ID: M1020_S0010_G0250_001_resi
+JP: ……あんまり無理しないようにね。
+EN: Don't go trying to be a hero, all right?
+RU: 
+
+
+-- Section 19
+
+ID: M6030_S0010_G0261_300_js
+JP: 研究に付き合ってくれてありがとう。
+EN: Yo. Thanks for helping out with my research.
+RU: 
+
+ID: M6030_S0010_G0262_300_js
+JP: あんたには感謝しているんだ。
+EN: Thanks for the help.
+RU: 
+
+ID: M6030_S0010_G0263_300_js
+JP: 用があれば力になるよ。
+EN: Holler at me if you ever need anything.
+RU: 
+
+
+-- Section 20
+
+ID: M1020_S0010_G0130_001_resi
+JP: この前も私達の仲間が敵に襲われた。
+EN: One of our teams came under attack just the other day.
+RU: 
+
+ID: M1020_S0010_G0140_001_resi
+JP: これからどうなるのか心配で……
+EN: Who knows what'll happen to us next?
+RU: 
+
+
+-- Section 21
+
+ID: M1020_S0010_G0150_001_resi
+JP: 砂漠は足を取られやすいから、気をつけてね。
+EN: You jerks be careful in the desert, yeah? Folks die out there.
+RU: 
+
+
+-- Section 22
+
+ID: M5150_S0030_G0080_001_ys
+JP: ああ、薬？……摂取すると、気持ちがふわぁって楽になるの。\nフフッ……フフフッ……
+EN: That drug... S-So wonderful... Everything feels amaaaaazing... Heeee hee hee...
+RU: 
+
+ID: M5150_S0030_G0090_001_ys
+JP: 薬……？これはヤバイよ……楽しくて……戦闘が止められないんだ。
+EN: Drug... More drug... Can't stop fighting... So fuuuuun...
+RU: 
+
+
+-- Section 23
+
+ID: M5150_S0030_G0100_001_pod042
+JP: 薬の摂取による副作用と判定。
+EN: Analysis: Unusual unit behavior is directly correlated to the stimulating effects of the combat substance.
+RU: 
+
+ID: M5150_S0030_G0110_001_a2b
+JP: 薬物の乱用……
+EN: They're abusing it.
+RU: 
+
+ID: M5150_S0030_G0120_001_a2b
+JP: いや、薬に頼らないといけない程、辛いのか……
+EN: Or maybe their lives are just too hard to fathom without it.
+RU: 
+
+
+-- Section 24
+
+ID: M5150_S0030_G0130_001_pod153
+JP: 薬の摂取による副作用と判定。
+EN: Analysis: Unusual unit behavior is directly correlated to the stimulating effects of the combat substance.
+RU: 
+
+ID: M5150_S0030_G0140_001_a9s
+JP: 薬物の乱用……
+EN: They're abusing it.
+RU: 
+
+ID: M5150_S0030_G0150_001_a9s
+JP: いや、薬に頼らないといけないくらい辛いのか……
+EN: Or maybe their lives are just too hard to fathom without it.
+RU: 
+
+
+-- Section 25
+
+ID: M5150_S0030_G0160_001_pod042
+JP: 薬の摂取による副作用と判定。
+EN: Analysis: Unusual unit behavior is directly correlated to the stimulating effects of the combat substance.
+RU: 
+
+ID: M5150_S0030_G0170_001_a2
+JP: 薬物の乱用……
+EN: They're abusing it.
+RU: 
+
+ID: M5150_S0030_G0180_001_a2
+JP: いや、薬に頼らないといけない程、辛いのか……
+EN: Or maybe their lives are just too hard to fathom without it.
+RU: 
+
+
+-- Section 26
+
+ID: M6030_S0010_G0420_300_ys
+JP: 薬……？これはヤバイよ……楽しくて……戦闘が止められないんだ。
+EN: ...Drugs? Yeah, they're pretty crazy. I can't stop fighting!
+RU: 
+
+
+-- Section 27
+
+ID: M6030_S0010_G0430_300_ys
+JP: 任務？……もうどうでもいい。……ほうっておいてくれ。
+EN: Mission? Whatever... Leave me alone.
+RU: 
+
+ID: M6030_S0010_G0440_300_ys
+JP: はぁー……はぁー……
+EN: *huff, huff...*
+RU: 
+
+
+-- Section 28
+
+ID: M6030_S0010_G0480_300_ys
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 29
+
+ID: M6030_S0010_G0300_300_ys
+JP: 想定より進捗状況が悪いんだ。
+EN: Progress isn't exactly going as planned.
+RU: 
+
+
+-- Section 30
+
+ID: M6030_S0010_G0310_300_ys
+JP: 司令部にもせっつかれているし、どうにかしなくては……
+EN: And Command keeps pestering me, so I gotta do something.
+RU: 
+
+ID: M6030_S0010_G0320_300_ys
+JP: どうしたものか……
+EN: Siiigh... Why do I always draw the short straw?
+RU: 
+
+
+-- Section 31
+
+ID: M6030_S0010_G0190_300_ys
+JP: 私達は、このエリアの資源をバンカーに送る任務を受け持った。
+EN: We've been charged with sending resources from here to the bunker.
+RU: 
+
+
+-- Section 32
+
+ID: M6030_S0010_G0200_300_ys
+JP: ここの環境はアンドロイドが活動するには厳しいんだが……
+EN: This is a harsh environment for androids.
+RU: 
+
+ID: M6030_S0010_G0210_300_ys
+JP: ……いや、すまない任務に集中しよう。
+EN: Welp, nothing for it! Better just concentrate on the task at hand, right?
+RU: 
+
+
+-- Section 33
+
+ID: M6030_S0010_G0000_300_ys
+JP: こっちのエリアは私達が調査している。
+EN: We're investigating this area.
+RU: 
+
+
+-- Section 34
+
+ID: M6030_S0010_G0010_300_ys
+JP: お互い、大変な任務だが……頑張ろう。
+EN: I know we both have serious missions to do, so let's give it our all.
+RU: 
+
+
+-- Section 35
+
+ID: M6030_S0010_G0450_300_ys
+JP: ああ、薬？……勧める気は全然ないんだけど、もしどうしてもって言うなら……
+EN: ...Hmm? Drugs? Yeah, they make me feel REALLY WEIRD! ...Wanna try some?
+RU: 
+
+ID: M6030_S0010_G0470_300_ys
+JP: ありがとう……これで……フフフフッ……
+EN: See you later... Hee! Heeee hee hee hee...
+RU: 
+
+
+-- Section 36
+
+ID: M6030_S0010_G0460_300_ys
+JP: このクスリ……欲しくなっちゃった？
+EN: Pssst! Hey! Hey, buddy! You need some drugs?
+RU: 
+
+ID: M6030_S0010_G0470_300_ys
+JP: ありがとう……これで……フフフフッ……
+EN: See you later... Hee! Heeee hee hee hee...
+RU: 
+
+
+-- Section 37
+
+ID: M6030_S0010_G0480_300_ys
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 38
+
+ID: M6030_S0010_G0330_300_ys
+JP: お疲れ様です！\nあなたの活動記録は欠かさずチェックしてます！
+EN: Hey there! Hope you don't mind, but I've been tracking your activity log.
+RU: 
+
+
+-- Section 39
+
+ID: M6030_S0010_G0340_300_ys
+JP: 私も自分の任務がんばりますね！
+EN: Your success has inspired me to work harder during my own missions!
+RU: 
+
+
+-- Section 40
+
+ID: M6030_S0010_G0220_300_ys
+JP: 機械生命体を討伐したって聞きました！
+EN: I hear you defeated the machines.
+RU: 
+
+
+-- Section 41
+
+ID: M6030_S0010_G0230_300_ys
+JP: すごいです！尊敬します……
+EN: You're amazing! I wish I was as strong as you...
+RU: 
+
+
+-- Section 42
+
+ID: M6030_S0010_G0020_300_ys
+JP: この油田は資源として利用できそうです。
+EN: Looks like we can use this oil field as a resource.
+RU: 
+
+
+-- Section 43
+
+ID: M6030_S0010_G0030_300_ys
+JP: 砂漠地帯の機械生命体の活動を抑えることができれば、\n安全に輸送することが出来ます。
+EN: If we can minimize machine activity in the desert area, we'll be able to transport the oil safely.
+RU: 
+
+ID: M6030_S0010_G0040_300_ys
+JP: 地道な作業でも一人でも多くの仲間を救えるなら……
+EN: It may be unexciting work, but if it can help save even a single ally, I'll do whatever it takes.
+RU: 
+
+
+-- Section 44
+
+ID: M6030_S0010_G0350_300_ys
+JP: こんにちは！
+EN: Hello!
+RU: 
+
+
+-- Section 45
+
+ID: M6030_S0010_G0360_300_ys
+JP: この前、鳥の群れがここに羽を休めに来たの。\n嵐の抜け道を知っているのかな。
+EN: A flock of birds came to rest their wings here. I wonder if they instinctively knew how to escape the storm?
+RU: 
+
+ID: M6030_S0010_G0370_300_ys
+JP: ここにいると、時間がゆっくり流れている気がするの。
+EN: It seems like time moves more slowly here.
+RU: 
+
+ID: M6030_S0010_G0380_300_ys
+JP: あなたも余裕があるなら、釣りでもしていったらどう？
+EN: If you've got nothing to do, why don't you try fishing? Everyone loves settling down for a round by the pond!
+RU: 
+
+
+-- Section 46
+
+ID: M6030_S0010_G0240_300_ys
+JP: こんにちは。
+EN: Hello.
+RU: 
+
+
+-- Section 47
+
+ID: M6030_S0010_G0250_300_ys
+JP: ここの調査任務を司令官にお願いしたの。\nここは静かで、安全な所だから嬉しかったわ。
+EN: The Commander ordered me to check out this area. There's not much going on—which is just fine by me!
+RU: 
+
+ID: M6030_S0010_G0260_300_ys
+JP: 他のエリアも、ここみたいになればいいのにな。
+EN: I wish all the other areas were like this.
+RU: 
+
+
+-- Section 48
+
+ID: M6030_S0010_G0050_300_ys
+JP: あなた！こんな所で何してるの。\n任務はどうしたの。
+EN: Hey, you! What are you doing here? What happened to your mission?
+RU: 
+
+
+-- Section 49
+
+ID: M6030_S0010_G0060_300_ys
+JP: 私？……迷ったの！\nあはは！驚かせてごめんなさい。
+EN: ...Who, me? Oh, I'm just lost. Ha! Sorry if I startled you.
+RU: 
+
+ID: M6030_S0010_G0070_300_ys
+JP: このエリアだけ淡水が湧き出て、植物が育っている。
+EN: This is the only area with fresh water, and there's vegetation growing too.
+RU: 
+
+ID: M6030_S0010_G0080_300_ys
+JP: アンドロイドでも、活動するのが大変な地域なのに、\n自然ってすごいのね。
+EN: Even androids have trouble living in this environment, yet here these plants are. Isn't nature amazing?
+RU: 
+
+ID: M6030_S0010_G0090_300_ys
+JP: 私はもう少し、ここを調査しているわ。\n司令官には内緒にしてね。
+EN: I'm going to stick around and investigate this place a little more. Don't tell the Commander, okay?
+RU: 
+
+
+-- Section 50
+
+ID: M6030_S0010_G0100_300_robowoman
+JP: アラ！こんにちは。
+EN: Oh! Hello.
+RU: 
+
+
+-- Section 51
+
+ID: M6030_S0010_G0110_300_robowoman
+JP: ごきげんいかが？
+EN: How are you?
+RU: 
+
+
+-- Section 52
+
+ID: M6030_S0010_G0120_300_n02
+JP: 何シニキタ！
+EN: Why are you here?
+RU: 
+
+
+-- Section 53
+
+ID: M6030_S0010_G0130_300_n02
+JP: ヨソモノ！
+EN: Outsider!
+RU: 
+
+
+-- Section 54
+
+ID: M6030_S0010_G0140_300_n02
+JP: 変ナ奴。
+EN: Freak!
+RU: 
+
+
+-- Section 55
+
+ID: M6030_S0010_G0150_300_n02
+JP: 外カラ来タノカ。
+EN: Did you come from the outside?
+RU: 
+
+
+-- Section 56
+
+ID: M5590_S0050_G0360_001_resistance
+JP: どんな文明があったんだろうなあ……この場所には。
+EN: I wonder what kind of civilization used to exist here...
+RU: 
+
+

@@ -1,0 +1,49 @@
+-- Section 1
+
+ID: M1050_S0195_S0133_201_a9s
+JP: いかにも王様が住んでそうなお城ですね……
+EN: Yep, this looks like a king's castle, all right...
+RU: 
+
+
+-- Section 2
+
+ID: M5920_S0060_G0140_001_a9s
+JP: 敵の攻撃に気をつけましょう。２Ｂ。
+EN: Watch out for hostile enemies, 2B.
+RU: 
+
+
+-- Section 3
+
+ID: M5920_S0060_G0150_001_a2b
+JP: わかった。ナインェズ。
+EN: Roger that, Nine...ze.
+RU: 
+
+ID: M5920_S0060_G0160_001_a9s
+JP: え！？今何て言いました？
+EN: Huh!? Wait, what did you just say!?
+RU: 
+
+ID: M5920_S0060_G0170_001_a2b
+JP: わかった。９Ｓ。
+EN: Roger that, 9S.
+RU: 
+
+ID: M5920_S0060_G0180_001_a9s
+JP: え？違いますよね？もっと、こう『ナインズ』的な発音でしたよね？
+EN: Wait, no! That's not what you said! You said "Nines"!\nOr at least something close to—
+RU: 
+
+ID: M5920_S0060_G0190_001_a2b
+JP: 黙って敵を倒す。
+EN: Cut the chatter, and engage the enemy.
+RU: 
+
+ID: M5920_S0060_G0200_001_a9s
+JP: もー！
+EN: Ugh!
+RU: 
+
+

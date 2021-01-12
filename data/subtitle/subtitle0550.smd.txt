@@ -1,0 +1,15 @@
+ID: M1070_S0320_H0000_001_a2b
+JP: ９Ｓ
+EN: 9S...
+RU: 
+
+ID: M1070_S0320_H0010_001_a9s
+JP: ２Ｂ……
+EN: 2B...
+RU: 
+
+ID: M1070_S0320_H0020_001_a2b
+JP: 帰ろう……９Ｓ。
+EN: Come on. Let's go home.
+RU: 
+

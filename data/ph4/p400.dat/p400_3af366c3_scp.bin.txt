@@ -1,0 +1,62 @@
+-- Section 1
+
+ID: M5095_S0100_G0000_001_announce
+JP: プラトンモデル１７２８号機。
+EN: Plato Model No. 1728.
+RU: 
+
+ID: M5095_S0100_G0010_001_announce
+JP: 運動機能試験を始メル。
+EN: Starting examination of motor functions.
+RU: 
+
+ID: M5095_S0100_G0020_001_announce
+JP: 制限時間内に、マーカーの点灯スル箇所に移動する事。
+EN: Move to the location highlighted by the marker within the allotted time.
+RU: 
+
+ID: M5095_S0100_G0030_001_announce
+JP: ソレデハ試験を開始する。
+EN: Commencing examination.
+RU: 
+
+
+-- Section 2
+
+ID: M5095_S0100_G0050_001_announce
+JP: プラトン１７２８。
+EN: Plato 1728.
+RU: 
+
+ID: M5095_S0100_G0060_001_announce
+JP: 成績記録：非常に悪イ。
+EN: Results: Extremely poor.
+RU: 
+
+ID: M5095_S0100_G0070_001_announce
+JP: 次回試験マデニ対処シテオクヨウニ。
+EN: Measures must be taken before the next examination.
+RU: 
+
+ID: M5095_S0100_G0080_001_announce
+JP: 以上。
+EN: That is all.
+RU: 
+
+
+-- Section 3
+
+ID: M5095_S0100_G0040_001_announce
+JP: 測定基準を満たしてイナイ為、再試験を命ずる。
+EN: The required measurement standard has not been met. Reexamination is required.
+RU: 
+
+
+-- Section 4
+
+ID: M5095_S0100_G0030_001_announce
+JP: ソレデハ試験を開始する。
+EN: Commencing examination.
+RU: 
+
+

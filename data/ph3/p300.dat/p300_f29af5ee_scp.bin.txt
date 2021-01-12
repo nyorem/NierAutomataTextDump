@@ -1,0 +1,195 @@
+-- Section 1
+
+ID: M3020_S0026_G0000_001_a9s
+JP: ポッド。
+EN: Hey, Pod.
+RU: 
+
+ID: M3020_S0026_G0010_001_a9s
+JP: 僕が寝てた間の状況報告。
+EN: Give me a rundown on what happened while I was resting.
+RU: 
+
+ID: M3020_S0026_G0020_001_pod153
+JP: 報告：先ほどアクセスした巨大構造物について。
+EN: Affirmative. Relevant data concerns the massive facility you just accessed.
+RU: 
+
+ID: M3020_S0026_G0030_001_pod153
+JP: 機械生命体に由来すると考えられるが詳細は不明。
+EN: It appears to be machine-related in origin, though further details are unknown.
+RU: 
+
+ID: M3020_S0026_G0040_001_pod153
+JP: また、構造物から射出された大型ユニットが\n数カ所にある事が判明している。
+EN: Additionally, the large structural units launched from the facility have been detected in multiple areas.
+RU: 
+
+ID: M3020_S0026_G0050_001_a9s
+JP: 大型ユニット？
+EN: Large structural units?
+RU: 
+
+ID: M3020_S0026_G0060_001_pod153
+JP: 先ほど目的地としてマークされた物体、自称『資源回収ユニット』と予測。
+EN: Said units were marked as goals earlier. They are believed to be so-called "resource-recovery units".
+RU: 
+
+ID: M3020_S0026_G0070_001_a9s
+JP: ユニットの目的は？
+EN: What do these units do?
+RU: 
+
+ID: M3020_S0026_G0080_001_pod153
+JP: 不明。
+EN: Unknown.
+RU: 
+
+ID: M3020_S0026_G0090_001_a9s
+JP: ……Ａ２は？
+EN: Where's A2?
+RU: 
+
+ID: M3020_S0026_G0100_001_pod153
+JP: 現在位置・生死共に不明。
+EN: Unit A2's position and current status are unknown.
+RU: 
+
+ID: M3020_S0026_G0110_001_a9s
+JP: わかった……
+EN: All right.
+RU: 
+
+ID: M3020_S0026_G0120_001_a9s
+JP: その大型ユニットの位置をマーク。
+EN: Mark the positions of those units on my map, will you?
+RU: 
+
+
+-- Section 2
+
+ID: M3020_S0026_G0130_001_pod153
+JP: 目的の提示。
+EN: Proposal: Unit 9S should state his intentions.
+RU: 
+
+ID: M3020_S0026_G0140_001_a9s
+JP: 機械生命体の殲滅。
+EN: I'm going to wipe out the machines.
+RU: 
+
+ID: M3020_S0026_G0150_001_pod153
+JP: ヨルハ部隊基地バンカーが破壊された現在、\n各部隊員に対する命令は留保されていると判断。
+EN: With the Bunker destroyed, previous orders to YoRHa units would be suspended.
+RU: 
+
+ID: M3020_S0026_G0160_001_pod153
+JP: 推奨：レジスタンス部隊への合流と、命令系統の再確認。
+EN: Proposal: Rendezvous with Resistance forces and confirm chain of command.
+RU: 
+
+ID: M3020_S0026_G0170_001_a9s
+JP: ……命令だからやるんじゃない。
+EN: I don't care about chain of command.
+RU: 
+
+ID: M3020_S0026_G0180_001_a9s
+JP: 僕が、決めたんだ。
+EN: I have one goal now.
+RU: 
+
+ID: M3020_S0026_G0190_001_a9s
+JP: 機械生命体は殲滅する。
+EN: I'm going to kill every last machine.
+RU: 
+
+ID: M3020_S0026_G0200_001_a9s
+JP: そして……
+EN: And then...
+RU: 
+
+ID: M3020_S0026_G0210_001_a9s
+JP: Ａ２を、殺す。
+EN: I'm going to kill A2.
+RU: 
+
+
+-- Section 3
+
+ID: M3020_S0040_G0000_001_a9s
+JP: あれが……その大型ユニット？
+EN: Is that one of our large units?
+RU: 
+
+ID: M3020_S0040_G0010_001_pod153
+JP: 肯定。
+EN: Affirmative.
+RU: 
+
+ID: M3020_S0040_G0020_001_pod153
+JP: 巨大構造物に対し、何かを送出している様子。
+EN: Said unit appears to be delivering something to the giant facility.
+RU: 
+
+ID: M3020_S0040_G0030_001_pod153
+JP: 推測：何らかの資源を巨大構造物に送り出している施設。
+EN: Hypothesis: This facility may be designed to transport some kind of resource.
+RU: 
+
+ID: M3020_S0040_G0040_001_a9s
+JP: 送り出す……何を？
+EN: What's the resource it's transporting?
+RU: 
+
+ID: M3020_S0040_G0050_001_pod153
+JP: 不明。
+EN: Unknown.
+RU: 
+
+ID: M3020_S0040_G0060_001_a9s
+JP: 何の為に？
+EN: For what purpose?
+RU: 
+
+ID: M3020_S0040_G0070_001_pod153
+JP: 不明。
+EN: Unknown.
+RU: 
+
+
+-- Section 4
+
+ID: M5920_S0130_G0000_001_a9s
+JP: 霧が……
+EN: Huh? Fog?
+RU: 
+
+ID: M5920_S0130_G0010_001_pod153
+JP: 報告：敵大型ユニットからの大量の蒸気発生を確認。
+EN: Analysis: The fog is actually steam emitted by a large enemy structural unit.
+RU: 
+
+ID: M5920_S0130_G0020_001_a9s
+JP: 蒸気？……一体、何の為に……
+EN: Steam? For what purpose?
+RU: 
+
+ID: M5920_S0130_G0030_001_pod153
+JP: 不明。
+EN: Unknown.
+RU: 
+
+
+-- Section 5
+
+ID: M3020_S0026_G0220_300_pod153
+JP: 推奨：マークされた資源回収ユニットの調査。
+EN: Proposal: Investigate the marked resource recovery units.
+RU: 
+
+ID: M3020_S0026_G0230_300_a9s
+JP: 分かってる。
+EN: I know.
+RU: 
+
+

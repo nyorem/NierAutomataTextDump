@@ -1,0 +1,527 @@
+-- Section 1
+
+ID: M5140_S0030_G0010_300_resiwoman
+JP: せっかく協力してもらってるのにごめんなさい\nまたあとで来てください
+EN: I'm sorry, I know you're helping me out, but would you mind coming back later?
+RU: 
+
+ID: M5140_S0030_G0020_300_resiwoman
+JP: 今は任務に集中しないと……
+EN: I need to focus on my job right now.
+RU: 
+
+
+-- Section 2
+
+ID: M5140_S0010_G0000_001_resiwoman
+JP: あ！あなた達はヨルハ最新型……！
+EN: Say, you're the new YoRHa models, aren't you?
+RU: 
+
+ID: M5140_S0010_G0010_001_a9s
+JP: さ……最新型といえば、そうですが……どうかしたんですか？
+EN: I guess we are the newest, now that you mention it. Did you need something?
+RU: 
+
+ID: M5140_S0010_G0020_001_resiwoman
+JP: 最新型って事は、強いんですよね……
+EN: I bet new models like you can handle pretty much anything, huh?
+RU: 
+
+ID: M5140_S0010_G0030_001_resiwoman
+JP: だったら……ううん、でも……
+EN: You might even be able to... No, no. I shouldn't ask. That would be rude. But yet... *siiigh*
+RU: 
+
+ID: M5140_S0010_G0040_001_sele
+JP: 悩みを聞いてみる。
+EN: Listen to her problem.
+RU: 
+
+ID: M5140_S0010_G0050_001_sele
+JP: 放っておく。
+EN: Ignore the hint.
+RU: 
+
+
+-- Section 3
+
+ID: M5140_S0010_G0060_001_a9s
+JP: 何かあれば言ってもらえれば、相談には乗りますよ？
+EN: Why don't you tell us what's wrong? Maybe we can help out.
+RU: 
+
+ID: M5140_S0010_G0070_001_resiwoman
+JP: は、はい！実は最近、仲間の１人が行方不明なんです。
+EN: Oh! Well, if you insist... It turns out one of my friends has gone missing.
+RU: 
+
+ID: M5140_S0010_G0071_001_a9s
+JP: 行方不明とは穏やかじゃないですね。
+EN: Missing? That doesn't sound good.
+RU: 
+
+ID: M5140_S0010_G0072_001_a2b
+JP: 最後に姿が確認できた場所は？
+EN: Where was this friend last seen?
+RU: 
+
+ID: M5140_S0010_G0073_001_resiwoman
+JP: 資材置き場です。彼はそこで働いていたので……
+EN: At the material storage site where he works.
+RU: 
+
+ID: M5140_S0010_G0074_001_a9s
+JP: 資材置き場か……ちょっと行ってみましょうか。
+EN: The storage site, eh? Maybe we should check it out.
+RU: 
+
+ID: M5140_S0010_G0075_001_resiwoman
+JP: お願いします！あの人がいないと、私……お願いします！
+EN: Oh, please, would you? Without him, I... I... Please!
+RU: 
+
+
+-- Section 4
+
+ID: M5140_S0010_G0000_300_resiwoman
+JP: お忙しいとは思うんですが、時間ができたら相談に乗ってください。\nお願いします。
+EN: I know you're busy, but if you find the time later, I hope you'll reconsider.
+RU: 
+
+
+-- Section 5
+
+ID: M5140_S0010_G0010_300_resiwoman
+JP: 相談に乗っていただけるんですか？
+EN: Are you willing to hear my story?
+RU: 
+
+ID: M5140_S0010_G0020_300_sele
+JP: 相談に乗る
+EN: Listen to her problem.
+RU: 
+
+ID: M5140_S0010_G0030_300_sele
+JP: 放っておく
+EN: Ignore the request.
+RU: 
+
+
+-- Section 6
+
+ID: M5140_S0020_G0000_300_resiwoman
+JP: キャンプ奥の資材置き場に、何か手掛かりがあればいいんですが……\nあの人……どこにいったんだろう……
+EN: I hope you'll find something at the material storage site in the camp. Where could he have gone...?
+RU: 
+
+
+-- Section 7
+
+ID: M5140_S0030_G0000_300_resiwoman
+JP: これは……座標ですか？\n砂漠の方みたいですが……一体何の用があってそんなところに？
+EN: Are these...coordinates? It looks like they lead to the desert, but why would he possibly go there?
+RU: 
+
+
+-- Section 8
+
+ID: M5140_S0050_G0050_001_resiwoman
+JP: あ！あの、どうでしたか？あの人は……
+EN: Hey, you're back! So how did it go? Did you find him, or...
+RU: 
+
+ID: M5140_S0050_G0060_001_sele
+JP: 死亡したと伝える。
+EN: Tell her the truth.
+RU: 
+
+ID: M5140_S0050_G0070_001_sele
+JP: 見つからなかったと伝える。
+EN: Lie and say you couldn't find him.
+RU: 
+
+
+-- Section 9
+
+ID: M5140_S0050_G0080_001_a9s
+JP: 僕らが行った時には、もう……死んでいました。
+EN: I'm very sorry, but...your friend is dead.
+RU: 
+
+ID: M5140_S0050_G0090_001_resiwoman
+JP: え……
+EN: Oh...
+RU: 
+
+ID: M5140_S0050_G0100_001_a9s
+JP: 機械生命体に仲間を倒されたことを恨んで、復讐に行ったみたいです。
+EN: He was trying to get revenge against the machine that killed his comrades.
+RU: 
+
+ID: M5140_S0050_G0110_001_resiwoman
+JP: そんな……そんな……！
+EN: No... Oh no...
+RU: 
+
+ID: M5140_S0050_G0120_001_a9s
+JP: でも、そのまま返り討ちに遭って……
+EN: But he wasn't strong enough, and the machine ended up killing him instead.
+RU: 
+
+ID: M5140_S0050_G0130_001_resiwoman
+JP: ……機械生命体ッ……殺す……殺してやる！
+EN: Damn the machines... I'll murder them all!
+RU: 
+
+ID: M5140_S0050_G0140_001_a9s
+JP: 落ち着いて！その機械生命体は僕達が破壊しました。
+EN: Whoa, easy! It's okay! We took out the one that killed your friend.
+RU: 
+
+ID: M5140_S0050_G0150_001_resiwoman
+JP: ……え？
+EN: You did?
+RU: 
+
+ID: M5140_S0050_G0160_001_a9s
+JP: だからもう、復讐なんかしなくても大丈夫です。
+EN: Yes, we did. Which means there's no need for anyone else to go seeking revenge.
+RU: 
+
+ID: M5140_S0050_G0170_001_resiwoman
+JP: じゃあ……じゃあ、私はどうすればいいの？
+EN: But...what do I do now?
+RU: 
+
+ID: M5140_S0050_G0180_001_resiwoman
+JP: 好きな相手も……殺したい相手もいないなんて……
+EN: I have no one to love... And no one to kill...
+RU: 
+
+ID: M5140_S0050_G0190_001_resiwoman
+JP: 私……どうしたら……
+EN: I have nothing.
+RU: 
+
+ID: M5140_S0050_G0200_001_a9s
+JP: そんな……
+EN: That's not...
+RU: 
+
+ID: M5140_S0050_G0210_001_a2b
+JP: ……行こう、９Ｓ。
+EN: Come on, 9S.
+RU: 
+
+ID: M5140_S0050_G0220_001_a9s
+JP: また……来ますね。
+EN: L-Look, we'll come back, okay? We'll come back and check on you.
+RU: 
+
+
+-- Section 10
+
+ID: M5140_S0050_G0230_001_resiwoman
+JP: そうですか……
+EN: You didn't? Oh.
+RU: 
+
+ID: M5140_S0050_G0240_001_resiwoman
+JP: お手数をおかけしました。
+EN: Well, thank you for trying, at least.
+RU: 
+
+ID: M5140_S0050_G0250_001_resiwoman
+JP: でも……
+EN: But...
+RU: 
+
+ID: M5140_S0050_G0260_001_resiwoman
+JP: ……
+EN: ......
+RU: 
+
+ID: M5140_S0050_G0270_001_resiwoman
+JP: 嘘なんでしょう？
+EN: ...You're lying, aren't you?
+RU: 
+
+ID: M5140_S0050_G0280_001_a9s
+JP: え！？
+EN: What!?
+RU: 
+
+ID: M5140_S0050_G0290_001_resiwoman
+JP: 彼は、機械生命体に復讐するって言ってました。
+EN: My friend said he was going to seek revenge against the machines.
+RU: 
+
+ID: M5140_S0050_G0300_001_resiwoman
+JP: だから、きっと……
+EN: So I know that he's...
+RU: 
+
+ID: M5140_S0050_G0310_001_a9s
+JP: そ、そんな事わからないですよ！
+EN: N-now, hold on! You don't know for sure!
+RU: 
+
+ID: M5140_S0050_G0320_001_resiwoman
+JP: ふふっ……優しいね。
+EN: That's...nice of you.
+RU: 
+
+ID: M5140_S0050_G0330_001_resiwoman
+JP: ありがとう。
+EN: Thank you.
+RU: 
+
+
+-- Section 11
+
+ID: M5140_S0050_G0260_001_resiwoman
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 12
+
+ID: M5140_S0050_G0340_001_a9s
+JP: あれ？あの人がいない……
+EN: Huh? She's gone.
+RU: 
+
+ID: M5140_S0050_G0350_001_resiman
+JP: ああ、そこにいた子か。しばらく前に出てったよ。
+EN: You looking for the lady who was here? Yeah, she left a while ago.
+RU: 
+
+ID: M5140_S0050_G0360_001_resiman
+JP: 武器を持って、何か深刻そうな顔をしていたな。
+EN: Seemed pretty upset about something, too. And she was armed to the teeth!
+RU: 
+
+ID: M5140_S0050_G0370_001_a9s
+JP: それって……
+EN: Oh no...
+RU: 
+
+ID: M5140_S0050_G0380_001_resiman
+JP: そういえば、あんたたちに渡しといてくれっていわれてたモノがある。
+EN: Hey, I just remembered she wanted me to give you something. Here...
+RU: 
+
+ID: M5140_S0050_G0390_001_a2b
+JP: こんなに……
+EN: Whoa, all this?
+RU: 
+
+ID: M5140_S0050_G0400_001_resiman
+JP: もう、要らないんだとさ。
+EN: Yeah, she said she didn't need it anymore.
+RU: 
+
+ID: M5140_S0050_G0410_001_resiman
+JP: 女の考える事はよくわからないよ……
+EN: Hey, don't ask me. I don't understand women at all...
+RU: 
+
+
+-- Section 13
+
+ID: M5140_S0020_G0000_001_a2b
+JP: 柱に……何か刻まれている。
+EN: Look here. There's something carved in this column.
+RU: 
+
+ID: M5140_S0020_G0010_001_a9s
+JP: これは、数列ですね。
+EN: Three numbers...
+RU: 
+
+ID: M5140_S0020_G0020_001_a9s
+JP: ３つの数列があるので、何かの座標かもしれません。
+EN: I wonder if it's a set of coordinates?
+RU: 
+
+ID: M5140_S0020_G0030_001_a2b
+JP: 目的地？それとも、何かの隠し場所……？
+EN: Target point, maybe? Or a hidden location?
+RU: 
+
+ID: M5140_S0020_G0040_001_a9s
+JP: マップにポイントしておきます。
+EN: No way to tell. I'll add 'em to the map regardless.
+RU: 
+
+
+-- Section 14
+
+ID: M5140_S0030_G0000_001_a9s
+JP: レジスタンスキャンプに書かれていた数列を座標に変換すると……
+EN: So if we use those numbers from the Resistance camp as coordinates...
+RU: 
+
+ID: M5140_S0030_G0010_001_a9s
+JP: この辺りになるはずなんですが……
+EN: Yeah. We're pretty much standing right on top of whatever they're pointing to.
+RU: 
+
+
+-- Section 15
+
+ID: M5140_S0030_G0020_001_a2b
+JP: ９Ｓ！
+EN: 9S!
+RU: 
+
+ID: M5140_S0030_G0030_001_n02
+JP: ……コロス！コロス！コロス！
+EN: KILL! KILL! KILL!
+RU: 
+
+ID: M5140_S0030_G0040_001_n02
+JP: カタキ……コロス……
+EN: AVENGE... KILL...
+RU: 
+
+ID: M5140_S0030_G0050_001_n02
+JP: ジャマ……スル、ヤツ……ミンナ……
+EN: KILL ALL...WHO STAND IN...OUR WAY...
+RU: 
+
+ID: M5140_S0030_G0060_001_n02
+JP: アンドロイド……ユルサナイ……
+EN: ANDROIDS...WILL PAY...
+RU: 
+
+ID: M5140_S0030_G0070_001_n02
+JP: ミンナ、ミンナ、ミンナミンナミンナ
+EN: ALL OF YOU YOU YOU YOU YOU...
+RU: 
+
+ID: M5140_S0030_G0080_001_n02
+JP: ミンミンミンコロコロコロコロコロコロ、
+EN: KILL. ALL KILL. ALL OF YOU KILL KILL KILL KILL KILL...
+RU: 
+
+ID: M5140_S0030_G0090_001_n02
+JP: コ　ロ　ス！！！
+EN: KIIIIIIIIIIIIIIIL!
+RU: 
+
+
+-- Section 16
+
+ID: M5140_S0040_G0000_001_a2b
+JP: ポッド、この機械生命体の解析を。
+EN: Pod, analyze this machine.
+RU: 
+
+ID: M5140_S0040_G0010_001_a9s
+JP: え？どうしてですか？
+EN: Huh? What for?
+RU: 
+
+ID: M5140_S0040_G0020_001_a2b
+JP: ちょっと気になる事を言ってたから……
+EN: Call it professional curiosity.
+RU: 
+
+ID: M5140_S0040_G0030_001_pod042
+JP: 解析完了：当該機械生命体は仲間を破壊されている。
+EN: Analysis: This machine lifeform's comrades were destroyed.
+RU: 
+
+ID: M5140_S0040_G0040_001_pod042
+JP: その怨恨を理由に、レジスタンスの男性をここに呼び出し
+EN: Driven by that grudge, it lured a Resistance member to this location.
+RU: 
+
+ID: M5140_S0040_G0050_001_pod042
+JP: 最終的に、破壊した模様。
+EN: It then proceeded to destroy him.
+RU: 
+
+ID: M5140_S0040_G0060_001_a2b
+JP: 機械生命体が……復讐した？
+EN: Are you saying this thing wanted revenge?
+RU: 
+
+ID: M5140_S0040_G0070_001_a9s
+JP: そんな複雑な概念を持っているなんて、ちょっと考えづらいですが……
+EN: Aw, come on, now. That concept is far too complex for a machine!
+RU: 
+
+
+-- Section 17
+
+ID: M5140_S0040_G0080_001_a9s
+JP: この遺体は……レジスタンスキャンプで依頼された探し人でしょうか？
+EN: This corpse... I wonder if it's the Resistance member we're looking for.
+RU: 
+
+ID: M5140_S0040_G0090_001_a9s
+JP: メモリを調べてみましょう。
+EN: Let's check his memory.
+RU: 
+
+ID: M5140_S0040_G0100_001_a9s
+JP: この人も、復讐の為にここに来たんですね。
+EN: Seems this one came here looking for revenge as well.
+RU: 
+
+ID: M5140_S0040_G0110_001_a2b
+JP: ……そして、弱い方が殺された。
+EN: I guess the weaker one lost.
+RU: 
+
+ID: M5140_S0040_G0120_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 18
+
+ID: M5140_S0050_G0000_001_a9s
+JP: 今回の件……
+EN: I really hate this.
+RU: 
+
+ID: M5140_S0050_G0010_001_a9s
+JP: 依頼人の女性に報告するの、気が重いですね。
+EN: I'm going to feel terrible telling that woman what happened to her friend.
+RU: 
+
+ID: M5140_S0050_G0020_001_a2b
+JP: 真実を知ったからには、言わないと。
+EN: It's the truth. She has to know.
+RU: 
+
+ID: M5140_S0050_G0030_001_a9s
+JP: それが、どんな真実でも？
+EN: No matter what that truth actually is?
+RU: 
+
+ID: M5140_S0050_G0040_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 19
+
+ID: M5140_S0020_G0050_300_a2b
+JP: 開かないな……
+EN: It won't open...
+RU: 
+
+ID: M5140_S0020_G0060_300_a9s
+JP: 開かないな……
+EN: It won't open...
+RU: 
+
+

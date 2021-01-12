@@ -1,0 +1,106 @@
+-- Section 1
+
+ID: M3030_S0160_G0260_300_pascal
+JP: …ああ、こんにちは。\nここは静かで、邪魔が入らない良い場所ですよ。
+EN: Oh, hello there! Such a nice, quiet place here, isn't it? No distractions at all!
+RU: 
+
+ID: M3030_S0160_G0270_300_pascal
+JP: 沢山落ちているガラクタさえなければもっといいのですが、\n拾っても拾ってもなくならないんですよね……
+EN: Pity about all the junk, however. I keep trying to clear it away, but it seems to be never-ending.
+RU: 
+
+ID: M3030_S0160_G0280_300_a2
+JP: パスカル……それは……
+EN: Pascal, that's...
+RU: 
+
+ID: M3030_S0160_G0380_300_a9s
+JP: パスカル……それは……
+EN: Pascal, that's...
+RU: 
+
+ID: M3030_S0160_G0290_300_pascal
+JP: パスカル？なんか聞き覚えがあるような……
+EN: Pascal? Hmm. That sounds oddly familiar.
+RU: 
+
+ID: M3030_S0160_G0300_300_pascal
+JP: まあ、いいか。
+EN: Ah, well.
+RU: 
+
+ID: M3030_S0160_G0310_300_pascal
+JP: よかったら、少し見ていきませんか？
+EN: Would you like to take a look at my wares?
+RU: 
+
+
+-- Section 2
+
+ID: M3030_S0160_G0340_300_pascal
+JP: ガラクタが落ちてたので集めました。\nいかがですか？
+EN: I've gathered up some of the junk from this place.\nWhat do you think?
+RU: 
+
+
+-- Section 3
+
+ID: M3030_S0160_G0320_300_pascal
+JP: こんなもの、何の役に立つのか分かりませんよね。\n一体だれが捨てていったのでしょうか。
+EN: Er, not that I'm sure what any of this actually does. Or why it was left here in the first place!
+RU: 
+
+ID: M3030_S0160_G0330_300_a2
+JP: ……
+EN: ......
+RU: 
+
+ID: M3030_S0160_G0430_300_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 4
+
+ID: M3030_S0160_G0350_300_pascal
+JP: ゴミは早く処分しないといけませんね。
+EN: I really must do something about all this trash...
+RU: 
+
+
+-- Section 5
+
+ID: M3030_S0160_G0340_300_pascal
+JP: ガラクタが落ちてたので集めました。\nいかがですか？
+EN: I've gathered up some of the junk from this place.\nWhat do you think?
+RU: 
+
+
+-- Section 6
+
+ID: M3030_S0160_G0320_300_pascal
+JP: こんなもの、何の役に立つのか分かりませんよね。\n一体だれが捨てていったのでしょうか。
+EN: Er, not that I'm sure what any of this actually does. Or why it was left here in the first place!
+RU: 
+
+ID: M3030_S0160_G0330_300_a2
+JP: ……
+EN: ......
+RU: 
+
+ID: M3030_S0160_G0430_300_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 7
+
+ID: M3030_S0160_G0350_300_pascal
+JP: ゴミは早く処分しないといけませんね。
+EN: I really must do something about all this trash...
+RU: 
+
+

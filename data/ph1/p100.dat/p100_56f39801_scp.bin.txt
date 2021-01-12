@@ -1,0 +1,8 @@
+-- Section 1
+
+ID: M1020_S0950_G0000_001_a9s
+JP: ２Ｂ！あの横穴から逃げられそうです！
+EN: Come on! Through that hole!
+RU: 
+
+

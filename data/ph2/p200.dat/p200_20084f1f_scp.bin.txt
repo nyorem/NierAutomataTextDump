@@ -1,0 +1,181 @@
+-- Section 1
+
+ID: M1050_S0005_G0001_001_a9s
+JP: また、この道を戻るんですか……めんどくさいですね。
+EN: Back this way again? What a pain.
+RU: 
+
+ID: M1050_S0005_G0002_001_a2b
+JP: 文句言わない。９Ｓ。
+EN: Stop complaining.
+RU: 
+
+ID: M1050_S0005_G0003_001_a9s
+JP: はーい。
+EN: Yeah, yeah.
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0005_G0000_001_op60
+JP: ２Ｂさん！こちらオペレーターの６Oです。
+EN: 2B, this is Operator 6O.
+RU: 
+
+ID: M1050_S0005_G0010_001_op60
+JP: 廃墟都市の転送装置の配備と稼働を確認しました。
+EN: We now have an operational transporter in the city ruins.
+RU: 
+
+ID: M1050_S0005_G0020_001_op60
+JP: 他のポイントも準備中です。
+EN: We're attempting to deploy them at other points as well.
+RU: 
+
+ID: M1050_S0005_G0030_001_a9s
+JP: ようやく、転送装置が使えるんですね。
+EN: About time we had access to those!
+RU: 
+
+ID: M1050_S0005_G0040_001_a2b
+JP: 転送装置？
+EN: Care to fill me in?
+RU: 
+
+ID: M1050_S0005_G0050_001_a9s
+JP: ええ……地上にボディを残したまま、\nバンカーの仮ボディに自我データを転送する装置です。
+EN: Transporters? They let you transfer your consciousness to a temporary body back in the Bunker.
+RU: 
+
+ID: M1050_S0005_G0060_001_a9s
+JP: 技術部の人から話を聞いてたんですが、ようやく実用化されたんですね。
+EN: I heard some tech guys talking about it a while ago, but I didn't know they'd finally got it working.
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0005_G0070_001_a9s
+JP: マップに位置データをポイントしますね。
+EN: Anyway, I'll mark the positional data on the map.
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0005_G0071_001_jackas
+JP: やあ。元気？
+EN: Hey. How's it hangin'?
+RU: 
+
+ID: M1050_S0005_G0072_001_a2b
+JP: 貴方は……
+EN: You again...
+RU: 
+
+ID: M1050_S0005_G0073_001_jackas
+JP: 君達のところの司令官に言われたんで、\n新しくアクセスポイントを作っておいたよ。
+EN: Your commander told me to build a new access point, so...here ya go.
+RU: 
+
+ID: M1050_S0005_G0074_001_jackas
+JP: 転送装置も動かせるようにしておいたから。
+EN: Oh, and I got the stupid transporter up and running too.
+RU: 
+
+ID: M1050_S0005_G0075_001_a9s
+JP: あ、ありがとうございます。
+EN: Um, thank you?
+RU: 
+
+ID: M1050_S0005_G0076_001_jackas
+JP: 司令官は昔なじみなんだけど、アイツ、人に仕事させすぎだよね～
+EN: I've known the Commander for a while now. She sure is good at pawning work off on people.
+RU: 
+
+ID: M1050_S0005_G0077_001_jackas
+JP: 今度会ったら文句言っといてよ。
+EN: Next time you see her, give her some lip for me, will ya?
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0005_G0010_300_jackas
+JP: 他の端末も転送が使えるようになってるはずだ。\n好きに使ってくれ。
+EN: You should be able to zap yourself here from other transporters now.
+RU: 
+
+ID: M1050_S0005_G0011_300_jackas
+JP: なんか……色んな所で活躍してるんですね。
+EN: You're certainly...active in a lot of areas, aren't you?
+RU: 
+
+ID: M1050_S0005_G0012_300_jackas
+JP: 褒めるなよ。照れる。
+EN: Shut the hell up. \n...You'll make me blush.
+RU: 
+
+
+-- Section 6
+
+ID: M1050_S0005_G0071_001_jackas
+JP: やあ。元気？
+EN: Hey. How's it hangin'?
+RU: 
+
+ID: M1050_S0005_G0072_001_a2b
+JP: 貴方は……
+EN: You again...
+RU: 
+
+ID: M1050_S0005_G0073_001_jackas
+JP: 君達のところの司令官に言われたんで、\n新しくアクセスポイントを作っておいたよ。
+EN: Your commander told me to build a new access point, so...here ya go.
+RU: 
+
+ID: M1050_S0005_G0074_001_jackas
+JP: 転送装置も動かせるようにしておいたから。
+EN: Oh, and I got the stupid transporter up and running too.
+RU: 
+
+ID: M1050_S0005_G0075_001_a9s
+JP: あ、ありがとうございます。
+EN: Um, thank you?
+RU: 
+
+ID: M1050_S0005_G0076_001_jackas
+JP: 司令官は昔なじみなんだけど、アイツ、人に仕事させすぎだよね～
+EN: I've known the Commander for a while now. She sure is good at pawning work off on people.
+RU: 
+
+ID: M1050_S0005_G0077_001_jackas
+JP: 今度会ったら文句言っといてよ。
+EN: Next time you see her, give her some lip for me, will ya?
+RU: 
+
+
+-- Section 7
+
+ID: M1050_S0005_G0080_001_a2b
+JP: これが転送装置……
+EN: So this has a transporter now, huh?
+RU: 
+
+ID: M1050_S0005_G0100_001_a9s
+JP: でも、転送装置があれば……
+EN: Still, transporters ARE pretty handy!
+RU: 
+
+ID: M1050_S0005_G0110_001_a9s
+JP: いちいち飛行ユニットでバンカーと地上を行き来しなくてもいいから、\n便利ですよ。
+EN: They're WAY faster than flight units when it comes to travelling between Earth and the Bunker.
+RU: 
+
+ID: M1050_S0005_G0120_001_a9s
+JP: 飛行ユニットは運用コストが高いですし、攻撃される危険もありますしね。
+EN: Flight units also leave us open to attack, and they're expensive to operate, too.
+RU: 
+
+

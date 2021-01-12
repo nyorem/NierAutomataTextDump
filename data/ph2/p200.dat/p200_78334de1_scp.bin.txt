@@ -1,0 +1,100 @@
+-- Section 1
+
+ID: M1050_S0050_G0000_001_a9s
+JP: ここが……パスカルの言ってた商業施設の廃墟みたいですね。
+EN: This must be the commercial structure Pascal was talking about.
+RU: 
+
+ID: M1050_S0050_G0010_001_a9s
+JP: 記録によると『デパート』という場所だったみたいです。
+EN: The records say it was once a facility known as a "shopping center."
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0050_G0020_001_a2b
+JP: 通れないな。
+EN: No getting through here.
+RU: 
+
+ID: M1050_S0050_G0030_001_a9s
+JP: 何か仕掛けがあるんでしょうか……？
+EN: Maybe there's some kind of mechanism we could engage?
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0050_G0040_001_a9s
+JP: 僕らも人間だったら、こんな場所で楽しく買い物をしていたんですかね？
+EN: If we were human, we probably would have gone shopping and such here, right?
+RU: 
+
+ID: M1050_S0050_G0050_001_a2b
+JP: 仮定の話は無意味。
+EN: More meaningless conjecture.
+RU: 
+
+ID: M1050_S0050_G0060_001_a9s
+JP: あははっ……真面目だなあ……２Ｂは。
+EN: Ha ha! You're so serious, 2B. You know that?
+RU: 
+
+ID: M1050_S0050_G0070_011_pod042
+JP: 警告：直上に機械生命体反応多数。
+EN: Alert: Multiple machine lifeforms detected above our position.
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0050_G0100_001_n02
+JP: 森ノ王バンザイ！
+EN: All hail the Forest King!
+RU: 
+
+ID: M1050_S0050_G0110_001_n02
+JP: 森ノ王ばんザーイ！
+EN: All hail the Forest King!
+RU: 
+
+ID: M1050_S0050_G0120_001_a9s
+JP: 何だよ……森の王って……
+EN: Who the heck is the Forest King?
+RU: 
+
+ID: M1050_S0050_G0130_001_a2b
+JP: 気を抜かないで。９Ｓ。
+EN: You're getting distracted.
+RU: 
+
+ID: M1050_S0050_G0140_001_a9s
+JP: そんな事言ったって、僕はスキャナーモデルだから……
+EN: Well, what do you expect? I'm a Scanner.
+RU: 
+
+ID: M1050_S0050_G0150_001_a9s
+JP: 戦闘はあんまり得意じゃないんですよ！
+EN: Combat was never meant to be my forte.
+RU: 
+
+ID: M1050_S0050_G0160_001_n02
+JP: モリノ王バンザイ！
+EN: All hail the Forest King!
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0050_G0170_001_a9s
+JP: なんか、あいつ……
+EN: Check this guy...
+RU: 
+
+ID: M1050_S0050_G0180_001_a9s
+JP: 逃げてばかりですね。
+EN: He's just running away.
+RU: 
+
+

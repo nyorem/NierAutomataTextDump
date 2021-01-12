@@ -1,0 +1,18 @@
+-- Section 1
+
+ID: M1080_S0080_G0050_201_a9s
+JP: ２Ｂのブラックボックス信号健在……良かった。
+EN: Okay, good... 2B's black box signal is still up and running.
+RU: 
+
+ID: M1080_S0080_G0060_201_a9s
+JP: 通常通信は不調……
+EN: These comms are all messed up...
+RU: 
+
+ID: M1080_S0080_G0070_201_a9s
+JP: 向こうに直接侵入して操作するしかない。
+EN: Guess I'll have to break in to the other side and take control.
+RU: 
+
+

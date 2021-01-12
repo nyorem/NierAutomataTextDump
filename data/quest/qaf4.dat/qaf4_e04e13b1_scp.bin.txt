@@ -1,0 +1,26 @@
+-- Section 1
+
+ID: M0010_S0785_G0000_201_pod153
+JP: ９Ｓデータシステム破損。アクセス不良を検知。
+EN: 9S data system damaged. Access impaired.
+RU: 
+
+ID: M0010_S0785_G0010_201_pod153
+JP: 自閉モードで再配置。
+EN: Redeploying in offline mode.
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0785_G0020_201_a9s
+JP: ここは……
+EN: Wh-where am I...?
+RU: 
+
+ID: M0010_S0785_G0030_201_pod153
+JP: リカバリーセクタ。各ブロックのアクセス不良を解除せよ。
+EN: Recovery sector. Eliminate access impairments to all blocks.
+RU: 
+
+

@@ -1,0 +1,234 @@
+-- Section 1
+
+ID: M1030_S0120_G0000_001_a2b
+JP: 何……こいつら？
+EN: What are those?
+RU: 
+
+ID: M1030_S0120_G0010_001_n02
+JP: タのしイネ！楽しイネ！
+EN: Oh, wHat fUN! Oh, whaT FUn!
+RU: 
+
+ID: M1030_S0120_G0011_001_a2b
+JP: これは……
+EN: What the....
+RU: 
+
+ID: M1030_S0120_G0012_001_a9s
+JP: なんていうか、異様な雰囲気ですね……
+EN: Well, this is weird.
+RU: 
+
+ID: M1030_S0120_G0020_001_n02
+JP: 喜ビヲ！分かち合オウ！
+EN: LeT's bE haPPy toGETHer!
+RU: 
+
+ID: M1030_S0120_G0030_001_n02
+JP: アオウ！
+EN: TOgetHer! ToGethER!
+RU: 
+
+
+-- Section 2
+
+ID: M1030_S0120_G0050_001_a9s
+JP: ここのゲートは……開かないみたいですね。
+EN: This gate isn't going to open.
+RU: 
+
+ID: M1030_S0120_G0060_001_a9s
+JP: どこか他の道から進めないかな……
+EN: Maybe there's another way around.
+RU: 
+
+
+-- Section 3
+
+ID: M1030_S0120_G0061_001_a9s
+JP: どこか行けるルートが無いか探してみましょう。
+EN: Let's see if we can't find another route.
+RU: 
+
+
+-- Section 4
+
+ID: M1030_S0120_G0030_300_a9s
+JP: 別のルートで奥のエリアに行けるかもしれませんね。
+EN: Maybe there's another route that will take us deeper inside.
+RU: 
+
+
+-- Section 5
+
+ID: M1030_S0120_G0020_300_a9s
+JP: この通路はどこに繋がっているんだろう……
+EN: Where does this corridor lead?
+RU: 
+
+
+-- Section 6
+
+ID: M1030_S0120_G0040_300_a9s
+JP: どこかから奥に進めると思うんですけど……
+EN: There's got to be some way to proceed further in...
+RU: 
+
+ID: M1030_S0120_G0050_300_a9s
+JP: あと、調査してない場所はここくらいでしょうか。
+EN: Pretty sure this is the last place we haven't searched.
+RU: 
+
+
+-- Section 7
+
+ID: M1030_S0120_G0060_300_a9s
+JP: レジスタンスの反応はあの建物の方向から発信されています。
+EN: We're getting Resistance signals from that building over there.
+RU: 
+
+
+-- Section 8
+
+ID: M1030_S0120_G0121_001_a2b
+JP: ここから先に進むには……
+EN: We need a way through.
+RU: 
+
+ID: M1030_S0120_G0122_001_a9s
+JP: 進めるルートが無いか、調べてみましょう。
+EN: Let's look around for a route we can take.
+RU: 
+
+
+-- Section 9
+
+ID: M1030_S0120_G0070_001_n02
+JP: 踊ロウ　オドロウ！
+EN: Let's dance! Let's dance!
+RU: 
+
+ID: M1030_S0120_G0080_001_n02
+JP: アソボウ！　アソボウ！
+EN: Let's play! Let's play!
+RU: 
+
+ID: M1030_S0120_G0090_001_n02
+JP: アソボウ！　遊ボウ！
+EN: Play! Play! Let's play!
+RU: 
+
+ID: M1030_S0120_G0100_001_n02
+JP: 歌おう　ウタオウ！
+EN: Let's sing! Let's sing!
+RU: 
+
+ID: M1030_S0120_G0110_001_n02
+JP: あそボウ！　アソボウ！
+EN: Let's play! Play! Play!
+RU: 
+
+ID: M1030_S0120_G0120_001_n02
+JP: アソボウ！　遊ボウ！
+EN: Let's play! Let's play!
+RU: 
+
+
+-- Section 10
+
+ID: M1030_S0120_G0150_001_a9s
+JP: これだけ大型の武装した機械生命体……
+EN: These machines are heavily armed.
+RU: 
+
+ID: M1030_S0120_G0160_001_a9s
+JP: 見逃すと後でマズイ事になりそうです。倒しておきましょう！
+EN: We'll regret it later if we let them escape, so let's take 'em out!
+RU: 
+
+
+-- Section 11
+
+ID: M1030_S0120_G0170_001_a9s
+JP: あの戦車……放っておいていいんですか？
+EN: Do you really think it's a good idea to leave that tank behind?
+RU: 
+
+ID: M1030_S0120_G0180_001_a2b
+JP: 害が無いなら、戦うのは時間の無駄。
+EN: If they aren't hostile, fighting them is a waste of time.
+RU: 
+
+
+-- Section 12
+
+ID: M1030_S0120_G0070_300_a2b
+JP: ……何、これ。
+EN: ...What's this?
+RU: 
+
+ID: M1030_S0120_G0080_300_pod042
+JP: 回答：人類が建造した遊具。\nレール上を高速で移動し、スリルを体感するもの。
+EN: Analysis: It is a device that propels humans on rails at high speeds for the purposes of amusement.
+RU: 
+
+ID: M1030_S0120_G0090_300_pod042
+JP: 『絶叫マシン』とも呼ばれていた。
+EN: It was commonly referred to as a "roller coaster."
+RU: 
+
+ID: M1030_S0120_G0100_300_a9s
+JP: 人間って変な生き物なんだな……
+EN: Humans sure are strange creatures...
+RU: 
+
+
+-- Section 13
+
+ID: M5920_S0060_G0000_001_a9s
+JP: ……ところで、２Ｂ。
+EN: Hey, 2B?
+RU: 
+
+ID: M5920_S0060_G0010_001_a2b
+JP: 何？
+EN: Yes?
+RU: 
+
+ID: M5920_S0060_G0020_001_a9s
+JP: 僕の事をよく知る親しい人は、僕の事を『ナインズ』って呼ぶんですけど……
+EN: People who know me well usually call me "Nines," so...
+RU: 
+
+ID: M5920_S0060_G0030_001_a2b
+JP: そう。
+EN: Oh.
+RU: 
+
+ID: M5920_S0060_G0040_001_a9s
+JP: そろそろ２Ｂもどうですか？
+EN: So what do you think?
+RU: 
+
+ID: M5920_S0060_G0050_001_a2b
+JP: 何が？
+EN: Of?
+RU: 
+
+ID: M5920_S0060_G0060_001_a9s
+JP: だから『ナインズ』って呼んでくれていいんですよ？
+EN: I mean, if you want to call me Nines, it's totally okay.
+RU: 
+
+ID: M5920_S0060_G0070_001_a2b
+JP: まだ、いい。
+EN: I'm good.
+RU: 
+
+ID: M5920_S0060_G0080_001_a9s
+JP: ……そう、ですか。
+EN: Oh. Um...all right.
+RU: 
+
+

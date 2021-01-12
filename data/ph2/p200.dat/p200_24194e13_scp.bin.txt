@@ -1,0 +1,192 @@
+-- Section 1
+
+ID: M1050_S0115_S0000_201_eve
+JP: なあ……にぃちゃん。何で本なんか読むんだよ？
+EN: Why must we read all of these books, brother?
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0115_S0010_201_adam
+JP: 知識は人を豊かにするからな。
+EN: Knowledge expands horizons and enriches existence.
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0115_S0020_201_eve
+JP: データで転送すれば済むだけだろ？
+EN: But can't we just transfer all this data over instantly?
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0115_S0030_201_adam
+JP: 自分で読まないと、心の中に入ってこないだろ。
+EN: Into your head, perhaps. But not to your heart.
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0115_S0040_201_eve
+JP: ……わかったよ。
+EN: Hmm. I guess.
+RU: 
+
+
+-- Section 6
+
+ID: M1050_S0115_S0050_201_eve
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 7
+
+ID: M1050_S0115_S0060_201_eve
+JP: ……なあ、にぃちゃん。
+EN: Hey, so...
+RU: 
+
+
+-- Section 8
+
+ID: M1050_S0115_S0070_201_adam
+JP: 何だ？
+EN: Yes?
+RU: 
+
+
+-- Section 9
+
+ID: M1050_S0115_S0080_201_eve
+JP: 俺の名前、イヴって、女の名前って書いてあるけど。
+EN: My name? Eve? This book says it's a woman's name.
+RU: 
+
+
+-- Section 10
+
+ID: M1050_S0115_S0090_201_eve
+JP: 俺達の名前は『カインとアベル』とかの方がいいんじゃないのか？
+EN: Shouldn't we be called Cain and Abel or something instead?
+RU: 
+
+
+-- Section 11
+
+ID: M1050_S0115_S0100_201_adam
+JP: 人間は名前を簡単に変えたりはしない。
+EN: Humans wouldn't change names so easily.
+RU: 
+
+
+-- Section 12
+
+ID: M1050_S0115_S0110_201_adam
+JP: 自分の名前に誇りを持て……イヴ。
+EN: Besides, you should be proud of the name Eve.
+RU: 
+
+
+-- Section 13
+
+ID: M1050_S0115_S0120_201_eve
+JP: ……わかったよ
+EN: Huh...
+RU: 
+
+
+-- Section 14
+
+ID: M1050_S0115_S0130_201_eve
+JP: にぃちゃんがそういうなら、イヴのままでいい。
+EN: Well, if that's what you think, then I'm fine with it.
+RU: 
+
+
+-- Section 15
+
+ID: M1050_S0115_S0140_201_adam
+JP: いい子だ。
+EN: Glad to hear it.
+RU: 
+
+
+-- Section 16
+
+ID: M1050_S0115_S0150_201_eve
+JP: ……なあ、にぃちゃん。
+EN: Ummm...
+RU: 
+
+
+-- Section 17
+
+ID: M1050_S0115_S0160_201_adam
+JP: 何だ？
+EN: Is there something else?
+RU: 
+
+
+-- Section 18
+
+ID: M1050_S0115_S0170_201_eve
+JP: これ読み終わったら遊びにいこうよ。
+EN: After we're done reading, can we go out and play?
+RU: 
+
+
+-- Section 19
+
+ID: M1050_S0115_S0180_201_eve
+JP: きっと、すごく楽しいと思うんだ。
+EN: I'm sure it'll be TONS of fun!
+RU: 
+
+
+-- Section 20
+
+ID: M1050_S0115_S0190_201_adam
+JP: ……構わないよ。でも、本を読んだ後でな。
+EN: All right. But only after we're finished.
+RU: 
+
+
+-- Section 21
+
+ID: M1050_S0115_S0200_201_eve
+JP: 本当に！？
+EN: You mean it!?
+RU: 
+
+
+-- Section 22
+
+ID: M1050_S0115_S0210_201_eve
+JP: じゃあ、俺頑張って読むよ！
+EN: Then I'm gonna try extra hard to finish this!
+RU: 
+
+
+-- Section 23
+
+ID: M1050_S0115_S0220_201_eve
+JP: 頑張って読むからね！
+EN: Extra EXTRA hard!
+RU: 
+
+
+-- Section 24
+
+ID: M1050_S0115_S0230_201_adam
+JP: ああ……そうしろ。
+EN: You do that.
+RU: 
+
+

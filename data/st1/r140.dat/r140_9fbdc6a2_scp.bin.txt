@@ -1,0 +1,134 @@
+-- Section 1
+
+ID: M5040_S0010_G0000_300_papa
+JP: 話は息子から聞きました。\n息子を助けて頂いてありがとうございます。
+EN: My son told me how you helped him. Thank you.
+RU: 
+
+ID: M5040_S0010_G0010_300_papa
+JP: 子育てを妻にまかせっきりにしていた私にも原因がありマス。
+EN: I fear this is in no small part my fault, for I put all the burden of raising him on my wife.
+RU: 
+
+
+-- Section 2
+
+ID: M5040_S0010_G0020_300_papa
+JP: そうよ、その通りよ。
+EN: You certainly did!
+RU: 
+
+
+-- Section 3
+
+ID: M5040_S0010_G0030_300_papa
+JP: 反省シマス……
+EN: I'm sorry, dear.
+RU: 
+
+
+-- Section 4
+
+ID: M5040_S0010_G0040_300_papa
+JP: そうダそうダ、ボクともっと遊べヨ。
+EN: Yeah, Daddy! You should play with me more!
+RU: 
+
+
+-- Section 5
+
+ID: M5040_S0010_G0050_300_papa
+JP: スミマセン……
+EN: I'm sorry...
+RU: 
+
+
+-- Section 6
+
+ID: M5040_S0010_G0060_300_papa
+JP: 分かればイイノヨ。
+EN: Well, as long as you've learned your lesson...
+RU: 
+
+
+-- Section 7
+
+ID: M5040_S0010_G0070_300_papa
+JP: 分かればイイヨ。
+EN: Yeah! Learned your lesson!
+RU: 
+
+
+-- Section 8
+
+ID: M5040_S0010_G0080_300_papa
+JP: 父親には味方がイナイのですね……
+EN: I was hoping one of you would take my side...
+RU: 
+
+
+-- Section 9
+
+ID: M5040_S0010_G0090_300_papa
+JP: 家族と一緒に過ごすことを家族サービスというそうですね。
+EN: I suppose I should try to be more of a "family man," as they say.
+RU: 
+
+ID: M5040_S0010_G0100_300_papa
+JP: なにをしたらいいのダロウ……
+EN: But what does that entail, exactly...?
+RU: 
+
+
+-- Section 10
+
+ID: M5040_S0010_G0110_300_papa
+JP: 息子を助けて頂きありがとうございました。
+EN: Thank you for saving my son.
+RU: 
+
+ID: M5040_S0010_G0120_300_papa
+JP: あれ以来、前よりも息子の気持ちがわかるようになった気がします。
+EN: I feel like I understand him better than before.
+RU: 
+
+
+-- Section 11
+
+ID: M5040_S0010_G0130_300_papa
+JP: 子育ては大変ですが、その分やりがいもあります。
+EN: I know that raising a child is never easy, but I feel it's worth the struggle.
+RU: 
+
+
+-- Section 12
+
+ID: M5040_S0010_G0140_300_child
+JP: あ、この前はアリガトウ！
+EN: Hey! Thanks for before!
+RU: 
+
+ID: M5040_S0010_G0150_300_child
+JP: 今はお母さんのいうことを聞いてイイ子にしてるヨ。
+EN: I'm a really good boy now. I listen to EVERYTHING Mommy says!
+RU: 
+
+ID: M5040_S0010_G0160_300_child
+JP: ……本当ダヨ！
+EN: Really!
+RU: 
+
+
+-- Section 13
+
+ID: M5040_S0010_G0170_300_child
+JP: イイ子にしてるヨ？
+EN: I'm good now! I'm really, REALLY good!
+RU: 
+
+ID: M5040_S0010_G0180_300_child
+JP: 本当だってバ！
+EN: Really! I mean it!
+RU: 
+
+

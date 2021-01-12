@@ -1,0 +1,48 @@
+-- Section 1
+
+ID: M3050_S0030_G0000_001_a9s
+JP: ポッド……次のユニットの場所は？
+EN: Pod, where's the next resource-recovery unit?
+RU: 
+
+ID: M3050_S0030_G0010_001_pod153
+JP: 報告：ＮＦＣＳの故障。
+EN: Alert: NFCS failure.
+RU: 
+
+ID: M3050_S0030_G0020_001_pod153
+JP: 推測：激しい戦闘とメンテナンス不足によるもの。
+EN: Speculation: Failure caused by intense combat and lack of maintenance.
+RU: 
+
+ID: M3050_S0030_G0030_001_a9s
+JP: ＮＦＣＳ……近距離攻撃管理システム……
+EN: Near-field controls are down? Great...
+RU: 
+
+ID: M3050_S0030_G0040_001_pod153
+JP: 推奨：レジスタンスキャンプでのオーバーホール。
+EN: Proposal: Overhaul system at Resistance camp.
+RU: 
+
+ID: M3050_S0030_G0050_001_a9s
+JP: そんな時間……ない。
+EN: I don't have that kind of time.
+RU: 
+
+ID: M3050_S0030_G0060_001_pod153
+JP: 予測：既に抜刀すら出来なくなっている状態で\n戦闘行為に望むのは自殺行為。
+EN: Alert: Entering battle without a functioning sword constitutes an unacceptable risk.
+RU: 
+
+ID: M3050_S0030_G0070_001_pod153
+JP: レジスタンスキャンプのデボルが修理可能。
+EN: Unit 9S should have Devola initiate repairs at the Resistance camp.
+RU: 
+
+ID: M3050_S0030_G0080_001_a9s
+JP: くそっ……
+EN: Shit...
+RU: 
+
+

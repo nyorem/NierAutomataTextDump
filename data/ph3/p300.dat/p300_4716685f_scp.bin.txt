@@ -1,0 +1,211 @@
+-- Section 1
+
+ID: M5910_S0100_G0171_001_a2
+JP: う……
+EN: Ungh...
+RU: 
+
+ID: M5910_S0100_G0172_001_pod042
+JP: おはようございます。Ａ２。
+EN: Good morning, A2.
+RU: 
+
+ID: M5910_S0100_G0173_001_a2
+JP: 一体……
+EN: What the...?
+RU: 
+
+ID: M5910_S0100_G0174_001_pod042
+JP: ヨルハ機体Ａ２は５分４２秒前に再起動された。
+EN: Analysis: YoRHa unit A2 was restarted five minutes and forty-two seconds ago.
+RU: 
+
+ID: M5910_S0100_G0175_001_pod042
+JP: 原因：大型機械生命体との戦闘による過負荷によるもの。
+EN: The cause was excessive strain due to battle against a large machine lifeform.
+RU: 
+
+ID: M5910_S0200_G0000_001_a2
+JP: くそっ……砂だらけでうっとうしいな……
+EN: All this goddamn sand is starting to piss me off.
+RU: 
+
+ID: M5910_S0200_G0010_001_pod042
+JP: 報告：燃料用濾過フィルターが劣化。
+EN: Alert: Fuel filter performance deteriorating.
+RU: 
+
+ID: M5910_S0200_G0020_001_pod042
+JP: 砂漠での戦闘時に、微細な粒子が内部に入り込んだ模様。
+EN: Fine particulate matter seems to have entered the filter while fighting in the desert.
+RU: 
+
+ID: M5910_S0200_G0030_001_pod042
+JP: 推奨：早急な当該部品の交換。
+EN: Proposal: Replace the faulty part immediately.
+RU: 
+
+ID: M5910_S0200_G0040_001_a2
+JP: 交換って言われてもな……
+EN: You make it sound so easy.
+RU: 
+
+ID: M5910_S0200_G0050_001_pod042
+JP: レジスタンスキャンプで使用された過去記録を発見。
+EN: Records indicate said part was once used at the Resistance camp.
+RU: 
+
+ID: M5910_S0200_G0060_001_a2
+JP: レジスタンスキャンプ……
+EN: The Resistance camp...
+RU: 
+
+
+-- Section 2
+
+ID: M5910_S0200_G0070_001_pod042
+JP: 場所は……
+EN: It is located at—
+RU: 
+
+ID: M5910_S0200_G0080_001_a2
+JP: いい……知ってる。
+EN: I know where it is.
+RU: 
+
+
+-- Section 3
+
+ID: M5910_S0200_G0271_001_toolshop
+JP: 濾過フィルターが欲しい？ああ、申し訳ないんだが、今在庫切れなんだよ。
+EN: You need a fuel filter? Sorry, but I'm all out!
+RU: 
+
+ID: M5910_S0200_G0272_001_toolshop
+JP: 入荷についてはアネモネさんに聞いてくれ。
+EN: You'll have to ask Anemone when new stock is going to arrive.
+RU: 
+
+
+-- Section 4
+
+ID: M5910_S0200_G0273_001_kj
+JP: 濾過フィルター……？ウチは武器屋だから扱ってないな。
+EN: A fuel filter? I'm a weapons trader, what are you asking me for!?
+RU: 
+
+ID: M5910_S0200_G0274_001_kj
+JP: 道具屋に聞いてみるといい。
+EN: Try the supply trader.
+RU: 
+
+
+-- Section 5
+
+ID: M5910_S0200_G0275_001_bs
+JP: 濾過フィルターが欲しい？そこにいる道具屋に聞いてみたら？
+EN: You need a fuel filter? Why don't you ask the supply trader over there?
+RU: 
+
+
+-- Section 6
+
+ID: M5910_S0200_G0280_001_a2
+JP: アネモネ、聞きたい事があるんだが……
+EN: Hey, Anemone. Got a question for you.
+RU: 
+
+ID: M5910_S0200_G0285_001_a2
+JP: 濾過フィルターを分けてもらえないか？燃料用のヤツだ。
+EN: Any chance you could spare a fuel filter?
+RU: 
+
+ID: M5910_S0200_G0290_001_ane
+JP: 燃料用の濾過フィルター……最近在庫を切らしてるんだ。
+EN: A fuel filter? I'm afraid our supply recently ran out.
+RU: 
+
+ID: M5910_S0200_G0300_001_ane
+JP: パスカルが生産してるから、良ければ直接取りに行ってくれ。
+EN: Pascal makes them for us, so you could go pick up one directly if you'd like.
+RU: 
+
+ID: M5910_S0200_G0310_001_a2
+JP: パスカルって……
+EN: Pascal!?
+RU: 
+
+ID: M5910_S0200_G0320_001_ane
+JP: ああ、知ってるのか？
+EN: You know him?
+RU: 
+
+ID: M5910_S0200_G0330_001_a2
+JP: 機械生命体と取引してるのか？敵じゃないか！？
+EN: You TRADE with the enemy!?
+RU: 
+
+ID: M5910_S0200_G0340_001_ane
+JP: アイツの村は特別だ。我々に危害は加えない。
+EN: His village is different. They've never caused us any harm.
+RU: 
+
+ID: M5910_S0200_G0350_001_a2
+JP: そんな……でも……
+EN: No way. Forget it.
+RU: 
+
+ID: M5910_S0200_G0360_001_ane
+JP: 我々は同盟を結び、必要に応じて資材の交換を行っているんだ。
+EN: This may be hard to understand, but we forged an alliance and trade materials when the need arises.
+RU: 
+
+ID: M5910_S0200_G0370_001_ane
+JP: 目的の為なら、手段を選んでる場合じゃない。それに……
+EN: We can't be picky about how we reach our goals around here.
+RU: 
+
+ID: M5910_S0200_G0380_001_ane
+JP: 白旗を上げている奴らを殺す程、私達は終わってない。
+EN: And besides, we aren't so far gone that we kill machine lifeforms after they surrender.
+RU: 
+
+ID: M5910_S0200_G0390_001_a2
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 7
+
+ID: M5910_S0200_G0400_001_pod042
+JP: 警告：濾過フィルターが破損すると燃料供給に深刻な問題が発生。
+EN: Alert: A broken filter will cause significant problems with fuel distribution.
+RU: 
+
+ID: M5910_S0200_G0410_001_pod042
+JP: 推奨：燃料用濾過フィルターの早期交換。
+EN: Proposal: Replace the faulty part immediately.
+RU: 
+
+ID: M5910_S0200_G0420_001_a2
+JP: ……わかってるよ。
+EN: Yeah. I know.
+RU: 
+
+ID: M5910_S0200_G0430_001_pod042
+JP: 機械生命体パスカルを中心とするコロニーの座標を確認。
+EN: Coordinates confirmed for a colony centered around the machine lifeform known as Pascal.
+RU: 
+
+ID: M5910_S0200_G0440_001_pod042
+JP: マップにマーク完了。
+EN: Location marked on map.
+RU: 
+
+ID: M5910_S0200_G0450_001_a2
+JP: うるさいな……
+EN: You don't know when to shut up, do you...
+RU: 
+
+

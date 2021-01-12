@@ -1,0 +1,290 @@
+-- Section 1
+
+ID: M3060_S0600_G0000_001_a2
+JP: クソッ……
+EN: Damn it...
+RU: 
+
+ID: M3060_S0600_G0010_001_pod042
+JP: 敵の強制ハッキング攻撃。
+EN: Alert: Enemy hacking detected.
+RU: 
+
+ID: M3060_S0600_G0020_001_pod042
+JP: 推奨：早急な離脱。
+EN: Proposal: Retreat immediately.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0600_G0030_001_a2
+JP: 貴様は……ッ！！
+EN: Who ARE you!?
+RU: 
+
+ID: M3060_S0600_G0040_001_girls
+JP: 久しぶりだな……二号。
+EN: Good to see you again...Number Two.
+RU: 
+
+ID: M3060_S0600_G0050_001_girls
+JP: いや、今はＡ２と呼ぶべきか？
+EN: Or should we call you A2 now?
+RU: 
+
+ID: M3060_S0600_G0060_001_girls
+JP: 懐かしいよ。
+EN: This does bring back memories.
+RU: 
+
+ID: M3060_S0600_G0070_001_girls
+JP: 私達のような概念情報にとって時間は意味が無いが……
+EN: Though to concepts like us, time has little meaning.
+RU: 
+
+ID: M3060_S0600_G0080_001_girls
+JP: それでも君達の部隊を全滅させた事は印象に残っている。
+EN: Still, when we wiped out your forces, it made quite the impression on us.
+RU: 
+
+ID: M3060_S0600_G0090_001_girls
+JP: ヨルハ部隊アタッカー二号機……
+EN: YoRHa attacker model Number Two...
+RU: 
+
+ID: M3060_S0600_G0100_001_girls
+JP: 正式採用されるヨルハの為に生み出された、捨て石の実験部隊。
+EN: An experimental, disposable group created as a test run for Project YoRHa.
+RU: 
+
+ID: M3060_S0600_G0110_001_a2
+JP: うるさいッ！！
+EN: Shut up!
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S0600_G0120_001_girls
+JP: 懲りないアンドロイドだな、君は。
+EN: You're an obstinate little android, aren't you?
+RU: 
+
+ID: M3060_S0600_G0130_001_girls
+JP: 私達は殺せないと言っただろう？
+EN: Didn't we say that you can't kill us?
+RU: 
+
+ID: M3060_S0600_G0140_001_a2
+JP: クソッ！！
+EN: God damn it!
+RU: 
+
+
+-- Section 4
+
+ID: M3060_S0600_G0150_001_pod042
+JP: 提案。
+EN: Proposal:
+RU: 
+
+ID: M3060_S0600_G0160_001_a2
+JP: 何だ！？
+EN: What now!?
+RU: 
+
+ID: M3060_S0600_G0170_001_pod042
+JP: 敵の論理学習機能を利用して弱点を形成する。
+EN: Utilize the enemy's logical learning function to formulate a weakness.
+RU: 
+
+ID: M3060_S0600_G0180_001_a2
+JP: 全然わからないッ！
+EN: I don't know what that means!
+RU: 
+
+ID: M3060_S0600_G0190_001_pod042
+JP: 疑問：ヨルハ機体Ａ２の学習機能。
+EN: This Pod has serious concerns about unit A2's cognitive abilities.
+RU: 
+
+ID: M3060_S0600_G0200_001_a2
+JP: うるさいッ！
+EN: SHUT UP AND EXPLAIN IT ALREADY!
+RU: 
+
+ID: M3060_S0600_G0210_001_pod042
+JP: 敵の論理思考回路をインタラプトして演算遅延を発生させる作戦。
+EN: Said strategy would interrupt the enemy's logic circuits, causing a computational delay.
+RU: 
+
+ID: M3060_S0600_G0220_001_a2
+JP: つまり、どうするんだ！
+EN: Meaning what!?
+RU: 
+
+ID: M3060_S0600_G0230_001_pod042
+JP: 敵を破壊してはいけない。
+EN: Do not destroy the enemy.
+RU: 
+
+ID: M3060_S0600_G0240_001_a2
+JP: は！？
+EN: Huh!?
+RU: 
+
+ID: M3060_S0600_G0250_001_pod042
+JP: 敵が一定数・一定時間存在する事がこの作戦の必要条件。
+EN: Striking at the logic circuit requires a certain number of enemies to remain extant for a certain period of time.
+RU: 
+
+ID: M3060_S0600_G0260_001_a2
+JP: 何だそれッ！？
+EN: Oh, what the hell...
+RU: 
+
+
+-- Section 5
+
+ID: M3060_S0600_G0270_001_pod042
+JP: 敵の演算速度が回復。
+EN: The enemy's processing speed has returned to normal.
+RU: 
+
+ID: M3060_S0600_G0280_001_pod042
+JP: 推奨：敵を破壊しない事。
+EN: Proposal: Do not destroy enemies.
+RU: 
+
+ID: M3060_S0600_G0290_001_a2
+JP: わかってるッ！
+EN: I know, all right!?
+RU: 
+
+
+-- Section 6
+
+ID: M3060_S0600_G0300_001_pod042
+JP: 敵自我データ飽和率３０％
+EN: Consciousness data saturation rate 30 percent.
+RU: 
+
+ID: M3060_S0600_G0301_001_girls
+JP: 面白い……面白い……
+EN: It's all so very amusing...
+RU: 
+
+
+-- Section 7
+
+ID: M3060_S0600_G0310_001_pod042
+JP: 敵自我データ飽和率６０％
+EN: Consciousness data saturation rate 60 percent.
+RU: 
+
+ID: M3060_S0600_G0311_001_girls
+JP: 人類が遺したアンドロイドがまるで人類になりたいかのように振る舞う。
+EN: The androids the human race left behind acted as if they wanted to be human.
+RU: 
+
+ID: M3060_S0600_G0312_001_girls
+JP: エイリアンが遺した機械生命体がまるで人類になりたいかのように\n振る舞う。
+EN: The machine lifeforms the aliens left behind acted as if they wanted to be human.
+RU: 
+
+ID: M3060_S0600_G0313_001_girls
+JP: 私達は似ている……\nだが、ネットワーク化された私達の方が圧倒的に優れている。
+EN: We resemble each other so, but we are networked, and thus we are superior to you.
+RU: 
+
+ID: M3060_S0600_G0320_001_pod042
+JP: 予測：防衛機構による敵の論理進化。
+EN: Hypothesis: The enemy's defensive system is prompting an evolution of its logic.
+RU: 
+
+ID: M3060_S0600_G0321_001_girls
+JP: 愚かなアンドロイドよ……なぜ抗うのか？
+EN: Foolish androids... Why do you resist?
+RU: 
+
+ID: M3060_S0600_G0322_001_girls
+JP: 死を受け入れる事こそが、全ての終末ではないのか？
+EN: All things end with accepting death, do they not?
+RU: 
+
+
+-- Section 8
+
+ID: M3060_S0600_G0330_001_pod042
+JP: 敵自我データ飽和率９０％
+EN: Consciousness data saturation rate 90 percent.
+RU: 
+
+ID: M3060_S0600_G0331_001_girls
+JP: 私達は一つであり、複数でもある。
+EN: We are one, and yet we are many.
+RU: 
+
+ID: M3060_S0600_G0332_001_girls
+JP: 私達は有限であると同時に無限だ。
+EN: We are finite, and yet we are infinite.
+RU: 
+
+ID: M3060_S0600_G0333_001_girls
+JP: 私達こそが完成された精神の在りようなのだ。
+EN: We are the embodiment of the perfect being.
+RU: 
+
+ID: M3060_S0600_G0340_001_pod042
+JP: 予測：生命の多様性を学習。
+EN: Hypothesis: The enemy has become aware of the diversity of life.
+RU: 
+
+ID: M3060_S0600_G0341_001_girls
+JP: ああっ……見える……光が……
+EN: Ahh... I see it... The light...
+RU: 
+
+ID: M3060_S0600_G0342_001_girls
+JP: 私達は進む……この先に……未来に！
+EN: We move on... Forward... To the future!
+RU: 
+
+
+-- Section 9
+
+ID: M3060_S0600_G0350_001_pod042
+JP: 敵自我データ飽和率１００％
+EN: Consciousness data saturation rate 100 percent.
+RU: 
+
+ID: M3060_S0600_G0360_001_pod042
+JP: 予測：敵自我が分裂を開始。
+EN: Hypothesis: The enemy's consciousness has begun to fracture.
+RU: 
+
+
+-- Section 10
+
+ID: M3060_S0620_G0000_001_a2
+JP: 何だッ！？
+EN: What the—!?
+RU: 
+
+ID: M3060_S0620_G0010_001_pod042
+JP: 報告：飽和した自我が相互に闘争を開始。
+EN: Analysis: The saturated consciousnesses are now in conflict with each other.
+RU: 
+
+ID: M3060_S0620_G0020_001_a2
+JP: ハッ！まるで……
+EN: Huh...
+RU: 
+
+ID: M3060_S0620_G0030_001_a2
+JP: まるで、人類みたいだな……
+EN: They're acting like humans...
+RU: 
+
+

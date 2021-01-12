@@ -1,0 +1,1197 @@
+-- Section 1
+
+ID: M6090_S0020_G0110_300_resiman
+JP: 最近、敵が活発になってる気がしないか？\n気のせいだといいんだが……
+EN: Does it seem like the enemy's been more active lately? I hope it's just my imagination...
+RU: 
+
+
+-- Section 2
+
+ID: M6090_S0020_G0120_300_resiman
+JP: いざとなったら皆を守れるように、こっそり訓練してるんだ。\nまだまだ未熟だがな。
+EN: I'm secretly training so I can protect everyone when the time comes. But I still have a long way to go.
+RU: 
+
+
+-- Section 3
+
+ID: M6090_S0010_G0130_300_resiman
+JP: どこから敵が襲ってくるかわからないからな。\n見回りは欠かせないんだ。
+EN: We don't know where the enemy will attack from, so we have to keep watch at all times.
+RU: 
+
+
+-- Section 4
+
+ID: M6090_S0010_G0140_300_resiman
+JP: 俺達の義体はそれほど戦闘能力が高くない。\nあんたらがうらやましいよ。
+EN: We aren't very good at fighting. I'm jealous of you combat types.
+RU: 
+
+
+-- Section 5
+
+ID: M6090_S0030_G0110_300_resiman
+JP: お前もまだ生きてるみたいだな。
+EN: You're still alive?
+RU: 
+
+
+-- Section 6
+
+ID: M6090_S0030_G0120_300_resiman
+JP: 俺達は何が何でも生きなくちゃならない。\n弱気になってる場合じゃないんだ。
+EN: We must survive at all costs. This is no time to be fainthearted!
+RU: 
+
+
+-- Section 7
+
+ID: M6090_S0020_G0130_300_resiman
+JP: ヨルハ部隊はすごいな。\n機械生命体をあんな大量に撃破出来るなんて。
+EN: YoRHa soldiers are amazing. To think how you could destroy all those machines just like that!
+RU: 
+
+
+-- Section 8
+
+ID: M6090_S0020_G0140_300_resiman
+JP: 道中気をつけてな。\nまあ、言われなくても大丈夫だろうが。
+EN: Let's be careful out there! ...I probably don't need to tell you that, but hey, just in case.
+RU: 
+
+
+-- Section 9
+
+ID: M6090_S0010_G0150_300_resiman
+JP: やあ、今日もいい天気だな。
+EN: Nice weather we're having, eh?
+RU: 
+
+
+-- Section 10
+
+ID: M6090_S0010_G0160_300_resiman
+JP: こいつお前の事をいたく気に入ってるらしい。\n良い奴なんだが、自慢話には気をつけろよ。
+EN: That guy really seems to like you. Don't worry—he's a good man at heart, though he sure likes to brag.
+RU: 
+
+
+-- Section 11
+
+ID: M6090_S0020_G0150_300_resiman
+JP: こないだの大型兵器の件といい、お前はホントすごいな。\nこの調子で戦争を終わらせようぜ。
+EN: You were really amazing with those Goliath units! If you keep it up, this war will be over in no time!
+RU: 
+
+
+-- Section 12
+
+ID: M6090_S0020_G0160_300_resiman
+JP: 俺達が集めた情報を君達が役立てる……
+EN: Make good use of the intelligence we gathered...
+RU: 
+
+ID: M6090_S0020_G0170_300_resiman
+JP: 情報収集は危険だから物資調達を好む奴もいるが、やりがいがある仕事だ。
+EN: Intelligence gathering is dangerous, so many prefer to procure goods instead.
+RU: 
+
+
+-- Section 13
+
+ID: M6090_S0010_G0170_300_resiman
+JP: お前の噂は聞いてるよ。\nすごい活躍なんだってな。
+EN: I've heard a lot about you. You're doing great work!
+RU: 
+
+
+-- Section 14
+
+ID: M6090_S0010_G0180_300_resiman
+JP: 俺達は戦闘向きじゃないが、調査は得意なんだ。
+EN: We may not be geared for battle, but we ARE good at investigating.
+RU: 
+
+ID: M6090_S0010_G0190_300_resiman
+JP: マップデータがあるだろ？アレは俺達が手伝ったんだぜ。\n他にも……えっ、もういいのか？
+EN: You know about map data, right? We helped make that. In fact, I was one of— Hey! Are you leaving already!?
+RU: 
+
+
+-- Section 15
+
+ID: M6090_S0080_G0000_300_resiwoman
+JP: バンカー、こちらレジスタンスキャンプ。\n地上のデータを送信します。
+EN: Resistance Camp to bunker. I'm sending Earth data.
+RU: 
+
+
+-- Section 16
+
+ID: M6090_S0080_G0010_300_resiwoman
+JP: …………
+EN: ......
+RU: 
+
+
+-- Section 17
+
+ID: M6090_S0020_G0180_300_resiwoman
+JP: …………
+EN: ......
+RU: 
+
+
+-- Section 18
+
+ID: M6090_S0020_G0190_300_resiwoman
+JP: 陥没した地域の記録で忙しいんです。\nすみませんがそっとしておいてください。
+EN: I'm busy recording information on the area that collapsed. You mind leaving me alone?
+RU: 
+
+
+-- Section 19
+
+ID: M6090_S0020_G0200_300_resiwoman
+JP: ……
+EN: ...
+RU: 
+
+
+-- Section 20
+
+ID: M6090_S0020_G0210_300_resiwoman
+JP: …………
+EN: ......
+RU: 
+
+
+-- Section 21
+
+ID: M6090_S0020_G0220_300_resiwoman
+JP: ………………
+EN: .........
+RU: 
+
+
+-- Section 22
+
+ID: M6090_S0020_G0230_300_resiwoman
+JP: しつこいですよ。
+EN: Okay, RUDE!
+RU: 
+
+
+-- Section 23
+
+ID: M6090_S0010_G0200_300_resiwoman
+JP: …………
+EN: ......
+RU: 
+
+
+-- Section 24
+
+ID: M6090_S0010_G0210_300_resiwoman
+JP: ……すみません、集中しないと手元が狂ってしまうので……
+EN: Sorry. I have to concentrate on this or I'll screw it up.
+RU: 
+
+
+-- Section 25
+
+ID: M6090_S0010_G0220_300_resiwoman
+JP: ……
+EN: ...
+RU: 
+
+
+-- Section 26
+
+ID: M6090_S0010_G0230_300_resiwoman
+JP: …………
+EN: ......
+RU: 
+
+
+-- Section 27
+
+ID: M6090_S0010_G0240_300_resiwoman
+JP: ………………
+EN: .........
+RU: 
+
+
+-- Section 28
+
+ID: M6090_S0010_G0250_300_resiwoman
+JP: ちょっと、いい加減にしてください。
+EN: DO YOU MIND!?
+RU: 
+
+
+-- Section 29
+
+ID: M6090_S0080_G0020_300_resiman
+JP: お前か。\n首尾はどうだ？あんまり無茶するなよ。
+EN: You again? What happened? Also, you should be more careful!
+RU: 
+
+
+-- Section 30
+
+ID: M6090_S0080_G0030_300_resiman
+JP: 補給はしっかりしていけ。\n自己管理も大事な仕事だぞ。
+EN: Make sure you replenish what you need. You have to take care of yourself.
+RU: 
+
+
+-- Section 31
+
+ID: M6090_S0020_G0240_300_resiman
+JP: リーダーに何か用か？\nあの人はああ見えて心配性だから、あまり無茶しないでくれよ。
+EN: Our leader is tough, but that doesn't mean she doesn't worry. So don't go upsetting her, understand!?
+RU: 
+
+
+-- Section 32
+
+ID: M6090_S0020_G0250_300_resiman
+JP: 補給はしっかりしていけ。\n自己管理も大事な仕事だぞ。
+EN: Make sure you replenish what you need. It's important to take care of yourself.
+RU: 
+
+
+-- Section 33
+
+ID: M6090_S0010_G0260_300_resiman
+JP: この周辺地域で活動するレジスタンスは、皆ここを拠点にしている。
+EN: All of the Resistance members in this area are based in this camp.
+RU: 
+
+ID: M6090_S0010_G0270_300_resiman
+JP: だから人や物資はしっかり管理しないとな。
+EN: So we need to strictly manage everything and everyone that comes through here.
+RU: 
+
+
+-- Section 34
+
+ID: M6090_S0010_G0280_300_resiman
+JP: 足りないものがあるなら、そこにいる担当者から補給してくれ。
+EN: If you're ever short on anything, go talk to the guy in charge of supplies over there.
+RU: 
+
+
+-- Section 35
+
+ID: M6090_S0020_G0260_300_resiwoman
+JP: こんにちは！お元気ですか？ここのところ立て続けに異変が起こってますよね、それもこのエリアばっかり。私本当に心配で心配で心配で、
+EN: Strange things keep happening around here, but only in this little area. I'm worried. Very, very, very worried.
+RU: 
+
+ID: M6090_S0020_G0270_300_resiwoman
+JP: 私もこのあいだちょっと外に出た時に機械生命体に襲われて、まぁ大型兵器に比べたら大した相手じゃないんでしょうけど本当にびっくりして、
+EN: I went outside recently and got attacked by some of those dinky little machines—which aren't much compared to a Goliath, I know, but it still surprised me—but thankfully
+RU: 
+
+ID: M6090_S0020_G0280_300_resiwoman
+JP: 一緒に調査してた同僚がとっさに助けてくれたんで、怪我もなかったんですがあの時は本当に死ぬかと思いました。持つべきものは友ですよね。
+EN: I had a partner with me who managed to take 'em out, so I avoided serious injury. Thank goodness for friends, am I right sure I am friends are the
+RU: 
+
+ID: M6090_S0020_G0290_300_resiwoman
+JP: 本当に感謝してもしきれないというか、ああ解ってますよ、喋りすぎるなって目ですよね知ってます。でもせっかく来たんだからもう少し話を
+EN: best I'm so grateful for all the—I'm doing it again, aren't I? I'm talking too much. Well, YOU started it, so let's keep the conversation going!
+RU: 
+
+ID: M6090_S0020_G0300_300_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M6090_S0020_G0310_300_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 36
+
+ID: M6090_S0020_G0320_300_resiwoman
+JP: ああ、また来てくれたんですね！忙しいところをわざわざ来てくださって、皆私の話が長いからって無視するのにあなたはいつも話しかけてくれて、
+EN: Oh, you've come back! I appreciate you coming here even though you're busy because everyone always ignores me since I talk so much but you always talk with
+RU: 
+
+ID: M6090_S0020_G0330_300_resiwoman
+JP: 本当にやさしいですよね。やさしいといえばリーダーがこの間怪我を手当てしてくれて、いやちょっと荷物を運んでるときに切っただけだったんです、
+EN: me which is really nice and hey you know who else is nice? Our leader! She treated my wounds recently because I cut myself carrying some stuff which was dumb but
+RU: 
+
+ID: M6090_S0020_G0340_300_resiwoman
+JP: だけどリーダーったらものすごく心配して、確かに血がたくさん出てたんですけど見た目より全然大したことないからなんだか申し訳なくって、
+EN: she was really worried especially because there was a LOT of blood but it wasn't as bad as it looked so I felt bad for scaring her like that and now
+RU: 
+
+ID: M6090_S0020_G0350_300_resiwoman
+JP: いつも気をつけようと思ってるんですけどついうっかりしちゃうことが多いんですよね。アンドロイドなんで修理すればすぐ直っちゃうんですけど、
+EN: I always try to be careful but I'm often thoughtless which is bad even though androids can just be repaired and go back to normal but
+RU: 
+
+ID: M6090_S0020_G0360_300_resiwoman
+JP: こういうのは慣れてしまうと取り返しのつかないことになるっていつもリーダーが言うんですよ。本当にリーダーは心配性で、他にもリーダーったら
+EN: our leader says I should be careful anyway before I really hurt myself and I know she's right but also think she worries too much.
+RU: 
+
+ID: M6090_S0020_G0370_300_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M6090_S0020_G0380_300_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 37
+
+ID: M6090_S0010_G0290_300_resiwoman
+JP: 調子はどうですか？このキャンプは気に入りました？ヨルハ部隊はホームシックにならないんですか？レジスタンスの人はどうですか？
+EN: How are you? Do you like the camp? Do YoRHa soldiers ever get homesick? What do you think of the Resistance?
+RU: 
+
+ID: M6090_S0010_G0300_300_resiwoman
+JP: なんたってリーダーはやさしいし。そんな目で見ないでくださいよ。わかってますよこの早口のことでしょ？私の早口は癖みたいはもので
+EN: Our leader's nice. Really nice. Super nice! Hey, don't look at me like that. It's because I talk so much, isn't it? It's a bad habit but
+RU: 
+
+ID: M6090_S0010_G0310_300_resiwoman
+JP: なかなか治らないんですよみんなそれをからかうんだけど、思考が爆発しちゃうことがあってそれを声に出すとこんな早口になっちゃうんですよ
+EN: I can't help it and everyone teases me for it but my thoughts just explode and when I try to speak it just all comes out at once in a big tidal wave of words so then
+RU: 
+
+ID: M6090_S0010_G0320_300_resiwoman
+JP: からかわれた時もちゃんと理由と正当性を説明してるんですけど、ほらこの早口でしょ？何を言ってるのか全然わかんないみたいで
+EN: I try to explain why I talk this way but I explain so quickly nobody seems to understand what I'm saying so that never gets me anywhere and
+RU: 
+
+ID: M6090_S0010_G0330_300_resiwoman
+JP: みんなポカーンとしちゃってなんとももどかしい！みんなにあわせてたら思ってることの十分の一も伝えられないのに！それに比べてリーダーは……
+EN: everyone just stares blankly at me and it's really annoying because when I try to slow down to their level I can't get across what I wanna say but our leader is...
+RU: 
+
+ID: M6090_S0010_G0340_300_a2b
+JP: ……（よく喋る人）
+EN: (How can anyone possibly talk this much?)
+RU: 
+
+ID: M6090_S0010_G0360_300_a9s
+JP: ……（よく喋る人だなあ）
+EN: (Wow. Is she EVER going to stop?)
+RU: 
+
+
+-- Section 38
+
+ID: M6090_S0010_G0370_300_resiwoman
+JP: どうしました？何か困ったことがありました？困ったことがあったら遠慮せずに何でも言ってくださいね。出来る限りなんでもサポートしますよ！
+EN: What's wrong? Is something wrong? There is, isn't there? Don't be shy you can tell me and I'll support you as best I can even though
+RU: 
+
+ID: M6090_S0010_G0380_300_resiwoman
+JP: とはいえ私にできることはあんまりないんですけどね。だってこの早口ですから、他の皆とも上手くやれなくてそのせいかいまいち覚えも悪くて、
+EN: there's nothing much I can do because I speak so fast I don't get along with the others and so maybe that's why my memory's not so good either which is why
+RU: 
+
+ID: M6090_S0010_G0390_300_resiwoman
+JP: だからこうして物資の整理をしながらほとんどキャンプにいるんですけど、\n最近このあたりの調査にも参加できるようになって、この間なんか……
+EN: I'm mostly in the camp sorting supplies but recently I've been participating in the investigations around the area and just the other day I started...
+RU: 
+
+ID: M6090_S0010_G0400_300_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M6090_S0010_G0410_300_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 39
+
+ID: M6090_S0020_G0390_300_resiwoman
+JP: 噂のヨルハ隊員さんじゃないか。\n君の活躍は聞いてるよ。
+EN: Aren't you the YoRHa I keep hearing about? Everyone's talking about your successes.
+RU: 
+
+
+-- Section 40
+
+ID: M6090_S0020_G0400_300_resiwoman
+JP: 元気がない時は、こいつの元気を分けてもらうといい。\n元気すぎてこっちがつかれるくらいだけどな。
+EN: If you ever feel low on energy, maybe take some of hers. It's exhausting just being around her!
+RU: 
+
+
+-- Section 41
+
+ID: M6090_S0010_G0420_300_resiwoman
+JP: 月が壊れる前は、このあたりも夜ってのがあったらしいね。
+EN: Before that whole thing happened with the moon, this area actually had a proper night time.
+RU: 
+
+
+-- Section 42
+
+ID: M6090_S0010_G0430_300_resiwoman
+JP: こいつ、変なヤツだろう？
+EN: She's a pretty odd gal, ain't she?
+RU: 
+
+
+-- Section 43
+
+ID: M6090_S0020_G0410_300_resiwoman
+JP: 最近メモを取るようにしてるんだ。\n紙に書いておけば、忘れても思い出せるでしょう？
+EN: I've started taking notes recently. If I write things down on paper, I can remember the things I've forgotten.
+RU: 
+
+
+-- Section 44
+
+ID: M6090_S0020_G0420_300_resiwoman
+JP: でも怖いよね……記憶が消えるって事は、自分が自分でなくなってしまうって\n事だから……
+EN: But it's pretty scary to consider. I mean, when your memories disappear, you stop being yourself.
+RU: 
+
+
+-- Section 45
+
+ID: M6090_S0010_G0440_300_resiwoman
+JP: ええっと、あなたと会ったのは初めてだったかな？\nごめんなさい、私記憶回路が壊れてて、すぐ忘れてしまうの。
+EN: I don't think we've met. Er, HAVE we met? Sorry. My memory circuit is corrupted, so I forget stuff all the time.
+RU: 
+
+
+-- Section 46
+
+ID: M6090_S0010_G0450_300_resiwoman
+JP: ヨルハ部隊の２Ｂと９Ｓ……やっぱり覚えられないわ……
+EN: 2B and 9S from YoRHa, eh? Nope, sorry, doesn't ring a bell.
+RU: 
+
+
+-- Section 47
+
+ID: M5121_S0010_G0010_300_manager
+JP: ごめんなさい、また後で来てくれる？
+EN: Sorry, but can you come back later?
+RU: 
+
+ID: M5121_S0010_G0020_300_manager
+JP: 皆が必死に戦ってるのに、うだうだ言っていられないわよね……\nがんばらなくちゃ……
+EN: I can't just sit here while everyone's fighting so hard around me. I need to shape up...
+RU: 
+
+
+-- Section 48
+
+ID: M6090_S0010_G0110_300_manager
+JP: この先は資材置き場につながってるの。\n悪いけど、関係者以外立ち入り禁止だよ。
+EN: Up ahead is the material storage site. \nSorry, but it's off-limits.
+RU: 
+
+
+-- Section 49
+
+ID: M6090_S0010_G0120_300_manager
+JP: この先は関係者以外立ち入り禁止だよ。
+EN: This place is off-limits.
+RU: 
+
+
+-- Section 50
+
+ID: M6090_S0010_G0121_300_manager
+JP: 綺麗な音色……いくら聞いても飽きないわね……
+EN: What a beautiful sound...I could listen to this all day...
+RU: 
+
+
+-- Section 51
+
+ID: M6090_S0010_G0122_300_manager
+JP: この先は自由に出入りしていいからね。
+EN: You're free to come and go here whenever you please.
+RU: 
+
+
+-- Section 52
+
+ID: M6090_S0020_G0480_300_resiman
+JP: 任務、お疲れ様です！\n自分も少しずつですが、ここの環境に慣れてきた気がします。
+EN: You're doing great! And bit by bit, I feel like I'm getting used to this environment.
+RU: 
+
+
+-- Section 53
+
+ID: M6090_S0020_G0490_300_resiman
+JP: えーっと、キャンプの北が森、北東が機械生命体の村……ですよね？
+EN: Okay, so north of the camp is the forest, and northeast is the machine village. ...Er, right?
+RU: 
+
+
+-- Section 54
+
+ID: M6090_S0010_G0490_300_resiman
+JP: お疲れ様です！
+EN: Hello!
+RU: 
+
+ID: M6090_S0010_G0500_300_resiman
+JP: あの、僕は最近配属になったばかりで……\nその、この辺りの事を聞かれてもそんなに詳しくないんです……
+EN: I've only just been assigned here, so...yeah. Can't really tell you much about this place.
+RU: 
+
+
+-- Section 55
+
+ID: M6090_S0010_G0510_300_resiman
+JP: キャンプの西に工場跡地、北西に砂漠……調査任務の前にちゃんと覚えて\nおかないと……
+EN: The abandoned factory is west of camp, and the desert is...northwest? Geez, I'm never gonna be able to remember all of this.
+RU: 
+
+
+-- Section 56
+
+ID: M6090_S0080_G0040_300_resiman
+JP: またケガ人か？
+EN: Another casualty?
+RU: 
+
+ID: M6090_S0080_G0050_300_resiman
+JP: 違うならよかった。\nここじゃ簡単な修理位しかしてやれないからな……
+EN: ...No? Well, that's a piece of good news! We can only do simple repairs here.
+RU: 
+
+
+-- Section 57
+
+ID: M6090_S0080_G0060_300_resiman
+JP: 頑張りすぎるな、っていっても無理な話だが、自分を大事にしてやれよ。
+EN: There's no use saying don't push yourself too hard, but at least try to look after yourself.
+RU: 
+
+
+-- Section 58
+
+ID: M6090_S0020_G0500_300_resiman
+JP: 最近、皆も忙しくてさ。\nメンテナンスを手伝ってるんだが、なかなか難しいな。
+EN: Everyone's been so busy lately. I've been helping with maintenance when I can, but it's pretty tough!
+RU: 
+
+
+-- Section 59
+
+ID: M6090_S0020_G0510_300_resiman
+JP: なんか疲れてないか？\n頑張るのはいいが、ほどほどにな。
+EN: Aren't you tired? It's good you're trying your best, but don't overdo it.
+RU: 
+
+
+-- Section 60
+
+ID: M6090_S0010_G0520_300_resiman
+JP: 機体は定期的にメンテナンスしてるか？\nアップグレードしたければ、表にいる女に言うといい。
+EN: Make sure you get regular maintenance. Also, if you want an upgrade, you should talk to the woman out front.
+RU: 
+
+
+-- Section 61
+
+ID: M6090_S0010_G0530_300_resiman
+JP: ヨルハ義体は高価だからな、大事にしろよ。
+EN: YoRHa bodies are expensive, so don't go getting yourself hurt!
+RU: 
+
+
+-- Section 62
+
+ID: M6090_S0080_G0070_300_resiman
+JP: データのセーブはちゃんとしてるか？\n代わりの義体があっても、データが壊れちゃ死んだも同然だ。
+EN: Are you saving your data regularly? Even if you get a replacement body, you're as good as dead if your data's lost.
+RU: 
+
+
+-- Section 63
+
+ID: M6090_S0080_G0080_300_resiman
+JP: データはこまめにセーブしておけよ。\n手遅れになってからじゃ遅いからな。
+EN: Have you been saving your data regularly? If not, do it before it's too late!
+RU: 
+
+
+-- Section 64
+
+ID: M6090_S0020_G0520_300_resiman
+JP: 今よその転送装置を修理して回ってるんだが、直したそばから敵が\n壊しやがるんだ。
+EN: I've been trying to repair the surrounding transporters, but the enemy keeps breaking them as soon as I finish.
+RU: 
+
+ID: M6090_S0020_G0530_300_resiman
+JP: もう、自動販売機の偽装も意味がないんだよなぁ。
+EN: There's no point in the vending machine camouflage anymore.
+RU: 
+
+
+-- Section 65
+
+ID: M6090_S0020_G0540_300_resiman
+JP: 転送装置の周囲に機械生命体がいたらよ、いっちょ懲らしめてやってくれ。
+EN: If you find any machines near a transporter, make them pay!
+RU: 
+
+
+-- Section 66
+
+ID: M6090_S0010_G0540_300_resiman
+JP: キャンプの転送装置を整備して、バンカーに戻れるようにしておいた。\n好きに使っていいからな。
+EN: I fixed the camp's transporter so that you can return to the Bunker. It's ready for you whenever.
+RU: 
+
+
+-- Section 67
+
+ID: M6090_S0010_G0550_300_resiman
+JP: よその転送装置も整備したいんだが、機械生命体が邪魔で作業が\n進まないんだ。
+EN: I'd like to fix other transporters as well, but I can't so long as the machines are in the way.
+RU: 
+
+
+-- Section 68
+
+ID: M6090_S0080_G0090_300_resiwoman
+JP: 義体はただの入れ物だって解ってるんだけど、\n怪我人を見るのは心が痛むね……
+EN: I know these bodies are basically just shells, but it pains me to see them injured...
+RU: 
+
+
+-- Section 69
+
+ID: M6090_S0080_G0100_300_resiwoman
+JP: 怪我はない？\n無茶しないでちゃんと休むのよ。
+EN: Are you injured? If not, then stay that way! Don't do anything reckless, and make sure to get enough rest.
+RU: 
+
+
+-- Section 70
+
+ID: M6090_S0020_G0550_300_resiwoman
+JP: あなた達、いつも仲良しよね。\nうらやましいわ。
+EN: You two always look so close. Honestly, I'm jealous.
+RU: 
+
+
+-- Section 71
+
+ID: M6090_S0020_G0570_300_resiwoman
+JP: 機械生命体なんて皆滅びてしまえばいいのに。
+EN: I wish all the machines would just die already.
+RU: 
+
+
+-- Section 72
+
+ID: M6090_S0020_G0560_300_resiwoman
+JP: 皆には内緒だけど、機械生命体にもイイ奴はいると思うんだよね……
+EN: It's a secret from the others, but there are some good machines out there...
+RU: 
+
+
+-- Section 73
+
+ID: M6090_S0010_G0560_300_resiwoman
+JP: 最近胸のあたりがざわつく……どうしたんだろう？
+EN: I've been having this really weird feeling in my chest lately... I wonder what it could be.
+RU: 
+
+
+-- Section 74
+
+ID: M6090_S0010_G0570_300_resiwoman
+JP: 義体に異常はないって言われたんだけど……\nアンドロイドなのに、変よね。
+EN: I was told there was nothing wrong with my body, but I'm sure this isn't normal for androids.
+RU: 
+
+
+-- Section 75
+
+ID: M6090_S0080_G0110_300_resiman
+JP: おい、こんなところで油売ってていいのか？\n仲間がお前を必要としてるだろ、早く行ってやれ。
+EN: Why are you lazing around here? Your friends need you!
+RU: 
+
+
+-- Section 76
+
+ID: M6090_S0080_G0120_300_resiman
+JP: 俺達に出来ることは少ないが……頼りにしてるぜ、ヨルハ部隊のエース殿！
+EN: There's not much we can do, but I'm relying on you!
+RU: 
+
+
+-- Section 77
+
+ID: M6090_S0030_G0160_300_resiman
+JP: おい、大丈夫か？\n最近いろいろあったから、疲れがたまってるんじゃないか？
+EN: So much has happened recently. You must be exhausted!
+RU: 
+
+
+-- Section 78
+
+ID: M6090_S0030_G0170_300_resiman
+JP: 俺は最後まで自分の仕事を全うする。\nそれが全てだからな。
+EN: I'll carry out my work until the bitter end. Everything depends on it.
+RU: 
+
+
+-- Section 79
+
+ID: M6090_S0020_G0580_300_resiman
+JP: よう、ヨルハ部隊のエース殿。\nお前達が最善の状態で戦えるように、サポート体制はばっちりだぜ。
+EN: Hi there, YoRHa ace! We're making sure we're equipped to support you to the utmost so you can fight at your best.
+RU: 
+
+
+-- Section 80
+
+ID: M6090_S0020_G0590_300_resiman
+JP: 俺は仕事中だ。\nほら、行った行った！
+EN: I'm working. ...Look, there they go!
+RU: 
+
+
+-- Section 81
+
+ID: M6090_S0010_G0580_300_resiman
+JP: 俺はキャンプの荷物を見て回って、物資の在庫を調べるのが仕事なんだ。
+EN: My job is to look through the camp supplies and check our stock.
+RU: 
+
+ID: M6090_S0010_G0590_300_resiman
+JP: 足りない物資は各地の調達係が集めてきて、ここでまとめて管理する\n仕組みなのさ。
+EN: When supplies are low, providers from each area send us what we need and leave it for us to manage.
+RU: 
+
+
+-- Section 82
+
+ID: M6090_S0010_G0600_300_resiman
+JP: 最近はこのあたりの調査が活発だから、忙しくて参っちまうよ。
+EN: We've been doing lots of investigations lately, so I've been swamped.
+RU: 
+
+
+-- Section 83
+
+ID: M6090_S0020_G0600_300_resiwoman
+JP: ヒソヒソ……なるほど……
+EN: Psst... Oh, I see!
+RU: 
+
+
+-- Section 84
+
+ID: M6090_S0020_G0610_300_resiwoman
+JP: 混ぜてほしいって？君にはまだ早いよ。
+EN: ...Hmm? You want me to tell you what we're talking about? Heck no! I still don't know you well enough.
+RU: 
+
+
+-- Section 85
+
+ID: M6090_S0010_G0610_300_resiwoman
+JP: ヒソヒソ……うんうん……
+EN: Psst... Uh-huh.
+RU: 
+
+
+-- Section 86
+
+ID: M6090_S0010_G0620_300_resiwoman
+JP: ん？何の話か気になるって？\n秘密だよ。
+EN: ...Hmm? You wanna know what I'm saying? Well, it's none of your beeswax!
+RU: 
+
+
+-- Section 87
+
+ID: M6090_S0030_G0180_300_resiwoman
+JP: ヒソヒソ……うんうん……
+EN: Psst... Uh-huh... You don't say!
+RU: 
+
+ID: M6090_S0030_G0190_300_a2b
+JP: …………
+EN: ......
+RU: 
+
+ID: M6090_S0030_G0200_300_a9s
+JP: …………
+EN: ......
+RU: 
+
+ID: M6090_S0030_G0210_300_a2
+JP: おい、誰と話してるんだ？
+EN: Who you talking to?
+RU: 
+
+
+-- Section 88
+
+ID: M6090_S0030_G0220_300_resiwoman
+JP: 立ち聞きは悪趣味ですよ。
+EN: It's rude to eavesdrop!
+RU: 
+
+
+-- Section 89
+
+ID: M6090_S0020_G0620_300_resiwoman
+JP: ヒソヒソ……それで……
+EN: So anyway, I says to her...
+RU: 
+
+
+-- Section 90
+
+ID: M6090_S0020_G0630_300_resiwoman
+JP: 耳をそばだてて聞いても、大した話じゃないですよ。
+EN: Eavesdrop all you want. It's nothing important.
+RU: 
+
+
+-- Section 91
+
+ID: M6090_S0010_G0630_300_resiwoman
+JP: ヒソヒソ……そうそう……
+EN: Psst... Yes? Oh my!
+RU: 
+
+
+-- Section 92
+
+ID: M6090_S0010_G0640_300_resiwoman
+JP: 立ち聞きは悪趣味ですよ！
+EN: ...Hey! No eavesdropping!
+RU: 
+
+
+-- Section 93
+
+ID: M6090_S0020_G0640_300_resiman
+JP: えーっと、これは向こうの箱に移し替えて……
+EN: Um, let's move that to the box over there...
+RU: 
+
+
+-- Section 94
+
+ID: M6090_S0020_G0650_300_resiman
+JP: パスカルのところと交易することになったのは良いんだが、\nあいつら機械の癖に大雑把なんだよな。
+EN: I'm happy we're trading with Pascal, but it's still a little weird swapping stuff with machines.
+RU: 
+
+
+-- Section 95
+
+ID: M6090_S0010_G0650_300_resiman
+JP: まったく……誰がこんな適当に入れたんだ……
+EN: Geez, who made this mess?
+RU: 
+
+
+-- Section 96
+
+ID: M6090_S0010_G0660_300_resiman
+JP: これだけ荷物が多いと、管理するのにも一苦労だよ。
+EN: There's so much stuff here, it's hard to keep track of it all.
+RU: 
+
+
+-- Section 97
+
+ID: M6090_S0030_G0230_300_resiman
+JP: うぃ～っ、やっぱ酒は最高だなぁ～\nおい、酒はもうないのか～？
+EN: Man, booze is the BEST! ...Is it gone? Please tell me it's not all gone!
+RU: 
+
+
+-- Section 98
+
+ID: M6090_S0030_G0240_300_resiman
+JP: ……なんだよぉ……なんか文句あるのかよぉ……
+EN: ...What? You gotta problem with me!?
+RU: 
+
+
+-- Section 99
+
+ID: M6090_S0020_G0660_300_resiman
+JP: 中央が吹っ飛んだ時に古い酒を見つけてよ、ちょっと飲んでみたんだが\nあれはいいな。
+EN: I found some old alcohol when the center of the city ruins was blown off, so I tried a little. It's really good!
+RU: 
+
+ID: M6090_S0020_G0670_300_resiman
+JP: ……この話、リーダーには内緒だぞ。
+EN: Don't tell my boss!
+RU: 
+
+
+-- Section 100
+
+ID: M6090_S0020_G0680_300_resiman
+JP: 酒を飲むと情報処理機能が低下するのか、頭がぼーっとして、\nなんか全部どうでもよくなっちまう。
+EN: Data processing must get worse when you drink. I feel so out of it, plus nothing seems to matter anymore.
+RU: 
+
+ID: M6090_S0020_G0690_300_resiman
+JP: ああいうのを夢見ごこちっていうのかもな。
+EN: It's like I'm in a dream.
+RU: 
+
+
+-- Section 101
+
+ID: M6090_S0010_G0670_300_resiman
+JP: あー、仕事の後は一杯やりたいもんだねぇ。
+EN: Ahhh... I can't wait to have a drink after work.
+RU: 
+
+
+-- Section 102
+
+ID: M6090_S0010_G0680_300_resiman
+JP: 人間は仕事終わりにこうやって仲間と固まって酒を飲んでたらしい。\n俺達も取り入れるべき文化だ。そう思わないか？
+EN: Humans used to have drinks and talk together after work. That's a tradition we should bring back!
+RU: 
+
+
+-- Section 103
+
+ID: M6090_S0030_G0250_300_resiman
+JP: ……なんで生き残っちまったんだろう。
+EN: Why did I survive...?
+RU: 
+
+ID: M6090_S0030_G0260_300_resiman
+JP: 俺なんかじゃなくてさ、もっと良い奴とか、まじめな奴とかが\n生き残るべきだったんだ。
+EN: I shouldn't have survived. It should've been someone better. Someone who took his job more seriously.
+RU: 
+
+ID: M6090_S0030_G0270_300_resiman
+JP: お前もそう思うだろ？
+EN: You think so too, don't you?
+RU: 
+
+
+-- Section 104
+
+ID: M6090_S0030_G0280_300_resiman
+JP: こんな状況になっても、俺は戦いが怖くてここから動けないような屑野郎だ。
+EN: Even with things the way they are, I'm scared of fighting. I don't think I can even move.
+RU: 
+
+ID: M6090_S0030_G0290_300_resiman
+JP: 全部どうでもいいって投げ出せたらどんなにいいだろうな……
+EN: I wish I could give up and stop caring.
+RU: 
+
+
+-- Section 105
+
+ID: M6090_S0020_G0700_300_resiman
+JP: 最近慌ただしくて、ろくに休めてないからな。\nたまには休憩しないとな。
+EN: I've been so busy lately that I haven't had a proper break. You've got to rest sometimes.
+RU: 
+
+
+-- Section 106
+
+ID: M6090_S0020_G0710_300_resiman
+JP: いつも休んでるじゃないかって？\n細かいこと気にすんなよ。
+EN: ...What's that? I look like I'm always resting? Hey, mind your business!
+RU: 
+
+
+-- Section 107
+
+ID: M6090_S0010_G0690_300_resiman
+JP: 生まれてからずーっと戦争してるなんて……大変だよな。
+EN: It must be tough having to spend every day of your life in combat.
+RU: 
+
+
+-- Section 108
+
+ID: M6090_S0010_G0700_300_resiman
+JP: 気張ってても世の中、なるようにしかならないんだ。\n気楽にいこうぜ。
+EN: No matter how hard you push yourself, what will be will be. So take it easy!
+RU: 
+
+
+-- Section 109
+
+ID: M6090_S0020_G0720_300_resiwoman
+JP: こんにちは。\nゆっくりしていってね。
+EN: Make sure you take it easy, all right?
+RU: 
+
+
+-- Section 110
+
+ID: M6090_S0020_G0730_300_resiwoman
+JP: あなたいつも忙しそうだけど、たまには大切な人との時間もとらないとだめよ。
+EN: You always seem busy, but you've got to make time for your loved ones, too.
+RU: 
+
+ID: M6090_S0020_G0740_300_resiwoman
+JP: いつまでも一緒に居られる訳じゃないからね。\n……この人は言っても聞かないでしょうけど。
+EN: You're not going to be together forever... Not that you'll listen to someone like me, though.
+RU: 
+
+
+-- Section 111
+
+ID: M6090_S0010_G0710_300_resiwoman
+JP: こんにちは。\nあなたも休憩しに来たの？
+EN: Hiya! Here to take a load off?
+RU: 
+
+
+-- Section 112
+
+ID: M6090_S0010_G0720_300_resiwoman
+JP: 彼も少しは休めばいいのに、いつも仕事ばっかり。
+EN: I'm always telling him he should rest sometimes, but he never listens.
+RU: 
+
+ID: M6090_S0010_G0730_300_resiwoman
+JP: 調査から帰ってきたと思ったら道具屋の手伝い……\n得意なわけでもないのに、なんでも引き受けちゃうみたいなのよね。
+EN: As soon as he gets back from his investigations, he goes to help at the item shop. He takes on every little task, even if he's no good at it.
+RU: 
+
+
+-- Section 113
+
+ID: M6090_S0020_G0750_300_resiman
+JP: あれがここにはまって……こっちをつないで……
+EN: So that goes in here...and connects to this...
+RU: 
+
+
+-- Section 114
+
+ID: M6090_S0020_G0760_300_resiman
+JP: うーん……なんでパーツが余ったんだ？
+EN: Hmm... Why are there so many parts?
+RU: 
+
+
+-- Section 115
+
+ID: M6090_S0010_G0740_300_resiman
+JP: ここをこうして……うーん……
+EN: So this goes here... Ummm...
+RU: 
+
+
+-- Section 116
+
+ID: M6090_S0010_G0750_300_resiman
+JP: おかしいな……なんで動かないんだ？
+EN: That's odd. Why isn't it moving?
+RU: 
+
+
+-- Section 117
+
+ID: M6090_S0080_G0160_300_resiman
+JP: どうした？\n心配しなくても、ここはちゃんと守っとくよ。
+EN: What happened!? ...Oh, and don't worry—I'm protecting this place.
+RU: 
+
+
+-- Section 118
+
+ID: M6090_S0080_G0170_300_resiman
+JP: 俺達にはこんなことしかできないからな。\nせめてできることはやりぬかないとな。
+EN: This is all we can do. At the very least, we've got to push on.
+RU: 
+
+
+-- Section 119
+
+ID: M6090_S0010_G0760_300_resiman
+JP: 毎日毎日運んでも運んでもキリがない……\nちょっと休憩だ！休憩！
+EN: I'm endlessly carrying things, day after day after day. I need a break!
+RU: 
+
+
+-- Section 120
+
+ID: M6090_S0010_G0770_300_resiman
+JP: 仕事は多いし、同僚は使えないし、上司は横暴……\nその上相変わらず戦争は続いてるときたもんだ。
+EN: There's so much work, my colleagues are useless, my superiors are tyrants, and this war shows no signs of ending!
+RU: 
+
+ID: M6090_S0010_G0780_300_resiman
+JP: 一つくらい、何か良いことでもないかなぁ……
+EN: It's just bad news everywhere you look.
+RU: 
+
+
+-- Section 121
+
+ID: M6090_S0080_G0180_300_resiman
+JP: 君達がこんなところまで一体……まさか、敵襲！？\n大変だ！すぐに資材を運び出さないと！！！
+EN: Why are you here? Are we...under attack!?\nOh no! I've got to carry out the supplies right away!
+RU: 
+
+ID: M6090_S0080_G0190_300_resiman
+JP: ……え、違う？\nまったく、驚かすなよ。
+EN: ...Oh, we're not? Geez, don't scare me like that!
+RU: 
+
+
+-- Section 122
+
+ID: M6090_S0080_G0200_300_resiman
+JP: ここにある資材は我々の生命線だからな。\n命に変えてでも守りぬくぜ。
+EN: Everyone's depending on these supplies. I must protect them with my life!
+RU: 
+
+
+-- Section 123
+
+ID: M6090_S0010_G0790_300_resiman
+JP: 右よし！左よし！\nうむ、今日も異常はないな！
+EN: All clear to the right! All clear to the left!\nNothing to report today!
+RU: 
+
+
+-- Section 124
+
+ID: M6090_S0010_G0800_300_resiman
+JP: 警備は任せてくれ。\n倉庫には、ネズミ一匹入れないぜ。
+EN: I'm taking care of the guard duties. I won't let even a single mouse get in.
+RU: 
+
+

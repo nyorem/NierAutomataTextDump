@@ -1,0 +1,70 @@
+ID: SHOP_DIALOG_01
+JP: <TOTAL_PRICE>Gで購入します。\nよろしいですか？
+EN: Purchase for <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_02
+JP: <TOTAL_PRICE>Gで売却します。\nよろしいですか？
+EN: Sell for <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_03
+JP: <TOTAL_PRICE>Gで合成します。\nよろしいですか？
+EN: Create chip for <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_04
+JP: <TOTAL_PRICE>Gで強化します。\nよろしいですか？
+EN: Upgrade for <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_05
+JP: 購入した武器を装備しますか？
+EN: Equip purchased weapons?
+RU: 
+
+ID: SHOP_DIALOG_06
+JP: このショップではこれ以上鍛えられません。
+EN: This can't be enhanced further at this shop.
+RU: 
+
+ID: SHOP_DIALOG_07
+JP: この武器はこれ以上鍛えられません。
+EN: This weapon can't be upgraded further.
+RU: 
+
+ID: SHOP_DIALOG_08
+JP: 選択中のチップは装備セットタイプに使用されています。\n合成するとセットタイプから外されますがよろしいですか？
+EN: The selected chip is currently equipped to a chip set. If you fuse it, it will be removed from its chip set. \nDo you wish to fuse this chip?
+RU: 
+
+ID: SHOP_DIALOG_09
+JP: このチップは装備セットタイプに使用されています。\n<TOTAL_PRICE>Gで売却しますか？
+EN: This chip is currently equipped to a chip set. Sell for <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_10
+JP: 同じ能力・ランクのチップがないため合成できません。
+EN: You cannot fuse this chip, because you have no chips of the same ability and rank.
+RU: 
+
+ID: SHOP_DIALOG_11
+JP: このポッドはこれ以上強化できません。
+EN: This Pod can't be upgraded further.
+RU: 
+
+ID: SHOP_DIALOG_12
+JP: OSチップを<TOTAL_PRICE>Gで売却します。\nよろしいですか？
+EN: Sell for <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_13
+JP: 所持金が不足しています。
+EN: You do not have enough money.
+RU: 
+
+ID: SHOP_DIALOG_14
+JP: 強化に必要な素材が不足しています。
+EN: You do not have the required materials.
+RU: 
+

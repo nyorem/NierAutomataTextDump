@@ -1,0 +1,35 @@
+ID: M1070_S0170_H0000_101_adam
+JP: ああっ、たまらないよ。
+EN: Oh, I do enjoy this...
+RU: 
+
+ID: M1070_S0170_H0010_101_a2b
+JP: ９Ｓ！！
+EN: 9S!
+RU: 
+
+ID: M1070_S0170_H0020_101_adam
+JP: 君の為に用意したんだよ。
+EN: I prepared this just for you.
+RU: 
+
+ID: M1070_S0170_H0030_101_adam
+JP: 戦う為には、それにふさわしい理由が必要だろう？
+EN: I mean, after all... We all need something to fight for, don't we?
+RU: 
+
+ID: M1070_S0170_H0040_101_a2b
+JP: 貴様……ッ！！殺す！！
+EN: You son of a... I'll kill you!
+RU: 
+
+ID: M1070_S0170_H0050_101_adam
+JP: そうだ……その感情、憎悪だ！
+EN: YES! That's it! That's the feeling! PURE HATE!
+RU: 
+
+ID: M1070_S0170_H0060_101_adam
+JP: 来いっ！２Ｂイイッ！！
+EN: Come, 2B!
+RU: 
+

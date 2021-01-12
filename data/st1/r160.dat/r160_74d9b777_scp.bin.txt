@@ -1,0 +1,297 @@
+-- Section 1
+
+ID: M1050_S0190_G0070_300_n02
+JP: 気を抜くな！敵は近くにいるぞ！
+EN: Don't let up! The enemy is among us!
+RU: 
+
+ID: M1050_S0190_G0080_300_n02
+JP: ヨソ者の侵略を決して許すな！
+EN: Don't let any intruders get in!
+RU: 
+
+ID: M1050_S0190_G0090_300_n02
+JP: 我らが王を守るのだ！
+EN: We must protect our king!
+RU: 
+
+ID: M1050_S0190_G0100_300_n02
+JP: 守るのだ！
+EN: Protect our king!
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0190_G0110_300_n02
+JP: 侵略者を発見！！
+EN: Intruders detected!
+RU: 
+
+ID: M1050_S0190_G0120_300_n02
+JP: 王国騎士団よ！我らが森の王に命を捧げよ！！
+EN: Royal knights! Give your lives for the king of our forest!
+RU: 
+
+ID: M1050_S0190_G0130_300_n02
+JP: 我らが森の王の為に！！
+EN: For the king of our forest!
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0190_G0070_300_n02
+JP: 気を抜くな！敵は近くにいるぞ！
+EN: Don't let up! The enemy is among us!
+RU: 
+
+ID: M1050_S0190_G0080_300_n02
+JP: ヨソ者の侵略を決して許すな！
+EN: Don't let any intruders get in!
+RU: 
+
+ID: M1050_S0190_G0090_300_n02
+JP: 我らが王を守るのだ！
+EN: We must protect our king!
+RU: 
+
+ID: M1050_S0190_G0100_300_n02
+JP: 守るのだ！
+EN: Protect our king!
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0190_G0110_300_n02
+JP: 侵略者を発見！！
+EN: Intruders detected!
+RU: 
+
+ID: M1050_S0190_G0120_300_n02
+JP: 王国騎士団よ！我らが森の王に命を捧げよ！！
+EN: Royal knights! Give your lives for the king of our forest!
+RU: 
+
+ID: M1050_S0190_G0130_300_n02
+JP: 我らが森の王の為に！！
+EN: For the king of our forest!
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0190_G0070_300_n02
+JP: 気を抜くな！敵は近くにいるぞ！
+EN: Don't let up! The enemy is among us!
+RU: 
+
+ID: M1050_S0190_G0080_300_n02
+JP: ヨソ者の侵略を決して許すな！
+EN: Don't let any intruders get in!
+RU: 
+
+ID: M1050_S0190_G0090_300_n02
+JP: 我らが王を守るのだ！
+EN: We must protect our king!
+RU: 
+
+ID: M1050_S0190_G0100_300_n02
+JP: 守るのだ！
+EN: Protect our king!
+RU: 
+
+
+-- Section 6
+
+ID: M1050_S0190_G0110_300_n02
+JP: 侵略者を発見！！
+EN: Intruders detected!
+RU: 
+
+ID: M1050_S0190_G0120_300_n02
+JP: 王国騎士団よ！我らが森の王に命を捧げよ！！
+EN: Royal knights! Give your lives for the king of our forest!
+RU: 
+
+ID: M1050_S0190_G0130_300_n02
+JP: 我らが森の王の為に！！
+EN: For the king of our forest!
+RU: 
+
+
+-- Section 7
+
+ID: M1050_S0190_G0050_001_n02
+JP: 我らが王の王国を守るのだ！
+EN: We must protect our king and kingdom!
+RU: 
+
+ID: M1050_S0190_G0060_001_n02
+JP: 守るのだ！
+EN: We will protect them!
+RU: 
+
+ID: M1050_S0190_G0070_001_n02
+JP: 王国騎士団の意地を見せるのだ！
+EN: We must show our foes what we royal knights are made of!
+RU: 
+
+ID: M1050_S0190_G0080_001_n02
+JP: 見せるのだ！
+EN: We will show them!
+RU: 
+
+
+-- Section 8
+
+ID: M1050_S0190_G0130_001_n02
+JP: 引くなッ！戦え！
+EN: No falling back! Fight!
+RU: 
+
+ID: M1050_S0190_G0140_001_n02
+JP: 我らが命……いまこの為に有ると思え！
+EN: You have lived your whole life for this singular moment!
+RU: 
+
+ID: M1050_S0190_G0150_001_n02
+JP: 我らが森の王の為に！！
+EN: For the Forest King!
+RU: 
+
+ID: M1050_S0190_G0160_001_n02
+JP: 森の王の為に！！
+EN: The Forest King!
+RU: 
+
+
+-- Section 9
+
+ID: M1050_S0190_G0090_001_n02
+JP: 王のオンギに報いるべし！
+EN: We must fulfill our obligation to the king!
+RU: 
+
+ID: M1050_S0190_G0100_001_n02
+JP: 報いるべし！
+EN: We will fulfill!
+RU: 
+
+ID: M1050_S0190_G0110_001_n02
+JP: でも、オンギって何だべさ……
+EN: Er...but what is an "obligation"?
+RU: 
+
+ID: M1050_S0190_G0120_001_n02
+JP: 何だべさ！
+EN: But what is it!?
+RU: 
+
+
+-- Section 10
+
+ID: M1050_S0190_G0130_001_n02
+JP: 引くなッ！戦え！
+EN: No falling back! Fight!
+RU: 
+
+ID: M1050_S0190_G0140_001_n02
+JP: 我らが命……いまこの為に有ると思え！
+EN: You have lived your whole life for this singular moment!
+RU: 
+
+ID: M1050_S0190_G0150_001_n02
+JP: 我らが森の王の為に！！
+EN: For the Forest King!
+RU: 
+
+ID: M1050_S0190_G0160_001_n02
+JP: 森の王の為に！！
+EN: The Forest King!
+RU: 
+
+
+-- Section 11
+
+ID: M1050_S0190_G0000_300_n02
+JP: 構えて……
+EN: Ready... Aim...
+RU: 
+
+ID: M1050_S0190_G0010_300_n02
+JP: 突け！！
+EN: Thrust!
+RU: 
+
+ID: M1050_S0190_G0020_300_n02
+JP: 次の者、前へ。
+EN: Okay, next!
+RU: 
+
+ID: M1050_S0190_G0030_300_n02
+JP: もっと腰を入れろ！！
+EN: Put your back into it!
+RU: 
+
+
+-- Section 12
+
+ID: M1050_S0190_G0040_300_n02
+JP: 侵入者だ！直ちに陣形を取れ！
+EN: Intruders! Get in formation, now!
+RU: 
+
+ID: M1050_S0190_G0050_300_n02
+JP: 構え！
+EN: Take position!
+RU: 
+
+ID: M1050_S0190_G0060_300_n02
+JP: 恐れるな！進め！
+EN: Keep going! Don't be afraid!
+RU: 
+
+
+-- Section 13
+
+ID: M1050_S0190_G0000_300_n02
+JP: 構えて……
+EN: Ready... Aim...
+RU: 
+
+ID: M1050_S0190_G0010_300_n02
+JP: 突け！！
+EN: Thrust!
+RU: 
+
+ID: M1050_S0190_G0020_300_n02
+JP: 次の者、前へ。
+EN: Okay, next!
+RU: 
+
+ID: M1050_S0190_G0030_300_n02
+JP: もっと腰を入れろ！！
+EN: Put your back into it!
+RU: 
+
+
+-- Section 14
+
+ID: M1050_S0190_G0040_300_n02
+JP: 侵入者だ！直ちに陣形を取れ！
+EN: Intruders! Get in formation, now!
+RU: 
+
+ID: M1050_S0190_G0050_300_n02
+JP: 構え！
+EN: Take position!
+RU: 
+
+ID: M1050_S0190_G0060_300_n02
+JP: 恐れるな！進め！
+EN: Keep going! Don't be afraid!
+RU: 
+
+

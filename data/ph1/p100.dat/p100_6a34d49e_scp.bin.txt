@@ -1,0 +1,104 @@
+-- Section 1
+
+ID: M0010_S0220_G0110_101_a9s
+JP: ２Ｂさん。僕……嬉しいです。
+EN: You know, ma'am, I'm glad you're here.
+RU: 
+
+ID: M0010_S0220_G0120_101_a2b
+JP: 何が？
+EN: Why?
+RU: 
+
+ID: M0010_S0220_G0130_101_a9s
+JP: 僕達スキャナータイプは、単独での現地の事前調査が主です。
+EN: Scanners like me mostly work alone. Scouting out enemy lines and all that?
+RU: 
+
+ID: M0010_S0220_G0140_101_a9s
+JP: だから、誰かと一緒に行動出来るって、楽しいんです。
+EN: I don't usually get a partner. It's kind of fun!
+RU: 
+
+ID: M0010_S0220_G0150_101_a2b
+JP: ……感情を持つ事は禁止されている。
+EN: ...Emotions are prohibited.
+RU: 
+
+ID: M0010_S0220_G0160_101_a9s
+JP: あっ……すみません！
+EN: S-sorry, ma'am!
+RU: 
+
+ID: M0010_S0220_G0170_101_a2b
+JP: それと……
+EN: And another thing...
+RU: 
+
+ID: M0010_S0220_G0180_101_a2b
+JP: 『さん』は付けなくて、いい。
+EN: Stop calling me "ma'am".
+RU: 
+
+ID: M0010_S0220_G0190_101_a9s
+JP: ……え？
+EN: Huh?
+RU: 
+
+ID: M0010_S0220_G0200_101_a2b
+JP: 私の名前に敬称は必要ない。
+EN: It's unnecessary.
+RU: 
+
+ID: M0010_S0220_G0210_101_a9s
+JP: ……わかりました。２Ｂ！
+EN: All right, then. 2B it is!
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0220_G0220_101_a2b
+JP: 広いな……この廃墟。
+EN: This place sure is big.
+RU: 
+
+ID: M0010_S0220_G0230_101_a9s
+JP: ここは昔、人類の兵器工場だったらしいですよ。
+EN: I guess humans used to use it as a weapons factory.
+RU: 
+
+ID: M0010_S0220_G0240_101_a9s
+JP: 今ではすっかり機械生命体だらけですが……
+EN: But now it's just crawling with machines.
+RU: 
+
+ID: M0010_S0220_G0250_101_a9s
+JP: 敵はこの工場を再利用して、機械生命体を増産しているようです。
+EN: The enemy seems to have repurposed the facility to increase their overall machine production.
+RU: 
+
+ID: M0010_S0220_G0260_101_a2b
+JP: 全滅させないと無限に湧いてくるって事か……
+EN: So if we don't destroy it, they'll just keep coming.
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0220_G0266_101_a2b
+JP: ……何？
+EN: ...What?
+RU: 
+
+ID: M0010_S0220_G0267_101_a9s
+JP: 旧世界のデータを使って適当な事を喋ってるんです。
+EN: It's just accessing random nonsensical data from the old world.
+RU: 
+
+ID: M0010_S0220_G0268_101_a9s
+JP: 機械生命体のやる事に意味なんかないですよ。
+EN: There's no actual meaning behind anything machines do.
+RU: 
+
+

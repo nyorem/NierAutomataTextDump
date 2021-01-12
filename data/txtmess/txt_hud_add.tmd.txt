@@ -1,0 +1,180 @@
+ID: HUD_CORP_DIALOG_00
+JP: <NAME>は仲間になりました。
+EN: <NAME> has become your ally.
+RU: 
+
+ID: HUD_CORP_DIALOG_01
+JP: <NAME>の義体は汚染が激しく、敵になりました。
+EN: <NAME>'s infection worsens,\nturning them against you.
+RU: 
+
+ID: HUD_CORP_DIALOG_02
+JP: 経験値：<EXP>
+EN: Experience: <EXP>
+RU: 
+
+ID: HUD_CORP_DIALOG_03
+JP: お金：<MONEY>G
+EN: Money: <MONEY> G
+RU: 
+
+ID: HUD_CORP_DIALOG_04
+JP: <NAME>に黙祷を捧げました。
+EN: You prayed for <NAME>.
+RU: 
+
+ID: HUD_CORP_DIALOG_05
+JP: プラグイン・チップを回収しました。\n装備状態を復元しますか？
+EN: You recovered your plug-in chips.\nDo you wish to restore your previous equipment?
+RU: 
+
+ID: HUD_CORP_DIALOG_06
+JP: プラグイン・チップ
+EN: Plug-in Chips
+RU: 
+
+ID: HUD_CORP_DIALOG_07
+JP: 効果：<CHIP>
+EN: Effect: <CHIP>
+RU: 
+
+ID: HUD_CORP_NAME_00
+JP: 以前の義体
+EN: Previous Body
+RU: 
+
+ID: HUD_CR_COMMENT_00
+JP: <COMMENT>
+EN: <COMMENT>
+RU: 
+
+ID: HUD_CR_COMMENT_01
+JP: NO DATA
+EN: NO DATA
+RU: 
+
+ID: HUD_CR_COMMENT_02
+JP: 義体遺棄後<DAY><HOUR><MIN><SEC>経過している
+EN: Time since abandoning of body: <HOUR>:<MIN>:<SEC>
+RU: 
+
+ID: HUD_CR_COMMENT_NAME_00
+JP: <NAME>(<ID>)
+EN: <NAME> (<ID>)
+RU: 
+
+ID: HUD_CR_COMMENT_TIME_00
+JP: <DAY>日
+EN: <DAY> day
+RU: 
+
+ID: HUD_CR_COMMENT_TIME_01
+JP: <DAY>日
+EN: <DAY> days
+RU: 
+
+ID: HUD_CR_COMMENT_TIME_02
+JP: <HOUR>時間
+EN: <HOUR> hour
+RU: 
+
+ID: HUD_CR_COMMENT_TIME_03
+JP: <HOUR>時間
+EN: <HOUR> hours
+RU: 
+
+ID: HUD_CR_COMMENT_TIME_04
+JP: <MIN>分
+EN: <MIN> minute
+RU: 
+
+ID: HUD_CR_COMMENT_TIME_05
+JP: <MIN>分
+EN: <MIN> minutes
+RU: 
+
+ID: HUD_CR_COMMENT_TIME_06
+JP: <SEC>秒
+EN: <SEC> second
+RU: 
+
+ID: HUD_CR_COMMENT_TIME_07
+JP: <SEC>秒
+EN: <SEC> seconds
+RU: 
+
+ID: HUD_DIALOG_00
+JP: メッセージ　ヲ　受信
+EN: MESSAGE RECEIVED
+RU: 
+
+ID: HUD_DIALOG_01
+JP: スタッフロールローディング中にエラーを検知した為、\nタイトル画面に戻ります。
+EN: Error detected while loading credits. Returning to title screen.
+RU: 
+
+ID: HUD_LOG_REP_TXT_11
+JP: 誰かのデータが失われました
+EN: Someone's data has been lost.
+RU: 
+
+ID: HUD_LOG_TXT_05
+JP: ハッキングした敵を乗っ取りました
+EN: Hacked enemy hijacked
+RU: 
+
+ID: HUD_LOG_TXT_06
+JP: ハッキングした敵を従属化しました
+EN: Hacked enemy subjugated.
+RU: 
+
+ID: HUD_LOG_TXT_07
+JP: ハッキングした敵を爆破しました
+EN: Hacked enemy detonated.
+RU: 
+
+ID: HUD_LOG_TXT_08
+JP: ハッキングした敵をスタンさせました
+EN: Hacked enemy stunned.
+RU: 
+
+ID: HUD_LOG_TXT_09
+JP: ハッキングした敵を炎上させました
+EN: Hacked enemy ignited.
+RU: 
+
+ID: HUD_LOG_TXT_10
+JP: 効果：<EFFECT>を付与しました
+EN: Effect: <EFFECT>.
+RU: 
+
+ID: HUD_LOG_TXT_11
+JP: <NAME>のデータが失われました
+EN: <NAME>'s data has been lost.
+RU: 
+
+ID: HUD_LOG_TXT_13
+JP: 魚図鑑が更新されました
+EN: Fish Encyclopedia updated
+RU: 
+
+ID: HUD_LOG_TXT_15
+JP: <QUEST_NAME>　<NUM1>/<NUM2>
+EN: <QUEST_NAME>: <NUM1>/<NUM2>
+RU: 
+
+ID: HUD_LOG_TXT_16
+JP: 「<QUEST_NAME>」が更新されました
+EN: "<QUEST_NAME>" updated!
+RU: 
+
+ID: HUD_LOG_TXT_17
+JP: メールを受信しました
+EN: You've got mail!
+RU: 
+
+ID: HUD_LOG_TXT_50
+JP: 2Bが死亡しました
+EN: 2B has perished.
+RU: 
+

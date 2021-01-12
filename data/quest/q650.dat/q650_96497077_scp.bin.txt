@@ -1,0 +1,252 @@
+-- Section 1
+
+ID: M5650_S0020_G0080_300_resiman
+JP: せっかく来てくれたところ悪いんだけど、今は任務に集中した方がいいと思う
+EN: Hey. I'm glad you came here and all, but I need to focus on my duties right now.
+RU: 
+
+ID: M5650_S0020_G0090_300_resiman
+JP: また落ち着いたら来てほしい
+EN: Come back once things calm down a little, okay?
+RU: 
+
+
+-- Section 2
+
+ID: M5650_S0010_G0000_001_resiman
+JP: ああ……困ったな……
+EN: Urgh... What to do, what to do?
+RU: 
+
+ID: M5650_S0010_G0010_001_sele
+JP: 何だかわからないが、話を聞く。
+EN: Ask what's wrong.
+RU: 
+
+ID: M5650_S0010_G0020_001_sele
+JP: 面倒な感じなので、後にする。
+EN: Ignore the troubled fellow.
+RU: 
+
+
+-- Section 3
+
+ID: M5650_S0010_G0040_001_a9s
+JP: 良ければ、何に困っているのか、話してくれませんか？
+EN: What's wrong?
+RU: 
+
+ID: M5650_S0010_G0050_001_a9s
+JP: 力になれるかもしれません。
+EN: Maybe I can help you out.
+RU: 
+
+ID: M5650_S0010_G0060_001_resiman
+JP: ああ……バンカーから来た人達か。
+EN: Say, you're from the Bunker, right?
+RU: 
+
+ID: M5650_S0010_G0070_001_resiman
+JP: 実は『移送用の荷物』を準備しなきゃいけないんだが、\n取り出す事が出来なくてね。
+EN: Well, turns out I have some packages that need transporting, but I can't get them out of storage.
+RU: 
+
+ID: M5650_S0010_G0080_001_resiman
+JP: 元々は先輩のアンドロイドが担当だったんだけど、\n荷物が多すぎて僕には動かせないんだ。
+EN: One of my superiors was in charge of it, but now I have to do it—and there's so much stuff that I can't possibly move it!
+RU: 
+
+ID: M5650_S0010_G0090_001_resiman
+JP: 困ったなぁ……このままじゃ、先輩に怒られちゃうよ……
+EN: She's gonna have my head for this...
+RU: 
+
+ID: M5650_S0010_G0100_001_resiman
+JP: この奥の倉庫の中に置き忘れた『移送用の荷物』を取ってこないと\nいけないんだけど……
+EN: I gotta get those packages for transport out of there...
+RU: 
+
+ID: M5650_S0020_G0000_300_resiman
+JP: 取ってきてくれるのかい？
+EN: Think you can get the goods for me?
+RU: 
+
+ID: M5650_S0020_G0010_300_sele
+JP: 仕方ないなぁ
+EN: Agree to help.
+RU: 
+
+ID: M5650_S0020_G0020_300_sele
+JP: 今は忙しい
+EN: Reject the offer.
+RU: 
+
+
+-- Section 4
+
+ID: M5650_S0010_G0030_001_resiman
+JP: ううん……まいったな。どうしようか……
+EN: I'm really in a bind here. What am I going to do?
+RU: 
+
+
+-- Section 5
+
+ID: M5650_S0020_G0030_300_resiman
+JP: よろしくね！
+EN: Great. Thanks a million!
+RU: 
+
+
+-- Section 6
+
+ID: M5650_S0010_G0100_001_resiman
+JP: この奥の倉庫の中に置き忘れた『移送用の荷物』を取ってこないと\nいけないんだけど……
+EN: I gotta get those packages for transport out of there...
+RU: 
+
+ID: M5650_S0020_G0000_300_resiman
+JP: 取ってきてくれるのかい？
+EN: Think you can get the goods for me?
+RU: 
+
+ID: M5650_S0020_G0010_300_sele
+JP: 仕方ないなぁ
+EN: Agree to help.
+RU: 
+
+ID: M5650_S0020_G0020_300_sele
+JP: 今は忙しい
+EN: Reject the offer.
+RU: 
+
+
+-- Section 7
+
+ID: M5650_S0020_G0030_300_resiman
+JP: よろしくね！
+EN: Great. Thanks a million!
+RU: 
+
+
+-- Section 8
+
+ID: M5650_S0010_G0030_001_resiman
+JP: ううん……まいったな。どうしようか……
+EN: I'm really in a bind here. What am I going to do?
+RU: 
+
+
+-- Section 9
+
+ID: M5650_S0020_G0040_300_pod042
+JP: 提案：一度外に出て気分転換を行う
+EN: Proposal: Taking a break from this activity may lead to greater mental acuity.
+RU: 
+
+ID: M5650_S0020_G0050_300_pod153
+JP: 提案：一度外に出て気分転換を行う
+EN: Proposal: Taking a break from this activity may lead to greater mental acuity.
+RU: 
+
+ID: M5650_S0020_G0060_300_sele
+JP: 外に出る
+EN: Go outside.
+RU: 
+
+ID: M5650_S0020_G0070_300_sele
+JP: 作業を続ける
+EN: Keep working.
+RU: 
+
+
+-- Section 10
+
+ID: M5650_S0020_G0051_300_pod042
+JP: 提案：外に出て依頼主に荷物を届ける
+EN: Proposal: Head outside to deliver the goods to the client.
+RU: 
+
+ID: M5650_S0020_G0052_300_pod153
+JP: 提案：外に出て依頼主に荷物を届ける
+EN: Proposal: Head outside to deliver the goods to the client.
+RU: 
+
+ID: M5650_S0020_G0060_300_sele
+JP: 外に出る
+EN: Go outside.
+RU: 
+
+ID: M5650_S0020_G0070_300_sele
+JP: 作業を続ける
+EN: Keep working.
+RU: 
+
+
+-- Section 11
+
+ID: M5651_S0020_G0020_001_pod042
+JP: 『移送用の荷物』と思われるオブジェクトをマーク。
+EN: Marking objects likely to be the targeted packages.
+RU: 
+
+ID: M5650_S0020_G0010_001_pod153
+JP: 『移送用の荷物』と思われるオブジェクトをマーク。
+EN: Marking objects likely to be the targeted packages.
+RU: 
+
+ID: M5650_S0020_G0020_001_a9s
+JP: ……って言っても、これじゃあ運び出せないな。
+EN: I can't get them out like this...
+RU: 
+
+ID: M5650_S0020_G0030_001_a9s
+JP: はあ……まずは通れる状態にしないとダメですね。
+EN: Ooof. Better make a path first.
+RU: 
+
+
+-- Section 12
+
+ID: M5650_S0020_G0040_001_a9s
+JP: これで『移送用の荷物』は全部集まりましたね。
+EN: Okay. That should be all of the packages.
+RU: 
+
+
+-- Section 13
+
+ID: M5650_S0030_G0000_001_resiman
+JP: わっ！荷物を持ってきてくれたのか！助かったよ、ありがとう！
+EN: You went and found everything? Talk about a lifesaver!
+RU: 
+
+ID: M5650_S0030_G0010_001_a9s
+JP: 荷物を適当に置き過ぎです。まともに歩けませんでしたよ？
+EN: You really need to organize your storage area. I could barely walk in there!
+RU: 
+
+ID: M5650_S0030_G0020_001_a9s
+JP: 少しは整理したらどうですか？
+EN: Seriously, you need to clean that place up.
+RU: 
+
+ID: M5650_S0030_G0030_001_resiman
+JP: う……申し訳ない。先輩に言っておきます……
+EN: I know, I know. I'll take it up with my superior.
+RU: 
+
+ID: M5650_S0030_G0040_001_resiman
+JP: これ、少しだけどお礼だ。受け取ってくれ。
+EN: Here's a little something for your trouble.
+RU: 
+
+
+-- Section 14
+
+ID: M5650_S0030_G0050_001_resiman
+JP: まったく……資材管理も楽じゃないよ……
+EN: I can't believe what a pain in the butt supply management is...
+RU: 
+
+

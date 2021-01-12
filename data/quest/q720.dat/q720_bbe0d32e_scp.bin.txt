@@ -1,0 +1,467 @@
+-- Section 1
+
+ID: M5720_S0010_G0000_001_resiman
+JP: すまないが、こいつらを見た事はないか？
+EN: Have you seen these folks, perchance?
+RU: 
+
+ID: M5720_S0010_G0010_001_a9s
+JP: ……知らない人です。
+EN: Hmm... Nope, sorry.
+RU: 
+
+ID: M5720_S0010_G0020_001_resiman
+JP: 同じ部隊にいた仲間達なんだが、調査に行ったっきり消息がわからなくてな。もし、もしも……
+EN: They were part of my squad, but I lost contact when they went out for field research. If anything has happened to them...
+RU: 
+
+ID: M5720_S0010_G0030_001_resiman
+JP: ……死んでいるなら、弔うくらいはしてやりたくて。
+EN: Well, to put it bluntly...if they're dead, I need to know so I can mourn them properly.
+RU: 
+
+ID: M5720_S0010_G0040_001_a9s
+JP: ……探しに行かないんですか？
+EN: Have you tried searching for them?
+RU: 
+
+ID: M5720_S0010_G0050_001_resiman
+JP: 行きたいのは山々だが、前の戦いで駆動部分がイカれちまってね。
+EN: I'd go myself, but my motor systems were heavily damaged some time back.
+RU: 
+
+ID: M5720_S0010_G0060_001_resiman
+JP: だが……やはりどうしても気になって、な。
+EN: Still, I just can't stop wondering what happened...
+RU: 
+
+ID: M5720_S0010_G0070_001_sele
+JP: 捜索を手伝う。
+EN: Help with the search.
+RU: 
+
+ID: M5720_S0010_G0080_001_sele
+JP: 捜索を手伝わない。
+EN: Decline the request.
+RU: 
+
+
+-- Section 2
+
+ID: M5720_S0010_G0110_001_a9s
+JP: 僕が探してきます。
+EN: I'll look for them.
+RU: 
+
+ID: M5720_S0010_G0120_001_resiman
+JP: ……いいのか？
+EN: You will?
+RU: 
+
+ID: M5720_S0010_G0130_001_a9s
+JP: はい。最後に連絡が取れた場所を教えてください。
+EN: Sure. Can you give me an idea where to start?
+RU: 
+
+ID: M5720_S0010_G0140_001_resiman
+JP: ありがとう。場所は水没都市周辺だ。
+EN: Last time I heard from them, they were in the flooded city.
+RU: 
+
+ID: M5720_S0010_G0141_001_resiman
+JP: 仲間達の認証コードを渡しておく。\nあと、俺達は全員２つの武器を同時に使うのが特徴だ。
+EN: I'll give you their ID codes. We all wield dual weapons, so you should be able to find them easily.
+RU: 
+
+ID: M5720_S0010_G0150_001_resiman
+JP: もし、あいつらが死んでいたら遺品を集めてきて欲しい。
+EN: If they're dead, I'd appreciate if you could retrieve any personal articles you find.
+RU: 
+
+
+-- Section 3
+
+ID: M5720_S0010_G0090_001_resiman
+JP: 変な話をして悪かったな。忘れてくれ。
+EN: I understand. Sorry to spring this on you.
+RU: 
+
+
+-- Section 4
+
+ID: M5720_S0010_G0100_001_resiman
+JP: あいつらを探しに行きたいが、ここでの仕事を\n放り出すわけにもいかなくてな……
+EN: I want to search for them, but I can't abandon my work here...
+RU: 
+
+ID: M5720_S0010_G0070_001_sele
+JP: 捜索を手伝う。
+EN: Help with the search.
+RU: 
+
+ID: M5720_S0010_G0080_001_sele
+JP: 捜索を手伝わない。
+EN: Decline the request.
+RU: 
+
+
+-- Section 5
+
+ID: M5720_S0010_G0190_001_resiman
+JP: あいつらの連絡が途絶えたのは水没都市だ。もし死んでいたら……\n代わりに遺品を集めてきてくれ。
+EN: I lost contact with my friends in the flooded city. If they're dead, could you please retrieve their personal items for me?
+RU: 
+
+ID: M5720_S0010_G0195_001_resiman
+JP: 武器を２つ携帯していたから、会えばすぐにわかると思う。
+EN: They were carrying two weapons, so they should be easy enough to spot.
+RU: 
+
+
+-- Section 6
+
+ID: M5720_S0020_G0001_300_resiman
+JP: そうか、あいつはもう……
+EN: So he didn't make it, huh?
+RU: 
+
+ID: M5720_S0020_G0002_300_resiman
+JP: 他にも信号があったんだろう？まだ生きてるかもしれない\n……救助に向かってくれ。
+EN: You picked up other signals as well, right? The others might still be alive... Could you go and help them, please?
+RU: 
+
+
+-- Section 7
+
+ID: M5720_S0020_G0000_300_resiman
+JP: 頼んだぞ。
+EN: I appreciate the help.
+RU: 
+
+
+-- Section 8
+
+ID: M5720_S0030_G0000_001_resiman
+JP: その顔を見ると……ダメだったんだな。仲間は。
+EN: ...Your face tells me everything I need to know. They didn't make it, did they?
+RU: 
+
+ID: M5720_S0030_G0010_001_a9s
+JP: 皆、死んでいました……残念です。
+EN: No. I'm sorry.
+RU: 
+
+ID: M5720_S0030_G0020_001_resiman
+JP: そうか……
+EN: I...see.
+RU: 
+
+ID: M5720_S0030_G0030_001_a9s
+JP: これ、頼まれていた遺品です。
+EN: This is what's left of their personal effects.
+RU: 
+
+ID: M5720_S0030_G0040_001_resiman
+JP: ありがとう。
+EN: Thank you.
+RU: 
+
+ID: M5720_S0030_G0050_001_resiman
+JP: この花でも添えてやるかな……
+EN: Now I'll just place these flowers with them...
+RU: 
+
+ID: M5720_S0030_G0060_001_a9s
+JP: 花？
+EN: Er, flowers?
+RU: 
+
+ID: M5720_S0030_G0070_001_resiman
+JP: ああ……いや。真似事だよ。
+EN: Ah, yeah, I'm just imitating an old ritual.
+RU: 
+
+ID: M5720_S0030_G0080_001_resiman
+JP: 人類には、死んだものを弔う風習があったらしい。\nだから何だという話だが……
+EN: The human race had many traditions when it came to mourning their dead. I know that may not mean much to us, but...
+RU: 
+
+ID: M5720_S0030_G0090_001_resiman
+JP: 安らかに魂が眠って欲しい、という願いを花に込めてな。
+EN: Well, I just want their souls to find some peace. That's the wish I'm putting into these flowers, at any rate.
+RU: 
+
+ID: M5720_S0030_G0100_001_resiman
+JP: じゃあな。今回は世話になった。
+EN: Thank you again for your help.
+RU: 
+
+ID: M5720_S0030_G0110_001_resiman
+JP: ……俺は……怪我をして戦場に行かない事でどこか安心してたんだ。
+EN: Can I admit something? I'm...relieved that I was too injured to fight.
+RU: 
+
+ID: M5720_S0030_G0120_001_resiman
+JP: 安心して……逃げてたんだ……
+EN: I'm relieved because it allowed me to escape.
+RU: 
+
+
+-- Section 9
+
+ID: M5720_S0030_G0130_001_resiman
+JP: 俺は……どうしたら良かったんだ……
+EN: Was there something I could have done?
+RU: 
+
+
+-- Section 10
+
+ID: M5720_S0020_G0000_001_pod153
+JP: 確認：捜索を依頼されていたレジスタンス。
+EN: Alert: This is one of the Resistance members we were asked to locate.
+RU: 
+
+ID: M5720_S0020_G0010_001_a9s
+JP: ……死んでたんだな。
+EN: I was afraid we'd find this.
+RU: 
+
+ID: M5720_S0020_G0020_001_a9s
+JP: 遺品は、ドッグタグくらいか……
+EN: The only personal items are these dog tags...
+RU: 
+
+ID: M5720_S0020_G0030_001_a9s
+JP: 報告：残存する送信記録から、レジスタンスは後退しつつ\n戦闘を行っていた模様。
+EN: Analysis: Remaining transmission records indicate the Resistance members were attempting to retreat from battle.
+RU: 
+
+ID: M5720_S0020_G0040_001_a9s
+JP: 最終送信元の座標解析終了。マップにマーク。
+EN: Analysis of final coordinates complete. Marking locations on map.
+RU: 
+
+ID: M5720_S0020_G0050_001_a9s
+JP: よし……その辺りに行ってみよう。まだ生きてるかもしれない。
+EN: Let's go take a look. Maybe some of them will still be alive.
+RU: 
+
+
+-- Section 11
+
+ID: M5720_S0020_G0060_001_pod153
+JP: 確認：捜索を依頼されていたレジスタンス。
+EN: Alert: This is one of the Resistance members we were asked to locate.
+RU: 
+
+ID: M5720_S0020_G0070_001_pod153
+JP: 生体反応なし。死亡を確認。
+EN: No vital signs detected. The unit is deceased.
+RU: 
+
+
+-- Section 12
+
+ID: M5720_S0020_G0080_001_a9s
+JP: 血だらけだ。ここで傷を負ったのか。
+EN: Man, there's blood everywhere. Whatever happened must've happened right here.
+RU: 
+
+ID: M5720_S0020_G0090_001_a9s
+JP: 辛かっただろうな……
+EN: Talk about a bad way to go...
+RU: 
+
+
+-- Section 13
+
+ID: M5720_S0020_G0100_001_pod153
+JP: 報告：残存する通信記録に緊急支援要請を確認。
+EN: Alert: Emergency support request found in transmission records.
+RU: 
+
+ID: M5720_S0020_G0110_001_a9s
+JP: 時間は？
+EN: When was it sent?
+RU: 
+
+ID: M5720_S0020_G0120_001_pod153
+JP: 今から約１２分前。
+EN: Approximately twelve minutes ago.
+RU: 
+
+ID: M5720_S0020_G0130_001_a9s
+JP: まだ生きてる……助けに行くぞ！
+EN: That means they're still alive. Let's go!
+RU: 
+
+ID: M5920_S0020_G0280_001_pod153
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 14
+
+ID: M5720_S0020_G0140_001_a9s
+JP: あそこだッ救助に向かう！！
+EN: Over there! Initiating rescue!
+RU: 
+
+ID: M5720_S0020_G0150_001_robolarge
+JP: 復讐ダ！復讐セヨ！
+EN: REVENGE! CLAIM YOUR REVENGE!
+RU: 
+
+ID: M5720_S0020_G0160_001_robomedium
+JP: 仲間タチの無念を晴ラセ！！
+EN: Avenge the pain of our comrades!
+RU: 
+
+ID: M5720_S0020_G0170_001_robosmall
+JP: 憎い……アンドロイドがニクイ！
+EN: I HATE ANDROIDS! HATE THEM!
+RU: 
+
+ID: M5720_S0020_G0180_001_robolarge
+JP: ウバエ！コロセ！全てを破壊シロ！
+EN: SEIZE THEM! KILL THEM! DESTROY THEM ALL!
+RU: 
+
+ID: M5720_S0020_G0190_001_robomedium
+JP: 世界は暴力ダ！暴力こそがスベテなのだ！
+EN: Violence rules this world! Violence is all!
+RU: 
+
+ID: M5720_S0020_G0200_001_robosmall
+JP: ミナゴロシにしてやる！
+EN: KILL EACH AND EVERY ONE!
+RU: 
+
+ID: M5720_S0020_G0210_001_robolarge
+JP: 逆らうヤツは八つ裂キ！
+EN: TEAR APART THOSE WHO RESIST US!
+RU: 
+
+ID: M5720_S0020_G0220_001_robomedium
+JP: 殺して殺シテころしてコロシテコロシテやる！
+EN: Kill! Kill! Kill kill KILL KILL!
+RU: 
+
+ID: M5720_S0020_G0230_001_robosmall
+JP: 燃やして殺ス！潰シテ殺す！
+EN: BURN THEM TO DEATH! CRUSH THEM TO DEATH!
+RU: 
+
+ID: M5720_S0020_G0240_001_robolarge
+JP: 敵のイノチを奪い尽クセ！
+EN: DRAIN THEIR BLOOD! EVERY DROP!
+RU: 
+
+ID: M5720_S0020_G0250_001_robomedium
+JP: ギャハーッ！生け贄ガ来たぞ！
+EN: Another sacrifice for the altar!
+RU: 
+
+ID: M5720_S0020_G0260_001_robosmall
+JP: あああ……充実シテル！命ヲ感じる！！
+EN: I FEEL SO...SO ALIVE!
+RU: 
+
+ID: M5720_S0020_G0270_001_robolarge
+JP: 苦死んでシネエェエエエエエエ！
+EN: YOU WILL DIE WRITHING IN PAAAAAAIN!
+RU: 
+
+ID: M5720_S0020_G0280_001_robomedium
+JP: 機械生命体万歳！！
+EN: All hail the machines!
+RU: 
+
+ID: M5720_S0020_G0290_001_robosmall
+JP: アッヒャッッヒャッハ
+EN: GYA HA HA HA HAAAAAA!
+RU: 
+
+ID: M5720_S0020_G0300_001_robolarge
+JP: ギヒッ
+EN: EEEEE HEE HEE!
+RU: 
+
+
+-- Section 15
+
+ID: M5590_S0050_G0150_001_pod153
+JP: 敵性機械生命体の排除を確認。
+EN: The hostile machine lifeforms have been defeated.
+RU: 
+
+
+-- Section 16
+
+ID: M5720_S0020_G0310_001_pod153
+JP: 確認：捜索を依頼されていたレジスタンス。
+EN: Alert: This is one of the Resistance members we were asked to locate.
+RU: 
+
+ID: M5720_S0020_G0320_001_pod153
+JP: 生体反応なし。死亡を確認。
+EN: No vital signs detected. The unit is deceased.
+RU: 
+
+ID: M5720_S0020_G0330_001_a9s
+JP: くそっ……
+EN: Damn...
+RU: 
+
+ID: M5720_S0020_G0340_001_pod153
+JP: 報告：以上で捜索依頼されていた全てのレジスタンスの死亡を確認。
+EN: Analysis: All missing Resistance members are deceased.
+RU: 
+
+ID: M5720_S0020_G0350_001_a9s
+JP: そうか……遺品を渡しにいこう。
+EN: I suppose we'd better return their belongings.
+RU: 
+
+
+-- Section 17
+
+ID: M5720_S0030_G0140_001_a9s
+JP: 弔う風習……
+EN: A tradition of mourning the dead...
+RU: 
+
+ID: M5720_S0030_G0150_001_a9s
+JP: ２Ｂ……
+EN: 2B...
+RU: 
+
+
+-- Section 18
+
+ID: M5720_S0030_G0160_001_a9s
+JP: ２Ｂ。
+EN: 2B.
+RU: 
+
+ID: M5720_S0030_G0170_001_a9s
+JP: 弔いの意味はよくわからないけれど、もし僕達に魂があるなら、ここで……
+EN: I'm not quite sure what it means to mourn, or even if we have a soul to concern ourselves with...
+RU: 
+
+
+-- Section 19
+
+ID: M5720_S0030_G0180_001_a9s
+JP: おやすみ、２Ｂ。良い夢を……
+EN: But I hope you're at rest, 2B. Sweet dreams.
+RU: 
+
+ID: M5720_S0030_G0190_001_a9s
+JP: ……僕も、すぐに行くから。
+EN: I'll be with you before long.
+RU: 
+
+

@@ -1,0 +1,178 @@
+-- Section 1
+
+ID: M5801_S0010_G0030_001_robomother
+JP: しかも、この間よりも強固な電子プロテクトにしたようなんデス。\nどうか助けてくれマセンカ？
+EN: The lock is even stronger this time—without your aid, I'll probably be standing here forever!
+RU: 
+
+ID: M5801_S0010_G0040_001_sele
+JP: 助ける。
+EN: Help the mother.
+RU: 
+
+ID: M5801_S0010_G0050_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5801_S0010_G0070_001_robomother
+JP: どうか鍵を開けて、息子を中から引きずり出してはくれマセンカ？
+EN: Open this lock and get my son out here for me. Please!
+RU: 
+
+ID: M5801_S0010_G0040_001_sele
+JP: 助ける。
+EN: Help the mother.
+RU: 
+
+ID: M5801_S0010_G0050_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 3
+
+ID: M5801_S0010_G0000_001_robomother
+JP: ああ！アナタは優しいアンドロイドの方！\n実はマタ息子が引きこもってしまったんデス。
+EN: Wait! You're that kind android from before! I hate to admit this, but my son has locked himself inside again.
+RU: 
+
+ID: M5801_S0010_G0010_001_a9s
+JP: あれ？外に出てみるって言ってたよね……
+EN: I figured he'd be over that by now.
+RU: 
+
+ID: M5801_S0010_G0020_001_robomother
+JP: ハイ。あれカラしばらくは頑張っていたんデスガ、気付けばまた鍵をかけて\nシマッテ。
+EN: He tried so hard. I know he did! But fear has gotten the better of him and... Well, here we are.
+RU: 
+
+
+-- Section 4
+
+ID: M5801_S0010_G0080_001_a9s
+JP: しょうがないな……ハッキングで開けてみるよ。
+EN: Let me try hacking it open.
+RU: 
+
+
+-- Section 5
+
+ID: M5801_S0010_G0060_001_robomother
+JP: ……わかりマシタ。私一人で頑張ってミマス……ウウウウウッ
+EN: Fine then. I guess I'll just have to do it myself! ...Rrrrgh! Stupid lock!
+RU: 
+
+
+-- Section 6
+
+ID: M5800_S0010_G0100_001_robomother
+JP: どうかこの扉を開けて、中に入る息子を引きずり出してクダサイ！
+EN: Get this door open and drag my good-for-nothing son out here this instant!
+RU: 
+
+
+-- Section 7
+
+ID: M5800_S0010_G0190_001_a9s
+JP: クソッ……意外と手強いな。
+EN: ...Damn. That lock's stronger than I thought.
+RU: 
+
+
+-- Section 8
+
+ID: M5801_S0010_G0120_001_robochild
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 9
+
+ID: M5801_S0010_G0130_001_robomother
+JP: モウ、心配かけて！どうしてまた引きこもってシマッタノ？
+EN: You had me worried sick, young man! I can't believe you did this AGAIN!
+RU: 
+
+
+-- Section 10
+
+ID: M5801_S0010_G0140_001_robochild
+JP: ……怖かったンダ。
+EN: I was scared.
+RU: 
+
+ID: M5801_S0010_G0150_001_robochild
+JP: 外に出るようにナッタラ、気になるロボットが出来たんだ。そのコを見ると、\n思考回路がショート寸前デ……
+EN: See, after I left the house, I...started to like this one girl. I thought I was gonna short-circuit whenever I looked at her!
+RU: 
+
+ID: M5801_S0010_G0160_001_robochild
+JP: こんなの初めテデ……怖かったンダ。
+EN: I never felt that before and it was... It was... It was SCARY!
+RU: 
+
+
+-- Section 11
+
+ID: M5801_S0010_G0170_001_robomother
+JP: 大丈夫。大丈夫。そのコにはママが一緒に会ってあげるから。
+EN: There there. It's all right. Next time, we'll go see her together. All right?
+RU: 
+
+
+-- Section 12
+
+ID: M5801_S0010_G0180_001_robochild
+JP: ……ジャア、頑張ってミル。
+EN: 'Kay.
+RU: 
+
+
+-- Section 13
+
+ID: M5801_S0010_G0190_001_robomother
+JP: ありがとうゴザイマス。いつも助けてもらって、本当に何と言えばイイノカ。
+EN: Thank you again. Truly.
+RU: 
+
+ID: M5801_S0010_G0200_001_robomother
+JP: コンナお礼しか出来ませんガ、どうかもらってクダサイ。
+EN: I don't have much to give you, but I hope this makes up for some of your troubles.
+RU: 
+
+
+-- Section 14
+
+ID: M5801_S0010_G0210_001_robomother
+JP: 良ければ、またこの子に会いに来てやってクダサイネ。
+EN: Oh, and feel free to come visit my child anytime you like. He seems...fond of you.
+RU: 
+
+ID: M5801_S0010_G0220_001_a9s
+JP: 気になる子ねぇ……
+EN: That kid's got issues...
+RU: 
+
+
+-- Section 15
+
+ID: M5801_S0010_G0210_001_robomother
+JP: 良ければ、またこの子に会いに来てやってクダサイネ。
+EN: Oh, and feel free to come visit my child anytime you like. He seems...fond of you.
+RU: 
+
+
+-- Section 16
+
+ID: M5801_S0010_G0120_001_robochild
+JP: ……
+EN: ......
+RU: 
+
+

@@ -1,0 +1,8 @@
+-- Section 1
+
+ID: M1050_S0080_G0000_001_a9s
+JP: この先が森のある地域みたいですね。
+EN: Looks like the forest is just ahead.
+RU: 
+
+

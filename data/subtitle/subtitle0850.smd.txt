@@ -1,0 +1,20 @@
+ID: M3000_S0700_H0000_001_a2b
+JP: ここ……まで……かな
+EN: Guess this...is it...
+RU: 
+
+ID: M3000_S0700_H0010_001_a2b
+JP: これは、私の……記憶
+EN: These are...my memories.
+RU: 
+
+ID: M3000_S0700_H0020_001_a2b
+JP: みんなを……未来を……
+EN: Take care of everyone for me...
+RU: 
+
+ID: M3000_S0700_H0030_001_a2b
+JP: ……お願いするね……Ａ２
+EN: Take care...of the future... A2...
+RU: 
+

@@ -1,0 +1,748 @@
+-- Section 1
+
+ID: M5290_S0020_G0120_300_robocreator
+JP: コンナ状態デクリエイションナンテ楽シメナイ……\nナントカシテクダサイ！
+EN: How can one think about being creative under these circumstances? Please, you must help us!
+RU: 
+
+
+-- Section 2
+
+ID: M5290_S0010_G0000_001_robocreator
+JP: ヤア！楽シンデルカイ？
+EN: Hey there! Having fun?
+RU: 
+
+ID: M5290_S0010_G0010_001_a9s
+JP: こんなところで、楽しめるわけないだろ？
+EN: This place isn't exactly what I'd call "fun."
+RU: 
+
+ID: M5290_S0010_G0020_001_robocreator
+JP: ソウダヨネ〜。遊園地ナノニ、ロクニ遊ブモノナイモンネ〜
+EN: Good point. It's more like an un-amusement park, eh?
+RU: 
+
+ID: M5290_S0010_G0030_001_robocreator
+JP: ナノデ俺ハ、ゲームヲ作ロウト思ウ！
+EN: That's why I'm thinking about making a game!
+RU: 
+
+ID: M5290_S0010_G0040_001_a9s
+JP: は？ゲーム？
+EN: Oh yeah?
+RU: 
+
+ID: M5290_S0010_G0050_001_robocreator
+JP: ウン！ミンナガ遊ベル、楽シイゲームダヨ。タダ材料ガ足リナインダヨネ〜
+EN: Yes! A fun game that anyone can play!\nIf only I had the materials...
+RU: 
+
+ID: M5290_S0010_G0060_001_robocreator
+JP: トイウワケデ、チョット協力シテクレナイ？
+EN: I don't suppose you'd help me out with that?
+RU: 
+
+ID: M5290_S0010_G0070_001_sele
+JP: 協力する。
+EN: Aid the game creator.
+RU: 
+
+ID: M5290_S0010_G0080_001_sele
+JP: 協力しない。
+EN: Turn him down.
+RU: 
+
+
+-- Section 3
+
+ID: M5290_S0010_G0090_001_robocreator
+JP: サンキュー！必要ナ材料ハ『３色ケーブル』ダヨ。ヨロシクネ〜
+EN: Excellent! All I need is a single tri-color cable.\nJust let me know when you find it.
+RU: 
+
+ID: M5290_S0010_G0100_001_a9s
+JP: 材料が分かってるなら自分で集めたら？
+EN: If you know what you need, why don't you go find it yourself?
+RU: 
+
+ID: M5290_S0010_G0110_001_robocreator
+JP: 『３色ケーブル』ハ遊園地内ノ機械生命体カラ奪エルンダケド、\n仲間殺シッテイヤナンダヨネー！
+EN: Tri-color cables are found inside the machines in the amusement park. You don't expect me to slaughter my own kin, do you?
+RU: 
+
+ID: M5290_S0010_G0120_001_a9s
+JP: じゃあ、ゲーム作りなんて諦めればいいのに。
+EN: You could just decide not to make the game, you know?
+RU: 
+
+ID: M5290_S0010_G0130_001_robocreator
+JP: クリエイティブノ為ナラ手段ハ選バナイノデス！
+EN: Never! My creative urges must be satisfied!
+RU: 
+
+ID: M5290_S0010_G0140_001_a9s
+JP: 矛盾してるよ……
+EN: But you just said... Oh. forget it.
+RU: 
+
+ID: M5290_S0020_G0122_300_robocreator
+JP: 『３色ケーブル』ヲ持ッテイル奴ハ好戦的ダカラ気ヲツケテネ！
+EN: The machines carrying tri-color cables are quite aggressive, so be careful!
+RU: 
+
+
+-- Section 4
+
+ID: M5290_S0010_G0150_001_robocreator
+JP: ミンナガ遊ベルゲームヲ作リタインダ。ダカラ、材料集メニ協力シテクレナイ？
+EN: I want to make a fun game that anyone can play.\nWill you help out?
+RU: 
+
+
+-- Section 5
+
+ID: M5290_S0010_G0000_300_robocreator
+JP: 協力シテクレルノカ？
+EN: Will you help me out?
+RU: 
+
+ID: M5290_S0010_G0010_300_sele
+JP: 協力する
+EN: Aid the game creator.
+RU: 
+
+ID: M5290_S0010_G0020_300_sele
+JP: 協力しない
+EN: Turn him down.
+RU: 
+
+
+-- Section 6
+
+ID: M5290_S0020_G0122_300_robocreator
+JP: 『３色ケーブル』ヲ持ッテイル奴ハ好戦的ダカラ気ヲツケテネ！
+EN: The machines carrying tri-color cables are quite aggressive, so be careful!
+RU: 
+
+
+-- Section 7
+
+ID: M5290_S0020_G0000_001_robocreator
+JP: オオ、『３色ケーブル』ダ。コレ、俺ニクレル？
+EN: Ah! A tri-color cable! I must have it!
+RU: 
+
+ID: M5290_S0020_G0010_001_robocreator
+JP: ヨシ、チョット待ッテテネ。コレヲ繋ゲバ……
+EN: Excellent! Now I just attach this here...
+RU: 
+
+ID: M5290_S0020_G0020_001_robocreator
+JP: ホラ！ゲームガ出来ルヨウニナッタヨ〜
+EN: Success! The game is ready!
+RU: 
+
+ID: M5290_S0020_G0030_001_a9s
+JP: へえ、どんなゲーム？
+EN: So what is this game of yours anyway?
+RU: 
+
+ID: M5290_S0020_G0040_001_robocreator
+JP: シューティングゲームダヨ。\nデモ、バグガアルヨウナ気ガシテテ……
+EN: It's a shooting game. I have the feeling it's still really buggy though...
+RU: 
+
+ID: M5290_S0020_G0044_001_robocreator
+JP: デキレバ、遊ブツイデニ、デバッグシテ欲シインダヨネ。
+EN: I'd appreciate it if you could debug it a bit while you play.
+RU: 
+
+
+-- Section 8
+
+ID: M5290_S0020_G0041_001_robocreator
+JP: ゲームヲ遊ンデ行クカイ？
+EN: Feel like playing a game?
+RU: 
+
+ID: M5290_S0020_G0042_001_sele
+JP: 遊ブ
+EN: Sure.
+RU: 
+
+ID: M5290_S0020_G0043_001_sele
+JP: 遊バナイ
+EN: Not right now.
+RU: 
+
+
+-- Section 9
+
+ID: M5290_S0020_G0080_300_robocreator
+JP: ゲームヲ楽シンデ！
+EN: Have fun!
+RU: 
+
+
+-- Section 10
+
+ID: M5290_S0020_G0090_300_robocreator
+JP: ゲームデ遊ビタクナッタライツデモ来テネ！
+EN: Come back whenever you'd like to play.
+RU: 
+
+
+-- Section 11
+
+ID: M5290_S0020_G0050_001_robocreator
+JP: クリアオメデトウ！楽シンデクレタ？
+EN: Congratulations! Did you enjoy yourself?
+RU: 
+
+
+-- Section 12
+
+ID: M5290_S0020_G0041_001_robocreator
+JP: ゲームヲ遊ンデ行クカイ？
+EN: Feel like playing a game?
+RU: 
+
+ID: M5290_S0020_G0042_001_sele
+JP: 遊ブ
+EN: Sure.
+RU: 
+
+ID: M5290_S0020_G0043_001_sele
+JP: 遊バナイ
+EN: Not right now.
+RU: 
+
+
+-- Section 13
+
+ID: M5290_S0020_G0080_300_robocreator
+JP: ゲームヲ楽シンデ！
+EN: Have fun!
+RU: 
+
+
+-- Section 14
+
+ID: M5290_S0020_G0090_300_robocreator
+JP: ゲームデ遊ビタクナッタライツデモ来テネ！
+EN: Come back whenever you'd like to play.
+RU: 
+
+
+-- Section 15
+
+ID: M5290_S0020_G0051_001_robocreator
+JP: バグヲ発見シテクレタンダ！アリガトウ！
+EN: You debugged the game! Thanks!
+RU: 
+
+ID: M5290_S0020_G0060_001_robocreator
+JP: デモ正直、モット難易度ノ高イゲームヲ作リタインダヨネ。
+EN: Though, to be honest, I was hoping it would be more of a challenge.
+RU: 
+
+ID: M5290_S0020_G0070_001_robocreator
+JP: ソウイウワケデ、今度は『４色ケーブル』ヲ持ッテキテクレナイカナ？
+EN: I bet a four-color cable would be just the thing to raise the difficulty. Do you think you could track one down for me?
+RU: 
+
+ID: M5290_S0020_G0080_001_sele
+JP: 持ってくる。
+EN: Agree to help.
+RU: 
+
+ID: M5290_S0020_G0090_001_sele
+JP: 持ってこない。
+EN: Tell him you've done enough.
+RU: 
+
+
+-- Section 16
+
+ID: M5290_S0020_G0100_001_robocreator
+JP: シェイシェイ！『４色ケーブル』ハ、タシカ廃工場ノ機械生命体ガ\n持ッテイタナ……
+EN: Merci! You can find said cables rattling around the insides of soldiers in the abandoned factory.
+RU: 
+
+ID: M5290_S0020_G0101_300_robocreator
+JP: 仲間カラ離レテ歩イテイル変ナ奴ダッタ。
+EN: You'll have no trouble spotting them, because they tend to walk around alone, away from their fellow machines.
+RU: 
+
+ID: M5290_S0020_G0110_001_robocreator
+JP: ソレジャア、ヨロシクネ〜
+EN: Have fun out there!
+RU: 
+
+
+-- Section 17
+
+ID: M5290_S0020_G0120_001_robocreator
+JP: モウチョット難シイゲームを作リタイカラ、マタ『４色ケーブル』ヲ\n持ッテキテクレナイカナ？
+EN: I'm trying to make my game more difficult.\nCan you please bring me a four-color cable?
+RU: 
+
+
+-- Section 18
+
+ID: M5290_S0020_G0071_001_robocreator
+JP: 情熱ガ……ホトバシル……モット、スバラシイゲームヲ作リタイ、\nトイウ情熱ガ……
+EN: I feel...passion...burning inside me. Passion...to make the BEST GAME EVER.
+RU: 
+
+ID: M5290_S0020_G0072_001_robocreator
+JP: トイウコトデ、ソンナ熱意アル僕ニ『４色ケーブル』ヲ持ッテキテクレナイカナ？
+EN: And what the best game ever REALLY needs, is a four-color cable. Could you bring me one?
+RU: 
+
+ID: M5290_S0020_G0080_001_sele
+JP: 持ってくる。
+EN: Agree to help.
+RU: 
+
+ID: M5290_S0020_G0090_001_sele
+JP: 持ってこない。
+EN: Tell him you've done enough.
+RU: 
+
+
+-- Section 19
+
+ID: M5290_S0020_G0120_001_robocreator
+JP: モウチョット難シイゲームを作リタイカラ、マタ『４色ケーブル』ヲ\n持ッテキテクレナイカナ？
+EN: I'm trying to make my game more difficult.\nCan you please bring me a four-color cable?
+RU: 
+
+ID: M5290_S0020_G0080_001_sele
+JP: 持ってくる。
+EN: Agree to help.
+RU: 
+
+ID: M5290_S0020_G0090_001_sele
+JP: 持ってこない。
+EN: Tell him you've done enough.
+RU: 
+
+
+-- Section 20
+
+ID: M5290_S0020_G0100_001_robocreator
+JP: シェイシェイ！『４色ケーブル』ハ、タシカ廃工場ノ機械生命体ガ\n持ッテイタナ……
+EN: Merci! You can find said cables rattling around the insides of soldiers in the abandoned factory.
+RU: 
+
+ID: M5290_S0020_G0101_300_robocreator
+JP: 仲間カラ離レテ歩イテイル変ナ奴ダッタ。
+EN: You'll have no trouble spotting them, because they tend to walk around alone, away from their fellow machines.
+RU: 
+
+ID: M5290_S0020_G0110_001_robocreator
+JP: ソレジャア、ヨロシクネ〜
+EN: Have fun out there!
+RU: 
+
+
+-- Section 21
+
+ID: M5290_S0020_G0120_001_robocreator
+JP: モウチョット難シイゲームを作リタイカラ、マタ『４色ケーブル』ヲ\n持ッテキテクレナイカナ？
+EN: I'm trying to make my game more difficult.\nCan you please bring me a four-color cable?
+RU: 
+
+
+-- Section 22
+
+ID: M5290_S0020_G0130_001_robocreator
+JP: シェイシェイ！『４色ケーブル』ハ、タシカ廃工場ノ機械生命体ガ\n持ッテイタナ……
+EN: Merci! You can find said cables rattling around the insides of soldiers in the abandoned factory.
+RU: 
+
+ID: M5290_S0020_G0131_300_robocreator
+JP: 仲間カラ離レテ歩イテイル変ナ奴ダッタ。
+EN: You'll have no trouble spotting them, because they tend to walk around alone, away from their fellow machines.
+RU: 
+
+
+-- Section 23
+
+ID: M5290_S0030_G0000_001_robocreator
+JP: オオ、『４色ケーブル』ダ。コレ、俺ニクレル？
+EN: Ah! You have a four-color cable! Gimme.
+RU: 
+
+ID: M5290_S0030_G0010_001_robocreator
+JP: ヨシ、チョット待ッテテネ。コレヲ繋イデ……
+EN: Now then, I just connect this end to the widget here aaaand...
+RU: 
+
+ID: M5290_S0030_G0020_001_robocreator
+JP: オーケー！チョット難易度ガ上ガッタヨ〜！
+EN: Presto! My amazingly fun game is now more difficult.
+RU: 
+
+ID: M5290_S0030_G0030_001_robocreator
+JP: バグヲ見ツケテクレタラ報酬ガアルカラ、遊ンデミテネ〜
+EN: Care to check it out? I'll give you a prize if you can debug it for me.
+RU: 
+
+
+-- Section 24
+
+ID: M5290_S0020_G0041_001_robocreator
+JP: ゲームヲ遊ンデ行クカイ？
+EN: Feel like playing a game?
+RU: 
+
+ID: M5290_S0020_G0042_001_sele
+JP: 遊ブ
+EN: Sure.
+RU: 
+
+ID: M5290_S0020_G0043_001_sele
+JP: 遊バナイ
+EN: Not right now.
+RU: 
+
+
+-- Section 25
+
+ID: M5290_S0020_G0080_300_robocreator
+JP: ゲームヲ楽シンデ！
+EN: Have fun!
+RU: 
+
+
+-- Section 26
+
+ID: M5290_S0020_G0090_300_robocreator
+JP: ゲームデ遊ビタクナッタライツデモ来テネ！
+EN: Come back whenever you'd like to play.
+RU: 
+
+
+-- Section 27
+
+ID: M5290_S0030_G0031_001_robocreator
+JP: 楽シンデ頂ケマシタデショウカ？
+EN: That was fun, wasn't it?
+RU: 
+
+
+-- Section 28
+
+ID: M5290_S0020_G0041_001_robocreator
+JP: ゲームヲ遊ンデ行クカイ？
+EN: Feel like playing a game?
+RU: 
+
+ID: M5290_S0020_G0042_001_sele
+JP: 遊ブ
+EN: Sure.
+RU: 
+
+ID: M5290_S0020_G0043_001_sele
+JP: 遊バナイ
+EN: Not right now.
+RU: 
+
+
+-- Section 29
+
+ID: M5290_S0020_G0080_300_robocreator
+JP: ゲームヲ楽シンデ！
+EN: Have fun!
+RU: 
+
+
+-- Section 30
+
+ID: M5290_S0020_G0090_300_robocreator
+JP: ゲームデ遊ビタクナッタライツデモ来テネ！
+EN: Come back whenever you'd like to play.
+RU: 
+
+
+-- Section 31
+
+ID: M5290_S0030_G0032_001_robocreator
+JP: バグヲ見ツケテクレテアリガトウ！
+EN: You debugged the game! Thanks!
+RU: 
+
+ID: M5290_S0030_G0040_001_robocreator
+JP: タダ、正直モット難易度ノ高イゲームヲ作リタインダヨナア。\nヘビーユーザーヲターゲットニシタイ。
+EN: You know something? I don't think my fun game is hard enough yet. We need to reach beyond typical market boundaries to include hardcore gamers.
+RU: 
+
+ID: M5290_S0030_G0050_001_robocreator
+JP: ソウイウワケデ、マタ『５色ケーブル』ヲ持ッテキテクレナイカナ？
+EN: But that can easily be rectified if you bring me a five-color cable.
+RU: 
+
+ID: M5290_S0030_G0060_001_sele
+JP: 持ってくる。
+EN: Agree to bring him the cable.
+RU: 
+
+ID: M5290_S0030_G0070_001_sele
+JP: 持ってこない。
+EN: Turn him down.
+RU: 
+
+
+-- Section 32
+
+ID: M5290_S0030_G0080_001_robocreator
+JP: スパシーバ！ソレジャ、『５色ケーブル』ヲヨロシクネ〜
+EN: Muchas gracias!  And best of luck tracking down that five-color cable.
+RU: 
+
+ID: M5290_S0030_G0090_001_robocreator
+JP: 砂漠ノ機械生命体カラ採取出来ルヨー
+EN: You can salvage them from the machines in the desert. Just go ahead and rip it right out of 'em!
+RU: 
+
+ID: M5290_S0030_G0091_300_robocreator
+JP: 群レノ中ニ紛レテイルカラ、ガンバッテ探シテネー！
+EN: They tend to hang out in groups, so good luck finding the right ones!
+RU: 
+
+ID: M5290_S0030_G0100_001_a9s
+JP: 採取……って仲間じゃないのか。
+EN: Um, I thought these machines were your friends.
+RU: 
+
+ID: M5290_S0030_G0110_001_robocreator
+JP: クリエイション万歳！
+EN: CREATIVITY is my friend!
+RU: 
+
+
+-- Section 33
+
+ID: M5290_S0030_G0051_001_robocreator
+JP: 面白イゲームヲ作ッテ、一流クリエイターニナリタイ……ナリタスギル！
+EN: I want to make great games and become the world's most popular game creator! It's all I want from life, really!
+RU: 
+
+ID: M5290_S0030_G0052_001_robocreator
+JP: トイウコトデ、ソンナ熱意アル僕ニ『５色ケーブル』ヲ持ッテキテクレナイカナ？
+EN: And what the world's best game creator REALLY needs, is a five-color cable. Could you bring me one?
+RU: 
+
+ID: M5290_S0030_G0060_001_sele
+JP: 持ってくる。
+EN: Agree to bring him the cable.
+RU: 
+
+ID: M5290_S0030_G0070_001_sele
+JP: 持ってこない。
+EN: Turn him down.
+RU: 
+
+
+-- Section 34
+
+ID: M5290_S0030_G0120_001_robocreator
+JP: ヘビーユーザー向ケノ難シイゲームを作リタイカラ、マタ『５色ケーブル』ヲ\n持ッテキテクレナイカナ？
+EN: I want my fun game to appeal to hardcore users. Can you get me a five-color cable so I can make it happen?
+RU: 
+
+ID: M5290_S0030_G0060_001_sele
+JP: 持ってくる。
+EN: Agree to bring him the cable.
+RU: 
+
+ID: M5290_S0030_G0070_001_sele
+JP: 持ってこない。
+EN: Turn him down.
+RU: 
+
+
+-- Section 35
+
+ID: M5290_S0030_G0080_001_robocreator
+JP: スパシーバ！ソレジャ、『５色ケーブル』ヲヨロシクネ〜
+EN: Muchas gracias!  And best of luck tracking down that five-color cable.
+RU: 
+
+ID: M5290_S0030_G0090_001_robocreator
+JP: 砂漠ノ機械生命体カラ採取出来ルヨー
+EN: You can salvage them from the machines in the desert. Just go ahead and rip it right out of 'em!
+RU: 
+
+ID: M5290_S0030_G0091_300_robocreator
+JP: 群レノ中ニ紛レテイルカラ、ガンバッテ探シテネー！
+EN: They tend to hang out in groups, so good luck finding the right ones!
+RU: 
+
+ID: M5290_S0030_G0100_001_a9s
+JP: 採取……って仲間じゃないのか。
+EN: Um, I thought these machines were your friends.
+RU: 
+
+ID: M5290_S0030_G0110_001_robocreator
+JP: クリエイション万歳！
+EN: CREATIVITY is my friend!
+RU: 
+
+
+-- Section 36
+
+ID: M5290_S0030_G0130_001_robocreator
+JP: 『５色ケーブル』ハ、砂漠ノ機械生命体ガ持ッテルヨー
+EN: The machines around the desert are lousy with five-color cables.
+RU: 
+
+ID: M5290_S0030_G0131_300_robocreator
+JP: 群レノ中ニ紛レテイルカラ、ガンバッテ探シテネー！
+EN: They tend to hang out in groups, so good luck finding the right ones!
+RU: 
+
+
+-- Section 37
+
+ID: M5290_S0040_G0000_001_robocreator
+JP: オオ、『５色ケーブル』ダ。コレ、俺ニクレル？
+EN: Ah! My precious cable! Give it here.
+RU: 
+
+ID: M5290_S0040_G0010_001_robocreator
+JP: ヨシ、チョット待ッテテネ。コレヲ繋イデ……
+EN: Now I just zap this...and tweak that...aaaand...
+RU: 
+
+ID: M5290_S0040_G0020_001_robocreator
+JP: グッド！デバッグシテルノカ疑ワシイ難易度ニナッタヨ〜
+EN: Yes! Now it's so hard, you'll wonder if anyone even bothered to bug-test this!
+RU: 
+
+ID: M5290_S0040_G0030_001_robocreator
+JP: バグヲミツケタラ報酬ガアルカラ、遊ンデミテネ〜
+EN: I doubt you can beat it. But if you DO, I'll give you a really nice prize.
+RU: 
+
+
+-- Section 38
+
+ID: M5290_S0020_G0041_001_robocreator
+JP: ゲームヲ遊ンデ行クカイ？
+EN: Feel like playing a game?
+RU: 
+
+ID: M5290_S0020_G0042_001_sele
+JP: 遊ブ
+EN: Sure.
+RU: 
+
+ID: M5290_S0020_G0043_001_sele
+JP: 遊バナイ
+EN: Not right now.
+RU: 
+
+
+-- Section 39
+
+ID: M5290_S0020_G0080_300_robocreator
+JP: ゲームヲ楽シンデ！
+EN: Have fun!
+RU: 
+
+
+-- Section 40
+
+ID: M5290_S0020_G0090_300_robocreator
+JP: ゲームデ遊ビタクナッタライツデモ来テネ！
+EN: Come back whenever you'd like to play.
+RU: 
+
+
+-- Section 41
+
+ID: M5290_S0040_G0031_001_robocreator
+JP: フフフ……難シクナカッタ？
+EN: Heheh. Hope it wasn't too hard for you!
+RU: 
+
+
+-- Section 42
+
+ID: M5290_S0020_G0041_001_robocreator
+JP: ゲームヲ遊ンデ行クカイ？
+EN: Feel like playing a game?
+RU: 
+
+ID: M5290_S0020_G0042_001_sele
+JP: 遊ブ
+EN: Sure.
+RU: 
+
+ID: M5290_S0020_G0043_001_sele
+JP: 遊バナイ
+EN: Not right now.
+RU: 
+
+
+-- Section 43
+
+ID: M5290_S0020_G0080_300_robocreator
+JP: ゲームヲ楽シンデ！
+EN: Have fun!
+RU: 
+
+
+-- Section 44
+
+ID: M5290_S0020_G0090_300_robocreator
+JP: ゲームデ遊ビタクナッタライツデモ来テネ！
+EN: Come back whenever you'd like to play.
+RU: 
+
+
+-- Section 45
+
+ID: M5290_S0040_G0032_001_robocreator
+JP: 難シイノニ、バグヲ見ツケテクレテ感謝！
+EN: I can't believe you managed to complete it AND debug it as well!
+RU: 
+
+ID: M5290_S0040_G0060_001_a9s
+JP: もう次のゲームは作らなくていいの？
+EN: ...Is that it? You're not going to send me to find some other weird cable?
+RU: 
+
+ID: M5290_S0040_G0070_001_robocreator
+JP: ウウウッ……実ハアイデアガ、ネタギレナノデス。
+EN: Actually, I've sort of run out of ideas.
+RU: 
+
+ID: M5290_S0040_G0080_001_robocreator
+JP: クリエイションハ、ソンナニ簡単ジャナイ事ヲ思イ知リマシタ……
+EN: I never knew how difficult it was to be a creative genius.
+RU: 
+
+ID: M5290_S0040_G0090_001_robocreator
+JP: トイウ事デ引退サセテイタダキマス。
+EN: That's why I've decided to go out on top.
+RU: 
+
+ID: M5290_S0040_G0100_001_robocreator
+JP: アリガトウゴザイマシタ。
+EN: Thank you for your support!
+RU: 
+
+
+-- Section 46
+
+ID: M5920_S0020_G0240_001_pod153
+JP: 依頼されていた資材を入手。
+EN: Requested material obtained.
+RU: 
+
+

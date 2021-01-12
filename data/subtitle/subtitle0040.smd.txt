@@ -1,0 +1,15 @@
+ID: M0010_S0115_H0000_201_a9s
+JP: いくら油を差しても機械に家族なんかできませんよ～
+EN: Doesn't matter how much oil you give him, little guy.\nYou can't make a machine your brother.
+RU: 
+
+ID: M0010_S0115_H0005_201_robo
+JP: ニイチャン……
+EN: Brother...
+RU: 
+
+ID: M0010_S0115_H0010_201_a9s
+JP: そろそろ始まりますね……
+EN: Well...looks like it's time.
+RU: 
+

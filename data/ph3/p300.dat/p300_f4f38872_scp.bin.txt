@@ -1,0 +1,181 @@
+-- Section 1
+
+ID: M5224_S0010_G0000_001_n02
+JP: ……ボクは本当にパスカルさんを尊敬シテルんだよネ。
+EN: I really respect Pascal, you know?
+RU: 
+
+ID: M5224_S0010_G0010_001_n02
+JP: はぐれ者の為にこんな村を作ってくれて。感謝してもしたりないヨネ……
+EN: I mean, he's the one who thought to build this village for us outcasts.
+RU: 
+
+ID: M5224_S0010_G0020_001_n02
+JP: アー！恩人のパスカルさんにお礼がしたいなあ……
+EN: I really need to show him how thankful I am!
+RU: 
+
+ID: M5224_S0010_G0030_001_n02
+JP: ……お礼がしたいんダヨネ？（チラッ）
+EN: If ooooonly there were some way to thank him...\nSooooome way...
+RU: 
+
+ID: M5224_S0010_G0040_001_sele
+JP: 何か言いたそうなので聞いてみる。
+EN: Stick around and hear him out.
+RU: 
+
+ID: M5224_S0010_G0050_001_sele
+JP: 面倒くさそうなので放置する。
+EN: Leave before you get dragged into something.
+RU: 
+
+
+-- Section 2
+
+ID: M5224_S0010_G0060_001_a2
+JP: 何か言いたそうだな……
+EN: Yeah, yeah. I can take the hint.
+RU: 
+
+ID: M5224_S0010_G0070_001_n02
+JP: そうなんデスヨネ！\nパスカルさんへのお礼をプレゼントしたいキモチが存在するんデスヨ。
+EN: No hint! I just want to show Pascal how appreciated he is.
+RU: 
+
+ID: M5224_S0010_G0080_001_n02
+JP: パスカルさんが好きな哲学書がレジスタンスキャンプに\nあるらしいンデスケドネ……
+EN: Anyway, I was thinking he might like a new philosophy book.\nI hear they have such things over in the Resistance camp...
+RU: 
+
+ID: M5224_S0010_G0090_001_sele
+JP: 取ってきてやるよ。
+EN: Agree to get the book.
+RU: 
+
+ID: M5224_S0010_G0100_001_sele
+JP: 知らないよそんな事。
+EN: Tell the machine to get bent.
+RU: 
+
+
+-- Section 3
+
+ID: M5224_S0010_G0020_001_n02
+JP: アー！恩人のパスカルさんにお礼がしたいなあ……
+EN: I really need to show him how thankful I am!
+RU: 
+
+ID: M5224_S0010_G0030_001_n02
+JP: ……お礼がしたいんダヨネ？（チラッ）
+EN: If ooooonly there were some way to thank him...\nSooooome way...
+RU: 
+
+ID: M5224_S0010_G0040_001_sele
+JP: 何か言いたそうなので聞いてみる。
+EN: Stick around and hear him out.
+RU: 
+
+ID: M5224_S0010_G0050_001_sele
+JP: 面倒くさそうなので放置する。
+EN: Leave before you get dragged into something.
+RU: 
+
+
+-- Section 4
+
+ID: M5224_S0010_G0080_001_n02
+JP: パスカルさんが好きな哲学書がレジスタンスキャンプに\nあるらしいンデスケドネ……
+EN: Anyway, I was thinking he might like a new philosophy book.\nI hear they have such things over in the Resistance camp...
+RU: 
+
+ID: M5224_S0010_G0090_001_sele
+JP: 取ってきてやるよ。
+EN: Agree to get the book.
+RU: 
+
+ID: M5224_S0010_G0100_001_sele
+JP: 知らないよそんな事。
+EN: Tell the machine to get bent.
+RU: 
+
+
+-- Section 5
+
+ID: M5224_S0010_G0110_001_a2
+JP: 仕方ない……パスカルには世話になったから、\nその哲学書ってのを取ってきてやるよ。
+EN: All right, I'll get your book. I owe that little clunker a favor or two anyway.
+RU: 
+
+ID: M5224_S0010_G0120_001_n02
+JP: 本当ですか！ありがたいんダヨネ！
+EN: Oh, that's wonderful!
+RU: 
+
+ID: M5224_S0010_G0130_001_n02
+JP: 哲学書はレジスタンスキャンプの『アネモネ』ってヒトが\n貯めこんでるらしいから奪ってきて！
+EN: Apparently someone named "Anemone" has a large collection of such books, so you just need to go steal one!
+RU: 
+
+ID: M5224_S0010_G0140_001_a2
+JP: そんな物騒な事するか……
+EN: Uh, yeah, no. I think there's a better way.
+RU: 
+
+
+-- Section 6
+
+ID: M5224_S0010_G0130_001_n02
+JP: 哲学書はレジスタンスキャンプの『アネモネ』ってヒトが\n貯めこんでるらしいから奪ってきて！
+EN: Apparently someone named "Anemone" has a large collection of such books, so you just need to go steal one!
+RU: 
+
+
+-- Section 7
+
+ID: M5224_S0020_G0150_001_ane
+JP: ん……？パスカルが哲学書を欲しがってる？
+EN: Pascal wants books on philosophy?
+RU: 
+
+ID: M5224_S0020_G0160_001_ane
+JP: ああ、丁度読み終わったヤツがあるな。
+EN: Well, as it happens, I just finished this one the other day.
+RU: 
+
+ID: M5224_S0020_G0170_001_ane
+JP: これで良ければ持って行ってくれ。
+EN: You're welcome to take it if you like.
+RU: 
+
+ID: M5224_S0020_G0180_001_a2
+JP: すまない。
+EN: Thanks.
+RU: 
+
+ID: M5224_S0020_G0181_001_ane
+JP: ついでに、この「金鉱」もパスカルに渡してくれないか？\n以前から頼まれていたんだが、ようやく手に入ってね。
+EN: Could you give him this gold ore as well? He's been asking for this for a while, and I finally managed to get my hands on some.
+RU: 
+
+ID: M5224_S0020_G0182_001_a2
+JP: わかった。
+EN: All right.
+RU: 
+
+ID: M5224_S0020_G0190_001_ane
+JP: しかし、機械生命体が哲学書か……
+EN: It seems...odd that a machine lifeform would be into philosophy, don't you think?
+RU: 
+
+ID: M5224_S0020_G0200_001_ane
+JP: 私達は、敵である奴らの事を何もわかってないのかもしれないな。
+EN: It makes me wonder how much we really know about our enemy...
+RU: 
+
+ID: M5224_S0020_G0210_001_a2
+JP: ……そうだな。
+EN: I wonder.
+RU: 
+
+

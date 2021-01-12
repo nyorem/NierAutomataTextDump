@@ -1,0 +1,144 @@
+-- Section 1
+
+ID: M3020_S0020_G0000_001_a9s
+JP: レジスタンス……キャンプ……
+EN: I'm in...the Resistance camp?
+RU: 
+
+ID: M3020_S0020_G0010_001_ppl
+JP: 貴方、二週間も眠りっぱなしだったのよ？
+EN: That's right. You've been unconscious for nearly two weeks.
+RU: 
+
+ID: M3020_S0020_G0020_001_dbl
+JP: 見つけてきた私に感謝しろよ？
+EN: A little thank-you for saving your butt would be nice!
+RU: 
+
+ID: M3020_S0020_G0030_001_a9s
+JP: ２Ｂは……？
+EN: Where's 2B?
+RU: 
+
+ID: M3020_S0020_G0040_001_ppl
+JP: ……
+EN: ......
+RU: 
+
+ID: M3020_S0020_G0050_001_dbl
+JP: お前の方が……良く知ってるだろ？
+EN: You know that better than anyone, no?
+RU: 
+
+ID: M3020_S0020_G0060_001_dbl
+JP: ブラックボックス信号も……切れている。
+EN: Her black box signal...disappeared.
+RU: 
+
+ID: M3020_S0020_G0070_001_a9s
+JP: ……そう。
+EN: ...Oh.
+RU: 
+
+ID: M3020_S0020_G0080_001_pod153
+JP: デボル・ポポルタイプのアンドロイドは治療・メンテナンスに特化した\n希少なモデル。
+EN: Devola and Popola are rare android models designed for medical treatment and maintenance.
+RU: 
+
+ID: M3020_S0020_G0090_001_pod153
+JP: バンカーなき今、彼女達が居なければ９Ｓの修理・補修は厳しいと予測。
+EN: Without the Bunker, they are the only remaining way for unit 9S to initiate repairs.
+RU: 
+
+ID: M3020_S0020_G0100_001_pod153
+JP: 推奨：感謝の言葉。
+EN: Proposal: A word of appreciation is appropriate.
+RU: 
+
+ID: M3020_S0020_G0101_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M3020_S0020_G0110_001_a9s
+JP: ……ありがとう。
+EN: ...Thanks.
+RU: 
+
+ID: M3020_S0020_G0120_001_dbl
+JP: 私達のタイプは、昔は大勢いたんだ。
+EN: Yeah, there used to be lots of our models around.
+RU: 
+
+ID: M3020_S0020_G0130_001_dbl
+JP: 何でも大規模システムの管理を任されていたらしい。
+EN: Apparently, we were put here to oversee some kind of large-scale system that was in place.
+RU: 
+
+ID: M3020_S0020_G0140_001_a9s
+JP: 『らしい』って……どういう事？
+EN: Apparently? What does that mean?
+RU: 
+
+ID: M3020_S0020_G0150_001_dbl
+JP: 当時の記録は消去されてるから、何があったか判らない。
+EN: It means we don't know. All the records from that era have been deleted.
+RU: 
+
+ID: M3020_S0020_G0160_001_dbl
+JP: 私達のモデルは……過去に暴走し、事故を起こしてる。
+EN: Our model kinda went nutso at some point in the past. It ended badly.
+RU: 
+
+ID: M3020_S0020_G0170_001_ppl
+JP: 同形機は事故後にほとんど処理された。
+EN: Most of our kind were disposed of after that.
+RU: 
+
+ID: M3020_S0020_G0180_001_ppl
+JP: 私達が処分されていないのは……
+EN: But we were spared.
+RU: 
+
+ID: M3020_S0020_G0190_001_ppl
+JP: 再び暴走しないようにサンプルとして監視される為なの。
+EN: They used us as a sort of control group in order to ensure such a thing couldn't happen again.
+RU: 
+
+ID: M3020_S0020_G0200_001_dbl
+JP: でも、おかげでこうやって仲間を助ける事が出来る。
+EN: So yeah, we're lab rats. But at least we get to be here helping out friends.
+RU: 
+
+ID: M3020_S0020_G0210_001_dbl
+JP: それが……私達が犯した罪への償いだと思ってる。
+EN: I'd like to think that we're atoning in some way for our past sins.
+RU: 
+
+ID: M3020_S0020_G0220_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M3020_S0020_G0230_001_ppl
+JP: あまり無理しないでね……９Ｓ。
+EN: Try not to overdo it, 9S.
+RU: 
+
+
+-- Section 2
+
+ID: M3020_S0020_G0020_001_dbl
+JP: 見つけてきた私に感謝しろよ？
+EN: A little thank-you for saving your butt would be nice!
+RU: 
+
+
+-- Section 3
+
+ID: M3020_S0020_G0230_001_ppl
+JP: あまり無理しないでね……９Ｓ。
+EN: Try not to overdo it, 9S.
+RU: 
+
+

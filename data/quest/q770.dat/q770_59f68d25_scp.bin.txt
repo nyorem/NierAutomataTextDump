@@ -1,0 +1,340 @@
+-- Section 1
+
+ID: M5770_S0010_G0000_001_kj
+JP: ああ……アンタ達がヨルハ部隊か。聞いてるよ。
+EN: Oh, you must be with YoRHa. I heard about what happened.
+RU: 
+
+ID: M5770_S0010_G0010_001_kj
+JP: ウチでは武器を扱ってるんだ。
+EN: I deal in weapons, if you're interested in that type of thing.
+RU: 
+
+ID: M5770_S0010_G0020_001_a9s
+JP: どんな武器を売ってるんですか？
+EN: What kind of weapons?
+RU: 
+
+ID: M5770_S0010_G0030_001_kj
+JP: 基本的には過去の遺産である武器を整備しなおしてる。
+EN: Basically, I rebuild and repair relics from the old world.
+RU: 
+
+ID: M5770_S0010_G0040_001_kj
+JP: ただ、今ちょっと道具が壊れててね。
+EN: Although to be honest, my tools are in pretty sad shape at the moment.
+RU: 
+
+ID: M5770_S0010_G0050_001_kj
+JP: この道具箱に入ってる整備デバイスさえ直れば、\n武器の整備販売が再開出来るんだがな……
+EN: But if I can get the servicing device in that toolbox up and running, I could start fixing and selling weapons again. Take a look at it, will you?
+RU: 
+
+
+-- Section 2
+
+ID: M5770_S0010_G0050_001_kj
+JP: この道具箱に入ってる整備デバイスさえ直れば、\n武器の整備販売が再開出来るんだがな……
+EN: But if I can get the servicing device in that toolbox up and running, I could start fixing and selling weapons again. Take a look at it, will you?
+RU: 
+
+ID: M5770_S0010_G0080_001_sele
+JP: 手助けする。
+EN: Help him out.
+RU: 
+
+ID: M5770_S0010_G0090_001_sele
+JP: 放置する。
+EN: Leave him to his own devices.
+RU: 
+
+
+-- Section 3
+
+ID: M5770_S0010_G0100_001_kj
+JP: ふうっ……整備デバイスが直らない事には、商売あがったりだよ。
+EN: If I can't get that servicing device repaired, I won't be long for this line of work...
+RU: 
+
+
+-- Section 4
+
+ID: M5770_S0010_G0060_001_a9s
+JP: これは……結構壊れていますね。
+EN: That looks busted, all right.
+RU: 
+
+ID: M5770_S0010_G0070_001_kj
+JP: だろう？\n見ての通り、デバイス修理みたいな繊細な作業は得意じゃなくてね。
+EN: You know it! And as I bet you can tell, I'm no good at that sort of delicate repair.
+RU: 
+
+ID: M5770_S0010_G0080_001_sele
+JP: 手助けする。
+EN: Help him out.
+RU: 
+
+ID: M5770_S0010_G0090_001_sele
+JP: 放置する。
+EN: Leave him to his own devices.
+RU: 
+
+
+-- Section 5
+
+ID: M5770_S0010_G0100_001_kj
+JP: ふうっ……整備デバイスが直らない事には、商売あがったりだよ。
+EN: If I can't get that servicing device repaired, I won't be long for this line of work...
+RU: 
+
+
+-- Section 6
+
+ID: M5770_S0010_G0110_001_kj
+JP: おいおい……本当かよ。そりゃあ助かるな。
+EN: You mean it? That'd be a huge help!
+RU: 
+
+ID: M5770_S0010_G0119_001_a9s
+JP: この整備デバイスは、過負荷で内部がショートしています。
+EN: Looks like the servicing device shorted out. Must have put too much load on it.
+RU: 
+
+ID: M5770_S0010_G0120_001_a9s
+JP: ただ『複雑な機械』が４つ程あればなんとか直せると思います。
+EN: I'm thinking four complex gadgets will be enough to fix it.
+RU: 
+
+ID: M5770_S0010_G0130_001_a9s
+JP: このあたりで入手出来る場所はありますか？
+EN: Any idea where I'd find complex gadgets?
+RU: 
+
+ID: M5770_S0010_G0140_001_kj
+JP: ああ……それなら廃墟都市の中央付近でよく見かけるが、あの辺りは\n攻撃的な機械共がウロウロしてるんだ……危なくて近寄れないね。
+EN: Folks say you can find 'em over in the city ruins—although I also hear the place is crawling with incredibly aggressive machines.
+RU: 
+
+
+-- Section 7
+
+ID: M5770_S0010_G0100_001_kj
+JP: ふうっ……整備デバイスが直らない事には、商売あがったりだよ。
+EN: If I can't get that servicing device repaired, I won't be long for this line of work...
+RU: 
+
+
+-- Section 8
+
+ID: M5770_S0020_G0000_001_a9s
+JP: 武器屋さんが言ってたのは、この辺りですが……
+EN: This is the place that weapons trader was talking about...
+RU: 
+
+ID: M5770_S0020_G0010_001_a9s
+JP: 機械生命体を確認。しかも敵性反応があります。
+EN: Uh oh. I'm picking up hostile machine lifeforms.
+RU: 
+
+
+-- Section 9
+
+ID: M5770_S0020_G0020_001_pod042
+JP: 敵機械生命体の排除を確認。
+EN: Hostile machine lifeforms destroyed.
+RU: 
+
+ID: M5770_S0020_G0030_001_a9s
+JP: ふうっ。なんとか倒せましたね。
+EN: Whew! That was a slog and a half.
+RU: 
+
+ID: M5770_S0020_G0040_001_a9s
+JP: 武器屋さんに言われている『複雑な機械』が無いか、ちょっと探してみましょう。
+EN: Let's see if we can find any of those complex gadgets the weapons trader was after.
+RU: 
+
+
+-- Section 10
+
+ID: M5770_S0020_G0050_001_a9s
+JP: これで全部かな。武器屋さんに見てもらいましょう。
+EN: That should be enough. Let's get these back to the trader.
+RU: 
+
+
+-- Section 11
+
+ID: M5770_S0030_G0000_001_a9s
+JP: ……よし、これで整備デバイスは修理完了ですね。
+EN: I think this should be enough to fix your broken device.
+RU: 
+
+ID: M5770_S0030_G0010_001_kj
+JP: おお、サンキュー！これでようやく営業が出来る。
+EN: Well, how do you like that? Looks like I'm back in business!
+RU: 
+
+ID: M5770_S0030_G0020_001_a9s
+JP: そうなんですね。楽しみです。
+EN: Good to hear.
+RU: 
+
+ID: M5770_S0030_G0030_001_kj
+JP: 任せとけ！俺は仲間を守る為に武器を作ってるんだ。
+EN: You know it! I make these weapons to keep my friends safe, after all.
+RU: 
+
+ID: M5770_S0030_G0040_001_kj
+JP: けど、さ……時折、思うんだよな。
+EN: Although sometimes I wonder...
+RU: 
+
+ID: M5770_S0030_G0050_001_kj
+JP: もしかしたら俺が武器を作る事で、\n仲間を早く死なせているのかもしれねぇって……
+EN: What if my weapons are just making my friends die all the faster?
+RU: 
+
+ID: M5770_S0030_G0060_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5770_S0030_G0070_001_kj
+JP: あ～悪ぃ。今のは無し！な？
+EN: Ah, never mind. Forget I said anything.
+RU: 
+
+ID: M5770_S0030_G0080_001_kj
+JP: また来てくれよ！次は新しい武器を用意しておくから。
+EN: Anyway, come back in a little while, all right? I should have some new gear for you then.
+RU: 
+
+
+-- Section 12
+
+ID: M5770_S0010_G0100_001_kj
+JP: ふうっ……整備デバイスが直らない事には、商売あがったりだよ。
+EN: If I can't get that servicing device repaired, I won't be long for this line of work...
+RU: 
+
+
+-- Section 13
+
+ID: M5770_S0030_G0090_001_kj
+JP: ああ、アンタ達か。おかげで助かったよ。
+EN: Hey, it's you!
+RU: 
+
+ID: M5770_S0030_G0091_200_robocreator
+JP: そう言えば礼を渡し忘れてたな……
+EN: Oh, I almost forgot. I still owe you a reward.
+RU: 
+
+ID: M5770_S0030_G0100_001_kj
+JP: 機械を直してくれた礼に、強化素材をやるよ。
+EN: I wanted to say thanks for helping me get things up and running again, so I whipped you up some upgrade materials.
+RU: 
+
+ID: M5770_S0030_G0101_300_robocreator
+JP: 試しに強化していくか？
+EN: Wanna try 'em out?
+RU: 
+
+ID: M5770_S0030_G0102_300_sele
+JP: 強化していく。
+EN: You bet!
+RU: 
+
+ID: M5770_S0030_G0103_300_sele
+JP: やめておく。
+EN: Not this time.
+RU: 
+
+
+-- Section 14
+
+ID: M6090_S0030_G0041_300_kj
+JP: よし、これでこの武器は Lv.3 に鍛え上げた。
+EN: Right-o! This weapon is now Level 3.
+RU: 
+
+ID: M6090_S0030_G0042_300_kj
+JP: ウチで出来るのはここまでだが……\nこの世界には Lv.4 に鍛え上げる名工がいるらしい。
+EN: That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.
+RU: 
+
+ID: M6090_S0030_G0043_300_kj
+JP: そんなヤツがいたら師匠になってもらいたいもんだ。
+EN: If I ever met someone like that, I'd want them to teach me all they knew!
+RU: 
+
+ID: M5770_S0030_G0104_300_robocreator
+JP: 武器の事ならいつでも相談してくれよ。
+EN: Come to me whenever you need help with your weapons.
+RU: 
+
+ID: M5770_S0030_G0111_001_a2b
+JP: そういえば、武器を作る為の原型素材はどうやって入荷しているの？
+EN: Hey, so where do you get these older weapon models from?
+RU: 
+
+ID: M5770_S0030_G0110_001_a9s
+JP: そういえば、武器を修理調整するにも原型になる武器が必要ですよね？\nどうやって入荷してるんですか？
+EN: Hey, so you craft new weapons from older models, right? But where do the older models come from?
+RU: 
+
+ID: M5770_S0030_G0112_001_a2
+JP: そういえば、武器を作る為の原型素材はどうやって入荷しているんだ？
+EN: So where do all these older weapon models come from, huh?
+RU: 
+
+ID: M5770_S0030_G0120_001_kj
+JP: ああ、この店の主人が送ってくるんだよ。
+EN: Oh, the lady who owns the place sends 'em over every once in a while.
+RU: 
+
+ID: M5770_S0030_G0130_001_kj
+JP: 『アコール』って女がここの経営者で、\nオレは店番と整備を手伝っているだけなんだ。
+EN: Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.
+RU: 
+
+ID: M5770_S0030_G0140_001_kj
+JP: 経営者って言っても、何年かに一度フラッと戻ってくるくらいで、\n普段は配送ドローンで武器だけ送ってくるんだ。
+EN: I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.
+RU: 
+
+ID: M5770_S0030_G0150_001_kj
+JP: どこで手に入れてくるのか知らないが、状態の良い武器が多いな。
+EN: I don't know where she gets this stuff, but most of it's in pretty good condition!
+RU: 
+
+ID: M5770_S0030_G0160_001_kj
+JP: もし、出先で会う事があったら、よろしく言っておいてくれ。
+EN: Say, if you ever happen to run into her, say hello from me, all right?
+RU: 
+
+ID: M6090_S0030_G0011_300_kj
+JP: 購入した武器はウチで強化する事も出来る。
+EN: You can upgrade the weapons you buy here.
+RU: 
+
+ID: M6090_S0030_G0012_300_kj
+JP: 金と強化素材が必要になるが、それに見合った強さにはなるぜ。\nそれに武器によっては特殊能力が増えるモノもある。
+EN: How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.
+RU: 
+
+ID: M6090_S0030_G0013_300_kj
+JP: 気が向いたら試してくれ。
+EN: Give it a try if you like.
+RU: 
+
+
+-- Section 15
+
+ID: M5770_S0030_G0104_300_robocreator
+JP: 武器の事ならいつでも相談してくれよ。
+EN: Come to me whenever you need help with your weapons.
+RU: 
+
+

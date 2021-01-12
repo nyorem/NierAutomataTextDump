@@ -1,0 +1,16 @@
+-- Section 1
+
+ID: M3030_S0131_G0000_001_pascal
+JP: 殺してやる……殺してやる……！
+EN: I'll kill you... I'll kill you!
+RU: 
+
+
+-- Section 2
+
+ID: M3030_S0131_G0010_001_pascal
+JP: 私には……守らなくちゃいけない子供達がいるんだ！
+EN: I must protect the children!
+RU: 
+
+

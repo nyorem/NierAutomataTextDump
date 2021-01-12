@@ -1,0 +1,88 @@
+-- Section 1
+
+ID: M1050_S0185_S0000_201_telo
+JP: １２８年前
+EN: 128 Years Ago...
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0185_S0010_201_smallrobot
+JP: 王様が死んじまったべ……
+EN: His Majesty. He's...dead.
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0185_S0020_201_smallrobot
+JP: ワシらにエネルギーを、くれた王様が……
+EN: The king who gave all for us...
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0185_S0030_201_smallrobot
+JP: 優しい王様が、死んじまったべ。
+EN: So benevolent and kind... And now he's dead.
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0185_S0040_201_smallrobot
+JP: 悲しいなあ。
+EN: This sure is sad.
+RU: 
+
+
+-- Section 6
+
+ID: M1050_S0185_S0050_201_smallrobot
+JP: んだ……悲しいなあ。
+EN: It sure is.
+RU: 
+
+
+-- Section 7
+
+ID: M1050_S0185_S0060_201_smallrobot
+JP: でも、ワシら王国騎士団にはやることがある。
+EN: But we Royal Knights still have a mission.
+RU: 
+
+
+-- Section 8
+
+ID: M1050_S0185_S0070_201_smallrobot
+JP: この、ちっこい子に王様の形見のメモリーを入れたべさ。
+EN: We placed His Majesty's memory—his final memento—into this tiny child.
+RU: 
+
+
+-- Section 9
+
+ID: M1050_S0185_S0080_201_smallrobot
+JP: この子を次の王様に育てる、だーいじな任務だべ。
+EN: And now we must raise this child so he might one day be our new king.
+RU: 
+
+
+-- Section 10
+
+ID: M1050_S0185_S0090_201_smallrobot
+JP: ちゃんと、育ててやらねばなあ……
+EN: He deserves a royal upbringing...
+RU: 
+
+
+-- Section 11
+
+ID: M1050_S0185_S0100_201_smallrobot
+JP: ちゃんと、守ってやらねばなあ……
+EN: He deserves protection...
+RU: 
+
+

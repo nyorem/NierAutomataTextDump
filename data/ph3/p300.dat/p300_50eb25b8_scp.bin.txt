@@ -1,0 +1,36 @@
+-- Section 1
+
+ID: M3060_S0255_G0000_001_a9s
+JP: クッ……
+EN: Ungh...
+RU: 
+
+ID: M3060_S0255_G0010_001_pod153
+JP: 警告：汚染機体からの部品移植により運動領域内にウィルスを確認。
+EN: Alert: Virus detected in locomotion region. High probability that infection source is transplanted parts from corrupted units.
+RU: 
+
+ID: M3060_S0255_G0020_001_pod153
+JP: 推奨：自己ハッキング及びウィルスの除去。
+EN: Proposal: Hack into self and eliminate virus.
+RU: 
+
+ID: M3060_S0255_G0030_001_a9s
+JP: 分かった……
+EN: On it...
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0255_G0040_001_pod153
+JP: ウィルスの除去を確認。
+EN: Virus eliminated.
+RU: 
+
+ID: M3060_S0255_G0050_001_pod153
+JP: 運動機能が９５％まで回復。
+EN: Ninety-five percent of functionality restored.
+RU: 
+
+

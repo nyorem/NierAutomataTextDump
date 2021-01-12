@@ -1,0 +1,344 @@
+-- Section 1
+
+ID: M6010_S0090_G0000_300_cmd
+JP: ９Sにはもう会ったのか？\n奴は自室で待っているとのことだ。
+EN: Have you met with 9S yet? He's waiting in his room.
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0090_G0020_300_op60
+JP: 何とかイヴを倒せましたね！とりあえず一安心です！
+EN: I don't know how you managed to beat Eve, but you did!  Now go take a nap or something. You totally earned it!
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0090_G0030_300_op60
+JP: 私、２Ｂさんと組めて本当に良かったと思います！\nこれからも一緒に頑張っていきましょうね！
+EN: I'm so glad I got to work with you, 2B! Here's to many more successful missions!
+RU: 
+
+
+-- Section 5
+
+ID: M6010_S0090_G0040_300_op210
+JP: ９Ｓをサポートして頂き、感謝致します。\n今後とも、９Sを宜しくお願い致します。
+EN: Thank you for supporting 9S. Please continue to look after him.
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0090_G0050_300_op210
+JP: そういえば、９Ｓにはもう会いましたか？\n９Ｓは自室で待っているはずです。
+EN: Actually, have you spoken with 9S yet? He's waiting in his room.
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 11
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 12
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 13
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 14
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 15
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 16
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 17
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 18
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 19
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 20
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 21
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 22
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 23
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 24
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 25
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 26
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 27
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 28
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 29
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 30
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 31
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 32
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 33
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 34
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 35
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 36
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 37
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 38
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 39
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 40
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 41
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 42
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 43
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+

@@ -1,0 +1,41 @@
+-- Section 1
+
+ID: M1090_S0050_G0000_201_pod153
+JP: 大型兵器の反応を確認。
+EN: Goliath-class enemy sighted.
+RU: 
+
+ID: M1090_S0050_G0010_201_a9s
+JP: ２Ｂは！？
+EN: Where's 2B!?
+RU: 
+
+ID: M1090_S0050_G0020_201_pod153
+JP: 付近に機体２Ｂのブラックボックス感知。
+EN: 2B's black box signal detected nearby.
+RU: 
+
+ID: M1090_S0050_G0030_201_pod153
+JP: 交戦中と予測。
+EN: She is likely engaged in combat.
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0040_G0000_201_a9s
+JP: ２Ｂ！大丈夫！？
+EN: 2B! You okay?
+RU: 
+
+ID: M1090_S0040_G0010_201_pod153
+JP: 電波障害の為、通信不可能。
+EN: Alert: All communications are currently being jammed.
+RU: 
+
+ID: M1090_S0040_G0020_201_a9s
+JP: 急がなきゃ……！
+EN: We'd better hurry...
+RU: 
+
+

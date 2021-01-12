@@ -1,0 +1,56 @@
+-- Section 1
+
+ID: M1050_S0197_G0040_300_n02
+JP: 許さんぞ侵略者め！
+EN: You'll pay for this, invaders!
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0197_G0010_300_n02
+JP: 恐れるな！進めー！
+EN: Stand strong! Move!
+RU: 
+
+
+-- Section 3
+
+ID: M3020_S0040_G0080_001_n02
+JP: 我が……王のカタキ……！
+EN: Revenge for our king!
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0195_S0132_201_largerobot
+JP: 死ねい！アンドロイド！
+EN: Die, androids!
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0197_G0040_300_n02
+JP: 許さんぞ侵略者め！
+EN: You'll pay for this, invaders!
+RU: 
+
+
+-- Section 6
+
+ID: M3020_S0040_G0080_001_n02
+JP: 我が……王のカタキ……！
+EN: Revenge for our king!
+RU: 
+
+
+-- Section 7
+
+ID: M3020_S0040_G0090_001_n02
+JP: オウサマ……王サマ！
+EN: My king... My king...
+RU: 
+
+

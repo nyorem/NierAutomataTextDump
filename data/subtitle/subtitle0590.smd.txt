@@ -1,0 +1,35 @@
+ID: M1080_S0085_H0000_201_a9s
+JP: 数多の戦いと冒険を経て、預言者は言う。
+EN: After a long period of battles and adventures, the prophet spoke.
+RU: 
+
+ID: M1080_S0085_H0010_201_a9s
+JP: ああ、大地の慈悲を。
+EN: O grant me the mercy of the land!
+RU: 
+
+ID: M1080_S0085_H0020_201_a9s
+JP: ああ、天上の喜びを。
+EN: O grant me the joy of the heavens!
+RU: 
+
+ID: M1080_S0085_H0030_201_a9s
+JP: 鉄の軛から解き放たれ、
+EN: Release me from my yoke of iron!
+RU: 
+
+ID: M1080_S0085_H0040_201_a9s
+JP: 私達の魂は救済されるだろう。
+EN: Thus shall our souls be saved.
+RU: 
+
+ID: M1080_S0085_H0050_201_a9s
+JP: 永遠に。
+EN: Forever and ever.
+RU: 
+
+ID: M1080_S0085_H0060_201_a9s
+JP: 永遠に。
+EN: Forever and ever.
+RU: 
+

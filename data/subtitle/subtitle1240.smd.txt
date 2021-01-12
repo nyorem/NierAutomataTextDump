@@ -1,0 +1,20 @@
+ID: M3060_S1010_H0000_001_a9s
+JP: ッ！！！
+EN:  
+RU: 
+
+ID: M3060_S1010_H0010_001_a2
+JP: ポッド！
+EN: Pod!
+RU: 
+
+ID: M3060_S1010_H0020_001_a2
+JP: ハッキング！！
+EN: Hack in, now!
+RU: 
+
+ID: M3060_S1010_H0030_001_pod042
+JP: 了解。
+EN: Acknowledged.
+RU: 
+

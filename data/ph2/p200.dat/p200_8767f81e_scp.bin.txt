@@ -1,0 +1,184 @@
+-- Section 1
+
+ID: M1080_S0090_G0000_201_a9s
+JP: ……ッ！
+EN: !!
+RU: 
+
+ID: M1080_S0090_G0010_201_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M1080_S0090_G0020_201_a9s
+JP: 今のは……月面サーバーで聞いた言葉。
+EN: Those were the words I heard in the moon server.
+RU: 
+
+ID: M1080_S0090_G0030_201_a9s
+JP: どうして……？
+EN: But why...?
+RU: 
+
+ID: M1080_S0090_G0040_201_pod153
+JP: 報告：２Ｂによる敵大型兵器の撃破。
+EN: Alert: 2B has defeated the Goliath-class heavy-weapon unit.
+RU: 
+
+ID: M1080_S0090_G0050_201_a9s
+JP: ああ……そうか。
+EN: Hm? Ah, right.
+RU: 
+
+ID: M1080_S0090_G0060_201_a9s
+JP: わかった。
+EN: Okay, good.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0090_G0070_201_cmd
+JP: ９Ｓ……
+EN: 9S.
+RU: 
+
+ID: M1080_S0090_G0080_201_a9s
+JP: 司令官？
+EN: Commander?
+RU: 
+
+ID: M1080_S0090_G0090_201_cmd
+JP: ……すまないが司令部まで来てくれ。
+EN: I'm sorry. You're needed back at Command.
+RU: 
+
+ID: M1080_S0090_G0100_201_a9s
+JP: ……了解しました。
+EN: ...Understood.
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0800_G0000_201_cmd
+JP: ……
+EN: ......
+RU: 
+
+ID: M1080_S0800_G0010_201_cmd
+JP: ……君がメインサーバーにアクセスしていた痕跡が残っていた。
+EN: You left quite a trail when you accessed the main server.
+RU: 
+
+ID: M1080_S0800_G0020_201_a9s
+JP: ……その事で聞きたい事があります。司令官。
+EN: That's what I wanted to speak with you about, Commander.
+RU: 
+
+ID: M1080_S0800_G0030_201_cmd
+JP: ……
+EN: ......
+RU: 
+
+ID: M1080_S0800_G0040_201_a9s
+JP: ヨルハ計画の中に月面人類会議の設立記録がありました。
+EN: I found records stating that the Council of Humanity was established as part of Project YoRHa.
+RU: 
+
+ID: M1080_S0800_G0050_201_a9s
+JP: これじゃあ、順番が逆です。
+EN: But I'd always heard it was the other way around.
+RU: 
+
+ID: M1080_S0800_G0060_201_a9s
+JP: まるで、僕達ヨルハ部隊が人類会議を作ったかのような……
+EN: So did YoRHa actually create the Council of Humanity?
+RU: 
+
+ID: M1080_S0800_G0070_201_cmd
+JP: …………
+EN: ......
+RU: 
+
+ID: M1080_S0800_G0080_201_cmd
+JP: ……その通りだ。
+EN: Yes.
+RU: 
+
+ID: M1080_S0800_G0090_201_cmd
+JP: 月面の人類会議サーバーは我々が設置した。
+EN: We installed the Council of Humanity's server on the surface of the moon.
+RU: 
+
+ID: M1080_S0800_G0100_201_a9s
+JP: じゃあ……
+EN: But that means...
+RU: 
+
+ID: M1080_S0800_G0110_201_cmd
+JP: 人類はもういない。
+EN: Mankind no longer exists.
+RU: 
+
+ID: M1080_S0800_G0120_201_a9s
+JP: ！！
+EN: !!
+RU: 
+
+ID: M1080_S0800_G0130_201_cmd
+JP: 正確に言えば、人類は月には行っていない。
+EN: In truth, humans never went to the moon at all.
+RU: 
+
+ID: M1080_S0800_G0140_201_cmd
+JP: 月からの通信はプログラムで用意されたダミーに過ぎない。
+EN: Any transmissions received from the moon are just dummy signals we set up in advance.
+RU: 
+
+ID: M1080_S0800_G0150_201_cmd
+JP: 月に残っているのは、僅かな人類の遺伝子情報だけだ。
+EN: The only thing there is a small bit of data relating to the human genome.
+RU: 
+
+ID: M1080_S0800_G0160_201_a9s
+JP: なんで……そんな事を。
+EN: But why would you—
+RU: 
+
+ID: M1080_S0800_G0170_201_cmd
+JP: ……異星人が襲来した時には既に人類は滅亡してしまっていた。
+EN: Humans were already extinct when the aliens attacked.
+RU: 
+
+ID: M1080_S0800_G0180_201_cmd
+JP: このチップに、全ての記録を保存してある。
+EN: All the details are stored on this memory chip.
+RU: 
+
+ID: M1080_S0800_G0190_201_cmd
+JP: 興味があるなら見てみればいい。
+EN: If you want to look at it, I won't stop you.
+RU: 
+
+ID: M1080_S0800_G0200_201_a9s
+JP: どうして、これを僕に……
+EN: Wait, you're just giving me this? But why?
+RU: 
+
+ID: M1080_S0800_G0210_201_cmd
+JP: ……
+EN: ......
+RU: 
+
+ID: M1080_S0850_H0000_201_cmd
+JP: 理由なく戦える者などいない。
+EN: No one fights without a reason.
+RU: 
+
+ID: M1080_S0850_H0010_201_cmd
+JP: 我々には命を捧げるに値する神が必要なのだ。
+EN: And we need a god worth dying for.
+RU: 
+
+

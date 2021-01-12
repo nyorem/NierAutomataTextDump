@@ -1,0 +1,20 @@
+ID: M3020_S0200_H0000_001_a9s
+JP: エネルギー収束。近接射撃モード。最大出力。
+EN: Prepare energy. Close-range firing mode. Maximum output.
+RU: 
+
+ID: M3020_S0200_H0005_001_core
+JP: 助けて……助けて……
+EN: Help...me...
+RU: 
+
+ID: M3020_S0200_H0010_001_pod153
+JP: ９Ｓ……
+EN: 9S...
+RU: 
+
+ID: M3020_S0200_H0020_001_a9s
+JP: 発射。
+EN: Fire.
+RU: 
+

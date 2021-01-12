@@ -1,0 +1,25 @@
+ID: M1060_S0140_S0000_201_a9s
+JP: ミサイルコントロール起動
+EN: Activate missile controls.
+RU: 
+
+ID: M1060_S0140_S0010_201_a9s
+JP: 発射準備
+EN: Prepare to launch.
+RU: 
+
+ID: M1060_S0140_S0020_201_pod153
+JP: ミサイルコントロール開始。
+EN: Missile controls engaged.
+RU: 
+
+ID: M1060_S0140_S0030_201_pod153
+JP: 確認：発射可能状態。
+EN: Launch ability confirmed.
+RU: 
+
+ID: M1060_S0140_S0040_201_a9s
+JP: 発射！
+EN: Fire!
+RU: 
+

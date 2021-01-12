@@ -1,0 +1,38 @@
+-- Section 1
+
+ID: M1090_S0320_G0000_001_a9s
+JP: ……イヴのネットワーク分離時に物理汚染されちゃったみたい。
+EN: I must have been corrupted when Eve detached from the network...
+RU: 
+
+ID: M1090_S0320_G0010_001_a2b
+JP: そんな……
+EN: No...
+RU: 
+
+ID: M1090_S0320_G0020_001_a9s
+JP: 大丈夫、バンカーにあるデータで巻き戻る事は出来るから……
+EN: It's okay. I can always reload my backup data from the Bunker.
+RU: 
+
+ID: M1090_S0320_G0030_001_a2b
+JP: でも、それじゃあ、『今』の君は戻ってこない……
+EN: But you'll lose you. The you that exists at this very moment.
+RU: 
+
+ID: M1090_S0320_G0040_001_a9s
+JP: そウだね……
+EN: Guess so...
+RU: 
+
+ID: M1090_S0320_G0050_001_a9s
+JP: 汚センデータをバンカーにアップロードするわけにも……いかナイから……
+EN: But we can't upload this corrupted data to the Bunker, so...
+RU: 
+
+ID: M1090_S0320_G0060_001_a2b
+JP: ９Ｓ……
+EN: 9S...
+RU: 
+
+

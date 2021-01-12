@@ -1,0 +1,93 @@
+-- Section 1
+
+ID: M5920_S0010_G0360_001_pod042
+JP: 警告：アクセスポイントに通信障害。
+EN: Alert: Access point communications jammed.
+RU: 
+
+ID: M5920_S0020_G0360_001_pod153
+JP: 警告：アクセスポイントに通信障害。
+EN: Alert: Access point communications jammed.
+RU: 
+
+
+-- Section 2
+
+ID: M5920_S0010_G0370_001_pod042
+JP: 予測：当該地帯の敵による通信妨害。
+EN: Hypothesis: Jamming caused by enemies in local vicinity.
+RU: 
+
+ID: M5920_S0020_G0370_001_pod153
+JP: 予測：当該地帯の敵による通信妨害。
+EN: Hypothesis: Jamming caused by enemies in local vicinity.
+RU: 
+
+
+-- Section 3
+
+ID: M5920_S0010_G0380_001_pod042
+JP: 推奨：当該地域の敵排除と、アクセスポイントの速やかな復旧。
+EN: Proposal: Eliminate enemies in vicinity and restore access point immediately.
+RU: 
+
+ID: M5920_S0020_G0380_001_pod153
+JP: 推奨：当該地域の敵排除と、アクセスポイントの速やかな復旧。
+EN: Proposal: Eliminate enemies in vicinity and restore access point immediately.
+RU: 
+
+
+-- Section 4
+
+ID: M5920_S0070_G0000_001_pod042
+JP: バンカーよりマップデータを入手。
+EN: Map data obtained from Bunker.
+RU: 
+
+ID: M5920_S0070_G0010_001_pod042
+JP: システムメニュー上で表示可能。
+EN: Data may be displayed from the system menu.
+RU: 
+
+ID: M5920_S0070_G0030_001_a9s
+JP: マップデータですか……
+EN: Map data, huh?
+RU: 
+
+ID: M5920_S0070_G0040_001_a9s
+JP: 衛星から取得出来る解像度が粗くて、\nあまり正確な形状が把握出来ないんですよね。
+EN: It's hard to get an accurate picture from this—our satellite resolution isn't so hot.
+RU: 
+
+ID: M5920_S0070_G0050_001_a9s
+JP: 新しい衛星が配備されるといいんですけど。
+EN: Hopefully they deploy some new satellites soon.
+RU: 
+
+ID: M5920_S0070_G0060_001_a2b
+JP: 大体わかればいい。
+EN: A general idea is good enough.
+RU: 
+
+ID: M5920_S0070_G0070_001_a9s
+JP: 意外とたくましいですね……２Ｂは。
+EN: Heh. You don't let anything get in your way, do you?
+RU: 
+
+
+-- Section 5
+
+ID: M5920_S0060_G0280_001_a9s
+JP: これは……旧世界の情報だな。
+EN: Oh, hey. This is data from the old world.
+RU: 
+
+
+-- Section 6
+
+ID: M5920_S0060_G0290_001_a9s
+JP: 旧世界の情報か……
+EN: Old-world data, huh?
+RU: 
+
+

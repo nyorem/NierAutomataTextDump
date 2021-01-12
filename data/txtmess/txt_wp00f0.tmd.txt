@@ -1,0 +1,20 @@
+ID: PAUSE_WEAPONSTORY_00f0_01
+JP: エンジンブレード Lv1
+EN: 
+RU: 
+
+ID: PAUSE_WEAPONSTORY_00f0_02
+JP: エンジンブレード Lv2
+EN: 
+RU: 
+
+ID: PAUSE_WEAPONSTORY_00f0_03
+JP: エンジンブレード Lv3
+EN: 
+RU: 
+
+ID: PAUSE_WEAPONSTORY_00f0_04
+JP: エンジンブレード Lv4
+EN: 
+RU: 
+

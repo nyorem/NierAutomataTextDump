@@ -1,0 +1,46 @@
+-- Section 1
+
+ID: M1060_S0080_G0000_001_a9s
+JP: ２Ｂ。ここには沿岸防衛用の迎撃砲が敷設されています。
+EN: We've got mortars lining the shoreline here.
+RU: 
+
+ID: M1060_S0080_G0010_001_a9s
+JP: あの怪獣も、近距離からの物理砲弾ならＥＭＰの影響を受けずに、\nダメージを与えられる筈です！
+EN: All the EMP shielding in the world won't help against close-range mortar fire.
+RU: 
+
+ID: M1060_S0080_G0020_001_a2b
+JP: 了解。
+EN: Got it.
+RU: 
+
+ID: M1060_S0080_G0030_001_a9s
+JP: 僕が照準をアシストします！
+EN: I'll help aim!
+RU: 
+
+
+-- Section 2
+
+ID: M1060_S0080_G0040_001_a2b
+JP: くっ……敵の外壁が分厚すぎてこの砲弾じゃ……
+EN: Ngh... This thing's armor is too thick. We need more firepower.
+RU: 
+
+ID: M1060_S0080_G0050_001_a9s
+JP: ２B！敵の内部に直接攻撃をするんです！
+EN: 2B! Let's try for a more "direct" approach!
+RU: 
+
+ID: M1060_S0080_G0060_001_a2b
+JP: 直接……そうか！
+EN: Direct...? Oh, right!
+RU: 
+
+ID: M1060_S0080_G0070_001_a9s
+JP: そうです。奴の口の中に、砲弾を撃ちこんでやってください！
+EN: That's right! Lay down some fire in its stupid mouth!
+RU: 
+
+

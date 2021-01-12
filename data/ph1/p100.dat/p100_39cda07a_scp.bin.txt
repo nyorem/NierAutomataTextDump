@@ -1,0 +1,234 @@
+-- Section 1
+
+ID: M1020_S0020_G0000_001_a9s
+JP: 砂で滑りますね……
+EN: This sand sure is slippery.
+RU: 
+
+
+-- Section 2
+
+ID: M1020_S0020_G0020_001_n02
+JP: アン……ドロイ……ド
+EN: An...droid...
+RU: 
+
+ID: M1020_S0020_G0030_001_n02
+JP: サバ……ク
+EN: De...sert...
+RU: 
+
+ID: M1020_S0020_G0040_001_n02
+JP: コロ……ス
+EN: K-Kill...
+RU: 
+
+ID: M1020_S0020_G0050_001_n02
+JP: ニク……
+EN: Mee...meat...
+RU: 
+
+
+-- Section 3
+
+ID: M1020_S0020_G0060_001_a2b
+JP: 機械生命体が、言葉を……
+EN: These machines are...talking.
+RU: 
+
+ID: M1020_S0020_G0070_001_a9s
+JP: こういう個体も増えたってレジスタンスの人が言ってましたね。
+EN: Yeah, I heard from the Resistance that they've been seeing this a lot lately.
+RU: 
+
+ID: M1020_S0020_G0080_001_a9s
+JP: どうして最近になって増えたんだろう……？
+EN: Couldn't tell you why, though.
+RU: 
+
+
+-- Section 4
+
+ID: M1020_S0020_G0010_001_a9s
+JP: 敵の反応が近づきました。気をつけましょう。
+EN: Careful. We've got enemies approaching.
+RU: 
+
+
+-- Section 5
+
+ID: M1020_S0020_G0090_001_n02
+JP: アンド……ロイド……
+EN: And...roid...
+RU: 
+
+ID: M1020_S0020_G0100_001_n02
+JP: テキ……ハイジョ……
+EN: Ex...terminate...enemy...
+RU: 
+
+ID: M1020_S0020_G0110_001_n02
+JP: コワ……イ……
+EN: Sssss...cared...
+RU: 
+
+ID: M1020_S0020_G0120_001_n02
+JP: コワイ……テキ……
+EN: Enemy...scary...
+RU: 
+
+
+-- Section 6
+
+ID: M1020_S0020_G0140_001_a9s
+JP: 機械生命体にも、怖いっていう感情があるんでしょうか……
+EN: Do you think they even understand the concept of being scared?
+RU: 
+
+
+-- Section 7
+
+ID: M1020_S0020_G0160_001_n02
+JP: テキ……テキ……コロス……
+EN: Enemy... K-kill enemy...
+RU: 
+
+ID: M1020_S0020_G0170_001_n02
+JP: ドウシテ……
+EN: Whyyyy...
+RU: 
+
+ID: M1020_S0020_G0180_001_n02
+JP: イヤ……コナ……デ……
+EN: N-no... Stay...away...
+RU: 
+
+
+-- Section 8
+
+ID: M1020_S0020_G0190_001_a2b
+JP: こいつらは、なんで余計なものを身に着けてるんだ。
+EN: What's with the weird-looking outfits?
+RU: 
+
+ID: M1020_S0020_G0200_001_a9s
+JP: 昔、人間が着ていたものに感じが似ていますね。データで見たことがある。
+EN: I've seen that sort of thing when I was going through some old data. It looks like what humans used to wear long ago.
+RU: 
+
+ID: M1020_S0020_G0210_001_a9s
+JP: そういえば顔のペイントも……共同体特有の化粧みたいだ。
+EN: Certain human collectives used to use face paint like that, too.
+RU: 
+
+ID: M1020_S0020_G0220_001_a2b
+JP: 
+EN: 
+RU: 
+
+
+-- Section 9
+
+ID: M1020_S0020_G0230_001_n02
+JP: ヤダヨゥ……コワイ……ヨゥ……
+EN: Nooo... S-scared....
+RU: 
+
+ID: M1020_S0020_G0240_001_n02
+JP: ……ケ、テ……
+EN: ...elp...meeeee...
+RU: 
+
+
+-- Section 10
+
+ID: M1020_S0020_G0250_001_n02
+JP: タスケテ……！
+EN: Help...me...!
+RU: 
+
+ID: M1020_S0020_G0260_001_a2b
+JP: 
+EN: 
+RU: 
+
+
+-- Section 11
+
+ID: M1020_S0020_G0270_001_a9s
+JP: ２Ｂ！奴らの言葉に意味はありません。
+EN: 2B, it's fine. Their speech doesn't mean anything.
+RU: 
+
+ID: M1020_S0020_G0280_001_a9s
+JP: ランダムで単語を発声しているだけです。
+EN: They're just emitting words at random.
+RU: 
+
+ID: M1020_S0020_G0290_001_a9s
+JP: 大体、助けてって言いながら攻撃するなんて矛盾してるし……
+EN: If they wanted help, why would they be attacking us?
+RU: 
+
+ID: M1020_S0020_G0300_001_a2b
+JP: ……そうだね。
+EN: ...Yeah.
+RU: 
+
+
+-- Section 12
+
+ID: M1020_S0020_G0310_001_n02
+JP: キョウ　キノウ　コンニチハ
+EN: Today... Yesterday... Hello...
+RU: 
+
+
+-- Section 13
+
+ID: M1020_S0020_G0320_001_n02
+JP: コロス……コロシテ……
+EN: Kill... Kill...
+RU: 
+
+
+-- Section 14
+
+ID: M1020_S0020_G0330_001_n02
+JP: コワイ　ヤサシイ　ヤサイ　ニク
+EN: Scary... Kind... Veggie... Meat...
+RU: 
+
+
+-- Section 15
+
+ID: M1020_S0020_G0340_001_n02
+JP: 死ヌ　ニゲル　ニゲル　コワイ
+EN: Die... Run... Run... Scary...
+RU: 
+
+
+-- Section 16
+
+ID: M1020_S0020_G0350_001_a9s
+JP: あっちの岩場に逃げましたよ！
+EN: It's heading for that rocky area!
+RU: 
+
+
+-- Section 17
+
+ID: M1020_S0020_G0360_011_pod042
+JP: ターゲット個体識別信号をマーク
+EN: Individual target ID marked.
+RU: 
+
+
+-- Section 18
+
+ID: M1020_S0020_G0370_021_pod153
+JP: ターゲット個体識別信号をマーク
+EN: Individual target ID marked.
+RU: 
+
+

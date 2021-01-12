@@ -1,0 +1,420 @@
+-- Section 1
+
+ID: M5240_S0010_G0000_001_robophd
+JP: ふむ、このワタクシが天才発明家であると知って声をかけたのですかな？
+EN: Don't tell me—you heard tales of a genius inventor and came to see me straightaway, yes?
+RU: 
+
+ID: M5240_S0010_G0010_001_robophd
+JP: ああ、そうでしょう。そうでしょうとも。
+EN: Quite! I'm sure of it. Yes yes.
+RU: 
+
+ID: M5240_S0010_G0020_001_robophd
+JP: 我が名は天に轟き地に響く、唯一無二の大天才ですからね！
+EN: After all, I am the genius whose very name makes the earth itself tremble!
+RU: 
+
+ID: M5240_S0010_G0030_001_robophd
+JP: そんなワタクシに声をかけたあなたはお目が高い！
+EN: Coming to me for advice proves a keen mind and stout heart! Yes.
+RU: 
+
+ID: M5240_S0010_G0040_001_robophd
+JP: あなたが私に投資してくれれば、どんな発明品も思うがままです。
+EN: Why, if you invest but a little in my efforts, I shall provide you with all the desires of your imagining!
+RU: 
+
+ID: M5240_S0010_G0050_001_robophd
+JP: 投資していただけますかな？
+EN: Well then? Care you to invest in my life's work?
+RU: 
+
+ID: M5240_S0010_G0060_001_sele
+JP: はい。
+EN: Invest.
+RU: 
+
+ID: M5240_S0010_G0070_001_sele
+JP: いいえ。
+EN: Turn him down.
+RU: 
+
+
+-- Section 2
+
+ID: M5240_S0010_G0240_300_robophd
+JP: 現在、あなた様が投資して下さった金額は<_pool>Gでございます。
+EN: You have currently invested in me to the tune of <_pool> G.
+RU: 
+
+ID: M5240_S0010_G0240_001_robophd
+JP: この大天才の発明の為、是非ともご投資いただけませんか？
+EN: Would you possibly be able to invest in the inventions of the world's foremost genius?
+RU: 
+
+ID: M5240_S0010_G0060_001_sele
+JP: はい。
+EN: Invest.
+RU: 
+
+ID: M5240_S0010_G0070_001_sele
+JP: いいえ。
+EN: Turn him down.
+RU: 
+
+
+-- Section 3
+
+ID: M5240_S0030_G0130_001_robophd
+JP: おお、ワタクシに投資する気になりましたか？
+EN: Oh ho! Changed our mind about investing, have we?
+RU: 
+
+ID: M5240_S0030_G0140_001_robophd
+JP: なあに、たったの１０００００Ｇほどですよ。
+EN: Mind you, we're talking the meager amount of 100,000 G. Why, you can find that rolling about in the bottom of any beggar's cup!
+RU: 
+
+ID: M5240_S0030_G0020_001_sele
+JP: はい。
+EN: Invest.
+RU: 
+
+ID: M5240_S0030_G0030_001_sele
+JP: いいえ。
+EN: Turn him down.
+RU: 
+
+
+-- Section 4
+
+ID: M5240_S0030_G0210_001_robophd
+JP: 良ければ、火星の探査艇から持ち帰った資材をお売り致しますよ。
+EN: Still, all is not lost. I'll gladly sell you some of the materials the rocket carried back from that red and desolate planet.
+RU: 
+
+ID: M5240_S0010_G0120_001_robophd
+JP: 今後ともよろしくお願い申し上げます。
+EN: I look forward to a fruitful working relationship in the future! Quite!
+RU: 
+
+
+-- Section 5
+
+ID: M5240_S0010_G0130_001_robophd
+JP: ……チッ
+EN: ...Tch.
+RU: 
+
+ID: M5240_S0010_G0140_001_robophd
+JP: え？舌打ち？はは、滅相もございません。
+EN: ...Pardon? You accuse me of clicking my tongue in your general direction? Horrors! I would not! I would NEVER!
+RU: 
+
+ID: M5240_S0010_G0150_001_robophd
+JP: あなた様あってのワタクシですよ？
+EN: I, after all, am nothing without you. Is this not true?
+RU: 
+
+
+-- Section 6
+
+ID: M5240_S0030_G0080_001_robophd
+JP: お気持ちはありがたいのですが、お手持ちの資金が足りぬようです。
+EN: The heart is willing! But alas, the pocketbook is thin.
+RU: 
+
+ID: M5240_S0030_G0090_001_robophd
+JP: 残念です……
+EN: Truly a pity.
+RU: 
+
+
+-- Section 7
+
+ID: M5240_S0010_G0160_001_robophd
+JP: ご投資いただきありがとうございます！
+EN: A thousand thanks for your investment efforts.
+RU: 
+
+ID: M5240_S0010_G0170_001_robophd
+JP: ですが、投資額がいささか足りず、見返りの品のご用意は\n出来ませんでした……
+EN: However, I yet lack the budget I require, and so am unable to provide the promised material dividends.
+RU: 
+
+ID: M5240_S0010_G0180_001_robophd
+JP: またの機会がありましたら、よろしく頼みます。
+EN: Do let me know if you find another opportunity for us to do business together! Yes yes!
+RU: 
+
+
+-- Section 8
+
+ID: M5240_S0010_G0080_001_robophd
+JP: おお、ありがたき幸せ！恐悦至極にございます！！
+EN: Joy! Elation! I'd not thought myself capable of such.
+RU: 
+
+ID: M5240_S0010_G0090_001_robophd
+JP: ここだけの話、一定量投資していただければ、見返りも……
+EN: And just between you and I, know that if you provide enough of an investment, I'll be able to provide certain...dividends in return.
+RU: 
+
+ID: M5240_S0010_G0100_001_robophd
+JP: して、いかほど投資していただけるのでしょうか？
+EN: Now then! What care you to invest?
+RU: 
+
+ID: M5240_S0010_G0101_001_sele
+JP: １０G
+EN: 10 G
+RU: 
+
+ID: M5240_S0010_G0102_001_sele
+JP: １００Ｇ
+EN: 100 G
+RU: 
+
+ID: M5240_S0010_G0103_001_sele
+JP: ５００Ｇ
+EN: 500 G
+RU: 
+
+ID: M5240_S0010_G0104_001_sele
+JP: １０００Ｇ
+EN: 1000 G
+RU: 
+
+ID: M5240_S0010_G0105_001_sele
+JP: ２５００Ｇ
+EN: 2500 G
+RU: 
+
+ID: M5240_S0010_G0106_001_sele
+JP: ５０００Ｇ
+EN: 5000 G
+RU: 
+
+ID: M5240_S0010_G0107_001_sele
+JP: １００００Ｇ
+EN: 10,000 G
+RU: 
+
+ID: M5240_S0010_G0108_001_sele
+JP: ２００００Ｇ
+EN: 20,000 G
+RU: 
+
+ID: M5240_S0010_G0109_001_sele
+JP: 投資を止める。
+EN: Don't invest.
+RU: 
+
+
+-- Section 9
+
+ID: M5240_S0010_G0080_001_robophd
+JP: おお、ありがたき幸せ！恐悦至極にございます！！
+EN: Joy! Elation! I'd not thought myself capable of such.
+RU: 
+
+ID: M5240_S0010_G0100_001_robophd
+JP: して、いかほど投資していただけるのでしょうか？
+EN: Now then! What care you to invest?
+RU: 
+
+ID: M5240_S0010_G0101_001_sele
+JP: １０G
+EN: 10 G
+RU: 
+
+ID: M5240_S0010_G0102_001_sele
+JP: １００Ｇ
+EN: 100 G
+RU: 
+
+ID: M5240_S0010_G0103_001_sele
+JP: ５００Ｇ
+EN: 500 G
+RU: 
+
+ID: M5240_S0010_G0104_001_sele
+JP: １０００Ｇ
+EN: 1000 G
+RU: 
+
+ID: M5240_S0010_G0105_001_sele
+JP: ２５００Ｇ
+EN: 2500 G
+RU: 
+
+ID: M5240_S0010_G0106_001_sele
+JP: ５０００Ｇ
+EN: 5000 G
+RU: 
+
+ID: M5240_S0010_G0107_001_sele
+JP: １００００Ｇ
+EN: 10,000 G
+RU: 
+
+ID: M5240_S0010_G0108_001_sele
+JP: ２００００Ｇ
+EN: 20,000 G
+RU: 
+
+ID: M5240_S0010_G0109_001_sele
+JP: 投資を止める。
+EN: Don't invest.
+RU: 
+
+
+-- Section 10
+
+ID: M5240_S0010_G0200_001_robophd
+JP: ああ、残念ながら今回の発明で資金が枯渇してしまいました。
+EN: Alas, but sadly this staggering work of genius has exhausted my funding.
+RU: 
+
+ID: M5240_S0010_G0210_001_robophd
+JP: 新たな投資をしてくださいませんか？
+EN: Would you care to make a new investment in my efforts?
+RU: 
+
+ID: M5240_S0010_G0060_001_sele
+JP: はい。
+EN: Invest.
+RU: 
+
+ID: M5240_S0010_G0070_001_sele
+JP: いいえ。
+EN: Turn him down.
+RU: 
+
+
+-- Section 11
+
+ID: M5240_S0010_G0110_001_robophd
+JP: ありがとうございます！知者不惑とはまさにこのこと。
+EN: Very wise, very wise. A shrewd investor knows to strike when the iron is hot, eh?
+RU: 
+
+ID: M5240_S0010_G0120_001_robophd
+JP: 今後ともよろしくお願い申し上げます。
+EN: I look forward to a fruitful working relationship in the future! Quite!
+RU: 
+
+ID: M5240_S0010_G0190_001_robophd
+JP: 新たな発明品ですよ！さあ、見てください！！
+EN: Eureka! I've done it! Feast eyes and senses alike upon my new invention!
+RU: 
+
+
+-- Section 12
+
+ID: M5240_S0030_G0000_001_robophd
+JP: ああ、また資金が足りなくなってしまいました。今回の発明は厄介です。
+EN: Alack and woe, I find myself once again strapped for the proverbial coin of the realm.
+RU: 
+
+ID: M5240_S0030_G0010_001_robophd
+JP: どうでしょう？ここで思い切って１０００００Ｇほど投資していただけませんか？
+EN: What say you? Might you be willing to loosen your purse strings and aid me with the meager sum of 100,000 G?
+RU: 
+
+ID: M5240_S0030_G0020_001_sele
+JP: はい。
+EN: Invest.
+RU: 
+
+ID: M5240_S0030_G0030_001_sele
+JP: いいえ。
+EN: Turn him down.
+RU: 
+
+
+-- Section 13
+
+ID: M5240_S0030_G0100_001_robophd
+JP: ……残念ですな。
+EN: ...A pity.
+RU: 
+
+ID: M5240_S0030_G0110_001_robophd
+JP: このワタクシ一世一代の発明になるやもしれませんのに。
+EN: This was to be the foremost invention of our generation.
+RU: 
+
+ID: M5240_S0030_G0120_001_robophd
+JP: 後になって「あの時、投資しておけば良かった！」などと思わぬ事ですな。
+EN: I fear you may awaken one night with cold sweat upon your brow cursing your very name for your lack of investing foresight. Yes yes. A shame.
+RU: 
+
+
+-- Section 14
+
+ID: M5240_S0030_G0040_001_robophd
+JP: ほ、本当によろしいのですか？
+EN: Are you certain?
+RU: 
+
+ID: M5240_S0030_G0050_001_robophd
+JP: とうとう来た……
+EN: Then the time has come...
+RU: 
+
+ID: M5240_S0030_G0060_001_robophd
+JP: この天才が遂に一世一代の発明に取り掛かる時が来たのだ……！
+EN: Time for the foremost genius of his generation to perfect the greatest invention of the age!
+RU: 
+
+ID: M5240_S0030_G0070_001_robophd
+JP: よーし！やるよ！やりますよワタクシは！！
+EN: Right then, off to work. I just know I can make this happen!
+RU: 
+
+ID: M5240_S0030_G0145_001_telo
+JP: 一週間後……
+EN: One week later...
+RU: 
+
+ID: M5240_S0030_G0150_001_robophd
+JP: ようやく完成した、ワタクシの一世一代の発明品……
+EN: It is finally complete! The greatest invention of this or any generation!
+RU: 
+
+ID: M5240_S0030_G0160_001_robophd
+JP: ……になるはずだったのですが……失敗しました。
+EN: ...Or it was meant to be. Sadly, I have failed.
+RU: 
+
+ID: M5240_S0030_G0170_001_robophd
+JP: あれは、月に向かうロケット発射台として建造したのです。
+EN: It was meant to be a launch tower for sending rockets to the very moon itself!
+RU: 
+
+ID: M5240_S0030_G0180_001_robophd
+JP: 何とか宇宙までは達したものの、残念ながら月には到着しませんでした。
+EN: And while the craft it launched did soar into the lofty darkness of outer space, it regrettably did not reach the moon.
+RU: 
+
+ID: M5240_S0030_G0190_001_robophd
+JP: その代わりに火星に到着してしまったのですが……
+EN: ...Instead, it landed on Mars.
+RU: 
+
+ID: M5240_S0030_G0200_001_robophd
+JP: ああ、悔しい！この天才、初めての挫折です！！
+EN: It's all so damnably frustrating. I am the world's foremost genius, after all! Never before have I sipped the bitter brew of defeat!
+RU: 
+
+
+-- Section 15
+
+ID: M5240_S0010_G0185_001_telo
+JP: 二日後……
+EN: Two days later...
+RU: 
+
+

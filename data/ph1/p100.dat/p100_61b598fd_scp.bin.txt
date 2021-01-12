@@ -1,0 +1,180 @@
+-- Section 1
+
+ID: M1020_S0010_G0000_011_pod042
+JP: ポッド０４２からオペレーターへ。
+EN: Pod 042 to Operator.
+RU: 
+
+ID: M1020_S0010_G0010_011_pod042
+JP: レジスタンスリーダーより指定のあった場所の座標データを確認。
+EN: Coordinates confirmed for location specified by Resistance Leader.
+RU: 
+
+ID: M1020_S0010_G0020_011_op60
+JP: オペレーターよりポッド０４２へ。座標データ確認。
+EN: Understood, 042.
+RU: 
+
+ID: M1020_S0010_G0030_011_op60
+JP: 目標地点にマーカーをポイント。
+EN: Placing marker on target.
+RU: 
+
+
+-- Section 2
+
+ID: M1020_S0010_G0040_011_op60
+JP: 砂漠は気温が高く日差しも強いですから補給が難しくなります。
+EN: The desert heat is going to make resupply efforts difficult, 2B.
+RU: 
+
+ID: M1020_S0010_G0050_011_op60
+JP: ちゃんと準備してから行ってくださいね、２Bさん！
+EN: Please make sure you're ready before you go!
+RU: 
+
+
+-- Section 3
+
+ID: M1020_S0010_G0060_021_op210
+JP: オペレーターより９Ｓへ。
+EN: Operator to 9S.
+RU: 
+
+ID: M1020_S0010_G0070_021_op210
+JP: レジスタンスリーダーより指定のあった場所の座標データを転送します。
+EN: Transferring coordinate data for the location specified by Resistance Leader.
+RU: 
+
+
+-- Section 4
+
+ID: M1020_S0010_G0080_021_a9s
+JP: さすがオペレーターさん！仕事が早いですね～
+EN: Nice, Operator! You work fast.
+RU: 
+
+ID: M1020_S0010_G0090_021_op210
+JP: 無駄口を叩いていると不必要にエネルギー消費されます。
+EN: Mindless chatter drains energy, 9S.
+RU: 
+
+ID: M1020_S0010_G0100_021_op210
+JP: 作戦行動に関係の無い発言は控えてください。
+EN: Please keep your comments reserved for mission-related topics.
+RU: 
+
+ID: M1020_S0010_G0110_021_a9s
+JP: はあい。
+EN: Yeah, yeah.
+RU: 
+
+
+-- Section 5
+
+ID: M5920_S0090_G0000_001_human
+JP: 月面人類会議より地上で奮戦しているアンドロイド諸君に告げる。
+EN: The Council of Humanity has a message for all of our brave androids fighting on the surface.
+RU: 
+
+ID: M5920_S0090_G0010_001_human
+JP: 現在、機械生命体との戦闘は膠着状態にある。
+EN: Currently, our struggle against the machine lifeforms is at a stalemate.
+RU: 
+
+ID: M5920_S0090_G0020_001_human
+JP: 長期に渡る戦闘により諸君も疲弊している事だろう。
+EN: This battle has raged for far too long. I am sure all of you find the effort grueling.
+RU: 
+
+ID: M5920_S0090_G0030_001_human
+JP: だが諦めずに奮闘を続けて欲しい。
+EN: But now is not the time to give up. Now, more than ever, we must forge on.
+RU: 
+
+ID: M5920_S0090_G0040_001_human
+JP: 地球の奪還は、月面にいる数十万の人類の悲願なのだ。
+EN: Remember that several hundred thousand humans on the moon want nothing more than to return to Earth.
+RU: 
+
+ID: M5920_S0090_G0050_001_human
+JP: 人類に栄光あれ。
+EN: Glory to mankind.
+RU: 
+
+ID: M5920_S0090_G0060_001_a9s
+JP: ……人類会議の放送はいつも堅苦しいですね〜
+EN: Those Council broadcasts are always so stiff.
+RU: 
+
+
+-- Section 6
+
+ID: M1020_S0010_G0200_001_resi
+JP: リーダーから話は聞いてるよ。
+EN: Hey. Our leader told me all about you.
+RU: 
+
+ID: M1020_S0010_G0201_001_resi
+JP: 私の名前はジャッカス。よろしく。
+EN: Name's Jackass. Nice to meetcha.
+RU: 
+
+
+-- Section 7
+
+ID: M1020_S0010_G0210_001_resi
+JP: 砂漠の機械共を退治してくれるって？
+EN: I hear you're planning to take out all the machines in the desert?
+RU: 
+
+ID: M1020_S0010_G0211_001_resi
+JP: じゃあ、封鎖している入り口を開けなきゃね。
+EN: Guess that means we need to get that entrance open.
+RU: 
+
+ID: M1020_S0010_G0212_001_a9s
+JP: ええ……でも、どうしてこんな変な場所にいるんですか？
+EN: Looks like it. So, um, Jack...ass, was it?\nWhat are you doing all the way out here?
+RU: 
+
+ID: M1020_S0010_G0213_001_resi
+JP: ああ、これ？これはね……
+EN: Hmm? Oh, that. Well...
+RU: 
+
+
+-- Section 8
+
+ID: M1020_S0010_G0214_001_resi
+JP: 巻き込まれたら危ないよね？
+EN: Wouldn't want to have anyone getting tangled up in that, now, would we?
+RU: 
+
+ID: M1020_S0010_G0250_001_resi
+JP: ……あんまり無理しないようにね。
+EN: Don't go trying to be a hero, all right?
+RU: 
+
+
+-- Section 9
+
+ID: M1020_S0010_G0250_001_resi
+JP: ……あんまり無理しないようにね。
+EN: Don't go trying to be a hero, all right?
+RU: 
+
+
+-- Section 10
+
+ID: M1020_S0010_G0251_001_a9s
+JP: 封鎖しているゲートを爆発で開けるなんて……
+EN: Who opens a sealed gate with explosives?
+RU: 
+
+ID: M1020_S0010_G0252_001_a9s
+JP: 乱暴な人ですねぇ。
+EN: There's gotta be an easier way, right?
+RU: 
+
+

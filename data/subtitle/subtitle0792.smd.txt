@@ -1,0 +1,15 @@
+ID: M3000_S0400_H0000_001_a9s
+JP: ログデータのアップロードを完了！！
+EN: Log-data upload complete!
+RU: 
+
+ID: M3000_S0400_H0010_001_a2b
+JP: ９Ｓッ！！
+EN: 9S!
+RU: 
+
+ID: M3000_S0400_H0020_001_a2b
+JP: ……ッ！！
+EN:  
+RU: 
+

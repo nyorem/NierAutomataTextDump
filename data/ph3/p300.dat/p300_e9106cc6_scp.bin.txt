@@ -1,0 +1,252 @@
+-- Section 1
+
+ID: M3000_S0200_G0220_001_op60
+JP: ２Ｂさん。新たな敵の出現を確認しました。
+EN: 2B, we've sighted new enemies in the region.
+RU: 
+
+ID: M3000_S0200_G0230_001_op60
+JP: 部隊オメガが挟撃を受け苦戦中です。
+EN: They've got Attack Squadron Omega surrounded and are giving them one hell of a fight.
+RU: 
+
+ID: M3000_S0200_G0240_001_op60
+JP: 援護に向かってもらえますか？
+EN: Can you get over there and provide support ASAP?
+RU: 
+
+ID: M3000_S0200_G0250_001_a2b
+JP: 了解。
+EN: We're on it.
+RU: 
+
+ID: M3000_S0200_G0260_001_a9s
+JP: 思ったより、苦戦していますね。
+EN: Man, this is tougher than I thought it would be.
+RU: 
+
+ID: M3000_S0200_G0270_001_a2b
+JP: ……急がないと。
+EN: We need to hurry.
+RU: 
+
+
+-- Section 2
+
+ID: M3000_S0200_G0280_001_a2b
+JP: こちら遊撃部隊の２Ｂ。
+EN: This is unit 2B.
+RU: 
+
+ID: M3000_S0200_G0290_001_a2b
+JP: これより、部隊オメガを援護する。
+EN: We're in position to provide support for Attack Squadron Omega.
+RU: 
+
+ID: M3000_S0200_G0300_001_a8b
+JP: 援護感謝する。
+EN: Are we ever glad to see you!
+RU: 
+
+ID: M3000_S0200_G0310_001_a8b
+JP: いきなり囲まれて、苦戦していたところだ。
+EN: They came out of nowhere. We were fighting for our damn lives!
+RU: 
+
+
+-- Section 3
+
+ID: M3000_S0200_G0320_001_a2b
+JP: このままいけば勝てる……
+EN: If this keeps up, we can win.
+RU: 
+
+ID: M3000_S0200_G0330_001_a2b
+JP: ９Ｓ。さらに増援が来ないか、周辺を警戒して。
+EN: 9S? Scan the area to see if any reinforcements are on the way.
+RU: 
+
+ID: M3000_S0200_G0340_001_a9s
+JP: 了解。
+EN: You got it.
+RU: 
+
+
+-- Section 4
+
+ID: M3000_S0200_G0350_001_a2b
+JP: 何……この音？
+EN: What was that?
+RU: 
+
+
+-- Section 5
+
+ID: M3000_S0260_G0000_001_a9s
+JP: 大丈夫！？
+EN: Are you okay?
+RU: 
+
+ID: M3000_S0260_G0010_001_a2b
+JP: 油断……した。至近距離からのＥＭＰ……攻撃が……
+EN: Let...my guard down... EMP hit me point-blank...
+RU: 
+
+ID: M3000_S0260_G0020_001_a2b
+JP: 再起動……しないと。
+EN: I gotta...reboot...
+RU: 
+
+ID: M3000_S0260_G0030_001_a9s
+JP: 援護するっ！！
+EN: I'll provide backup!
+RU: 
+
+
+-- Section 6
+
+ID: M3000_S0260_G0040_001_a9s
+JP: し……視覚迷彩！？
+EN: They...they have visual camouflage!?
+RU: 
+
+ID: M3000_S0260_G0050_001_a9s
+JP: 一体、何がどうなってるんだ！
+EN: What the hell's going on here!?
+RU: 
+
+ID: M3000_S0260_G0060_001_a9s
+JP: ２Ｂは……僕が守る！
+EN: I have to protect 2B!
+RU: 
+
+
+-- Section 7
+
+ID: M3000_S0260_G0000_300_a9s
+JP: くそ！次から次へと……
+EN: Damn it! There's no end to them!
+RU: 
+
+ID: M3000_S0260_G0010_300_a9s
+JP: 早く倒して、２Ｂを助けないと！
+EN: I gotta finish 'em off and help 2B!
+RU: 
+
+
+-- Section 8
+
+ID: M3000_S0300_G0000_300_a2b
+JP: ぐ……ううっ……
+EN: Nnghn...
+RU: 
+
+ID: M3000_S0300_G0010_300_a9s
+JP: 大丈夫！？
+EN: You okay?
+RU: 
+
+ID: M3000_S0300_G0020_300_a9s
+JP: すぐにウィルスを除去するからがんばって！
+EN: I'll remove the virus right now. Hold on.
+RU: 
+
+
+-- Section 9
+
+ID: M3000_S0300_G0000_001_a9s
+JP: ウィルス汚染……さっきのＥＭＰ攻撃がトリガー！？
+EN: This viral attack... The EMP must have triggered it!?
+RU: 
+
+ID: M3000_S0300_G0010_001_a9s
+JP: なんとかしないと！
+EN: I gotta do something...
+RU: 
+
+
+-- Section 10
+
+ID: M3000_S0300_G0020_001_a9s
+JP: ２Ｂを助けないと……！
+EN: I have to save 2B!
+RU: 
+
+
+-- Section 11
+
+ID: M3000_S0320_G0000_001_a9s
+JP: 汚染されて……乗っ取られてる！？
+EN: They've been infected and taken over!
+RU: 
+
+ID: M3000_S0320_G0010_001_a2b
+JP: そんな……ッ！
+EN: No...
+RU: 
+
+ID: M3000_S0320_G0020_001_a2b
+JP: なっ！？
+EN: Wait, what!?
+RU: 
+
+ID: M3000_S0320_G0030_001_a2b
+JP: 攻撃機能が動かない……！
+EN: Attack functions aren't working!
+RU: 
+
+ID: M3000_S0320_G0040_001_a9s
+JP: ヨルハ部隊の識別信号だ！
+EN: That's because of their YoRHa IDs!
+RU: 
+
+ID: M3000_S0320_G0050_001_a9s
+JP: 僕が２Ｂをハッキングして識別回路を焼ききる！
+EN: 2B, I need to hack into you and fry your identification circuit!
+RU: 
+
+ID: M3000_S0320_G0060_001_a2b
+JP: お願い！
+EN: Do it!
+RU: 
+
+
+-- Section 12
+
+ID: M3000_S0320_G0000_300_a2b
+JP: ９Ｓ、識別回路を……このままじゃ、攻撃出来ない。
+EN: 9S, kill my identification circuit. I can't attack them like this.
+RU: 
+
+ID: M3000_S0320_G0020_300_a9s
+JP: はいっ！
+EN: Got it!
+RU: 
+
+
+-- Section 13
+
+ID: M5920_S0010_G0310_001_pod042
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+ID: M5920_S0010_G0320_001_pod042
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: 
+
+
+-- Section 14
+
+ID: M5920_S0020_G0310_001_pod153
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+ID: M5920_S0020_G0320_001_pod153
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: 
+
+

@@ -1,0 +1,23 @@
+-- Section 1
+
+ID: M5360_S0030_G0040_001_n02
+JP: 自分がソンザイする為には、強固な……
+EN: To exist, I must be strong...
+RU: 
+
+ID: M5360_S0030_G0050_001_n02
+JP: 誰かヲ破壊するだけでは承認サレナイ……
+EN: Merely destroying life will not win me approval...
+RU: 
+
+ID: M5360_S0030_G0060_001_n02
+JP: だがソレデハ……このセカイに我々ハ……
+EN: But if so...what use are we to the world...?
+RU: 
+
+ID: M5360_S0030_G0070_001_n02
+JP: 苦シイ……苦しい……
+EN: It is painful... So painful...
+RU: 
+
+

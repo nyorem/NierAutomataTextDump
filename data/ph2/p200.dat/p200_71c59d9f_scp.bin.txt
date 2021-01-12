@@ -1,0 +1,112 @@
+-- Section 1
+
+ID: M1050_S0195_S0000_201_telo
+JP: ４時間前
+EN: Four Hours Ago...
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0195_S0010_201_smallrobot
+JP: 王様、ちっとも大きくなんねぇなあ。
+EN: His Majesty hasn't grown at all.
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0195_S0020_201_smallrobot
+JP: そだな。王様、ちっとも大きくなんね。
+EN: No. Not in the slightest.
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0195_S0030_201_smallrobot
+JP: どうやったら大きくなる？
+EN: How can we make him bigger?
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0195_S0040_201_smallrobot
+JP: わかんね
+EN: I don't know...
+RU: 
+
+
+-- Section 6
+
+ID: M1050_S0195_S0050_201_smallrobot
+JP: ワシらは頭が悪いからな……
+EN: We're too dumb to figure that out.
+RU: 
+
+
+-- Section 7
+
+ID: M1050_S0195_S0060_201_smallrobot
+JP: でも、めんこいなあ、王様。
+EN: Sure is a cutie, though!
+RU: 
+
+
+-- Section 8
+
+ID: M1050_S0195_S0070_201_smallrobot
+JP: ああ、ちっちゃくて、めんこいなあ……
+EN: Yeah! So tiny and cute!
+RU: 
+
+
+-- Section 9
+
+ID: M1050_S0195_S0080_201_smallrobot
+JP: 守ってやんなきゃな……
+EN: We'd better keep him safe.
+RU: 
+
+
+-- Section 10
+
+ID: M1050_S0195_S0090_201_smallrobot
+JP: ああ……この森の国には、誰もいれちゃなんね……
+EN: Right. Can't let anyone into the forest kingdom...
+RU: 
+
+
+-- Section 11
+
+ID: M1050_S0195_S0100_201_smallrobot
+JP: たっ……大変だ！
+EN: D-Danger! Danger!
+RU: 
+
+
+-- Section 12
+
+ID: M1050_S0195_S0110_201_smallrobot
+JP: みんな！きてけろ！
+EN: Everyone get out now!
+RU: 
+
+
+-- Section 13
+
+ID: M1050_S0195_S0120_201_smallrobot
+JP: ヨソ者が、王国に入ってきただ！
+EN: Intruders in the kingdom!
+RU: 
+
+
+-- Section 14
+
+ID: M1050_S0195_S0130_201_smallrobot
+JP: ここに入れちゃなんねぇ！
+EN: Don't let them in here!
+RU: 
+
+

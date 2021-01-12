@@ -1,0 +1,315 @@
+-- Section 1
+
+ID: M1010_S0030_G0000_001_a2b
+JP: ９Ｓ……
+EN: 9S...
+RU: 
+
+ID: M1010_S0030_G0010_001_a9s
+JP: 司令官からの命令で、\n２Ｂさんのメンテナンスを担当する事になったんです。
+EN: The Commander's put me in charge of your maintenance, ma'am.
+RU: 
+
+ID: M1010_S0030_G0020_001_a9s
+JP: これから定期的にチェックしますね。
+EN: That means I'll be performing regular checks on you from now on.
+RU: 
+
+ID: M1010_S0030_G0030_001_a2b
+JP: ……そう。
+EN: ...I see.
+RU: 
+
+ID: M1010_S0030_G0040_001_a9s
+JP: 心配は要りませんよ？僕達９Ｓモデルは優秀な事で有名ですから。
+EN: Oh, don't worry. We 9S models are the best around, you know.
+RU: 
+
+ID: M1010_S0030_G0050_001_a9s
+JP: ……って自分で言う事じゃないか。
+EN: Though I suppose we're not exactly known for our modesty.
+RU: 
+
+ID: M1010_S0030_G0060_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M1010_S0030_G0061_001_a2b
+JP: ……９Ｓ。
+EN: ...9S.
+RU: 
+
+ID: M1010_S0030_G0062_001_a9s
+JP: え？なんでしょう？
+EN: Hm? What is it, ma'am?
+RU: 
+
+ID: M1010_S0030_G0063_001_a2b
+JP: 敬称は要らない。
+EN: Stop calling me "ma'am."
+RU: 
+
+ID: M1010_S0030_G0064_001_a9s
+JP: え？
+EN: Huh?
+RU: 
+
+ID: M1010_S0030_G0065_001_a2b
+JP: ……私の名前に『さん』は付けなくていい。
+EN: There's no need to be so formal.
+RU: 
+
+ID: M1010_S0030_G0066_001_a9s
+JP: は、はい……分かりました。
+EN: A-All right. If you say so.
+RU: 
+
+ID: M1010_S0030_G0070_001_a9s
+JP: ……あ、そうだ。
+EN: Oh, I almost forgot—
+RU: 
+
+ID: M1010_S0030_G0080_001_a9s
+JP: 司令官が呼んでたから一緒に行きましょう。
+EN: The Commander was calling for you.
+RU: 
+
+ID: M1010_S0030_G0085_001_a9s
+JP: ２Ｂさ……いえ、２Ｂ。
+EN: We'd better go see what's up, ma—er, 2B!
+RU: 
+
+
+-- Section 2
+
+ID: M1010_S0030_G0000_001_a2b
+JP: ９Ｓ……
+EN: 9S...
+RU: 
+
+ID: M1010_S0030_G0010_001_a9s
+JP: 司令官からの命令で、\n２Ｂさんのメンテナンスを担当する事になったんです。
+EN: The Commander's put me in charge of your maintenance, ma'am.
+RU: 
+
+ID: M1010_S0030_G0020_001_a9s
+JP: これから定期的にチェックしますね。
+EN: That means I'll be performing regular checks on you from now on.
+RU: 
+
+ID: M1010_S0030_G0030_001_a2b
+JP: ……そう。
+EN: ...I see.
+RU: 
+
+ID: M1010_S0030_G0040_001_a9s
+JP: 心配は要りませんよ？僕達９Ｓモデルは優秀な事で有名ですから。
+EN: Oh, don't worry. We 9S models are the best around, you know.
+RU: 
+
+ID: M1010_S0030_G0050_001_a9s
+JP: ……って自分で言う事じゃないか。
+EN: Though I suppose we're not exactly known for our modesty.
+RU: 
+
+ID: M1010_S0030_G0060_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M1010_S0030_G0061_001_a2b
+JP: ……９Ｓ。
+EN: ...9S.
+RU: 
+
+ID: M1010_S0030_G0062_001_a9s
+JP: え？なんでしょう？
+EN: Hm? What is it, ma'am?
+RU: 
+
+ID: M1010_S0030_G0063_001_a2b
+JP: 敬称は要らない。
+EN: Stop calling me "ma'am."
+RU: 
+
+ID: M1010_S0030_G0064_001_a9s
+JP: え？
+EN: Huh?
+RU: 
+
+ID: M1010_S0030_G0065_001_a2b
+JP: ……私の名前に『さん』は付けなくていい。
+EN: There's no need to be so formal.
+RU: 
+
+ID: M1010_S0030_G0066_001_a9s
+JP: は、はい……分かりました。
+EN: A-All right. If you say so.
+RU: 
+
+ID: M1010_S0030_G0070_001_a9s
+JP: ……あ、そうだ。
+EN: Oh, I almost forgot—
+RU: 
+
+ID: M1010_S0030_G0080_001_a9s
+JP: 司令官が呼んでたから一緒に行きましょう。
+EN: The Commander was calling for you.
+RU: 
+
+ID: M1010_S0030_G0085_001_a9s
+JP: ２Ｂさ……いえ、２Ｂ。
+EN: We'd better go see what's up, ma—er, 2B!
+RU: 
+
+
+-- Section 3
+
+ID: M1010_S0030_G0090_001_cmd
+JP: ああ、２Ｂか。
+EN: Ah, 2B.
+RU: 
+
+ID: M1010_S0030_G0100_001_cmd
+JP: メンテナンスは終わったのか？
+EN: Maintenance finished?
+RU: 
+
+ID: M1010_S0030_G0110_001_a2b
+JP: はい。
+EN: Yes, Commander.
+RU: 
+
+ID: M1010_S0030_G0120_001_cmd
+JP: ブラックボックスの暴走による敵殲滅……
+EN: You detonated your black box in order to defeat the enemy.
+RU: 
+
+ID: M1010_S0030_G0130_001_cmd
+JP: あまり無茶をするなよ。
+EN: Bold, but risky. Try not to be so reckless next time.
+RU: 
+
+ID: M1010_S0030_G0140_001_a2b
+JP: ……はい。
+EN: Understood.
+RU: 
+
+ID: M1010_S0030_G0150_001_cmd
+JP: メンテナンス明けで悪いが、任務がある。
+EN: I know you're fresh out of maintenance, but I have another mission for you.
+RU: 
+
+ID: M1010_S0030_G0160_001_cmd
+JP: 地上にいるレジスタンス達と合流し、情報収集をしてくれ。
+EN: I need you to head to the surface, rendezvous with the Resistance, and do some recon.
+RU: 
+
+ID: M1010_S0030_G0170_001_a9s
+JP: あれ？レジスタンスとの連絡役には\n別のヨルハ部隊員がアサインされていたんじゃ……
+EN: Doesn't YoRHa have a dedicated Resistance contact already?
+RU: 
+
+ID: M1010_S0030_G0180_001_cmd
+JP: 先任の担当者とは連絡が取れていない。
+EN: We haven't been able to get in touch with them.
+RU: 
+
+ID: M1010_S0030_G0190_001_cmd
+JP: その原因究明も兼ねて、現地調査を頼みたい。
+EN: So we'll need you to look into that as well.
+RU: 
+
+ID: M1010_S0030_G0200_001_a2b
+JP: 了解しました。
+EN: Understood.
+RU: 
+
+
+-- Section 4
+
+ID: M1010_S0030_G0210_001_a9s
+JP: 地上……って事は飛行ユニットで移動ですね。
+EN: The surface? That means we'll be getting flight units, huh?
+RU: 
+
+ID: M1010_S0030_G0220_001_a9s
+JP: 格納庫に行きましょう。
+EN: Better head for the hangar!
+RU: 
+
+ID: M1010_S0030_G0230_001_a9s
+JP: 飛行ユニットの運用コストは高いから\nあんまり使わせてもらえないんですよね……
+EN: Heh. Usually we can't get NEAR flight units. They're way too expensive for us grunts.
+RU: 
+
+ID: M1010_S0030_G0240_001_a9s
+JP: もっと安い機体を生産すればいいのになぁ。
+EN: Too bad they can't mass-produce these things yet...
+RU: 
+
+
+-- Section 5
+
+ID: M1010_S0030_G0000_300_a9s
+JP: この先が格納庫ですね。\n行きましょう。
+EN: The hangar's up ahead. Let's go.
+RU: 
+
+
+-- Section 6
+
+ID: M1010_S0030_G0020_300_a9s
+JP: ２Ｂさん、携行品は足りてますか？\nもし足りなければ、自室にある端末から補給してくださいね
+EN: Are you carrying enough supplies on you? If not, you can always use the terminal in your room to replenish them.
+RU: 
+
+
+-- Section 7
+
+ID: M1010_S0030_G0030_300_a9s
+JP: そういえば……携行品は足りてたかな？
+EN: Come to think of it, do we have enough supplies?
+RU: 
+
+ID: M1010_S0030_G0040_300_a2b
+JP: そこで補給してきたらどう？
+EN: What say we go stock up over there?
+RU: 
+
+
+-- Section 8
+
+ID: M1010_S0030_G0060_300_a9s
+JP: ここ、僕の部屋なんですよ\nいつでも好きな時に遊びに来てくださいね
+EN: This here's my room. Feel free to swing by whenever you want!
+RU: 
+
+ID: M1010_S0030_G0070_300_a9s
+JP: まぁ、何もないですけど
+EN: Not that there's much to do here...
+RU: 
+
+
+-- Section 9
+
+ID: M1010_S0030_G0080_300_a2b
+JP: 何か忘れ物でもしたの？
+EN: Is there something you forgot?
+RU: 
+
+
+-- Section 10
+
+ID: M5920_S0040_G0000_001_a9s
+JP: データをセーブするには、アクセスポイントに近い場所じゃないと\n出来ません。
+EN: You need to be near an access point to save your data.
+RU: 
+
+ID: M5920_S0040_G0010_001_a9s
+JP: 近距離マップで確認して、こまめにセーブしましょう。
+EN: You can see access points on the close-range map. Be sure to save often!
+RU: 
+
+

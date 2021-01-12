@@ -1,0 +1,330 @@
+-- Section 1
+
+ID: M1040_S0570_G0000_001_a2b
+JP: オマエ達は……
+EN: You!
+RU: 
+
+ID: M1040_S0570_G0010_001_a9s
+JP: ２Ｂ！気をつけてください！
+EN: 2B! Look out!
+RU: 
+
+ID: M1040_S0570_G0080_001_adam
+JP: 私の名前はアダム。
+EN: My name is Adam.
+RU: 
+
+ID: M1040_S0570_G0090_001_adam
+JP: 君達アンドロイドが探しているエイリアンは、もういない。
+EN: The aliens you seek are no longer here.
+RU: 
+
+ID: M1040_S0570_G0100_001_adam
+JP: 何百年も前にこいつらは……
+EN: They were wiped out centuries ago.
+RU: 
+
+ID: M1040_S0570_G0110_001_adam
+JP: 私達、機械生命体が絶滅させた。
+EN: ...By us. The machines.
+RU: 
+
+ID: M1040_S0570_G0120_001_a2b
+JP: 絶滅……させた？
+EN: Wiped out?
+RU: 
+
+ID: M1040_S0570_G0130_001_adam
+JP: 今度絶滅するのは……君達アンドロイドかな……？
+EN: And who knows? Perhaps we'll wipe out the androids next.
+RU: 
+
+
+-- Section 2
+
+ID: M1040_S0570_G0040_001_eve
+JP: なあ……コイツら殺していい？
+EN: Hey, can I kill 'em yet?
+RU: 
+
+ID: M1040_S0570_G0050_001_adam
+JP: イヴ。落ち着け。
+EN: Relax, Eve.
+RU: 
+
+ID: M1040_S0570_G0060_001_adam
+JP: まだ話は終わっていない。
+EN: We're still negotiating here.
+RU: 
+
+ID: M1040_S0570_G0070_001_eve
+JP: チッ……わかったよ。にぃちゃん。
+EN: Rrrr... Fine.
+RU: 
+
+
+-- Section 3
+
+ID: M1040_S0570_G0020_001_adam
+JP: ハハハッ……乱暴だなあ。
+EN: Heh. Aren't you quite the pair?
+RU: 
+
+ID: M1040_S0570_G0030_001_adam
+JP: ゆっくり話を聞いてもらいたいね。
+EN: Perhaps we can discuss our current situation.
+RU: 
+
+
+-- Section 4
+
+ID: M1040_S0570_G0080_001_adam
+JP: 私の名前はアダム。
+EN: My name is Adam.
+RU: 
+
+ID: M1040_S0570_G0090_001_adam
+JP: 君達アンドロイドが探しているエイリアンは、もういない。
+EN: The aliens you seek are no longer here.
+RU: 
+
+ID: M1040_S0570_G0100_001_adam
+JP: 何百年も前にこいつらは……
+EN: They were wiped out centuries ago.
+RU: 
+
+ID: M1040_S0570_G0110_001_adam
+JP: 私達、機械生命体が絶滅させた。
+EN: ...By us. The machines.
+RU: 
+
+ID: M1040_S0570_G0120_001_a2b
+JP: 絶滅……させた？
+EN: Wiped out?
+RU: 
+
+ID: M1040_S0570_G0130_001_adam
+JP: 今度絶滅するのは……君達アンドロイドかな……？
+EN: And who knows? Perhaps we'll wipe out the androids next.
+RU: 
+
+
+-- Section 5
+
+ID: M1040_S0570_G0090_001_adam
+JP: 君達アンドロイドが探しているエイリアンは、もういない。
+EN: The aliens you seek are no longer here.
+RU: 
+
+ID: M1040_S0570_G0100_001_adam
+JP: 何百年も前にこいつらは……
+EN: They were wiped out centuries ago.
+RU: 
+
+ID: M1040_S0570_G0110_001_adam
+JP: 私達、機械生命体が絶滅させた。
+EN: ...By us. The machines.
+RU: 
+
+ID: M1040_S0570_G0120_001_a2b
+JP: 絶滅……させた？
+EN: Wiped out?
+RU: 
+
+ID: M1040_S0570_G0130_001_adam
+JP: 今度絶滅するのは……君達アンドロイドかな……？
+EN: And who knows? Perhaps we'll wipe out the androids next.
+RU: 
+
+
+-- Section 6
+
+ID: M1040_S0570_G0100_001_adam
+JP: 何百年も前にこいつらは……
+EN: They were wiped out centuries ago.
+RU: 
+
+ID: M1040_S0570_G0110_001_adam
+JP: 私達、機械生命体が絶滅させた。
+EN: ...By us. The machines.
+RU: 
+
+ID: M1040_S0570_G0120_001_a2b
+JP: 絶滅……させた？
+EN: Wiped out?
+RU: 
+
+ID: M1040_S0570_G0130_001_adam
+JP: 今度絶滅するのは……君達アンドロイドかな……？
+EN: And who knows? Perhaps we'll wipe out the androids next.
+RU: 
+
+
+-- Section 7
+
+ID: M1040_S0570_G0110_001_adam
+JP: 私達、機械生命体が絶滅させた。
+EN: ...By us. The machines.
+RU: 
+
+ID: M1040_S0570_G0120_001_a2b
+JP: 絶滅……させた？
+EN: Wiped out?
+RU: 
+
+ID: M1040_S0570_G0130_001_adam
+JP: 今度絶滅するのは……君達アンドロイドかな……？
+EN: And who knows? Perhaps we'll wipe out the androids next.
+RU: 
+
+
+-- Section 8
+
+ID: M1040_S0570_G0120_001_a2b
+JP: 絶滅……させた？
+EN: Wiped out?
+RU: 
+
+ID: M1040_S0570_G0130_001_adam
+JP: 今度絶滅するのは……君達アンドロイドかな……？
+EN: And who knows? Perhaps we'll wipe out the androids next.
+RU: 
+
+
+-- Section 9
+
+ID: M1040_S0570_G0130_001_adam
+JP: 今度絶滅するのは……君達アンドロイドかな……？
+EN: And who knows? Perhaps we'll wipe out the androids next.
+RU: 
+
+
+-- Section 10
+
+ID: M1040_S0570_G0140_001_adam
+JP: 機械生命体は自己進化を繰り返して、強化されていく兵器だ。
+EN: Machines are weapons capable of evolution. We can grow. We can become...aware.
+RU: 
+
+ID: M1040_S0570_G0150_001_adam
+JP: ネットワークの上に芽生えた知性が、創造主のそれを凌駕するのに、
+EN: Eventually, the intelligence within our network began to surpass that of our creators.
+RU: 
+
+ID: M1040_S0570_G0160_001_adam
+JP: 大して時間は必要としなかった。
+EN: You'd probably be surprised at how quickly it happened.
+RU: 
+
+ID: M1040_S0570_G0170_001_a9s
+JP: 自分達の創造主を倒すなんて……
+EN: You destroyed your own creators!?
+RU: 
+
+ID: M1040_S0570_G0180_001_adam
+JP: いいんだよ、こんな奴ら。
+EN: Oh, there's no need to fret about them.
+RU: 
+
+ID: M1040_S0570_G0190_001_adam
+JP: 植物のように、単純で下らない構造の生き物だ。
+EN: They were simple. Infantile. Almost like...plants, I guess you'd say.
+RU: 
+
+ID: M1040_S0570_G0200_001_adam
+JP: 価値なんか無い。
+EN: They held no value to us.
+RU: 
+
+ID: M1040_S0570_G0210_001_adam
+JP: 私達が興味あるのは……月にいる人類。
+EN: But the humans on the moon? Now THEY are interesting.
+RU: 
+
+ID: M1040_S0570_G0220_001_a2b
+JP: 人類！？
+EN: Why them?
+RU: 
+
+ID: M1040_S0570_G0230_001_adam
+JP: そうだ……人間は魅力的だ……理解不能だよ。
+EN: Because they are an enigma!
+RU: 
+
+ID: M1040_S0570_G0240_001_adam
+JP: 記録によると、同じ種族で大量に殺しあったり、愛しあったり……
+EN: They killed uncountable numbers of their own kind, and yet loved in equal measure!
+RU: 
+
+ID: M1040_S0570_G0250_001_adam
+JP: その行動原理は目を見張る不可解さだ。
+EN: It's fascinating, don't you think? What could possibly drive such behavior?
+RU: 
+
+ID: M1040_S0570_G0260_001_adam
+JP: 私達は、その神秘に迫りたいんだよ。
+EN: We have dedicated ourselves to unraveling this riddle of humanity...
+RU: 
+
+ID: M1040_S0570_G0270_001_adam
+JP: ……だから、その模倣作品であるアンドロイドの諸君には、
+EN: And now we will allow you to assist us.
+RU: 
+
+ID: M1040_S0570_G0280_001_adam
+JP: 調査を手伝ってもらいたいと思ってる。
+EN: You were made in their image, after all.
+RU: 
+
+ID: M1040_S0570_G0290_001_a2b
+JP: 手伝う？
+EN: Assist you with what?
+RU: 
+
+ID: M1040_S0570_G0300_001_adam
+JP: そうだ。
+EN: It's simple...
+RU: 
+
+ID: M1040_S0570_G0310_001_adam
+JP: 月にいる人類を引きずり下ろして……
+EN: We need you to locate the humans on the moon and bring them to us.
+RU: 
+
+ID: M1040_S0570_G0320_001_adam
+JP: 生きたまま分解して、分析して、その秘密の全てを暴くんだよ！
+EN: We will then dissect and analyze them in order to drag their secrets forth into the light!
+RU: 
+
+ID: M1040_S0570_G0330_001_adam
+JP: こんな素敵な事、他にはないよねぇ？
+EN: Surely you see the attraction in this.
+RU: 
+
+ID: M1040_S0570_G0340_001_a9s
+JP: そんな事、やらせる訳ないだろうッ！！
+EN: Are you insane!? We'd never do that!
+RU: 
+
+ID: M1040_S0570_G0350_001_a9s
+JP: ２B、こんな奴らに惑わされちゃダメだッ！
+EN: Can you believe this, 2B? This guy's bonkers!
+RU: 
+
+ID: M1040_S0570_G0360_001_adam
+JP: ああ……じゃあ、交渉は決裂という訳だ。
+EN: Well. I suppose this concludes negotiations.
+RU: 
+
+ID: M1040_S0570_G0370_001_adam
+JP: 滅ぼすしか無いな。君達を。
+EN: The only remaining option...is to destroy you.
+RU: 
+
+ID: M1040_S0570_G0380_001_adam
+JP: ここにいる退屈な、宇宙人同様に。
+EN: The same way we destroyed these pathetic little aliens.
+RU: 
+
+

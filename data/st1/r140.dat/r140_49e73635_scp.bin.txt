@@ -1,0 +1,215 @@
+-- Section 1
+
+ID: M5802_S0010_G0030_001_robomother
+JP: お願いシマス！何度もスミマセンガ、どうか助けてくれマセンカ？
+EN: I'm so ashamed to be in this position, but would you mind helping me one more time?
+RU: 
+
+ID: M5802_S0010_G0040_001_sele
+JP: 助ける。
+EN: Help the mother.
+RU: 
+
+ID: M5802_S0010_G0050_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5802_S0010_G0070_001_robomother
+JP: 引きこもってシマッタ息子を、助けてくれるんですか？
+EN: Will you please help my son? He's locked himself inside yet again.
+RU: 
+
+ID: M5802_S0010_G0040_001_sele
+JP: 助ける。
+EN: Help the mother.
+RU: 
+
+ID: M5802_S0010_G0050_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 3
+
+ID: M5802_S0010_G0000_001_robomother
+JP: アア、優しいアンドロイドさん！実はその……\nマタ息子が引きこもりになってシマッテ。
+EN: Hello, my android friend. I can't believe I have to say this, but it seems my son has locked hims—
+RU: 
+
+ID: M5802_S0010_G0010_001_a9s
+JP: ええっ……また？
+EN: AGAIN!?
+RU: 
+
+ID: M5802_S0010_G0020_001_robomother
+JP: 気になるコに会ってしばらくは元気だったのですが、昨日から突然……
+EN: He was doing so well! He even talked to that girl he liked! But yesterday, he had some sort of relapse.
+RU: 
+
+
+-- Section 4
+
+ID: M5802_S0010_G0080_001_a9s
+JP: 仕方ないな。
+EN: Fine, whatever.
+RU: 
+
+ID: M5802_S0010_G0100_001_robochild
+JP: フフ、今回のはかなりの自信作ダカラネ。
+EN: Hee hee! You're going to love this one!
+RU: 
+
+ID: M5802_S0010_G0110_001_a9s
+JP: 引きこもる術を誇ってどうするんだよ。それより、気になる子と\n仲良くなるんじゃなかったのか？
+EN: You shouldn't be proud of hiding from the world! Besides, I thought you had a girlfriend.
+RU: 
+
+ID: M5802_S0010_G0120_001_robochild
+JP: ……クリアしたら教えてヤルヨ。
+EN: Maaaaaybe. But I'll tell you if you get my lock open!
+RU: 
+
+ID: M5802_S0010_G0130_001_a9s
+JP: わかったわかった……
+EN: This is so stupid...
+RU: 
+
+
+-- Section 5
+
+ID: M5802_S0010_G0060_001_robomother
+JP: そうデスヨネ。いい加減、もう見切りもつけたくナリマスヨネ……
+EN: I understand. You must be so tired of coming to my rescue like this.
+RU: 
+
+
+-- Section 6
+
+ID: M5800_S0010_G0100_001_robomother
+JP: どうかこの扉を開けて、中に入る息子を引きずり出してクダサイ！
+EN: Get this door open and drag my good-for-nothing son out here this instant!
+RU: 
+
+
+-- Section 7
+
+ID: M5800_S0010_G0190_001_a9s
+JP: クソッ……意外と手強いな。
+EN: ...Damn. That lock's stronger than I thought.
+RU: 
+
+
+-- Section 8
+
+ID: M5802_S0010_G0140_001_robochild
+JP: ……負ケタ。
+EN: You win!
+RU: 
+
+
+-- Section 9
+
+ID: M5802_S0010_G0150_001_robomother
+JP: モウ、あんたって子は！マタ迷惑をかけて。何で引きこもっタノ！？
+EN: Do you even know how much trouble you've caused for everyone, young man? ...Well!? Do you!?
+RU: 
+
+
+-- Section 10
+
+ID: M5802_S0010_G0160_001_a9s
+JP: 僕も理由を知りたいな。クリアしたら教えるって言ったよね？
+EN: Okay kid, spill it. What's your deal?
+RU: 
+
+
+-- Section 11
+
+ID: M5802_S0010_G0170_001_robochild
+JP: ……これでも、頑張ったンダ。
+EN: I've been trying, okay?
+RU: 
+
+ID: M5802_S0010_G0180_001_robochild
+JP: 外に出テみんなと話をシテ……あのコとも頑張って話シタ。楽しカッタヨ。
+EN: I went out and talked to everyone I saw. I even talked to the girl I liked! It was...fun.
+RU: 
+
+ID: M5802_S0010_G0190_001_robochild
+JP: デモ、それは最初ダケダ。次第に、空気を読みナガラ会話する事に\n疲れてシマッテ……
+EN: But then it got hard, 'cause you can't just talk to people, you know? You have to read between the lines and stuff.
+RU: 
+
+
+-- Section 12
+
+ID: M5802_S0010_G0200_001_robochild
+JP: そうして悟ったンダ。引きこもって他人と接触しナイ事が、\n一番楽だという事ニネ！
+EN: So I kinda decided that staying inside was way easier.
+RU: 
+
+ID: M5802_S0010_G0210_001_robochild
+JP: ボクはコレから最強の引きこもりを目指ス。ソレが今の僕の夢ダ！
+EN: But I have a dream now—I'm gonna be the best shut-in I can possibly be!
+RU: 
+
+ID: M5802_S0010_G0220_001_robochild
+JP: 今回は破られたケド、今度ハ絶対に破られナイ電子ロックを開発して\nミセルカラネッ
+EN: Next time, I'm gonna make a lock you won't be able to break in a bajillion quintillion years!
+RU: 
+
+
+-- Section 13
+
+ID: M5802_S0010_G0230_001_robomother
+JP: ああっ……なんて立派なコトを言うヨウニなったのカシラ……
+EN: Will you listen to my darling boy? He has a goal now! How wonderful!
+RU: 
+
+ID: M5802_S0010_G0240_001_robomother
+JP: これも貴方のおかげです。ありがとうございました！
+EN: And it's all thanks to you!
+RU: 
+
+ID: M5802_S0010_G0250_001_a9s
+JP: う……うん。良かったね。
+EN: D-don't mention it...
+RU: 
+
+ID: M5802_S0010_G0260_001_a9s
+JP: ……全然解決してない気がするけど。
+EN: Why do I have the feeling we're back to square one?
+RU: 
+
+
+-- Section 14
+
+ID: M5802_S0010_G0230_001_robomother
+JP: ああっ……なんて立派なコトを言うヨウニなったのカシラ……
+EN: Will you listen to my darling boy? He has a goal now! How wonderful!
+RU: 
+
+ID: M5802_S0010_G0240_001_robomother
+JP: これも貴方のおかげです。ありがとうございました！
+EN: And it's all thanks to you!
+RU: 
+
+
+-- Section 15
+
+ID: M5802_S0010_G0210_001_robochild
+JP: ボクはコレから最強の引きこもりを目指ス。ソレが今の僕の夢ダ！
+EN: But I have a dream now—I'm gonna be the best shut-in I can possibly be!
+RU: 
+
+ID: M5802_S0010_G0220_001_robochild
+JP: 今回は破られたケド、今度ハ絶対に破られナイ電子ロックを開発して\nミセルカラネッ
+EN: Next time, I'm gonna make a lock you won't be able to break in a bajillion quintillion years!
+RU: 
+
+

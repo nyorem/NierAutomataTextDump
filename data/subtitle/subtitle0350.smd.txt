@@ -1,0 +1,20 @@
+ID: M1040_S0580_H0000_001_adam
+JP: そろそろ時間だ。
+EN: Time grows short.
+RU: 
+
+ID: M1040_S0580_H0010_001_adam
+JP: これが、私達の創造主の末路……
+EN: This here...this is the fate that befell our creators.
+RU: 
+
+ID: M1040_S0580_H0020_001_eve
+JP: オマエ達が信じる人間は、どうかな？
+EN: As for your beloved humans...I guess we'll see, won't we?
+RU: 
+
+ID: M1040_S0580_H0030_001_a9s
+JP: 逃げられた……
+EN: They're gone...
+RU: 
+

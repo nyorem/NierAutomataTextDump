@@ -1,0 +1,453 @@
+-- Section 1
+
+ID: M6010_S0030_G0000_300_cmd
+JP: 地上からの連絡はどんな些細なことでも構わん、すぐに報告しろ！
+EN: No matter how trivial it seems, report back any information from Earth at once!
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0030_G0010_300_cmd
+JP: ……お前達、こんなところで何をしている？
+EN: What are you doing here?
+RU: 
+
+ID: M6010_S0030_G0020_300_cmd
+JP: 緊急事態だ。\nすぐに現地に向かえ。
+EN: We're in emergency protocol! Get yourself to the field immediately!
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0040_G0000_300_cmd
+JP: 2B……無事でよかった。
+EN: I'm glad you're safe, 2B.
+RU: 
+
+ID: M6010_S0040_G0010_300_cmd
+JP: 作戦にあたっていた仲間の内、数人とまだ連絡がとれない。\n……悪いが急いで捜索に当たってくれ。
+EN: However, we lost contact with some of our units while out on a mission. Do you think you could go look for them?
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0040_G0020_300_cmd
+JP: 今回の被害は甚大だ。\nまたあんな奴がきたら……厄介だな……
+EN: We've taken serious casualties; we can't withstand another attack of the same scale.
+RU: 
+
+
+-- Section 5
+
+ID: M6010_S0050_G0000_300_cmd
+JP: ９Ｓ！２Ｂが敵の罠に嵌められた！\n至急支援にあたってくれ！
+EN: 9S! 2B's been trapped by the enemy! Go help her right away!
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0050_G0010_300_cmd
+JP: ２Ｂを頼んだぞ……
+EN: Her life is in your hands...
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0060_G0000_300_cmd
+JP: ヨルハ部隊は全員戦闘配置につけ！\n地上の様子はなんでもいい、すぐに報告せよ！！
+EN: All YoRHa to battle stations! Stay alert and report any unusual Earth-based activity at once!
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0060_G0010_300_cmd
+JP: くそっ……どうなってるんだ……？
+EN: Dammit! What's going on?
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0070_G0070_300_cmd
+JP: 作戦は順調だが、油断するなよ。
+EN: The mission is going well, but stay vigilant.
+RU: 
+
+ID: M6010_S0070_G0080_300_cmd
+JP: 今日のために我々は存在してきた。\n貴様の価値を示してみろ。
+EN: All of our existence has been leading up to this day. Show them what you're capable of!
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0070_G0090_300_cmd
+JP: この作戦、必ず成功させるぞ。
+EN: Do not let this mission fail.
+RU: 
+
+
+-- Section 11
+
+ID: M6010_S0020_G0000_300_cmd
+JP: どうした、問題発生か？
+EN: Is something wrong?
+RU: 
+
+ID: M6010_S0020_G0010_300_cmd
+JP: 何もないなら、いい。\n引き続き任務にあたってくれ。
+EN: ...No? Good. Then carry on with your mission.
+RU: 
+
+
+-- Section 12
+
+ID: M6010_S0020_G0020_300_cmd
+JP: 任務は順調か？
+EN: How is your mission progressing?
+RU: 
+
+
+-- Section 13
+
+ID: M6010_S0010_G0000_300_cmd
+JP: お前達、任務はどうした？\n目的地のデータは送ってあるだろう。
+EN: Why are you still here? You should have the destination data for your next mission.
+RU: 
+
+
+-- Section 14
+
+ID: M6010_S0010_G0010_300_cmd
+JP: いつまでそこに立っているつもりだ。\n我々の存在意義を忘れるな。
+EN: Have you forgotten your purpose? How long are you planning to stand there?
+RU: 
+
+
+-- Section 15
+
+ID: M6010_S0030_G0030_300_op60
+JP: え、お二人は今地上のはずじゃ……\n困ります！命令違反で報告なんて嫌ですからね！
+EN: What are you guys still doing here? You should have made planetfall already! Come on, don't make me report you!
+RU: 
+
+
+-- Section 16
+
+ID: M6010_S0030_G0040_300_op60
+JP: 何してるんですか！\n至急作戦行動に戻ってください！
+EN: What are you doing? Get back to the mission immediately!
+RU: 
+
+
+-- Section 17
+
+ID: M6010_S0040_G0030_300_op60
+JP: すみません……9Sの情報はまだ入手できてないんです……
+EN: I'm sorry, but we don't have any new intel on 9S.
+RU: 
+
+
+-- Section 18
+
+ID: M6010_S0040_G0040_300_op60
+JP: 2B、無茶はしないでくださいね。
+EN: Don't do anything rash, okay, 2B?
+RU: 
+
+
+-- Section 19
+
+ID: M6010_S0050_G0020_300_op60
+JP: ９Ｓ、どうか、２Ｂを……
+EN: 9S, please take care of 2B...
+RU: 
+
+
+-- Section 20
+
+ID: M6010_S0050_G0030_300_op60
+JP: ２Ｂ……無事でいてください……
+EN: Please be safe, 2B...
+RU: 
+
+
+-- Section 21
+
+ID: M6010_S0060_G0020_300_op60
+JP: 無事でよかった……
+EN: I'm glad you're safe.
+RU: 
+
+ID: M6010_S0060_G0030_300_op60
+JP: 今地上との通信がすごく不安定になってます。\nあまり無茶はしないでくださいね。
+EN: Communications with Earth are incredibly unstable. Please don't do anything too crazy, okay?
+RU: 
+
+
+-- Section 22
+
+ID: M6010_S0060_G0040_300_op60
+JP: お気をつけて……！
+EN: Be careful!
+RU: 
+
+
+-- Section 23
+
+ID: M6010_S0070_G0100_300_op60
+JP: ちょっと！任務はどうしたんですか！？\n命令違反で怒られますよ！
+EN: Hey, why are you still here? Do you want to get caught for violating orders!?
+RU: 
+
+
+-- Section 24
+
+ID: M6010_S0070_G0110_300_op60
+JP: もう！まだこんなところにいるんですか！\n早く地上に向かってください！
+EN: Are you still here? Hurry up and get to Earth!
+RU: 
+
+ID: M6010_S0070_G0120_300_op60
+JP: 司令官に誤魔化しておかなきゃ……
+EN: I'll make up some sort of excuse for the Commander.
+RU: 
+
+
+-- Section 25
+
+ID: M6010_S0020_G0030_300_op60
+JP: おかえりなさい！\nねぇねぇ、新しい地上のデータ、見せてください！
+EN: Hey, welcome back! ...So, um, can you show me the new data you brought?
+RU: 
+
+
+-- Section 26
+
+ID: M6010_S0020_G0040_300_op60
+JP: ふむふむ…………\n…………
+EN: Hmmm...
+RU: 
+
+
+-- Section 27
+
+ID: M6010_S0010_G0020_300_op60
+JP: お疲れ様です！\n調子はどうですか？
+EN: Hey there! How's it going?
+RU: 
+
+ID: M6010_S0010_G0030_300_op60
+JP: 綺麗な花とか、大きな木とか、可愛い動物とか……いいですよね……
+EN: Majestic trees... Pretty flowers... Cute little animals... I love it all!
+RU: 
+
+
+-- Section 28
+
+ID: M6010_S0010_G0040_300_op60
+JP: えっと、何か困ったことでもありました？\nもしかして、情報送り忘れちゃったとか……
+EN: Um, is there a problem? Did I forget to upload intel or something?
+RU: 
+
+ID: M6010_S0010_G0050_300_op60
+JP: どうしよう……また怒られる……
+EN: Uh oh. I'm gonna get yelled at again, huh?
+RU: 
+
+
+-- Section 29
+
+ID: M6010_S0030_G0050_300_op210
+JP: ……何故ここに？\nあなた達には地上での任務が言い渡されているはず。
+EN: Your mission is on Earth. Not here.
+RU: 
+
+ID: M6010_S0030_G0060_300_op210
+JP: ここにいるのは命令違反です。
+EN: Your continued presence here is a gross violation of orders.
+RU: 
+
+
+-- Section 30
+
+ID: M6010_S0030_G0070_300_op210
+JP: あなた達は今ここにいるべきではないはずです。\nただちに任務に戻ってください。
+EN: Get back to your mission at once!
+RU: 
+
+
+-- Section 31
+
+ID: M6010_S0040_G0050_300_op210
+JP: オペレーター２１Ｏから９Ｓ。\n……９Ｓ、応答を。
+EN: Operator 21O to 9S. Do you read me?
+RU: 
+
+
+-- Section 32
+
+ID: M6010_S0040_G0060_300_op210
+JP: ……繰り返す。\nオペレーター２１Ｏから９Ｓ……応答せよ……
+EN: Repeat, this is Operator 21O to 9S. Do you read, 9S?
+RU: 
+
+
+-- Section 33
+
+ID: M6010_S0050_G0040_300_op210
+JP: ……廊下に出て、司令室の反対にサーバー管理室があります。
+EN: If you head down the corridor, you'll find the server administration room opposite the command room.
+RU: 
+
+ID: M6010_S0050_G0050_300_op210
+JP: そこなら、ここからでも地上へ干渉することができるでしょう。
+EN: In that room, you can interact with systems on Earth even from up here in the Bunker.
+RU: 
+
+
+-- Section 34
+
+ID: M6010_S0050_G0060_300_op210
+JP: 修復直後の過度な活動は推奨されません。\n無茶な行動は慎んでください。
+EN: Excessive activity after repairs isn't recommended. Please refrain from overexerting yourself.
+RU: 
+
+
+-- Section 35
+
+ID: M6010_S0060_G0050_300_op210
+JP: ……あなたは無謀な行動をとりやすい傾向があります。\nくれぐれも気をつけてください。
+EN: You tend to act recklessly. Please be cautious going forward.
+RU: 
+
+
+-- Section 36
+
+ID: M6010_S0060_G0060_300_op210
+JP: ……気をつけて。
+EN: Be careful.
+RU: 
+
+
+-- Section 37
+
+ID: M6010_S0070_G0130_300_op210
+JP: どうしてここへ？何か問題でも？
+EN: Why are you here? Is there a problem?
+RU: 
+
+
+-- Section 38
+
+ID: M6010_S0070_G0140_300_op210
+JP: 準備ができたら、任務に戻ってください。
+EN: Return to your mission once you're ready.
+RU: 
+
+
+-- Section 39
+
+ID: M6010_S0020_G0050_300_op210
+JP: 今日はどういった要件で？
+EN: Yes? What do you need?
+RU: 
+
+ID: M6010_S0020_G0060_300_op210
+JP: エイリアンアラートの解析……なかなか進みません。
+EN: I'm busy trying to analyze the alien signal—but I'm not really getting anywhere.
+RU: 
+
+
+-- Section 40
+
+ID: M6010_S0020_G0070_300_op210
+JP: 地上への興味は尽きませんね。\n直接出向きたいとは思いませんが……
+EN: I have an almost...insatiable interest in Earth, even though I'd never go there myself.
+RU: 
+
+ID: M6010_S0020_G0080_300_op210
+JP: 私はオペレーターモデルですから、こうやってデータを眺めている時が\n一番落ち着きます。
+EN: I'm an operator, you see. I'm more comfortable examining data in a setting such as this.
+RU: 
+
+
+-- Section 41
+
+ID: M6010_S0010_G0060_300_op210
+JP: 何か用ですか？\n要件は手短にお願いします。
+EN: How may I assist you?\n...Please keep it brief.
+RU: 
+
+
+-- Section 42
+
+ID: M6010_S0010_G0070_300_op210
+JP: まだこんなところにいるんですか？\n早く任務に戻ってください。
+EN: Are you still here? You should return to your duties.
+RU: 
+
+ID: M6010_S0010_G0080_300_op210
+JP: 命令違反で通報しますよ。
+EN: Now get going before I report you for disobeying orders.
+RU: 
+
+
+-- Section 43
+
+ID: M6010_S0020_G1230_300_bs
+JP: メンテナンスなら任せてください。\n今日はどこを強化しますか？
+EN: Need some maintenance? Maybe an enhancement or two? Lemme know!
+RU: 
+
+ID: M6012_S0022_G1250_300_bs
+JP: 機体の性能に物足りなさを感じたら、いつでも来てください。
+EN: If you ever feel dissatisfied with your body's performance, just swing on by! We'll have you right as rain in no time.
+RU: 
+
+
+-- Section 44
+
+ID: M6011_S0021_G1240_300_bs
+JP: メンテナンスをお望みですね？
+EN: Do you need some maintenance?
+RU: 
+
+ID: M6012_S0022_G1250_300_bs
+JP: 機体の性能に物足りなさを感じたら、いつでも来てください。
+EN: If you ever feel dissatisfied with your body's performance, just swing on by! We'll have you right as rain in no time.
+RU: 
+
+
+-- Section 45
+
+ID: M6010_S0010_G1230_300_bs
+JP: 機体のメンテナンスなら任せてください。
+EN: Need any maintenance done? You've come to the right person!
+RU: 
+
+ID: M6010_S0010_G1250_300_bs
+JP: スキャナーモデルの中でも、僕の腕は一級品ですからね。\n頼りにしてくれて構いませんよ。
+EN: My skills are first-class, even for a scanner model. You can count on me!
+RU: 
+
+
+-- Section 46
+
+ID: M6010_S0010_G1240_300_bs
+JP: メンテナンスをお望みですね？
+EN: Need any maintenance done?
+RU: 
+
+ID: M6010_S0010_G1250_300_bs
+JP: スキャナーモデルの中でも、僕の腕は一級品ですからね。\n頼りにしてくれて構いませんよ。
+EN: My skills are first-class, even for a scanner model. You can count on me!
+RU: 
+
+

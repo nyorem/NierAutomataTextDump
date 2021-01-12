@@ -1,0 +1,56 @@
+-- Section 1
+
+ID: M5920_S0060_G0090_001_a9s
+JP: あのー……２Ｂ？
+EN: Say, 2B?
+RU: 
+
+ID: M5920_S0060_G0100_001_a2b
+JP: 何？
+EN: What?
+RU: 
+
+ID: M5920_S0060_G0110_001_a9s
+JP: いつになったら『ナインズ』って呼んでくれるんですか？
+EN: When do you think you'll be willing to call me "Nines"?
+RU: 
+
+ID: M5920_S0060_G0120_001_a2b
+JP: ９Ｓ、で十分伝わる。
+EN: 9S works just fine.
+RU: 
+
+ID: M5920_S0060_G0130_001_a9s
+JP: まあ、そうなんですけど……
+EN: Well, yeah, but...
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0010_G0120_001_a9s
+JP: でも、仕事って大変ですよね～
+EN: Man, this job can be pretty rough sometimes, huh?
+RU: 
+
+ID: M1050_S0010_G0130_001_a2b
+JP: 作戦に好き嫌いはない。
+EN: We don't get to choose our assignments.
+RU: 
+
+ID: M1050_S0010_G0140_001_a2b
+JP: ９Ｓ、貴方は感情を出し過ぎ。
+EN: And you should work on keeping your opinions in check.
+RU: 
+
+ID: M1050_S0010_G0150_001_a2b
+JP: 私達ヨルハ部隊は感情を出す事は禁止されてるはず。
+EN: YoRHa aren't allowed to be emotional, remember?
+RU: 
+
+ID: M1050_S0010_G0160_001_a9s
+JP: そうは言っても、個体差があるから仕方ない気がします……
+EN: I think some of us are better at that than others...
+RU: 
+
+

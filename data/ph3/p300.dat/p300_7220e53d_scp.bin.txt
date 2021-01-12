@@ -1,0 +1,33 @@
+-- Section 1
+
+ID: M3050_S0230_G0000_001_smachine
+JP: ニイちゃんだけ……
+EN: Please... Big brother...
+RU: 
+
+ID: M3050_S0230_G0010_001_smachine
+JP: 助けて……
+EN: Spare him...
+RU: 
+
+ID: M3050_S0230_G0020_001_smachine
+JP: タスけて……
+EN: Don't hurt him...
+RU: 
+
+ID: M3050_S0230_G0030_001_smachine
+JP: ……でも。にいちゃんダケでも……
+EN: Spare our big brother...
+RU: 
+
+ID: M3050_S0230_G0040_001_lmachine
+JP: 弟達にハ、手を出スナ…‥
+EN: Don't...touch...my brothers...
+RU: 
+
+ID: M3050_S0230_G0050_001_lmachine
+JP: 頼む…‥
+EN: Please...
+RU: 
+
+

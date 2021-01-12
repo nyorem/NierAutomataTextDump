@@ -1,0 +1,284 @@
+-- Section 1
+
+ID: M5651_S0010_G0000_001_resiman
+JP: ああ、あんたか。久しぶりだな……
+EN: Hey again. Haven't seen you for a while.
+RU: 
+
+ID: M5651_S0010_G0010_001_resiman
+JP: 実はまた『移送用の荷物』が取り出せなくて……その……
+EN: So this'll probably come as no surprise, but I have more packages that need to come out of storage.
+RU: 
+
+ID: M5651_S0010_G0020_001_resiman
+JP: 頼む！助けてください！
+EN: Don't suppose you'd lend a hand again?
+RU: 
+
+ID: M5651_S0010_G0060_001_sele
+JP: 助ける。
+EN: Help him out.
+RU: 
+
+ID: M5651_S0010_G0070_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5651_S0010_G0030_001_resiman
+JP: あんたは……元ヨルハ部隊の人か？
+EN: You're YoRHa, right? Or maybe ex-YoRHa?
+RU: 
+
+ID: M5651_S0010_G0040_001_resiman
+JP: 調度良かった。実は『移送用の荷物』が重くて取り出せなくて……その……
+EN: Perfect! See, I have some packages that need delivering, but they're too heavy for me to move out of storage.
+RU: 
+
+ID: M5651_S0010_G0050_001_resiman
+JP: 頼む！助けてください！
+EN: You mind lending a hand?
+RU: 
+
+ID: M5651_S0010_G0060_001_sele
+JP: 助ける。
+EN: Help him out.
+RU: 
+
+ID: M5651_S0010_G0070_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 3
+
+ID: M5651_S0010_G0100_001_resiman
+JP: え！本当に！？
+EN: What, really?
+RU: 
+
+ID: M5651_S0010_G0110_001_resiman
+JP: いやぁ、助かるよ……あの先輩、すごく怖くて……
+EN: Thanks so much! My supervisor is a real hardass, so if this doesn't get done, I'm a dead man.
+RU: 
+
+ID: M5651_S0010_G0120_001_resiman
+JP: 『移送用の荷物』を集めてもらえると本当に助かる。
+EN: Just grab all the stuff I need and get it out of there, okay?
+RU: 
+
+ID: M5650_S0020_G0000_300_resiman
+JP: 取ってきてくれるのかい？
+EN: Think you can get the goods for me?
+RU: 
+
+ID: M5650_S0020_G0010_300_sele
+JP: 仕方ないなぁ
+EN: Agree to help.
+RU: 
+
+ID: M5650_S0020_G0020_300_sele
+JP: 今は忙しい
+EN: Reject the offer.
+RU: 
+
+
+-- Section 4
+
+ID: M5650_S0020_G0030_300_resiman
+JP: よろしくね！
+EN: Great. Thanks a million!
+RU: 
+
+
+-- Section 5
+
+ID: M5651_S0010_G0080_001_resiman
+JP: ううん……そっか……また、先輩に怒られちゃうな……
+EN: Really? Man, my supervisor is really going to have my hide for this...
+RU: 
+
+
+-- Section 6
+
+ID: M5651_S0010_G0090_001_resiman
+JP: あ！もしかして荷物を取りに行く気になってくれたのか！？
+EN: Don't suppose you changed your mind about helping with those packages, eh?
+RU: 
+
+ID: M5651_S0010_G0060_001_sele
+JP: 助ける。
+EN: Help him out.
+RU: 
+
+ID: M5651_S0010_G0070_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 7
+
+ID: M5651_S0010_G0090_001_resiman
+JP: あ！もしかして荷物を取りに行く気になってくれたのか！？
+EN: Don't suppose you changed your mind about helping with those packages, eh?
+RU: 
+
+ID: M5651_S0010_G0060_001_sele
+JP: 助ける。
+EN: Help him out.
+RU: 
+
+ID: M5651_S0010_G0070_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 8
+
+ID: M5650_S0020_G0030_300_resiman
+JP: よろしくね！
+EN: Great. Thanks a million!
+RU: 
+
+
+-- Section 9
+
+ID: M5651_S0010_G0080_001_resiman
+JP: ううん……そっか……また、先輩に怒られちゃうな……
+EN: Really? Man, my supervisor is really going to have my hide for this...
+RU: 
+
+
+-- Section 10
+
+ID: M5650_S0020_G0050_300_pod153
+JP: 提案：一度外に出て気分転換を行う
+EN: Proposal: Taking a break from this activity may lead to greater mental acuity.
+RU: 
+
+ID: M5650_S0020_G0060_300_sele
+JP: 外に出る
+EN: Go outside.
+RU: 
+
+ID: M5650_S0020_G0070_300_sele
+JP: 作業を続ける
+EN: Keep working.
+RU: 
+
+
+-- Section 11
+
+ID: M5650_S0020_G0040_300_pod042
+JP: 提案：一度外に出て気分転換を行う
+EN: Proposal: Taking a break from this activity may lead to greater mental acuity.
+RU: 
+
+ID: M5650_S0020_G0060_300_sele
+JP: 外に出る
+EN: Go outside.
+RU: 
+
+ID: M5650_S0020_G0070_300_sele
+JP: 作業を続ける
+EN: Keep working.
+RU: 
+
+
+-- Section 12
+
+ID: M5650_S0020_G0052_300_pod153
+JP: 提案：外に出て依頼主に荷物を届ける
+EN: Proposal: Head outside to deliver the goods to the client.
+RU: 
+
+ID: M5650_S0020_G0060_300_sele
+JP: 外に出る
+EN: Go outside.
+RU: 
+
+ID: M5650_S0020_G0070_300_sele
+JP: 作業を続ける
+EN: Keep working.
+RU: 
+
+
+-- Section 13
+
+ID: M5650_S0020_G0051_300_pod042
+JP: 提案：外に出て依頼主に荷物を届ける
+EN: Proposal: Head outside to deliver the goods to the client.
+RU: 
+
+ID: M5650_S0020_G0060_300_sele
+JP: 外に出る
+EN: Go outside.
+RU: 
+
+ID: M5650_S0020_G0070_300_sele
+JP: 作業を続ける
+EN: Keep working.
+RU: 
+
+
+-- Section 14
+
+ID: M5651_S0020_G0000_001_pod153
+JP: 『移送用の荷物』と思われるオブジェクトをマーク。
+EN: Marking objects likely to be the targeted packages.
+RU: 
+
+
+-- Section 15
+
+ID: M5651_S0020_G0020_001_pod042
+JP: 『移送用の荷物』と思われるオブジェクトをマーク。
+EN: Marking objects likely to be the targeted packages.
+RU: 
+
+
+-- Section 16
+
+ID: M5651_S0020_G0040_001_a9s
+JP: これで、荷物は全部集め終わったな……
+EN: That should be everything.
+RU: 
+
+
+-- Section 17
+
+ID: M5651_S0020_G0050_001_a2
+JP: これで、荷物は全部集め終わったな……
+EN: That should be everything.
+RU: 
+
+
+-- Section 18
+
+ID: M5651_S0030_G0000_001_resiman
+JP: ああ、荷物を集めてくれたんだね。ありがとう！助かった！
+EN: You got the packages together for me? Oh, thank you!
+RU: 
+
+ID: M5651_S0030_G0010_001_resiman
+JP: 倉庫はヒドイ有様だったろう？……実はこの前先輩がフラッと来て\n散らかしていったんだ。
+EN: That storage area is in pretty sad shape. My supervisor came in earlier and really wrecked the place.
+RU: 
+
+ID: M5651_S0030_G0020_001_resiman
+JP: 僕はいつもその尻拭いをさせられていて……
+EN: Seems like I'm always having to clean up after her...
+RU: 
+
+ID: M5651_S0030_G0030_001_resiman
+JP: あ、これはお礼だ。受け取ってくれ。
+EN: Anyway, here's your payment. Thanks again.
+RU: 
+
+

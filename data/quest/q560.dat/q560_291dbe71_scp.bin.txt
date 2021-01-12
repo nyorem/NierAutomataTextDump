@@ -1,0 +1,353 @@
+-- Section 1
+
+ID: M6090_S0020_G0780_300_dbl
+JP: やあ、何か見ていくか？
+EN: Are you looking for something?
+RU: 
+
+ID: M5560_S0010_G0000_001_dbl
+JP: ああ、そうそう。少しあたし達の仕事を手伝ってくれないか？
+EN: Say, think you'd be able to give us a hand with a certain odd job?
+RU: 
+
+ID: M5560_S0010_G0010_001_ppl
+JP: ちょっと、デボルったら……
+EN: Devola, please.
+RU: 
+
+ID: M5560_S0010_G0020_001_dbl
+JP: 仕方ないだろ？\nあのクソデカイ『塔』が出てきてから資材も人手も足りないんだ。
+EN: Well, what else can we do? Ever since that huge-ass Tower showed up, we've been short on people and supplies.
+RU: 
+
+ID: M5560_S0010_G0030_001_dbl
+JP: このまま雑用に追われてちゃ、レジスタンス達の修理もままならない。
+EN: If we keep getting distracted by the little things, we'll never get those Resistance members repaired.
+RU: 
+
+ID: M5560_S0010_G0040_001_ppl
+JP: それは、そうだけど……
+EN: That's true, but—
+RU: 
+
+ID: M5560_S0010_G0050_001_dbl
+JP: というわけで頼む！仕事を手伝ってくれ。
+EN: So there you have it! Anyway, mind lending us a hand?
+RU: 
+
+ID: M5560_S0010_G0060_001_sele
+JP: 手伝う。
+EN: Help the twins.
+RU: 
+
+ID: M5560_S0010_G0070_001_sele
+JP: 断る。
+EN: Decline.
+RU: 
+
+
+-- Section 2
+
+ID: M5560_S0010_G0110_001_dbl
+JP: ありがたい！\nじゃあ『磨り減ったネジ』と『小さな歯車』、それに『機械油』を頼むよ。
+EN: Great! Much appreciated. Okay, so all we need are some stripped screws, small gears, and machine oil.
+RU: 
+
+ID: M5560_S0010_G0111_001_dbl
+JP: 『磨り減ったネジ』は積み上がった機械生命体から取れるはずだ。
+EN: You can get stripped screws from the machines that look like they've been stacked on top of each other.
+RU: 
+
+ID: M5560_S0010_G0112_001_dbl
+JP: 『小さな歯車』は足の短い小型の機械生命体から取れたと思う。
+EN: I think you can get small gears from the small machines with the short legs.
+RU: 
+
+ID: M5560_S0010_G0113_001_ppl
+JP: 『機械油』は廃工場の廃車トラック付近にあったと思うわ。
+EN: You should be able to find some machine oil near a deserted truck at the abandoned factory.
+RU: 
+
+ID: M5560_S0010_G0120_001_ppl
+JP: 無理はしないでね。
+EN: Please don't put yourself in danger for this, all right?
+RU: 
+
+
+-- Section 3
+
+ID: M5560_S0010_G0080_001_dbl
+JP: ちぇっ、ケチ。
+EN: Pfft. I shoulda known.
+RU: 
+
+ID: M5560_S0010_G0090_001_ppl
+JP: デボルったら……無理を言ってごめんなさいね。\n気が向いたら声をかけてちょうだい。
+EN: DEVOLA! ...Look, I'm sorry we're making all of these requests. I know your time is valuable. Please let us know if you're interested later.
+RU: 
+
+
+-- Section 4
+
+ID: M6090_S0020_G0780_300_dbl
+JP: やあ、何か見ていくか？
+EN: Are you looking for something?
+RU: 
+
+ID: M5560_S0010_G0100_001_dbl
+JP: ところで、仕事を手伝ってくれる気になったか？
+EN: Soooo, any chance you might help us out?
+RU: 
+
+ID: M5560_S0010_G0060_001_sele
+JP: 手伝う。
+EN: Help the twins.
+RU: 
+
+ID: M5560_S0010_G0070_001_sele
+JP: 断る。
+EN: Decline.
+RU: 
+
+
+-- Section 5
+
+ID: M6090_S0020_G0780_300_dbl
+JP: やあ、何か見ていくか？
+EN: Are you looking for something?
+RU: 
+
+ID: M5560_S0010_G0130_001_dbl
+JP: そういえば、依頼品の方はどうなってる？
+EN: Have you tracked down those materials I was asking about?
+RU: 
+
+ID: M5560_S0010_G0140_001_ppl
+JP: 『磨り減ったネジ』と『小さな歯車』、それに『機械油』があれば助かるわ。
+EN: We need some stripped screws, small gears, and machine oil.
+RU: 
+
+ID: M5560_S0010_G0111_001_dbl
+JP: 『磨り減ったネジ』は積み上がった機械生命体から取れるはずだ。
+EN: You can get stripped screws from the machines that look like they've been stacked on top of each other.
+RU: 
+
+ID: M5560_S0010_G0112_001_dbl
+JP: 『小さな歯車』は足の短い小型の機械生命体から取れたと思う。
+EN: I think you can get small gears from the small machines with the short legs.
+RU: 
+
+ID: M5560_S0010_G0113_001_ppl
+JP: 『機械油』は廃工場の廃車トラック付近にあったと思うわ。
+EN: You should be able to find some machine oil near a deserted truck at the abandoned factory.
+RU: 
+
+
+-- Section 6
+
+ID: M5560_S0010_G0150_001_a9s
+JP: デボル達に依頼されていた資材が揃ったな……
+EN: Okay, that's everything the twins asked for.
+RU: 
+
+
+-- Section 7
+
+ID: M5560_S0010_G0160_001_a2
+JP: 赤毛の双子に言われてた資材が揃ったな……渡しに行くか。
+EN: That's everything those redhead twins wanted.\nGuess I'll hand it over.
+RU: 
+
+
+-- Section 8
+
+ID: M5560_S0010_G0130_001_dbl
+JP: そういえば、依頼品の方はどうなってる？
+EN: Have you tracked down those materials I was asking about?
+RU: 
+
+ID: M5560_S0010_G0140_001_ppl
+JP: 『磨り減ったネジ』と『小さな歯車』、それに『機械油』があれば助かるわ。
+EN: We need some stripped screws, small gears, and machine oil.
+RU: 
+
+ID: M5560_S0010_G0111_001_dbl
+JP: 『磨り減ったネジ』は積み上がった機械生命体から取れるはずだ。
+EN: You can get stripped screws from the machines that look like they've been stacked on top of each other.
+RU: 
+
+ID: M5560_S0010_G0112_001_dbl
+JP: 『小さな歯車』は足の短い小型の機械生命体から取れたと思う。
+EN: I think you can get small gears from the small machines with the short legs.
+RU: 
+
+ID: M5560_S0010_G0113_001_ppl
+JP: 『機械油』は廃工場の廃車トラック付近にあったと思うわ。
+EN: You should be able to find some machine oil near a deserted truck at the abandoned factory.
+RU: 
+
+
+-- Section 9
+
+ID: M5560_S0010_G0130_001_dbl
+JP: そういえば、依頼品の方はどうなってる？
+EN: Have you tracked down those materials I was asking about?
+RU: 
+
+ID: M5560_S0010_G0140_001_ppl
+JP: 『磨り減ったネジ』と『小さな歯車』、それに『機械油』があれば助かるわ。
+EN: We need some stripped screws, small gears, and machine oil.
+RU: 
+
+ID: M5560_S0010_G0111_001_dbl
+JP: 『磨り減ったネジ』は積み上がった機械生命体から取れるはずだ。
+EN: You can get stripped screws from the machines that look like they've been stacked on top of each other.
+RU: 
+
+ID: M5560_S0010_G0112_001_dbl
+JP: 『小さな歯車』は足の短い小型の機械生命体から取れたと思う。
+EN: I think you can get small gears from the small machines with the short legs.
+RU: 
+
+ID: M5560_S0010_G0113_001_ppl
+JP: 『機械油』は廃工場の廃車トラック付近にあったと思うわ。
+EN: You should be able to find some machine oil near a deserted truck at the abandoned factory.
+RU: 
+
+
+-- Section 10
+
+ID: M5560_S0030_G0000_001_dbl
+JP: これこれ！ありがとう、助かったよ。
+EN: Let's see... Yep! That's everything. Thanks for the help.
+RU: 
+
+ID: M5560_S0030_G0010_001_ppl
+JP: じゃあデボル、早速作業に取り掛かりましょう。
+EN: Then it's time for us to get to work, Devola.
+RU: 
+
+ID: M5560_S0030_G0020_001_a9s
+JP: ……その資材、一体何に使うの？
+EN: Er, what are you using that stuff for, anyway?
+RU: 
+
+ID: M5560_S0030_G0040_001_dbl
+JP: 見れば判るだろ？キャンプの日用品だよ。
+EN: Isn't it obvious? Daily necessities.
+RU: 
+
+ID: M5560_S0030_G0050_001_ppl
+JP: 私達の仕事は雑用が多いから……
+EN: We're often asked to handle various odd jobs around the camp.
+RU: 
+
+ID: M5560_S0030_G0060_001_a9s
+JP: 雑用って……それだけの技術力を持ってて？
+EN: Odd jobs? With all of your technical skill?
+RU: 
+
+ID: M5560_S0030_G0080_001_ppl
+JP: ……いいの。これが私達の仕事だから。
+EN: Oh, it's no bother! We're happy to help however we can.
+RU: 
+
+ID: M5560_S0030_G0090_001_dbl
+JP: そうそう。仕事があるだけ、ありがたいと思わなきゃ。
+EN: Frankly, we're thankful to just have a job of any kind.
+RU: 
+
+ID: M5560_S0030_G0100_001_dbl
+JP: これはお礼だ。受け取ってくれ。
+EN: Anyway, enough gabbing. Here's your reward.
+RU: 
+
+ID: M5560_S0030_G0110_001_a9s
+JP: そんな、受け取れないよ。
+EN: Oh, I couldn't possibly take this much.
+RU: 
+
+ID: M5560_S0030_G0130_001_dbl
+JP: いいんだよ。どうせアタシ達には使うアテもないしね。
+EN: Just take it already! It's not like we have anything to spend it on.
+RU: 
+
+ID: M5560_S0030_G0140_001_ppl
+JP: もらっておいて。
+EN: Go on. You earned it.
+RU: 
+
+ID: M5560_S0030_G0150_001_dbl
+JP: また、手伝ってくれよな。
+EN: Maybe you'll agree to help us again later?
+RU: 
+
+
+-- Section 11
+
+ID: M5560_S0030_G0000_001_dbl
+JP: これこれ！ありがとう、助かったよ。
+EN: Let's see... Yep! That's everything. Thanks for the help.
+RU: 
+
+ID: M5560_S0030_G0010_001_ppl
+JP: じゃあデボル、早速作業に取り掛かりましょう。
+EN: Then it's time for us to get to work, Devola.
+RU: 
+
+ID: M5560_S0030_G0030_001_a2
+JP: お前達は何を作っているんだ？
+EN: So what are you guys making?
+RU: 
+
+ID: M5560_S0030_G0040_001_dbl
+JP: 見れば判るだろ？キャンプの日用品だよ。
+EN: Isn't it obvious? Daily necessities.
+RU: 
+
+ID: M5560_S0030_G0050_001_ppl
+JP: 私達の仕事は雑用が多いから……
+EN: We're often asked to handle various odd jobs around the camp.
+RU: 
+
+ID: M5560_S0030_G0070_001_a2
+JP: 雑用だって？そんな高い技術力があるのに？
+EN: Why are they wasting the two of you on odd jobs?
+RU: 
+
+ID: M5560_S0030_G0080_001_ppl
+JP: ……いいの。これが私達の仕事だから。
+EN: Oh, it's no bother! We're happy to help however we can.
+RU: 
+
+ID: M5560_S0030_G0090_001_dbl
+JP: そうそう。仕事があるだけ、ありがたいと思わなきゃ。
+EN: Frankly, we're thankful to just have a job of any kind.
+RU: 
+
+ID: M5560_S0030_G0100_001_dbl
+JP: これはお礼だ。受け取ってくれ。
+EN: Anyway, enough gabbing. Here's your reward.
+RU: 
+
+ID: M5560_S0030_G0120_001_a2
+JP: こんなに貰うほど、働いてないぞ。
+EN: Uh, guys? This is a LOT.
+RU: 
+
+ID: M5560_S0030_G0130_001_dbl
+JP: いいんだよ。どうせアタシ達には使うアテもないしね。
+EN: Just take it already! It's not like we have anything to spend it on.
+RU: 
+
+ID: M5560_S0030_G0140_001_ppl
+JP: もらっておいて。
+EN: Go on. You earned it.
+RU: 
+
+ID: M5560_S0030_G0150_001_dbl
+JP: また、手伝ってくれよな。
+EN: Maybe you'll agree to help us again later?
+RU: 
+
+

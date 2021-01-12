@@ -1,0 +1,543 @@
+-- Section 1
+
+ID: M5640_S0010_G0000_001_resistance
+JP: ああ……ヨルハ部隊の人か。
+EN: Hey, you're with YoRHa, right?
+RU: 
+
+ID: M5640_S0010_G0010_001_resistance
+JP: ……そうだ。
+EN: Hmm...
+RU: 
+
+ID: M5640_S0010_G0020_001_resistance
+JP: いきなりですまないが、ちょっと協力してくれないか？緊急事態なんだ。
+EN: Look, I know this is a bit out of the blue, but can you help me? I've got something of an emergency on my hands.
+RU: 
+
+ID: M5640_S0010_G0030_001_resistance
+JP: どうやら機密情報の入ったプラグイン・チップを、いくつか機械生命体に\n盗まれちまったらしい。
+EN: It seems that some machine lifeforms have stolen several plug-in chips containing classified data.
+RU: 
+
+ID: M5640_S0010_G0040_001_resistance
+JP: あのチップを敵に悪用されたら問題だ。何とか取り戻したい。\n頼む、手を貸してくれ！
+EN: If they realize what they have, we're going to be in big trouble. You have to help me get 'em back!
+RU: 
+
+ID: M5640_S0010_G0050_001_sele
+JP: 手を貸す。
+EN: Lend a hand.
+RU: 
+
+ID: M5640_S0010_G0060_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5640_S0010_G0090_001_resistance
+JP: すまない！奪われたプラグイン・チップは３個だ。
+EN: Thanks. I have to track down a total of three plug-in chips.
+RU: 
+
+ID: M5640_S0010_G0100_001_resistance
+JP: チップの信号コードを渡しておく。
+EN: I'll go ahead and send you the signal codes so you can track them.
+RU: 
+
+ID: M5640_S0010_G0110_001_resistance
+JP: まだこの都市のどこかにいる。探し出して回収してくれ！
+EN: They're all located somewhere in this city, so hopefully it won't take too long.
+RU: 
+
+
+-- Section 3
+
+ID: M5640_S0010_G0070_001_resistance
+JP: 力を貸してくれてもいいだろう……冷たい奴だな。
+EN: Are you serious? That's cold.
+RU: 
+
+
+-- Section 4
+
+ID: M5640_S0010_G0080_001_resistance
+JP: 何としても、機密情報の入ったプラグイン・チップを機械生命体から\n取り戻したいんだ。頼む、手を貸してくれ！
+EN: I have to get that classified info back from the machines. Please help me out!
+RU: 
+
+ID: M5640_S0010_G0050_001_sele
+JP: 手を貸す。
+EN: Lend a hand.
+RU: 
+
+ID: M5640_S0010_G0060_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 5
+
+ID: M5640_S0010_G0120_001_resistance
+JP: すまない。奪われたプラグイン・チップを探してくれ！
+EN: Thanks again for the help!
+RU: 
+
+
+-- Section 6
+
+ID: M5640_S0010_G0130_001_pod042
+JP: 依頼されたプラグイン・チップの信号コードを確認。
+EN: Alert: Signal code detected for missing plug-in chip.
+RU: 
+
+ID: M5640_S0010_G0140_001_pod042
+JP: 概略位置をマップにマーク完了。
+EN: Marking approximate location on map.
+RU: 
+
+ID: M5640_S0010_G0150_001_pod153
+JP: 依頼されたプラグイン・チップの信号コードを確認。
+EN: Alert: Signal code detected for missing plug-in chip.
+RU: 
+
+ID: M5640_S0010_G0160_001_pod153
+JP: 概略位置をマップにマーク完了。
+EN: Marking approximate location on map.
+RU: 
+
+
+-- Section 7
+
+ID: M5640_S0020_G0000_001_pod042
+JP: 捜索中のプラグイン・チップの信号コードを確認。
+EN: Alert: Signal code detected for missing plug-in chip.
+RU: 
+
+ID: M5640_S0020_G0010_001_pod042
+JP: 予測：機械生命体が装備中。
+EN: It is likely in the possession of a machine lifeform.
+RU: 
+
+ID: M5640_S0020_G0030_001_pod153
+JP: 捜索中のプラグイン・チップの信号コードを確認。
+EN: Alert: Signal code detected for missing plug-in chip.
+RU: 
+
+ID: M5640_S0020_G0040_001_pod153
+JP: 予測：機械生命体が装備中。
+EN: It is likely in the possession of a machine lifeform.
+RU: 
+
+
+-- Section 8
+
+ID: M5640_S0020_G0060_001_pod042
+JP: 捜索中のプラグイン・チップを入手。
+EN: Requested plug-in chip obtained.
+RU: 
+
+ID: M5640_S0020_G0070_001_pod153
+JP: 捜索中のプラグイン・チップを入手。
+EN: Requested plug-in chip obtained.
+RU: 
+
+
+-- Section 9
+
+ID: M5640_S0020_G0080_001_pod042
+JP: 捜索中のプラグイン・チップを入手。
+EN: Requested plug-in chip obtained.
+RU: 
+
+ID: M5640_S0020_G0090_001_pod042
+JP: 疑問：当該プラグイン・チップの仕様について。
+EN: Alert: The specifications of this plug-in chip are unusual.
+RU: 
+
+ID: M5640_S0020_G0100_001_a2b
+JP: 仕様？
+EN: Oh?
+RU: 
+
+ID: M5640_S0020_G0110_001_pod042
+JP: 報告：本プラグイン・チップはヨルハ部隊員専用モデル。
+EN: This chip is a model used exclusively by YoRHa units.
+RU: 
+
+ID: M5640_S0020_G0120_001_pod042
+JP: 通常アンドロイドが要求するのは非合理的。
+EN: There is no reason for a non-YoRHa android to possess it.
+RU: 
+
+ID: M5640_S0020_G0130_001_a2b
+JP: ヨルハ部隊員専用チップ……
+EN: A YoRHa-only chip?
+RU: 
+
+ID: M5640_S0020_G0140_001_pod153
+JP: 捜索中のプラグイン・チップを入手。
+EN: Requested plug-in chip obtained.
+RU: 
+
+ID: M5640_S0020_G0150_001_pod153
+JP: 疑問：当該プラグイン・チップの仕様について。
+EN: Alert: The specifications of this plug-in chip are unusual.
+RU: 
+
+ID: M5640_S0020_G0160_001_a9s
+JP: 仕様？
+EN: How so?
+RU: 
+
+ID: M5640_S0020_G0170_001_pod153
+JP: 報告：本プラグイン・チップはヨルハ部隊員専用モデル。
+EN: This chip is a model used exclusively by YoRHa units.
+RU: 
+
+ID: M5640_S0020_G0180_001_pod153
+JP: 通常アンドロイドが要求するのは非合理的。
+EN: There is no reason for a non-YoRHa android to possess it.
+RU: 
+
+ID: M5640_S0020_G0190_001_a9s
+JP: ヨルハ部隊員専用チップ……
+EN: A YoRHa-only chip, huh?
+RU: 
+
+
+-- Section 10
+
+ID: M5640_S0020_G0200_001_pod042
+JP: 司令部から通信。
+EN: Alert: Incoming message from Command.
+RU: 
+
+ID: M5640_S0020_G0210_001_pod153
+JP: 司令部から通信。
+EN: Alert: Incoming message from Command.
+RU: 
+
+ID: M5640_S0020_G0220_001_cmd
+JP: 警戒連絡。現在、廃墟都市地区で、ヨルハ部隊員が行方不明になった。
+EN: All units, be on the lookout for a missing YoRHa in the city ruins.
+RU: 
+
+ID: M5640_S0020_G0230_001_cmd
+JP: 機密情報が入ったプラグイン・チップを持っている為、捜索している。
+EN: This unit was in possession of several plug-in chips that contain classified information.
+RU: 
+
+ID: M5640_S0020_G0240_001_cmd
+JP: 詳細な情報を収集するように。
+EN: I need you to seek out whatever intel you can regarding their current whereabouts and status.
+RU: 
+
+ID: M5640_S0020_G0250_001_a2b
+JP: 了解。
+EN: Roger.
+RU: 
+
+ID: M5640_S0020_G0270_001_a9s
+JP: 了解。
+EN: Understood.
+RU: 
+
+ID: M5640_S0020_G0260_001_a2b
+JP: 機密情報の入ったチップ……
+EN: Chips with classified data, is it?
+RU: 
+
+ID: M5640_S0020_G0280_001_a9s
+JP: 機密情報の入ったチップか……
+EN: Chips with classified data, huh?
+RU: 
+
+
+-- Section 11
+
+ID: M5640_S0050_G0000_001_resistance
+JP: ああ、助かった。ありがとう！さあ、プラグイン・チップを渡してくれ。
+EN: Oh man, you really saved my bacon! I'll take those chips from you now.
+RU: 
+
+ID: M5640_S0050_G0010_001_sele
+JP: プラグイン・チップを渡す。
+EN: Hand the chips over.
+RU: 
+
+ID: M5640_S0050_G0020_001_sele
+JP: プラグイン・チップを渡さない。
+EN: Refuse.
+RU: 
+
+
+-- Section 12
+
+ID: M5640_S0050_G0060_001_resistance
+JP: ありがとう。これぐらいしか、お礼として渡せるものは無いんだが……
+EN: Thank you. Oh, and I know this isn't much, but please take it.
+RU: 
+
+ID: M5640_S0050_G0070_001_resistance
+JP: あんたらは信用出来るな。今度会ったら……家族を紹介するよ、じゃあ。
+EN: I'm glad I can trust you guys. Next time we meet, I'll be sure to introduce you to my family!
+RU: 
+
+
+-- Section 13
+
+ID: M5640_S0050_G0030_001_resistance
+JP: どうしてだよ……！？
+EN: Huh? Why not?
+RU: 
+
+ID: M5640_S0050_G0040_001_resistance
+JP: 何か疑ってるのか！？
+EN: You don't actually suspect me of something, do you?
+RU: 
+
+ID: M5640_S0050_G0050_001_resistance
+JP: なぁ、頼むよ……オレにはそれが必要なんだ！
+EN: Come on! I need those chips!
+RU: 
+
+ID: M5640_S0050_G0010_001_sele
+JP: プラグイン・チップを渡す。
+EN: Hand the chips over.
+RU: 
+
+ID: M5640_S0050_G0020_001_sele
+JP: プラグイン・チップを渡さない。
+EN: Refuse.
+RU: 
+
+
+-- Section 14
+
+ID: M5640_S0050_G0330_001_a2b
+JP: プラグイン・チップを渡す前に、質問に答えて欲しい。
+EN: Before I give you the chips, I need you to answer a question.
+RU: 
+
+ID: M5640_S0050_G0340_001_a2b
+JP: 行方不明になったヨルハ型のアンドロイドを知っている？
+EN: Do you know anything about a missing YoRHa unit in the area?
+RU: 
+
+ID: M5640_S0050_G0350_001_a9s
+JP: プラグイン・チップを渡す前に、質問に答えて欲しい。
+EN: Before I give you the chips, I need you to answer a question.
+RU: 
+
+ID: M5640_S0050_G0360_001_a9s
+JP: 行方不明になったヨルハ型のアンドロイドを知っている？
+EN: Do you know anything about a missing YoRHa unit in the area?
+RU: 
+
+ID: M5640_S0050_G0370_001_resistance
+JP: ……いや、知らないな。
+EN: ...No.
+RU: 
+
+ID: M5640_S0050_G0380_001_a2b
+JP: 本当に？
+EN: You sure?
+RU: 
+
+ID: M5640_S0050_G0390_001_a9s
+JP: 本当に？
+EN: Really?
+RU: 
+
+ID: M5640_S0050_G0400_001_resistance
+JP: ……プラグイン・チップはもういい。
+EN: Look, just forget about the chips.
+RU: 
+
+ID: M5640_S0050_G0410_001_resistance
+JP: じゃあな。
+EN: See ya.
+RU: 
+
+
+-- Section 15
+
+ID: M5640_S0050_G0420_001_resistance
+JP: なんだ？プラグイン・チップを渡す気になったのか？
+EN: What? You feel like giving me those plug-in chips now?
+RU: 
+
+ID: M5640_S0050_G0010_001_sele
+JP: プラグイン・チップを渡す。
+EN: Hand the chips over.
+RU: 
+
+ID: M5640_S0050_G0020_001_sele
+JP: プラグイン・チップを渡さない。
+EN: Refuse.
+RU: 
+
+
+-- Section 16
+
+ID: M5640_S0050_G0070_001_resistance
+JP: あんたらは信用出来るな。今度会ったら……家族を紹介するよ、じゃあ。
+EN: I'm glad I can trust you guys. Next time we meet, I'll be sure to introduce you to my family!
+RU: 
+
+
+-- Section 17
+
+ID: M5640_S0050_G0080_001_resistance
+JP: あんたらは、プラグイン・チップを取り戻してくれた。\nあの時は本当に助かったよ。
+EN: You're the guys who got those chips back for me, right? Boy, do I ever owe you one.
+RU: 
+
+ID: M5640_S0050_G0090_001_resistance
+JP: ……気づいていたんだろう？アレが、ヨルハ部隊員の物だって。
+EN: Er, I suppose you noticed those chips were YoRHa, huh?
+RU: 
+
+ID: M5640_S0050_G0100_001_resistance
+JP: 紹介する。俺の家族だ。
+EN: Well, there's a reason for that. Let me introduce you to the new addition to my family.
+RU: 
+
+
+-- Section 18
+
+ID: M5640_S0050_G0110_001_a2b
+JP: 家族？
+EN: Your...family?
+RU: 
+
+ID: M5640_S0050_G0120_001_a9s
+JP: 家族？
+EN: Your...family?
+RU: 
+
+ID: M5640_S0050_G0130_001_resistance
+JP: ……ずっと憧れてたんだ。家族ってどういうものなのかって。
+EN: I always wanted family, you know? Or at least I was pretty sure I did.
+RU: 
+
+ID: M5640_S0050_G0140_001_resistance
+JP: 寄り添うように暮らしている機械生命体達を見たら、\n余計に１人は寂しくなって……
+EN: Seeing all the machines living together in the same area was starting to make me...lonely.
+RU: 
+
+ID: M5640_S0050_G0150_001_resistance
+JP: つい……ヨルハ部隊員の壊れた義体を盗んじまった。
+EN: So I went out and stole a broken-down YoRHa body.
+RU: 
+
+ID: M5640_S0050_G0160_001_resistance
+JP: それを修理して、オレの家族になってもらおうと思って。
+EN: I'm hoping I can repair it and use it to kick off my very own family.
+RU: 
+
+ID: M5640_S0050_G0170_001_ys
+JP: ココ……コンにちわ……
+EN: H-H-H-Hello?
+RU: 
+
+ID: M5640_S0050_G0180_001_a2b
+JP: これは……
+EN: Unbelievable...
+RU: 
+
+ID: M5640_S0050_G0190_001_a9s
+JP: これは、明らかな違反です。
+EN: You know this violates all kinds of regulations, right?
+RU: 
+
+ID: M5640_S0050_G0200_001_resistance
+JP: 間違っている事は判っている。\nでも、俺も誰かを守りながら、寄り添いながら生きてみたかったんだ。
+EN: I know it isn't right, but I don't care. I need someone I can live with. Someone I can protect.
+RU: 
+
+ID: M5640_S0050_G0210_001_resistance
+JP: あんたらの事は信用している。だから、この件は内密に頼むよ。
+EN: You won't tell anyone, will you?
+RU: 
+
+ID: M5640_S0050_G0220_001_yolhaS
+JP: オネ……がい、シマス。
+EN: P-P-P-Pleeee...ase...
+RU: 
+
+ID: M5640_S0050_G0230_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5640_S0050_G0240_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 19
+
+ID: M5640_S0050_G0210_001_resistance
+JP: あんたらの事は信用している。だから、この件は内密に頼むよ。
+EN: You won't tell anyone, will you?
+RU: 
+
+ID: M5640_S0050_G0220_001_yolhaS
+JP: オネ……がい、シマス。
+EN: P-P-P-Pleeee...ase...
+RU: 
+
+ID: M5640_S0050_G0230_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5640_S0050_G0240_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 20
+
+ID: M5640_S0050_G0210_001_resistance
+JP: あんたらの事は信用している。だから、この件は内密に頼むよ。
+EN: You won't tell anyone, will you?
+RU: 
+
+ID: M5640_S0050_G0220_001_yolhaS
+JP: オネ……がい、シマス。
+EN: P-P-P-Pleeee...ase...
+RU: 
+
+ID: M5640_S0050_G0230_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5640_S0050_G0240_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 21
+
+ID: M5640_S0050_G0430_001_pod042
+JP: 司令部からのメールを確認。
+EN: Alert: Mail received from Command.
+RU: 
+
+ID: M5640_S0050_G0440_001_pod153
+JP: 司令部からのメールを確認。
+EN: Alert: Mail received from Command.
+RU: 
+
+

@@ -1,0 +1,112 @@
+-- Section 1
+
+ID: M1060_S0070_G0000_001_a2b
+JP: これが……機械生命体！？
+EN: Is that...a machine?
+RU: 
+
+ID: M1060_S0070_G0010_001_a9s
+JP: こんな大きいの……見たことない……
+EN: It's freakin' HUGE...
+RU: 
+
+
+-- Section 2
+
+ID: M1060_S0070_G0140_011_pod042
+JP: 通知：司令部から敵の情報を入手。
+EN: Enemy data obtained from Command.
+RU: 
+
+ID: M1060_S0070_G0150_011_a2b
+JP: 情報を開封して。
+EN: Go ahead.
+RU: 
+
+ID: M1060_S0070_G0160_011_pod042
+JP: 巨大機械生命体は、３２０年前に確認されたのが唯一の記録。
+EN: The only known record of this machine lifeform is a lone sighting 320 years ago.
+RU: 
+
+ID: M1060_S0070_G0170_011_pod042
+JP: 上陸後に超々強力電磁波攻撃を敢行。
+EN: Upon reaching land, the unit unleashed a devastating electromagnetic wave attack.
+RU: 
+
+ID: M1060_S0070_G0180_011_pod042
+JP: 当時の戦闘では、護衛部隊のレジスタンスが全滅。
+EN: All Resistance fighters in the vicinity were annihilated.
+RU: 
+
+ID: M1060_S0070_G0190_011_a2b
+JP: つまり、上陸を阻止しなくては再び惨劇が起きる……
+EN: So basically, if this thing reaches land, we're screwed.
+RU: 
+
+ID: M1060_S0070_G0200_011_pod042
+JP: その推論を支持。
+EN: Affirmative.
+RU: 
+
+
+-- Section 3
+
+ID: M1060_S0070_G0020_001_a9s
+JP: くそっ……ＥＭＰ攻撃で接近を防いでるのか……
+EN: Crap! It's blocking close-range attacks with EMP blasts.
+RU: 
+
+ID: M1060_S0070_G0030_001_a9s
+JP: なんとか別の方法で攻撃しないと……
+EN: We've got to find another way to damage it.
+RU: 
+
+ID: M1060_S0070_G0040_011_op60
+JP: ２Bさんっ！衛星レーザーの直接攻撃承認が下りました！
+EN: 2B, Command is attempting to launch a satellite laser strike on your target!
+RU: 
+
+ID: M1060_S0070_G0050_011_op60
+JP: でも、敵の発生する電磁波迷彩で照準が不安定になっています。
+EN: But the enemy's electromagnetic camouflage is making it impossible to aim.
+RU: 
+
+ID: M1060_S0070_G0060_011_op60
+JP: 発生源を突き止めて、破壊してください！
+EN: We need you to find the emitter and take it out!
+RU: 
+
+ID: M1060_S0070_G0070_011_a2b
+JP: 簡単に言う……
+EN: Oh, is that all?
+RU: 
+
+ID: M1060_S0070_G0080_011_op60
+JP: すみません！でも、よろしくお願いします！
+EN: I know, I know! But it's the only way!
+RU: 
+
+ID: M1060_S0070_G0131_011_pod042
+JP: ＥＭＰ発生器の位置を確認。マップにマーク。
+EN: EMP generator target confirmed. Marking on map.
+RU: 
+
+ID: M1060_S0070_G0132_011_pod042
+JP: 推奨：ＥＭＰ発生器の速やかな破壊。
+EN: Proposal: Destroy the generator quickly.
+RU: 
+
+
+-- Section 4
+
+ID: M1060_S0070_G0210_011_op60
+JP: 妨害電磁波の消失を確認しました！
+EN: Electromagnetic interference eliminated!
+RU: 
+
+ID: M1060_S0070_G0220_011_op60
+JP: 衛星レーザー攻撃、着弾します！
+EN: Preparing for satellite laser strike!
+RU: 
+
+

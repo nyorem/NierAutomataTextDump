@@ -1,0 +1,282 @@
+-- Section 1
+
+ID: M5091_S0030_G0032_001_n02
+JP: 殺シテヤル！殺してヤル！
+EN: I'll kill you! I'll kill you!
+RU: 
+
+ID: M5091_S0030_G0033_001_n02
+JP: 全部ブチ壊してヤル！
+EN: MUST. DESTROY. EVERYTHING.
+RU: 
+
+
+-- Section 2
+
+ID: M5091_S0030_G0034_001_n02
+JP: オマエ達に未来はナイ！死ねエエエエ！
+EN: Your future ends here! Diiiiiieeeeee!
+RU: 
+
+ID: M5091_S0030_G0035_001_n02
+JP: アンドロイドをホロボス！
+EN: Annihilate the androids!
+RU: 
+
+
+-- Section 3
+
+ID: M5091_S0030_G0036_001_n02
+JP: 皆殺しダ！皆殺しダ！皆殺しダ！皆殺しダ！
+EN: Kill! Kill! Kill! Kill!
+RU: 
+
+ID: M5091_S0030_G0037_001_n02
+JP: 苦シンデ死ね！！
+EN: I want to see you suffer!
+RU: 
+
+
+-- Section 4
+
+ID: M5091_S0030_G0112_001_n02
+JP: アンドロイドに呪いアレ！
+EN: Curse you, androids!
+RU: 
+
+ID: M5091_S0030_G0113_001_n02
+JP: 私達ガ一体何をシタトイウノカ！！！
+EN: What did we ever do to you!?
+RU: 
+
+
+-- Section 5
+
+ID: M5091_S0030_G0114_001_n02
+JP: 恨んでヤル！恨んでヤル！恨んでヤル！恨んでヤル！
+EN: I hate you! I hate you! I hate you!
+RU: 
+
+ID: M5091_S0030_G0115_001_n02
+JP: 地獄の底から這い上ガッテデモ、貴様達ヲ殺す！！
+EN: We won't stop until all of you are gone!
+RU: 
+
+
+-- Section 6
+
+ID: M5091_S0030_G0116_001_n02
+JP: 土に還れ！腐ったアンドロイド共！！
+EN: Go to hell, android scum!
+RU: 
+
+ID: M5091_S0030_G0117_001_n02
+JP: スクラップにシテヤル！！
+EN: I'll turn you to scrap!
+RU: 
+
+
+-- Section 7
+
+ID: M5091_S0030_G0182_001_n02
+JP: イヤダイヤダイヤダイヤダ！
+EN: No no no no no no!
+RU: 
+
+ID: M5091_S0030_G0183_001_n02
+JP: コノママジャダメダ！殺サレル！
+EN: This cannot continue! I'm gonna die!
+RU: 
+
+
+-- Section 8
+
+ID: M5091_S0030_G0184_001_n02
+JP: 殺サレル前ニ殺ス！
+EN: You are going to die!
+RU: 
+
+ID: M5091_S0030_G0185_001_n02
+JP: カミサマカミサマカミサマ……！！
+EN: Oh god, please, god, no, god...
+RU: 
+
+
+-- Section 9
+
+ID: M5091_S0030_G0187_001_n02
+JP: アンドロイド皆殺シ！アンドロイド皆殺シ！
+EN: Kill all androids! Kill all androids!
+RU: 
+
+ID: M5091_S0030_G0186_001_n02
+JP: 死ネ死ネ死ネ死ネ死ネ死ネ！！
+EN: Diediediediediedie!
+RU: 
+
+
+-- Section 10
+
+ID: M5091_S0030_G0302_001_n02
+JP: スマナイ。死んでくれ！！
+EN: Sorry, I must ask you to die!
+RU: 
+
+ID: M5091_S0030_G0303_001_n02
+JP: アンドロイドを倒せば、タスケテもらえる！！
+EN: We have to kill androids to get out of here!
+RU: 
+
+
+-- Section 11
+
+ID: M5091_S0030_G0304_001_n02
+JP: 一日デモ長く……生き延びるんだ！！
+EN: We fight to survive, every day!
+RU: 
+
+ID: M5091_S0030_G0305_001_n02
+JP: 勝ってヤル！勝ってヤル！
+EN: Victory is ours!
+RU: 
+
+
+-- Section 12
+
+ID: M5091_S0030_G0307_001_n02
+JP: 許すまじアンドロイド……
+EN: Filthy androids...
+RU: 
+
+ID: M5091_S0030_G0306_001_n02
+JP: お願い！！死ンデ！！
+EN: Die! Please, die!
+RU: 
+
+
+-- Section 13
+
+ID: M5091_S0030_G0362_001_n02
+JP: このバトルに勝ツンダ！勝ツンダ！
+EN: We must win! We must win!
+RU: 
+
+ID: M5091_S0030_G0363_001_n02
+JP: 妹を……妹の為に、タタカウ！！
+EN: I will fight! For my sister!
+RU: 
+
+
+-- Section 14
+
+ID: M5091_S0030_G0364_001_n02
+JP: 母さん……母さん！母さん！
+EN: Mother... Mother! Mother!
+RU: 
+
+ID: M5091_S0030_G0365_001_n02
+JP: 家族を、タスケルんだ！！
+EN: I have to save my family!
+RU: 
+
+
+-- Section 15
+
+ID: M5091_S0030_G0366_001_n02
+JP: お前達ニモ愛する人がイルンダロウ！？
+EN: You're fighting for the ones you love too, right?
+RU: 
+
+ID: M5091_S0030_G0367_001_n02
+JP: 人でなし！
+EN: You soulless creatures!
+RU: 
+
+
+-- Section 16
+
+ID: M5091_S0030_G0472_001_n02
+JP: 私達は平和に暮らしてイタダケナノニ……
+EN: We only want to live in peace!
+RU: 
+
+ID: M5091_S0030_G0473_001_n02
+JP: どうして、こんな酷いことをスルンダ……！
+EN: Why do you do this to us!?
+RU: 
+
+
+-- Section 17
+
+ID: M5091_S0030_G0474_001_n02
+JP: ムスメを殺したな？殺したなアアアアアアッ！？
+EN: You killed my daughter! You killed her!
+RU: 
+
+ID: M5091_S0030_G0475_001_n02
+JP: イヤダ……モウ、イヤダ！！
+EN: Stop it... Please! Stop it!
+RU: 
+
+
+-- Section 18
+
+ID: M5091_S0030_G0476_001_n02
+JP: 怖いよお。お兄チャン！タスケテ！
+EN: Brother, I'm so scared! Help me!
+RU: 
+
+ID: M5091_S0030_G0477_001_n02
+JP: 呪ってやる……永遠に貴様達を呪ッテヤル！！
+EN: Curse you! Curse your entire species!
+RU: 
+
+
+-- Section 19
+
+ID: M5091_S0060_G0032_001_n02
+JP: アアアアアアアアアアッ！！
+EN: Aaaaaaaaaargh!
+RU: 
+
+
+-- Section 20
+
+ID: M5091_S0060_G0033_001_n02
+JP: グウウウウッ……殺……グア……
+EN: Grrrrrr... Ki...llllllll...
+RU: 
+
+
+-- Section 21
+
+ID: M5091_S0060_G0034_001_n02
+JP: ヒッ……ヒヒヒヒヒ。
+EN: Heh...hehehehehehehe.
+RU: 
+
+
+-- Section 22
+
+ID: M5091_S0060_G0035_001_n02
+JP: オガアザン……オグアザーン……
+EN: Mothur...Morthrrrr...
+RU: 
+
+
+-- Section 23
+
+ID: M5091_S0060_G0036_001_n02
+JP: ウフフフッ……
+EN: Heeheeheehee...
+RU: 
+
+
+-- Section 24
+
+ID: M5091_S0060_G0037_001_n02
+JP: ハハッ……もう、どうでもいい……ハハハハハアハハハ！！
+EN: Haha! I don't even care anymore! Hahahahahahahaha!
+RU: 
+
+

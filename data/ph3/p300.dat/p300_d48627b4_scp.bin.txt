@@ -1,0 +1,72 @@
+-- Section 1
+
+ID: M3050_S0038_G0080_001_ppl
+JP: ねぇ、９Ｓ……約束して。
+EN: 9S? I need you to promise me something...
+RU: 
+
+ID: M3050_S0038_G0090_001_ppl
+JP: 一人で死のうとしないで。
+EN: Don't die alone.
+RU: 
+
+ID: M3050_S0038_G0100_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M3050_S0038_G0110_001_dbl
+JP: ２Ｂもそれを望んじゃいないだろうしな。
+EN: I don't think 2B would want that either.
+RU: 
+
+ID: M3050_S0038_G0120_001_a9s
+JP: ……わかってる。
+EN: I know.
+RU: 
+
+
+-- Section 2
+
+ID: M3050_S0038_G0130_001_a9s
+JP: ポッド。次のユニットの場所を地図にマーク。
+EN: Pod, mark the next resource-recovery unit on the map.
+RU: 
+
+ID: M3050_S0038_G0140_001_pod153
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+
+-- Section 3
+
+ID: M3050_S0040_S0001_001_a9s
+JP: 何度も何度も……
+EN: Over and over...
+RU: 
+
+
+-- Section 4
+
+ID: M3050_S0042_G0000_001_a9s
+JP: また、あの文字……
+EN: That language again...
+RU: 
+
+ID: M3050_S0042_G0010_001_pod153
+JP: 『神の箱』と記載。
+EN: This reads: "god box."
+RU: 
+
+ID: M3050_S0042_G0020_001_a9s
+JP: 神……
+EN: God, huh...
+RU: 
+
+ID: M3050_S0042_G0030_001_a9s
+JP: 機械ごときがその名前を騙るか……
+EN: What are these machines doing talking about gods?
+RU: 
+
+

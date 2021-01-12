@@ -1,0 +1,392 @@
+-- Section 1
+
+ID: M3000_S0040_G0000_001_op210
+JP: ……以上が命令です。理解出来ましたか？
+EN: ...And those are your orders. Do you understand?
+RU: 
+
+ID: M3000_S0040_G0010_001_a9s
+JP: えーっと……
+EN: Um...
+RU: 
+
+ID: M3000_S0040_G0020_001_a9s
+JP: 僕達スキャナー部隊は、総攻撃に備え、\n敵の防空システムをハッキングで麻痺させる。
+EN: The Scanners are going to hack into the enemy's anti-air system and shut it down in advance of an all-out assault, right?
+RU: 
+
+ID: M3000_S0040_G0030_001_op210
+JP: その通りです。良く出来ました。
+EN: That's right. Good job, 9S!
+RU: 
+
+ID: M3000_S0040_G0040_001_a9s
+JP: なんか……子供扱いされてる？
+EN: Why are you talking to me like I'm a child?
+RU: 
+
+ID: M3000_S0040_G0050_001_op210
+JP: 気のせいです。
+EN: What? That must be your imagination.
+RU: 
+
+ID: M3000_S0040_G0060_001_op210
+JP: 防空システムを受信している機械生命体は、
+EN: Look for machines that are receiving signals from the anti-air system.
+RU: 
+
+ID: M3000_S0040_G0070_001_op210
+JP: 電波状況の良い高所にいる筈です。
+EN: They should be located in elevated areas with good signal reception.
+RU: 
+
+ID: M3000_S0040_G0071_001_op210
+JP: ハッキング対象の機械生命体について\n大雑把な予測位置をマップに転送しました。
+EN: I've forwarded the general positions of the machine lifeforms you need to hack.
+RU: 
+
+ID: M3000_S0040_G0080_001_a9s
+JP: 了解。
+EN: Roger.
+RU: 
+
+ID: M3000_S0040_G0020_300_op210
+JP: 対象はくれぐれも破壊しないでください。\n破壊してもしばらくすると代わりの個体が現れてキリがありません。
+EN: Please refrain from destroying the target. If you do, another one will simply take its place.
+RU: 
+
+ID: M3000_S0040_G0030_300_a9s
+JP: はいはい。そんなことしませんよ～
+EN: No killing the target. Got it.
+RU: 
+
+
+-- Section 2
+
+ID: M3000_S0040_G0000_300_op210
+JP: 対象は電波状況の良い高いところに居ると推察されます。\nビルの屋上などを調べてみてください。
+EN: The target is thought to be in a high location with good network reception. Try examining the rooftops of buildings.
+RU: 
+
+ID: M3000_S0040_G0010_300_a9s
+JP: 了解。
+EN: Roger.
+RU: 
+
+
+-- Section 3
+
+ID: M3000_S0040_G0040_300_op210
+JP: 対象の外見は通常個体と同じなので注意してください。\nただ、対象に接近すればマーカーが表示されます。
+EN: Be advised, the target's appearance is identical to that of a standard enemy. Once you approach, however, a marker will appear.
+RU: 
+
+ID: M3000_S0040_G0050_300_a9s
+JP: なんだか、あいつらどんどん賢くなってるような気がするな。
+EN: Is it me, or does it seem like they're getting smarter?
+RU: 
+
+
+-- Section 4
+
+ID: M3000_S0040_G0090_001_a9s
+JP: しまった……
+EN: Whoops!
+RU: 
+
+ID: M3000_S0040_G0100_001_op210
+JP: ９Ｓ。命令はハッキングであって、撃破ではありません。
+EN: Unit 9S, your orders are to hack in to enemy units, not destroy them.
+RU: 
+
+ID: M3000_S0040_G0110_001_op210
+JP: 壊してしまうと再配備されるので意味が無いからです
+EN: Destroyed units will simply be replaced. Attacking is pointless.
+RU: 
+
+ID: M3000_S0040_G0120_001_op210
+JP: 敵の視界の後ろからそーっと迫って……
+EN: Try to sneak up behind your foes, keep out of sight, and then...
+RU: 
+
+ID: M3000_S0040_G0130_001_op210
+JP: ギュッっとハッキングしてください。
+EN: Boom! Hack 'em up good.
+RU: 
+
+ID: M3000_S0040_G0140_001_a9s
+JP: わかってるよ……
+EN: Um, okay.
+RU: 
+
+ID: M3000_S0040_G0150_001_a9s
+JP: 『ギュッっとハッキング』って何だ……
+EN: ..."Boom?" Is she serious?
+RU: 
+
+
+-- Section 5
+
+ID: M3000_S0040_G0060_300_op210
+JP: あー。また破壊してしまったんですか……
+EN: Hmph! You destroyed it again.
+RU: 
+
+ID: M3000_S0040_G0070_300_op210
+JP: ギュッとハッキングするんですよ！ギュッと！\n交代の敵が配備されると思うので次こそはお願いします。
+EN: You have to hack 'em! Hack-hack-hack!\nThey'll substitute another enemy soon, so try again.
+RU: 
+
+ID: M3000_S0040_G0080_300_a9s
+JP: 了解です。
+EN: Got it.
+RU: 
+
+
+-- Section 6
+
+ID: M3000_S0040_G0090_300_op210
+JP: ハッキングに成功したみたいですね。\nエラいですね。
+EN: I see your hacking was successful. Way to go!
+RU: 
+
+ID: M3000_S0040_G0100_300_a9s
+JP: やっぱり子供扱いされてる……
+EN: You're totally treating me like a kid.
+RU: 
+
+ID: M3000_S0040_G0110_300_op210
+JP: 次もよろしくお願いします。
+EN: Now move onto the next one!
+RU: 
+
+ID: M3000_S0040_G0120_300_a9s
+JP: ……はーい
+EN: Fiiiine.
+RU: 
+
+
+-- Section 7
+
+ID: M3000_S0040_G0130_300_op210
+JP: 防衛システム稼働率低下を確認。
+EN: Defensive system operation confirmed to be declining.
+RU: 
+
+ID: M3000_S0040_G0140_300_a9s
+JP: もう少しだね。
+EN: Almost there.
+RU: 
+
+
+-- Section 8
+
+ID: M3000_S0040_G0160_001_op210
+JP: 順調なようですね。
+EN: Looks like it's going well down there.
+RU: 
+
+ID: M3000_S0040_G0170_001_op210
+JP: 今回の作戦では、他のスキャナー部隊員も総動員されています。
+EN: Every Scanner in the force is involved in this operation.
+RU: 
+
+ID: M3000_S0040_G0180_001_op210
+JP: 私達も後れをとらないようにしなければ。
+EN: So let's try not to fall behind.
+RU: 
+
+ID: M3000_S0040_G0190_001_a9s
+JP: はーい。後れをとらないようにしまーす。
+EN: Yeah, yeah. No falling behind. Got it.
+RU: 
+
+ID: M3000_S0040_G0200_001_op210
+JP: ９Ｓ。
+EN: 9S?
+RU: 
+
+ID: M3000_S0040_G0210_001_a9s
+JP: なに？
+EN: What is it?
+RU: 
+
+ID: M3000_S0040_G0220_001_op210
+JP: 戦闘中はなるべく当該エリアから離れて下さい。
+EN: Make sure to do whatever is necessary to avoid combat.
+RU: 
+
+ID: M3000_S0040_G0230_001_a9s
+JP: それじゃあ、支援出来ませんけど。
+EN: And how will I provide support to the squad if I don't fight?
+RU: 
+
+ID: M3000_S0040_G0240_001_op210
+JP: 貴方のようなスキャナーモデルは戦闘向きではありません。
+EN: Scanner units such as yourself are not designed for battle.
+RU: 
+
+ID: M3000_S0040_G0250_001_a9s
+JP: あれ？心配してくれてるんですか？
+EN: Aw, are you worried about me?
+RU: 
+
+ID: M3000_S0040_G0260_001_op210
+JP: いえ。戦場にいても足手まといなだけですので。
+EN: No. I'm merely pointing out that you would be a liability on the battlefield.
+RU: 
+
+ID: M3000_S0040_G0270_001_a9s
+JP: 酷すぎる。
+EN: Wow, that's...harsh.
+RU: 
+
+
+-- Section 9
+
+ID: M3000_S0040_G0280_001_a11s
+JP: １１Ｓより９Ｓへ。聞こえますか？
+EN: 11S to 9S, come in.
+RU: 
+
+ID: M3000_S0040_G0290_001_a9s
+JP: 聞こえますー
+EN: 9S here. Go ahead.
+RU: 
+
+ID: M3000_S0040_G0300_001_a11s
+JP: こちらの担当分作業は全て終了。そっちはどう？
+EN: I'm just about wrapped up here. How about you?
+RU: 
+
+ID: M3000_S0040_G0310_001_a9s
+JP: こっちも……あと一つかな。
+EN: Um, just one left, I think.
+RU: 
+
+ID: M3000_S0040_G0320_001_a11s
+JP: 了解。
+EN: Roger.
+RU: 
+
+ID: M3000_S0040_G0330_001_a11s
+JP: あと、バンカーに戻ったらデータ同期をしておいて。
+EN: Be sure to head back to the Bunker when you're done so you can sync your data.
+RU: 
+
+ID: M3000_S0040_G0340_001_a9s
+JP: あ……忘れてた。
+EN: Oh, right. I forgot about that.
+RU: 
+
+ID: M3000_S0040_G0350_001_a11s
+JP: 君の戦闘データが未納だから、スキャナーモデル全体が\nアップデート出来ないんです。
+EN: Until your combat data is uploaded, none of the Scanner modules can run updates.
+RU: 
+
+ID: M3000_S0040_G0360_001_a9s
+JP: 了解。この作戦が終了したら対応する。
+EN: Okay. I'll take care of it as soon as I'm done here.
+RU: 
+
+ID: M3000_S0040_G0370_001_a11s
+JP: 頼みましたよー
+EN: Appreciated.
+RU: 
+
+
+-- Section 10
+
+ID: M3000_S0050_G0000_001_a9s
+JP: ふうっ……これで分担は全部かな。
+EN: Whew... That looks like everything.
+RU: 
+
+ID: M3000_S0050_G0020_001_pod153
+JP: 推奨：戦闘状況が悪化する前に２Ｂと合流。
+EN: Proposal: Unit 9S should rendezvous with unit 2B before the combat situation worsens.
+RU: 
+
+ID: M3000_S0050_G0030_001_a9s
+JP: わかってる。
+EN: Sounds like a plan.
+RU: 
+
+ID: M3000_S0050_G0040_001_a9s
+JP: えーっと、２Ｂとの合流地点を地図にマーク……っと。
+EN: Lemme just mark the point on the map. Aaaand...there.
+RU: 
+
+
+-- Section 11
+
+ID: M3000_S0040_G0150_300_op210
+JP: 敵防衛システム、完全に沈黙。\nやれば出来るじゃないですか。
+EN: Enemy defense system fully offline.\nI knew you could do it.
+RU: 
+
+ID: M3000_S0040_G0160_300_a9s
+JP: いつも出来てるよ……
+EN: I-I always do...
+RU: 
+
+ID: M3000_S0040_G0170_300_op210
+JP: 素晴らしい成果なので、ご褒美を用意しました。
+EN: That really was brilliant work, which means I've got a special surprise for you.
+RU: 
+
+ID: M3000_S0040_G0180_300_op210
+JP: 私の部屋に置いておくので後で取りに来てください。
+EN: I'll leave it in my room so you can pick it up later.
+RU: 
+
+ID: M3000_S0040_G0190_300_a9s
+JP: ……ご褒美？
+EN: ...A surprise?
+RU: 
+
+
+-- Section 12
+
+ID: M3000_S0040_G0151_001_pod153
+JP: 報告：目標の大型機械生命体に直接ハッキングするのは不可能。
+EN: Analysis: It is not possible to hack directly into the target Goliath-class machine lifeform.
+RU: 
+
+ID: M3000_S0040_G0152_001_pod153
+JP: 特殊なプロテクトを検知。\n機械生命体以外からのアクセスを拒否している模様。
+EN: Special software protection detected. Enemy is refusing access from anything other than machine lifeforms.
+RU: 
+
+ID: M3000_S0040_G0153_001_pod153
+JP: 推奨：まず小型の敵を乗っ取り、その敵を利用して大型の敵をハッキング。
+EN: Proposal: Unit 9S should commandeer a smaller enemy and use it to hack the large one.
+RU: 
+
+ID: M3000_S0040_G0154_001_a9s
+JP: 多段でハッキングすればいいのか……
+EN: A little multi-level hacking, huh?
+RU: 
+
+
+-- Section 13
+
+ID: M3000_S0050_G0010_001_a9s
+JP: 始まった……
+EN: Here we go...
+RU: 
+
+
+-- Section 14
+
+ID: M5920_S0020_G0310_001_pod153
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+ID: M5920_S0020_G0320_001_pod153
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: 
+
+

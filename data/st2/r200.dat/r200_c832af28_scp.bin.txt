@@ -1,0 +1,26 @@
+-- Section 1
+
+ID: M5210_S0040_G0000_300_tani
+JP: ああ、アンタ達。
+EN: It's you, is it?
+RU: 
+
+ID: M5210_S0040_G0020_300_tani
+JP: おかげで安全に過ごすことが出来るようになったよ。
+EN: Thanks to your efforts, I can live here in peace once more.
+RU: 
+
+ID: M5210_S0040_G0030_300_tani
+JP: よかったら要らないアイテムを合成して新しいアイテムにしてあげようか？
+EN: If you like, I can fuse plug-in chips for you.
+RU: 
+
+
+-- Section 2
+
+ID: M5210_S0040_G0040_300_tani
+JP: アイテムを合成するかい？
+EN: Would you like to fuse your plug-in chips?
+RU: 
+
+

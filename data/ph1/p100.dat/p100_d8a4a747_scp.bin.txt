@@ -1,0 +1,52 @@
+-- Section 1
+
+ID: M0010_S0120_G0000_201_op210
+JP: オペレーター２１０から９Ｓへ。聞こえてますか？
+EN: Operator 21O to unit 9S. Come in, 9S.
+RU: 
+
+ID: M0010_S0120_G0010_201_a9s
+JP: 聞こえてますよー
+EN: 9S here. Go ahead.
+RU: 
+
+ID: M0010_S0120_G0020_201_op210
+JP: ヨルハ部隊降下作戦が開始されました。
+EN: The YoRHa troops have commenced their descent.
+RU: 
+
+ID: M0010_S0120_G0030_201_op210
+JP: 速やかに敵拠点の防衛システムを解除してください。
+EN: Disable the enemy base's defense systems immediately.
+RU: 
+
+ID: M0010_S0120_G0040_201_a9s
+JP: 了解しましたー
+EN: Roger that!
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0120_G0020_300_pod153
+JP: 警告：速やかな作戦行動の遂行。
+EN: Alert: Proceed with mission operations immediately.
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0120_G0010_300_pod153
+JP: 推奨：飛行ユニットへの搭乗。
+EN: Flight unit recommended.
+RU: 
+
+
+-- Section 4
+
+ID: M0010_S0120_G0000_300_pod153
+JP: 警告：防衛システムは地上ルートから辿り着くのは不可能。
+EN: Alert: Defense systems cannot be reached from the ground.
+RU: 
+
+

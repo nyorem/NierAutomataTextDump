@@ -1,0 +1,66 @@
+-- Section 1
+
+ID: M0010_S0210_G0000_001_a9s
+JP: ２Ｂさんですね？
+EN: You're 2B, right?
+RU: 
+
+ID: M0010_S0210_G0010_001_a9s
+JP: 僕は９Ｓです。貴方のサポートをするように指令を受けています。
+EN: My name's 9S. I'm here to provide support.
+RU: 
+
+ID: M0010_S0210_G0020_001_a2b
+JP: 了解。
+EN: Copy that.
+RU: 
+
+ID: M0010_S0210_G0030_001_a9s
+JP: この大きなノコギリが、目標の『超大型兵器』ですか？
+EN: Soooo, was that big ol' buzzsaw the Goliath you came here to take out?
+RU: 
+
+ID: M0010_S0210_G0040_001_a2b
+JP: 違う。単なる防衛装置みたい。
+EN: No. Just another defensive system.
+RU: 
+
+ID: M0010_S0210_G0050_001_a9s
+JP: じゃあ……目標を探す必要がありますね。
+EN: Oh. Well, uh...I guess we have to find the target then, huh?
+RU: 
+
+ID: M0010_S0210_G0060_001_a9s
+JP: 僕は飛行ユニットがありますから、外から見て廻ります。
+EN: I've got a flight unit, so I'll take a look around the perimeter.
+RU: 
+
+ID: M0010_S0210_G0070_001_a2b
+JP: わかった。私は内部を中心に調べてみる。
+EN: All right. I'll work my way inside from the ground.
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0220_G0030_101_a9s
+JP: ２Ｂさん！
+EN: 2B? Uh, ma'am?
+RU: 
+
+ID: M0010_S0220_G0040_101_a2b
+JP: 何？
+EN: What is it?
+RU: 
+
+ID: M0010_S0220_G0050_101_a9s
+JP: 事前に調査しておいたマップデータを転送しておきますね。
+EN: I was going to send you the map data I collected earlier.
+RU: 
+
+ID: M0010_S0220_G0060_101_a2b
+JP: 了解。
+EN: Do it.
+RU: 
+
+

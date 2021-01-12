@@ -1,0 +1,10 @@
+ID: CORE_ITEM_NAME_984
+JP: 素朴な少年の服
+EN: Young Man's Outfit
+RU: 
+
+ID: PAUSE_QUEST_HELP_Q999
+JP: No MessagePAUSE_QUEST_HELP_Q999
+EN: No MessagePAUSE_QUEST_HELP_Q999
+RU: 
+

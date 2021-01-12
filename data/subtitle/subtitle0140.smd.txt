@@ -1,0 +1,65 @@
+ID: M0010_S0800_H0000_001_a2b
+JP: いい加減、壊れろっ！
+EN: Would you just...die already!
+RU: 
+
+ID: M0010_S0800_H0010_001_a9s
+JP: はははっ……スゴく強引な戦い方ですね。２Ｂは。
+EN: Heheh... Talk about...bringing the battle to them...huh, 2B?
+RU: 
+
+ID: M0010_S0800_H0020_001_a2b
+JP: 本部に、救援要請を
+EN: Contact Command. Request assistance.
+RU: 
+
+ID: M0010_S0800_H0030_001_a9s
+JP: いや、その必要は無い……みたいです。
+EN: No... It doesn't look like that's...going to be necessary...
+RU: 
+
+ID: M0010_S0800_H0040_001_a2b
+JP: そんな……
+EN: Oh, great.
+RU: 
+
+ID: M0010_S0800_H0050_001_a9s
+JP: 中々、上手くは……いかないみたいですね。
+EN: I don't imagine that...this is going to end well.
+RU: 
+
+ID: M0010_S0800_H0060_001_a9s
+JP: 準備は、出来ました。
+EN: The black box...
+RU: 
+
+ID: M0010_S0800_H0070_001_a9s
+JP: ブラックボックスを……
+EN: It's ready.
+RU: 
+
+ID: M0010_S0800_H0080_001_a2b
+JP: わかった。
+EN: ...Right.
+RU: 
+
+ID: M0010_S0800_H0090_001_a9s
+JP: 申請……ブラックボックス反応による敵大型兵器の殲滅。
+EN: Requesting...destruction of enemy hostiles via black-box reaction.
+RU: 
+
+ID: M0010_S0800_H0100_001_op210
+JP: 申請を、許可します。
+EN: Request accepted.
+RU: 
+
+ID: M0010_S0800_H0110_001_a9s
+JP: ２Ｂ。貴女と共に戦えて光栄でした。
+EN: 2B...it was an honor to fight with you. Truly.
+RU: 
+
+ID: M0010_S0800_H0120_001_a2b
+JP: ……私もだ。
+EN: The honor was mine.
+RU: 
+

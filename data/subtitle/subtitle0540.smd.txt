@@ -1,0 +1,15 @@
+ID: M1070_S0300_H0000_001_adam
+JP: これが……死か……
+EN: Is this...death...?
+RU: 
+
+ID: M1070_S0300_H0010_001_adam
+JP: 暗くて……冷た……
+EN: So dark... So cold...
+RU: 
+
+ID: M1070_S0300_H0020_001_a2b
+JP: ９Ｓ！！
+EN: 9S!
+RU: 
+

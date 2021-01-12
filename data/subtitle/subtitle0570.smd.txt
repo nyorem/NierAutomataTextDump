@@ -1,0 +1,90 @@
+ID: M1080_S0060_H0000_101_a2b
+JP:  
+EN:  
+RU: 
+
+ID: M1080_S0060_H0010_101_prst
+JP: 教祖様はカミになった！
+EN: His wondrous Grace has become a god!
+RU: 
+
+ID: M1080_S0060_H0020_101_prsts
+JP: カミになった！
+EN: His Grace is a god!
+RU: 
+
+ID: M1080_S0060_H0030_101_prst
+JP: 教祖様はカミになった！
+EN: His wondrous Grace has become a god!
+RU: 
+
+ID: M1080_S0060_H0040_101_prsts
+JP: カミになった！
+EN: ...become a god!
+RU: 
+
+ID: M1080_S0060_H0050_101_prst
+JP: 教祖様はカミになった！
+EN: His wondrous Grace has become a god!
+RU: 
+
+ID: M1080_S0060_H0060_101_prsts
+JP: カミになった！
+EN: ...become a god!
+RU: 
+
+ID: M1080_S0060_H0070_101_prst
+JP: 私達もカミになる！
+EN: We as well shall become as gods!
+RU: 
+
+ID: M1080_S0060_H0080_101_prsts
+JP: カミになる！
+EN: ...become as gods!
+RU: 
+
+ID: M1080_S0060_H0090_101_prst
+JP: 私達もカミになる！
+EN: We as well shall become as gods!
+RU: 
+
+ID: M1080_S0060_H0100_101_prsts
+JP: カミになる！
+EN: ...become as gods!
+RU: 
+
+ID: M1080_S0060_H0110_101_prst
+JP: 君達もカミになる！
+EN: All of you shall become as gods!
+RU: 
+
+ID: M1080_S0060_H0120_101_prsts
+JP: カミになる！
+EN: ...become as gods!
+RU: 
+
+ID: M1080_S0060_H0130_101_prst
+JP: 君達もカミになる！
+EN: All of you shall become as gods!
+RU: 
+
+ID: M1080_S0060_H0140_101_prsts
+JP: カミになる！
+EN: ...become as gods!
+RU: 
+
+ID: M1080_S0060_H0150_101_prst
+JP: 君達もカミになる！
+EN: All of you shall become as gods!
+RU: 
+
+ID: M1080_S0060_H0160_101_prsts
+JP: カミになる！
+EN: ...become as gods!
+RU: 
+
+ID: M1080_S0060_H0170_101_prsts
+JP: 皆で死んで、カミになる！！
+EN: We'll all die together and become as gods!
+RU: 
+

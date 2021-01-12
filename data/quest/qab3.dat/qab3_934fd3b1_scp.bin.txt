@@ -1,0 +1,28 @@
+-- Section 1
+
+ID: M1030_S0245_S0000_201_vw
+JP: ねぇ……見て？
+EN: Hey...what do you think?
+RU: 
+
+ID: M1030_S0245_S0010_201_vw
+JP: 機械生命体の仲間達のパーツで飾られている。
+EN: I've accentuated my beauty with parts of my machine friends.
+RU: 
+
+ID: M1030_S0245_S0020_201_vw
+JP: 私……どんどんキレイになってくよ。
+EN: I'm more beautiful than ever now.
+RU: 
+
+ID: M1030_S0245_S0030_201_vw
+JP: だから、お願い。
+EN: So?
+RU: 
+
+ID: M1030_S0245_S0040_201_vw
+JP: 私の事を、好きになって？
+EN: Will you tell me you love me?
+RU: 
+
+

@@ -1,0 +1,34 @@
+-- Section 1
+
+ID: M5095_S0200_G0050_001_announce
+JP: ソレデハこれより、戦闘訓練を開始する。
+EN: Now commencing combat training.
+RU: 
+
+
+-- Section 2
+
+ID: M5095_S0200_G0060_001_announce
+JP: 戦闘訓練を開始スル。
+EN: Commencing combat training.
+RU: 
+
+
+-- Section 3
+
+ID: M5095_S0200_G0070_001_announce
+JP: 戦闘訓練を終了スル。
+EN: Concluding combat training.
+RU: 
+
+ID: M5095_S0200_G0080_001_announce
+JP: プラトン１７２８。成績極めて不良。
+EN: Plato 1728. Results are exceedingly poor.
+RU: 
+
+ID: M5095_S0200_G0090_001_announce
+JP: 早急な修復を要請スル。
+EN: Immediate recovery is required.
+RU: 
+
+

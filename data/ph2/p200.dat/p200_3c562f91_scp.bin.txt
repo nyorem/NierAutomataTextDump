@@ -1,0 +1,194 @@
+-- Section 1
+
+ID: M1050_S0150_S0000_001_kdc
+JP: 目標、敵アンドロイド！！
+EN: Aim for the enemy androids!
+RU: 
+
+ID: M1050_S0150_S0010_001_kdc
+JP: 戦闘状態。起動！
+EN: Engage battle mode!
+RU: 
+
+ID: M1050_S0150_S0020_001_kdc
+JP: 我らが森の王の為に！！
+EN: Now fight for your king!
+RU: 
+
+ID: M1050_S0150_S0030_001_all
+JP: 森の王の為に！！
+EN: For the king!
+RU: 
+
+ID: M1050_S0180_G0000_001_a9s
+JP: 来ましたね！２Ｂ……！
+EN: Here they come...
+RU: 
+
+ID: M1050_S0180_G0010_001_a9s
+JP: 油断しないでください！
+EN: Better keep your guard up!
+RU: 
+
+ID: M1050_S0180_G0020_001_a2b
+JP: それはこっちの台詞。
+EN: I'm aware of how to fight.
+RU: 
+
+ID: M1050_S0180_G0030_001_a2b
+JP: 気をつけて、９Ｓ。
+EN: You just be careful.
+RU: 
+
+ID: M1050_S0180_G0040_001_a9s
+JP: はいっ！
+EN: I will, 2B!
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0180_G0041_001_a2b
+JP: ここの機械生命体は……
+EN: These machines...
+RU: 
+
+ID: M1050_S0180_G0042_001_a9s
+JP: 「王国」とか「王様」って言ってましたね。
+EN: They were talking about a king, right?
+RU: 
+
+ID: M1050_S0180_G0043_001_a9s
+JP: 奥の方に城らしき建造物が見えましたし、ちょっと行って調べてみましょうか。
+EN: I saw what looked to be a castle further in. Maybe we should take a look.
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0190_G0050_001_n02
+JP: 我らが王の王国を守るのだ！
+EN: We must protect our king and kingdom!
+RU: 
+
+ID: M1050_S0190_G0060_001_n02
+JP: 守るのだ！
+EN: We will protect them!
+RU: 
+
+ID: M1050_S0190_G0070_001_n02
+JP: 王国騎士団の意地を見せるのだ！
+EN: We must show our foes what we royal knights are made of!
+RU: 
+
+ID: M1050_S0190_G0080_001_n02
+JP: 見せるのだ！
+EN: We will show them!
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0190_G0130_001_n02
+JP: 引くなッ！戦え！
+EN: No falling back! Fight!
+RU: 
+
+ID: M1050_S0190_G0140_001_n02
+JP: 我らが命……いまこの為に有ると思え！
+EN: You have lived your whole life for this singular moment!
+RU: 
+
+ID: M1050_S0190_G0150_001_n02
+JP: 我らが森の王の為に！！
+EN: For the Forest King!
+RU: 
+
+ID: M1050_S0190_G0160_001_n02
+JP: 森の王の為に！！
+EN: The Forest King!
+RU: 
+
+ID: M1050_S0190_G0170_001_a2b
+JP: こいつら……
+EN: What is with these guys...
+RU: 
+
+ID: M1050_S0190_G0180_001_a9s
+JP: ２Ｂ！機械生命体の言う事に耳を貸しちゃダメだ！
+EN: Don't listen to what they're saying, 2B.
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0190_G0090_001_n02
+JP: 王のオンギに報いるべし！
+EN: We must fulfill our obligation to the king!
+RU: 
+
+ID: M1050_S0190_G0100_001_n02
+JP: 報いるべし！
+EN: We will fulfill!
+RU: 
+
+ID: M1050_S0190_G0110_001_n02
+JP: でも、オンギって何だべさ……
+EN: Er...but what is an "obligation"?
+RU: 
+
+ID: M1050_S0190_G0120_001_n02
+JP: 何だべさ！
+EN: But what is it!?
+RU: 
+
+ID: M1050_S0190_G0121_001_a9s
+JP: 何なんだこいつら……
+EN: Looks like the freakshow's in town...
+RU: 
+
+
+-- Section 6
+
+ID: M1050_S0190_G0130_001_n02
+JP: 引くなッ！戦え！
+EN: No falling back! Fight!
+RU: 
+
+ID: M1050_S0190_G0140_001_n02
+JP: 我らが命……いまこの為に有ると思え！
+EN: You have lived your whole life for this singular moment!
+RU: 
+
+ID: M1050_S0190_G0150_001_n02
+JP: 我らが森の王の為に！！
+EN: For the Forest King!
+RU: 
+
+ID: M1050_S0190_G0160_001_n02
+JP: 森の王の為に！！
+EN: The Forest King!
+RU: 
+
+
+-- Section 7
+
+ID: M1050_S0190_G0011_001_a9s
+JP: あのお城にはどうやって行けばいいんでしょうね……
+EN: How are we supposed to reach that castle?
+RU: 
+
+
+-- Section 8
+
+ID: M1050_S0190_G0000_001_a9s
+JP: さっきの機械生命体達……『王』って言ってましたね。
+EN: So those machines had a king?
+RU: 
+
+ID: M1050_S0190_G0010_001_a9s
+JP: 機械にも忠誠心が芽生える事なんてあるんでしょうか……？
+EN: But how can a concept like loyalty be understood by a machine?
+RU: 
+
+

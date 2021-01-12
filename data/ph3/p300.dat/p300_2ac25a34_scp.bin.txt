@@ -1,0 +1,56 @@
+-- Section 1
+
+ID: M3000_S0730_G0000_001_a9s
+JP: ２Ｂのブラックボックス信号を検索！
+EN: Where the hell is 2B!?
+RU: 
+
+ID: M3000_S0730_G0010_001_pod153
+JP: ２Ｂのブラックボックス信号を検知。
+EN: Scanning. Black box signal located.
+RU: 
+
+ID: M3000_S0730_G0020_001_a9s
+JP: 地図にマーク！
+EN: Put it on the map!
+RU: 
+
+ID: M3000_S0730_G0030_001_pod153
+JP: 警告：大型の振動を感知。
+EN: Alert: Large-scale ground tremors detected.
+RU: 
+
+ID: M3000_S0730_G0040_001_pod153
+JP: 地下の構造が不安定になっている模様。
+EN: Underground soil structure is no longer stable.
+RU: 
+
+ID: M3000_S0730_G0050_001_pod153
+JP: 大規模地震の可能性を示唆。
+EN: Cause is likely a high-magnitude earthquake.
+RU: 
+
+ID: M3000_S0730_G0060_001_pod153
+JP: 推奨：早急な離脱。
+EN: Proposal: Evacuate immediately.
+RU: 
+
+ID: M3000_S0730_G0070_001_a9s
+JP: 離脱なんかする訳ないだろうッ！
+EN: I'm not going anywhere!
+RU: 
+
+
+-- Section 2
+
+ID: M3000_S0730_G0025_300_pod153
+JP: 推奨：２Ｂとの合流地点へ移動。
+EN: Proposal: Proceed to rendezvous point with 2B.
+RU: 
+
+ID: M3000_S0730_G0026_300_pod153
+JP: 本項目は最優先事項に分類される。
+EN: This objective has been assigned top priority.
+RU: 
+
+

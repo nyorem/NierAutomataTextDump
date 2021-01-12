@@ -1,0 +1,707 @@
+-- Section 1
+
+ID: M5092_S0010_G0050_001_robomaskrece
+JP: ここは仮面と掟を崇める聖なる場所……
+EN: This is a sacred place where we worship the masks and the rules.
+RU: 
+
+ID: M5092_S0010_G0060_001_robomaskrece
+JP: 掟２８５８に従い、来訪者には丁寧に説明を行う。
+EN: As per Rule 2,858, I will now provide a more thorough explanation.
+RU: 
+
+ID: M5092_S0010_G0070_001_robomaskrece
+JP: ここは真の仮面の人を選定する場所だ。
+EN: In this place, we select the True Masked One.
+RU: 
+
+ID: M5092_S0010_G0080_001_robomaskrece
+JP: 真の仮面の人になるには、６つの試練を乗り越えねばならない。
+EN: In order to become the True Masked One, six trials must be overcome.
+RU: 
+
+ID: M5092_S0010_G0090_001_robomaskrece
+JP: 汝にその意志があるならば、受付にて参加手続きを行おう。
+EN: If you possess the will to continue, register yourself at the reception area.
+RU: 
+
+
+-- Section 2
+
+ID: M5092_S0010_G0100_001_robomaskrece
+JP: 試練に挑戦してみるか？
+EN: Do you wish to challenge the trials?
+RU: 
+
+ID: M5092_S0020_G0010_001_sele
+JP: はい。
+EN: Indeed.
+RU: 
+
+ID: M5092_S0020_G0020_001_sele
+JP: いいえ。
+EN: Not really.
+RU: 
+
+
+-- Section 3
+
+ID: M5092_S0020_G0070_001_robomaskrece
+JP: よしわかった。
+EN: Very well.
+RU: 
+
+ID: M5092_S0020_G0075_001_robomaskrece
+JP: この闘技場では、試練挑戦中のアイテム使用は禁じられているから注意するように。
+EN: You are not allowed to use items in this arena, so keep your hands where I can see them!
+RU: 
+
+ID: M5092_S0020_G0061_001_robomaskrece
+JP: 掟６０５１３に従い試練への挑戦を認める。
+EN: Per Rule 60,513, I shall accept your request to challenge the trial.
+RU: 
+
+
+-- Section 4
+
+ID: M5092_S0020_G0030_001_robomaskrece
+JP: 試練には、試練1、試練2、試練3、試練4、試練5、最終試練の６段階ある。
+EN: Then know that there are six levels of trials.
+RU: 
+
+ID: M5092_S0020_G0040_001_robomaskrece
+JP: 最初に参加出来るのは試練１のみだ。試練１をクリアすれば試練２に挑戦する事が出来る。
+EN: You must begin at the first trial. Once completed, you will be permitted to attempt the second.
+RU: 
+
+ID: M5092_S0020_G0050_001_robomaskrece
+JP: 試練２をクリアすれば試練３に、試練３をクリアすれば試練４に……という仕組みだ。
+EN: Once you complete the second trial, you will be permitted to attempt the third... And so forth.
+RU: 
+
+ID: M5092_S0020_G0060_001_robomaskrece
+JP: 説明は以上だ。
+EN: This hereby completes the explanation as required by Rule 2,858.
+RU: 
+
+
+-- Section 5
+
+ID: M5092_S0055_G0020_001_robomaskrece
+JP: 現在、難易度<difficulty>において試練EXの最高撃破数は<m_count>体だ。
+EN: At present, the highest number of enemies you have defeated in the Special Trial on <difficulty> difficulty is: <m_count>.
+RU: 
+
+ID: M5092_S0010_G0100_001_robomaskrece
+JP: 試練に挑戦してみるか？
+EN: Do you wish to challenge the trials?
+RU: 
+
+ID: M5092_S0020_G0010_001_sele
+JP: はい。
+EN: Indeed.
+RU: 
+
+ID: M5092_S0020_G0020_001_sele
+JP: いいえ。
+EN: Not really.
+RU: 
+
+
+-- Section 6
+
+ID: M5092_S0055_G0010_001_robomaskrece
+JP: 我らが王よ、新たな試練を用意しておいた。
+EN: We prepared a special new trial for you, your Highness!
+RU: 
+
+ID: M5092_S0055_G0012_001_robomaskrece
+JP: この試練では、真の王の力を測るためオートチップ類は使えないようになっている。
+EN: This trial is meant to test your true strength as King, so your auto-chips will be disabled.
+RU: 
+
+ID: M5092_S0055_G0014_001_robomaskrece
+JP: 是非とも我らに真の王の力を示してくれ。
+EN: Now show us the power of royalty!
+RU: 
+
+
+-- Section 7
+
+ID: M5092_S0030_G0000_001_robomaskmode
+JP: 掟６１２８４に従い「自らの力のみで」切り抜けよ！
+EN: Know that you must "rely on your own strength", as is demanded by Rule 61,284.
+RU: 
+
+ID: M5092_S0030_G0005_001_robomaskmode
+JP: 正々堂々と戦うように。始めッ！
+EN: Fight with fairness and honor. Now begin!
+RU: 
+
+ID: M5092_S0030_G0010_001_robomaskmode
+JP: 掟６１４４４に従い、試練１を終了とする。
+EN: Per Rule 61,444, I declare the first trial to be complete.
+RU: 
+
+ID: M5092_S0030_G0020_001_robomaskrece
+JP: おめでとう。掟６１８９２に従い、試練１をクリアした報酬を与えよう。
+EN: Well done. In accordance with Rule 61,892, I shall grant your reward.
+RU: 
+
+ID: M5092_S0030_G0030_001_robomaskrece
+JP: ……我々が何故仮面をつけているのか、疑問に思っているようだな？
+EN: Are you puzzled by the masks we wear? Then permit me to grant an explanation.
+RU: 
+
+ID: M5092_S0030_G0040_001_robomaskrece
+JP: この地には昔、仮面をつけた人々による王国があったと伝えられている。
+EN: Long ago, it is said, this land was a great kingdom inhabited by a people who wore such masks.
+RU: 
+
+ID: M5092_S0030_G0050_001_robomaskrece
+JP: 我々はその文化を模倣する事で、この地に適応しようとしているのだ。
+EN: In an attempt to better understand our ancient predecessors, we have chosen to emulate their ways.
+RU: 
+
+
+-- Section 8
+
+ID: M5092_S0030_G0070_001_robomaskmode
+JP: 始めッ！
+EN: Begin!
+RU: 
+
+ID: M5092_S0030_G0080_001_robomaskmode
+JP: 掟６１４４４に従い、試練を終了とシマス。
+EN: Per Rule 61,444, I declare the trial to be complete.
+RU: 
+
+ID: M5092_S0060_G0030_001_robomaskrece
+JP: 掟６９８３４に従い、報酬を与えよう。
+EN: In accordance with Rule 69,834, I shall now grant you your reward.
+RU: 
+
+
+-- Section 9
+
+ID: M5092_S0030_G0090_001_robomaskmode
+JP: エエト、掟６１……えーと
+EN: Per Rule 6...61... Er, what was it again?
+RU: 
+
+ID: M5092_S0030_G0091_001_robomaskmode
+JP: そうだ、「逃ゲル事ナク闘ウベシ！」
+EN: Oh yes! "Fight without evading!"
+RU: 
+
+ID: M5092_S0030_G0095_001_robomaskmode
+JP: それでは、試練スタート！
+EN: Let the trial begin!
+RU: 
+
+ID: M5092_S0030_G0100_001_robomaskmode
+JP: 試練２ヲ見事突破シタ事ヲ認メマス！
+EN: I hereby declare you victorious over the second trial.
+RU: 
+
+ID: M5092_S0030_G0110_001_robomaskrece
+JP: おめでとう。掟６１８９２に従い、試練２をクリアした報酬を与えよう。
+EN: Well done. In accordance with Rule 61,892, I shall grant your reward.
+RU: 
+
+ID: M5092_S0030_G0120_001_robomaskrece
+JP: この砂の地で暮らすには、様々な苦労があるのだ。
+EN: Life in the desert takes a toll in ways both large and small.
+RU: 
+
+ID: M5092_S0030_G0130_001_robomaskrece
+JP: この掟も、その為のもの。皆が暮らしやすくする為に、掟を増やしているのだ。
+EN: The rules help us cope with hardship. As such, we continue to expand them so that all might ease their daily lives.
+RU: 
+
+
+-- Section 10
+
+ID: M5092_S0030_G0070_001_robomaskmode
+JP: 始めッ！
+EN: Begin!
+RU: 
+
+ID: M5092_S0030_G0080_001_robomaskmode
+JP: 掟６１４４４に従い、試練を終了とシマス。
+EN: Per Rule 61,444, I declare the trial to be complete.
+RU: 
+
+ID: M5092_S0060_G0030_001_robomaskrece
+JP: 掟６９８３４に従い、報酬を与えよう。
+EN: In accordance with Rule 69,834, I shall now grant you your reward.
+RU: 
+
+
+-- Section 11
+
+ID: M5092_S0030_G0140_001_robomaskmode
+JP: 掟６２１１７：試練は「三分以内に終わるベシ」。
+EN: Rule 62,117: The trial must end within 3 minutes!
+RU: 
+
+ID: M5092_S0030_G0145_001_robomaskmode
+JP: では始め！
+EN: Now...begin!
+RU: 
+
+ID: M5092_S0030_G0150_001_robomaskmode
+JP: 見事デス！
+EN: Most impressive!
+RU: 
+
+ID: M5092_S0030_G0151_001_robomaskmode
+JP: 掟６１５１２に従い、試練３を突破したと認メマス！
+EN: In accordance with Rule 61,512, I hereby declare you victorious over the third trial!
+RU: 
+
+ID: M5092_S0030_G0160_001_robomaskrece
+JP: おめでとう。掟６１８９２に従い、試練３をクリアした報酬を与えよう。
+EN: Well done. In accordance with Rule 61,892, I shall grant your reward.
+RU: 
+
+ID: M5092_S0030_G0170_001_robomaskrece
+JP: む？掟の数……だと？この間１２万４千を突破したと聞いたな。
+EN: ...Hmm? You wish to know how many rules we have? I heard we broke 124,000 fairly recently.
+RU: 
+
+ID: M5092_S0030_G0180_001_robomaskrece
+JP: 我々は昔の仮面の人に習い、常に掟の数を増やしているのだ。
+EN: We must learn from the masks of the past and continue to expand upon our rules.
+RU: 
+
+
+-- Section 12
+
+ID: M5092_S0030_G0070_001_robomaskmode
+JP: 始めッ！
+EN: Begin!
+RU: 
+
+ID: M5092_S0030_G0080_001_robomaskmode
+JP: 掟６１４４４に従い、試練を終了とシマス。
+EN: Per Rule 61,444, I declare the trial to be complete.
+RU: 
+
+ID: M5092_S0060_G0030_001_robomaskrece
+JP: 掟６９８３４に従い、報酬を与えよう。
+EN: In accordance with Rule 69,834, I shall now grant you your reward.
+RU: 
+
+
+-- Section 13
+
+ID: M5092_S0030_G0190_001_robomaskmode
+JP: 掟５４９３：「闇の中で己を見失ってはナラナイ」……
+EN: Rule 5,493: Do not lose sight of yourself in the darkness...
+RU: 
+
+ID: M5092_S0030_G0191_001_robomaskmode
+JP: 気を抜カズニ……では、始メ！
+EN: Whether in or out of the arena, you must not let your guard down. Now begin!
+RU: 
+
+ID: M5092_S0030_G0200_001_robomaskmode
+JP: そこまでッ！掟６１９９３に従い、試練４クリアです！
+EN: Enough! As per Rule 61,993, I declare the fourth trial to be complete!
+RU: 
+
+ID: M5092_S0030_G0210_001_robomaskrece
+JP: おめでとう。掟６１８９２に従い、試練４をクリアした報酬を与えよう。
+EN: Well done. In accordance with Rule 61,892, I shall grant your reward.
+RU: 
+
+ID: M5092_S0030_G0220_001_robomaskrece
+JP: 知っているか？昔、この地で生き抜く為には狼と戦わねばならなかったそうだ。
+EN: A bit of history for you: Those who used to live in this land once had to do battle with a great scourge of wolves.
+RU: 
+
+ID: M5092_S0030_G0230_001_robomaskrece
+JP: 群れのボスは大変賢く、それ故に多くの住人が犠牲になったと文献にはある。
+EN: The alpha wolf was an old and clever soul, and under his guidance did the pack take many of their lives.
+RU: 
+
+ID: M5092_S0030_G0240_001_robomaskrece
+JP: いつの時代も、生きる事は戦いなのだな。
+EN: No matter what era one lives in, life is an eternal struggle.
+RU: 
+
+
+-- Section 14
+
+ID: M5092_S0030_G0070_001_robomaskmode
+JP: 始めッ！
+EN: Begin!
+RU: 
+
+ID: M5092_S0030_G0080_001_robomaskmode
+JP: 掟６１４４４に従い、試練を終了とシマス。
+EN: Per Rule 61,444, I declare the trial to be complete.
+RU: 
+
+ID: M5092_S0060_G0030_001_robomaskrece
+JP: 掟６９８３４に従い、報酬を与えよう。
+EN: In accordance with Rule 69,834, I shall now grant you your reward.
+RU: 
+
+
+-- Section 15
+
+ID: M5092_S0030_G0250_001_robomaskmode
+JP: 掟５４９４：「地に足を付いてはならない」。
+EN: Rule 5,494: Do not let your feet touch the ground.
+RU: 
+
+ID: M5092_S0030_G0251_001_robomaskmode
+JP: この掟は理不尽ダナ……でも、始メ！
+EN: A bit of an unfair rule, I'd say... But BEGIN!
+RU: 
+
+ID: M5092_S0030_G0270_001_robomaskmode
+JP: お見事デス！掟６３７１０に従い、試練５を突破したと認めマス！
+EN: Remarkable! As demanded by Rule 63,710, I formally acknowledge your victory over the fifth trial.
+RU: 
+
+ID: M5092_S0030_G0280_001_robomaskrece
+JP: おめでとう。掟６１８９２に従い、試練５をクリアした報酬を与えよう。
+EN: In accordance with Rule 61,892, I shall grant your reward.
+RU: 
+
+ID: M5092_S0030_G0290_001_robomaskrece
+JP: しかし、いくら平和の為とはいえ、掟が増え過ぎると窮屈なものだ。
+EN: It is said that rules exist not to bind us, but so we might know our freedoms. And yet, I somehow feel...constrained by them.
+RU: 
+
+ID: M5092_S0030_G0300_001_robomaskrece
+JP: 我らでさえこれなのだから、昔の人の苦労はいかばかりか……
+EN: Think, then, how our great ancestors must have felt. Think how terrible it must have been for them.
+RU: 
+
+
+-- Section 16
+
+ID: M5092_S0030_G0070_001_robomaskmode
+JP: 始めッ！
+EN: Begin!
+RU: 
+
+ID: M5092_S0030_G0080_001_robomaskmode
+JP: 掟６１４４４に従い、試練を終了とシマス。
+EN: Per Rule 61,444, I declare the trial to be complete.
+RU: 
+
+ID: M5092_S0060_G0030_001_robomaskrece
+JP: 掟６９８３４に従い、報酬を与えよう。
+EN: In accordance with Rule 69,834, I shall now grant you your reward.
+RU: 
+
+
+-- Section 17
+
+ID: M5092_S0030_G0310_001_robomaskmode
+JP: 掟６４１９９：「真の勇者には触れる事すらデキナイ！」。
+EN: Rule 64,199: A true hero is untouchable!
+RU: 
+
+ID: M5092_S0030_G0311_001_robomaskmode
+JP: ここは難関……どうか、ご武運を！
+EN: Good fighting to you!
+RU: 
+
+ID: M5092_S0030_G0320_001_robomaskmode
+JP: なんと、突破するとは！
+EN: Magnificent! The trial is complete!
+RU: 
+
+ID: M5092_S0030_G0321_001_robomaskmode
+JP: 掟６５１２３により汝を最終試練の勝者とシマス！
+EN: As per the stipulations of Rule 65,123, I declare you victorious over the final trial!
+RU: 
+
+ID: M5092_S0040_G0000_001_robomaskrece
+JP: 掟０００２８に従い、汝を真の仮面の人のモノと認める！
+EN: As demanded by Rule 28, I hereby declare you to be the True Masked One!
+RU: 
+
+ID: M5092_S0040_G0001_001_robomaskrece
+JP: まずは、こちらの「砂の仮面」を与エヨウ。
+EN: First, let me bestow upon you this "Sand Mask."
+RU: 
+
+ID: M5092_S0040_G0002_001_robomaskrece
+JP: さらにオマケとして……
+EN: And as a little extra...
+RU: 
+
+ID: M5092_S0040_G0003_001_robomaskrece
+JP: この服を進呈スル。
+EN: I shall also grant you these clothes.
+RU: 
+
+ID: M5092_S0040_G0004_001_robomaskrece
+JP: 世界を滅ぼした男が着ていた……と言われている服だ。
+EN: It is said these clothes were worn by the man who destroyed the world.
+RU: 
+
+ID: M5092_S0040_G0005_001_robomaskrece
+JP: まあ、世界はこうやって滅んでいないから、嘘の伝説だろうけどな。
+EN: However, as you can see, the world still exists, so I'm sure it is but a mere legend.
+RU: 
+
+ID: M5092_S0040_G0006_001_robomaskrece
+JP: ともかく、おめでとう！
+EN: In any case, congratulations to you!
+RU: 
+
+ID: M5092_S0040_G0010_001_robomaskrece
+JP: 我らが『王』よ。試練を乗り越えた汝にはその称号が相応しい。
+EN: As the one conqueror of the trials, you have earned the title of "King."
+RU: 
+
+ID: M5092_S0040_G0020_001_robomaskrece
+JP: 『王』が何を指すのか我々には判らないのだが、その責務はおそろしく重い……らしい。
+EN: We know not what one is entitled to as "King," save that the post carries an exceedingly heavy burden.
+RU: 
+
+ID: M5092_S0040_G0030_001_robomaskrece
+JP: 『王』は民の基本となるべく、しっかりと掟を守ってほしい。
+EN: From this day forth, you shall serve as an example to us all. You must follow each rule to the letter so that we might also strive for such perfection.
+RU: 
+
+ID: M5092_S0040_G0040_001_robomaskrece
+JP: だが、時には寛容も必要だ。掟に縛られ過ぎて真実を見失ってはいけない。
+EN: And yet, there may be times where tolerance is required. So let yourself not be bound by rules if such a need arises.
+RU: 
+
+ID: M5092_S0040_G0050_001_robomaskrece
+JP: この地にあった国は、最後は自分達で作った掟によって滅びたらしいのでな……
+EN: For it is said that the people of this land met their end at the hands of their own rules...
+RU: 
+
+
+-- Section 18
+
+ID: M5092_S0030_G0070_001_robomaskmode
+JP: 始めッ！
+EN: Begin!
+RU: 
+
+ID: M5092_S0030_G0080_001_robomaskmode
+JP: 掟６１４４４に従い、試練を終了とシマス。
+EN: Per Rule 61,444, I declare the trial to be complete.
+RU: 
+
+ID: M5092_S0060_G0030_001_robomaskrece
+JP: 掟６９８３４に従い、報酬を与えよう。
+EN: In accordance with Rule 69,834, I shall now grant you your reward.
+RU: 
+
+
+-- Section 19
+
+ID: M5092_S0060_G0000_001_robomaskmode
+JP: 掟６２３０５：日々精進し強くなるべし。では始め！
+EN: Rule 62,305: Train hard every day to become stronger. Let the combat commence!
+RU: 
+
+ID: M5092_S0060_G0010_001_robomaskmode
+JP: そこまデ！
+EN: Enough!
+RU: 
+
+ID: M5092_S0060_G0020_001_robomaskmode
+JP: 掟６９４０６に従い、試練EXを終了しマス。
+EN: This concludes the Special Trial, as per Rule 69,406.
+RU: 
+
+ID: M5092_S0060_G0025_001_robomaskrece
+JP: 今の試練で我らが王は<_count>体の機械生命体を撃破した。
+EN: In this trial, you defeated this many enemies: <_count>.
+RU: 
+
+
+-- Section 20
+
+ID: M5092_S0020_G0025_001_robomaskrece
+JP: ならば立ち去るがよい。
+EN: Then begone!
+RU: 
+
+
+-- Section 21
+
+ID: M5092_S0030_G0100_300_telo
+JP: ポッドを使用せずに勝利せよ。
+EN: Win without using your Pod.
+RU: 
+
+
+-- Section 22
+
+ID: M5092_S0030_G0110_300_telo
+JP: 回避を行わずに勝利せよ。
+EN: Win without dodging.
+RU: 
+
+
+-- Section 23
+
+ID: M5092_S0030_G0120_300_telo
+JP: ３分以内に全ての敵を撃破せよ。
+EN: Defeat all enemies within 3 minutes.
+RU: 
+
+
+-- Section 24
+
+ID: M5092_S0030_G0130_300_telo
+JP: 暗闇の中で勝利せよ。
+EN: Fight in the dark.
+RU: 
+
+
+-- Section 25
+
+ID: M5092_S0030_G0140_300_telo
+JP: ブロックから落ちずに勝利せよ。
+EN: Win without touching the ground.
+RU: 
+
+
+-- Section 26
+
+ID: M5092_S0030_G0150_300_telo
+JP: 一度も攻撃を食らわずに勝利せよ。
+EN: Win without getting hit.
+RU: 
+
+
+-- Section 27
+
+ID: M5092_S0030_G0160_301_telo
+JP: ５分以内にできるだけ多くの敵を撃破せよ。
+EN: Destroy as many enemies as you can in 5 minutes.
+RU: 
+
+
+-- Section 28
+
+ID: M5092_S0030_G0030_300_robomaskrece
+JP: どの試練への挑戦を望む？
+EN: Which trial do you wish to challenge?
+RU: 
+
+ID: M5092_S0030_G0095_300_sele
+JP: 試練EX　（推奨Lv：90）
+EN: Special Trial (Rec. Lv: 90)
+RU: 
+
+ID: M5092_S0030_G0090_300_sele
+JP: 試練６　（推奨Lv：80）
+EN: Trial 6 (Rec. Lv: 80)
+RU: 
+
+ID: M5092_S0030_G0080_300_sele
+JP: 試練５　（推奨Lv：70）
+EN: Trial 5 (Rec. Lv: 70)
+RU: 
+
+ID: M5092_S0030_G0070_300_sele
+JP: 試練４　（推奨Lv：60）
+EN: Trial 4 (Rec. Lv: 60)
+RU: 
+
+ID: M5092_S0030_G0060_300_sele
+JP: 試練３　（推奨Lv：50）
+EN: Trial 3 (Rec. Lv: 50)
+RU: 
+
+ID: M5092_S0030_G0050_300_sele
+JP: 試練２　（推奨Lv：35）
+EN: Trial 2 (Rec. Lv: 35)
+RU: 
+
+ID: M5092_S0030_G0040_300_sele
+JP: 試練１　（推奨Lv：25）
+EN: Trial 1 (Rec. Lv: 25)
+RU: 
+
+ID: M5092_S0030_G0094_300_sele
+JP: 試練の説明を受ける
+EN: Hear the rules
+RU: 
+
+ID: M5092_S0030_G0096_300_sele
+JP: やめる
+EN: Quit
+RU: 
+
+
+-- Section 29
+
+ID: M5092_S0030_G0010_300_robomaskmode
+JP: 掟６１４４６に従い、試練失敗とする。
+EN: In accordance with Rule 61,446, I hereby declare you to have failed the trial.
+RU: 
+
+ID: M5092_S0030_G0020_300_robomaskrece
+JP: 残念だったな。掟６１８９１に従い、再び試練を受ける事を勧める。
+EN: A pity. Pursuant to Rule 61,891, I suggest that you challenge the trial again.
+RU: 
+
+
+-- Section 30
+
+ID: M5092_S0030_G0010_300_robomaskmode
+JP: 掟６１４４６に従い、試練失敗とする。
+EN: In accordance with Rule 61,446, I hereby declare you to have failed the trial.
+RU: 
+
+ID: M5092_S0060_G0025_001_robomaskrece
+JP: 今の試練で我らが王は<_count>体の機械生命体を撃破した。
+EN: In this trial, you defeated this many enemies: <_count>.
+RU: 
+
+
+-- Section 31
+
+ID: M5092_S0060_G0040_001_robomaskrece
+JP: 我らが王よ。またの挑戦を待っている。
+EN: We look forward to seeing you again, your Majesty!
+RU: 
+
+
+-- Section 32
+
+ID: M5092_S0060_G0030_001_robomaskrece
+JP: 掟６９８３４に従い、報酬を与えよう。
+EN: In accordance with Rule 69,834, I shall now grant you your reward.
+RU: 
+
+
+-- Section 33
+
+ID: M5092_S0060_G0035_001_robomaskrece
+JP: この仮面は勇者のみに許される束縛の証……
+EN: This mask is a symbol of restraint that only worthy heroes may wear.
+RU: 
+
+ID: M5092_S0060_G0040_001_robomaskrece
+JP: 我らが王よ。またの挑戦を待っている。
+EN: We look forward to seeing you again, your Majesty!
+RU: 
+
+
+-- Section 34
+
+ID: M5092_S0060_G0030_001_robomaskrece
+JP: 掟６９８３４に従い、報酬を与えよう。
+EN: In accordance with Rule 69,834, I shall now grant you your reward.
+RU: 
+
+

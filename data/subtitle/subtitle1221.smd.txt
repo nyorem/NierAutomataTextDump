@@ -1,0 +1,45 @@
+ID: M3060_S0806_H0000_001_a2
+JP: 正式名称は２E……２号機E型。
+EN: The official designation...is 2E. Number 2, Type E.
+RU: 
+
+ID: M3060_S0806_H0010_001_a2
+JP: ヨルハ機体を処刑する為に用意された部隊の一員。
+EN: They were a special class of members designed to execute YoRHa units.
+RU: 
+
+ID: M3060_S0806_H0020_001_a2
+JP: 本当は気づいていたんだろう……９Ｓ。
+EN: But you knew that... Right, 9S?
+RU: 
+
+ID: M3060_S0806_H0030_001_a9s
+JP: うるさい……うるさいッ！
+EN: Shut up... Shut up!
+RU: 
+
+ID: M3060_S0806_H0040_001_a9s
+JP: オマエに一体、僕達の何が判るって言うんだッ！！
+EN: What do you know? You don't know anything at all about us!
+RU: 
+
+ID: M3060_S0806_H0050_001_pod153
+JP: 推奨：停戦。
+EN: Proposal: Cease combat.
+RU: 
+
+ID: M3060_S0806_H0060_001_pod153
+JP: ここで彼女と争う事は非合理的で……
+EN: Fighting her at this point would be irrational and—
+RU: 
+
+ID: M3060_S0806_H0070_001_a9s
+JP: ポッド１５３に命令ッ！貴様の独断の論理思考と発言を禁止する！！
+EN: Pod 153! I order you to halt all logical thought and speech!
+RU: 
+
+ID: M3060_S0806_H0080_001_a9s
+JP: この命令は、Ａ２か僕のどちらかの生命活動の停止が\n確認出来るまで維持しろ！
+EN: This order shall remain in effect until you confirm the death of either myself or unit A2!
+RU: 
+

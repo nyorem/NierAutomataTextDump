@@ -1,0 +1,312 @@
+-- Section 1
+
+ID: M1080_S0070_G0110_300_n02
+JP: 和平を結ぶのではなかったのか……
+EN: I thought we were going to forge peace...
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0070_G0140_300_n02
+JP: 何故こんな残酷な事を……
+EN: Why did something so cruel have to happen?
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0070_G0250_300_n02
+JP: 怖いよ……\n神様、私達は死んだらどうなってしまうのですか？
+EN: God, I'm scared... What's going to happen to us if we die?
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0070_G0270_300_n02
+JP: 嫌だ……死にたくない……
+EN: No... I don't want to die...
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0070_G0084_101_prst
+JP: 死んでカミになれっ！
+EN: Die and become gods!
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0070_G0320_300_n02
+JP: 皆で死んで、カミになる！
+EN: Everyone shall die and become gods!
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0070_G0320_300_n02
+JP: 皆で死んで、カミになる！
+EN: Everyone shall die and become gods!
+RU: 
+
+
+-- Section 8
+
+ID: M1080_S0070_G0300_300_n02
+JP: カミになるのだー！
+EN: We shall become gods!
+RU: 
+
+
+-- Section 9
+
+ID: M1080_S0070_G0330_300_n02
+JP: カミ！カミ！カミ！カミ！カミ！カミ！
+EN: Gods! Gods! Gods! Gods! Gods!
+RU: 
+
+
+-- Section 10
+
+ID: M1080_S0070_G0340_300_n02
+JP: カミィィイイーー！
+EN: Goooooood!
+RU: 
+
+
+-- Section 11
+
+ID: M1080_S0070_G0232_101_prst
+JP: 死んでカミになんてなれない……
+EN: Dying won't make us gods...
+RU: 
+
+
+-- Section 12
+
+ID: M1080_S0070_G0140_300_n02
+JP: 何故こんな残酷な事を……
+EN: Why did something so cruel have to happen?
+RU: 
+
+
+-- Section 13
+
+ID: M1080_S0070_G0200_300_n02
+JP: 誰か、助けて……
+EN: Somebody help me...
+RU: 
+
+
+-- Section 14
+
+ID: M1080_S0070_G0210_300_n02
+JP: 怖いよ……
+EN: I’m scared...
+RU: 
+
+
+-- Section 15
+
+ID: M1080_S0070_G0230_300_n02
+JP: もう終わりだ……何もかも終わりだ……
+EN: It's over... It's all over...
+RU: 
+
+
+-- Section 16
+
+ID: M1080_S0070_G0220_300_n02
+JP: ウウ……
+EN: Ooooh...
+RU: 
+
+
+-- Section 17
+
+ID: M1080_S0070_G0270_300_n02
+JP: 嫌だ……死にたくない……
+EN: No... I don't want to die...
+RU: 
+
+
+-- Section 18
+
+ID: M1080_S0070_G0260_300_n02
+JP: 神様助けて……神様どうか……
+EN: Help me, O God... Please, my God...
+RU: 
+
+
+-- Section 19
+
+ID: M1080_S0070_G0160_300_n02
+JP: ああ神よ、どうか皆に正気をお戻し下さい。
+EN: O God, please restore them to their senses...
+RU: 
+
+
+-- Section 20
+
+ID: M1080_S0070_G0180_300_n02
+JP: 一体皆に何が起こったというのだ……
+EN: What happened to everyone?
+RU: 
+
+
+-- Section 21
+
+ID: M1080_S0070_G0130_300_n02
+JP: こんな事を神が許すというのか……
+EN: How could God allow this?
+RU: 
+
+
+-- Section 22
+
+ID: M1080_S0070_G0234_101_prst
+JP: これからどうやって生きていけばいいの……
+EN: How am I supposed to live now...?
+RU: 
+
+
+-- Section 23
+
+ID: M1080_S0070_G0231_101_prst
+JP: ああっ……どうしてこんな事に……
+EN: Ahhh... Why did this happen...?
+RU: 
+
+
+-- Section 24
+
+ID: M1080_S0070_G0200_300_n02
+JP: 誰か、助けて……
+EN: Somebody help me...
+RU: 
+
+
+-- Section 25
+
+ID: M1080_S0070_G0210_300_n02
+JP: 怖いよ……
+EN: I’m scared...
+RU: 
+
+
+-- Section 26
+
+ID: M1080_S0070_G0220_300_n02
+JP: ウウ……
+EN: Ooooh...
+RU: 
+
+
+-- Section 27
+
+ID: M1080_S0070_G0230_300_n02
+JP: もう終わりだ……何もかも終わりだ……
+EN: It's over... It's all over...
+RU: 
+
+
+-- Section 28
+
+ID: M1080_S0070_G0240_300_n02
+JP: 教祖様が…教祖様が……
+EN: His Grace... His Grace...
+RU: 
+
+
+-- Section 29
+
+ID: M1080_S0070_G0250_300_n02
+JP: 怖いよ……\n神様、私達は死んだらどうなってしまうのですか？
+EN: God, I'm scared... What's going to happen to us if we die?
+RU: 
+
+
+-- Section 30
+
+ID: M1080_S0070_G0260_300_n02
+JP: 神様助けて……神様どうか……
+EN: Help me, O God... Please, my God...
+RU: 
+
+
+-- Section 31
+
+ID: M1080_S0070_G0270_300_n02
+JP: 嫌だ……死にたくない……
+EN: No... I don't want to die...
+RU: 
+
+
+-- Section 32
+
+ID: M1080_S0070_G0230_300_n02
+JP: もう終わりだ……何もかも終わりだ……
+EN: It's over... It's all over...
+RU: 
+
+
+-- Section 33
+
+ID: M1080_S0070_G0100_300_n02
+JP: ああ…何故こんな事に……
+EN: Ahh... Why did this happen?
+RU: 
+
+
+-- Section 34
+
+ID: M1080_S0070_G0110_300_n02
+JP: 和平を結ぶのではなかったのか……
+EN: I thought we were going to forge peace...
+RU: 
+
+
+-- Section 35
+
+ID: M1080_S0070_G0120_300_n02
+JP: 教祖様……
+EN: Your Grace...
+RU: 
+
+
+-- Section 36
+
+ID: M1080_S0070_G0140_300_n02
+JP: 何故こんな残酷な事を……
+EN: Why did something so cruel have to happen?
+RU: 
+
+
+-- Section 37
+
+ID: M1080_S0070_G0150_300_n02
+JP: ああ、あと少しで和平の道を築けたと言うのに……
+EN: We had almost completed the road to peace...
+RU: 
+
+
+-- Section 38
+
+ID: M1080_S0070_G0130_300_n02
+JP: こんな事を神が許すというのか……
+EN: How could God allow this?
+RU: 
+
+
+-- Section 39
+
+ID: M6100_S0010_G0010_300_n02
+JP: アア、何故こんなコトニ……ドウカこの虐殺を止めて下サイ。
+EN: Ahh, how did it come to this!? Please stop all the killing!
+RU: 
+
+

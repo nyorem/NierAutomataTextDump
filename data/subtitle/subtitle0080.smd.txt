@@ -1,0 +1,20 @@
+ID: M0010_S0720_H0000_101_a2b
+JP: あれは……
+EN: Is that—
+RU: 
+
+ID: M0010_S0720_H0010_101_pod042
+JP: 目標超大型兵器発見。
+EN: Target enemy detected.
+RU: 
+
+ID: M0010_S0720_H0011_101_pod042
+JP: 警告：敵兵器による下方向からの攻撃。
+EN: Alert: Incoming enemy attack from below.
+RU: 
+
+ID: M0010_S0720_H0012_101_pod042
+JP: 推奨：退避。
+EN: Proposal: Evade.
+RU: 
+

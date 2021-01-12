@@ -1,0 +1,109 @@
+-- Section 1
+
+ID: M5920_S0010_G0350_001_pod042
+JP: 推奨：ガイドマーカーに向かって進行。
+EN: Proposal: Proceed toward the guide marker.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0070_G0600_300_n02
+JP: アハハハハハハハハハハハ！！
+EN: Ah ha ha ha ha ha ha ha hah!
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0070_G0610_300_n02
+JP: キモチイ！！キモチイ！！キモチイィィィー！
+EN: It feels good! It feels good! It feels sooo gooooood!
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0070_G0620_300_n02
+JP: カミカミカミカミカミカミカミカミ……
+EN: God God God God God God God God God...
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0080_G0191_201_prst
+JP: どうしてこんな事に……
+EN: Why did this happen...?
+RU: 
+
+ID: M1080_S0080_G0192_201_prst
+JP: もう、死ぬしか方法はないのか……
+EN: The only option left is to die...
+RU: 
+
+ID: M1080_S0080_G0193_201_prst
+JP: 怖いよぉ。怖いよぉ。
+EN: I'm scared... I'm so scared...
+RU: 
+
+ID: M1080_S0080_G0194_201_prst
+JP: 死んで……カミになるんだ！
+EN: We must die...and become gods!
+RU: 
+
+ID: M1080_S0080_G0195_201_prst
+JP: 死んでしまおう！
+EN: Yes, let us die now!
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0070_G0700_300_n02
+JP: サヨウナラ！！サヨウナラ！！
+EN: Farewell! Farewell!
+RU: 
+
+ID: M1080_S0070_G0710_300_n02
+JP: バイバイ！バイバイ！
+EN: Bye-bye! Bye-bye!
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0070_G0720_300_n02
+JP: 悲願の時が来た！！\n皆でイコウ！
+EN: The moment we've pined for is here! Let us all go together!
+RU: 
+
+ID: M1080_S0070_G0730_300_n02
+JP: 神トナリ、我々は苦しミカら解き放たレルのだ！！
+EN: We will become gods and be freed from our torment!
+RU: 
+
+
+-- Section 8
+
+ID: M1080_S0080_G0194_201_prst
+JP: 死んで……カミになるんだ！
+EN: We must die...and become gods!
+RU: 
+
+ID: M1080_S0070_G0700_300_n02
+JP: サヨウナラ！！サヨウナラ！！
+EN: Farewell! Farewell!
+RU: 
+
+ID: M1080_S0070_G0730_300_n02
+JP: 神トナリ、我々は苦しミカら解き放たレルのだ！！
+EN: We will become gods and be freed from our torment!
+RU: 
+
+ID: M1080_S0070_G0710_300_n02
+JP: バイバイ！バイバイ！
+EN: Bye-bye! Bye-bye!
+RU: 
+
+

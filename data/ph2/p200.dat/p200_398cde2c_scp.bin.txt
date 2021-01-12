@@ -1,0 +1,265 @@
+-- Section 1
+
+ID: M1080_S0030_G0000_101_ane
+JP: そうか……９Ｓは大変だったな。
+EN: Damn... 9S really went through hell.
+RU: 
+
+ID: M1080_S0030_G0010_101_ane
+JP: 言われた通り、ボディごと君達の司令部に打ち上げておくよ。
+EN: But you're the boss. You want him sent up to Command body and all, I'll make it happen.
+RU: 
+
+ID: M1080_S0030_G0020_101_a2b
+JP: ありがとう……
+EN: Thanks...
+RU: 
+
+ID: M1080_S0030_G0030_101_ane
+JP: え！？
+EN: Oh!
+RU: 
+
+ID: M1080_S0030_G0040_101_a2b
+JP: 何か？
+EN: What?
+RU: 
+
+ID: M1080_S0030_G0050_101_ane
+JP: 君の口からそんな言葉を聞くなんて、意外だな。
+EN: Nothing, just...you've never been much for gratitude, you know?
+RU: 
+
+ID: M1080_S0030_G0060_101_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M1080_S0030_G0070_101_ane
+JP: まあいいさ。
+EN: Not that I mind or anything.
+RU: 
+
+ID: M1080_S0030_G0080_101_ane
+JP: あ、あと伝言がある。
+EN: Oh, um, I also have a message for you.
+RU: 
+
+ID: M1080_S0030_G0090_101_ane
+JP: 君達の司令部が連絡を欲しいってさ。
+EN: Command needs you to contact them ASAP.
+RU: 
+
+ID: M1080_S0030_G0100_101_a2b
+JP: わかった。
+EN: Got it.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0030_G0110_101_a2b
+JP: こちら２Ｂ。司令官に繋いで。
+EN: This is 2B. Patch me through to the Commander.
+RU: 
+
+ID: M1080_S0030_G0120_101_op60
+JP: あっ、２Ｂさん。了解しました。
+EN: Oh, hey, 2B. Roger that.
+RU: 
+
+ID: M1080_S0030_G0130_101_op60
+JP: ちょっとお待ちくださいね……
+EN: Gimme just a second here...
+RU: 
+
+ID: M1080_S0030_G0140_101_cmd
+JP: ２Ｂか。
+EN: 2B.
+RU: 
+
+ID: M1080_S0030_G0150_101_cmd
+JP: 敵機械生命体……コードネーム『アダム』の破壊、ご苦労だった。
+EN: Good job destroying that machine.
+RU: 
+
+ID: M1080_S0030_G0160_101_cmd
+JP: 分析の結果、奴らのネットワークシステムの半数を\nアダムが管理していた事が判明した。
+EN: Upon further analysis, we learned that the machine—code named Adam—was responsible for managing half of their entire network.
+RU: 
+
+ID: M1080_S0030_G0170_101_cmd
+JP: ネットワークを破壊された機械生命体は弱体化するだろう。
+EN: A disruption of this magnitude to their network should weaken the machines significantly.
+RU: 
+
+ID: M1080_S0030_G0180_101_a2b
+JP: 司令官。９Ｓは？
+EN: What's going to happen to 9S?
+RU: 
+
+ID: M1080_S0030_G0190_101_cmd
+JP: ９Ｓはこちらでデータオーバーホールを行う。
+EN: He'll undergo a full data overhaul up here.
+RU: 
+
+ID: M1080_S0030_G0200_101_cmd
+JP: 問題が無ければ、また君と同行してもらう予定だ。
+EN: Assuming we don't encounter any problems, we're planning to partner him with you again.
+RU: 
+
+ID: M1080_S0030_G0210_101_a2b
+JP: よろしくお願いします。
+EN: Thank you.
+RU: 
+
+ID: M1080_S0030_G0220_101_cmd
+JP: ９Ｓが動けない間、君には別の任務を頼みたい。
+EN: In the meantime, I have another mission for you.
+RU: 
+
+ID: M1080_S0030_G0230_101_cmd
+JP: 内容をメールしたので確認してくれ。
+EN: I've mailed you the briefing. Go ahead and take a look.
+RU: 
+
+ID: M1080_S0030_G0240_101_a2b
+JP: 了解。
+EN: Understood.
+RU: 
+
+
+-- Section 3
+
+ID: M5920_S0010_G0180_001_pod042
+JP: 報告：アクセスポイントからメール受信の連絡。
+EN: Report: Mail notification received from access point.
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0030_G0250_101_a2b
+JP: 機械生命体達の動向か……
+EN: "Analyze current trends among the machines?" ...Huh.
+RU: 
+
+ID: M1080_S0030_G0260_101_a2b
+JP: って言っても、出会ったらすぐに殺しそうだけど……
+EN: Something tells me this is going to involve a lot of killing.
+RU: 
+
+ID: M1080_S0030_G0270_101_pod042
+JP: 提案：同族である機械生命体『パスカル』からの情報入手。
+EN: Proposal: Procure information from the machine lifeform known as Pascal.
+RU: 
+
+ID: M1080_S0030_G0280_101_a2b
+JP: なるほど。パスカルなら何か知ってるかも。
+EN: Hmm. I suppose he might know something.
+RU: 
+
+ID: M1080_S0030_G0290_101_a2b
+JP: もしもし……聞こえる？パスカル。
+EN: Pascal? Can you hear me?
+RU: 
+
+ID: M1080_S0030_G0300_101_pascal
+JP: ああ……２Ｂさん。どうしたんですか？
+EN: Oh, hello, 2B. Do you need something?
+RU: 
+
+ID: M1080_S0030_G0310_101_a2b
+JP: 最近の機械生命体の動向について、何か気づいた事があれば教えて。
+EN: I need to know if you've seen any new trends or behaviors among the machines.
+RU: 
+
+ID: M1080_S0030_G0320_101_pascal
+JP: 最近の機械生命体の動向ですか？
+EN: New...trends? Hmm...
+RU: 
+
+ID: M1080_S0030_G0330_101_pascal
+JP: そういえば二日前、中央ネットワークから外れた機械生命体達から
+EN: Well, two days ago I was contacted by some machines that disconnected themselves from the network.
+RU: 
+
+ID: M1080_S0030_G0340_101_pascal
+JP: 和平協定の連絡がありました。
+EN: They wanted to discuss a peace treaty.
+RU: 
+
+ID: M1080_S0030_G0350_101_a2b
+JP: 和平協定？
+EN: No kidding.
+RU: 
+
+ID: M1080_S0030_G0360_101_pascal
+JP: ええ、ネットワークの支配から逃れた者達が、この村と同盟を組みたいと。
+EN: Apparently, they're seeking to form an alliance of some kind with our village.
+RU: 
+
+ID: M1080_S0030_G0370_101_a2b
+JP: なら、パスカルの村に合流すればいいだけなんじゃ……？
+EN: If that's what they want, why don't they move in?
+RU: 
+
+ID: M1080_S0030_G0380_101_pascal
+JP: いえ、既に大きなコロニーを作っているそうです。
+EN: I believe they're working on building a colony of their own.
+RU: 
+
+ID: M1080_S0030_G0390_101_a2b
+JP: コロニー？
+EN: You don't say.
+RU: 
+
+ID: M1080_S0030_G0400_101_pascal
+JP: はい。廃工場に逃げ込んでいるようです。
+EN: Indeed. Apparently, it's located in the abandoned factory.
+RU: 
+
+ID: M1080_S0030_G0410_101_pascal
+JP: 興味があるようでしたら場所を転送します。
+EN: I can give you the coordinates if you'd like.
+RU: 
+
+ID: M1080_S0030_G0420_101_a2b
+JP: お願い。
+EN: Please.
+RU: 
+
+ID: M1080_S0030_G0430_101_pascal
+JP: 私もそろそろ話にいかないといけないと思っていたので。
+EN: I was actually planning to go speak with them myself, you know.
+RU: 
+
+ID: M1080_S0030_G0440_101_pascal
+JP: 現地で合流しましょう。
+EN: Maybe we can meet up over there?
+RU: 
+
+ID: M1080_S0030_G0450_101_a2b
+JP: 了解。
+EN: Sounds good.
+RU: 
+
+ID: M5920_S0010_G0281_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0030_G0460_101_pascal
+JP: ２Ｂさん。こんにちは。
+EN: Oh, 2B! Hello!
+RU: 
+
+ID: M1080_S0030_G0470_101_pascal
+JP: じゃあ、行きましょうか。
+EN: Are you ready to go?
+RU: 
+
+

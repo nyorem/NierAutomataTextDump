@@ -1,0 +1,186 @@
+-- Section 1
+
+ID: M5170_S0010_G0000_001_op60
+JP: オペレーター６Ｏより２Ｂさんへ。聞こえますか？
+EN: Operator 6O to 2B. Come in, 2B.
+RU: 
+
+ID: M5170_S0010_G0010_001_a2b
+JP: 聞こえてる。
+EN: I read you, Operator. Go ahead.
+RU: 
+
+ID: M5170_S0010_G0020_001_op60
+JP: 廃墟都市に設置してある転送装置が故障したみたいです。
+EN: It looks like the transporter we installed in the city ruins has gone offline.
+RU: 
+
+ID: M5170_S0010_G0030_001_op60
+JP: このままだと地上活動に不具合があるので、
+EN: Our surface activity is going to be severely limited until we get it fixed.
+RU: 
+
+ID: M5170_S0010_G0040_001_op60
+JP: 時間がある時にでも、修復をお願いします。
+EN: Can you head over there and get it working again when you have a sec?
+RU: 
+
+ID: M5170_S0010_G0050_001_a2b
+JP: 了解。
+EN: Will do.
+RU: 
+
+ID: M5170_S0010_G0060_001_op60
+JP: 詳細はメールさせていただきました。よろしくお願いします。
+EN: Thanks, 2B! Sending the details now.
+RU: 
+
+
+-- Section 2
+
+ID: M5920_S0010_G0180_001_pod042
+JP: 報告：アクセスポイントからメール受信の連絡。
+EN: Report: Mail notification received from access point.
+RU: 
+
+
+-- Section 3
+
+ID: M5170_S0000_G0000_300_op60
+JP: 転送装置の修復の件、よろしくお願いします。
+EN: Thanks in advance for handling that transporter repair.
+RU: 
+
+
+-- Section 4
+
+ID: M5170_S0020_G0000_001_pod042
+JP: 転送装置が使用不可能な場合、データのアップロードなどに\n著しい不具合が生ずる。
+EN: Analysis: Non-functioning transporters can result in serious limitations to data uploading and other vital mission activities.
+RU: 
+
+ID: M5170_S0020_G0010_001_pod042
+JP: 推奨：転送装置の早急な復旧。
+EN: Recommend repairing transporter as quickly as possible.
+RU: 
+
+ID: M5170_S0020_G0020_001_a2b
+JP: 了解。
+EN: Understood.
+RU: 
+
+
+-- Section 5
+
+ID: M5170_S0020_G0030_001_pod042
+JP: 報告：転送装置周辺に敵性機械生命体。妨害電波を確認。
+EN: Alert: Hostile machine lifeforms detected in the vicinity of the non-functioning transporter. Jamming signals detected.
+RU: 
+
+ID: M5170_S0020_G0040_001_pod042
+JP: 推測：転送装置の不具合は、敵の妨害電波に起因。
+EN: Hypothesis: Transporter malfunction is due to enemy jamming signals.
+RU: 
+
+ID: M5170_S0020_G0050_001_pod042
+JP: 推奨：当該機械生命体の速やかな破壊。
+EN: Proposal: Unit 2B should destroy the enemy machines.
+RU: 
+
+
+-- Section 6
+
+ID: M5170_S0030_G0000_001_a2b
+JP: これで、全部か。
+EN: Is that all of them?
+RU: 
+
+ID: M5170_S0030_G0010_001_a2b
+JP: 一応、転送装置本体も調べてみよう。
+EN: Let's check this thing out.
+RU: 
+
+
+-- Section 7
+
+ID: M5170_S0030_G0020_001_a2b
+JP: 機能に問題ないみたい。
+EN: I don't see any damage.
+RU: 
+
+ID: M5170_S0030_G0021_001_pod042
+JP: 報告：転送装置の正常動作を確認。
+EN: Analysis: Transporter is now operational.
+RU: 
+
+ID: M5170_S0030_G0030_001_a2b
+JP: こちらヨルハ部隊２Ｂ。バンカー・オペレーター６Ｏに通信。
+EN: This is YoRHa unit 2B. Connect me to Bunker Operator 6O.
+RU: 
+
+ID: M5170_S0030_G0040_001_op60
+JP: あっ！２Ｂさん。おつかれ様です。
+EN: Oh, hello, 2B! Operator 6O here.
+RU: 
+
+ID: M5170_S0030_G0050_001_a2b
+JP: 指定された転送装置を復旧した。原因は敵機械生命体の妨害電波。
+EN: The transporter was being jammed by machine lifeforms. It should be working now.
+RU: 
+
+ID: M5170_S0030_G0060_001_op60
+JP: 了解しました！ありがとうございます。
+EN: Looks green on my end, 2B. Nice work!
+RU: 
+
+ID: M5170_S0030_G0070_001_op60
+JP: 司令部内で情報共有しておきますね！
+EN: I'll let Command know right away.
+RU: 
+
+ID: M5170_S0030_G0080_001_op60
+JP: あと、特別報酬のデータをメールします。
+EN: I'll also be sending over a little reward for all your hard work.
+RU: 
+
+ID: M5170_S0030_G0090_001_a2b
+JP: 了解。
+EN: Roger.
+RU: 
+
+ID: M5170_S0030_G0100_001_op60
+JP: ……でも、いいですね～。２Ｂさん。
+EN: You know, 2B? I'm a little jealous.
+RU: 
+
+ID: M5170_S0030_G0110_001_op60
+JP: い、いや戦闘任務は大変だと思います！
+EN: Don't get me wrong—I know all this fighting isn't easy for you.
+RU: 
+
+ID: M5170_S0030_G0120_001_op60
+JP: ただ、地上の綺麗な風景を見られていいなーって。
+EN: But you get to see all these new and amazing things out there...
+RU: 
+
+ID: M5170_S0030_G0130_001_op60
+JP: 私も、いつか降りられたらいいなー、って思うんです。
+EN: It just...it might be nice to visit the surface sometime, you know? That's all.
+RU: 
+
+ID: M5170_S0030_G0140_001_a2b
+JP: ……そう。
+EN: I see.
+RU: 
+
+ID: M5170_S0030_G0150_001_op60
+JP: 無駄話しちゃいましたね。ごめんなさい！
+EN: Er, right. Apologies for the unnecessary chatter.
+RU: 
+
+ID: M5170_S0030_G0160_001_op60
+JP: それじゃ失礼します！
+EN: Anyway. Operator 6O out!
+RU: 
+
+

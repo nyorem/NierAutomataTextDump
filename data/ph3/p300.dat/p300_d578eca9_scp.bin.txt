@@ -1,0 +1,94 @@
+-- Section 1
+
+ID: M3000_S0410_G0000_001_a9s
+JP: ２Ｂ！
+EN: 2B!
+RU: 
+
+ID: M3000_S0410_G0010_001_a2b
+JP: 司令部に、報告を……！
+EN: We have to report back to Command.
+RU: 
+
+
+-- Section 2
+
+ID: M3000_S0420_S0000_001_a9s
+JP: これは……
+EN: Whoa...
+RU: 
+
+
+-- Section 3
+
+ID: M3000_S0424_G0000_001_a2b
+JP: 司令官！
+EN: Commander.
+RU: 
+
+ID: M3000_S0424_G0010_001_cmd
+JP: ２Ｂ……９Ｓも！？
+EN: 2B? 9S?
+RU: 
+
+ID: M3000_S0424_G0020_001_cmd
+JP: 一体何をしてるんだ？
+EN: What are you doing here?
+RU: 
+
+ID: M3000_S0424_G0030_001_a9s
+JP: 地上のヨルハ部隊が、ウィルスによって乗っ取られたんです！
+EN: The YoRHa units on the ground were infected by a virus.
+RU: 
+
+ID: M3000_S0424_G0040_001_a9s
+JP: 僕達は暴走したヨルハ部隊をブラックボックス反応で……
+EN: We had to detonate our black boxes in order to stop them.
+RU: 
+
+ID: M3000_S0424_G0050_001_cmd
+JP: ウィルス？何を言ってるんだ？
+EN: A...virus? What are you talking about?
+RU: 
+
+ID: M3000_S0424_G0060_001_cmd
+JP: 地上からはそんな報告上がってないぞ？
+EN: None of our ground units reported anything about a virus.
+RU: 
+
+ID: M3000_S0424_G0070_001_a9s
+JP: あれは偽装です！現在バンカーの通信は封鎖されていて……
+EN: That's because all communication with the Bunker has been severed.
+RU: 
+
+ID: M3000_S0424_G0080_001_cmd
+JP: ……そもそも、命令もなく戦場から何故戻った？
+EN: And why did you leave the battlefield anyway? I didn't order a retreat.
+RU: 
+
+ID: M3000_S0424_G0090_001_a2b
+JP: だから、ヨルハ部隊が暴走して！
+EN: We're telling you, YoRHa has gone berserk!
+RU: 
+
+ID: M3000_S0424_G0100_001_cmd
+JP: ……
+EN: ......
+RU: 
+
+ID: M3000_S0424_G0110_001_cmd
+JP: いや……
+EN: No.
+RU: 
+
+ID: M3000_S0424_G0120_001_cmd
+JP: 汚染されているのは……お前達じゃないのか？
+EN: If anyone is acting infected here, it's you.
+RU: 
+
+ID: M3000_S0424_G0130_001_a9s
+JP: 違うんですッ！
+EN: Are you NUTS!?
+RU: 
+
+

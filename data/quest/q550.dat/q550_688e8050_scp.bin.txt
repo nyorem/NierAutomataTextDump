@@ -1,0 +1,480 @@
+-- Section 1
+
+ID: M5550_S0010_G0020_001_ys
+JP: 君は……ヨルハ機！？生き残ってたのか。
+EN: You... You're a YoRHa unit! Then some of you survived?
+RU: 
+
+ID: M5550_S0010_G0030_001_a9s
+JP: ……ええ。僕は９Ｓ。
+EN: Yeah. I'm 9S, by the way.
+RU: 
+
+ID: M5550_S0010_G0031_001_ys
+JP: 聞いた事がある……たしかナインズって呼ばれてるモデルだよね？
+EN: Oh yeah, I've heard of you... You're the model people used to call "Nines", right?
+RU: 
+
+ID: M5550_S0010_G0032_001_a9s
+JP: はい。
+EN: Yeah.
+RU: 
+
+ID: M5550_S0010_G0040_001_ys
+JP: よく生き延びたな……僕は４Ｓ。
+EN: I'm 4S. It's impressive that you're still alive, 9S.
+RU: 
+
+ID: M5550_S0010_G0050_001_a9s
+JP: ……４号型は初期投入されたモデルですね。
+EN: You're a Type-4 model, eh? You guys were deployed pretty early on if I remember correctly.
+RU: 
+
+ID: M5550_S0010_G0060_001_4s
+JP: スキャナーモデルに会えるとは思わなかったな……
+EN: I sure wasn't expecting to run into another Scanner model.
+RU: 
+
+ID: M5550_S0010_G0070_001_4s
+JP: バンカーがあんな事になっちゃったから。
+EN: Not after what happened to the Bunker...
+RU: 
+
+ID: M5550_S0010_G0080_001_a9s
+JP: ……ここで、何をしてるんですか？
+EN: So what are you doing here?
+RU: 
+
+ID: M5550_S0010_G0090_001_4s
+JP: 敵についての情報収集をしているんだよ。
+EN: Gathering intel on the enemy.
+RU: 
+
+ID: M5550_S0010_G0100_001_4s
+JP: ヨルハ部隊は壊滅しちゃったけど、まだレジスタンスは\n生き残っているからね。
+EN: YoRHa might be a thing of the past, but the Resistance is still around.
+RU: 
+
+ID: M5550_S0010_G0110_001_4s
+JP: このボディが動くうちは、誰かの役に立ちたくてね……
+EN: So as long as my body works, I figure I should make myself useful.
+RU: 
+
+ID: M5550_S0010_G0120_001_4s
+JP: もし、敵の個体情報を持っていたら教えてくれないか？\n一人じゃ情報収集にも限界があるから。
+EN: If you have any information about local enemies, can you share it with me? There's only so much I can do on my own.
+RU: 
+
+ID: M5550_S0010_G0130_001_a9s
+JP: ……いいですよ。いま手持ちのデータを渡します。
+EN: Sure. I'll give you everything I have at the moment.
+RU: 
+
+ID: M5550_S0010_G0135_001_telo
+JP: エネミーデータを渡した。
+EN: You handed over the enemy data.
+RU: 
+
+
+-- Section 2
+
+ID: M5550_S0010_G0140_001_4s
+JP: ありがとう。
+EN: Thank you.
+RU: 
+
+ID: M5550_S0010_G0150_001_4s
+JP: もし、新しいエネミーデータを入手したら言ってくれ。\nお互い情報共有しよう。
+EN: If you obtain further enemy data, please let me know. It's important for us to share what we have.
+RU: 
+
+
+-- Section 3
+
+ID: M5550_S0010_G0160_001_4s
+JP: 新しい敵と遭遇したら、情報を教えて欲しい。
+EN: If you run into any new enemies, I'd very much like to look over your data.
+RU: 
+
+
+-- Section 4
+
+ID: M5550_S0010_G0135_001_telo
+JP: エネミーデータを渡した。
+EN: You handed over the enemy data.
+RU: 
+
+ID: M5550_S0010_G0170_001_4s
+JP: お、新しい敵データか。ありがとう。
+EN: New enemy data, is it? Thank you.
+RU: 
+
+ID: M5550_S0010_G0180_001_4s
+JP: 何度も来るのは面倒だろうから、一定数記録が溜まってからで\n構わないよ。
+EN: Oh, and there's no need to come all the way here every time you find a new enemy. Just swing by when you've collected a decent amount of data.
+RU: 
+
+
+-- Section 5
+
+ID: M5550_S0020_G0030_001_4s
+JP: エネミーデータを集めてきてくれたんだね。ありがとう。
+EN: More enemy data, eh? I appreciate it.
+RU: 
+
+ID: M5550_S0010_G0135_001_telo
+JP: エネミーデータを渡した。
+EN: You handed over the enemy data.
+RU: 
+
+
+-- Section 6
+
+ID: M5550_S0020_G0040_001_4s
+JP: うん……そうか……うん……
+EN: Hmm... Interesting...
+RU: 
+
+ID: M5550_S0020_G0050_001_4s
+JP: ボクの収集したデータと照らし合わせてみたんだけど、やっぱり最近になってロボット達に個体差が出始めているね。
+EN: Comparing your data with mine reveals a number of individual differences between machines of late.
+RU: 
+
+ID: M5550_S0020_G0060_001_4s
+JP: 個体差は地域ごとに違うようだ。その環境に左右されるというか……\n不思議だな。ロボットなのに。
+EN: It looks like different regions have their own specialized machines. Almost like the environment is affecting them somehow. But of course that's absurd...
+RU: 
+
+ID: M5550_S0020_G0070_001_4s
+JP: あ、お礼をしなくちゃだね。これ、もらってくれよ。
+EN: Oh, right. I should pay you for your trouble. Please take this.
+RU: 
+
+ID: M5550_S0020_G0080_001_4s
+JP: そういえば……僕も、ナインズって呼んでもいいかな？他の人と同じように。
+EN: Hey, by the way, would you mind if I called you "Nines" too, just like everyone else?
+RU: 
+
+ID: M5550_S0020_G0090_001_a9s
+JP: いいですよ。そう呼ぶ人は、もう他にはいませんが……
+EN: Go ahead. Nobody calls me that anymore though.
+RU: 
+
+ID: M5550_S0020_G0100_001_4s
+JP: そっか……悪いことを聞いたな。
+EN: Sore subject, is it? Sorry.
+RU: 
+
+
+-- Section 7
+
+ID: M5550_S0030_G0020_001_4s
+JP: エネミーデータを集めてきてくれたんだね。ありがとう。
+EN: More enemy data, eh? I appreciate it.
+RU: 
+
+ID: M5550_S0010_G0135_001_telo
+JP: エネミーデータを渡した。
+EN: You handed over the enemy data.
+RU: 
+
+
+-- Section 8
+
+ID: M5550_S0030_G0030_001_4s
+JP: 一人での情報収集には限界があるからね。
+EN: I try my best, but I just can't cover all this ground on my own.
+RU: 
+
+ID: M5550_S0030_G0040_001_4s
+JP: だから、ナインズの協力は本当に助かるんだ。ありがとう。
+EN: Thanks again, Nines. You're really helping out here.
+RU: 
+
+ID: M5550_S0030_G0045_001_4s
+JP: じゃあ、これがお礼だから。
+EN: Here's something for your trouble.
+RU: 
+
+ID: M5550_S0030_G0050_001_4s
+JP: またエネミーデータが蓄積されたら報告を頼むよ。
+EN: Let me know if you find any more data, all right?
+RU: 
+
+
+-- Section 9
+
+ID: M5550_S0040_G0020_001_4s
+JP: エネミーデータを集めてきてくれたんだね。ありがとう。
+EN: More enemy data, eh? I appreciate it.
+RU: 
+
+ID: M5550_S0010_G0135_001_telo
+JP: エネミーデータを渡した。
+EN: You handed over the enemy data.
+RU: 
+
+
+-- Section 10
+
+ID: M5550_S0040_G0030_001_4s
+JP: ああ、この敵……前に仲間と一緒に戦ったヤツのデータも入ってる。
+EN: Hmm... I recognize a few of the enemies in this data. My team fought some of them a while back.
+RU: 
+
+ID: M5550_S0040_G0040_001_4s
+JP: 昔はさ、ボクにも大勢の仲間がいたんだ。\nでもあのウィルス汚染でやられた。
+EN: I used to have a big team...until the virus corrupted them all.
+RU: 
+
+ID: M5550_S0040_G0050_001_4s
+JP: 直前の戦闘で負傷し、休眠状態だったボクは無事だったけど……
+EN: I was wounded in the battle before the virus attack, so I was in dormant mode when it was unleashed. That's how I survived.
+RU: 
+
+ID: M5550_S0040_G0060_001_4s
+JP: もう、仲間は誰もいないな。
+EN: But now I'm all alone...
+RU: 
+
+ID: M5550_S0040_G0070_001_4s
+JP: ……ごめん。変な話をしちゃったね。データありがとう、ナインズ。
+EN: Er, sorry. I'm rambling. Thanks again for the data, Nines.
+RU: 
+
+ID: M5550_S0030_G0045_001_4s
+JP: じゃあ、これがお礼だから。
+EN: Here's something for your trouble.
+RU: 
+
+ID: M5550_S0040_G0080_001_4s
+JP: またエネミーデータが蓄積されたら報告を頼むよ。
+EN: Let me know if you find anything else.
+RU: 
+
+
+-- Section 11
+
+ID: M5550_S0050_G0020_001_4s
+JP: エネミーデータを集めてきてくれたんだね。
+EN: More enemy data, eh? I appreciate it.
+RU: 
+
+ID: M5550_S0010_G0135_001_telo
+JP: エネミーデータを渡した。
+EN: You handed over the enemy data.
+RU: 
+
+
+-- Section 12
+
+ID: M5550_S0050_G0030_001_4s
+JP: キミのお陰で、予定よりも６０％も早く収集できたよ。\nやっぱり同型は頼りになるな。
+EN: It's great having another Scanner helping me out. Thanks to you, I've gathered the data 60 percent faster than I'd planned.
+RU: 
+
+ID: M5550_S0050_G0040_001_4s
+JP: ……いつまでこんな事続けるんだろうね。
+EN: ...I wonder how long we'll be doing this.
+RU: 
+
+ID: M5550_S0050_G0050_001_4s
+JP: ボク達ヨルハ部隊に帰る場所は、もう無いのに……
+EN: It's not like we YoRHa androids have a home to return to.
+RU: 
+
+ID: M5550_S0050_G0060_001_a9s
+JP: ……僕達だって、やれることはまだある筈です。情報収集は立派な\n戦闘支援ですから。
+EN: Yeah, but gathering intelligence is still important. It's a huge support for the war effort.
+RU: 
+
+ID: M5550_S0050_G0070_001_4s
+JP: わかってる。そんな事、わかってるよ！！
+EN: I KNOW THAT!
+RU: 
+
+ID: M5550_S0050_G0080_001_4s
+JP: ……ごめん。ナインズに言っても仕方のない事だったね。
+EN: ...Sorry, Nines. I didn't mean to yell at you.
+RU: 
+
+ID: M5550_S0050_G0090_001_4s
+JP: これでエネミーデータ収集の目標はクリアした。\n協力してくれて本当にありがとう。
+EN: Anyway, this chunk of data you brought means I've finally hit my goal.
+RU: 
+
+ID: M5550_S0050_G0100_001_4s
+JP: これ、仲間のものなんだけど、もらってくれるかな？\nキミに使ってもらえるなら、みんなも嬉しいと思うんだ。
+EN: I'd like you to have this. It belonged to an old friend, but I think he'd be happy to know that you're using it.
+RU: 
+
+ID: M5550_S0050_G0110_001_4s
+JP: じゃあね、キミは……ナインズは、決して後悔しないでくれ。
+EN: See you around, Nines. And remember: No regrets, okay?
+RU: 
+
+ID: M5550_S0050_G0120_001_4s
+JP: これからどうするか考えないとね。
+EN: We need to think about what we're going to do from this point forward.
+RU: 
+
+ID: M5550_S0050_G0130_001_4s
+JP: ……これまで、ありがとう。
+EN: Thanks for everything.
+RU: 
+
+
+-- Section 13
+
+ID: M5550_S0050_G0130_001_4s
+JP: ……これまで、ありがとう。
+EN: Thanks for everything.
+RU: 
+
+
+-- Section 14
+
+ID: M5550_S0010_G0000_001_ys
+JP: 君は……旧型のヨルハ機体……
+EN: You... You're an older YoRHa model.
+RU: 
+
+ID: M5550_S0010_G0010_001_ys
+JP: まあ、どうでもいいか……
+EN: Not that it matters.
+RU: 
+
+
+-- Section 15
+
+ID: M5550_S0010_G0020_001_ys
+JP: 君は……ヨルハ機！？生き残ってたのか。
+EN: You... You're a YoRHa unit! Then some of you survived?
+RU: 
+
+ID: M5550_S0010_G0030_001_a9s
+JP: ……ええ。僕は９Ｓ。
+EN: Yeah. I'm 9S, by the way.
+RU: 
+
+ID: M5550_S0010_G0031_001_ys
+JP: 聞いた事がある……たしかナインズって呼ばれてるモデルだよね？
+EN: Oh yeah, I've heard of you... You're the model people used to call "Nines", right?
+RU: 
+
+ID: M5550_S0010_G0032_001_a9s
+JP: はい。
+EN: Yeah.
+RU: 
+
+ID: M5550_S0010_G0040_001_ys
+JP: よく生き延びたな……僕は４Ｓ。
+EN: I'm 4S. It's impressive that you're still alive, 9S.
+RU: 
+
+ID: M5550_S0010_G0050_001_a9s
+JP: ……４号型は初期投入されたモデルですね。
+EN: You're a Type-4 model, eh? You guys were deployed pretty early on if I remember correctly.
+RU: 
+
+ID: M5550_S0010_G0060_001_4s
+JP: スキャナーモデルに会えるとは思わなかったな……
+EN: I sure wasn't expecting to run into another Scanner model.
+RU: 
+
+ID: M5550_S0010_G0070_001_4s
+JP: バンカーがあんな事になっちゃったから。
+EN: Not after what happened to the Bunker...
+RU: 
+
+ID: M5550_S0010_G0080_001_a9s
+JP: ……ここで、何をしてるんですか？
+EN: So what are you doing here?
+RU: 
+
+ID: M5550_S0010_G0090_001_4s
+JP: 敵についての情報収集をしているんだよ。
+EN: Gathering intel on the enemy.
+RU: 
+
+ID: M5550_S0010_G0100_001_4s
+JP: ヨルハ部隊は壊滅しちゃったけど、まだレジスタンスは\n生き残っているからね。
+EN: YoRHa might be a thing of the past, but the Resistance is still around.
+RU: 
+
+ID: M5550_S0010_G0110_001_4s
+JP: このボディが動くうちは、誰かの役に立ちたくてね……
+EN: So as long as my body works, I figure I should make myself useful.
+RU: 
+
+ID: M5550_S0010_G0120_001_4s
+JP: もし、敵の個体情報を持っていたら教えてくれないか？\n一人じゃ情報収集にも限界があるから。
+EN: If you have any information about local enemies, can you share it with me? There's only so much I can do on my own.
+RU: 
+
+ID: M5550_S0010_G0130_001_a9s
+JP: ……いいですよ。いま手持ちのデータを渡します。
+EN: Sure. I'll give you everything I have at the moment.
+RU: 
+
+ID: M5550_S0010_G0135_001_telo
+JP: エネミーデータを渡した。
+EN: You handed over the enemy data.
+RU: 
+
+ID: M5550_S0010_G0140_001_4s
+JP: ありがとう。
+EN: Thank you.
+RU: 
+
+ID: M5550_S0050_G0040_001_4s
+JP: ……いつまでこんな事続けるんだろうね。
+EN: ...I wonder how long we'll be doing this.
+RU: 
+
+ID: M5550_S0050_G0050_001_4s
+JP: ボク達ヨルハ部隊に帰る場所は、もう無いのに……
+EN: It's not like we YoRHa androids have a home to return to.
+RU: 
+
+ID: M5550_S0050_G0060_001_a9s
+JP: ……僕達だって、やれることはまだある筈です。情報収集は立派な\n戦闘支援ですから。
+EN: Yeah, but gathering intelligence is still important. It's a huge support for the war effort.
+RU: 
+
+ID: M5550_S0050_G0070_001_4s
+JP: わかってる。そんな事、わかってるよ！！
+EN: I KNOW THAT!
+RU: 
+
+ID: M5550_S0050_G0080_001_4s
+JP: ……ごめん。ナインズに言っても仕方のない事だったね。
+EN: ...Sorry, Nines. I didn't mean to yell at you.
+RU: 
+
+ID: M5550_S0050_G0090_001_4s
+JP: これでエネミーデータ収集の目標はクリアした。\n協力してくれて本当にありがとう。
+EN: Anyway, this chunk of data you brought means I've finally hit my goal.
+RU: 
+
+ID: M5550_S0050_G0100_001_4s
+JP: これ、仲間のものなんだけど、もらってくれるかな？\nキミに使ってもらえるなら、みんなも嬉しいと思うんだ。
+EN: I'd like you to have this. It belonged to an old friend, but I think he'd be happy to know that you're using it.
+RU: 
+
+ID: M5550_S0050_G0110_001_4s
+JP: じゃあね、キミは……ナインズは、決して後悔しないでくれ。
+EN: See you around, Nines. And remember: No regrets, okay?
+RU: 
+
+ID: M5550_S0050_G0120_001_4s
+JP: これからどうするか考えないとね。
+EN: We need to think about what we're going to do from this point forward.
+RU: 
+
+ID: M5550_S0050_G0130_001_4s
+JP: ……これまで、ありがとう。
+EN: Thanks for everything.
+RU: 
+
+

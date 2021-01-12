@@ -1,0 +1,89 @@
+-- Section 1
+
+ID: M0010_S0785_G0000_201_pod153
+JP: ９Ｓデータシステム破損。アクセス不良を検知。
+EN: 9S data system damaged. Access impaired.
+RU: 
+
+ID: M0010_S0785_G0010_201_pod153
+JP: 自閉モードで再配置。
+EN: Redeploying in offline mode.
+RU: 
+
+ID: M0010_S0785_G0020_201_a9s
+JP: ここは……
+EN: Wh-where am I...?
+RU: 
+
+ID: M0010_S0785_G0030_201_pod153
+JP: リカバリーセクタ。各ブロックのアクセス不良を解除せよ。
+EN: Recovery sector. Eliminate access impairments to all blocks.
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0785_G0040_201_pod153
+JP: 視覚情報エラー修正。
+EN: Repairing visual data error.
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0785_G0050_201_pod153
+JP: 音声ユニット回復。周辺環境音確認。
+EN: Voice functionality recovered. External sound input confirmed.
+RU: 
+
+
+-- Section 4
+
+ID: M0010_S0785_G0060_201_a2b
+JP: ……S……９Ｓ……
+EN: ...S... 9S...
+RU: 
+
+
+-- Section 5
+
+ID: M0010_S0785_G0070_201_a2b
+JP: ……９Ｓッ！
+EN: ...9S!
+RU: 
+
+
+-- Section 6
+
+ID: M0010_S0785_G0080_201_pod153
+JP: ボディユニットのバイタル低下を確認。
+EN: Alert: Vital signs declining.
+RU: 
+
+
+-- Section 7
+
+ID: M0010_S0785_G0090_201_pod153
+JP: ボディユニットのバイタル危険値に突入。
+EN: Vital signs entering sub-optimal territory.
+RU: 
+
+ID: M0010_S0785_G0100_201_pod153
+JP: 早急な回路修復が必要。
+EN: Urgent circuit repairs required.
+RU: 
+
+
+-- Section 8
+
+ID: M0010_S0785_G0110_201_pod153
+JP: ブラックボックス信号停止。
+EN: Black-box signal ceased.
+RU: 
+
+ID: M0010_S0785_G0120_201_pod153
+JP: ９Ｓの死亡を確認。
+EN: Unit 9S death confirmed.
+RU: 
+
+

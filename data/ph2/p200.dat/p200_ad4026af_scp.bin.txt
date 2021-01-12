@@ -1,0 +1,110 @@
+-- Section 1
+
+ID: M1060_S0010_G0091_001_a9s
+JP: ここは好戦的な敵が多いですね。
+EN: There sure are a lot of hostile enemies here.
+RU: 
+
+ID: M1060_S0010_G0092_001_a9s
+JP: どうして機械生命体は襲ってくるタイプとそうでないタイプがいるんだろう……
+EN: Why are some machines so aggressive, while others couldn't care less about us?
+RU: 
+
+
+-- Section 2
+
+ID: M1060_S0040_G0000_001_a9s
+JP: このあたりは前回の大戦争の時に地盤が破壊されてしまって……
+EN: The bedrock here was bombed out in the last war.
+RU: 
+
+ID: M1060_S0040_G0010_001_a9s
+JP: 街全体が沈下しつつあるんですよね。
+EN: Looks like the whole city is starting to sink as a result.
+RU: 
+
+
+-- Section 3
+
+ID: M1060_S0040_G0011_001_pod042
+JP: 防衛対象のミサイルを発見。
+EN: Target missiles sighted.
+RU: 
+
+ID: M1060_S0040_G0012_001_a2b
+JP: あれを守ればいいのか……
+EN: Is that what we need to protect?
+RU: 
+
+
+-- Section 4
+
+ID: M1060_S0040_G0020_001_a9s
+JP: さっさと倒してお風呂に入りましょう、２B！
+EN: Let's take 'em out already so I can be home in time for dinner and a bath!
+RU: 
+
+ID: M1060_S0040_G0030_001_a2b
+JP: アンドロイドは風呂に入る必要はない。
+EN: Androids don't need to bathe.
+RU: 
+
+ID: M1060_S0040_G0040_001_a2b
+JP: 定期的な部品洗浄メンテナンスさえあれば問題ない筈。
+EN: As long as you perform regular cleaning and maintenance, bathing is unnecessary.
+RU: 
+
+ID: M1060_S0040_G0050_001_a9s
+JP: もー。２Ｂは……気分ですよ！気分。
+EN: Yeah, but come on, 2B, it still FEELS good!
+RU: 
+
+
+-- Section 5
+
+ID: M1060_S0040_G0060_001_a9s
+JP: これで、このあたりの機械生命体は概ね排除できましたね……
+EN: I think that's the last of the machines.
+RU: 
+
+ID: M1060_S0040_G0070_001_cmd
+JP: ２B、９S。
+EN: 2B? 9S? Come in.
+RU: 
+
+ID: M1060_S0040_G0080_001_a9s
+JP: 司令官？
+EN: Commander?
+RU: 
+
+ID: M1060_S0040_G0090_001_cmd
+JP: 緊急司令だ。
+EN: Emergency orders incoming.
+RU: 
+
+ID: M1060_S0040_G0100_001_cmd
+JP: 君達も知っての通り、我々が保有する空母が補給の為に寄港予定だ。
+EN: The carrier ship that was sent to resupply has come under attack.
+RU: 
+
+ID: M1060_S0040_G0110_001_cmd
+JP: しかし、その空母が機械生命体達の攻撃を受け、交戦状態に入っている。
+EN: It's currently being engaged by a swarm of machines.
+RU: 
+
+ID: M1060_S0040_G0120_001_cmd
+JP: 既に廃墟都市方面に駐留中の全ヨルハ部隊に連絡をしているが、\n君達にも援護に参加して欲しい。
+EN: I've asked all YoRHa troops in the city ruins for assistance, and I'll need you to provide backup as well.
+RU: 
+
+ID: M1060_S0040_G0130_001_cmd
+JP: マップデータ及び飛行ユニットを転送する。
+EN: I'm sending flight units and coordinates now.
+RU: 
+
+ID: M1060_S0040_G0140_001_cmd
+JP: 以上。
+EN: Good luck. Out.
+RU: 
+
+

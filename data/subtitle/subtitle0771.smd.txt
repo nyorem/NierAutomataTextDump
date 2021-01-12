@@ -1,0 +1,15 @@
+ID: M3000_S0270_H0000_001_a9s
+JP: 大丈夫！？
+EN: You okay!?
+RU: 
+
+ID: M3000_S0270_H0010_001_a9s
+JP: これは……広域ウィルス！？
+EN: Is this...a wide-area virus?
+RU: 
+
+ID: M3000_S0270_H0020_001_a9s
+JP: ２Ｂッ！！
+EN: 2B!
+RU: 
+

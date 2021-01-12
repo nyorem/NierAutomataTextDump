@@ -1,0 +1,8 @@
+-- Section 1
+
+ID: M1060_S0100_G0000_001_a9s
+JP: まずいですよ！ここを離脱しましょう！
+EN: We gotta bail, 2B! This is bad!
+RU: 
+
+

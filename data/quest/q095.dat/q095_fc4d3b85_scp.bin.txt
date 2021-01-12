@@ -1,0 +1,135 @@
+-- Section 1
+
+ID: M5095_S0020_G0000_001_pod042
+JP: メールに記載されていた座標を確認。
+EN: I have confirmed the coordinates mentioned in the mail.
+RU: 
+
+ID: M5095_S0020_G0010_001_pod042
+JP: 遊園地廃墟地下と推定。
+EN: They seem to indicate a location underneath the amusement park ruins.
+RU: 
+
+ID: M5095_S0020_G0020_001_pod042
+JP: マップにマーク。
+EN: Marking it on the map.
+RU: 
+
+ID: M5095_S0020_G0030_001_a2b
+JP: 遊園地の……廃墟？
+EN: The amusement park...ruins?
+RU: 
+
+ID: M5095_S0020_G0040_001_pod153
+JP: メールに記載されていた座標を確認。
+EN: I have confirmed the coordinates mentioned in the mail.
+RU: 
+
+ID: M5095_S0020_G0050_001_pod153
+JP: 遊園地廃墟地下と推定。
+EN: They seem to indicate a location underneath the amusement park ruins.
+RU: 
+
+ID: M5095_S0020_G0060_001_pod153
+JP: マップにマーク。
+EN: Marking it on the map.
+RU: 
+
+ID: M5095_S0020_G0070_001_a9s
+JP: 遊園地の廃墟……何があるんだ？
+EN: The amusement park ruins? I wonder what's down there...
+RU: 
+
+ID: M5095_S0020_G0080_001_pod042
+JP: メールに記載されていた座標を確認。
+EN: I have confirmed the coordinates mentioned in the mail.
+RU: 
+
+ID: M5095_S0020_G0090_001_pod042
+JP: 遊園地廃墟地下と推定。
+EN: They seem to indicate a location underneath the amusement park ruins.
+RU: 
+
+ID: M5095_S0020_G0100_001_pod042
+JP: マップにマーク。
+EN: Marking it on the map.
+RU: 
+
+ID: M5095_S0020_G0110_001_a2
+JP: 遊園地の廃墟か。
+EN: The amusement park, huh?
+RU: 
+
+ID: M5095_S0020_G0120_001_a2
+JP: ……このクソみたいなメールの差出人をぶっ飛ばしに行くか。
+EN: I don't care who it is, they're going to regret spamming my inbox.
+RU: 
+
+
+-- Section 2
+
+ID: M5095_S0040_G0000_001_n02
+JP: オマエ、デバッグモードを立ててイルナ……
+EN: Y-you have Debug Mode turned on...
+RU: 
+
+ID: M5095_S0040_G0010_001_n02
+JP: ……
+EN: ...
+RU: 
+
+
+-- Section 3
+
+ID: M5095_S0030_G0000_001_n02
+JP: ……地下に入りたいデスカ？★
+EN: Going down?
+RU: 
+
+ID: M5095_S0030_G0010_001_sele
+JP: ハイ★
+EN: Yes please.
+RU: 
+
+ID: M5095_S0030_G0020_001_sele
+JP: イイエ★
+EN: I don't think so.
+RU: 
+
+
+-- Section 4
+
+ID: M5095_S0030_G0025_001_n02
+JP: 地下に入るニハ、チョット色々事情があってセーブしないとイケないですがイイデスカ？★
+EN: Before you enter, we'll have to save your game due to reasons. Will that be okay?
+RU: 
+
+ID: M5095_S0030_G0010_001_sele
+JP: ハイ★
+EN: Yes please.
+RU: 
+
+ID: M5095_S0030_G0020_001_sele
+JP: イイエ★
+EN: I don't think so.
+RU: 
+
+
+-- Section 5
+
+ID: M5095_S0030_G0030_001_n02
+JP: お戻りになられマスカ？★
+EN: Do you wish to leave?
+RU: 
+
+ID: M5095_S0030_G0040_001_sele
+JP: モドル★
+EN: Yep.
+RU: 
+
+ID: M5095_S0030_G0050_001_sele
+JP: モドラナイ★
+EN: Nope.
+RU: 
+
+

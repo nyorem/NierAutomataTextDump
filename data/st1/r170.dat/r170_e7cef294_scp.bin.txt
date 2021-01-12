@@ -1,0 +1,43 @@
+-- Section 1
+
+ID: M5091_S0050_G0000_001_apolorobo
+JP: ワワー！ココハ、マダ閉マッテルヨ！デモ気ニシナイデ！
+EN: Whoa there! This place is still closed, kind sir and/or madam! But fret not!
+RU: 
+
+ID: M5091_S0050_G0010_001_apolorobo
+JP: ココニハ大シタモノナンテナイ！気ニセズ先ニススンデチョーダイナ！
+EN: There is absolutely NOTHING of value here! So don't let it distract you and run along now!
+RU: 
+
+ID: M5091_S0050_G0020_001_apolorobo
+JP: ダケド、セッカクココヲ見ツケタノニ手ブラデ帰ス訳ニハイカナイナ。
+EN: Hmmm...but I can't just send you off empty-handed, now can I?
+RU: 
+
+ID: M5091_S0050_G0030_001_apolorobo
+JP: ナニカアゲタイケド、ボクハイイモノ持ッテナイシ。ウーン、ソウダナァ……
+EN: I'd love to give you a souvenir of some kind, but I have nothing on me right now. What to do, what to do...?
+RU: 
+
+ID: M5091_S0050_G0040_001_apolorobo
+JP: ワカッタ！ボクハ、今カラ、爆死スル！
+EN: I know! I shall self-destruct for your convenience!
+RU: 
+
+ID: M5091_S0050_G0050_001_apolorobo
+JP: ソウスレバ幾バクカノ素材ガ飛ビ散ルヨ。ソレヲ君ニアゲル！\n君ハ、ムシロ、シヤワセモノダヨ？
+EN: This will result in a rain of useful materials. They are yours to keep! Ah yes, fortune smiles upon you today!
+RU: 
+
+ID: M5091_S0050_G0060_001_apolorobo
+JP: 素材ヲ拾ッタラ、ココデミタコトハ忘レルンダヨ。
+EN: Once you've collected my gifts, please forget everything you saw here.
+RU: 
+
+ID: M5091_S0050_G0070_001_apolorobo
+JP: ……約束シタカラネ！ジャアネ！！
+EN: That's a promise, you hear? Goodbye!
+RU: 
+
+

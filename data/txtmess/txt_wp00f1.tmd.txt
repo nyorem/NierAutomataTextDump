@@ -1,0 +1,20 @@
+ID: PAUSE_WEAPONSTORY_00f1_01
+JP: ひのきのぼう　Lv1
+EN: 
+RU: 
+
+ID: PAUSE_WEAPONSTORY_00f1_02
+JP: ひのきのぼう　Lv2
+EN: 
+RU: 
+
+ID: PAUSE_WEAPONSTORY_00f1_03
+JP: ひのきのぼう　Lv3
+EN: 
+RU: 
+
+ID: PAUSE_WEAPONSTORY_00f1_04
+JP: ひのきのぼう　Lv4
+EN: 
+RU: 
+

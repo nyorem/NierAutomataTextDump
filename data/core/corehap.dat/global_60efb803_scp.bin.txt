@@ -1,0 +1,26 @@
+-- Section 1
+
+ID: M5652_S0030_G0200_001_resiman
+JP: ＺＺＺＺＺＺＺ……
+EN: Zzzzzzz...
+RU: 
+
+ID: M5652_S0030_G0210_001_a9s
+JP: 寝てるだけか……
+EN: He's asleep.
+RU: 
+
+ID: M5652_S0030_G0230_001_a2
+JP: 寝てるのか……
+EN: Must be nice.
+RU: 
+
+
+-- Section 2
+
+ID: M5652_S0030_G0200_001_resiman
+JP: ＺＺＺＺＺＺＺ……
+EN: Zzzzzzz...
+RU: 
+
+

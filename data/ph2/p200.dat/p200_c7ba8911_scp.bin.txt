@@ -1,0 +1,63 @@
+-- Section 1
+
+ID: M1060_S0120_G0000_101_pascal
+JP: あの巨大な機械生命体は、過去に廃棄された兵器です。
+EN: That enormous machine is an ancient weapon.
+RU: 
+
+ID: M1060_S0120_G0010_101_pascal
+JP: アンドロイド殲滅用として開発されたのですが、\n制御不能になってしまって……
+EN: It was designed to help annihilate the androids, but it wound up going out of control.
+RU: 
+
+ID: M1060_S0120_G0020_101_pascal
+JP: 当時は私も機械生命体のネットワークに組み込まれていたから\n覚えているんですが……
+EN: I was part of the machines' network when it happened, so I remember it.
+RU: 
+
+ID: M1060_S0120_G0030_101_pascal
+JP: 上陸したとたんに暴走し、敵味方関係なく攻撃を始めたんです。
+EN: The moment it reached land, it went berserk and began attacking everything in sight.
+RU: 
+
+ID: M1060_S0120_G0040_101_pascal
+JP: が、結局、我々も暴走を止める事が出来なくて……
+EN: No one could figure out how to stop it.
+RU: 
+
+ID: M1060_S0120_G0050_101_pascal
+JP: 深海に投棄されたのですが、再び上陸を試みているようですね。
+EN: We eventually marooned it deep in the ocean, but it seems to be searching for a way back.
+RU: 
+
+ID: M1060_S0120_G0060_101_a2b
+JP: そうか……
+EN: Huh.
+RU: 
+
+ID: M1060_S0120_G0070_101_a9s
+JP: ……２B！
+EN: Hey, 2B?
+RU: 
+
+ID: M1060_S0120_G0080_101_a9s
+JP: ちょっと思いついた事があります！
+EN: I think I have another idea!
+RU: 
+
+ID: M1060_S0120_G0090_101_a9s
+JP: ここで、怪獣を食い止めておいてください！
+EN: You keep that thing right where it is, okay!?
+RU: 
+
+ID: M1060_S0120_G0100_101_a2b
+JP: ……えっ！？
+EN: What!?
+RU: 
+
+ID: M1060_S0120_G0110_101_a9s
+JP: 頼みましたよ！
+EN: Please, 2B! This is gonna work!
+RU: 
+
+

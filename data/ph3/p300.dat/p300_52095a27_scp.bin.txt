@@ -1,0 +1,18 @@
+-- Section 1
+
+ID: M5920_S0030_G0040_001_a2
+JP: 何だ……これは。
+EN: Whoa. What's that?
+RU: 
+
+ID: M3010_S0020_G0082_001_pod042
+JP: 不明
+EN: Unknown.
+RU: 
+
+ID: M5920_S0030_G0110_001_a2
+JP: 使えないな。
+EN: You're useless.
+RU: 
+
+

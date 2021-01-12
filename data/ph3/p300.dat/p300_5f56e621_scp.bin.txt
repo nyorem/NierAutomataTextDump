@@ -1,0 +1,13 @@
+-- Section 1
+
+ID: M3010_S0025_G0000_001_a2
+JP: 大型っていうからどんな敵かと思ったら……大した事ないな。
+EN: So much for "Goliath" class. That was over before it started.
+RU: 
+
+ID: M3010_S0025_G0010_001_pod042
+JP: 否定：敵機械生命体反応健在。
+EN: Negative. Enemy machines remain in the area.
+RU: 
+
+

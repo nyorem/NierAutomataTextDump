@@ -1,0 +1,144 @@
+-- Section 1
+
+ID: M6140_S0000_G0000_001_unknown
+JP: プラトン1728の記憶を見ますか？
+EN: Do you want to view the memories of Plato 1728?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 2
+
+ID: M5095_S0100_G0090_001_a2b
+JP: 今のは……
+EN: What was that?
+RU: 
+
+ID: M5095_S0100_G0100_001_pod042
+JP: 推測：機械生命体の過去記録。
+EN: Hypothesis: These are past records of a machine lifeform.
+RU: 
+
+ID: M5095_S0100_G0110_001_a2b
+JP: 機械生命体の、記録？
+EN: Records of a machine?
+RU: 
+
+ID: M5095_S0100_G0120_001_pod042
+JP: 報告：新たな過去記録が出現。
+EN: Report: New records have appeared.
+RU: 
+
+ID: M5095_S0100_G0125_001_pod042
+JP: 推奨：さらなる情報収集。
+EN: Proposal: Gather more information.
+RU: 
+
+ID: M5095_S0100_G0130_001_a9s
+JP: 今のは、一体……
+EN: What on earth was that?
+RU: 
+
+ID: M5095_S0100_G0140_001_pod153
+JP: 推測：機械生命体の過去記録。
+EN: Hypothesis: These are past records of a machine lifeform.
+RU: 
+
+ID: M5095_S0100_G0150_001_a9s
+JP: 機械生命体の、記録？
+EN: Records of a machine?
+RU: 
+
+ID: M5095_S0100_G0160_001_pod153
+JP: 報告：新たな過去記録が出現。
+EN: Report: New records have appeared.
+RU: 
+
+ID: M5095_S0100_G0165_001_pod153
+JP: 推奨：さらなる情報収集。
+EN: Proposal: Gather more information.
+RU: 
+
+ID: M5095_S0100_G0170_001_a2
+JP: 何だ、今のは？
+EN: What the hell was that?
+RU: 
+
+ID: M5095_S0100_G0180_001_pod042
+JP: 推測：機械生命体の過去記録。
+EN: Hypothesis: These are past records of a machine lifeform.
+RU: 
+
+ID: M5095_S0100_G0190_001_a2
+JP: 機械生命体の、記録？
+EN: Records of a machine?
+RU: 
+
+ID: M5095_S0100_G0200_001_pod042
+JP: 報告：新たな過去記録が出現。
+EN: Report: New records have appeared.
+RU: 
+
+ID: M5095_S0100_G0210_001_pod042
+JP: 推奨：さらなる情報収集。
+EN: Proposal: Gather more information.
+RU: 
+
+
+-- Section 3
+
+ID: M5095_S0200_G0100_001_a2b
+JP: ……戦う事が、嫌いな機械生命体？
+EN: A machine that despises combat?
+RU: 
+
+ID: M5095_S0200_G0110_001_pod042
+JP: 報告：新たな過去記録が出現。
+EN: Report: New records have appeared.
+RU: 
+
+ID: M5095_S0200_G0120_001_a2b
+JP: ……確認する。
+EN: Let's see what they say.
+RU: 
+
+ID: M5095_S0200_G0130_001_a9s
+JP: ……戦う事が、嫌いな機械生命体？
+EN: A machine that despises combat?
+RU: 
+
+ID: M5095_S0200_G0140_001_pod153
+JP: 報告：新たな過去記録が出現。
+EN: Report: New records have appeared.
+RU: 
+
+ID: M5095_S0200_G0150_001_a9s
+JP: ……確認する。
+EN: Let's check them out.
+RU: 
+
+ID: M5095_S0200_G0160_001_a2
+JP: ……戦う事が、嫌いな機械生命体だって？
+EN: A machine that hates combat? That's rich.
+RU: 
+
+ID: M5095_S0200_G0170_001_pod042
+JP: 報告：新たな過去記録が出現。
+EN: Report: New records have appeared.
+RU: 
+
+ID: M5095_S0200_G0180_001_a2
+JP: ……見てみるか。
+EN: Alright, let's have a look then.
+RU: 
+
+

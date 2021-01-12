@@ -1,0 +1,51 @@
+-- Section 1
+
+ID: M6010_S0010_G0095_001_select
+JP: ファイルを選択して下さい。
+EN: Select a file.
+RU: 
+
+ID: M6010_S0010_G0100_001_select
+JP: ヨルハ部隊による真珠湾降下作戦の個人的記録１
+EN: YoRHa Pearl Harbor Descent Personal Record—Part 1
+RU: 
+
+ID: M6010_S0010_G0110_001_select
+JP: ヨルハ部隊による真珠湾降下作戦の個人的記録２
+EN: YoRHa Pearl Harbor Descent Personal Record—Part 2
+RU: 
+
+ID: M6010_S0010_G0120_001_select
+JP: ヨルハ部隊による真珠湾降下作戦の個人的記録３
+EN: YoRHa Pearl Harbor Descent Personal Record—Part 3
+RU: 
+
+ID: M6090_S0110_G0010_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0910_G0000_001_a2
+JP: 十六号、二十一号……四号……
+EN: Number 16... Number 21...Number 4...
+RU: 
+
+ID: M6010_S0910_G0010_001_a2
+JP: 私は、まだ生きてるんだ……ごめんね。
+EN: I'm...sorry I'm still alive.
+RU: 
+
+ID: M6010_S0910_G0020_001_a2
+JP: 片が付いたら、すぐにそっちに行くから……
+EN: But I'll be joining you as soon as I finish some things up.
+RU: 
+
+ID: M6010_S0910_G0030_001_a2
+JP: ……
+EN: ......
+RU: 
+
+

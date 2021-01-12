@@ -1,0 +1,25 @@
+ID: M1040_S0560_H0000_001_a9s
+JP:  
+EN:  
+RU: 
+
+ID: M1040_S0560_H0010_001_a2b
+JP: これは……死体！？
+EN: Are they dead?
+RU: 
+
+ID: M1040_S0560_H0020_001_a9s
+JP: ２Ｂ、あれ！！
+EN: 2B! Look!
+RU: 
+
+ID: M1040_S0560_H0030_001_a2b
+JP: 破壊された、エイリアンの母船が……
+EN: Destroyed alien motherships...
+RU: 
+
+ID: M1040_S0560_H0040_001_adam
+JP: ようこそ。我が創造主の墓場へ。
+EN: Welcome...to the graveyard of our creators.
+RU: 
+

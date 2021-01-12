@@ -1,0 +1,764 @@
+-- Section 1
+
+ID: M6090_S0091_G0000_300_hennawresi
+JP: ああ、ヨルハ部隊の人か。
+EN: Hey, you're with YoRHa, right?
+RU: 
+
+ID: M6090_S0091_G0010_300_hennawresi
+JP: ん？……この頭のカブリ物の事？
+EN: Hmm? My mask?
+RU: 
+
+ID: M6090_S0091_G0020_300_hennawresi
+JP: これは、俗世間の不必要な情報を制限する為に頭に装着している\n電磁波遮断装置なんだよ。
+EN: It's an electromagnetic-wave shielding device. I wear it to limit unnecessary information from the world.
+RU: 
+
+ID: M6090_S0091_G0030_300_hennawresi
+JP: ……ウソだけど。
+EN: ...Ha! Just kidding.
+RU: 
+
+
+-- Section 2
+
+ID: M6090_S0091_G0040_300_hennawresi
+JP: で、何か用？悩みでもあるの？
+EN: So what do you want? Are you worried about something or whatever?
+RU: 
+
+ID: M6090_S0091_G0110_300_sele
+JP: セーブってどうするの？
+EN: How do I save?
+RU: 
+
+ID: M6090_S0091_G0120_300_sele
+JP: アクセスポイントって何？
+EN: What's an access point?
+RU: 
+
+ID: M6090_S0091_G0130_300_sele
+JP: 死んだらどうすればいい？
+EN: What should I do if I die?
+RU: 
+
+ID: M6090_S0091_G0140_300_sele
+JP: これからどこに行けばいい？
+EN: Where should I go now?
+RU: 
+
+ID: M6090_S0091_G0150_300_sele
+JP: ３Ｄ酔いするんだけど……
+EN: I feel motion sick...
+RU: 
+
+ID: M6090_S0091_G0160_300_sele
+JP: ゲームが難しすぎるんだけど……
+EN: This game is too difficult!
+RU: 
+
+ID: M6090_S0091_G0180_300_sele
+JP: 悩みはない。
+EN: I'm good.
+RU: 
+
+
+-- Section 3
+
+ID: M6090_S0091_G0440_300_hennawresi
+JP: ああ、君か。
+EN: Oh, it's you.
+RU: 
+
+ID: M6090_S0091_G0450_300_hennawresi
+JP: 実はちょっと人には言えない商売を始めたんだよね……
+EN: The truth is, I've opened a little side business. Gotta be real hush-hush about it though.
+RU: 
+
+ID: M6090_S0091_G0460_300_hennawresi
+JP: すごく頑張った人に与えられる称号があるじゃないか……アレ……\nまあ大っぴらには言えないんだけど、例のアレ。
+EN: See, there are certain...accolades given to a select few who really give their all. You know what I'm getting at.
+RU: 
+
+ID: M6090_S0091_G0470_300_hennawresi
+JP: そのアレを解除するのが大変で、困ってるアンドロイドが沢山いてね。
+EN: They're super tough to earn, which frustrates a lot of androids.
+RU: 
+
+ID: M6090_S0091_G0480_300_hennawresi
+JP: 各地の有志の協力を得て、アレの解除を代行する商売を始めたんだ。
+EN: So, with the help of some select volunteers, my company unlocks them.
+RU: 
+
+
+-- Section 4
+
+ID: M6090_S0091_G0490_300_hennawresi
+JP: 内緒なんだけど、良ければ見ていってくれよ……
+EN: It's a secret, but check it out if you like...
+RU: 
+
+ID: M6090_S0091_G0110_300_sele
+JP: セーブってどうするの？
+EN: How do I save?
+RU: 
+
+ID: M6090_S0091_G0120_300_sele
+JP: アクセスポイントって何？
+EN: What's an access point?
+RU: 
+
+ID: M6090_S0091_G0130_300_sele
+JP: 死んだらどうすればいい？
+EN: What should I do if I die?
+RU: 
+
+ID: M6090_S0091_G0140_300_sele
+JP: これからどこに行けばいい？
+EN: Where should I go now?
+RU: 
+
+ID: M6090_S0091_G0150_300_sele
+JP: ３Ｄ酔いするんだけど……
+EN: I feel motion sick...
+RU: 
+
+ID: M6090_S0091_G0160_300_sele
+JP: ゲームが難しすぎるんだけど……
+EN: This game is too difficult!
+RU: 
+
+ID: M6090_S0091_G0170_300_sele
+JP: アレの解除を依頼。
+EN: Request unlocking you-know-what.
+RU: 
+
+ID: M6090_S0091_G0180_300_sele
+JP: 悩みはない。
+EN: I'm good.
+RU: 
+
+
+-- Section 5
+
+ID: M6090_S0091_G0080_300_hennawresi
+JP: ああ……ヨルハの人は大変だったみたいだね。
+EN: It must've been tough for you YoRHa.
+RU: 
+
+ID: M6090_S0091_G0090_300_hennawresi
+JP: バンカーが無くなった今、義体は補給されなくなった。\nだから、死んだ場合も『回収』する事は出来ない。
+EN: Now we've got no Bunker, and we can't replenish our bodies. So if we die, there's no more recovery.
+RU: 
+
+
+-- Section 6
+
+ID: M6090_S0091_G0100_300_hennawresi
+JP: 死んだらそこでおしまいだから、\nなるべく細かくセーブしておくことをオススメするよ……
+EN: If you die now, it's the end, so I'd recommend saving as much as possible.
+RU: 
+
+ID: M6090_S0091_G0110_300_sele
+JP: セーブってどうするの？
+EN: How do I save?
+RU: 
+
+ID: M6090_S0091_G0120_300_sele
+JP: アクセスポイントって何？
+EN: What's an access point?
+RU: 
+
+ID: M6090_S0091_G0140_300_sele
+JP: これからどこに行けばいい？
+EN: Where should I go now?
+RU: 
+
+ID: M6090_S0091_G0150_300_sele
+JP: ３Ｄ酔いするんだけど……
+EN: I feel motion sick...
+RU: 
+
+ID: M6090_S0091_G0160_300_sele
+JP: ゲームが難しすぎるんだけど……
+EN: This game is too difficult!
+RU: 
+
+ID: M6090_S0091_G0170_300_sele
+JP: アレの解除を依頼。
+EN: Request unlocking you-know-what.
+RU: 
+
+ID: M6090_S0091_G0180_300_sele
+JP: 悩みはない。
+EN: I'm good.
+RU: 
+
+
+-- Section 7
+
+ID: M6090_S0091_G0060_300_hennawresi
+JP: 何か悩み事があったら聞くよ？
+EN: If you're worried about anything, you can always talk to me.
+RU: 
+
+ID: M6090_S0091_G0110_300_sele
+JP: セーブってどうするの？
+EN: How do I save?
+RU: 
+
+ID: M6090_S0091_G0120_300_sele
+JP: アクセスポイントって何？
+EN: What's an access point?
+RU: 
+
+ID: M6090_S0091_G0130_300_sele
+JP: 死んだらどうすればいい？
+EN: What should I do if I die?
+RU: 
+
+ID: M6090_S0091_G0140_300_sele
+JP: これからどこに行けばいい？
+EN: Where should I go now?
+RU: 
+
+ID: M6090_S0091_G0150_300_sele
+JP: ３Ｄ酔いするんだけど……
+EN: I feel motion sick...
+RU: 
+
+ID: M6090_S0091_G0160_300_sele
+JP: ゲームが難しすぎるんだけど……
+EN: This game is too difficult!
+RU: 
+
+ID: M6090_S0091_G0170_300_sele
+JP: アレの解除を依頼。
+EN: Request unlocking you-know-what.
+RU: 
+
+ID: M6090_S0091_G0180_300_sele
+JP: 悩みはない。
+EN: I'm good.
+RU: 
+
+
+-- Section 8
+
+ID: M6090_S0091_G0050_300_hennawresi
+JP: 話せて楽しかったよ……またいつでも来てね。
+EN: It was fun talking with you. Come back anytime!
+RU: 
+
+
+-- Section 9
+
+ID: M6090_S0091_G0070_300_hennawresi
+JP: じゃあ、またね。
+EN: See you later then.
+RU: 
+
+
+-- Section 10
+
+ID: M6090_S0091_G0070_300_hennawresi
+JP: じゃあ、またね。
+EN: See you later then.
+RU: 
+
+
+-- Section 11
+
+ID: M6090_S0091_G0070_300_hennawresi
+JP: じゃあ、またね。
+EN: See you later then.
+RU: 
+
+
+-- Section 12
+
+ID: M6090_S0091_G0190_300_hennawresi
+JP: まず、このゲームはオートセーブ出来ない事を覚えておいて欲しい。
+EN: First of all, remember that this game doesn't auto-save.
+RU: 
+
+ID: M6090_S0091_G0191_300_hennawresi
+JP: セーブするにはあそこのアクセスポイントを起動する必要がある。
+EN: You need to activate that access point over there in order to save.
+RU: 
+
+ID: M6090_S0091_G0192_300_hennawresi
+JP: 一度端末を起動させたら、端末の近くならどこでもセーブ出来る筈だよ。
+EN: Once you activate a terminal, you can save from anywhere nearby so long as you're within range.
+RU: 
+
+ID: M6090_S0091_G0200_300_hennawresi
+JP: スクリーンの右上にあるアンテナが立っている時に、システムメニューから\nクイックセーブする事が出来る。
+EN: When there's a connection icon displayed on the top right of your screen, you can go to the System Menu and quick save.
+RU: 
+
+ID: M6090_S0091_G0201_300_hennawresi
+JP: あと、ここのアクセスポイントから君達ヨルハ部隊の衛星基地に\n戻ることも出来る。
+EN: You can also use the access point here to return to that orbiting space station thingy of yours.
+RU: 
+
+ID: M6090_S0091_G0202_300_hennawresi
+JP: 他のアクセスポイントはまだ整備中だが、そのうち転送も可能になるだろう。
+EN: The other access points are still undergoing maintenance, but you should be able to use them for transport soon.
+RU: 
+
+ID: M6090_S0091_G0210_300_hennawresi
+JP: もう一度言うけどオートセーブ出来ないから、忘れないように。
+EN: But—and I can't repeat this enough—don't forget that there's no auto-save!
+RU: 
+
+ID: M6090_S0091_G0220_300_hennawresi
+JP: アンテナが有効なエリアは限られているけど、アクセスポイントを\nアクティブにする事でセーブ可能エリアを広げる事が出来るはずだよ。
+EN: Connectivity is limited to certain areas, but you should be able to save in more locations by activating access points.
+RU: 
+
+ID: M6090_S0091_G0230_300_hennawresi
+JP: 念のため、もう一度だけ言うけど、オートセーブ出来ないからね……
+EN: Oh, and let me say it again... There's no auto-save!
+RU: 
+
+
+-- Section 13
+
+ID: M6090_S0091_G0240_300_hennawresi
+JP: アクセスポイントってのは、ヨルハ部隊員の為に用意された設備だ。
+EN: An access point is a piece of YoRHa equipment.
+RU: 
+
+ID: M6090_S0091_G0250_300_hennawresi
+JP: 具体的に言うとアレなんだけど。
+EN: More specifically, it's that thing.
+RU: 
+
+ID: M6090_S0091_G0260_300_hennawresi
+JP: アクセスポイントでは、データをセーブしたりメールを受信したりする事が\n出来る。
+EN: You can save and check your mail there.
+RU: 
+
+ID: M6090_S0091_G0270_300_hennawresi
+JP: キャンプ外では自動販売機の残骸に偽装されているんだ。
+EN: They're all disguised as wrecked vending machines outside the camp.
+RU: 
+
+ID: M6090_S0091_G0280_300_hennawresi
+JP: 他にも色んな機能があるけど……まあ使えば判るよ。
+EN: They have a couple other functions, but I guess you'll learn about that when you use 'em.
+RU: 
+
+ID: M6090_S0091_G0290_300_hennawresi
+JP: たまに、敵に襲われて使用不可能になっている端末があるから、\nそういう時は敵を排除するといい。
+EN: Sometimes enemies will attack terminals. In those cases, you won't be able to use them again until you get rid of the enemies.
+RU: 
+
+
+-- Section 14
+
+ID: M6090_S0091_G0320_300_hennawresi
+JP: 哲学的で良い質問だ。
+EN: ...That's a good philosophical question.
+RU: 
+
+ID: M6090_S0091_G0330_300_hennawresi
+JP: ヨルハ機体は破壊された直後に記憶データだけが『義体』に転送される。
+EN: After a YoRHa body is destroyed, only its memory data is transferred to the new body.
+RU: 
+
+ID: M6090_S0091_G0340_300_hennawresi
+JP: ただ、アイテム類は転送されないから、死亡してしまったら、過去の自分の\n死体からプラグイン・チップを回収する必要があるんだ。
+EN: That means items aren't transferred—so if you die, you need to recover plug-in chips from your previous body.
+RU: 
+
+ID: M6090_S0091_G0350_300_hennawresi
+JP: 回収前にまた死亡すると、プラグイン・チップはロストしてしまうので\n気をつけて。
+EN: If you die again before recovering your plug-in chips, they'll all be lost, so take care.
+RU: 
+
+ID: M6090_S0091_G0360_300_hennawresi
+JP: 短く言うと……『自分の死体はすぐ回収しろ』って事。
+EN: Basically, you need to recover everything from your previous body immediately.
+RU: 
+
+
+-- Section 15
+
+ID: M6090_S0091_G0300_300_hennawresi
+JP: 歩いていると、右下にミニマップが表示されていると思う。\nその中の<MAP_GOAL>がこれから行くべき目的地だ。
+EN: When you're walking, there should be a mini map on the bottom right. The <MAP_GOAL> icon there shows your next destination.
+RU: 
+
+ID: M6090_S0091_G0310_300_hennawresi
+JP: まあ、赤いマーカーを目指して進めばなんとかなるよ。
+EN: You'll be fine so long as you follow the red marker.
+RU: 
+
+
+-- Section 16
+
+ID: M6090_S0091_G0370_300_hennawresi
+JP: ああ、そういうシステム系の相談はあっちにいるメンテナンス屋に聞いてみるといい。
+EN: If you have any system-related questions, ask Maintenance.
+RU: 
+
+ID: M6090_S0091_G0375_300_hennawresi
+JP: 義体の整備から、ポッドの調整まで何でも請け負ってるから。
+EN: They handle everything from body maintenance to Pod adjustments.
+RU: 
+
+
+-- Section 17
+
+ID: M6090_S0091_G0380_300_hennawresi
+JP: ゲームの難易度はシステムメニューでいつでも変更出来るよ。\nそれぞれの難易度でゲームプレイが違うので試してみるといいかもね。
+EN: You can change the game difficulty at any time on the System Menu.
+RU: 
+
+ID: M6090_S0091_G0390_300_hennawresi
+JP: 「EASY」は敵が弱体化する上に「オートチップ」が装備可能だ。\n<KC_LOCKON>で自動攻撃・自動回避が起動する。
+EN: In Easy mode, enemies are weaker and you can use special auto chips. Equip them and <KC_LOCKON> will activate automatic attacks and evades.
+RU: 
+
+ID: M6090_S0091_G0400_300_hennawresi
+JP: 「NORMAL」はまさにノーマルな難易度。
+EN: Normal mode is a standard level of difficulty.
+RU: 
+
+ID: M6090_S0091_G0410_300_hennawresi
+JP: 「HARD」は敵が強くなる上に「ロックオン」が使用不可になる。
+EN: The enemy gets stronger in Hard mode and you can't use any lock-on features.
+RU: 
+
+ID: M6090_S0091_G0420_300_hennawresi
+JP: 「VERY HARD」は「ロックオン」が使用不可な上、\n敵の攻撃力が信じられない程上昇する。
+EN: In Very Hard mode, not only is lock-on disabled, but the enemies are... Well, they're kind of insane.
+RU: 
+
+ID: M6090_S0091_G0430_300_hennawresi
+JP: ……正気とは思えない難易度だが、命知らずの連中は\nこれを選ぶみたいだよ。
+EN: It's almost stupid difficult, but more daring players seem to like it.
+RU: 
+
+ID: M6090_S0091_G0431_300_hennawresi
+JP: それと、ここだけの話「DATA」→「チュートリアル」の中には未公開の技も\n入ってるらしい。
+EN: And hey, just between you and me, if you go to "Intel" and select "Tutorials," you may find out some things you didn't know.
+RU: 
+
+ID: M6090_S0091_G0432_300_hennawresi
+JP: ヒマ過ぎて死にそうな時は、一度覗いてみるといい。
+EN: May be worth checking out if you're ever bored out of your skull!
+RU: 
+
+
+-- Section 18
+
+ID: M6090_S0091_G0500_300_hennamresi
+JP: ああ、素晴らしい……この頭部は……素晴らしいよ！
+EN: Ahh, this is amazing... This head is...amazing!
+RU: 
+
+ID: M6090_S0091_G0510_300_hennamresi
+JP: このパーツを装着していると、見えるんだ……世界が見える！
+EN: Put this on, and you can see the whole world!
+RU: 
+
+ID: M6090_S0091_G0531_300_hennamresi
+JP: おお、君はヨルハ部隊のスキャナーモデルじゃないか……
+EN: Ooooh....You're a Scanner, aren't you?
+RU: 
+
+ID: M6090_S0091_G0532_300_hennamresi
+JP: 俺にわからないことは何もない……
+EN: I know everything...
+RU: 
+
+
+-- Section 19
+
+ID: M6090_S0091_G0520_300_hennamresi
+JP: 聞いてくれ。全知全能になったこの俺に、質問を投げかけてくれ！
+EN: Ask me something! Anything! I'm omniscient, I'm omnipotent, fire a question at me!
+RU: 
+
+ID: M6090_S0091_G0533_300_hennamresi
+JP: というのは言い過ぎだが、ハッキングの事とか色々聞いてくれていいんだぜ？
+EN: ...Okay, maybe not EVERYTHING, but you can ask me anything you want to know about hacking.
+RU: 
+
+ID: M6090_S0091_G0560_300_sele
+JP: メールを読むのが不便なんだけど……
+EN: Reading mail is inconvenient.
+RU: 
+
+ID: M6090_S0091_G0570_300_sele
+JP: ３Ｄマップが見づらいんだけど……
+EN: It's hard to see the 3D map...
+RU: 
+
+ID: M6090_S0091_G0580_300_sele
+JP: この世界の通貨ってどうなってるの？
+EN: What's the currency in this world?
+RU: 
+
+ID: M6090_S0091_G0590_300_sele
+JP: ブラックボックスって何？
+EN: What's a black box?
+RU: 
+
+ID: M6090_S0091_G0595_300_sele
+JP: ハッキングについて教えて欲しい。
+EN: Teach me about hacking.
+RU: 
+
+ID: M6090_S0091_G0600_300_sele
+JP: 質問はありません。
+EN: I don't have any questions.
+RU: 
+
+
+-- Section 20
+
+ID: M6090_S0091_G0520_300_hennamresi
+JP: 聞いてくれ。全知全能になったこの俺に、質問を投げかけてくれ！
+EN: Ask me something! Anything! I'm omniscient, I'm omnipotent, fire a question at me!
+RU: 
+
+ID: M6090_S0091_G0535_300_hennamresi
+JP: 是非とも俺に質問してくれよ……例えば、ハッキングの事とか。
+EN: Go on, ask me about something. Like, I dunno, hacking?
+RU: 
+
+ID: M6090_S0091_G0560_300_sele
+JP: メールを読むのが不便なんだけど……
+EN: Reading mail is inconvenient.
+RU: 
+
+ID: M6090_S0091_G0570_300_sele
+JP: ３Ｄマップが見づらいんだけど……
+EN: It's hard to see the 3D map...
+RU: 
+
+ID: M6090_S0091_G0580_300_sele
+JP: この世界の通貨ってどうなってるの？
+EN: What's the currency in this world?
+RU: 
+
+ID: M6090_S0091_G0590_300_sele
+JP: ブラックボックスって何？
+EN: What's a black box?
+RU: 
+
+ID: M6090_S0091_G0595_300_sele
+JP: ハッキングについて教えて欲しい。
+EN: Teach me about hacking.
+RU: 
+
+ID: M6090_S0091_G0600_300_sele
+JP: 質問はありません。
+EN: I don't have any questions.
+RU: 
+
+
+-- Section 21
+
+ID: M6090_S0091_G0540_300_hennamresi
+JP: 質問を……俺に質問をしてくれ！
+EN: Ask me a question! Ask me a question! Come ooooon!
+RU: 
+
+ID: M6090_S0091_G0560_300_sele
+JP: メールを読むのが不便なんだけど……
+EN: Reading mail is inconvenient.
+RU: 
+
+ID: M6090_S0091_G0570_300_sele
+JP: ３Ｄマップが見づらいんだけど……
+EN: It's hard to see the 3D map...
+RU: 
+
+ID: M6090_S0091_G0580_300_sele
+JP: この世界の通貨ってどうなってるの？
+EN: What's the currency in this world?
+RU: 
+
+ID: M6090_S0091_G0590_300_sele
+JP: ブラックボックスって何？
+EN: What's a black box?
+RU: 
+
+ID: M6090_S0091_G0595_300_sele
+JP: ハッキングについて教えて欲しい。
+EN: Teach me about hacking.
+RU: 
+
+ID: M6090_S0091_G0600_300_sele
+JP: 質問はありません。
+EN: I don't have any questions.
+RU: 
+
+
+-- Section 22
+
+ID: M6090_S0091_G0530_300_hennamresi
+JP: いつでも、この俺に質問をしてくれよ？
+EN: You can ask me questions any time you want.
+RU: 
+
+ID: M6090_S0091_G0534_300_hennamresi
+JP: また、質問してくれよ？約束だからな？
+EN: Ask me something again, sometime, okay? Promise?
+RU: 
+
+
+-- Section 23
+
+ID: M6090_S0091_G0550_300_hennamresi
+JP: また質問しに来てくれよ？一人だとさみしいからな！
+EN: Come back and ask me something if you're on your own. It gets so lonely!
+RU: 
+
+
+-- Section 24
+
+ID: M6090_S0091_G0610_300_hennamresi
+JP: ああ、メールは確かにアクセスポイントでしか読めないな。
+EN: Well, it's true that you can only read mail at access points.
+RU: 
+
+ID: M6090_S0091_G0620_300_hennamresi
+JP: ヨルハ機体に直接送信しないのは、\n重要な機密情報を盗まれない為らしい。
+EN: Also, you can't send mail directly to other YoRHa units—that's to prevent secret information from getting out.
+RU: 
+
+ID: M6090_S0091_G0630_300_hennamresi
+JP: ただ、メールのレトロ感が好きで\nわざと使うアンドロイドも多いみたいだけどな。
+EN: Still, there are a lot of androids who use mail because they like how retro it is. Kind of a hipster thing, I guess.
+RU: 
+
+
+-- Section 25
+
+ID: M6090_S0091_G0640_300_hennamresi
+JP: ああ、あれは衛星からの情報をマップデータにしてるらしいんだが……
+EN: Ah, that's where satellite information is put into map data.
+RU: 
+
+ID: M6090_S0091_G0650_300_hennamresi
+JP: 衛星にあるカメラの解像度が粗くて、\n細かい部分や地下を見る事が出来ないんだ。
+EN: The satellite camera doesn't have very good resolution, so you can't see fine details or tell what's underground.
+RU: 
+
+ID: M6090_S0091_G0660_300_hennamresi
+JP: 他のアンドロイドからも不満が出ているが、どうにもならないらしい。
+EN: Other androids are also dissatisfied with it, but that's the way it is, I'm afraid.
+RU: 
+
+ID: M6090_S0091_G0670_300_hennamresi
+JP: でも、多少は自分の足で歩いて、色々発見した方が楽しい事も……ないか。
+EN: Some choose to walk on their own two feet and discover things for themselves... Hint, hint!
+RU: 
+
+ID: M6090_S0091_G0680_300_hennamresi
+JP: ま、諦めてくれ。
+EN: You'll just have to get used to it.
+RU: 
+
+
+-- Section 26
+
+ID: M6090_S0091_G0690_300_hennamresi
+JP: 基本的には破壊した敵の残骸を分解して、それを再構築した部品を我々は使っている。
+EN: Basically, we take apart the enemies we destroy, and use their reconstructed parts.
+RU: 
+
+ID: M6090_S0091_G0700_300_hennamresi
+JP: わざわざ鉄を掘るより便利だからね？
+EN: It's much easier than digging up the iron ourselves.
+RU: 
+
+ID: M6090_S0091_G0710_300_hennamresi
+JP: その残骸の重さや、手に入ったパーツの貴重さによって\n価値が決められてるんだ。その単位を『Ｇ』と言う。
+EN: Worth is decided according to weight of the enemy and value of the parts you obtained. We call that unit 'G'.
+RU: 
+
+ID: M6090_S0091_G0720_300_hennamresi
+JP: え？『Ｇ』を何て読むかって？
+EN: ...Huh? What does 'G' stand for?
+RU: 
+
+ID: M6090_S0091_G0730_300_hennamresi
+JP: ……それは、言えないな。トップシークレットだ。
+EN: Sorry! That's classified.
+RU: 
+
+
+-- Section 27
+
+ID: M6090_S0091_G0740_300_hennamresi
+JP: 何……って言われても、アンタ達の部品だからな。あまり詳しくはないよ。
+EN: You're asking me? It's something you YoRHa have inside you. I'm not that familiar with it.
+RU: 
+
+ID: M6090_S0091_G0750_300_hennamresi
+JP: ブラックボックスってのはヨルハ機体に装備されている融合炉の事だ。
+EN: The black box is a fusion reactor installed in all YoRHa units.
+RU: 
+
+ID: M6090_S0091_G0760_300_hennamresi
+JP: しかし、その構造は我々レジスタンスには明らかにされてないんだ。\n何か怪しい素材が使われてるって噂はあるんだが……
+EN: But we Resistance folks don't know much about its construction. Apparently it uses some kind of mysterious material...
+RU: 
+
+ID: M6090_S0091_G0770_300_hennamresi
+JP: アンタ達の身体の中のそれ、良ければ分解して解析してみたいんだけど？
+EN: Say, maybe you'd let me rip it out of you and take it apart for analysis!
+RU: 
+
+ID: M6090_S0091_G0780_300_hennamresi
+JP: ……ダメか。まあ、そうだよな。
+EN: ...No? Hey, fair enough. Can't blame a guy for trying.
+RU: 
+
+
+-- Section 28
+
+ID: M6090_S0091_G0790_300_hennamresi
+JP: 君はスキャナーモデルだから敵に近づくと<KC_HEAVY_ATK>が現れると思う。
+EN: Since you're a Scanner, if you get close to an enemy, <KC_HEAVY_ATK> should appear. ...Er, I think.
+RU: 
+
+ID: M6090_S0091_G0800_300_hennamresi
+JP: <KC_HEAVY_ATK>を長押しするとハッキングが出来るんだが……その時にちょっとした裏技があってね。
+EN: You can start hacking by pressing and holding <KC_HEAVY_ATK>, but there's a secret trick you can do as well.
+RU: 
+
+ID: M6090_S0091_G0810_300_hennamresi
+JP: 敵に気づかれないようにそーっと後ろから近づいて、ハッキングすると……
+EN: If you sneak up behind the enemies without being detected and hack into them...
+RU: 
+
+ID: M6090_S0091_G0820_300_hennamresi
+JP: なんと敵を乗っ取ってリモート操作する事が出来るんだ。
+EN: You can take over their systems and control them remotely!
+RU: 
+
+ID: M6090_S0091_G0830_300_hennamresi
+JP: さらに、その敵を使って他の敵をハッキングすれば、多段で乗っ取りが出来る。
+EN: Not only that, but if you use that enemy to hack another, you can keep taking over one enemy after the next!
+RU: 
+
+ID: M6090_S0091_G0840_300_hennamresi
+JP: 敵地潜入時に、目立たない機械生命体の姿で入る事も出来るんだ。
+EN: You can even use them to disguise yourself as a machine when infiltrating areas they control.
+RU: 
+
+ID: M6090_S0091_G0850_300_hennamresi
+JP: いつか気が向いた時にでも、試してみてくれ。
+EN: Give it a try sometime if you're interested.
+RU: 
+
+

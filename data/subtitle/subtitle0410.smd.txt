@@ -1,0 +1,40 @@
+ID: M1050_S0500_S0000_201_a9s
+JP: 雨の日も、風の日も。
+EN: Whether in wind or rain...
+RU: 
+
+ID: M1050_S0500_S0010_201_a9s
+JP: 嵐の日も、雷の日も。
+EN: thunder or snow...
+RU: 
+
+ID: M1050_S0500_S0020_201_a9s
+JP: 燃え上がる戦場の炎の下でも。
+EN: or even amidst the rising flames of war...
+RU: 
+
+ID: M1050_S0500_S0030_201_a9s
+JP: その者達はいつも一緒でした。
+EN: They were always together.
+RU: 
+
+ID: M1050_S0500_S0040_201_a9s
+JP: どうしてだか理由は分かりませんでしたが、
+EN: They never understood why.
+RU: 
+
+ID: M1050_S0500_S0050_201_a9s
+JP: いつもよりそって生きていました。
+EN: And yet, they spent their lives nestled together.
+RU: 
+
+ID: M1050_S0500_S0060_201_a9s
+JP: いつまでも、
+EN: Forever.
+RU: 
+
+ID: M1050_S0500_S0070_201_a9s
+JP: いつまでも……
+EN: Forever and ever...
+RU: 
+

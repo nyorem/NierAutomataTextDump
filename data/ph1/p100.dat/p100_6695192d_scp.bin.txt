@@ -1,0 +1,71 @@
+-- Section 1
+
+ID: M0010_S0950_G0000_101_a2b
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0950_G0010_101_a9s
+JP: 作戦は、成功でしたね。
+EN: So...mission complete and all that, huh?
+RU: 
+
+ID: M0010_S0950_G0020_101_a9s
+JP: 敵大型兵器は破壊され敵支配地域への侵入経路が確保されました。\n今後の
+EN: The Goliaths were wiped out, and we secured a route into enemy territory. Now we can—
+RU: 
+
+ID: M0010_S0950_G0030_101_a2b
+JP: ９Ｓ。
+EN: 9S?
+RU: 
+
+ID: M0010_S0950_G0040_101_a9s
+JP: ……はい。
+EN: Yeah?
+RU: 
+
+ID: M0010_S0950_G0050_101_a2b
+JP: ありがとう。
+EN: Thank you.
+RU: 
+
+ID: M0010_S0950_G0060_101_a2b
+JP: 最後に私達のデータを基地にアップロードしてくれて。
+EN: For uploading my data to the Bunker.
+RU: 
+
+ID: M0010_S0950_G0061_101_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M0010_S0950_G0070_101_a9s
+JP: ……ごめんなさい。その記憶を僕は持っていません。
+EN: Um, I did that? Sorry, I don't remember.
+RU: 
+
+ID: M0010_S0950_G0080_101_a9s
+JP: あの地域は通信帯域が細かったですから……
+EN: There wasn't a whole lot of bandwidth down there, you know?
+RU: 
+
+ID: M0010_S0950_G0090_101_a9s
+JP: 多分、貴女のデータをバックアップする時間しか\n確保出来なかったんでしょう。
+EN: I probably only had enough time to back up your memories.
+RU: 
+
+ID: M0010_S0950_G0100_101_a9s
+JP: 僕の記憶は、貴女と合流する直前までしか残っていません。
+EN: Mine are only intact up to the point just before we rendezvoused.
+RU: 
+
+ID: M0010_S0950_G0110_101_a2b
+JP: ……そう。
+EN: ...I see.
+RU: 
+
+

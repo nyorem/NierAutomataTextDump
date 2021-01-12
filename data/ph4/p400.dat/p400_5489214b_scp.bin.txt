@@ -1,0 +1,952 @@
+-- Section 1
+
+ID: M6150_S0010_G0020_001_dreamR2
+JP: ボクノ友達にスリープモード中ナノニ、マルデ活動シテイルかの様ナ変な映像を見るッテ言ッテイタ、ヤツが居タンダ。
+EN: A friend of mine said he's been seeing images of himself doing things while in sleep mode.
+RU: 
+
+ID: M6150_S0010_G0030_001_dreamR2
+JP: アイツはソノ映像に惹カレテイッタミタイデ、日に日に時間サエアレバ、スリープモード状態に入ル様にナッテイッタンダ。
+EN: He became so obsessed with these images that he started spending more and more time in sleep mode every day.
+RU: 
+
+ID: M6150_S0010_G0040_001_dreamR2
+JP: ソシテ遂にコナイダの大戦の後ニ、向コウノ世界に行クト言イ残シテ、ソレカラズット目覚めナクナッテシマッタヨ。
+EN: Then, after that big battle the other day, he said "I'm staying in the other world," and he never woke up again.
+RU: 
+
+ID: M6150_S0010_G0050_001_dreamR2
+JP: アイツが再ビ起動スル日は来ルンダロウカ……
+EN: I wonder if he's ever going to reactivate...
+RU: 
+
+
+-- Section 2
+
+ID: M6150_S0010_G0060_001_dreamR2
+JP: コナイダの大戦デ皆が多クノ友達を失ッタカラネ、モシカシタラアイツはコノ世界に絶望シテ向コウノ世界デ生キル事を選ンダノカモネ……
+EN: He lost so many of his friends during that battle the other day... Maybe despair drove him to live in that other world of his.
+RU: 
+
+
+-- Section 3
+
+ID: M6150_S0010_G0070_001_dreamR2
+JP: モシコノ世界が平和ナ世界にナッタラ、アイツは目覚メルノカナ？
+EN: Maybe he'll wake up again once this world is at peace?
+RU: 
+
+
+-- Section 4
+
+ID: M6150_S0020_G0010_001_restR
+JP: コナイダの大戦デ、労働力モ物資モ足リナイ……
+EN: Because of that huge battle the other day, we're low on labor power and supplies...
+RU: 
+
+ID: M6150_S0020_G0020_001_restR
+JP: 一日20時間労働ハ流石ニ堪エル……
+EN: We're expected to work 20 hours a day now...
+RU: 
+
+
+-- Section 5
+
+ID: M6150_S0030_G0020_001_terminalR
+JP: ヤレヤレ、コナイダの大規模な戦闘デ、コノ地区の個体の半数以上は失ワレテシマッタヨ。
+EN: We lost more than half of our troops in that huge battle the other day.
+RU: 
+
+ID: M6150_S0030_G0030_001_terminalR
+JP: ソレニシテモ、プラトン１７２８があんな能力を持ッテイタナンテナ……
+EN: Who knew Plato 1728 had such special powers in him though, huh?
+RU: 
+
+
+-- Section 6
+
+ID: M6150_S0040_G0030_001_watchR
+JP: 今はドコモ、ロボ不足で工場の通路を修理スル余裕ガ無インダッテサ。
+EN: There's a shortage of machines at all factories nowadays. Fixing a simple hallway is taking forever.
+RU: 
+
+ID: M6150_S0040_G0040_001_watchR
+JP: ボクは何時マデココデ飛ンデナイトイケナインダ……
+EN: I don't wanna think about how long I'm gonna have to hover around here.
+RU: 
+
+ID: M6150_S0040_G0050_001_watchR
+JP: イッソ歩行ユニットを付ケテ……ケド、飛行タイプトシテノプライドガ……
+EN: Maybe I should attach a legged unit... NO! My pride won't allow it!
+RU: 
+
+
+-- Section 7
+
+ID: M6150_S0050_G0020_001_lookR
+JP: アア、何デ今マデ気付カナカッタノダロウ……
+EN: Oh, how could I have been so stupid!?
+RU: 
+
+ID: M6150_S0050_G0030_001_lookR
+JP: アノ建造物コソ我々命無キモノガ求メルモノダ……
+EN: That building... It's exactly what us lifeless creatures have longed for!
+RU: 
+
+
+-- Section 8
+
+ID: M6150_S0730_G0000_001_teruterubozu
+JP: ……
+EN: ...
+RU: 
+
+
+-- Section 9
+
+ID: M6150_S0730_G0010_001_attractR
+JP: ……
+EN: ...
+RU: 
+
+
+-- Section 10
+
+ID: M6150_S0060_G0020_001_attractR
+JP: ……プラトン１７２８……キミハ……アノ中ヘイケタンダネ……
+EN: Plato 1728... You...made it inside...didn't you?
+RU: 
+
+ID: M6150_S0060_G0030_001_attractR
+JP: イマ……ボク……モ向カウヨ……
+EN: I'll...be going there...soon...too...
+RU: 
+
+
+-- Section 11
+
+ID: M6150_S0060_G0030_001_attractR
+JP: イマ……ボク……モ向カウヨ……
+EN: I'll...be going there...soon...too...
+RU: 
+
+
+-- Section 12
+
+ID: M6150_S0070_G0030_001_frightenedR
+JP: ア、アンナ風に暴走スルナンテ……
+EN: I can't believe he'd go crazy like that...
+RU: 
+
+ID: M6150_S0070_G0040_001_frightenedR
+JP: ボクニハ無理ダ、モウ戦場ナンテ二度トゴメンダ……
+EN: I can't do this! I don't want to be part of this war anymore!
+RU: 
+
+
+-- Section 13
+
+ID: M6150_S0080_G0020_001_encourageR
+JP: コイツ、コナイダ戦闘訓練で昇格シテ、初メテ戦場部隊に投入サレタンダ。
+EN: This guy got promoted after his training the other day, so he got sent to the battlefield for the first time.
+RU: 
+
+ID: M6150_S0080_G0030_001_encourageR
+JP: ダケドホラ、コナイダの暴走事件を目の前で見テシマッタラシクテ、帰ッテ来テカラハズットコノ調子。
+EN: But then he had to witness Plato going insane with his own eyes, and he's been like this ever since.
+RU: 
+
+ID: M6150_S0080_G0040_001_encourageR
+JP: ボクは近クニイナカッタカラ詳しクハ知ラナイケド、コンナに恐怖スルナンテ一体ドンナ風に暴走シタンダロウカ？
+EN: I wasn't there, so I don't know much about what happened. Was it really that terrifying?
+RU: 
+
+
+-- Section 14
+
+ID: M6150_S0130_G0020_001_duskR
+JP: 先の戦闘デ大量の個体を失ッタカラ、今は大急ギデ生産ラインを走ラセテイルンダ。
+EN: We lost so many units in the war that the production lines are running at full speed now.
+RU: 
+
+ID: M6150_S0130_G0030_001_duskR
+JP: 壊レテハ新シク作ッテ、マルデ壊サレル為に作ッテイルミタイダ、何ダカナ……
+EN: Old units get destroyed, new ones get made... It's as if they're being created just to be demolished again...
+RU: 
+
+
+-- Section 15
+
+ID: M6150_S0140_G0020_001_badR
+JP: プラトン１７２８……アイツは確カニノロマな奴ダッタケド、良イ奴ダッタ……
+EN: Plato 1728... He was an idiot, but he wasn't a bad guy.
+RU: 
+
+ID: M6150_S0140_G0030_001_badR
+JP: アイツはバカニサレル事はアッテモ、他のヤツノ事を悪ク言ワナカッタ。
+EN: No matter how much everyone made fun of him, he never spoke ill of anyone.
+RU: 
+
+ID: M6150_S0140_G0040_001_badR
+JP: ナノにオレハ……プラトン１７２８スマナカッタ……
+EN: And yet I... I... \nI'm sorry, Plato 1728...
+RU: 
+
+
+-- Section 16
+
+ID: M6150_S0090_G0010_001_audienceR
+JP: ハハハ、コワセ！コワセ！コワセ！コワセ！コワセ！
+EN: Bwahaha! Destroy! Destroy! Destroy!
+RU: 
+
+
+-- Section 17
+
+ID: M6150_S0100_G0010_001_audienceR
+JP: イケー！ネジヒトツ残ラズ、バラバラにシテヤレ！！
+EN: Go! Take them apart! I don't want to see a single bolt remain!
+RU: 
+
+
+-- Section 18
+
+ID: M6150_S0110_G0010_001_audienceR
+JP: コラー手加減ナンテシタラ承知シナイゾ！！
+EN: Don't hold back! Your life's on the line!
+RU: 
+
+
+-- Section 19
+
+ID: M6150_S0120_G0030_001_questionR
+JP: オウ、お疲れ様。
+EN: Oh, hey.
+RU: 
+
+ID: M6150_S0120_G0040_001_questionR
+JP: コナイダ大戦がアッタロ、アレデミンナ戦いナンテコリゴリスルカト思ッタケド。以前ニ増シテ、ココニハマる奴が増えタンダッテサ。
+EN: After that big battle the other day, I figured everyone would be sick of fighting, but it seems they've fallen in love with this place more than ever.
+RU: 
+
+ID: M6150_S0120_G0050_001_questionR
+JP: ミンナ多クの仲間を失ッタし、怖い思イモシタダロウニ何でダロ？
+EN: How could anyone want to be in a place like this after facing so many horrors and losing so many loved ones?
+RU: 
+
+
+-- Section 20
+
+ID: M6150_S0120_G0050_001_questionR
+JP: ミンナ多クの仲間を失ッタし、怖い思イモシタダロウニ何でダロ？
+EN: How could anyone want to be in a place like this after facing so many horrors and losing so many loved ones?
+RU: 
+
+
+-- Section 21
+
+ID: M6150_S0150_G0020_001_badR
+JP: クソ、アイツオンボロなダケジャナクテ暴走シテ仲間マデ壊すナンテ。
+EN: Dammit, I can't believe he'd go haywire and destroy all his friends like that!
+RU: 
+
+ID: M6150_S0150_G0030_001_badR
+JP: 迷惑バカリ掛ケヤガッテ、モット早く処分シテオケバ良カッタンダ。
+EN: He's been nothing but a pain for everyone. We shoulda gotten rid of him ages ago!
+RU: 
+
+ID: M6150_S0150_G0040_001_badR
+JP: 製造サレタ意味ノナイ個体ダヨアイツハ。
+EN: Why are they even making his models anymore!?
+RU: 
+
+
+-- Section 22
+
+ID: M6150_S0155_G0000_001_enthusiasticR
+JP: 今日の試験の為に運動特化タイプに機体を新調したんだ。
+EN: For today's trial, I had a new body procured that excels at athletics.
+RU: 
+
+ID: M6150_S0155_G0010_001_enthusiasticR
+JP: この前の戦いデハ皆の足を引っ張ってしまったカラネ。\n昇格して偉くナッテ、僕が皆を守るンダ。
+EN: I have to make up for holding all of my team mates back during the last match. I'm gonna get a promotion and protect everyone!
+RU: 
+
+
+-- Section 23
+
+ID: M6150_S0160_G0020_001_difficultR
+JP: 戦闘部隊に入ッテ戦場に行クカ、物資運搬係トシテ頑張ッテ梯子を降リルカ、ドチラモ地獄ダ……
+EN: I can choose to go to battle, or I can be in charge of transporting supplies, which means I have to work with chairs every day. I don't know which is worse.
+RU: 
+
+ID: M6150_S0160_G0030_001_difficultR
+JP: ハァー、梯子ナンテ滅ビテシマエ……
+EN: Screw the human that invented chairs, seriously.
+RU: 
+
+
+-- Section 24
+
+ID: M6150_S0160_G0040_001_difficultR
+JP: イッソ、ボクノ手デコノ世カラ梯子ヲ……
+EN: I have made it my life's goal to rid this planet of chairs.
+RU: 
+
+
+-- Section 25
+
+ID: M6150_S0160_G0050_001_difficultR
+JP: キミもコノ苦労を分カル同志ダロ、共ニ同盟を組マナイカ？
+EN: Are you with me, comrade!?
+RU: 
+
+
+-- Section 26
+
+ID: M6150_S0170_G0020_001_enthusiasticR
+JP: 許サン、許サンゾ残虐非道ノアンドロイド共メ！！\n奴ラメ、戦闘部隊、非戦闘部隊関係ナク無残ニバラバラニシタ！
+EN: Those cruel, disgusting androids completely annihilated all of our units, even the non-combat types! This is unforgivable!
+RU: 
+
+ID: M6150_S0170_G0030_001_enthusiasticR
+JP: 必ズコノ巨大兵器ヲ完成サセ、奴ラヲ跪カセ、命乞イヲサセ、ソノ上デバラバラニシテヤル！！
+EN: As soon as this weapon is complete, I will make them kneel before us! I will make them beg for their lives, before ripping them to shreds!!
+RU: 
+
+
+-- Section 27
+
+ID: M6150_S0180_G0020_001_childR
+JP: 早クコノ子も目覚メルとイイネ！
+EN: I hope he wakes up soon!
+RU: 
+
+ID: M6150_S0180_G0030_001_childR
+JP: コノ子が起キタラ、ボクが友達にナッテアゲルンダ！
+EN: I'm sure we're gonna be best friends!
+RU: 
+
+
+-- Section 28
+
+ID: M6150_S0190_G0010_001_lookR
+JP: 残念ダケド開発が難航シテ大戦ニハ間ニ合ワナカッタヨ……
+EN: There were some problems during development, so unfortunately the weapon was not ready in time.
+RU: 
+
+ID: M6150_S0190_G0020_001_lookR
+JP: ダケド、コノ兵器サエ完成サセレバ、キット多クノ仲間ノ命を救ウコトガ出来ルヨネ。
+EN: Once it is complete though, I'm sure it'll help us save the lives of many of our friends.
+RU: 
+
+
+-- Section 29
+
+ID: M6150_S0200_G0020_001_restR
+JP: 現場の忙シサハ日ニ日ニマシテイクバカリ……
+EN: It feels like we're getting busier every single day.
+RU: 
+
+ID: M6150_S0200_G0030_001_restR
+JP: コレダケの労力を割イテ、モシコノ兵器がアンドロイドに壊サレタ日ニハモウ絶望ダヨ……
+EN: We've put so much effort into this thing, I don't even wanna think about the possibility of the androids destroying it...
+RU: 
+
+
+-- Section 30
+
+ID: M6150_S0220_G0010_001_duskR
+JP: 飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リ……
+EN: Jump, work, jump, work, jump, work, jump, work, jump, work...
+RU: 
+
+
+-- Section 31
+
+ID: M6150_S0210_G0020_001_restR
+JP: 働カナクチャ、働カナクチャ、働カナクチャ、働カナクチャ、働カナクチャ、働カナクチャ。
+EN: Have to work Have to work Have to work Have to work
+RU: 
+
+ID: M6150_S0210_G0030_001_restR
+JP: 毎日充実シテテ幸セダナ……
+EN: It feels good to live such a rich and busy life!
+RU: 
+
+
+-- Section 32
+
+ID: M6150_S0230_G0010_001_terminalR
+JP: 作業中は声掛ケナイ……コレ仕事の常識……
+EN: Don't talk to people when they're busy. It's common sense at any workplace, really.
+RU: 
+
+
+-- Section 33
+
+ID: M6150_S0240_G0010_001_terminalR
+JP: ココガコウデ……アレガアアデ……\n何故ダ何故マダバグル……ウガガガガア。
+EN: And then this goes here...and that goes there...\nAaaaand everything's buggy now for some reason. GREAT.
+RU: 
+
+
+-- Section 34
+
+ID: M6150_S0250_G0010_001_terminalR
+JP: 何故コノ世にバグはアルノダロウカ？
+EN: Don't you ever wonder why bugs exist in the first place?
+RU: 
+
+ID: M6150_S0250_G0020_001_terminalR
+JP: コノ問ノ答エヲ見ツケレバ、ボクはカミニナレル！
+EN: Figuring that one out must be the path to true enlightenment.
+RU: 
+
+
+-- Section 35
+
+ID: M6150_S0260_G0010_001_terminalR
+JP: 森林エリア付近デ行方不明ノ部隊を捜索シテクダサイ。
+EN: We lost a squad near the forest area. I need a reconnaisance team out there, stat!
+RU: 
+
+ID: M6150_S0260_G0020_001_terminalR
+JP: 近クニハ敵ノ反応モアルノデ十分に警戒シテ下サイ。
+EN: Be advised that enemies have been spotted in the vicinity. Proceed with caution.
+RU: 
+
+
+-- Section 36
+
+ID: M6150_S0270_G0020_001_terminalR
+JP: 今回ノ大戦デモ、ヨルハ部隊にヨッテカナリの規模部隊が壊滅サセラレタ。
+EN: The last battle also resulted in many machine losses because of YoRHa.
+RU: 
+
+ID: M6150_S0270_G0030_001_terminalR
+JP: 奴ラガもし大量生産サレタラト思ウト恐ロシイヨ。
+EN: I hope they don't mass-produce these units, because we'd be screwed.
+RU: 
+
+
+-- Section 37
+
+ID: M6150_S0655_G0010_001_lookR
+JP: 横ノヤツラハ、少し前マデ上司ダッタ奴がミスをシテ、上司と部下の関係が逆転シタンダ。
+EN: These guys over here? The one used to be the other's boss, until he messed up, and now the tables have turned.
+RU: 
+
+ID: M6150_S0655_G0020_001_lookR
+JP: 元部下のヤツハ上司をアレだけ嫌イダッタノニ、今度ハ自分が同ジ事をシテイルンダ。
+EN: And now that the other guy's the boss, he's doing the exact same things that made him hate his former boss so much.
+RU: 
+
+ID: M6150_S0655_G0030_001_lookR
+JP: 個体ノ性格は生マレ持ッテイルノデハなく、権力にヨッテ与エラレルモノナノカモネ。
+EN: I used to think your personality was innate, but now I think it's heavily influenced by how much power you wield.
+RU: 
+
+
+-- Section 38
+
+ID: M6150_S0280_G0010_001_terminalR
+JP: 巨大兵器の製造にココマデ手間取ってシマウとは……
+EN: Production of this weapon is taking way too long...
+RU: 
+
+
+-- Section 39
+
+ID: M6150_S0290_G0020_001_terminalR
+JP: 近頃、貸し出シテイル武器の修復依頼の件数が多イ……
+EN: I've been getting a lot of requests for repairs of borrowed weapons.
+RU: 
+
+ID: M6150_S0290_G0030_001_terminalR
+JP: フム、今月の目標は「命を守ル武器は大事にシヨウ！！」にシマショウカ。
+EN: I'm thinking of making this month's motto "Take care of your weapons so they can take care of you!"
+RU: 
+
+
+-- Section 40
+
+ID: M6150_S0300_G0010_001_terminalR
+JP: …………………………………………………………………………………………………………
+EN: ..............................
+RU: 
+
+ID: M6150_S0300_G0020_001_terminalR
+JP: アア、ゴメン端末音がウルサ過ぎて音声センサーを切ッテイタンダ。\nナカナカオススメダヨ。
+EN: Oh, sorry, I had my sound sensors turned off because this room is so damn noisy. I quite recommend it!
+RU: 
+
+
+-- Section 41
+
+ID: M6150_S0310_G0010_001_terminalR
+JP: 生キル為ニ働イテイルノカ、働ク為に生キテイルノカ、最近はワカラナイよ。
+EN: I don't even know whether we're working to live or living to work anymore.
+RU: 
+
+ID: M6150_S0310_G0020_001_terminalR
+JP: オマエはどう思う？
+EN: What do you think?
+RU: 
+
+
+-- Section 42
+
+ID: M6150_S0320_G0010_001_terminalR
+JP: ハー、モウ４日も家ニ帰ってイナイヨ……
+EN: I haven't been home in 4 days!
+RU: 
+
+
+-- Section 43
+
+ID: M6150_S0330_G0010_001_terminalR
+JP: 無駄口は厳禁……
+EN: Stop talking to me...
+RU: 
+
+
+-- Section 44
+
+ID: M6150_S0340_G0010_001_terminalR
+JP: 働キ続ケタ先に一体何がアルノダロウカ……
+EN: What could possibly be worth this much effort?
+RU: 
+
+
+-- Section 45
+
+ID: M6150_S0350_G0010_001_terminalR
+JP: 巨大兵器の建設で忙シイ所にプラトン１７２８の暴走事件、全ク仕事を増ヤサナイデ欲シイヨ。
+EN: Building that giant weapon, Plato 1728 going crazy... I've got enough on my plate already!
+RU: 
+
+
+-- Section 46
+
+ID: M6150_S0360_G0060_001_terminalR
+JP: ヨウ、オマエモ今日はココデ情報整理の仕事カ。\nソレヨリ聞イテクレヨ。
+EN: Hey. So you're on data management duty today as well, huh? \nYou got a minute?
+RU: 
+
+ID: M6150_S0360_G0070_001_terminalR
+JP: 今月に入ッテ従業員カラ労働環境に関スル苦情メールが大量に来テルンダヨ……
+EN: I've been getting a lot of complaints from the employees about our working conditions lately, bunch of whiners.
+RU: 
+
+ID: M6150_S0360_G0080_001_terminalR
+JP: 苦情のメールがボクヲ苦しメール。ププッ。
+EN: If we cared about our workers' happiness, we would've called this place a SATISFACTORY. Pfffffffhehehe.
+RU: 
+
+
+-- Section 47
+
+ID: M6150_S0370_G0020_001_terminalR
+JP: モウボクハカンガエルノヲヤメマシタ。\nタダハタラキマス。ハイ、ハタラキマス。シアワセデス。
+EN: I've given up on thinking about things. All I care about is work. Yes sirree, work and nothing else. Love it.
+RU: 
+
+
+-- Section 48
+
+ID: M6150_S0380_G0010_001_terminalR
+JP: コチラ28地区司令室、地上の部隊ニ告グ。
+EN: This is the 28th District Command Center, calling all ground troops. We are currently short on combat units.
+RU: 
+
+ID: M6150_S0380_G0020_001_terminalR
+JP: 現在、戦闘部隊の数が不足シテイマス。当面の隊員の補充は行ナエマセン。各隊は連携シテ任務を遂行シて下サイ。以上通信終了。
+EN: We will not be able to supply new troops for a while. You'll have to work together to complete your missions. Over and out.
+RU: 
+
+
+-- Section 49
+
+ID: M6150_S0390_G0020_001_terminalR
+JP: 第13部隊、応答シテ下サイ。
+EN: Squad 13, please respond.
+RU: 
+
+ID: M6150_S0390_G0030_001_terminalR
+JP: 第14部隊トノ連絡が途絶エマシタ。直チニ現場へ急行シて下サイ。
+EN: We have lost contact with Squad 14. Head over to their location to provide backup immediately.
+RU: 
+
+
+-- Section 50
+
+ID: M6150_S0400_G0010_001_terminalR
+JP: 大戦での被害報告が多スギテ情報が錯綜シテイル。
+EN: We've suffered so many losses during the great battle that I can't keep track of all the data.
+RU: 
+
+
+-- Section 51
+
+ID: M6150_S0410_G0010_001_terminalR
+JP: プラトン１７２８の暴走にヨル被害は大キイガ、大変貴重なデータとナルダロウ。
+EN: Plato 1728's little "accident" caused a lot of damage, but it resulted in some very valuable data as well.
+RU: 
+
+ID: M6150_S0410_G0020_001_terminalR
+JP: アノ暴走状態を意のママに操ル事が出来タラ、アノヨルハ部隊の壊滅も夢ではナイ。
+EN: If we can somehow harness that anger, we might be able to defeat the YoRHa troops.
+RU: 
+
+
+-- Section 52
+
+ID: M6150_S0420_G0010_001_terminalR
+JP: 戦闘タイプに転向シヨウカト思ッタけど、大戦の報告書を見テ辞メタヨ。
+EN: I was thinking of converting to a combat model, but then I read the report on the great battle, and I was like "Nope nope nope."
+RU: 
+
+ID: M6150_S0420_G0020_001_terminalR
+JP: 疲レルケド、破壊サレルよりはズットマシダシネ。
+EN: I'll take tired hands over getting destroyed any day, thank you.
+RU: 
+
+
+-- Section 53
+
+ID: M6150_S0430_G0010_001_terminalR
+JP: モシモシ、聞こえマスカ？
+EN: Hello, can you hear me?
+RU: 
+
+ID: M6150_S0430_G0020_001_terminalR
+JP: ……ダメダ、コノ部隊とも連絡が取レナイ。コンナニ被害が出たノハ何年ぶりダロウカ？
+EN: Dammit, we lost contact with this squad too. I can't remember the last time we suffered this many losses.
+RU: 
+
+
+-- Section 54
+
+ID: M6150_S0440_G0020_001_terminalR
+JP: プラトン１７２８暴走にヨッテ敵も味方も被害は甚大、辺りニハ何も残ッテイナイ。
+EN: The whole Plato 1728 incident has caused massive losses to both us and the enemy. There's no one left there!
+RU: 
+
+ID: M6150_S0440_G0030_001_terminalR
+JP: 色々な情報も錯綜シテイルシ、何が何ヤラサッパリダ。
+EN: On top of that, I have to deal with this confusing data. I have no idea what's going on anymore.
+RU: 
+
+
+-- Section 55
+
+ID: M6150_S0441_G0010_001_terminalR
+JP: 第3飛行大隊はコレヨリ暴走跡地へ向カイ、生存者の捜索及ビ情報の収集を行ッテ下サイ。
+EN: Third battalion, head to the location of the incident and see if there are any survivors. Gather any intel you can find.
+RU: 
+
+
+-- Section 56
+
+ID: M6150_S0442_G0010_001_terminalR
+JP: アノオンボロが暴走したセイデ、仕事が増エヤガッタ、クソが。
+EN: I've got tons of work to do, just because that jerk decided to go haywire.
+RU: 
+
+
+-- Section 57
+
+ID: M6150_S0460_G0020_001_terminalR
+JP: プラトン１７２８の暴走は、果タシテ彼に責任がアルノダロウカ？
+EN: Do you think Plato 1728 was fully responsible for what he did?
+RU: 
+
+ID: M6150_S0460_G0030_001_terminalR
+JP: 私にはドウシテモ彼が悪いと思えナイ。\n一体彼を暴走させてシマッタ要因は何なのダロウカ……
+EN: Personally, I can't blame him. Something must have set him off somehow.
+RU: 
+
+ID: M6150_S0460_G0040_001_terminalR
+JP: ミンナはコノ事実カラ目を背けているヨウニ見えるヨ。
+EN: I think everyone's just reluctant to face the truth.
+RU: 
+
+
+-- Section 58
+
+ID: M6150_S0470_G0010_001_terminalR
+JP: ヨルハ部隊……ヤハリ今回の大戦でも奴ラニによる被害は甚大ダ……
+EN: The YoRHa troops have wreaked havoc on the machine army once again...
+RU: 
+
+
+-- Section 59
+
+ID: M6150_S0480_G0010_001_terminalR
+JP: 今回の戦闘で一体ドレダケの命が失ワレタのダロウ……
+EN: How many lives do you think have been lost in this battle?
+RU: 
+
+ID: M6150_S0480_G0020_001_terminalR
+JP: 和平の道はナイノダロウカ……スマン失言ダ。
+EN: Is there no road to peace!?\nSorry, I'm just rambling. Forget what I said.
+RU: 
+
+
+-- Section 60
+
+ID: M6150_S0490_G0020_001_terminalR
+JP: 大戦がアッタせいで脱走スル者が急増シテシマッタヨ。
+EN: We've had a lot of deserters since the great battle.
+RU: 
+
+ID: M6150_S0490_G0030_001_terminalR
+JP: 隊員の名簿をマトメルのも一苦労ダシ、脱走スル時は報告シテ欲しいモノダヨ、全ク。
+EN: It's enough of a pain in the rear to maintain a list of all units as it is. I wish they'd at least tell us if they were bailing.
+RU: 
+
+
+-- Section 61
+
+ID: M6150_S0500_G0010_001_terminalR
+JP: フム、一体ドウシタラ脱走者を減ラセルダロウカ？
+EN: Hmph. How are we gonna stop all these troops from deserting?
+RU: 
+
+ID: M6150_S0500_G0020_001_terminalR
+JP: ソウダ！仕事量を増ヤシテ、脱走スル時間や考エル時間を減ラシテシマオウ！！
+EN: I know! I'll just give 'em more work so they won't have time to escape or even THINK of escaping!
+RU: 
+
+
+-- Section 62
+
+ID: M6150_S0520_G0010_001_terminalR
+JP: …………………………口を動カシテイル時間ナドナイ……
+EN: ............I don't even have time to move my mouth.
+RU: 
+
+
+-- Section 63
+
+ID: M6150_S0530_G0010_001_terminalR
+JP: ボクの友達がシュウキョウと言ウものニハマってイルラシインダ。
+EN: One of my friends is really into this thing called "religion."
+RU: 
+
+ID: M6150_S0530_G0020_001_terminalR
+JP: 今度一緒にコウギを受ケテミヨウカナ。
+EN: Maybe I should go to one of their seminars.
+RU: 
+
+
+-- Section 64
+
+ID: M6150_S0540_G0010_001_terminalR
+JP: ココの淀ンダ空気は前は嫌イダッタケド、今は一周回ッテ、コノ空気が好キニナッテキタンダ。
+EN: I used to hate the air in this room, but I've spent so much time here that I've kind of grown to like it!
+RU: 
+
+
+-- Section 65
+
+ID: M6150_S0550_G0020_001_terminalR
+JP: 近頃の戦況は正直カンバシクナイ、早ク敵の拠点を見ツケナイト。
+EN: Frankly, things haven't been looking good for us machines lately. We have to find the enemy camp, and fast.
+RU: 
+
+
+-- Section 66
+
+ID: M6150_S0560_G0010_001_terminalR
+JP: 昔はスパイというモノで情報を集メタラシイガ、アンドロイドと機械生命体デハ容姿ガ違いスギテ、スパイは送り込メナインダ。
+EN: People in the old world used spies to gather information, but androids and machines look so different, it would never work.
+RU: 
+
+
+-- Section 67
+
+ID: M6150_S0565_G0010_001_terminalR
+JP: 別の地区デハ宗教とイウモノガ流行ッテイルラシイ。\n何デモ教祖とイウ、神に選バレタ物がイルトカ。
+EN: I've heard that something called "religion" is gaining popularity in some districts. Apparently there's a "Grace" who's been chosen by "God"?
+RU: 
+
+
+-- Section 68
+
+ID: M6150_S0570_G0020_001_terminalR
+JP: 反戦派の奴ラメ。コナイダの戦闘を理由に勧誘活動を広ゲルトハ。
+EN: Bloody pacifists. They're using the great battle from the other day as an excuse to recruit members!
+RU: 
+
+ID: M6150_S0570_G0030_001_terminalR
+JP: 悪魔のアンドロイド共と手を取り合ウナド、反吐がデル。
+EN: The mere thought of making friends with those vile androids makes me want to retch!
+RU: 
+
+
+-- Section 69
+
+ID: M6150_S0580_G0010_001_terminalR
+JP: 作業がヨウヤク終ワリソウな時に限ッテ、端末がフリーズスル。
+EN: This damn terminal always freezes on me RIGHT when I'm about to complete a task.
+RU: 
+
+
+-- Section 70
+
+ID: M6150_S0590_G0010_001_terminalR
+JP: 宗教というモノが流行ってキテイルと聞イタ。
+EN: I heard there's this thing called "religion" that's really popular right now.
+RU: 
+
+ID: M6150_S0590_G0020_001_terminalR
+JP: 何デモ宗教に入ルト、未来永劫平和で幸セナ日々が約束サレルトカ。
+EN: Apparently they promise you eternal peace if you join them?
+RU: 
+
+
+-- Section 71
+
+ID: M6150_S0600_G0010_001_terminalR
+JP: フウ、アアお疲れ。\nキミはキョウデ何日連続デ徹夜シテイル？
+EN: *sigh* Oh, hey.\nHow many nights have YOU worked in a row now?
+RU: 
+
+ID: M6150_S0600_G0020_001_terminalR
+JP: フフン、僕ハモウ今日デ6日間休ンデナインダ。\nドウダ凄イダロ。イヤマア、流石に疲レタネ。
+EN: I haven't had a rest in 6 days! Pretty impressive, huh?\nI'm completely exhausted though.
+RU: 
+
+
+-- Section 72
+
+ID: M6150_S0610_G0010_001_terminalR
+JP: 過去の文献を調ベテ知ッタンダガ、残業手当とイウ労働者の武器がアッタラシイ。他にもストライキとか有給ナドの武器もアルトカ。
+EN: According to some old books, workers used to have a weapon called "overtime pay." They also had "strikes" and "paid leave."
+RU: 
+
+ID: M6150_S0610_G0020_001_terminalR
+JP: 何でもコレを持つ労働者は勝利が約束サレテイタトカ。\nドウヤッテ得るコトが出来ルノダロウカ。
+EN: Whoever wielded these weapons was assured victory. I wonder how one goes about obtaining them...
+RU: 
+
+
+-- Section 73
+
+ID: M6150_S0620_G0020_001_terminalR
+JP: 仕事に文句を言ッテイル奴は結局何をシテテも、ドコニイテモ文句を言ウンダヨ。
+EN: People who complain about their jobs will end up complaining about everything, no matter what they do.
+RU: 
+
+ID: M6150_S0620_G0030_001_terminalR
+JP: 結局の所、自分の気持ちの持チヨウが大事ってコトサ。
+EN: It all comes down to getting your feelings under control, you know?
+RU: 
+
+
+-- Section 74
+
+ID: M6150_S0630_G0010_001_terminalR
+JP: 長時間稼働シテイルカラ自分のコアも端末もメチャクチャ熱がコモッテイル。
+EN: I've been working for hours on end, and my core is getting as hot as this terminal.
+RU: 
+
+ID: M6150_S0630_G0020_001_terminalR
+JP: コレゾ秘技ダブルヒーティングオーバーダ！！
+EN: Together, we're generating enough heat to burn a small planet!
+RU: 
+
+
+-- Section 75
+
+ID: M6150_S0640_G0020_001_bossR2
+JP: ハァー、君はコナイダマデ私にアレダケ大口を叩イテイタジャナイデスカ。
+EN: Hey, remember how you used to talk all big to me until recently?
+RU: 
+
+ID: M6150_S0640_G0030_001_bossR2
+JP: マァ大丈夫デスヨ。明日の始業時間マデ後、２０時間もアルジャナイデスカ。
+EN: Well, don't worry about it. After all, you've got about 20 hours until starting time tomorrow, right?
+RU: 
+
+
+-- Section 76
+
+ID: M6150_S0650_G0020_001_subordinateR2
+JP: 申し訳アリマセン。コノ仕事量ダト今日中ニハ少し間に合イソウニアリマセン。
+EN: I'm sorry. I don't think I can finish all of my work before the end of the day.
+RU: 
+
+
+-- Section 77
+
+ID: M6150_S0650_G0030_001_subordinateR2
+JP: スイマセン、スイマセン、アノ時は調子に乗ッテイタンデス。
+EN: I'm sorry! I'm so sorry! I just got carried away a bit, is all!
+RU: 
+
+
+-- Section 78
+
+ID: M6150_S0670_G0010_001_loafR2
+JP: ココハ最適のサボりポイント！
+EN: This is the best spot for slacking off!
+RU: 
+
+
+-- Section 79
+
+ID: M6150_S0680_G0010_001_putR
+JP: アー、片付けても直ぐ汚すヤツがイルセイデ、部屋が全然綺麗にナラナイ、マジムカツク！何で整理整頓ガデキナインダ！！
+EN: I keep cleaning up, and somebody keeps making a mess! I'm so sick of this! Why can't anyone clean up after themselves!?
+RU: 
+
+ID: M6150_S0680_G0020_001_putR
+JP: イッソ今度の資材回収日に勝手に部屋のモノを一掃シテヤルカナ……
+EN: Next time, I'm gonna throw all of this stuff in the trash!
+RU: 
+
+
+-- Section 80
+
+ID: M6150_S0690_G0010_001_putR
+JP: 物資運搬用に身体を改造シヨウカナ。
+EN: I should probably modify my body for transport purposes.
+RU: 
+
+
+-- Section 81
+
+ID: M6150_S0700_G0010_001_loafR2
+JP: 仕事をスルフリのコツは顔がポイント！！\nシッカリ考エテイル顔をシテオケバ大抵ナントカナル！！
+EN: The most important thing when trying to look busy is your face. Just look as if you're in deep thought, and no one will bother you!
+RU: 
+
+
+-- Section 82
+
+ID: M6150_S0710_G0010_001_loafR2
+JP: 疲レスギテ何カガ見エル。ソウカ、ボクは遂に真理へと辿りツイタノカ！！
+EN: I'm so tired I'm starting to see things. I must have found the true path to enlightenment!
+RU: 
+
+
+-- Section 83
+
+ID: M6150_S0720_G0010_001_restR
+JP: 働キタクナイ。働キタクナイ。働キタクナイ。働キタクナイ。働キタクナイ。働キタクナイ。
+EN: I'm sick of work. I'm sick of work. I'm sick of work. I'm sick of work.
+RU: 
+
+
+-- Section 84
+
+ID: M6150_S0740_G0010_001_frightenedR
+JP: ……………………
+EN: .........
+RU: 
+
+

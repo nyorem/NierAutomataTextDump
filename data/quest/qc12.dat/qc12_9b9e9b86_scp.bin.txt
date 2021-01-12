@@ -1,0 +1,23 @@
+-- Section 1
+
+ID: M5360_S0040_G0040_001_n02
+JP: 何故、私達は……生まれた……
+EN: Why were we...born...?
+RU: 
+
+ID: M5360_S0040_G0050_001_n02
+JP: どうしてこんなに……苦しい……
+EN: Why is life...so painful...?
+RU: 
+
+ID: M5360_S0040_G0060_001_n02
+JP: 誰も助けて……くれない……
+EN: Why won't anyone...help me...?
+RU: 
+
+ID: M5360_S0040_G0070_001_n02
+JP: こんなセカイ……要らない……
+EN: I don't need...this world...
+RU: 
+
+

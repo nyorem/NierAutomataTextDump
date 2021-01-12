@@ -1,0 +1,75 @@
+ID: M5920_S1000_H0000_001_a2b
+JP: こんなに世界が綺麗だって、
+EN: I never quite realized...
+RU: 
+
+ID: M5920_S1000_H0010_001_a2b
+JP: 気付かなかったな……
+EN: how beautiful this world is.
+RU: 
+
+ID: M5920_S1000_H0020_001_a9s
+JP: 司令官からの命令で、\n２Ｂさんのメンテナンスを担当する事になったんです。
+EN: The Commander's put me in charge of your maintenance, ma'am.
+RU: 
+
+ID: M5920_S1000_H0030_001_a9s
+JP: これから定期的にチェックしますね。
+EN: That means I'll be performing regular checks on you from now on.
+RU: 
+
+ID: M5920_S1000_H0040_001_a2b
+JP: この記録を聞いた者がいたら、伝えて欲しい……事がある……
+EN: If anyone is listening to this, there's something I need you to do.
+RU: 
+
+ID: M5920_S1000_H0050_001_a2b
+JP: もし、ヨルハ部隊所属９Ｓに会う事があったら……
+EN: If you ever meet up with YoRHa unit 9S...
+RU: 
+
+ID: M5920_S1000_H0060_001_a2b
+JP: 私は……彼に……
+EN: I want him... I mean...
+RU: 
+
+ID: M5920_S1000_H0070_001_adam
+JP: 機械生命体と、アンドロイドは同類と言えるなあ？
+EN: Perhaps we're not so different after all.
+RU: 
+
+ID: M5920_S1000_H0080_001_a9s
+JP: ポッド１５３に命令ッ！貴様の独断の論理思考と発言を禁止する！！
+EN: Pod 153! I order you to halt all logical thought and speech!
+RU: 
+
+ID: M5920_S1000_H0090_001_pascal
+JP: Ａ２さん！ここは私が！
+EN: Fear not, A2! I can handle this!
+RU: 
+
+ID: M5920_S1000_H0100_001_a2
+JP: 私達アンドロイドは、主たる人類を守るように作られている。
+EN: Androids were designed to protect their human masters.
+RU: 
+
+ID: M5920_S1000_H0110_001_eml
+JP: 無駄だとわかっていても、やらなきゃダメなんだッ！
+EN: Even if it's pointless, you still have to do it!
+RU: 
+
+ID: M5920_S1000_H0120_001_cmd
+JP: お前達二人は、最後のヨルハ部隊なんだ！
+EN: You two are the last remaining members of YoRHa.
+RU: 
+
+ID: M5920_S1000_H0130_001_eve
+JP: 俺は……オれはッッ！！
+EN: I... I...!
+RU: 
+
+ID: M5920_S1000_H0140_001_a2b
+JP: 違う……９Ｓ。あれは……
+EN: That's not the Operator. It's—
+RU: 
+

@@ -1,0 +1,5 @@
+ID: M1020_S0030_S0000_101_telo
+JP: 集合住宅地帯
+EN: Residential District
+RU: 
+

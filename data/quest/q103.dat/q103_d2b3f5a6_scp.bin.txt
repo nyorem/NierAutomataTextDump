@@ -1,0 +1,271 @@
+-- Section 1
+
+ID: M5103_S0010_G0000_001_robomaster
+JP: ヤヤッ、お前サン達、まタまタまタ来なすったノカ。
+EN: Ah! The prodigal child returns once more!
+RU: 
+
+ID: M5103_S0010_G0010_001_a9s
+JP: え……これ……？
+EN: Uuuuuuuuh...
+RU: 
+
+ID: M5103_S0010_G0020_001_a2b
+JP: この間と、同じロボット……？
+EN: This IS that same weird monk machine as before, right?
+RU: 
+
+ID: M5103_S0010_G0030_001_robomaster
+JP: オウ！お前サン達がくれタ素材で強くナッタンじゃ！
+EN: Oh ho! Father Servo has used the gifts of his flock to make himself powerful beyond imagining!
+RU: 
+
+ID: M5103_S0010_G0040_001_robomaster
+JP: ドウじゃ？改造の成果を試サセてはクレンカのう？
+EN: Dare you taste the forbidden fruits of his labors!?
+RU: 
+
+ID: M5103_S0010_G0050_001_sele
+JP: 成果ヲ試スノニ付キ合ウ。
+EN: Taste the forbidden fruits.
+RU: 
+
+ID: M5103_S0010_G0060_001_sele
+JP: 成果ヲ試スノニ付キ合ワナイ。
+EN: Go hungry.
+RU: 
+
+
+-- Section 2
+
+ID: M5103_S0010_G0070_001_robomaster
+JP: 今マデと同じダと思ったら、大間違いじゃゾイ！
+EN: Father Servo is born anew!
+RU: 
+
+
+-- Section 3
+
+ID: M5103_S0010_G0080_001_robomaster
+JP: 残念じゃ……気が変わったラまた来てオクレ。
+EN: Ah, a pity. Come find Father Servo if you change your mind.
+RU: 
+
+
+-- Section 4
+
+ID: M5103_S0010_G0040_001_robomaster
+JP: ドウじゃ？改造の成果を試サセてはクレンカのう？
+EN: Dare you taste the forbidden fruits of his labors!?
+RU: 
+
+ID: M5103_S0010_G0050_001_sele
+JP: 成果ヲ試スノニ付キ合ウ。
+EN: Taste the forbidden fruits.
+RU: 
+
+ID: M5103_S0010_G0060_001_sele
+JP: 成果ヲ試スノニ付キ合ワナイ。
+EN: Go hungry.
+RU: 
+
+
+-- Section 5
+
+ID: M5103_S0010_G0090_001_robomaster
+JP: 自分ガ凄過ぎテ涙が出そうジャ……！
+EN: Oh ho ho ho! Such power! It's almost blasphemous to even contemplate it!
+RU: 
+
+ID: M5103_S0010_G0100_001_robomaster
+JP: お前サン達、良けレバまた修行に付き合うゾイ？
+EN: If you desire to test yourself anew, Father Servo is happy to oblige.
+RU: 
+
+
+-- Section 6
+
+ID: M5103_S0010_G0101_300_robomaster
+JP: お前サン達、修行に付き合ってほしいのか？
+EN: Would you like to help Father Servo with his training?
+RU: 
+
+ID: M5103_S0010_G0102_300_sele
+JP: 修行を再開スル。
+EN: Begin anew.
+RU: 
+
+ID: M5103_S0010_G0103_300_sele
+JP: 修行を再開シナイ。
+EN: Begin nothing.
+RU: 
+
+
+-- Section 7
+
+ID: M5103_S0010_G0070_001_robomaster
+JP: 今マデと同じダと思ったら、大間違いじゃゾイ！
+EN: Father Servo is born anew!
+RU: 
+
+
+-- Section 8
+
+ID: M5103_S0010_G0080_001_robomaster
+JP: 残念じゃ……気が変わったラまた来てオクレ。
+EN: Ah, a pity. Come find Father Servo if you change your mind.
+RU: 
+
+
+-- Section 9
+
+ID: M5103_S0010_G0104_300_robomaster
+JP: 弱った状態では相手にならぬ。出直してくるのじゃ。
+EN: Father Servo will not waste his talents on a weakened foe! Begone!
+RU: 
+
+
+-- Section 10
+
+ID: M5103_S0010_G0110_001_robomaster
+JP: マイッタ！ヤラレタ！ココマデジャッ！
+EN: Enough, I say! Show pity on an old monk!
+RU: 
+
+ID: M5103_S0010_G0120_001_a9s
+JP: ……
+EN: ...Go on.
+RU: 
+
+ID: M5103_S0010_G0130_001_robomaster
+JP: ワシ、『金鉱』に『溶加材』、『綺麗なケーブル』と『大きなバッテリー』が\n欲しいのう。
+EN: Father Servo requires a gold ore, a piece of filler metal, a pristine cable, and a large battery.
+RU: 
+
+ID: M5103_S0010_G0140_001_a9s
+JP: どうしますか、２Ｂ。
+EN: I dunno, 2B. What do you think?
+RU: 
+
+ID: M5103_S0010_G0150_001_a9s
+JP: いつまでも戦うのは無駄な気がします。有料ですし。
+EN: I feel like all this fighting is a big waste of time. Plus it's starting to get REALLY expensive!
+RU: 
+
+ID: M5103_S0010_G0160_001_a2b
+JP: 完全に無駄とは言えない。
+EN: It's not a waste.
+RU: 
+
+ID: M5103_S0010_G0170_001_a2b
+JP: この機械生命体と戦う事で、私達の戦闘経験も上がってるみたいだから。
+EN: Our own skills improve each time we spar with this machine.
+RU: 
+
+ID: M5103_S0010_G0180_001_robomaster
+JP: オオ！お姉サンは話が判るお人じゃノウ！好キ！
+EN: Such wisdom! May the thousand blessings of a random and unspecified god rain down upon you!
+RU: 
+
+
+-- Section 11
+
+ID: M5920_S0010_G0280_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+ID: M5920_S0020_G0280_001_pod153
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 12
+
+ID: M5920_S0010_G0240_001_pod042
+JP: 依頼されていた資材を入手。
+EN: Requested material obtained.
+RU: 
+
+ID: M5920_S0020_G0240_001_pod153
+JP: 依頼されていた資材を入手。
+EN: Requested material obtained.
+RU: 
+
+
+-- Section 13
+
+ID: M5103_S0010_G0194_300_robomaster
+JP: オオ、アイテムを持ってきてくれたんじゃな？
+EN: Have you brought the required items?
+RU: 
+
+ID: M5103_S0010_G0195_300_sele
+JP: アイテムを渡す
+EN: Give him the items.
+RU: 
+
+ID: M5103_S0010_G0196_300_sele
+JP: アイテムを渡さない
+EN: Turn him down.
+RU: 
+
+
+-- Section 14
+
+ID: M5103_S0010_G0194_300_robomaster
+JP: オオ、アイテムを持ってきてくれたんじゃな？
+EN: Have you brought the required items?
+RU: 
+
+ID: M5103_S0010_G0195_300_sele
+JP: アイテムを渡す
+EN: Give him the items.
+RU: 
+
+ID: M5103_S0010_G0196_300_sele
+JP: アイテムを渡さない
+EN: Turn him down.
+RU: 
+
+
+-- Section 15
+
+ID: M5103_S0010_G0190_001_robomaster
+JP: 『金鉱』に『溶加材』、『綺麗なケーブル』と『大きなバッテリー』が欲しいノウ。
+EN: Fetch me a gold ore, some filler metal, a pristine cable, and a large battery.
+RU: 
+
+
+-- Section 16
+
+ID: M5103_S0020_G0000_001_a9s
+JP: ほら、お望みのモノだぞ。
+EN: One order of useless crap, as requested.
+RU: 
+
+ID: M5103_S0020_G0010_001_robomaster
+JP: オオ、コレで最強が目指せるワイ！
+EN: Oh ho! Now Father Servo can finally achieve oneness with the universe!
+RU: 
+
+ID: M5103_S0020_G0020_001_a9s
+JP: はは……最強……ね。
+EN: You don't say.
+RU: 
+
+ID: M5103_S0020_G0030_001_robomaster
+JP: 次にお前サン達が来るマデに、とことん強くなっテおくゾイ！
+EN: Just wait, my child! When you return, Father Servo will be more powerful than you can possibly imagine!
+RU: 
+
+
+-- Section 17
+
+ID: M5103_S0020_G0030_001_robomaster
+JP: 次にお前サン達が来るマデに、とことん強くなっテおくゾイ！
+EN: Just wait, my child! When you return, Father Servo will be more powerful than you can possibly imagine!
+RU: 
+
+

@@ -1,0 +1,834 @@
+-- Section 1
+
+ID: M6120_S0000_G0000_001_resi
+JP: いやー、ここは本当に最高の施設だよ！
+EN: Man, this place is AWESOME!
+RU: 
+
+
+-- Section 2
+
+ID: M6120_S0000_G0010_001_resi
+JP: あなた最近人気なんだってね、期待してるわよ！
+EN: You're very popular these days. Lookin' forward to your next efforts!
+RU: 
+
+
+-- Section 3
+
+ID: M6120_S0000_G0020_001_resi
+JP: あなたがSランクの王者を負かしてくれたおかげで、アイツはまた当分の間、牢屋暮らしね。ありがとね！
+EN: Thanks to you defeating the S Rank champ, he'll be spending his days in jail for a while. Thanks!
+RU: 
+
+
+-- Section 4
+
+ID: M6120_S0010_G0000_001_resi
+JP: こんな楽しみが違法なんて上の奴らは馬鹿ばっかだぜ。
+EN: Would you believe the guys at the top think all of this is illegal? How stupid is that!?
+RU: 
+
+
+-- Section 5
+
+ID: M6120_S0010_G0010_001_resi
+JP: お前なかなか強いんだってな、今度試合を見に行かせて貰うわ。
+EN: I hear you're pretty strong! Maybe I should check out one of your matches some day.
+RU: 
+
+
+-- Section 6
+
+ID: M6120_S0010_G0020_001_resi
+JP: いやーお前の試合最高だったぜ！
+EN: Man, you rock at this!
+RU: 
+
+ID: M6120_S0010_G0030_001_resi
+JP: ここの施設をたまに悪く言うバカがいるんだが、ココの楽しさが分からないなんて本当に可哀相な奴らだ。お前もそう思うだろ？
+EN: Some people make fun of this place, but they're just simple-minded idiots who don't know what fun is. I feel sorry for 'em. Don't you?
+RU: 
+
+
+-- Section 7
+
+ID: M6120_S0010_G0030_001_resi
+JP: ここの施設をたまに悪く言うバカがいるんだが、ココの楽しさが分からないなんて本当に可哀相な奴らだ。お前もそう思うだろ？
+EN: Some people make fun of this place, but they're just simple-minded idiots who don't know what fun is. I feel sorry for 'em. Don't you?
+RU: 
+
+
+-- Section 8
+
+ID: M6120_S0020_G0000_001_resi
+JP: どうだい、アンタも楽しんでるかい？
+EN: Hey there. Having fun?
+RU: 
+
+
+-- Section 9
+
+ID: M6120_S0020_G0010_001_resi
+JP: アンタもここの楽しみ方が分かってきただろ？
+EN: You're getting the hang of this place, aren't ya?
+RU: 
+
+
+-- Section 10
+
+ID: M6120_S0020_G0020_001_resi
+JP: 何でここの施設が摘発されないか不思議か？
+EN: Hm? You're wondering why this place hasn't been locked down?
+RU: 
+
+ID: M6120_S0020_G0030_001_resi
+JP: 上層部の奴らだってバカじゃない、ここの施設の存在を知っていて黙認しているのさ。
+EN: The higher-ups ain't stupid. They know what we're doing, but they're turnin' a blind eye.
+RU: 
+
+ID: M6120_S0020_G0040_001_resi
+JP: 奴らは分かっているんだよ、ここでガス抜きが出来る事で反逆や離反を抑えられている事をさ。
+EN: They know that if they don't give us a chance to let off steam, we'll end up takin' out our frustations elsewhere.
+RU: 
+
+ID: M6120_S0020_G0050_001_resi
+JP: それに、ここの金の一部は上に流れているしな。\nまぁ組織っていうのはそんなものさ。
+EN: Besides, some of the money we make here goes directly towards the top. That's society for ya.
+RU: 
+
+ID: M6120_S0020_G0060_001_resi
+JP: アンタも、あんまり余計な事に首を突っ込まない方が身のためだぜ。
+EN: You'd better not poke your nose where it don't belong either, ya hear?
+RU: 
+
+
+-- Section 11
+
+ID: M6120_S0020_G0060_001_resi
+JP: アンタも、あんまり余計な事に首を突っ込まない方が身のためだぜ。
+EN: You'd better not poke your nose where it don't belong either, ya hear?
+RU: 
+
+
+-- Section 12
+
+ID: M6120_S0030_G0000_001_resi
+JP: 最近はどこも激戦地だしな。\nこれがなきゃとっくに脱走してるよ。
+EN: Nowadays it's war everywhere you go.\nI need a bit of distraction like this to keep me sane.
+RU: 
+
+
+-- Section 13
+
+ID: M6120_S0030_G0010_001_resi
+JP: アナタが機械生命体を粉々にしてくれたおかげで、ストレスが取れたわ。ありがとね！
+EN: Watching you pound those machines to shreds is very therapeutic. Hypnotic, almost!
+RU: 
+
+
+-- Section 14
+
+ID: M6120_S0030_G0020_001_resi
+JP: ここを知ってからは戦場で機械生命体を殺すのが楽しくて楽しくて、本当に最高よ。
+EN: Ever since I found out about this place, I've been much more eager to go out and fight. It's awesome!
+RU: 
+
+
+-- Section 15
+
+ID: M6120_S0040_G0000_001_resi
+JP: ここのおかげでツライ仕事もやっていけるよな。
+EN: As long as I get my entertainment, I can keep working every day.
+RU: 
+
+
+-- Section 16
+
+ID: M6120_S0040_G0010_001_resi
+JP: ああ、ここのおかげで明日も頑張れる。
+EN: This place is what's keeping me sane every day.
+RU: 
+
+
+-- Section 17
+
+ID: M6120_S0040_G0020_001_resi
+JP: あなた、機械生命体の壊し方、もう最高だったわ！
+EN: I've never seen anyone destroy machines with so much flair! You're amazing!
+RU: 
+
+
+-- Section 18
+
+ID: M6120_S0050_G0000_001_resi
+JP: いいモノを……揃えてるぜ？
+EN: Got some really good stuff on sale...if you're interested.
+RU: 
+
+
+-- Section 19
+
+ID: M6120_S0050_G0010_001_resi
+JP: しょうがない、多少危険だが地下洞窟辺りに仕入れに行ってみるか。
+EN: Looks like I'm gonna have to stock up near that underground cave again.
+RU: 
+
+
+-- Section 20
+
+ID: M6120_S0050_G0020_001_resi
+JP: 最高ランクをクリアした奴は久し振りだ。アンタならいいハンターになれるぞ。
+EN: It's been a while since someone cleared the highest rank. You're gonna be a great hunter, I can tell!
+RU: 
+
+
+-- Section 21
+
+ID: M6120_S0060_G0000_001_resi
+JP: 10,000Gで新しいのを仕入れたいんだが。
+EN: I'd like to place a new order for 10,000 G.
+RU: 
+
+
+-- Section 22
+
+ID: M6120_S0060_G0010_001_resi
+JP: こないだ買ったのはダメだ直ぐ壊れちまった。もっと頑丈なのをくれ。
+EN: That last one was worthless! It broke down almost instantly! I need a stronger one!
+RU: 
+
+
+-- Section 23
+
+ID: M6120_S0060_G0020_001_resi
+JP: おお、お前の試合みたぞ。その腕で活きのいいのを持ってきてくれよ！
+EN: Hey, I saw your match! I'm sure you could bring me some really lively ones!
+RU: 
+
+
+-- Section 24
+
+ID: M6120_S0070_G0000_001_resi
+JP: 悪いが此処から先は立入禁止だ。
+EN: Sorry, this place is off-limits.
+RU: 
+
+
+-- Section 25
+
+ID: M6120_S0070_G0000_001_resi
+JP: 悪いが此処から先は立入禁止だ。
+EN: Sorry, this place is off-limits.
+RU: 
+
+
+-- Section 26
+
+ID: M6120_S0070_G0020_001_resi
+JP: どうだい、これ以上に面白い見世物はそうないだろ？
+EN: You're not gonna find any better entertainment than this place, lemme tell ya.
+RU: 
+
+
+-- Section 27
+
+ID: M6120_S0080_G0000_001_resi
+JP: クソッ！クソッ！\nアイツが負けたせいで俺の大金がパァだ！
+EN: Dammit! All of my money's gone cause that piece of junk didn't win!
+RU: 
+
+
+-- Section 28
+
+ID: M6120_S0080_G0010_001_resi
+JP: どうだ、どうだ！勝ったぞ、俺は勝ったぞ！見ろ大金だ！あははは！
+EN: YES! I WON! I WON! Look at all this money! I'm rich! Wahahaha!
+RU: 
+
+ID: M6120_S0080_G0020_001_resi
+JP: え、ここにいたもう一人の奴はどうしたかって？
+EN: Huh? You wanna know what happened to the other girl?
+RU: 
+
+ID: M6120_S0080_G0030_001_resi
+JP: アイツは負けが続いて金を返せなくなって、どこかに連れて行かれちまったよ。全く馬鹿なやつだよ。
+EN: She kept losin' until she ran out of money, then she got dragged off somewhere. Dumb broad.
+RU: 
+
+ID: M6120_S0080_G0040_001_resi
+JP: 俺はまだやれる。ヨシ次はもっと大穴狙いだ……
+EN: That won't happen to me though! I'm ready for my next big win!
+RU: 
+
+
+-- Section 29
+
+ID: M6120_S0080_G0040_001_resi
+JP: 俺はまだやれる。ヨシ次はもっと大穴狙いだ……
+EN: That won't happen to me though! I'm ready for my next big win!
+RU: 
+
+
+-- Section 30
+
+ID: M6120_S0090_G0000_001_resi
+JP: ヤバイヤバイヤバイ……\nこんな大金どうやって返せばいいんだ……
+EN: Oh man, what am I gonna do now?\nHow am I gonna make that money back!?
+RU: 
+
+
+-- Section 31
+
+ID: M6120_S0100_G0000_001_resi
+JP: この先は闘技場参加者以外の方はご遠慮願います。
+EN: This place is off-limits except for Colosseum combatants.
+RU: 
+
+ID: M6120_S0100_G0010_001_resi
+JP: もし、参加するのであれば受付で手続きの方をよろしくお願いします。
+EN: If you wanna fight, get yourself registered at the reception first.
+RU: 
+
+
+-- Section 32
+
+ID: M6120_S0110_G0000_001_resi
+JP: ここは、無難に行くべきか、大穴を狙うべきか悩みどころだな……
+EN: Should I play it safe, or bet big?
+RU: 
+
+
+-- Section 33
+
+ID: M6120_S0110_G0010_001_resi
+JP: おお君の試合見たよ、次は絶対に君に賭けさせて貰うよ！
+EN: Oh hey, I saw you fight before! I think I'm gonna bet on you next!
+RU: 
+
+
+-- Section 34
+
+ID: M6120_S0110_G0020_001_resi
+JP: まさか闘技場の王者に勝つなんて、君に賭けとけば良かったよ。
+EN: Wow, I never thought you'd beat the champ! I should've put my money on you...
+RU: 
+
+ID: M6120_S0110_G0030_001_resi
+JP: 次は絶対君に賭けるから、出場する時は教えてくれよ。
+EN: Next time I'm definitely betting on you, so lemme know when your next match is, 'kay?
+RU: 
+
+
+-- Section 35
+
+ID: M6120_S0120_G0000_001_resi
+JP: 何やってるんだ！！\nもっと派手にぶっ壊してくれなきゃ、つまんねーんだよ！！
+EN: Come on, you call this a fight!?\nI wanna see bolts flyin' all over the place!
+RU: 
+
+
+-- Section 36
+
+ID: M6120_S0120_G0010_001_resi
+JP: そんなポンコツに後れなんか取ってんじゃねーよ、クソが！！
+EN: What the hell, you can't even beat a broken-ass piece of junk like that!? Loser!
+RU: 
+
+
+-- Section 37
+
+ID: M6120_S0120_G0020_001_resi
+JP: おいコラ、手を止めんな！壊した後もズタズタにしろ！！
+EN: Don't stop just cause you already won! Grind him to dust!
+RU: 
+
+
+-- Section 38
+
+ID: M6120_S0130_G0000_001_resi
+JP: オッシャー！！\nそこだ、ぶっかませ！！
+EN: That's the spirit! Hit 'em where it hurts!
+RU: 
+
+
+-- Section 39
+
+ID: M6120_S0130_G0010_001_resi
+JP: オオォォ！！\nアンタの試合最高にエキサイティングだったぜ！！
+EN: OH. MY. GOD. That was the most exciting match I've ever seen!
+RU: 
+
+
+-- Section 40
+
+ID: M6120_S0130_G0020_001_resi
+JP: ウオォォォ！！\nアンタ、まさかあの王者を倒しちまうなんて最高に感激したぞ！！
+EN: WOOOOOOW! You actually beat the champ!? Un-friggin-believable!
+RU: 
+
+
+-- Section 41
+
+ID: M6120_S0140_G0000_001_resi
+JP: 機械生命体がはじけ飛ぶのを見てると胸の辺りがこう、整理された感じになるんだ。
+EN: It's a wonderful sight, seeing machine bits fly everywhere, isn't it? Makes me feel all peaceful inside.
+RU: 
+
+ID: M6120_S0140_G0010_001_resi
+JP: この感覚は何て言えばいいんだろうな。
+EN: I wonder if there's a word for that.
+RU: 
+
+
+-- Section 42
+
+ID: M6120_S0140_G0020_001_resi
+JP: 人間の文献を調べてみたら、機械生命体がはじけ飛ぶのを見た時に感じる感覚は「爽快とか愉快、気が晴れる」って言うのが近いのかな。
+EN: So I checked some human records and apparently the joy of seeing machine bits fly everywhere is called "elation."
+RU: 
+
+ID: M6120_S0140_G0030_001_resi
+JP: 機械生命体には散々な目に遭わされて来たからね。\n奴らが壊される様は本当に爽快だよ。
+EN: We lost so many of our troops to these bastards, it's truly...elating to see them get destroyed!
+RU: 
+
+
+-- Section 43
+
+ID: M6120_S0140_G0040_001_resi
+JP: アハハハ愉快だ、奴らの壊れる様は本当に愉快だよ！
+EN: Bwahaha! The elation, oh the elation! I'm so elated right now!
+RU: 
+
+
+-- Section 44
+
+ID: M6120_S0150_G0000_001_resi
+JP: 何やってんだ、このポンコツが！！
+EN: What are you DOING, you worthless sack of metal!?
+RU: 
+
+ID: M6120_S0150_G0010_001_resi
+JP: テメーに賭けてやってんだ、死ぬ気でいけよ！！
+EN: I've got money ridin' on you! Fight to win!
+RU: 
+
+
+-- Section 45
+
+ID: M6120_S0150_G0020_001_resi
+JP: あんたの試合見たぞ、あんたならあのクソ生意気なSランクの王者をぶっ壊せるかもな、期待しているぜ。
+EN: I saw you fight just now. You might be able to take that asshole S Rank champ down!
+RU: 
+
+
+-- Section 46
+
+ID: M6120_S0150_G0030_001_resi
+JP: 最高だよ！あんたが王者を倒してくれたおかげで、まだ王者を奴隷にしておけるよ。
+EN: Fantastic! Thanks to you, the former champion has been taken down a notch. He won't be acting so tough anymore now, I bet.
+RU: 
+
+
+-- Section 47
+
+ID: M6120_S0160_G0000_001_resi
+JP: いやー、やっぱり最前列だね！
+EN: Nothing beats front row seats, am I right?
+RU: 
+
+ID: M6120_S0160_G0010_001_resi
+JP: 稀に弾がここまで飛んで来るのがたまらないんだよ！！
+EN: Gotta watch out for those stray bullets though, but that's part of the fun!
+RU: 
+
+ID: M6120_S0160_G0020_001_resi
+JP: こう、ゾクゾクってするんだよね！！
+EN: Makes you feel alive!!
+RU: 
+
+
+-- Section 48
+
+ID: M6120_S0160_G0030_001_resi
+JP: 最近は最前列でも弾が余り飛んで来ないのよね……
+EN: Not many stray bullets have made their way over here lately...
+RU: 
+
+ID: M6120_S0160_G0040_001_resi
+JP: もっと、もっとこっちに弾を飛ばしてスリルを、スリルを頂戴！！
+EN: I need to see those beautiful red bubbles coming at me to experience the true thrill of combat!
+RU: 
+
+
+-- Section 49
+
+ID: M6120_S0160_G0060_001_resi
+JP: Sランクを制覇するなんて凄いわね。
+EN: Good job completing the S Rank!
+RU: 
+
+ID: M6120_S0160_G0070_001_resi
+JP: ああ、Sランクの危険な弾をもっと浴びたいわ。
+EN: You think you could maybe try again and send some bullets my way? Please?
+RU: 
+
+
+-- Section 50
+
+ID: M6120_S0170_G0000_001_resi
+JP: アンタ、新顔だな。\nここで賭けをするなら気を付けた方がいいぞ。
+EN: You're new here, ain't ya? If you plan on bettin' some money here, you'd better use your head.
+RU: 
+
+ID: M6120_S0170_G0010_001_resi
+JP: ここで破産したやつは何人もいるが、皆どこかに連れて行かれて帰って来なくなるんだ。
+EN: Some people lose everything they have. They get taken off and are never seen again.
+RU: 
+
+
+-- Section 51
+
+ID: M6120_S0170_G0020_001_resi
+JP: お前が噂になっているアンドロイドか、アンタ……ここの施設は楽しめているか？
+EN: You're that android everyone's been talkin' about, huh? You enjoyin' yourself here?
+RU: 
+
+ID: M6120_S0170_G0030_001_resi
+JP: ここは強者のみが楽しめる弱肉強食を体現する場所だ。
+EN: This is a place where only the strong survive, so it's not for everyone.
+RU: 
+
+ID: M6120_S0170_G0040_001_resi
+JP: だが、果たしてアンドロイドはこの世界の強者なのかは疑問だな。
+EN: I guess we'll see soon enough if us androids are really the strongest ones on this planet, huh?
+RU: 
+
+
+-- Section 52
+
+ID: M6120_S0170_G0050_001_resi
+JP: アンタ、ここの施設についてどう思う？
+EN: So tell me, what do you think of this place?
+RU: 
+
+ID: M6120_S0170_G0060_001_resi
+JP: 仲間を大勢殺されたアンドロイドには機械生命体を殺す大義名分がある。
+EN: I don't think you'll disagree that us androids have plenty of reasons to kick the crap outta the machines after all they've done to us, right?
+RU: 
+
+ID: M6120_S0170_G0070_001_resi
+JP: だが、ここにいる奴らのほとんどは大義名分を盾にただ殺す事を楽しんでいる。
+EN: That said, most people here don't even care about revenge. They're just here to kill.
+RU: 
+
+ID: M6120_S0170_G0080_001_resi
+JP: もしかしたら、殺せれば相手は機械生命体じゃなくてもいいかもしれない。
+EN: I'm gettin' the impression they'd slaughter anything put in front of 'em, be it machine or something else.
+RU: 
+
+ID: M6120_S0170_G0090_001_resi
+JP: しかし、この施設のおかげで生きる気力が湧いた者も大勢いる。
+EN: On the other hand, there's lots of people here who gain the energy to keep on livin' every day as well.
+RU: 
+
+ID: M6120_S0170_G0100_001_resi
+JP: ここにいる奴らが正常なのか狂っているのか、誰が判断出来るんだろうな……
+EN: I dunno whether we're all doin' the right thing, or if we're all just completely deranged...
+RU: 
+
+
+-- Section 53
+
+ID: M6120_S0170_G0100_001_resi
+JP: ここにいる奴らが正常なのか狂っているのか、誰が判断出来るんだろうな……
+EN: I dunno whether we're all doin' the right thing, or if we're all just completely deranged...
+RU: 
+
+
+-- Section 54
+
+ID: M6120_S0180_G0000_001_resi
+JP: クソッ、また負けだ！！
+EN: Dammit, I lost again!
+RU: 
+
+ID: M6120_S0180_G0010_001_resi
+JP: いっそ、俺もバトルに参加してみるか……
+EN: Maybe I should try becoming a contestant...
+RU: 
+
+
+-- Section 55
+
+ID: M6120_S0180_G0020_001_resi
+JP: イテテテ……
+EN: Owowowowow...
+RU: 
+
+ID: M6120_S0180_G0030_001_resi
+JP: クソッ、バトルになんか参加するんじゃなかった！
+EN: Man, I should NOT have tried becoming a contestant!
+RU: 
+
+
+-- Section 56
+
+ID: M6120_S0180_G0000_001_resi
+JP: クソッ、また負けだ！！
+EN: Dammit, I lost again!
+RU: 
+
+ID: M6120_S0180_G0010_001_resi
+JP: いっそ、俺もバトルに参加してみるか……
+EN: Maybe I should try becoming a contestant...
+RU: 
+
+
+-- Section 57
+
+ID: M6120_S0190_G0000_001_resi
+JP: やっぱり低ランクの試合は見ていても退屈だな……
+EN: Man, these low-level matches are so boring...
+RU: 
+
+ID: M6120_S0190_G0010_001_resi
+JP: 高ランクの試合を見たいが、高いんだよな……
+EN: I wanna watch the higher level ones, but they're so expensive.
+RU: 
+
+
+-- Section 58
+
+ID: M6120_S0190_G0020_001_resi
+JP: アンタの試合最高に楽しませてもらったよ。
+EN: You are an absolutely joy to watch in combat, you know that?
+RU: 
+
+ID: M6120_S0190_G0030_001_resi
+JP: チケット代が高い分、やっぱり高ランクの試合はひと味違うな。
+EN: The tickets for high rank matches may be expensive, but wow, you do get your money's worth!
+RU: 
+
+
+-- Section 59
+
+ID: M6120_S0190_G0040_001_resi
+JP: 慣れってこわいもんだな。\nあれほど楽しかった高ランクの試合も今では退屈になってしまったよ。
+EN: Even the excitement of high rank matches starts wearing off after a while. It's funny how the mind works.
+RU: 
+
+ID: M6120_S0190_G0050_001_resi
+JP: 私達アンドロイドは案外欲深いモノなんだね。
+EN: Androids must be starving for entertainment more than I thought.
+RU: 
+
+
+-- Section 60
+
+ID: M6120_S0200_G0000_001_resi
+JP: Sランクの王者はかなりの強者で、現在なんと90連勝中なんだ。
+EN: The S Rank champion is super strong. He's won 90 matches in a row!
+RU: 
+
+ID: M6120_S0200_G0010_001_resi
+JP: あいつが出る試合は人気があって中々チケットが取れないんだよ。
+EN: Whenever he has a match, tickets get sold out in no time.
+RU: 
+
+
+-- Section 61
+
+ID: M6120_S0200_G0020_001_resi
+JP: アンタ見させて貰ったよ、なかなかの腕だ。
+EN: I saw you fight before. You're pretty good.
+RU: 
+
+ID: M6120_S0200_G0030_001_resi
+JP: 王者はあれから更に勝ち続け96連勝を成し遂げたよ。
+EN: In the meanwhile, the champion has won 96 matches in a row though.
+RU: 
+
+ID: M6120_S0200_G0040_001_resi
+JP: 100連勝するのが先か、はたまたアンタがヤツを倒すのが先か……
+EN: The question now is: will he reach 100, or are you going to stop him?
+RU: 
+
+
+-- Section 62
+
+ID: M6120_S0200_G0050_001_resi
+JP: ああアンタか、王者を下したようだな。
+EN: Looks like you took down the champ, huh?
+RU: 
+
+ID: M6120_S0200_G0060_001_resi
+JP: アイツなら100連勝してココから抜け出してくれると思ったが……
+EN: I was sure he was gonna get 100 victories and escape this place, but there you go...
+RU: 
+
+ID: M6120_S0200_G0070_001_resi
+JP: 所詮、アンドロイドも機械生命体も定められた運命からは逃れられないのか……
+EN: Just goes to show that no one can escape their destiny, be they android or machine.
+RU: 
+
+
+-- Section 63
+
+ID: M6120_S0200_G0070_001_resi
+JP: 所詮、アンドロイドも機械生命体も定められた運命からは逃れられないのか……
+EN: Just goes to show that no one can escape their destiny, be they android or machine.
+RU: 
+
+
+-- Section 64
+
+ID: M6120_S0210_G0000_001_resi
+JP: あーダメだな……今日はツキがないみたいだ。
+EN: Ugh... I'm just shit outta luck today.
+RU: 
+
+
+-- Section 65
+
+ID: M6120_S0210_G0010_001_resi
+JP: 連勝続きみたいだな、どうやらツキがあるらしいな。
+EN: I've been on a winning streak! Luck's finally on my side!
+RU: 
+
+ID: M6120_S0210_G0020_001_resi
+JP: ツキの流れには逆らえないが、呼び込む事も出来る。\nツキっていうのは不思議なもんだ。
+EN: Luck's a strange thing. You can't go against it, but you can somehow channel it if you really try.
+RU: 
+
+
+-- Section 66
+
+ID: M6120_S0210_G0030_001_resi
+JP: 闘技場の王者を倒したか。アイツはツキを呼び込める奴かと思ったが……
+EN: So you beat the champion, huh? I thought fortune was on his side for sure...
+RU: 
+
+ID: M6120_S0210_G0040_001_resi
+JP: まあ、アイツにはツキがなくアンタにはツキがあった。ただそれだけのことか。
+EN: Well, looks like you were lucky, and he wasn't. End of story.
+RU: 
+
+
+-- Section 67
+
+ID: M6120_S0220_G0000_001_resi
+JP: ウオオオオオオオオオオオオ！！
+EN: GRRRRRAAAAAAAAAAAAHHHH!
+RU: 
+
+ID: M6120_S0220_G0010_001_resi
+JP: ふぅ、大声で叫ぶとスカッとするぜ！！
+EN: Phew, feels good to flex your lungs sometimes!
+RU: 
+
+
+-- Section 68
+
+ID: M6120_S0220_G0020_001_resi
+JP: シャアアアアアアアア！！
+EN: GRRRRRAAAAAAAAAAAAHHHH!
+RU: 
+
+ID: M6120_S0220_G0030_001_resi
+JP: やっぱり大声を出すのは止められないね！一緒にどうだ？
+EN: I just can't stop shouting! Wanna join in?
+RU: 
+
+
+-- Section 69
+
+ID: M6120_S0220_G0040_001_resi
+JP: ……大声……出し……ス……ギ…声帯……イカ……レ……ッタ……
+EN: ...Too...much...shouting... Vocal...cords...busted...
+RU: 
+
+
+-- Section 70
+
+ID: M6120_S0230_G0000_001_n02
+JP: アンドロイドの方、どうかアナタにお願いしたい事があります。
+EN: Excuse me, I have a favor to ask of you.
+RU: 
+
+ID: M6120_S0230_G0010_001_n02
+JP: ワタシは身体が弱く、この地獄から抜ける事は出来ないでしょう……
+EN: I'm just a feeble machine, and there's no way out of this hell for me.
+RU: 
+
+ID: M6120_S0230_G0020_001_n02
+JP: ですから、どうか一思いに私を殺しては貰えないでしょうか？
+EN: So would you mind killing me, please?
+RU: 
+
+ID: M6120_S0230_G0030_001_n02
+JP: 家族も失い、ワタシにはもう何もないのです。
+EN: My family is gone, and I have nothing left of value.
+RU: 
+
+ID: M6120_S0230_G0040_001_n02
+JP: この地獄で永遠の苦しみを受けるよりは……
+EN: I'm tired of having to live through the same nightmare every day.
+RU: 
+
+
+-- Section 71
+
+ID: M6120_S0230_G0050_001_n02
+JP: アナタにとっては不快なお願いかもしれませんが……
+EN: I know this might not sit very well with you...
+RU: 
+
+ID: M6120_S0230_G0060_001_n02
+JP: どうか、どうかワタシを殺して下さい……
+EN: But...could you kill me... Please?
+RU: 
+
+
+-- Section 72
+
+ID: M6120_S0240_G0000_001_toolshop
+JP: お、あんさん新顔やね。\n試合に参加されるんやろ、ならここで準備しとき！！
+EN: Over here, stranger!\nGot somethin' that might interest ya, so whaddaya buyin'?
+RU: 
+
+ID: M6120_S0240_G0010_001_toolshop
+JP: え、話し方が何か変やって？
+EN: What, ya godda problem with the way I talk?
+RU: 
+
+ID: M6120_S0240_G0020_001_toolshop
+JP: 過去の文献で学んだんヤケド、どうやら商いを上手にこなす言葉らしいねん。
+EN: I studied a relic of ancient civilization and apparently this is how merchants communicate, alright?
+RU: 
+
+ID: M6120_S0240_G0030_001_toolshop
+JP: え、ドコカおかしゅうナイかって？
+EN: What's that? You highly doubt it!?
+RU: 
+
+ID: M6120_S0240_G0040_001_toolshop
+JP: まだ、覚えたてやねん、細かい事は気にせんとイて！！
+EN: Look, I only just started out, okay? I'm still tryin' ta get the hang of this!
+RU: 
+
+
+-- Section 73
+
+ID: M6120_S0240_G0050_001_toolshop
+JP: へいらっしゃい、自由に見てっテヤー。
+EN: Got a selection of good things on sale, stranger!
+RU: 
+
+ID: M6120_S0240_G0060_001_toolshop
+JP: 毎度おおきに！
+EN: Hehehe, thank you.
+RU: 
+
+

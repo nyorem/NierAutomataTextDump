@@ -1,0 +1,47 @@
+-- Section 1
+
+ID: M1030_S0950_S0000_201_pod042
+JP: 当機はポッド０４２。２Ｂ専属の随行支援ユニット。
+EN: This is Tactical Support Unit Pod 042, assigned to 2B.
+RU: 
+
+
+-- Section 2
+
+ID: M1030_S0950_S0010_201_pod153
+JP: 当機はポッド１５３。９Ｓ専属の随行支援ユニット。
+EN: This is Tactical Support Unit Pod 153, assigned to 9S.
+RU: 
+
+
+-- Section 3
+
+ID: M1030_S0950_S0020_201_pod042
+JP: 我々は同じ戦闘に参加する事が多い。
+EN: We Pods often participate in the same battles.
+RU: 
+
+ID: M1030_S0950_S0030_201_pod042
+JP: 状況データの共有をする事でより効率的な作戦展開が可能と推測。
+EN: Exchanging our situational data would theoretically allow us to plan combat strategies in a more efficient manner.
+RU: 
+
+ID: M1030_S0950_S0040_201_pod042
+JP: 提案：定期的な情報交換をポッド０４２とポッド１５３で行う事。
+EN: Proposal: Data should be transferred regularly between Pod 042 and Pod 153.
+RU: 
+
+
+-- Section 4
+
+ID: M1030_S0950_S0050_201_pod153
+JP: 賛成：提案の内容を妥当だと判断。
+EN: Analysis: This idea is sound. Proposal accepted.
+RU: 
+
+ID: M1030_S0950_S0060_201_pod153
+JP: 次の状況交換までに、記録調整を行っておく。
+EN: Records will be organized in time for the next situational exchange.
+RU: 
+
+

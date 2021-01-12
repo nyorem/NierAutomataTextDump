@@ -1,0 +1,55 @@
+ID: M3060_S1100_H0000_001_a2
+JP: 私が……全部……
+EN: I'll take care of everything...
+RU: 
+
+ID: M3060_S1100_H0010_001_a2
+JP: ポッド……
+EN: Pod...
+RU: 
+
+ID: M3060_S1100_H0020_001_a2
+JP: ９Ｓを頼む。
+EN: Take care of 9S.
+RU: 
+
+ID: M3060_S1100_H0030_001_pod042
+JP: Ａ２。君は？
+EN: What of you, A2?
+RU: 
+
+ID: M3060_S1100_H0040_001_a2
+JP: 私は、まだ、やることがあるから……
+EN: I've still got something I need to do...
+RU: 
+
+ID: M3060_S1100_H0050_001_a2
+JP: 先に行ってくれ。
+EN: You go ahead.
+RU: 
+
+ID: M3060_S1100_H0060_001_pod
+JP: ……了解。
+EN: Acknowledged.
+RU: 
+
+ID: M3060_S1100_H0070_001_a2
+JP: すまないな……
+EN: I'm sorry...
+RU: 
+
+ID: M3060_S1100_H0080_001_a2
+JP: こんなに世界が綺麗だって、
+EN: I never quite realized...
+RU: 
+
+ID: M3060_S1100_H0090_001_a2
+JP: 気付かなかったな……
+EN: how beautiful this world is.
+RU: 
+
+ID: M3060_S1100_H0100_001_a2
+JP: みんな……今、行くよ……
+EN: I'm coming, everyone... I'm...coming...
+RU: 
+

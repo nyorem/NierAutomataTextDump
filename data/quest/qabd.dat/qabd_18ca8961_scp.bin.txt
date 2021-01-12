@@ -1,0 +1,123 @@
+-- Section 1
+
+ID: M1090_S0270_G0000_201_eve
+JP: 
+EN: 
+RU: 
+
+ID: M1090_S0270_G0010_201_a9s
+JP: クソッ……こんな防壁……
+EN: Shit! Stupid barriers...
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0270_G0020_201_eve
+JP: オレは……俺は……にいちゃん……
+EN: I... Brother, I...
+RU: 
+
+ID: M1090_S0270_G0030_201_eve
+JP: にいちゃん……どうして……
+EN: Oh, brother... Why...?
+RU: 
+
+
+-- Section 3
+
+ID: M1090_S0270_G0040_201_eve
+JP: 他の何も要らなかった……
+EN: I needed nothing else...
+RU: 
+
+
+-- Section 4
+
+ID: M1090_S0270_G0050_201_a9s
+JP: 何……これ？
+EN: What is this?
+RU: 
+
+ID: M1090_S0270_G0060_201_pod153
+JP: 警告：巨大な自我データの崩壊。データ汚染の危険あり。
+EN: Alert: Disruption detected in YoRHa unit 9S's self-consciousness data. Corruption potential critical.
+RU: 
+
+ID: M1090_S0270_G0070_201_pod153
+JP: 推奨：退避。
+EN: Evacuation recommended.
+RU: 
+
+ID: M1090_S0270_G0080_201_a9s
+JP: ここまで来て、逃げる訳にはいかない！
+EN: Can't. Not when I'm this far in!
+RU: 
+
+
+-- Section 5
+
+ID: M1090_S0270_G0090_201_eve
+JP: 俺にとってはにいちゃんだけが……
+EN: My brother was everything to me...
+RU: 
+
+ID: M1090_S0270_G0100_201_eve
+JP: にいちゃんと居る事だけが生きてる意味だった……
+EN: My life was contained in our moments...
+RU: 
+
+ID: M1090_S0270_G0110_201_pod153
+JP: 警告：ヨルハ機体９Ｓの自我データの汚染を検知。
+EN: Alert: Corruption confirmed in YoRHa unit 9S's self-consciousness data.
+RU: 
+
+ID: M1090_S0270_G0120_201_pod153
+JP: 推奨：早急な退避と治療。
+EN: Immediate evacuation and treatment recommended.
+RU: 
+
+ID: M1090_S0270_G0130_201_a9s
+JP: あと……少し……
+EN: Just...a little more...
+RU: 
+
+ID: M1090_S0270_G0140_201_a9s
+JP: イヴの持つ、オブジェクトコントロール機能を奪えれば……
+EN: If I can remove Eve's object control function...
+RU: 
+
+
+-- Section 6
+
+ID: M1090_S0270_G0150_201_eve
+JP: ねぇ……にいちゃん……
+EN: Listen to me, Adam...
+RU: 
+
+ID: M1090_S0270_G0160_201_eve
+JP: ぼく、たたかう事は嫌いじゃないよ……
+EN: I never disliked fighting.
+RU: 
+
+ID: M1090_S0270_G0170_201_eve
+JP: だけど、にいちゃんが傷つくのはイヤだよ……
+EN: But I didn't want you to be hurt.
+RU: 
+
+ID: M1090_S0270_G0180_201_eve
+JP: にいちゃんが居なくなるのは……もっとイヤだ……
+EN: And I especially didn't want to lose you.
+RU: 
+
+ID: M1090_S0270_G0190_201_eve
+JP: だから、ふたりで、どこか、静かな場所に……
+EN: So let's go somewhere quiet. Together.
+RU: 
+
+ID: M1090_S0270_G0200_201_eve
+JP: にいちゃ……
+EN: My brother...
+RU: 
+
+

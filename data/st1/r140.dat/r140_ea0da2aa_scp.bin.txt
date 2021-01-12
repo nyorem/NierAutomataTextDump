@@ -1,0 +1,16 @@
+-- Section 1
+
+ID: M5110_S0010_G0001_300_sister
+JP: 妹を連れ戻してくれてありがとうございました。
+EN: Thank you for bringing my sister home.
+RU: 
+
+
+-- Section 2
+
+ID: M5110_S0010_G0004_300_youngsister
+JP: もうお姉ちゃんに心配かけるようなコトはしないヨ
+EN: I promise not to make my sister worry any more.
+RU: 
+
+

@@ -1,0 +1,21 @@
+-- Section 1
+
+ID: M1040_S0550_G0040_001_a9s
+JP: 地形が陥没してる……
+EN: The ground is caved in...
+RU: 
+
+ID: M1040_S0550_G0050_001_a9s
+JP: 元々地下に空洞があったみたいですね。
+EN: There must have been a hollow down there this whole time.
+RU: 
+
+
+-- Section 2
+
+ID: M1040_S0550_G0060_001_a9s
+JP: ここの通路は昔からあるみたいですけど……
+EN: This hallway looks pretty old...
+RU: 
+
+

@@ -1,0 +1,15 @@
+ID: M0010_S0782_H0000_101_a2b
+JP: ９Ｓッ！！
+EN: 9S!
+RU: 
+
+ID: M0010_S0782_H0001_101_a2b
+JP: 大丈夫！？
+EN: You all right!?
+RU: 
+
+ID: M0010_S0782_H0002_101_a2b
+JP: ９Ｓを助けないと……
+EN: I have to help 9S...
+RU: 
+

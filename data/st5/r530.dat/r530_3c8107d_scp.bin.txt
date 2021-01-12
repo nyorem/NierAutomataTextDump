@@ -1,0 +1,13 @@
+-- Section 1
+
+ID: M5290_S0040_G0080_001_robocreator
+JP: クリエイションハ、ソンナニ簡単ジャナイ事ヲ思イ知リマシタ……
+EN: I never knew how difficult it was to be a creative genius.
+RU: 
+
+ID: M5290_S0040_G0100_001_robocreator
+JP: アリガトウゴザイマシタ。
+EN: Thank you for your support!
+RU: 
+
+

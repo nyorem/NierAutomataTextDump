@@ -1,0 +1,46 @@
+-- Section 1
+
+ID: M0010_S0740_G1000_001_a9s
+JP: 状況は！？
+EN: What's your status!?
+RU: 
+
+ID: M0010_S0740_G1010_001_a2b
+JP: これが目標の超大型兵器。破壊する。
+EN: This is the target. I'm going to destroy it.
+RU: 
+
+ID: M0010_S0740_G1020_001_a9s
+JP: 援護しますっ！
+EN: Uh...right. I'll provide support!
+RU: 
+
+ID: M0010_S0740_G0030_021_pod153
+JP: 報告：敵機体解析完了。
+EN: Enemy analysis complete.
+RU: 
+
+ID: M0010_S0740_G0040_021_pod153
+JP: 侵入経路及び、脆弱性を発見。
+EN: Software vulnerabilities and penetration path detected.
+RU: 
+
+ID: M0010_S0740_G0050_021_pod153
+JP: ＨＵＤ表示。
+EN: Displaying on HUD.
+RU: 
+
+ID: M0010_S0740_G0060_021_a9s
+JP: ハッキングして弱体化させる！
+EN: I'll hack this thing and weaken it!
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0740_G0070_001_telo
+JP: 敵ミサイル制御の奪取に成功
+EN: Enemy missiles intercepted.
+RU: 
+
+

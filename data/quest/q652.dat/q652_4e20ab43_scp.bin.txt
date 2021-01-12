@@ -1,0 +1,320 @@
+-- Section 1
+
+ID: M5652_S0010_G0000_001_resiman
+JP: ああ、ここに居たレジスタンスなら外に出てるぞ。
+EN: You looking for the Resistance member who's usually here?
+RU: 
+
+ID: M5652_S0010_G0010_001_resiman
+JP: 何でも、砂漠近くの駐留地に荷物を受け渡しに行ったとか……
+EN: Yeah, he stepped out. Said he had to make a delivery to the outpost near the desert.
+RU: 
+
+ID: M5652_S0010_G0020_001_resiman
+JP: ただ、予定を大分過ぎても帰ってこないんだよなあ。
+EN: I thought he'd be back by now, honestly.
+RU: 
+
+ID: M5652_S0010_G0030_001_resiman
+JP: もし良ければ、近くに行った時に様子を見に行ってやってくれないか？
+EN: Maybe you can check up on him next time you're out that way?
+RU: 
+
+ID: M5652_S0010_G0040_001_sele
+JP: 様子を見に行く。
+EN: Agree to look into it.
+RU: 
+
+ID: M5652_S0010_G0050_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5652_S0010_G0080_001_resiman
+JP: ありがとう。助かるよ。
+EN: Thanks. I appreciate it.
+RU: 
+
+ID: M5652_S0010_G0090_001_resiman
+JP: 砂漠にいるレジスタンスの女に会いに行ったはずだ。よろしく頼む。
+EN: There's a female Resistance member stationed in the desert who might know where he is.
+RU: 
+
+
+-- Section 3
+
+ID: M5652_S0010_G0060_001_resiman
+JP: む……そうか。その気になったら言ってくれ。
+EN: Really? Well, all right. Let me know if you change your mind.
+RU: 
+
+
+-- Section 4
+
+ID: M5652_S0010_G0070_001_resiman
+JP: なあ、砂漠に荷物を届けに行ったあいつの様子を、\nちょっと見に行っちゃくれないか？
+EN: Hey, you mind checking on that guy who was making a delivery to the desert?
+RU: 
+
+ID: M5652_S0010_G0040_001_sele
+JP: 様子を見に行く。
+EN: Agree to look into it.
+RU: 
+
+ID: M5652_S0010_G0050_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 5
+
+ID: M5652_S0010_G0080_001_resiman
+JP: ありがとう。助かるよ。
+EN: Thanks. I appreciate it.
+RU: 
+
+ID: M5652_S0010_G0090_001_resiman
+JP: 砂漠にいるレジスタンスの女に会いに行ったはずだ。よろしく頼む。
+EN: There's a female Resistance member stationed in the desert who might know where he is.
+RU: 
+
+
+-- Section 6
+
+ID: M5652_S0010_G0060_001_resiman
+JP: む……そうか。その気になったら言ってくれ。
+EN: Really? Well, all right. Let me know if you change your mind.
+RU: 
+
+
+-- Section 7
+
+ID: M5652_S0010_G0100_001_resiman
+JP: あいつなら、荷物の受け渡しの為に砂漠に行ったはずだ。よろしく頼む。
+EN: The guy who's usually here went to the desert to make a delivery. Hope you find him.
+RU: 
+
+
+-- Section 8
+
+ID: M5652_S0020_G0000_001_jackas
+JP: え？荷物を持ってきた男？……ああ、確かに来たけど。
+EN: What? That delivery guy? Yeah, he was here.
+RU: 
+
+ID: M5652_S0020_G0010_001_jackas
+JP: 荷物は故障した浄水器だったんだけど、もう修理は終わって納品したよ。
+EN: He brought me a broken water purifier, which I already repaired and returned to him.
+RU: 
+
+ID: M5652_S0020_G0020_001_jackas
+JP: 一緒に保管所まで持って行ったんだが……まだ戻ってないのか？
+EN: We took it out to the storage facility forever ago. You telling me he's STILL not back?
+RU: 
+
+ID: M5652_S0020_G0030_001_jackas
+JP: 敵に奪われないよう、廃墟都市のある場所にまとめて置いてるんだ。
+EN: Our storage facility is over in the city ruins. Helps keep it safe from enemy attacks and all that noise.
+RU: 
+
+ID: M5652_S0020_G0040_001_jackas
+JP: そのあたりに居るんじゃないかな？場所を教えるよ。
+EN: Hell, he could still be there for all I know. Lemme show you where it is.
+RU: 
+
+
+-- Section 9
+
+ID: M5652_S0020_G0050_001_jackas
+JP: アイツなら、大廃墟都市の保管所にいるんじゃないかな。
+EN: That guy you're looking for might be at our storage facility in the city ruins.
+RU: 
+
+
+-- Section 10
+
+ID: M5652_S0020_G0060_001_a9s
+JP: これが、レジスタンスの保管している資材か……
+EN: This must be the Resistance storage facility.
+RU: 
+
+ID: M5652_S0020_G0100_001_a2
+JP: これが、レジスタンスの保管している資材か……
+EN: So this is all the crap the Resistance was storing, huh?
+RU: 
+
+ID: M5652_S0020_G0070_001_resiman
+JP: ……けて……
+EN: ...me...
+RU: 
+
+ID: M5652_S0020_G0080_001_resiman
+JP: けて……たすけてー
+EN: ...p me. Help me...
+RU: 
+
+ID: M5652_S0020_G0090_001_pod153
+JP: 荷物内に、声帯から発せられたと思われる音響効果を確認。
+EN: Alert: Voice patterns detected from inside storage facility.
+RU: 
+
+ID: M5652_S0020_G0130_001_pod042
+JP: 荷物内に、声帯から発せられたと思われる音響効果を確認。
+EN: Alert: Voice patterns detected from inside storage facility.
+RU: 
+
+
+-- Section 11
+
+ID: M5652_S0020_G0110_001_resiman
+JP: ……けて……
+EN: ...me...
+RU: 
+
+ID: M5652_S0020_G0120_001_resiman
+JP: けて……たすけてー
+EN: ...lp me. Help me...
+RU: 
+
+ID: M5652_S0020_G0090_001_pod153
+JP: 荷物内に、声帯から発せられたと思われる音響効果を確認。
+EN: Alert: Voice patterns detected from inside storage facility.
+RU: 
+
+ID: M5652_S0020_G0130_001_pod042
+JP: 荷物内に、声帯から発せられたと思われる音響効果を確認。
+EN: Alert: Voice patterns detected from inside storage facility.
+RU: 
+
+
+-- Section 12
+
+ID: M5652_S0030_G0000_001_resiman
+JP: た、助かった……ありがとう……
+EN: Whew! Thanks a million.
+RU: 
+
+ID: M5652_S0030_G0001_001_resiman
+JP: 悪いんだけど、僕が出口まで通れるようにしてもらえないかな？
+EN: Sorry, but could you do me a favor and clear a path so I can get ouf of here?
+RU: 
+
+ID: M5652_S0030_G0002_001_resiman
+JP: 無理に出ようとして足を悪くしちゃってね……
+EN: I hurt my leg trying to force my way out...
+RU: 
+
+ID: M5652_S0030_G0003_001_resiman
+JP: それに、僕はこの通り体が大きいから……広めに頼むよ。
+EN: Also, as you can see, I'm pretty big, so I'm gonna need plenty of space.
+RU: 
+
+
+-- Section 13
+
+ID: M5652_S0030_G0010_001_resiman
+JP: 実は荷物の整理中に閉じ込められてしまって……
+EN: I got trapped in there while trying to get everything organized.
+RU: 
+
+ID: M5652_S0030_G0020_001_resiman
+JP: 一緒に来た先輩が、あまりにも乱暴に荷物を投げ込むから、\nそれに巻き込まれたんだ。
+EN: My supervisor tore through the place like a tornado and ended up boxing me in.
+RU: 
+
+ID: M5652_S0030_G0030_001_resiman
+JP: 僕、もうあの先輩にはついていけな……
+EN: I tell you what, I just can't keep up with her anym—
+RU: 
+
+ID: M5652_S0030_G0040_001_jackas
+JP: こらああああああっ！！
+EN: Goddammit! THERE you are!
+RU: 
+
+ID: M5652_S0030_G0050_001_jackas
+JP: しばらく見かけないと思ったら、何サボってるんだ！
+EN: I haven't seen you in who the hell knows how long, and now I find you sitting here on your ass!?
+RU: 
+
+ID: M5652_S0030_G0060_001_jackas
+JP: 資材管理のノウハウを君には伝えた筈だぞ？
+EN: And didn't I tell you to keep this place ORGANIZED!?
+RU: 
+
+ID: M5652_S0030_G0070_001_resiman
+JP: ノウハウって言われても、先輩が荷物を乱暴に放り投げるから\n閉じ込められていたんですよ……
+EN: Y-Yes, but you were throwing things all over the place and I got trapped—
+RU: 
+
+ID: M5652_S0030_G0080_001_jackas
+JP: そんなの爆弾で吹き飛ばせばどうにでもなるだろ！？
+EN: If something's in the way, just blow it up! This is NOT freakin' difficult!
+RU: 
+
+ID: M5652_S0030_G0090_001_resiman
+JP: 爆弾なんて持ってませんよ……
+EN: But I...don't have any explosives.
+RU: 
+
+ID: M5652_S0030_G0100_001_jackas
+JP: 爆弾なんてその辺の材料ですぐ作れる。基礎の基礎だ！
+EN: Then build some! I mean, just LOOK at all the crap around here. I could build ten bombs with this.
+RU: 
+
+ID: M5652_S0030_G0110_001_resiman
+JP: そんな訳……
+EN: But there's no way to—
+RU: 
+
+ID: M5652_S0030_G0120_001_jackas
+JP: ソンナ訳もコンナ訳もない！今から爆弾製作の基礎からやり直しだ！
+EN: Wah wah wah! Zip it already! Time to teach you some goddamn bomb-making skills.
+RU: 
+
+ID: M5652_S0030_G0130_001_resiman
+JP: えええっ！？僕は資材管理担当で、そういう乱暴な……
+EN: But I just work in storage! I don't need to know how to make a bo—
+RU: 
+
+ID: M5652_S0030_G0140_001_jackas
+JP: はっはー！資材管理はどんな状況でも突破出来るエキスパートであらねば\nならないのだ！
+EN: Cram it! Even a lowly warehouse man needs to know how to blow things up!
+RU: 
+
+ID: M5652_S0030_G0150_001_jackas
+JP: すまない。出来の悪い後輩が世話になったな。
+EN: ...Sorry my useless subordinate caused you so much trouble.
+RU: 
+
+ID: M5652_S0030_G0160_001_jackas
+JP: これ、お詫びだ。受け取ってくれ。
+EN: You can have this. Not much, I know, but whatever.
+RU: 
+
+ID: M5652_S0030_G0170_001_jackas
+JP: じゃあ……元気でな。
+EN: Anyway, I'll see you later.
+RU: 
+
+
+-- Section 14
+
+ID: M5652_S0030_G0190_001_resiman
+JP: ええっ！そんなあ！？
+EN: All night!? What!?
+RU: 
+
+
+-- Section 15
+
+ID: M5652_S0030_G0180_001_jackas
+JP: 私はこれから、徹夜でコイツに爆弾作りをおしえなきゃならないから。
+EN: Right now I have to spend all night teaching this idiot how to craft a simple bomb.
+RU: 
+
+

@@ -1,0 +1,28 @@
+-- Section 1
+
+ID: M5440_S0020_G0000_001_pod042
+JP: 解析：機械生命体の部品。
+EN: Analysis: This part belongs to a machine lifeform.
+RU: 
+
+ID: M5440_S0000_G0010_300_a2b
+JP: これは……必要ない。
+EN: Hmm... Don't need this.
+RU: 
+
+ID: M5440_S0000_G0020_300_a2
+JP: これは……必要なさそうだな。
+EN: This looks useless.
+RU: 
+
+ID: M5440_S0020_G0050_001_pod153
+JP: 解析：機械生命体の部品。
+EN: Analysis: This part belongs to a machine lifeform.
+RU: 
+
+ID: M5440_S0000_G0030_300_a9s
+JP: これは……必要なさそうですね。
+EN: Doesn't look like I'll need this.
+RU: 
+
+

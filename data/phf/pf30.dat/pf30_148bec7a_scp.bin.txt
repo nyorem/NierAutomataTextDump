@@ -1,0 +1,206 @@
+-- Section 1
+
+ID: M4100_S0010_G0000_300_unknown
+JP: ヨルハ部隊は壊滅した……\nこうして地球はロボット達の楽園と化して行った……
+EN: The YoRHa force was annihilated...\nAnd Earth went on to become a paradise for the machines.
+RU: 
+
+
+-- Section 2
+
+ID: M4100_S0020_G0000_300_unknown
+JP: 超大型兵器を繰り出す機械生命体にヨルハ部隊は劣勢を余儀なくされる。\nヨルハ部隊の壊滅も時間の問題だろう。人類の栄光への道は途絶えた。
+EN: YoRHa could not stand up to the might of the Goliaths; now their extinction is only a matter of time. It seems that mankind will never regain its former glory.
+RU: 
+
+
+-- Section 3
+
+ID: M4100_S0030_G0000_300_unknown
+JP: 「機械生命体に対する興味がもう抑えられないです。独立して好きに研究\nさせてもらいます。」そう言い残して、９Ｓは姿を消した。
+EN: 9S was last heard to say: "I can't control my curiosity about machines anymore. I'm leaving so I can study them as much as I want!" ...He was never heard from again.
+RU: 
+
+
+-- Section 4
+
+ID: M4100_S0040_G0000_300_unknown
+JP: ２Ｂと９Ｓの任務放棄により、廃墟都市、レジスタンスキャンプは大打撃を\n受けた。
+EN: 2B and 9S chose to abandon their mission, allowing the machines to wreak destruction upon the city ruins and Resistance camp.
+RU: 
+
+ID: M4100_S0040_G0010_300_unknown
+JP: ヨルハ部隊の壊滅も時間の問題だろう。
+EN: The extinction of YoRHa is also surely a matter of time.
+RU: 
+
+
+-- Section 5
+
+ID: M4100_S0050_G0000_300_unknown
+JP: ２Ｂが去った後、９Ｓは数十年彼女を待ち続けた。\nしかし、２Ｂが姿を現すことは無かった。
+EN: 9S waited several decades for 2B to return.\n...But she was never seen again.
+RU: 
+
+
+-- Section 6
+
+ID: M4100_S0060_G0000_300_unknown
+JP: 突然癇癪を起こした２Ｂによって機械生命体は全滅。\nアンドロイドとの間に和平が結ばれることはなかった……
+EN: In a sudden fit of temper, 2B wiped out the machine lifeforms, and no peace was born that day.
+RU: 
+
+
+-- Section 7
+
+ID: M4100_S0070_G0000_300_unknown
+JP: 興味を抑えられずアジを食べてしまった。\n直ちに体液の凝固が始まり、全身の筋肉が硬直し始めたのが分かる。
+EN: Having consumed the mackerel, it didn't take long for the android's bodily fluids to congeal. Muscle rigidity and paralysis soon followed.
+RU: 
+
+ID: M4100_S0070_G0010_300_unknown
+JP: ……確かに旨い。人類が食用にしていたのも頷ける。\n薄れゆく意識の中、アンドロイドはそんなことを思っていた。
+EN: "It was good, though," the android thought as consciousness faded. "Exquisite even. No wonder humans used to eat them..."
+RU: 
+
+
+-- Section 8
+
+ID: M4100_S0080_G0000_300_unknown
+JP: 全てに嫌気がさした２Ｂは任務を放棄し、その足で海岸に釣りに行く事に\nした。そうだ、漁師になろう。２Ｂの顔は晴れやかな笑顔になっていた。
+EN: Fed up, 2B left the camp to its fate and decided to...go fishing? Yeah, that's it! Fishing! With a smile on her face, she packed up and headed for the coast.
+RU: 
+
+ID: M4100_S0080_G0010_300_unknown
+JP: 戦場から逃走して１０年。２Ｂは機械生命体とヨルハ暗殺部隊の両方から\n狙われる身となった。だが、彼女はその逃避行を楽しんでいるようだ。
+EN: Ten years later, 2B would find herself hunted by both machine lifeforms and YoRHa assassins—a life she seemed to enjoy more than her previous one.
+RU: 
+
+
+-- Section 9
+
+ID: M4100_S0090_G0000_300_unknown
+JP: Ａ２は急に少しだけ散歩がしたくなった。\n満足した頃には、パスカル村はとっくに滅びていた。
+EN: A2 suddenly felt like taking a little stroll. Though the walk gave her a sense of peace and fulfilment, Pascal's village had been reduced to rubble when she returned.
+RU: 
+
+
+-- Section 10
+
+ID: M4100_S0100_G0000_300_unknown
+JP: 暴走したアンドロイドによって、敵意のない機械生命体の村は全滅した。
+EN: A village of peaceful machines was wiped out through the actions of one deranged android.
+RU: 
+
+ID: M4100_S0100_G0010_300_unknown
+JP: かくして平和的な機械生命体は駆逐された。誰も寄り付かなくなった村の中から、時折アンドロイドの笑い声が聞こえるという。
+EN: Thus did the peaceful machines go extinct. Their village is now a haunted, forbidden place. Those who wander too close can hear the mad sounds of an android's laughter.
+RU: 
+
+
+-- Section 11
+
+ID: M4100_S0110_G0000_300_unknown
+JP: 一部のヨルハ機体が作戦を放棄した。その結果アンドロイド群は崩壊し\n地上は機械生命体の楽園となった。
+EN: Some YoRHa units abandoned their mission, the operation failed, and every android met their demise.
+RU: 
+
+ID: M4100_S0110_G0010_300_unknown
+JP: 逃げたヨルハ機体の行方は今もわからないままだ……
+EN: ...Well, except for the really selfish ones. They were fine.
+RU: 
+
+
+-- Section 12
+
+ID: M4100_S0120_G0000_300_unknown
+JP: ウィルスは２Ｂの中枢神経にまで入り込んでいた。\n理性を失った彼女は動力の無くなるまで廃墟をさまよい続けた。
+EN: The virus reached 2B's central nervous system. She soon lost all sense of reason, and ended up roaming the ruins until her power failed.
+RU: 
+
+
+-- Section 13
+
+ID: M4100_S0130_G0000_300_unknown
+JP: ９Ｓは急に２Ｂへの興味を失った。\n理由は分からないが、とにかく全てに興味を失ったのだ。
+EN: 9S suddenly lost interest in 2B. No one knows why—he just didn't care anymore.
+RU: 
+
+
+-- Section 14
+
+ID: M4100_S0140_G0000_300_unknown
+JP: 何かを思いついたＡ２は、突然機械生命体を破壊し始めた。\nパスカルは唖然としてその姿を見ていた。
+EN: A2 had a "bright" idea that involved destroying every machine in sight. Pascal could only watch in astonishment.
+RU: 
+
+
+-- Section 15
+
+ID: M4100_S0150_G0000_300_unknown
+JP: 奮闘するデボル・ポポルを残して９Ｓは立ち去った。\nもちろん、デボル・ポポルは死んだ。
+EN: Of course, Devola and Popola died. Their lifeless bodies were found shortly thereafter, each clutched tightly in the other's arms.
+RU: 
+
+
+-- Section 16
+
+ID: M4100_S0160_G0000_300_unknown
+JP: 【危険】【取扱注意】\nＯＳチップは決して外してはいけません。外すと死亡します。
+EN: Caution: Handle With Care!\nRemoval of the OS chip will result in death.
+RU: 
+
+
+-- Section 17
+
+ID: M4100_S0170_G0000_300_unknown
+JP: バンカーで自爆した。連鎖的な爆発によりバンカーは崩壊。\n落下する姿はまるで流れ星のようだったと言われている。
+EN: By self-destructing at the Bunker, the entire structure ended up exploding in a spectacular fashion. But hey, it sure did look pretty from Earth!
+RU: 
+
+ID: M4100_S0170_G0010_300_unknown
+JP: バンカーでの自爆決行。宇宙空間に放り出された司令官が鬼の形相で\n虚空を見つめていた……
+EN: Somewhere in the depths of space, the Commander still floats about with a stern look on her face.
+RU: 
+
+
+-- Section 18
+
+ID: M4100_S0180_G0000_300_unknown
+JP: なぜか９Ｓは塔へのハッキングを中止し、戦うデボル・ポポルを\n応援し始めた。当然だが、結局、数に押し切られ３人は圧殺された。
+EN: 9S decided not to hack the Tower in order to help Devola and Popola. It was a nice thought, but they all ended up getting killed anyway.
+RU: 
+
+
+-- Section 19
+
+ID: M4100_S0010_G0000_300_unknown
+JP: ヨルハ部隊は壊滅した……\nこうして地球はロボット達の楽園と化して行った……
+EN: The YoRHa force was annihilated...\nAnd Earth went on to become a paradise for the machines.
+RU: 
+
+
+-- Section 20
+
+ID: M4100_S0200_G0000_300_unknown
+JP: Ａ２は急に少しだけ散歩がしたくなった。\n満足した頃には、２Ｂは機械生命体にかじり尽くされて無くなっていた。
+EN: A2 suddenly felt like taking a little stroll. And though the walk gave her a sense of peace and fulfilment, 2B's body had been consumed by machines when she returned.
+RU: 
+
+
+-- Section 21
+
+ID: M4100_S0210_G0000_300_unknown
+JP: 暴走したエミール達が融合炉を暴走させた。\nこの地球はもはや生物の住める星ではなくなってしまった。
+EN: The Emils caused their fusion reactors to go out of control, turning the planet into a dead chunk of rock, tumbling through the vast vacuum of an uncaring universe.
+RU: 
+
+
+-- Section 22
+
+ID: M4100_S0220_G0000_300_unknown
+JP: Ａ２はパスカルを破壊した。その後、パスカルが死んだことにより機械生命体の村が崩壊・暴走を起こし、地上のアンドロイドは全滅することになる。
+EN: A2 destroyed Pascal. Pascal's death lead to the collapse of his village and its residents going out of control, resulting in the elimination of all androids on Earth.
+RU: 
+
+

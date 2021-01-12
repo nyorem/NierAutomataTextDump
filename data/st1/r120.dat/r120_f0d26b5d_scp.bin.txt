@@ -1,0 +1,8 @@
+-- Section 1
+
+ID: M0010_S0220_G0000_300_pod042
+JP: 解析：このエレベーターはプロテクトされている為使用不可能。
+EN: Analysis: This elevator's controls are locked and cannot be used.
+RU: 
+
+

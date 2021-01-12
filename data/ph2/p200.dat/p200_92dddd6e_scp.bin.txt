@@ -1,0 +1,26 @@
+-- Section 1
+
+ID: M1040_S0550_G0070_001_a9s
+JP: 機械生命体達の残骸が……
+EN: Look at all these dead machines...
+RU: 
+
+ID: M1040_S0550_G0080_001_a9s
+JP: でもこれ、随分昔からここにあるような感じですね。
+EN: Seems like they've been here for a long time.
+RU: 
+
+
+-- Section 2
+
+ID: M1040_S0550_G0090_001_a2b
+JP: この場所は……
+EN: What is this place?
+RU: 
+
+ID: M1040_S0550_G0100_001_a9s
+JP: データベースに該当する情報はありませんね。
+EN: I don't know. There's nothing like it in the database.
+RU: 
+
+

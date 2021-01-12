@@ -1,0 +1,120 @@
+-- Section 1
+
+ID: M0010_S0110_G0000_300_robo
+JP: ……チャン……
+EN: ...other...
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0110_G0010_300_robo
+JP: ニイ……チャン……
+EN: Bro...ther...
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0110_G0000_201_robo
+JP: ニイチャン……ニイチャン……
+EN: Brother... Brother...
+RU: 
+
+
+-- Section 4
+
+ID: M0010_S0110_G0000_201_robo
+JP: ニイチャン……ニイチャン……
+EN: Brother... Brother...
+RU: 
+
+
+-- Section 5
+
+ID: M0010_S0110_G0020_300_robo
+JP: ニイチャン……ウゴイテ……
+EN: Brother... Please start moving...
+RU: 
+
+
+-- Section 6
+
+ID: M0010_S0110_G0010_201_robo
+JP: ニイチャン……
+EN: Brother...
+RU: 
+
+
+-- Section 7
+
+ID: M0010_S0110_G0030_300_robo
+JP: ニイチャン、マッテテ……
+EN: Brother, wait a minute...
+RU: 
+
+
+-- Section 8
+
+ID: M0010_S0110_G0010_201_robo
+JP: ニイチャン……
+EN: Brother...
+RU: 
+
+
+-- Section 9
+
+ID: M0010_S0110_G0040_300_robo
+JP: コレアゲレバ、ニイチャンウゴク。\nナニカ、イレモノイル……
+EN: If I give my brother this, he'll move again. I need a container...
+RU: 
+
+
+-- Section 10
+
+ID: M0010_S0110_G0050_300_robo
+JP: コレツカエル！
+EN: I can use this!
+RU: 
+
+
+-- Section 11
+
+ID: M0010_S0110_G0060_300_robo
+JP: ニイチャン、モウダイジョウブ！
+EN: It will be okay now, Brother!
+RU: 
+
+
+-- Section 12
+
+ID: M0010_S0110_G0000_201_robo
+JP: ニイチャン……ニイチャン……
+EN: Brother... Brother...
+RU: 
+
+
+-- Section 13
+
+ID: M0010_S0110_G0070_300_robo
+JP: アトスコシ……
+EN: Just a little more...
+RU: 
+
+
+-- Section 14
+
+ID: M0010_S0110_G0080_300_robo
+JP: ウウ…………ニイチャン……
+EN: Nnnhh... Brother...
+RU: 
+
+
+-- Section 15
+
+ID: M0010_S0110_G0090_300_robo
+JP: ウウ…………コロンジャダメ……
+EN: Oooh... Do not trip...
+RU: 
+
+

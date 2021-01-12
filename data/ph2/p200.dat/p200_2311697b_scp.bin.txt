@@ -1,0 +1,64 @@
+-- Section 1
+
+ID: M1090_S0260_G0000_001_eve
+JP: どうしてニイチゃんを殺しタッ！！
+EN: Why did you kill my brother!?
+RU: 
+
+ID: M1090_S0260_G0010_001_eve
+JP: 
+EN: 
+RU: 
+
+ID: M1090_S0260_G0020_001_eve
+JP: 俺は……オれはッッ！！
+EN: I... I...!
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0260_G0030_001_pod042
+JP: 膨大なエネルギー反応を確認。
+EN: Alert: Massive energy signature detected.
+RU: 
+
+ID: M1090_S0260_G0040_001_a9s
+JP: 何それ！？
+EN: What is it?
+RU: 
+
+ID: M1090_S0260_G0050_001_pod042
+JP: 多数の機械生命体からのエネルギー供給と推測。
+EN: The energy seems to be coming from a large number of linked machine lifeforms.
+RU: 
+
+ID: M1090_S0260_G0060_001_a2b
+JP: ネットワーク経由で、廻りの奴らのエネルギーを吸ってるのか……
+EN: He's absorbing the lifeforce of whatever's left on the network.
+RU: 
+
+
+-- Section 3
+
+ID: M1090_S0260_G0070_001_a9s
+JP: このままじゃ埒が明かない！
+EN: Damn it! We'll never get anywhere like this.
+RU: 
+
+ID: M1090_S0260_G0080_001_a9s
+JP: イヴにハッキングして停止させてみる！
+EN: I'm going to try hacking into Eve and shutting him down!
+RU: 
+
+ID: M1090_S0260_G0090_001_a9s
+JP: ２Ｂ！援護して！
+EN: Back me up, 2B!
+RU: 
+
+ID: M1090_S0260_G0100_001_a2b
+JP: 了解！
+EN: On it.
+RU: 
+
+

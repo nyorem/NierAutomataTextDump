@@ -1,0 +1,23 @@
+-- Section 1
+
+ID: M5920_S0170_G0000_001_jackas
+JP: あっ、そうだ。魚を渡さなきゃね。
+EN: Oh yeah, I still have to give you that stupid fish.
+RU: 
+
+ID: M5920_S0170_G0010_001_jackas
+JP: この「アジ」って魚なんだけど、食べるとアンドロイドの身体にもの凄く\n悪い影響があるらしいんだ。
+EN: So this thing is called a "mackerel" and apparently eating it has a horrible effect on androids.
+RU: 
+
+ID: M5920_S0170_G0020_001_jackas
+JP: 興味深いので、是非食べてみて欲しい。
+EN: I'd love to see what it does, so go ahead and chow down.
+RU: 
+
+ID: M5920_S0170_G0030_001_jackas
+JP: 死ぬかもしれないけど。
+EN: Don't blame me if you die though.
+RU: 
+
+

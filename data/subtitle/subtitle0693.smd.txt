@@ -1,0 +1,130 @@
+ID: M1090_S2000_H0000_001_a9s
+JP: お願い……２Ｂ。僕は……
+EN: Please, 2B... I want you...
+RU: 
+
+ID: M1090_S2000_H0010_001_a9s
+JP: 君の……手で……
+EN: to do this...for me...
+RU: 
+
+ID: M1090_S2000_H0020_001_a2b
+JP:  
+EN:  
+RU: 
+
+ID: M1090_S2000_H0030_001_a2b
+JP: ……いつも……こんな……
+EN: It always...ends like this...
+RU: 
+
+ID: M1090_S2000_H0040_001_a2b
+JP: まだ……残ってるのか……
+EN: There's still...some alive...?
+RU: 
+
+ID: M1090_S2000_H0050_001_a2b
+JP: こんな……機械……ッ
+EN: Goddamned machines!
+RU: 
+
+ID: M1090_S2000_H0060_001_a2b
+JP: ……これは……通信……？
+EN: Is this...a message?
+RU: 
+
+ID: M1090_S2000_H0070_001_a2b
+JP: データ信号が……共鳴しあって……
+EN: The data transmissions... They're resonating with each other...
+RU: 
+
+ID: M1090_S2000_H0080_001_a9s
+JP:  
+EN:  
+RU: 
+
+ID: M1090_S2000_H0090_001_a9s
+JP: ちょ、ちょっと待って！２Ｂ！！
+EN: Wait a second! 2B!
+RU: 
+
+ID: M1090_S2000_H0100_001_a2b
+JP: ……君は……
+EN: Who are...?
+RU: 
+
+ID: M1090_S2000_H0110_001_a9s
+JP: 僕、パーソナルデータを機械生命体側に残していたみたいで。
+EN: It looks like I left my personal data in the machine side of things.
+RU: 
+
+ID: M1090_S2000_H0120_001_a9s
+JP: なんか気づいたら周囲のネットワークの上で自我が再形成されたんだ。
+EN: Next thing I knew, my sense of self was regenerated over the surrounding network.
+RU: 
+
+ID: M1090_S2000_H0130_001_a9s
+JP: こうやって複数の自我が統合されていくのは貴重な体験だから記録しておきたいんだけど、まだ保存領域へのアクセスが出来てなくて、とりあえずこのあ
+EN: Having multiple selves fuse together like this is a pretty valuable experience, so I wanted to record it—but I couldn't access any storage areas yet, so I just multi
+RU: 
+
+ID: M1090_S2000_H0140_001_a9s
+JP: たりにある敵のメモリーに多重化して保存しておいた後に、僕が自分のボディに戻れた時に……
+EN: plexed it over the memories of some nearby enemies, so that when I returned to my own body, I—
+RU: 
+
+ID: M1090_S2000_H0150_001_a2b
+JP: ９Ｓ……
+EN: 9S...
+RU: 
+
+ID: M1090_S2000_H0160_001_a2b
+JP: よかった……
+EN: I'm glad you're okay...
+RU: 
+
+ID: M1090_S2000_H0170_001_a9s
+JP: ……うん。
+EN: ...Yeah.
+RU: 
+
+ID: M1090_S2000_H0180_001_a9s
+JP: こうやって、アダムとイヴを巡る最後の戦いは終わった。
+EN: And so, the final battle with Adam and Eve came to an end.
+RU: 
+
+ID: M1090_S2000_H0190_001_a2b
+JP: 機械生命体と私達アンドロイドを分かつモノは何だろうか。
+EN: What is it that separates machines from androids like us?
+RU: 
+
+ID: M1090_S2000_H0200_001_a9s
+JP: この戦いは戦局に大きな影響をもたらすだろう。
+EN: This battle will likely have a great effect on the outcome of the war.
+RU: 
+
+ID: M1090_S2000_H0210_001_a2b
+JP: 意思と感情を持つに至ったロボット達。
+EN: The machines have gained emotions. \n...Consciousness.
+RU: 
+
+ID: M1090_S2000_H0220_001_a9s
+JP: 僕と２Ｂの戦いもこのあとまだしばらく続くんだけど……
+EN: 2B and I—our battle will continue for some time to come.
+RU: 
+
+ID: M1090_S2000_H0230_001_a2b
+JP: 彼等が死の間際に振り絞る、最後の叫びが
+EN: The final screams they summoned on the edge of death...
+RU: 
+
+ID: M1090_S2000_H0240_001_a9s
+JP: それはまた、別の話。
+EN: But that's another story for another day.
+RU: 
+
+ID: M1090_S2000_H0250_001_a2b
+JP: 今もまだ、私の中に残っている。
+EN: They still echo within me.
+RU: 
+

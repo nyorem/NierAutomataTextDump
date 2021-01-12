@@ -1,0 +1,92 @@
+-- Section 1
+
+ID: M6010_S0110_G0010_300_pod042
+JP: 休憩しますか？
+EN: Do you want to take a break?
+RU: 
+
+ID: M6010_S0110_G0020_300_pod153
+JP: 休憩しますか？
+EN: Do you want to take a break?
+RU: 
+
+ID: M6010_S0110_G0030_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M6010_S0110_G0040_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0110_G0050_300_pod042
+JP: セーブしますか？
+EN: Do you want to save?
+RU: 
+
+ID: M6010_S0110_G0060_300_pod153
+JP: セーブしますか？
+EN: Do you want to save?
+RU: 
+
+ID: M6010_S0110_G0070_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M6010_S0110_G0080_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0110_G0090_300_pod042
+JP: ゲームをつづけますか？
+EN: Do you want to continue the game?
+RU: 
+
+ID: M6010_S0110_G0100_300_pod153
+JP: ゲームをつづけますか？
+EN: Do you want to continue the game?
+RU: 
+
+ID: M6010_S0110_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M6010_S0110_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0110_G0090_300_pod042
+JP: ゲームをつづけますか？
+EN: Do you want to continue the game?
+RU: 
+
+ID: M6010_S0110_G0100_300_pod153
+JP: ゲームをつづけますか？
+EN: Do you want to continue the game?
+RU: 
+
+ID: M6010_S0110_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M6010_S0110_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+

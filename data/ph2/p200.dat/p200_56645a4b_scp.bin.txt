@@ -1,0 +1,29 @@
+-- Section 1
+
+ID: M1080_S0080_G0120_201_a9s
+JP: ２Ｂ！そのまま、まっすぐ進んでください！
+EN: 2B! Keep going straight!
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0080_G0130_201_a2b
+JP: 了解。
+EN: Will do.
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0080_G0150_201_a9s
+JP: ゲートのロックを解除しました！先に進んでください！
+EN: The door's open! Keep moving!
+RU: 
+
+ID: M1080_S0080_G0160_201_a2b
+JP: わかった！
+EN: All right.
+RU: 
+
+

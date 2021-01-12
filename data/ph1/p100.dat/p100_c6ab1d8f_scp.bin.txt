@@ -1,0 +1,85 @@
+-- Section 1
+
+ID: M0010_S0010_G0100_101_a1d
+JP: ７Ｅロスト。
+EN: 7E down.
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0010_G0110_101_a2b
+JP: ……１Ｄロスト。規定により当機２Ｂが隊長任務を継承。
+EN: 1D down. Assuming captain's duties.
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0010_G0120_101_a2b
+JP: 周囲に敵機多数確認。機動形態への許可を申請。
+EN: Multiple surrounding enemy air units confirmed.\nRequesting permission to assume mobile configuration.
+RU: 
+
+ID: M0010_S0010_G0130_101_op60
+JP: 機動形態への移行を許可します
+EN: Permission granted.
+RU: 
+
+
+-- Section 4
+
+ID: M0010_S0010_G0140_101_a4b
+JP: 隊長……私……
+EN: Captain, I think—
+RU: 
+
+ID: M0010_S0010_G0150_101_a2b
+JP: ……４Ｂ、ロスト。
+EN: ...4B down.
+RU: 
+
+ID: M0010_S0010_G0160_101_a2b
+JP: ２Ｂよりオペレーター６Ｏ。
+EN: 2B to Operator 6O.
+RU: 
+
+ID: M0010_S0010_G0170_101_a2b
+JP: 当機以外の機体は全てロストした。
+EN: All allied units down.
+RU: 
+
+ID: M0010_S0010_G0180_101_a2b
+JP: 作戦の遂行に支障が予想される。指示を請う。
+EN: The operation is compromised. Awaiting further orders.
+RU: 
+
+ID: M0010_S0010_G0190_101_op60
+JP: オ、オペレーターより２Ｂ。
+EN: O-Operator to 2B.
+RU: 
+
+ID: M0010_S0010_G0200_101_op60
+JP: 現地担当の９Ｓと合流し、地形情報を入手してください。
+EN: We need you to rendezvous with unit 9S and begin gathering data on the local terrain.
+RU: 
+
+ID: M0010_S0010_G0210_101_a2b
+JP: 了解。
+EN: Understood.
+RU: 
+
+
+-- Section 5
+
+ID: M0010_S0010_G0080_101_a2b
+JP: 火器使用を申請。
+EN: Requesting permission to engage.
+RU: 
+
+ID: M0010_S0010_G0090_101_op60
+JP: 火器使用の許可をします。
+EN: Permission granted!
+RU: 
+
+

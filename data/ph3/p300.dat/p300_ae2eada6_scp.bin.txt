@@ -1,0 +1,136 @@
+-- Section 1
+
+ID: M6010_S0090_G0000_300_cmd
+JP: ９Sにはもう会ったのか？\n奴は自室で待っているとのことだ。
+EN: Have you met with 9S yet? He's waiting in his room.
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0090_G0010_300_cmd
+JP: ９Ｓは自室で待っている。\n行ってやれ。
+EN: 9S is waiting in his room. You should go see him.
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0100_G0000_300_cmd
+JP: これが最後の作戦になるかもしれない。\n……頼んだぞ。
+EN: This could be the final mission. I'm depending on you.
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0100_G0010_300_cmd
+JP: 格納庫から出撃してくれ。\n健闘を祈る。
+EN: Head out from the hangar.\n...And good luck.
+RU: 
+
+
+-- Section 5
+
+ID: M6010_S0090_G0020_300_op60
+JP: 何とかイヴを倒せましたね！とりあえず一安心です！
+EN: I don't know how you managed to beat Eve, but you did!  Now go take a nap or something. You totally earned it!
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0090_G0030_300_op60
+JP: 私、２Ｂさんと組めて本当に良かったと思います！\nこれからも一緒に頑張っていきましょうね！
+EN: I'm so glad I got to work with you, 2B! Here's to many more successful missions!
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0100_G0020_300_op60
+JP: かなりの激戦が予想されます。\n気をつけてくださいね……
+EN: We're expecting a fierce battle. Please be careful!
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0100_G0030_300_op60
+JP: 死んじゃ、嫌ですからね！
+EN: I...I don't want you to die!
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0090_G0040_300_op210
+JP: ９Ｓをサポートして頂き、感謝致します。\n今後とも、９Sを宜しくお願い致します。
+EN: Thank you for supporting 9S. Please continue to look after him.
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0090_G0050_300_op210
+JP: そういえば、９Ｓにはもう会いましたか？\n９Ｓは自室で待っているはずです。
+EN: Actually, have you spoken with 9S yet? He's waiting in his room.
+RU: 
+
+
+-- Section 11
+
+ID: M6010_S0100_G0040_300_op210
+JP: ９Ｓは先行して作戦を開始しています。\n今は順調です。
+EN: 9S has gone ahead and started the mission. Everything is proceeding well at the moment.
+RU: 
+
+
+-- Section 12
+
+ID: M6010_S0100_G0050_300_op210
+JP: 現地で合流して彼を支援してあげて下さい。
+EN: Join up with him on-site and lend support however you can.
+RU: 
+
+
+-- Section 13
+
+ID: M6010_S0090_G0720_300_bs
+JP: さぞ、ボロボロにしたんでしょう？見せて下さい。
+EN: You seem a bit worn down. Let me take a look.
+RU: 
+
+
+-- Section 14
+
+ID: M6010_S0090_G0730_300_bs
+JP: どこをメンテナンスしますか？
+EN: Need any maintenance?
+RU: 
+
+
+-- Section 15
+
+ID: M6010_S0090_G0740_300_bs
+JP: 料金はまけられないけど、\n２Ｂ・９Ｓなら特別チューンしてあげますよ。
+EN: Afraid I can't even give heroes a discount, but I can probably arrange a special bit of tuning if you'd like.
+RU: 
+
+
+-- Section 16
+
+ID: M6010_S0100_G0620_300_bs
+JP: 最終メンテナンスですか？
+EN: Need some last-minute maintenance?
+RU: 
+
+
+-- Section 17
+
+ID: M6010_S0100_G0630_300_bs
+JP: ご武運を。
+EN: Good luck.
+RU: 
+
+

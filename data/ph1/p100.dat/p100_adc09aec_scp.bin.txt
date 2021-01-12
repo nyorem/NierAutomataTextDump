@@ -1,0 +1,56 @@
+-- Section 1
+
+ID: M1030_S0400_G0250_001_a2b
+JP: あれは……？
+EN: What's that?
+RU: 
+
+ID: M1030_S0400_G0260_001_a9s
+JP: ああ、２Ｂは見たことなかったんですね。
+EN: Oh, right. You wouldn't have seen that before.
+RU: 
+
+ID: M1030_S0400_G0270_001_a9s
+JP: あれは地上からバンカーや月面の人類基地に向けて\n資材を打ち上げているんです。
+EN: They're sending supplies up from Earth to the moon and the Bunker.
+RU: 
+
+ID: M1030_S0400_G0280_001_a9s
+JP: 宇宙空間では資材も燃料もありませんから。
+EN: There are no spare parts or fuel in space, after all.
+RU: 
+
+ID: M1030_S0400_G0290_001_a2b
+JP: なるほど。
+EN: Huh.
+RU: 
+
+
+-- Section 2
+
+ID: M1030_S0400_G0300_001_a2b
+JP: ……どうして機械生命体や、それを作った宇宙人は\nバンカーを直接攻撃しないんだろう。
+EN: So why don't the machines—or the aliens who created them—attack the Bunker directly?
+RU: 
+
+ID: M1030_S0400_G0310_001_a2b
+JP: 元々、宇宙から来てる筈なのに……
+EN: They originally came here from outer space, right?
+RU: 
+
+ID: M1030_S0400_G0320_001_a9s
+JP: その原因については色んな議論がされているんですけど、
+EN: Well, there are a few theories about that...
+RU: 
+
+ID: M1030_S0400_G0330_001_a9s
+JP: 結論は出てないんですよね。
+EN: But no one knows for sure.
+RU: 
+
+ID: M1030_S0400_G0340_001_a9s
+JP: 宇宙人の考える事は、よく判らないです。
+EN: Hard to tell what an alien is thinking, you know?
+RU: 
+
+

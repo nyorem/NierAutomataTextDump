@@ -1,0 +1,349 @@
+-- Section 1
+
+ID: M5071_S0010_G0000_001_n02
+JP: コマッタ……コマッタ……
+EN: OH NO... OH NO...
+RU: 
+
+ID: M5071_S0010_G0010_001_a2b
+JP: どうした？
+EN: What is it?
+RU: 
+
+ID: M5071_S0010_G0020_001_n02
+JP: ホゴシテイタ、シカガ、ビョウキニナッチャッテ……
+EN: A MOOSE I HAVE BEEN CARING FOR HAS FALLEN ILL.
+RU: 
+
+
+-- Section 2
+
+ID: M5071_S0010_G0030_001_n02
+JP: デモ、ドウヤッテ修理シタライイノカ、ワカラナインダ
+EN: I DO NOT KNOW HOW TO REPAIR IT.
+RU: 
+
+ID: M5071_S0010_G0040_001_a9s
+JP: 動物は機械みたいに修理したりはしないよ。
+EN: You don't "repair" animals like you do a machine.
+RU: 
+
+ID: M5071_S0010_G0050_001_a9s
+JP: 病気を治すには薬を投与するのが一般的だね。
+EN: But if it's sick, you should try giving it some medicine.
+RU: 
+
+ID: M5071_S0010_G0060_001_n02
+JP: クスリ……ヨクワカラナイ……
+EN: MEDI...CINE? I AM NOT FAMILIAR WITH THIS CONCEPT.
+RU: 
+
+ID: M5071_S0010_G0070_001_a9s
+JP: ああ、見たこと無いんだ。
+EN: Yeah, I suppose you wouldn't be.
+RU: 
+
+ID: M5071_S0010_G0080_001_a9s
+JP: 実物を見せるのが早いな。ちょっと待ってて。持ってくるよ。
+EN: It'll probably be easiest to just bring you some. Try to hang on until then, all right?
+RU: 
+
+
+-- Section 3
+
+ID: M5071_S0010_G0000_001_n02
+JP: コマッタ……コマッタ……
+EN: OH NO... OH NO...
+RU: 
+
+ID: M5071_S0010_G0060_001_n02
+JP: クスリ……ヨクワカラナイ……
+EN: MEDI...CINE? I AM NOT FAMILIAR WITH THIS CONCEPT.
+RU: 
+
+
+-- Section 4
+
+ID: M5071_S0010_G0090_001_a2b
+JP: 動物用の薬……ってどこで手に入れるの？
+EN: So we're vets now? That's new.
+RU: 
+
+ID: M5071_S0010_G0100_001_a2b
+JP: 私達アンドロイドは薬なんか使わない。
+EN: I assume you have at least some idea where to start looking for animal medication?
+RU: 
+
+ID: M5071_S0010_G0110_001_a9s
+JP: 人間が使用していたレシピを集めて再現すれば……
+EN: We'll probably need to recreate old human recipes.
+RU: 
+
+ID: M5071_S0010_G0120_001_a9s
+JP: ……商業施設の廃墟に、その情報が\n残っているかもしれません。
+EN: We should be able to find something in the commercial facility ruins.
+RU: 
+
+
+-- Section 5
+
+ID: M5071_S0020_G0000_001_a2b
+JP: これは……
+EN: What's this?
+RU: 
+
+ID: M5071_S0020_G0010_001_pod042
+JP: 一般的名称は歯ブラシ。人間が歯を磨く時に使う。
+EN: Analysis: That is a hygienic tool known as a "toothbrush."
+RU: 
+
+ID: M5071_S0020_G0020_001_pod042
+JP: 効果は虫歯の予防。
+EN: Humans moved it back and forth across the teeth at a rapid rate to reduce the probability of cavities.
+RU: 
+
+ID: M5071_S0020_G0030_001_a2b
+JP: 虫歯？歯の中に虫がいるの？
+EN: Cavities? As in caves?
+RU: 
+
+ID: M5071_S0020_G0040_001_pod042
+JP: 虫歯とは酸によって歯のエナメル質が溶かされる事によって発生し……
+EN: Cavities are bits of decayed enamel caused by acids in the mouth. The cave analogy is not altogether inaccurate.
+RU: 
+
+ID: M5071_S0020_G0050_001_a9s
+JP: どちらにせよ、僕達には関係なさそうですね。
+EN: Hmm. Well, it's got nothing to do with us.
+RU: 
+
+
+-- Section 6
+
+ID: M5071_S0020_G0060_001_a2b
+JP: これは……？
+EN: Never seen this before.
+RU: 
+
+ID: M5071_S0020_G0070_001_pod042
+JP: 一般名称は口紅。人間は自分を美しく装う為に唇に紅を塗った。
+EN: Analysis: That is a waxy solid known as "lipstick." Humans applied it to their lips in order to appear more attractive.
+RU: 
+
+ID: M5071_S0020_G0080_001_a2b
+JP: こんなものを塗る？口に？
+EN: How odd.
+RU: 
+
+ID: M5071_S0020_G0090_001_pod042
+JP: 提案：試験的に使用する事による経験値の向上。
+EN: Proposal: Applying it to your own lips might lead to a further understanding of human customs.
+RU: 
+
+ID: M5071_S0020_G0100_001_a2b
+JP: 却下。
+EN: No thanks.
+RU: 
+
+
+-- Section 7
+
+ID: M5071_S0020_G0110_001_a2b
+JP: これはまた……奇妙だな。
+EN: Here's something else.
+RU: 
+
+ID: M5071_S0020_G0120_001_pod042
+JP: 一般名称はダイエットグッズ。
+EN: Analysis: That is a form of sustenance known as "extreme weight-loss superfood."
+RU: 
+
+ID: M5071_S0020_G0130_001_pod042
+JP: 人間が己の脂肪を減らす為に使用した。
+EN: Humans consumed it in place of more traditional edibles in order to reduce body mass.
+RU: 
+
+ID: M5071_S0020_G0140_001_a2b
+JP: 脂肪……は勝手に増えるの？
+EN: Why would they want to do that?
+RU: 
+
+ID: M5071_S0020_G0150_001_pod042
+JP: 必要以上のエネルギーを長期に渡って摂取すると、
+EN: Humans often took in more energy than they expended.
+RU: 
+
+ID: M5071_S0020_G0160_001_pod042
+JP: 脂肪が蓄積され体重が増加し、行動に影響を及ぼす。
+EN: Accumulated calories were converted to fat and stored, decreasing physical capabilities.
+RU: 
+
+ID: M5071_S0020_G0170_001_a9s
+JP: 人間って不便だったんだね……
+EN: Man, humans had it rough...
+RU: 
+
+
+-- Section 8
+
+ID: M5071_S0020_G0180_001_a2b
+JP: これは何？
+EN: Pod, what's this?
+RU: 
+
+ID: M5071_S0020_G0190_001_pod042
+JP: 一般名称は筆記用具。物事を記録する為の道具。
+EN: Analysis: It is a writing implement. Humans used it to record information.
+RU: 
+
+ID: M5071_S0020_G0200_001_pod042
+JP: 新人はメモ必須。
+EN: Many humans also believed pens were mightier than swords.
+RU: 
+
+ID: M5071_S0020_G0210_001_a2b
+JP: 新人？メモ？
+EN: That's insane.
+RU: 
+
+ID: M5071_S0020_G0220_001_pod042
+JP: 文献にあった言葉。意味は不明。
+EN: It was a common human idiom. Meaning unclear.
+RU: 
+
+
+-- Section 9
+
+ID: M5071_S0020_G0230_001_pod042
+JP: 生物用の薬学書を発見。
+EN: Alert: Organic pharmacology textbook discovered.
+RU: 
+
+ID: M5071_S0020_G0240_001_pod042
+JP: 同じ哺乳類のシカ科にも有効。
+EN: The data contained within should prove effective for ungulates such as moose.
+RU: 
+
+ID: M5071_S0020_G0250_001_pod042
+JP: 本書籍に記載されている消炎鎮痛剤が該当のシカの病気に……
+EN: Page 278 contains a recipe for an anti-inflammation analgesic which has a high probability of—
+RU: 
+
+ID: M5071_S0020_G0260_001_a9s
+JP: ちょちょちょ、ちょっと待って。
+EN: Whoa whoa whoa! Hold on.
+RU: 
+
+ID: M5071_S0020_G0270_001_a9s
+JP: ……なんでそれ、読んでもないのに知ってるの？
+EN: We haven't even cracked this thing open yet! How do you know what's in it?
+RU: 
+
+ID: M5071_S0020_G0280_001_pod042
+JP: データベースにアクセスし、当該書籍の内容を確認。
+EN: The contents of this book are contained in my internal database.
+RU: 
+
+ID: M5071_S0020_G0290_001_a9s
+JP: 先に言ってよ！
+EN: WHAT!? Why didn't you tell us that when we first started looking for it!?
+RU: 
+
+ID: M5071_S0020_G0300_001_pod042
+JP: 否定：本案件に対する質問はなされていない。
+EN: A request for information was not submitted.
+RU: 
+
+ID: M5071_S0020_G0310_001_a9s
+JP: ……なんていう、無駄足。
+EN: Well, this has been a glorious waste of time.
+RU: 
+
+ID: M5071_S0020_G0320_001_a2b
+JP: とりあえず、戻ってあの機械生命体に渡そう。
+EN: Let's just make the medicine and get it back to that machine.
+RU: 
+
+
+-- Section 10
+
+ID: M5071_S0030_G0000_001_n02
+JP: クスリ！
+EN: MEDICINE!
+RU: 
+
+ID: M5071_S0030_G0010_001_n02
+JP: アリガトウ！サッソクツカッテミルヨ！
+EN: THANK YOU. I WILL ADMINISTER IT IMMEDIATELY.
+RU: 
+
+
+-- Section 11
+
+ID: M5071_S0030_G0020_001_n02
+JP: ……クスリガキイタミタイダ。イマハネムッテイル。
+EN: ...THE MEDICINE SEEMS TO HAVE WORKED. SHE IS SLEEPING SOUNDLY.
+RU: 
+
+ID: M5071_S0030_G0030_001_a2b
+JP: そう、良かった。
+EN: Good to hear.
+RU: 
+
+ID: M5071_S0030_G0040_001_n02
+JP: ドウブツハ、フシギダヨネ。
+EN: ANIMALS ARE STRANGE CREATURES.
+RU: 
+
+ID: M5071_S0030_G0050_001_n02
+JP: ボクタチトハチガッテ、カンタンニシュウリデキナイ。
+EN: UNLIKE US, THEY CANNOT BE EASILY REPAIRED.
+RU: 
+
+ID: M5071_S0030_G0060_001_n02
+JP: コンナフベンナカラダジャ、カワイソウダ。
+EN: IT MUST BE DIFFICULT TO POSSESS SUCH INCONVENIENT BODIES.
+RU: 
+
+ID: M5071_S0030_G0070_001_n02
+JP: デモ……
+EN: HOWEVER...
+RU: 
+
+ID: M5071_S0030_G0080_001_n02
+JP: ソノカワリ、ボクタチトチガッテアタタカイ。
+EN: UNLIKE US, THEY ARE ALSO WARM.
+RU: 
+
+ID: M5071_S0030_G0090_001_a2b
+JP: ……そうだな。
+EN: So I've heard.
+RU: 
+
+ID: M5071_S0030_G0100_001_n02
+JP: ソウダ！
+EN: BEFORE I FORGET.
+RU: 
+
+ID: M5071_S0030_G0110_001_n02
+JP: クスリノオレイヲシナキャ！コレモッテイッテ。
+EN: PLEASE TAKE THIS AS PAYMENT FOR THE MEDICINE.
+RU: 
+
+
+-- Section 12
+
+ID: M5071_S0030_G0120_001_n02
+JP: マタキテネ！ミンナマッテルヨ。
+EN: COME AGAIN. WE WILL BE WAITING.
+RU: 
+
+
+-- Section 13
+
+ID: M5071_S0030_G0120_001_n02
+JP: マタキテネ！ミンナマッテルヨ。
+EN: COME AGAIN. WE WILL BE WAITING.
+RU: 
+
+

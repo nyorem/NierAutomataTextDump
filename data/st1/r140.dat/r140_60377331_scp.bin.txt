@@ -1,0 +1,120 @@
+-- Section 1
+
+ID: M6050_S0010_G0020_300_villager
+JP: 私たちは敵じゃナイ。
+EN: We are not your enemy.
+RU: 
+
+
+-- Section 2
+
+ID: M6050_S0010_G0030_300_villager
+JP: 私タチは争いを望まない。
+EN: We do not want to fight.
+RU: 
+
+
+-- Section 3
+
+ID: M6050_S0010_G0040_300_villager
+JP: 私たちは戦わナイ。
+EN: We will not fight.
+RU: 
+
+
+-- Section 4
+
+ID: M6050_S0010_G0050_300_villager
+JP: 落ちツイテ、私タチは敵じゃない。
+EN: Please be calm. We are not your enemy.
+RU: 
+
+
+-- Section 5
+
+ID: M6050_S0010_G0060_300_villager
+JP: コウサン、コウサンダ。
+EN: We surrender. We surrender.
+RU: 
+
+
+-- Section 6
+
+ID: M6050_S0010_G0070_300_villager
+JP: 白旗はコウサンッて意味ダゾ。
+EN: The white flag means we surrender.
+RU: 
+
+
+-- Section 7
+
+ID: M6050_S0010_G0080_300_villager
+JP: 旗を振ルの楽シィ。
+EN: Waving the flag is fun.
+RU: 
+
+
+-- Section 8
+
+ID: M6050_S0010_G0090_300_villager
+JP: 敵じゃナイヨ。
+EN: We are not your enemy.
+RU: 
+
+
+-- Section 9
+
+ID: M1040_S0030_G0020_001_n02
+JP: ヤメテ！殺さなイデ！
+EN: Stop! Do not kill!
+RU: 
+
+
+-- Section 10
+
+ID: M1040_S0030_G0030_001_n02
+JP: 戦わない！戦ワナい！
+EN: No fighting! No fighting!
+RU: 
+
+
+-- Section 11
+
+ID: M1040_S0030_G0040_001_n02
+JP: 殺さナイデ！殺さナイで！
+EN: Don't kill! Don't kill!
+RU: 
+
+
+-- Section 12
+
+ID: M1040_S0030_G0050_001_n02
+JP: 悪イコトしてない……！
+EN: We have done nothing bad!
+RU: 
+
+
+-- Section 13
+
+ID: M1040_S0030_G0060_001_n02
+JP: ごメンナさい！ゴメンなさい！
+EN: I'm sorry! I'm sorry!
+RU: 
+
+
+-- Section 14
+
+ID: M6050_S0010_G0230_300_villager
+JP: ああ、<SARU_JAN>さん……
+EN: Ah, <SARU_JAN>...
+RU: 
+
+
+-- Section 15
+
+ID: M6050_S0010_G2700_300_villager
+JP: ナニかあったノ？
+EN: Did something happen?
+RU: 
+
+

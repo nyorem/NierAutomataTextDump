@@ -1,0 +1,8 @@
+-- Section 1
+
+ID: M5920_S0170_G0040_001_a2b
+JP: 今はアクセスできない
+EN: I can't access this right now.
+RU: 
+
+

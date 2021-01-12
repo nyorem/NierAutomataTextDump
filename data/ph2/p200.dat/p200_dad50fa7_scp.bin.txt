@@ -1,0 +1,61 @@
+-- Section 1
+
+ID: M1090_S0210_G0000_001_a9s
+JP: ２Ｂ！大丈夫！？
+EN: 2B! You okay!?
+RU: 
+
+ID: M1090_S0210_G0010_001_a2b
+JP: 大丈夫……
+EN: I'm fine...
+RU: 
+
+ID: M1090_S0210_G0020_001_a2b
+JP: この化物を倒す。
+EN: Let's take this bastard down.
+RU: 
+
+ID: M1090_S0210_G0030_001_a9s
+JP: わかった！！
+EN: Right!
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0220_G0000_001_a9s
+JP: こんな数、どうすれば……！
+EN: What do we do? There's too many!
+RU: 
+
+ID: M1090_S0220_G0010_001_pascal
+JP: ２Ｂさん！
+EN: 2B?
+RU: 
+
+ID: M1090_S0220_G0020_001_pascal
+JP: 聞こえますか！？２Ｂさん！
+EN: 2B, can you hear me?
+RU: 
+
+ID: M1090_S0220_G0030_001_pascal
+JP: 私達の村が……
+EN: Our village is under—
+RU: 
+
+ID: M1090_S0220_G0040_001_pascal
+JP: うああああああっ
+EN: Aaaaaaaah!
+RU: 
+
+ID: M1090_S0220_G0050_001_a9s
+JP: パスカル！聞こえる！？
+EN: Pascal! Come in, Pascal!
+RU: 
+
+ID: M1090_S0220_G0060_001_a2b
+JP: くそっ……
+EN: Shit...
+RU: 
+
+

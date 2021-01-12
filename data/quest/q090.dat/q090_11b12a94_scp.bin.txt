@@ -1,0 +1,57 @@
+-- Section 1
+
+ID: M5090_S0010_G0020_001_roboGK
+JP: ……
+EN: ......
+RU: 
+
+ID: M5090_S0010_G0030_001_roboGK
+JP: オマエ、ロボの気持チ、わかラナイ……
+EN: You cannot understand the feelings of a machine.
+RU: 
+
+
+-- Section 2
+
+ID: M5090_S0010_G0030_001_roboGK
+JP: オマエ、ロボの気持チ、わかラナイ……
+EN: You cannot understand the feelings of a machine.
+RU: 
+
+ID: M5090_S0010_G0035_001_roboGK
+JP: ハッキング出来る者ダケが、ロボのキモチ判る。
+EN: Only someone with hacking skills would be able to comprehend us.
+RU: 
+
+ID: M5090_S0010_G0036_001_roboGK
+JP: ハッキング出来る者ダケが……
+EN: Only someone...with hacking skills...
+RU: 
+
+
+-- Section 3
+
+ID: M5090_S0010_G0040_001_roboGK
+JP: ……オマエ、機械ノ心、理解スル、者。
+EN: I turn no one away.
+RU: 
+
+ID: M5090_S0010_G0050_001_roboGK
+JP: ……ナカマ、認定。入場ヲ、許可シマス。
+EN: ...You are recognized as a friend. Permission to enter granted.
+RU: 
+
+
+-- Section 4
+
+ID: M5090_S0010_G0000_001_roboGK
+JP: イイ加減ニ、シロ！
+EN: Stop this foolishness!
+RU: 
+
+ID: M5090_S0010_G0010_001_roboGK
+JP: モノゴトニハ、限度ガ、アル！
+EN: Even I have my limits!
+RU: 
+
+

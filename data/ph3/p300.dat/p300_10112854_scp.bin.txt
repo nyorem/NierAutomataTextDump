@@ -1,0 +1,71 @@
+-- Section 1
+
+ID: M3060_S1020_G0000_001_a2
+JP: ポッド……
+EN: Pod...
+RU: 
+
+ID: M3060_S1020_G0010_001_a2
+JP: ９Ｓの論理回路を修復する。
+EN: We're going to repair 9S's logic circuits.
+RU: 
+
+ID: M3060_S1020_G0020_001_pod042
+JP: 了解。
+EN: Acknowledged.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S1020_G0030_001_a2
+JP: ９Ｓを汚染しているウィルスの場所を教えてくれ。
+EN: Tell me where to find the virus corrupting 9S.
+RU: 
+
+ID: M3060_S1020_G0040_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+ID: M3060_S1020_G0050_001_pod042
+JP: ヨルハ機体Ａ２。
+EN: YoRHa unit A2.
+RU: 
+
+ID: M3060_S1020_G0060_001_pod042
+JP: この先に９Ｓのコアデータが格納されている。
+EN: Core data for 9S is stored ahead.
+RU: 
+
+ID: M3060_S1020_G0070_001_pod042
+JP: 報告：ウィルス汚染が深刻で除去は困難。
+EN: Alert: Severe virus corruption. Probability of successful deletion extremely low.
+RU: 
+
+ID: M3060_S1020_G0080_001_a2
+JP: ……いや、一つだけ方法がある筈だ。
+EN: I think I know a way...
+RU: 
+
+ID: M3060_S1020_G0090_001_pod042
+JP: ……その方法は推奨出来ない。
+EN: The idea under consideration is not recommended.
+RU: 
+
+ID: M3060_S1020_G0100_001_pod042
+JP: 私はヨルハ部隊支援随行ユニット。
+EN: This Pod is a YoRHa Tactical Support Unit.
+RU: 
+
+ID: M3060_S1020_G0110_001_pod042
+JP: 支援しているヨルハ機体Ａ２に害をなす行動には賛同出来ない。
+EN: As such, it cannot approve of actions that would damage its supported unit.
+RU: 
+
+ID: M3060_S1020_G0120_001_a2
+JP: 意外と……イイ奴だな。お前は。
+EN: You're not so bad, Pod. You know that?
+RU: 
+
+

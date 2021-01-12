@@ -1,0 +1,52 @@
+-- Section 1
+
+ID: M1010_S0040_G0097_001_pod042
+JP: 目標地点を確認。マップにマーク。
+EN: Target location acquired. Marking on map.
+RU: 
+
+ID: M1010_S0040_G0098_001_pod042
+JP: 推奨：目標地点への移動。
+EN: Proposal: Proceed to target location.
+RU: 
+
+
+-- Section 2
+
+ID: M1010_S0040_G0091_001_a9s
+JP: 情報によると、この付近の機械生命体は襲ってくる様子は\n無いみたいですね。
+EN: According to our intel, none of the machines in this area are hostile.
+RU: 
+
+ID: M1010_S0040_G0092_001_a9s
+JP: 最近、こういう敵が増えたみたいで。
+EN: We've been seeing more and more enemies like this lately.
+RU: 
+
+ID: M1010_S0040_G0093_001_a9s
+JP: ただボーッとしてるだけ……一体何をしてるんでしょう。
+EN: They just stand there and stare into space. It's pretty weird.
+RU: 
+
+
+-- Section 3
+
+ID: M1010_S0040_G0094_001_a9s
+JP: わーッ！２Ｂ！
+EN: Hey! 2B!
+RU: 
+
+
+-- Section 4
+
+ID: M1010_S0040_G0095_001_a9s
+JP: もう、ダメですよ。いくら最新鋭のヨルハ機体でも、あの高さは無理です。
+EN: You should know better than to try that. Not even a cutting-edge YoRHa like you would survive that kind of fall.
+RU: 
+
+ID: M1010_S0040_G0096_001_a9s
+JP: あんまり無茶しないでくださいね。
+EN: Try not to act so recklessly, all right?
+RU: 
+
+

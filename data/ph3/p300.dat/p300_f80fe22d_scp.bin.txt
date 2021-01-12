@@ -1,0 +1,82 @@
+-- Section 1
+
+ID: M1090_S0950_G0000_201_pod042
+JP: 指定されたアイテムを回収。
+EN: Recover designated items.
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0950_G0010_201_a9s
+JP: ああ、２Ｂ……待ってたよ。
+EN: Hey, 2B. I was waiting for you.
+RU: 
+
+ID: M1090_S0950_G0020_201_a9s
+JP: これを渡しておく。
+EN: I needed to give you this.
+RU: 
+
+ID: M1090_S0950_G0030_201_a9s
+JP: ２Ｂ……
+EN: Say, 2B?
+RU: 
+
+ID: M1090_S0950_G0040_201_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M1090_S0950_G0050_201_a9s
+JP: いや、何でもない……気をつけて。
+EN: No, never mind. Just be careful.
+RU: 
+
+ID: M1090_S0950_G0060_201_pod042
+JP: 予定されていた準備行動を完了。
+EN: Planning preparations complete.
+RU: 
+
+ID: M1090_S0950_G0070_201_pod042
+JP: 最終確認：自室に配備された装備。
+EN: Confirm equipment delivered to quarters.
+RU: 
+
+
+-- Section 3
+
+ID: M1090_S0950_G0040_201_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 4
+
+ID: M3000_S0030_S0000_001_a9s
+JP: ２Ｂに真実を告げる事が出来ないまま、
+EN: Before I could convince myself to tell 2B the truth...
+RU: 
+
+ID: M3000_S0030_S0010_001_a9s
+JP: 最後の大規模侵攻作戦が開始された。
+EN: our final major operation had begun.
+RU: 
+
+ID: M3000_S0030_S0020_001_a9s
+JP: だけど、僕はまだ知らなかった。
+EN: Still, at the time, I knew nothing.
+RU: 
+
+ID: M3000_S0030_S0030_001_a9s
+JP: この戦いの結末と……
+EN: Not how the battle would end...
+RU: 
+
+ID: M3000_S0030_S0040_001_a9s
+JP: 僕達の運命を。
+EN: Nor what fate stood in wait for us.
+RU: 
+
+

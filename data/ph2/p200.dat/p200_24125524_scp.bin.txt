@@ -1,0 +1,56 @@
+-- Section 1
+
+ID: M1050_S0065_S0000_001_a9s
+JP: なんだ……これ！？
+EN: Um...what's that?
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0065_S0010_001_eml
+JP: えーっと……あなた方は……？
+EN: Hey there, guys! What's up!?
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0065_S0020_001_a9s
+JP: 怪しいから壊そう！２Ｂ！
+EN: This thing's weird, 2B. Let's kill it.
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0065_S0030_001_eml
+JP: わわーっ！！！ちょっと待って！
+EN: Wait, what? No! Hold on!
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0065_S0040_001_a2b
+JP: 破壊する。
+EN: Good idea.
+RU: 
+
+
+-- Section 6
+
+ID: M1050_S0065_S0050_001_eml
+JP: わーっ！！！ダメーッ！！
+EN: Noooooooo!
+RU: 
+
+
+-- Section 7
+
+ID: M1050_S0065_S0060_001_a9s
+JP: 何なんでしょう……アレ？
+EN: Okay, what WAS that?
+RU: 
+
+

@@ -1,0 +1,80 @@
+ID: CREDIT_DIALOG_C
+JP: 全てのアイテムをロストしました。
+EN: All items lost.
+RU: 
+
+ID: CREDIT_DIALOG_CD
+JP: ポッドからの停止要請を許可しますか？
+EN: Permit suspension requests from pods?
+RU: 
+
+ID: CREDIT_DIALOG_CHAPTER_0
+JP: 『チャプターセレクト』が使用可能になりました。\nタイトル画面またはアクセスポイントから選択できます。
+EN: Chapter Select can now be accessed from the title screen and access points.
+RU: 
+
+ID: CREDIT_DIALOG_D
+JP: 全ての経験値をロストしました。
+EN: All EXP lost.
+RU: 
+
+ID: CREDIT_DIALOG_DEBUG_0
+JP: 『デバッグメニュー』が使用可能になりました。\n<BTN_R2><ICON_PLUS><BTN_SELECT>で起動できます。\n\nデバッグメニューを操作すると、再度セーブデータをロードするまで\nセーブ機能が使えなくなります。
+EN: The debug menu can now be accessed by pressing <BTN_R2><ICON_PLUS><BTN_SELECT>\n\nActivating the debug menu will disable all save functionality until you load any save data.
+RU: 
+
+ID: CREDIT_DIALOG_DEBUG_2
+JP: 『デバッグ部屋』が使用可能になりました。\nスタートメニューから選択できます。\n\nデバッグ部屋では、デバッグメニューを使用して敵を自由に配置できます。
+EN: You can now use the Debug Room.\nIt can be accessed from the Start Menu.\n\nAt the Debug Room, you can use the debug menu to freely place enemies.
+RU: 
+
+ID: CREDIT_DIALOG_NOTICE_0
+JP: スクウェア・エニックス宣伝部からのお知らせ
+EN: Notification from Square Enix
+RU: 
+
+ID: CREDIT_DIALOG_NOTICE_01
+JP: プレイヤーの皆様へ\n\nこのたびは「ニーア・オートマタ」をプレイしていただき、本当に、本当にありがとうございました。\n\nここでプレイヤーの皆様にお伝えしたい事がございます。\n本作品は周回プレイする事で物語が変化するシステムを採用しております。今回体験していただいた\n「Ａルート」には無かった「新たなエピソード」「変化するゲームシステム」など、様々なイベントをご用意いたしております。是非ともお楽しみいただければ幸いです。\n\n皆様にご満足いただけるゲーム内容となる事を、心より願っております。\n\nスクウェア・エニックス　宣伝部\n
+EN: To all players,\n\nThank you very much for playing "NieR:Automata."\n\nWe have a special message for you!\nThis game has several different storylines that change each time you play. You have witnessed the "A route," but there are still many story elements and changes to the gameplay systems you have not seen yet. We highly recommend you play through again to witness the full "NieR:Automata" experience.\n\nWe hope you enjoy the rest of the game!\n\nSincerely,\n\nSquare Enix PR
+RU: 
+
+ID: CREDIT_DIALOG_NOTICE_1
+JP: 最終ルート　予告
+EN: Final Route Preview
+RU: 
+
+ID: CREDIT_DIALOG_SAVE
+JP: セーブしますか？
+EN: Save?
+RU: 
+
+ID: CREDIT_DIALOG_SAVE_00
+JP: セーブせずにタイトル画面に戻ります。\nこれまでの進行状況が失われますが\nよろしいですか？
+EN: Return to the title screen without saving? All unsaved progress to this point will be lost.
+RU: 
+
+ID: CREDIT_DIALOG_SAVE_01
+JP: このセーブスロットにセーブします。\nよろしいですか？
+EN: Save to this slot?
+RU: 
+
+ID: CREDIT_DIALOG_SAVE_02
+JP: このセーブスロットに上書きセーブします。\nよろしいですか？
+EN: Overwrite the save in this slot?
+RU: 
+
+ID: CREDIT_DIALOG_SAVE_FORCE
+JP: セーブしました。
+EN: Save complete.
+RU: 
+
+ID: CREDIT_DIALOG_TRSHOP_0
+JP: 「変な女レジスタンス」に新機能が追加されました。\nレジスタンスキャンプで話しかけることで確認できます。
+EN: The "strange resistance woman" has a new topic to talk about.\nTalk to her at the Resistance camp to find out what it is!
+RU: 
+
+ID: CREDIT_OTHERS_01
+JP: ドコカノ誰カ
+EN: Someone somewhere
+RU: 
+

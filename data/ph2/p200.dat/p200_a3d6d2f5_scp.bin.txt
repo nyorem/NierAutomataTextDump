@@ -1,0 +1,124 @@
+-- Section 1
+
+ID: M1050_S0010_G0000_001_a2b
+JP: ……以上が、エイリアンシップの報告です。
+EN: ...That concludes our report on the events surrounding the alien wreckage.
+RU: 
+
+ID: M1050_S0010_G0010_001_cmd
+JP: そうか……既にエイリアンは……
+EN: Then they were dead this whole time...
+RU: 
+
+ID: M1050_S0010_G0020_001_cmd
+JP: ……この情報は、人類会議で結論が出るまでは、
+EN: The Council of Humanity needs time to formulate a plan.
+RU: 
+
+ID: M1050_S0010_G0030_001_cmd
+JP: 最高機密として扱う事にする。
+EN: Until then, this information must be kept confidential.
+RU: 
+
+ID: M1050_S0010_G0040_001_cmd
+JP: くれぐれも、他言のないように。
+EN: Speak of it to no one.
+RU: 
+
+ID: M1050_S0010_G0050_001_a2b
+JP: はい。
+EN: Of course.
+RU: 
+
+ID: M1050_S0010_G0060_001_cmd
+JP: 君達二人には、『パスカル』という名の機械生命体の情報収集を命ずる。
+EN: Your next mission is to gather additional intel on the individual known as "Pascal."
+RU: 
+
+ID: M1050_S0010_G0070_001_a9s
+JP: ええっ！？あの怪しい感じの機械生命体ですか？
+EN: You mean that freaky machine we ran into?
+RU: 
+
+ID: M1050_S0010_G0080_001_cmd
+JP: 月面の人類会議からの通達だ。
+EN: This order comes directly from the Council.
+RU: 
+
+ID: M1050_S0010_G0090_001_cmd
+JP: 特殊な個体の調査は今後の作戦の重要な資料となるからな。
+EN: Knowledge of such unique individuals is essential for the success of future missions.
+RU: 
+
+ID: M1050_S0010_G0100_001_a2b
+JP: 了解しました。
+EN: Understood.
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0010_G0110_001_a9s
+JP: 司令官も本当に人使いが荒いですよね～
+EN: Man, the Commander sure is a slave driver, huh?
+RU: 
+
+ID: M1050_S0010_G0111_001_a9s
+JP: しかも、行き先はまた廃墟都市ですか。
+EN: And now we have to go back to the city ruins.
+RU: 
+
+ID: M1050_S0010_G0112_001_a9s
+JP: ひさしぶりだし、ちょっと休んでいきません？２Ｂ。
+EN: Why don't we rest a little bit, 2B? It's been a while.
+RU: 
+
+ID: M1050_S0010_G0113_001_a2b
+JP: 気が向いたらね。
+EN: I'll rest if I feel like it.
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0010_G0120_001_a9s
+JP: でも、仕事って大変ですよね～
+EN: Man, this job can be pretty rough sometimes, huh?
+RU: 
+
+ID: M1050_S0010_G0130_001_a2b
+JP: 作戦に好き嫌いはない。
+EN: We don't get to choose our assignments.
+RU: 
+
+ID: M1050_S0010_G0140_001_a2b
+JP: ９Ｓ、貴方は感情を出し過ぎ。
+EN: And you should work on keeping your opinions in check.
+RU: 
+
+ID: M1050_S0010_G0150_001_a2b
+JP: 私達ヨルハ部隊は感情を出す事は禁止されてるはず。
+EN: YoRHa aren't allowed to be emotional, remember?
+RU: 
+
+ID: M1050_S0010_G0160_001_a9s
+JP: そうは言っても、個体差があるから仕方ない気がします……
+EN: I think some of us are better at that than others...
+RU: 
+
+ID: M1050_S0010_G0170_001_a9s
+JP: あのアダムとイヴって特殊個体も、まるで感情があるような。
+EN: Speaking of emotion, those Adam and Eve units sure seemed less than logical.
+RU: 
+
+ID: M1050_S0010_G0180_001_a2b
+JP: ……いいから転送装置の場所に行く。
+EN: I'm heading to the transporter.
+RU: 
+
+ID: M1050_S0010_G0190_001_a9s
+JP: はーい。
+EN: Fiiine.
+RU: 
+
+

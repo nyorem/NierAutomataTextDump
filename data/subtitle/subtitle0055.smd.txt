@@ -1,0 +1,10 @@
+ID: M0010_S0140_H0200_201_a9s
+JP: あーあ！スゴイのが暴れてますね。
+EN: Whoa! Get a load of that thing!
+RU: 
+
+ID: M0010_S0140_H0210_201_a9s
+JP: ミサイル発射。
+EN: Firing missiles.
+RU: 
+

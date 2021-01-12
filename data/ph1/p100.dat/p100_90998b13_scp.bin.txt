@@ -1,0 +1,21 @@
+-- Section 1
+
+ID: M1010_S0015_G0720_300_a9s
+JP: さてと、そろそろ時間だな。\n２Ｂさんのセットアップを手伝いに行かなきゃな。
+EN: Looks like it's time to help 2B get herself set up.
+RU: 
+
+ID: M1010_S0015_G0730_300_a9s
+JP: 多分、もう部屋で待ってるだろうな。
+EN: She's probably waiting in her room now.
+RU: 
+
+
+-- Section 2
+
+ID: M1010_S0015_G0740_300_a9s
+JP: 失礼します。\nあ、もう始めてるみたいですね。
+EN: Sorry to barge in on y—oh! Looks like you've already started.
+RU: 
+
+

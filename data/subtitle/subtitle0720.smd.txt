@@ -1,0 +1,65 @@
+ID: M3000_S0010_H0000_001_cmd
+JP: 敵ネットワーク基幹ユニットである『アダム』及び『イヴ』の撃破が確認された。
+EN: We've confirmed that the network core units known as Adam and Eve have been destroyed.
+RU: 
+
+ID: M3000_S0010_H0010_001_cmd
+JP: 現在、敵の指揮系統は一時的な混乱状態にある。
+EN: The enemy's chain of command has been thrown into complete chaos.
+RU: 
+
+ID: M3000_S0010_H0020_001_cmd
+JP: この好機を逃さず、人類軍は機械生命体に対し\n総攻撃をかける事が決定された。
+EN: As such, humanity has chosen to seize this opportunity and launch an all-out attack against the machine forces.
+RU: 
+
+ID: M3000_S0010_H0030_001_cmd
+JP: 無論、我々ヨルハ部隊も例外ではない。
+EN: Of course, the forces of YoRHa will participate in this endeavor.
+RU: 
+
+ID: M3000_S0010_H0040_001_cmd
+JP: 思い返せ！
+EN: Remember your pain.
+RU: 
+
+ID: M3000_S0010_H0050_001_cmd
+JP: 故郷を奪われた苦しみを！
+EN: The pain of having your homeland stolen!
+RU: 
+
+ID: M3000_S0010_H0060_001_cmd
+JP: 我々は諦めはしない！
+EN: We will never give up our struggle.
+RU: 
+
+ID: M3000_S0010_H0070_001_cmd
+JP: 海を、空を、大地を……
+EN: We will take back the seas! The skies! The land!
+RU: 
+
+ID: M3000_S0010_H0080_001_cmd
+JP: おぞましき機械生命体に奪われた地球を取り戻す！
+EN: We will take back our world from the scourge of the machines!
+RU: 
+
+ID: M3000_S0010_H0090_001_cmd
+JP: 本作戦の成功をもって
+EN: We will not fail in this mission...
+RU: 
+
+ID: M3000_S0010_H0100_001_cmd
+JP: 今ここで、この戦争を終わらせるのだ！
+EN: Here and now, we will put an end to this goddamn war!
+RU: 
+
+ID: M3000_S0010_H0110_001_cmd
+JP: 人類に栄光あれ！
+EN: Glory...to mankind!
+RU: 
+
+ID: M3000_S0010_H0120_001_bys
+JP: 人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+

@@ -1,0 +1,18 @@
+-- Section 1
+
+ID: M0010_S0220_G0000_101_pod042
+JP: 防弾タイプの敵を確認。
+EN: Alert: Bulletproof apparatus detected on enemies.
+RU: 
+
+ID: M0010_S0220_G0010_101_pod042
+JP: 近接攻撃を推奨。
+EN: Close-range combat is advised.
+RU: 
+
+ID: M0010_S0220_G0020_101_a2b
+JP: わかってる。
+EN: I know.
+RU: 
+
+

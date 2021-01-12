@@ -1,0 +1,428 @@
+-- Section 1
+
+ID: M1040_S0030_G0000_001_a2b
+JP: 全員が……白旗？
+EN: They all have white flags...
+RU: 
+
+ID: M1040_S0030_G0010_001_a9s
+JP: 戦う意思がない、って事でしょうか？
+EN: Looks like they really don't want to fight.
+RU: 
+
+
+-- Section 2
+
+ID: M1040_S0030_G0070_001_a9s
+JP: やっぱりこの村……何か変ですよ。
+EN: There's something weird about this village...
+RU: 
+
+ID: M1040_S0030_G0080_001_a9s
+JP: 戻って調べましょう。
+EN: We should go back and look around some more.
+RU: 
+
+
+-- Section 3
+
+ID: M1040_S0030_G0005_300_a9s
+JP: 推奨：機械生命体の集落の調査。\n現段階の情報では、司令部への報告は困難。
+EN: Alert: Current intel insufficient for Command. Suggest investigating machine lifeform settlement.
+RU: 
+
+
+-- Section 4
+
+ID: M1040_S0030_G0090_001_pascal
+JP: ……まず、最初に
+EN: Hello.
+RU: 
+
+ID: M1040_S0030_G0100_001_pascal
+JP: 聞いていただきたい事があります。
+EN: Before we begin, there's something you must understand...
+RU: 
+
+ID: M1040_S0030_G0110_001_pascal
+JP: 私達は貴方の敵ではありません。
+EN: We are not your enemies.
+RU: 
+
+ID: M1040_S0030_G0120_001_a9s
+JP: ２Ｂ！機械生命体の言う事なんて信じちゃダメです！
+EN: 2B, we can't trust anything the machines say!
+RU: 
+
+ID: M1040_S0030_G0130_001_pascal
+JP: ……確かに、貴方達にとって私達、機械生命体は敵です。
+EN: I understand that you see us as the enemy, but...
+RU: 
+
+ID: M1040_S0030_G0140_001_pascal
+JP: 私の名前はパスカル。この村の長をしています。
+EN: Well, anyway. My name is Pascal. I'm the leader of this village.
+RU: 
+
+ID: M1040_S0030_G0150_001_pascal
+JP: この村に住む者達は……戦いから逃げてきた平和主義者しかいません。
+EN: Those who reside here desire nothing more than to live a peaceful existence.
+RU: 
+
+ID: M1040_S0030_G0160_001_pascal
+JP: 良ければ、皆さん自身の目で確認してみてください……
+EN: Look around for yourself. You'll see that it's true.
+RU: 
+
+
+-- Section 5
+
+ID: M1040_S0031_G0000_001_pascal
+JP: そうだ。私達は、貴方達アンドロイドとの交流もあるのです。
+EN: You know, we already have something of a relationship with you androids.
+RU: 
+
+ID: M1040_S0031_G0010_001_pascal
+JP: レジスタンスキャンプのアネモネさんにこれを持って行ってください。
+EN: In fact, I'm hoping you can take this to Anemone in the Resistance camp.
+RU: 
+
+ID: M1040_S0031_G0020_001_a9s
+JP: これは……？
+EN: What is it?
+RU: 
+
+ID: M1040_S0031_G0030_001_pascal
+JP: アネモネさんに頼まれていた、燃料用の濾過フィルターです。
+EN: It's a fuel filter that she requested.
+RU: 
+
+ID: M1040_S0031_G0040_001_pascal
+JP: 渡していただければ、私達が平和的な種族である事を理解していただけると思います。
+EN: If you take it to her, it should make it clear that we're a peaceful group.
+RU: 
+
+ID: M1040_S0031_G0050_001_a2b
+JP: ……判った。
+EN: All right.
+RU: 
+
+
+-- Section 6
+
+ID: M1040_S0031_G0040_001_pascal
+JP: 渡していただければ、私達が平和的な種族である事を理解していただけると思います。
+EN: If you take it to her, it should make it clear that we're a peaceful group.
+RU: 
+
+
+-- Section 7
+
+ID: M1040_S0031_G0180_001_pascal
+JP: ああ！高粘度オイルを持ってきてくださったんですね。
+EN: Oh, you brought me some high-viscosity oil!
+RU: 
+
+ID: M1040_S0031_G0190_001_pascal
+JP: アネモネさんは優しくて理解のある方で助かります。
+EN: Anemone is just so kind and understanding.
+RU: 
+
+ID: M1040_S0031_G0200_001_pascal
+JP: 全てのアンドロイドと機械生命体が、\nこうやって平和に暮らせたらいいんですけど……
+EN: If only all androids and machines could live together in peace like this...
+RU: 
+
+ID: M1040_S0031_G0210_001_a9s
+JP: ……そんなの、夢物語だ。
+EN: Never gonna happen.
+RU: 
+
+ID: M1040_S0031_G0220_001_pascal
+JP: そうですね……良ければ、他のロボット達とも交流してみてください。
+EN: I guess not... I'd appreciate it if you could help out some of the other machines as well, though.
+RU: 
+
+ID: M1040_S0030_G0240_001_pascal
+JP: 対話する事でしか、相互理解は得られない……私はそう思っています。
+EN: After all, the only way to understand someone is to get to know them. Isn't that right?
+RU: 
+
+ID: M1040_S0030_G0250_001_a2b
+JP: そう……
+EN: Fair enough.
+RU: 
+
+
+-- Section 8
+
+ID: M1040_S0030_G0170_001_pascal
+JP: いかがでしょうか？
+EN: Well? What do you think?
+RU: 
+
+ID: M1040_S0030_G0180_001_a9s
+JP: うわっ……勝手に通信してきた……
+EN: Gah! He just started transmitting to us directly...
+RU: 
+
+ID: M1040_S0030_G0190_001_pascal
+JP: 私達が平和を愛している事をご理解いただけましたか？
+EN: Now do you believe we're not a threat?
+RU: 
+
+ID: M1040_S0030_G0200_001_a9s
+JP: 口だけならいくらでも言える……
+EN: Your mouth can say anything it wants...
+RU: 
+
+ID: M1040_S0030_G0210_001_a9s
+JP: 機械には心が無いんだから。
+EN: But you still don't have a heart.
+RU: 
+
+ID: M1040_S0030_G0220_001_pascal
+JP: ……そうかもしれません。
+EN: I suppose that's...technically accurate.
+RU: 
+
+ID: M1040_S0030_G0230_001_pascal
+JP: でも、これからも良ければこの村に来てください。
+EN: Yes, well, you're free to visit our village whenever you like.
+RU: 
+
+
+-- Section 9
+
+ID: M1040_S0031_G0060_001_a9s
+JP: アネモネさん、パスカルという名前の機械生命体から\n預かってる物があるんですが……
+EN: Say, Anemone? I've got a package for you from a machine called Pascal.
+RU: 
+
+ID: M1040_S0031_G0070_001_ane
+JP: ああ、燃料フィルターか。今丁度不足してたんだ。
+EN: ...A fuel filter? Ah, perfect timing—we were running low.
+RU: 
+
+ID: M1040_S0031_G0080_001_ane
+JP: ……っていうか、パスカルに会ったのか？
+EN: Wait, you met Pascal?
+RU: 
+
+ID: M1040_S0031_G0090_001_a9s
+JP: ええ……アネモネさん、機械生命体と接触してるんですか？
+EN: Sure did. So you've been consorting with machines, huh?
+RU: 
+
+ID: M1040_S0031_G0100_001_ane
+JP: ……そうだ。あの村の連中は無害だし、私達が作れないような細かい作業も得意だからな。
+EN: Just the ones in the village. They're totally harmless, and they also have the means to construct intricate devices that we can't.
+RU: 
+
+ID: M1040_S0031_G0110_001_ane
+JP: その代わり、私達はオイルや素材なんかを渡して交換してる。\n一種の交易ってやつだ。
+EN: In exchange, we provide them with oil and other materials. I guess you'd call it a form of commerce.
+RU: 
+
+ID: M1040_S0031_G0120_001_a9s
+JP: そう……なんですね。
+EN: I see...
+RU: 
+
+ID: M1040_S0031_G0130_001_ane
+JP: 戻るなら、この高粘度オイルをパスカルに持って行ってやってくれ。
+EN: Anyway, if you're headed back there, please take this high-viscosity oil to Pascal.
+RU: 
+
+
+-- Section 10
+
+ID: M1040_S0031_G0140_001_ane
+JP: パスカルに会ったら高粘度オイルを渡しておいてくれ。
+EN: If you see Pascal, please give him that high-viscosity oil.
+RU: 
+
+
+-- Section 11
+
+ID: M1040_S0031_G0150_001_ane
+JP: いつも世話になってすまないな……あっ、そうだ。
+EN: Thanks for all you've been doing for us late—oh!\nI nearly forgot.
+RU: 
+
+ID: M1040_S0031_G0160_001_ane
+JP: 君達ヨルハ部隊の為の専用の部屋を用意しておいたんだ。
+EN: I readied a room here for YoRHa androids.
+RU: 
+
+ID: M1040_S0031_G0170_001_ane
+JP: いつでも好きに使ってくれ。
+EN: Feel free to make use of it whenever you like.
+RU: 
+
+
+-- Section 12
+
+ID: M1040_S0030_G0000_300_a9s
+JP: ２Ｂ、気乗りしないのはわかりますが、機械生命体の話を聞いてみませんか？彼らの意図が気になります。
+EN: I know you're not thrilled about this, 2B, but why don't we hear what these machines have to say? I'm curious what their intentions are.
+RU: 
+
+
+-- Section 13
+
+ID: M1040_S0030_G0010_300_a2b
+JP: ９Ｓ、戻って機械生命体から情報を聞こう。
+EN: 9S, let's go back and get some data from the machines.
+RU: 
+
+
+-- Section 14
+
+ID: M5920_S0100_G0080_001_op60
+JP: オペレーター６Ｏより、２Ｂさんへ。定期連絡の時間……うわーん。
+EN: Operator 6O to 2B...\nTime for your regularly-scheduled contact...
+RU: 
+
+ID: M5920_S0100_G0090_001_a2b
+JP: こちら２Ｂ。どうした？
+EN: 2B here. What's wrong?
+RU: 
+
+ID: M5920_S0100_G0100_001_op60
+JP: 実は、ちょっと好きだった先輩を食事に誘ったら断られちゃって……
+EN: Oh, there's this operator I kind of liked, but when I asked her out, she turned me down.
+RU: 
+
+ID: M5920_S0100_G0110_001_op60
+JP: 私、これからどうやって生きていけばいいんですか……２Ｂさん……
+EN: Honestly, 2B? I don't know how I'm supposed to go on living.
+RU: 
+
+ID: M5920_S0100_G0120_001_a2b
+JP: そ、そんな事……聞かれても。
+EN: I am definitely not the person to discuss this with.
+RU: 
+
+ID: M5920_S0100_G0130_001_op60
+JP: もう、バンカーにいられないです……
+EN: I don't think I can stand spending one more day in this Bunker...
+RU: 
+
+ID: M5920_S0100_G0140_001_a2b
+JP: ……それは困る。作戦に支障があるから。
+EN: You leaving would be bad for me. It would affect mission efficiency.
+RU: 
+
+ID: M5920_S0100_G0150_001_op60
+JP: ……２Ｂさんは、私を必要としてくれるんですか？
+EN: A-Are you saying you need me, 2B?
+RU: 
+
+ID: M5920_S0100_G0160_001_a2b
+JP: Ｂ型戦闘モデルにはオペレーターのサポートが必要不可欠。
+EN: All model-B combat units require the assistance of an operator.
+RU: 
+
+ID: M5920_S0100_G0170_001_a2b
+JP: だから……
+EN: So...
+RU: 
+
+ID: M5920_S0100_G0180_001_op60
+JP: ２Ｂさん……
+EN: 2B...
+RU: 
+
+ID: M5920_S0100_G0190_001_a2b
+JP: ……以上。通信終了。
+EN: That's all. Closing this channel.
+RU: 
+
+
+-- Section 15
+
+ID: M5920_S0100_G0380_001_op210
+JP: オペレーター２１Ｏより、９Ｓ。定期連絡を行います。
+EN: Operator 21O to 9S. This is your regularly-scheduled contact.
+RU: 
+
+ID: M5920_S0100_G0390_001_op210
+JP: 本日は９Ｓに重要事項の連絡があります。
+EN: I have something important to discuss with you today.
+RU: 
+
+ID: M5920_S0100_G0400_001_a9s
+JP: なんでしょう？
+EN: What is it?
+RU: 
+
+ID: M5920_S0100_G0410_001_op210
+JP: 整備部から９Ｓの飛行ユニットの扱いについて苦情が入りました。
+EN: Our maintenance team filed a complaint about how you treat your flight unit.
+RU: 
+
+ID: M5920_S0100_G0420_001_op210
+JP: 勝手に改造するのは止めて欲しい、との事です。
+EN: They requested that you cease making unauthorized modifications.
+RU: 
+
+ID: M5920_S0100_G0430_001_a9s
+JP: いや、だって衛星からの情報に余計なデータがあって、\n射撃補正が遅れるから仕方なく……
+EN: Well, I kind of had to. There's so much excess data sent to me from the satellite, it's delaying aim correction.
+RU: 
+
+ID: M5920_S0100_G0440_001_op210
+JP: 反論があるなら自分で整備部に行って話すなり殴るなりして\n解決してください。
+EN: If you have a rebuttal, you need to discuss it with maintenance. Fight it out if you must.
+RU: 
+
+ID: M5920_S0100_G0450_001_op210
+JP: 以上。
+EN: Operator 21O out.
+RU: 
+
+ID: M5920_S0100_G0460_001_a9s
+JP: ……オペレーターさんって意外と乱暴なのかな。
+EN: Geez. My operator's more prone to violence than I thought.
+RU: 
+
+
+-- Section 16
+
+ID: M5920_S0090_G0130_001_human
+JP: 月面人類会議より地上で奮戦しているアンドロイド諸君に告げる。
+EN: The Council of Humanity has a message for all of our brave androids fighting on the surface.
+RU: 
+
+ID: M5920_S0090_G0140_001_human
+JP: 宇宙人とその尖兵たる機械生命体によって攻撃されてから数千年が経つ。
+EN: It has been several millennia since the aliens—and their advance force, the machine lifeforms—attacked us.
+RU: 
+
+ID: M5920_S0090_G0150_001_human
+JP: そして、我々人類は月に逃げ延びる事になった。
+EN: Millennia since mankind was forced to evacuate to the surface of the moon.
+RU: 
+
+ID: M5920_S0090_G0160_001_human
+JP: しかし、今もなお諸君らの戦いによって、我々は存続する事が出来ている。
+EN: But thanks to your continued struggle, we have been able to survive.
+RU: 
+
+ID: M5920_S0090_G0170_001_human
+JP: 諸君らアンドロイド兵こそが、我々人類の最後の希望なのだ。
+EN: You, our android soldiers, are the last hope of humanity.
+RU: 
+
+ID: M5920_S0090_G0180_001_human
+JP: 健闘を期待する。
+EN: We look forward to your continued success in combat.
+RU: 
+
+ID: M5920_S0090_G0190_001_human
+JP: 人類に栄光あれ。
+EN: Glory to mankind.
+RU: 
+
+

@@ -1,0 +1,115 @@
+-- Section 1
+
+ID: M5920_S0080_G0080_001_pod042
+JP: 予測：不可思議生命体エミールの住居。
+EN: Hypothesis: This is the residence of the inscrutable lifeform known as Emil.
+RU: 
+
+ID: M5920_S0080_G0090_001_pod153
+JP: 予測：不可思議生命体エミールの住居。
+EN: Hypothesis: This is the residence of the inscrutable lifeform known as Emil.
+RU: 
+
+
+-- Section 2
+
+ID: M5920_S0080_G0100_001_pod042
+JP: 警告：物品の窃盗は住人の反感を買う可能性あり。
+EN: Alert: Theft of physical objects may disturb the resident.
+RU: 
+
+ID: M5920_S0080_G0110_001_pod153
+JP: 警告：物品の窃盗は住人の反感を買う可能性あり。
+EN: Alert: Theft of physical objects may disturb the resident.
+RU: 
+
+
+-- Section 3
+
+ID: M5920_S0080_G0111_300_unknown
+JP: エミールのお面を拾いますか？
+EN: Pick up Emil's mask?
+RU: 
+
+ID: M5920_S0080_G0112_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5920_S0080_G0113_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 4
+
+ID: M5920_S0080_G0150_001_eml
+JP: ……ドロボウさんは、アナタだったんですね！
+EN: ...So you were the bandit all along!?
+RU: 
+
+ID: M5920_S0080_G0160_001_eml
+JP: 親しき仲にも礼儀アリ……オシオキします！
+EN: You may be a cherished companion of mine, but you still must be punished!
+RU: 
+
+
+-- Section 5
+
+ID: M5920_S0080_G0200_001_eml
+JP: 僕の負けです……残酷な実力社会です……
+EN: I lost... I guess power's the only thing that counts in this world anymore, huh?
+RU: 
+
+ID: M5920_S0080_G0210_001_eml
+JP: ここは自由に使って下さい……
+EN: Well, go ahead and use this room for whatever you like.\nI don't mind.
+RU: 
+
+
+-- Section 6
+
+ID: M5920_S0080_G0170_001_eml
+JP: ふふふふふっ……正義は勝つのです！
+EN: Hee hee hee heeeee! Justice prevails!
+RU: 
+
+
+-- Section 7
+
+ID: M5920_S0080_G0180_001_eml
+JP: しょうこりも無くまた来たんですね。
+EN: Ah! Still haven't learned your lesson, have you?
+RU: 
+
+
+-- Section 8
+
+ID: M5920_S0080_G0190_001_eml
+JP: いいでしょう。ケシズミに変えてあげます！
+EN: So be it. You'll be a pile of ash by the time I'm done with you!
+RU: 
+
+
+-- Section 9
+
+ID: M5920_S0080_G0200_001_eml
+JP: 僕の負けです……残酷な実力社会です……
+EN: I lost... I guess power's the only thing that counts in this world anymore, huh?
+RU: 
+
+ID: M5920_S0080_G0210_001_eml
+JP: ここは自由に使って下さい……
+EN: Well, go ahead and use this room for whatever you like.\nI don't mind.
+RU: 
+
+
+-- Section 10
+
+ID: M5920_S0080_G0170_001_eml
+JP: ふふふふふっ……正義は勝つのです！
+EN: Hee hee hee heeeee! Justice prevails!
+RU: 
+
+

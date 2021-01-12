@@ -1,0 +1,10 @@
+ID: M3030_S0130_H0000_001_a2
+JP: まだ、来るのか……！！
+EN: They're still coming!?
+RU: 
+
+ID: M3030_S0130_H0010_001_pascal
+JP: Ａ２さん！ここは私が！
+EN: Fear not, A2! I can handle this!
+RU: 
+

@@ -1,0 +1,23 @@
+-- Section 1
+
+ID: M0010_S0140_G0160_201_op210
+JP: ヨルハ攻撃部隊の侵入を確認しました。
+EN: YoRHa has entered the base.
+RU: 
+
+ID: M0010_S0140_G0170_201_op210
+JP: しかし、残存機体は一機のみ。
+EN: However, there is only one unit remaining.
+RU: 
+
+ID: M0010_S0140_G0180_201_a9s
+JP: 一機！？それはまた大変だ……
+EN: Oof! Must've been rough out there.
+RU: 
+
+ID: M0010_S0140_G0190_201_op210
+JP: 敵防衛兵器によって苦戦しているようです。
+EN: The enemy's defensive weapon is making things more difficult than we estimated.
+RU: 
+
+

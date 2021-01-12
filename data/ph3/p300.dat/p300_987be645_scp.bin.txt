@@ -1,0 +1,18 @@
+-- Section 1
+
+ID: M3060_S0915_G0000_001_pod153
+JP: ポッド１５３：システムに致命的なエラー発生。
+EN: Pod 153: Fatal system error detected.
+RU: 
+
+ID: M3060_S0915_G0010_001_pod153
+JP: ポッド１５３：メモリリークを確認。修復不可能。
+EN: Pod 153: Memory leak verified. Repair impossible.
+RU: 
+
+ID: M3060_S0915_G0020_001_pod153
+JP: ポッド１５３：残存する記憶の緊急退避を開始。
+EN: Pod 153: Beginning emergency evacuation of remaining memories.
+RU: 
+
+

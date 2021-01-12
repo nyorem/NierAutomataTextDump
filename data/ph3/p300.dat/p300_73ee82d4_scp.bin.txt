@@ -1,0 +1,238 @@
+-- Section 1
+
+ID: M3005_S1020_G0000_001_pod153
+JP: ポッド１５３：現在の座標を表示。
+EN: Pod 153: Displaying current coordinates.
+RU: 
+
+ID: M3005_S1020_G0010_001_pod042
+JP: ポッド０４２：随行支援する機体を選択。
+EN: Pod 042: Select unit to support.
+RU: 
+
+ID: M3005_S1020_G0020_001_sele
+JP: Ａ２を随行支援する。
+EN: Support A2.
+RU: 
+
+ID: M3005_S1020_G0030_001_sele
+JP: ９Ｓを随行支援する。
+EN: Support 9S.
+RU: 
+
+
+-- Section 2
+
+ID: M3015_S0010_G0070_001_pod153
+JP: ポッド１５３：モニタリングする機体を選択。
+EN: Pod 153: Select unit to monitor.
+RU: 
+
+ID: M3015_S0010_G0080_001_sele
+JP: Ａ２を随行支援する。
+EN: Monitor A2.
+RU: 
+
+
+-- Section 3
+
+ID: M3015_S0010_G0070_001_pod153
+JP: ポッド１５３：モニタリングする機体を選択。
+EN: Pod 153: Select unit to monitor.
+RU: 
+
+ID: M3015_S0010_G0080_001_sele
+JP: Ａ２を随行支援する。
+EN: Monitor A2.
+RU: 
+
+ID: M3015_S0010_G0090_001_sele
+JP: ９Ｓを随行支援する。
+EN: Monitor 9S.
+RU: 
+
+
+-- Section 4
+
+ID: M3015_S0010_G0070_001_pod153
+JP: ポッド１５３：モニタリングする機体を選択。
+EN: Pod 153: Select unit to monitor.
+RU: 
+
+ID: M3015_S0010_G0090_001_sele
+JP: ９Ｓを随行支援する。
+EN: Monitor 9S.
+RU: 
+
+
+-- Section 5
+
+ID: M3015_S0010_G0070_001_pod153
+JP: ポッド１５３：モニタリングする機体を選択。
+EN: Pod 153: Select unit to monitor.
+RU: 
+
+ID: M3015_S0010_G0090_001_sele
+JP: ９Ｓを随行支援する。
+EN: Monitor 9S.
+RU: 
+
+
+-- Section 6
+
+ID: M3015_S0010_G0070_001_pod153
+JP: ポッド１５３：モニタリングする機体を選択。
+EN: Pod 153: Select unit to monitor.
+RU: 
+
+ID: M3015_S0010_G0080_001_sele
+JP: Ａ２を随行支援する。
+EN: Monitor A2.
+RU: 
+
+ID: M3015_S0010_G0090_001_sele
+JP: ９Ｓを随行支援する。
+EN: Monitor 9S.
+RU: 
+
+
+-- Section 7
+
+ID: M3015_S0010_G0070_001_pod153
+JP: ポッド１５３：モニタリングする機体を選択。
+EN: Pod 153: Select unit to monitor.
+RU: 
+
+ID: M3015_S0010_G0080_001_sele
+JP: Ａ２を随行支援する。
+EN: Monitor A2.
+RU: 
+
+
+-- Section 8
+
+ID: M3005_S1020_G0040_001_pod042
+JP: ポッド０４２：了解。
+EN: Pod 042: Affirmative.
+RU: 
+
+ID: M3005_S1020_G0050_001_pod042
+JP: ポッド０４２：Ａ２の随行支援を開始する。
+EN: Pod 042: Commencing support of unit A2.
+RU: 
+
+
+-- Section 9
+
+ID: M3015_S0010_G0000_300_pod042
+JP: ポッド０４２：どうやらＡ２の記憶領域に２Ｂのデータが
+EN: Pod 042: It appears that A2's memory region
+RU: 
+
+ID: M3015_S0010_G0007_300_pod042
+JP: ポッド０４２：混在しているようだ。
+EN: Pod 042: has combined with 2B's data.
+RU: 
+
+ID: M3015_S0010_G0001_300_pod042
+JP: ポッド０４２：ドノヨウな影響を与えルカ、このまま経過を
+EN: Pod 042: Currently monitoring progress
+RU: 
+
+ID: M3015_S0010_G0008_300_pod042
+JP: ポッド０４２：観察シヨウト……
+EN: Pod 042: to analyze effect.
+RU: 
+
+ID: M3030_S0010_G0020_001_pod153
+JP: ポッド１５３：待て、ポッド０４２。
+EN: Pod 153: Hold, Pod 042.
+RU: 
+
+ID: M3030_S0010_G0030_001_pod153
+JP: ポッド１５３：会話機能に問題があるようだ。
+EN: Pod 153: Issue detected in your conversational functionality.
+RU: 
+
+ID: M3030_S0010_G0040_001_pod153
+JP: ポッド１５３：ネットワーク機能が破壊された機械生命体だが
+EN: Pod 153: Numerous machine lifeforms whose network functions
+RU: 
+
+ID: M3030_S0010_G0045_001_pod153
+JP: ポッド１５３：継続して暴走している個体も多い。
+EN: Pod 153: were destroyed remain out of control.
+RU: 
+
+ID: M3030_S0010_G0050_001_pod153
+JP: ポッド１５３：警戒するように。
+EN: Pod 153: Please take caution.
+RU: 
+
+ID: M3030_S0010_G0060_001_pod042
+JP: ポッド０４２：了解。
+EN: Pod 042: Affirmative.
+RU: 
+
+
+-- Section 10
+
+ID: M3015_S0010_G0003_300_pod153
+JP: ポッド１５３：引き続き当機はヨルハ機体９Ｓの随行支援を
+EN: Pod 153: Pod 153 will continue to support
+RU: 
+
+ID: M3015_S0010_G0006_300_pod153
+JP: ポッド１５３：行う。
+EN: Pod 153: unit 9S.
+RU: 
+
+ID: M3015_S0010_G0004_300_pod042
+JP: ポッド０４２：推奨：９Ｓの精神状態の定期的チェック。
+EN: Pod 042: Proposal: Pod 153 should periodically review the mental state of unit 9S.
+RU: 
+
+ID: M3015_S0010_G0005_300_pod153
+JP: ポッド１５３：了解した。
+EN: Pod 153: Acknowledged.
+RU: 
+
+
+-- Section 11
+
+ID: M3040_S0230_S0000_300_pod042
+JP: ポッド１５３：９Ｓが資源回収ユニットの１つでコアを破壊。
+EN: Pod 153: Analysis: Unit 9S has destroyed the core of a resource recovery unit.
+RU: 
+
+ID: M3040_S0230_S0001_300_pod042
+JP: ポッド１５３：その際、機械生命体の「アクセス用認証キー」
+EN: Pod 153: He has obtained an authorization key
+RU: 
+
+ID: M3040_S0230_S0007_300_pod042
+JP: ポッド１５３：を入手した。
+EN: Pod 153: in the process.
+RU: 
+
+ID: M3040_S0230_S0002_300_pod042
+JP: ポッド１５３：ただ心理状態の悪化が心配だ。
+EN: Pod 153: But I am concerned about his worsening psychological state.
+RU: 
+
+ID: M3040_S0230_S0003_300_pod042
+JP: ポッド１５３：特にA2との接触は避けなければならない。
+EN: Pod 153: Care should be taken to prevent unit 9S from coming into contact with unit A2.
+RU: 
+
+ID: M3040_S0230_S0004_300_pod153
+JP: ポッド０４２：了解した。
+EN: Pod 042: Affirmative.
+RU: 
+
+ID: M3040_S0230_S0005_300_pod153
+JP: ポッド０４２：こちらも９Ｓとの接触は避けるように注意する。
+EN: Pod 042: Likewise, this Pod will take care to see that unit A2 avoids contact with unit 9S.
+RU: 
+
+

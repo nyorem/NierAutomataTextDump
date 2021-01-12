@@ -1,0 +1,44 @@
+-- Section 1
+
+ID: M0010_S0770_G0000_101_a2b
+JP: ９Ｓッ！！
+EN: 9S!
+RU: 
+
+ID: M0010_S0770_G0010_101_pod042
+JP: ９Ｓのブラックボックス反応検知。
+EN: 9S black box signal detected.
+RU: 
+
+ID: M0010_S0770_G0020_101_pod042
+JP: 通信応答なし。
+EN: No response to communications.
+RU: 
+
+ID: M0010_S0770_G0030_101_a2b
+JP: 救助する！
+EN: I'm going after him!
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0780_G0000_101_a2b
+JP: 司令部への応援要請！
+EN: Send a support request to Command!
+RU: 
+
+ID: M0010_S0780_G0010_101_pod042
+JP: 妨害電波によって通信は不可能。
+EN: Negative. Communications have been jammed.
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0782_H0002_101_a2b
+JP: ９Ｓを助けないと……
+EN: I have to help 9S...
+RU: 
+
+

@@ -1,0 +1,8640 @@
+ID: CORE_ACT_SKILL_HELP_01
+JP: ポッドから前方に強力なレーザーを放つ。
+EN: Fires a powerful laser in the\ndirection that the Pod is facing.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_02
+JP: 一定範囲内にいる敵をポッドが解析し、プ\nレイヤーに情報を送信することで範囲内の\n敵全てに斬りかかる攻撃。
+EN: Analyzes all enemies in a fixed\nradius, allowing combatants to\ndeliver a series of deadly slashes\nto all who are caught within.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_03
+JP: ポッドがエネルギーの塊を投射し、その場\nにとどめ、叩きつける。
+EN: Summons a mass of energy that\nunleashes a devastating blow\nupon its target.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_04
+JP: 一定時間、ポッドがプレイヤーの周囲を回\n転し続け、触れた敵にダメージを与える。
+EN: Spins a Pod around the player at\nhigh speed, wreaking havoc on\nany enemies it touches.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_05
+JP: 槍状のエネルギー塊を地面から突き出す。
+EN: Produces a mass of energy that\nsprouts from the ground in the\nshape of deadly spears.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_06
+JP: 射撃攻撃を防ぐシールドを展開する。
+EN: Deploys a protective barrier that\nblocks projectile attacks.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_07
+JP: 物理攻撃を防ぐシールドを展開する。
+EN: Deploys a protective barrier that\nblocks melee attacks.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_08
+JP: ポッドを掴んで飛び上がり、真下に投げて\n叩きつける。落下地点には衝撃波が発生\nする。
+EN: Generates a powerful shock wave\nby slamming a Pod to the ground\nfrom an elevated height.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_09
+JP: ポッドから正面にワイヤーを射出する。\n敵にヒットすると、ワイヤーを巻き取り、\n敵に向かって突撃する。
+EN: Fires a wire in the direction that\nthe Pod is facing. If it hits a foe,\nit launches the combatant right to\nthe target for an up-close assault.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_10
+JP: 特定の場所にポッドを待機させ、プレイ\nヤーのホログラムを映し出し敵をおびき\n寄せ、射撃する。
+EN: Creates an image of the user,\ndrawing the attention of foes\nand firing upon them with\nthe Pod's ranged attack.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_11
+JP: 時間を歪める弾を投擲し、範囲内に入った\n敵がスローになる。
+EN: Creates a field that distorts time,\nslowing down all enemies that\nenter its vicinity.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_12
+JP: プレイヤーを回復するレーザーをポッドが\n一定時間照射し続ける。レーザーに当たり\n続けている間、HPが回復する。
+EN: Emits a temporary beam \ncapable of healing the \ncombatants as long as they \nremain within its radius.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_15
+JP: 一定時間、小型の爆雷を投擲し続ける。
+EN: Throws a volley of small\nexplosive charges over a set\nperiod of time.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_19
+JP: 範囲内の敵を引き寄せる効果のある重力\n弾を投擲する。
+EN: Unleashes a blast that sucks in\nany enemies in the vicinity.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_21
+JP: ポッドが近くの敵1体を感電させ、一定時間\nダメージを与え続ける。
+EN: Restrains and shocks one nearby\nenemy, causing continuous\ndamage over a set period of time.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_22
+JP: ポッドに飛び乗って勢いよく突進する。\n突進中は多少の方向転換が可能。
+EN: Allows a combatant to ride atop\na Pod—with a certain degree of\ndirectional control—as it rushes\nforward into the fray.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_24
+JP: 隠し採取ポイントに反応する超音波を発生\nさせる。採取ポイントに近づくとアイテムを\n可視化するビームを放つ。
+EN: Emits ultrasonic waves to \nscan the surroundings \nin search of hidden items.
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_01
+JP: R010：レーザー
+EN: R010: Laser
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_02
+JP: R020：ミラージュ
+EN: R020: Mirage
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_03
+JP: R030：ハンマー
+EN: R030: Hammer
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_04
+JP: R040：ブレード
+EN: R040: Blade
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_05
+JP: R050：スピアー
+EN: R050: Spear
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_06
+JP: R070：Mシールド
+EN: R070: M Shield
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_07
+JP: A060：Pシールド
+EN: A060: P Shield
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_08
+JP: A080：ウェーブ
+EN: A080: Wave
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_09
+JP: A090：ワイヤー
+EN: A090: Wire
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_10
+JP: A100：デコイ
+EN: A100: Decoy
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_11
+JP: A110：スロー
+EN: A110: Slow
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_12
+JP: A120：リペア
+EN: A120: Repair
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_15
+JP: A130：ボム
+EN: A130: Bomb
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_19
+JP: A140：グラビティ
+EN: A140: Gravity
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_21
+JP: A150：ヴォルト
+EN: A150: Volt
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_22
+JP: A160：ミサイル
+EN: A160: Missile
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_24
+JP: A170：スキャナー
+EN: A170: Scanner
+RU: 
+
+ID: CORE_ARCHIVE_020_000
+JP: 真珠湾降下作戦記録
+EN: Pearl Harbor Descent Records
+RU: 
+
+ID: CORE_ARCHIVE_020_010
+JP: ヨルハ：ガンナー十六号
+EN: YoRHa: Gunner 16
+RU: 
+
+ID: CORE_ARCHIVE_020_020
+JP: ヨルハ：スキャナー二十一号
+EN: YoRHa: Scanner 21
+RU: 
+
+ID: CORE_ARCHIVE_020_030
+JP: ヨルハ：アタッカー四号
+EN: YoRHa: Attacker 4
+RU: 
+
+ID: CORE_ARCHIVE_020_040
+JP: ヨルハ：アタッカー二号
+EN: YoRHa: Attacker 2
+RU: 
+
+ID: CORE_ARCHIVE_020_050
+JP: レジスタンス：ローズ
+EN: Resistance: Rose
+RU: 
+
+ID: CORE_ARCHIVE_020_060
+JP: レジスタンス：アネモネ
+EN: Resistance: Anemone
+RU: 
+
+ID: CORE_ARCHIVE_020_070
+JP: 真珠湾降下作戦総括
+EN: Pearl Harbor Descent Summary
+RU: 
+
+ID: CORE_ARCHIVE_030_000
+JP: 記憶
+EN: Memories
+RU: 
+
+ID: CORE_ARCHIVE_030_010
+JP: 歌姫の記憶
+EN: Memories of a Songstress
+RU: 
+
+ID: CORE_ARCHIVE_030_020
+JP: デボル・ポポルの記憶
+EN: Devola & Popola's Memories
+RU: 
+
+ID: CORE_ARCHIVE_030_030
+JP: ９Ｓの記憶
+EN: 9S's Memories
+RU: 
+
+ID: CORE_ARCHIVE_030_040
+JP: アネモネの記憶「遭遇」
+EN: Anemone: Encounter
+RU: 
+
+ID: CORE_ARCHIVE_030_050
+JP: アネモネの記憶「理解」
+EN: Anemone: Understanding
+RU: 
+
+ID: CORE_ARCHIVE_030_060
+JP: アネモネの記憶「別離」
+EN: Anemone: Separation
+RU: 
+
+ID: CORE_ARCHIVE_040_010
+JP: 森の国の王への手紙
+EN: Letter to the Forest King
+RU: 
+
+ID: CORE_ARCHIVE_050_010
+JP: １１Ｂの脱走計画
+EN: 11B's Escape Plan
+RU: 
+
+ID: CORE_ARCHIVE_080_010
+JP: ジャッカス先生の爆弾レシピ
+EN: Jackass's Bomb Recipe
+RU: 
+
+ID: CORE_ARCHIVE_090_000
+JP: 機械生命体が保存していた記録
+EN: Saved Machine Records
+RU: 
+
+ID: CORE_ARCHIVE_090_010
+JP: ライブラリ・インデックス
+EN: Library Index
+RU: 
+
+ID: CORE_ARCHIVE_090_020
+JP: 人類サーバー記録
+EN: Human Server Records
+RU: 
+
+ID: CORE_ARCHIVE_090_030
+JP: 「塔」システム概略
+EN: Tower System Outline
+RU: 
+
+ID: CORE_ARCHIVE_090_040
+JP: カルテ「特Ａ患者記録」
+EN: Class 1 Patient Health Record
+RU: 
+
+ID: CORE_ARCHIVE_090_050
+JP: 【極秘】ヨルハ計画概略
+EN: [Top Secret] Project YoRHa
+RU: 
+
+ID: CORE_ARCHIVE_090_060
+JP: 【極秘】ブラックボックス
+EN: [Top Secret] Black Box
+RU: 
+
+ID: CORE_ARCHIVE_090_070
+JP: 【極秘】二号モデル運用概略
+EN: [Top Secret] Model No.2
+RU: 
+
+ID: CORE_ARCHIVE_090_080
+JP: 【極秘】ヨルハ部隊廃棄について
+EN: [Top Secret] YoRHa Disposal
+RU: 
+
+ID: CORE_ARCHIVE_100_010
+JP: 武器屋のチラシ
+EN: Weapon Shop Flyer
+RU: 
+
+ID: CORE_ARCHIVE_120_000
+JP: エンゲルスの記憶
+EN: Engel's Memories
+RU: 
+
+ID: CORE_ARCHIVE_120_010
+JP: エンゲルス１１０－Ｂ記録０００５
+EN: Engels 110-B Record 0005
+RU: 
+
+ID: CORE_ARCHIVE_120_020
+JP: エンゲルス１１０－Ｂ記録００１０
+EN: Engels 110-B Record 0010
+RU: 
+
+ID: CORE_ARCHIVE_120_030
+JP: エンゲルス１１０－Ｂ記録００２０
+EN: Engels 110-B Record 0020
+RU: 
+
+ID: CORE_ARCHIVE_130_010
+JP: 幼い機械生命体の記憶
+EN: Infant Machine's Memories
+RU: 
+
+ID: CORE_ARCHIVE_140_000
+JP: サーバーに保存されていたデータ
+EN: Data Saved on Server
+RU: 
+
+ID: CORE_ARCHIVE_140_010
+JP: 資材搬出記録（月面人類会議宛）
+EN: Shipping Records
+RU: 
+
+ID: CORE_ARCHIVE_140_020
+JP: ヨルハ機体保管記録
+EN: YoRHa Body Storage Records
+RU: 
+
+ID: CORE_ARCHIVE_140_030
+JP: 人類会議及びヨルハ計画記録
+EN: Council/YoRHa Records
+RU: 
+
+ID: CORE_ARCHIVE_150_010
+JP: 神を信じたロボットの遺書
+EN: A Pious Robot's Will
+RU: 
+
+ID: CORE_ARCHIVE_160_010
+JP: 動物になった機械生命体の記憶
+EN: Record of a Bestial Machine
+RU: 
+
+ID: CORE_ARCHIVE_170_000
+JP: 旧世界の情報
+EN: Old World Information
+RU: 
+
+ID: CORE_ARCHIVE_170_010
+JP: 工場廃墟：落ちていたメモ
+EN: Abandoned Factory Memo
+RU: 
+
+ID: CORE_ARCHIVE_170_020
+JP: 工場廃墟：食堂の看板
+EN: Factory Cafeteria Sign
+RU: 
+
+ID: CORE_ARCHIVE_170_030
+JP: 水没廃墟：新聞の切れ端
+EN: Newspaper Scrap
+RU: 
+
+ID: CORE_ARCHIVE_170_040
+JP: 遊園地廃墟:汚れたクジ引き券
+EN: Filthy Lottery Ticket
+RU: 
+
+ID: CORE_ARCHIVE_170_050
+JP: 遊園地廃墟:ボロボロのパンフ
+EN: Tattered Pamphlet
+RU: 
+
+ID: CORE_ARCHIVE_170_060
+JP: 森の城：朽ちた案内用紙
+EN: Rotten Info Sheet
+RU: 
+
+ID: CORE_ARCHIVE_170_070
+JP: 森林地帯：不思議な人形
+EN: Strange Doll
+RU: 
+
+ID: CORE_ARCHIVE_170_080
+JP: 砂漠の団地：自治会会報の記録
+EN: Bulletin Record
+RU: 
+
+ID: CORE_ARCHIVE_170_090
+JP: 廃墟都市：自動車に挟まっていた紙
+EN: Paper Attached to Vehicle
+RU: 
+
+ID: CORE_ARCHIVE_170_100
+JP: 廃墟都市：ボロボロになったＤＶＤ
+EN: Ragged DVD
+RU: 
+
+ID: CORE_ARCHIVE_170_105
+JP: 廃墟都市：デパートのチラシ
+EN: Department Store Flyer
+RU: 
+
+ID: CORE_ARCHIVE_170_110
+JP: 廃墟都市：核兵器製造マニュアル
+EN: Nuclear Arms Manual
+RU: 
+
+ID: CORE_ARCHIVE_170_112
+JP: 謎の石版　０１
+EN: Mysterious Lithograph 1
+RU: 
+
+ID: CORE_ARCHIVE_170_114
+JP: 謎の石版　０２
+EN: Mysterious Lithograph 2
+RU: 
+
+ID: CORE_ARCHIVE_170_116
+JP: 謎の石版　０３
+EN: Mysterious Lithograph 3
+RU: 
+
+ID: CORE_ARCHIVE_170_118
+JP: 謎の石版　０４
+EN: Mysterious Lithograph 4
+RU: 
+
+ID: CORE_ARCHIVE_170_120
+JP: ゲシュタルト計画報告書　０１
+EN: Project Gestalt Report 1
+RU: 
+
+ID: CORE_ARCHIVE_170_130
+JP: ゲシュタルト計画報告書　０２
+EN: Project Gestalt Report 2
+RU: 
+
+ID: CORE_ARCHIVE_170_140
+JP: ゲシュタルト計画報告書　０３
+EN: Project Gestalt Report 3
+RU: 
+
+ID: CORE_ARCHIVE_170_150
+JP: ゲシュタルト計画報告書　０４
+EN: Project Gestalt Report 4
+RU: 
+
+ID: CORE_ARCHIVE_170_160
+JP: ゲシュタルト計画報告書　０５
+EN: Project Gestalt Report 5
+RU: 
+
+ID: CORE_ARCHIVE_170_170
+JP: ゲシュタルト計画報告書　０６
+EN: Project Gestalt Report 6
+RU: 
+
+ID: CORE_ARCHIVE_170_180
+JP: ゲシュタルト計画報告書　０７
+EN: Project Gestalt Report 7
+RU: 
+
+ID: CORE_ARCHIVE_170_190
+JP: ゲシュタルト計画報告書　０８
+EN: Project Gestalt Report 8
+RU: 
+
+ID: CORE_ARCHIVE_170_200
+JP: ゲシュタルト計画報告書　０９
+EN: Project Gestalt Report 9
+RU: 
+
+ID: CORE_ARCHIVE_170_210
+JP: ゲシュタルト計画報告書　１０
+EN: Project Gestalt Report 10
+RU: 
+
+ID: CORE_ARCHIVE_170_220
+JP: ゲシュタルト計画報告書　１１
+EN: Project Gestalt Report 11
+RU: 
+
+ID: CORE_ARCHIVE_180_010
+JP: 機械生命体研究報告書
+EN: Machine Research Report
+RU: 
+
+ID: CORE_ARCHIVE_GET_01
+JP: アーカイブを入手しました。
+EN: Archive obtained:
+RU: 
+
+ID: CORE_BOOK_01
+JP: 絵本：たましいのひ
+EN: Spirit of Fire
+RU: 
+
+ID: CORE_BOOK_02
+JP: 絵本：たいせつなもの
+EN: Treasured Items
+RU: 
+
+ID: CORE_BOOK_03
+JP: 絵本：おやごろし
+EN: Parenticide
+RU: 
+
+ID: CORE_BOOK_04
+JP: 絵本：やさしいおうさま
+EN: The Kind King
+RU: 
+
+ID: CORE_BOOK_05
+JP: 絵本：くらいうみのそこ
+EN: In the Deep Sea
+RU: 
+
+ID: CORE_BOOK_06
+JP: 絵本：いきるいみ
+EN: A Reason to Live
+RU: 
+
+ID: CORE_BOOK_07
+JP: 絵本：みんないっしょ
+EN: Together
+RU: 
+
+ID: CORE_BOOK_08
+JP: 絵本：せんそうのきおく
+EN: Memories of War
+RU: 
+
+ID: CORE_DBG_DIALOG_01
+JP: デバッグメニューを操作すると、再度セーブデータをロードするまで\nセーブ機能が使えなくなります。
+EN: When using the debug menu, the save function is disabled until you load a previous save.
+RU: 
+
+ID: CORE_DBG_DIALOG_02
+JP: デバッグメニューを操作したためセーブできません。
+EN: You cannot save because you used the debug menu.
+RU: 
+
+ID: CORE_DLC_LOST
+JP: DLCデータが存在しません。
+EN: DLC data not found for:
+RU: 
+
+ID: CORE_DLC_LOST_2
+JP: DLC「3C3C1D119440927」に関するデータが削除されました。
+EN: The data for the "3C3C1D119440927" content has been deleted.
+RU: 
+
+ID: CORE_DYING_BASE_00
+JP: 「 【<SENTENCE_01>】 は 【<CONJUNCTION>】 で 【<SENTENCE_02>】 」
+EN: "[<SENTENCE_01>] [<SENTENCE_02>] [<CONJUNCTION>]."
+RU: 
+
+ID: CORE_DYING_BASE_01
+JP: <SENTENCE_01>は<CONJUNCTION>で<SENTENCE_02>
+EN: <SENTENCE_01> <SENTENCE_02> <CONJUNCTION>.
+RU: 
+
+ID: CORE_DYING_FIRST_000
+JP: どこかの誰か
+EN: Someone somewhere
+RU: 
+
+ID: CORE_DYING_FIRST_001
+JP: <NAME>
+EN: <NAME>
+RU: 
+
+ID: CORE_DYING_FIRST_002
+JP: 私
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_003
+JP: ワタシ
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_004
+JP: わたし
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_005
+JP: アタシ
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_006
+JP: 俺
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_007
+JP: オレ
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_008
+JP: 僕
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_009
+JP: ぼく
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_010
+JP: ボク
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_011
+JP: 我
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_012
+JP: 名もなきアンドロイド
+EN: A nameless android
+RU: 
+
+ID: CORE_DYING_FIRST_013
+JP: 一体のアンドロイド
+EN: One android
+RU: 
+
+ID: CORE_DYING_FIRST_014
+JP: 傷だらけのアンドロイド
+EN: A wounded android
+RU: 
+
+ID: CORE_DYING_FIRST_015
+JP: 黒いアンドロイド
+EN: A black android
+RU: 
+
+ID: CORE_DYING_FIRST_016
+JP: 人を模した機械
+EN: A humanoid machine
+RU: 
+
+ID: CORE_DYING_FIRST_017
+JP: ひとりの兵士
+EN: A lone soldier
+RU: 
+
+ID: CORE_DYING_FIRST_018
+JP: 勇猛な兵士
+EN: A ferocious soldier
+RU: 
+
+ID: CORE_DYING_FIRST_019
+JP: 勇敢な兵士
+EN: A courageous soldier
+RU: 
+
+ID: CORE_DYING_FIRST_020
+JP: 臆病な兵士
+EN: A craven soldier
+RU: 
+
+ID: CORE_DYING_FIRST_021
+JP: 貪欲な兵士
+EN: A greedy soldier
+RU: 
+
+ID: CORE_DYING_FIRST_022
+JP: 聡明な兵士
+EN: A shrewd soldier
+RU: 
+
+ID: CORE_DYING_FIRST_023
+JP: 忠実な兵士
+EN: A loyal soldier
+RU: 
+
+ID: CORE_DYING_FIRST_024
+JP: 奔放な兵士
+EN: A bohemian soldier
+RU: 
+
+ID: CORE_DYING_FIRST_025
+JP: 未熟な兵士
+EN: An inexperienced soldier
+RU: 
+
+ID: CORE_DYING_FIRST_026
+JP: 夢見る兵士
+EN: A naive soldier
+RU: 
+
+ID: CORE_DYING_FIRST_027
+JP: 仲間思いの兵士
+EN: A cooperative soldier
+RU: 
+
+ID: CORE_DYING_FIRST_028
+JP: 無鉄砲な兵士
+EN: A reckless soldier
+RU: 
+
+ID: CORE_DYING_FIRST_029
+JP: 平凡な兵士
+EN: An unremarkable soldier
+RU: 
+
+ID: CORE_DYING_FIRST_030
+JP: ひとりの剣士
+EN: A lone swordsman
+RU: 
+
+ID: CORE_DYING_FIRST_031
+JP: ひとりの槍兵
+EN: A lone lancer
+RU: 
+
+ID: CORE_DYING_FIRST_032
+JP: ひとりの格闘家
+EN: A lone pugilist
+RU: 
+
+ID: CORE_DYING_FIRST_033
+JP: ある二刀使い
+EN: A dual-wielder
+RU: 
+
+ID: CORE_DYING_FIRST_034
+JP: 武器を持たない兵士
+EN: A weaponless soldier
+RU: 
+
+ID: CORE_DYING_FIRST_035
+JP: 美しきアンドロイド
+EN: A beautiful android
+RU: 
+
+ID: CORE_DYING_FIRST_036
+JP: 小さなアンドロイド
+EN: A small android
+RU: 
+
+ID: CORE_DYING_FIRST_037
+JP: 裏切りのアンドロイド
+EN: A double-crossing android
+RU: 
+
+ID: CORE_DYING_FIRST_038
+JP: 武器をとったアンドロイド
+EN: A weapon-carrying android
+RU: 
+
+ID: CORE_DYING_FIRST_039
+JP: 感情を持ったアンドロイド
+EN: An emotional android
+RU: 
+
+ID: CORE_DYING_FIRST_040
+JP: 殺戮のアンドロイド
+EN: A ruthless android
+RU: 
+
+ID: CORE_DYING_FIRST_041
+JP: 孤独なアンドロイド
+EN: A solitary android
+RU: 
+
+ID: CORE_DYING_FIRST_042
+JP: 自由気ままなアンドロイド
+EN: A carefree android
+RU: 
+
+ID: CORE_DYING_FIRST_043
+JP: 生真面目なアンドロイド
+EN: A serious android
+RU: 
+
+ID: CORE_DYING_FIRST_044
+JP: 戦いに生きるアンドロイド
+EN: A combat-loving android
+RU: 
+
+ID: CORE_DYING_FIRST_045
+JP: 自然を愛するアンドロイド
+EN: A nature-loving android
+RU: 
+
+ID: CORE_DYING_FIRST_046
+JP: 動物を愛するアンドロイド
+EN: An animal-loving android
+RU: 
+
+ID: CORE_DYING_FIRST_047
+JP: 海を愛するアンドロイド
+EN: A sea-loving android
+RU: 
+
+ID: CORE_DYING_FIRST_048
+JP: 空を愛するアンドロイド
+EN: A sky-loving android
+RU: 
+
+ID: CORE_DYING_FIRST_049
+JP: 地球を愛するアンドロイド
+EN: An earth-loving android
+RU: 
+
+ID: CORE_DYING_FIRST_050
+JP: 愚かな人形
+EN: A foolish doll
+RU: 
+
+ID: CORE_DYING_FIRST_051
+JP: 夢見がちな少年
+EN: A dreamy child
+RU: 
+
+ID: CORE_DYING_FIRST_052
+JP: 誇りある男
+EN: A proud man
+RU: 
+
+ID: CORE_DYING_FIRST_053
+JP: 正義を信じる少年
+EN: A just, young boy
+RU: 
+
+ID: CORE_DYING_FIRST_054
+JP: 呪われた少年
+EN: A cursed child
+RU: 
+
+ID: CORE_DYING_FIRST_055
+JP: 秘密の少女
+EN: A secretive girl
+RU: 
+
+ID: CORE_DYING_FIRST_056
+JP: 孤独な女性
+EN: A lone woman
+RU: 
+
+ID: CORE_DYING_FIRST_057
+JP: 苦しむ少女
+EN: A suffering girl
+RU: 
+
+ID: CORE_DYING_FIRST_058
+JP: 怯えた少女
+EN: A scared girl
+RU: 
+
+ID: CORE_DYING_FIRST_059
+JP: 壊れた女
+EN: A broken woman
+RU: 
+
+ID: CORE_DYING_FIRST_060
+JP: 復讐に燃える少女
+EN: A vengeful girl
+RU: 
+
+ID: CORE_DYING_FIRST_061
+JP: 何も信じない女性
+EN: A woman without beliefs
+RU: 
+
+ID: CORE_DYING_FIRST_062
+JP: 激情の女剣士
+EN: A passionate amazon
+RU: 
+
+ID: CORE_DYING_FIRST_063
+JP: 哀れな子羊
+EN: A poor lamb
+RU: 
+
+ID: CORE_DYING_FIRST_064
+JP: 心を抉られた人形
+EN: A hollowed-out doll
+RU: 
+
+ID: CORE_DYING_FIRST_065
+JP: あたち
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_066
+JP: ぼくちゃん
+EN: I
+RU: 
+
+ID: CORE_DYING_FIRST_067
+JP: 俺様
+EN: I
+RU: 
+
+ID: CORE_DYING_JUNCTION_001
+JP: 空に浮かぶ揺りかご
+EN: in a cradle in the sky
+RU: 
+
+ID: CORE_DYING_JUNCTION_002
+JP: 地球を見下ろすバンカー
+EN: at the Bunker, looking at Earth
+RU: 
+
+ID: CORE_DYING_JUNCTION_003
+JP: ヨルハの本拠地
+EN: at YoRHa HQ
+RU: 
+
+ID: CORE_DYING_JUNCTION_004
+JP: 緑に沈む都市
+EN: at a city drowned in green
+RU: 
+
+ID: CORE_DYING_JUNCTION_005
+JP: 栄えた文明の残骸
+EN: at the ruins of a civilization
+RU: 
+
+ID: CORE_DYING_JUNCTION_006
+JP: 自然に喰われた都市
+EN: at a city consumed by nature
+RU: 
+
+ID: CORE_DYING_JUNCTION_007
+JP: 人の去った大地
+EN: in a deserted land
+RU: 
+
+ID: CORE_DYING_JUNCTION_008
+JP: 穴のあいた都市
+EN: at a city with a gaping hole
+RU: 
+
+ID: CORE_DYING_JUNCTION_009
+JP: 自然に還りゆく街
+EN: in a city reclaimed by nature
+RU: 
+
+ID: CORE_DYING_JUNCTION_010
+JP: 鉄錆の山
+EN: at a mountain of metal
+RU: 
+
+ID: CORE_DYING_JUNCTION_011
+JP: ガラクタの都
+EN: at the capital of junk
+RU: 
+
+ID: CORE_DYING_JUNCTION_012
+JP: 信仰の山
+EN: at a religious mountain
+RU: 
+
+ID: CORE_DYING_JUNCTION_013
+JP: 鉄くずのふるさと
+EN: at the home of scrap-iron
+RU: 
+
+ID: CORE_DYING_JUNCTION_014
+JP: 虚栄の森
+EN: in a vain forest
+RU: 
+
+ID: CORE_DYING_JUNCTION_015
+JP: 黒く深き森
+EN: in a deep, dark forest
+RU: 
+
+ID: CORE_DYING_JUNCTION_016
+JP: 新緑深き森
+EN: in a lush forest
+RU: 
+
+ID: CORE_DYING_JUNCTION_017
+JP: 機械生命体の王国
+EN: at the kingdom of machines
+RU: 
+
+ID: CORE_DYING_JUNCTION_018
+JP: 終わった夢の世界
+EN: in a world of ended dreams
+RU: 
+
+ID: CORE_DYING_JUNCTION_019
+JP: 歪んだおとぎの国
+EN: in a land of distorted fairy tales
+RU: 
+
+ID: CORE_DYING_JUNCTION_020
+JP: 光に飾られた街
+EN: at a city filled with light
+RU: 
+
+ID: CORE_DYING_JUNCTION_021
+JP: 幕の下りた舞台
+EN: at a closed theater
+RU: 
+
+ID: CORE_DYING_JUNCTION_022
+JP: 誰も居ない舞台の上
+EN: at an empty theater
+RU: 
+
+ID: CORE_DYING_JUNCTION_023
+JP: 水に沈んだ街
+EN: at a sunken city
+RU: 
+
+ID: CORE_DYING_JUNCTION_024
+JP: 水に浸食された都市
+EN: at a city consumed by water
+RU: 
+
+ID: CORE_DYING_JUNCTION_025
+JP: 青に呑まれた都市
+EN: at a city drenched in blue
+RU: 
+
+ID: CORE_DYING_JUNCTION_026
+JP: 偽りの都市
+EN: at a fake city
+RU: 
+
+ID: CORE_DYING_JUNCTION_027
+JP: 造られた街
+EN: at a manufactured city
+RU: 
+
+ID: CORE_DYING_JUNCTION_028
+JP: ハコの街
+EN: at a city of boxes
+RU: 
+
+ID: CORE_DYING_JUNCTION_029
+JP: 積み木の街
+EN: at a city of building blocks
+RU: 
+
+ID: CORE_DYING_JUNCTION_030
+JP: 無機質な街
+EN: at an inorganic city
+RU: 
+
+ID: CORE_DYING_JUNCTION_031
+JP: 模倣都市
+EN: at a copied city
+RU: 
+
+ID: CORE_DYING_JUNCTION_032
+JP: 黒き幻影の砂漠
+EN: in a desert of shadows
+RU: 
+
+ID: CORE_DYING_JUNCTION_033
+JP: 砂の世界
+EN: in a world of sand
+RU: 
+
+ID: CORE_DYING_JUNCTION_034
+JP: 砂に埋もれた日常
+EN: in days of sand
+RU: 
+
+ID: CORE_DYING_JUNCTION_035
+JP: 死の風が吹く砂場
+EN: surrounded by the winds of death
+RU: 
+
+ID: CORE_DYING_JUNCTION_036
+JP: 都市のあなぐら
+EN: in a dark hole beneath a city
+RU: 
+
+ID: CORE_DYING_JUNCTION_037
+JP: 暗い地下道
+EN: underground
+RU: 
+
+ID: CORE_DYING_JUNCTION_038
+JP: 憎き敵の本拠地
+EN: at the enemy's lair
+RU: 
+
+ID: CORE_DYING_JUNCTION_039
+JP: 空っぽの船の中
+EN: inside an empty ship
+RU: 
+
+ID: CORE_DYING_JUNCTION_040
+JP: 神が造りし巨塔
+EN: at a tower built by the gods
+RU: 
+
+ID: CORE_DYING_JUNCTION_041
+JP: 天使が笑う塔の上
+EN: on a tower smiled upon by angels
+RU: 
+
+ID: CORE_DYING_JUNCTION_042
+JP: 大地に刺さる塔の中
+EN: inside a tall tower
+RU: 
+
+ID: CORE_DYING_JUNCTION_043
+JP: 平和を愛する村
+EN: at a peace-loving village
+RU: 
+
+ID: CORE_DYING_JUNCTION_044
+JP: 戦いから逃れた者たちの村
+EN: at a village of refugees
+RU: 
+
+ID: CORE_DYING_JUNCTION_045
+JP: 自由な空の上
+EN: in the free skies
+RU: 
+
+ID: CORE_DYING_JUNCTION_046
+JP: 暗い空の下
+EN: below dark skies
+RU: 
+
+ID: CORE_DYING_JUNCTION_047
+JP: 海の上の戦場
+EN: at a battlefield on the sea
+RU: 
+
+ID: CORE_DYING_JUNCTION_048
+JP: 仇敵との決戦の場
+EN: during the decisive battle
+RU: 
+
+ID: CORE_DYING_JUNCTION_049
+JP: 無意味な争いの舞台
+EN: during a pointless battle
+RU: 
+
+ID: CORE_DYING_JUNCTION_050
+JP: 緑の大地の上
+EN: on green pastures
+RU: 
+
+ID: CORE_DYING_JUNCTION_051
+JP: 輝く水面の上
+EN: on a shining blue surface
+RU: 
+
+ID: CORE_DYING_JUNCTION_052
+JP: 固い鉄の地面
+EN: on ground of steel
+RU: 
+
+ID: CORE_DYING_JUNCTION_053
+JP: 崩れたビルの上
+EN: on a collapsed building
+RU: 
+
+ID: CORE_DYING_JUNCTION_054
+JP: 乾いた砂の上
+EN: on dry sand
+RU: 
+
+ID: CORE_DYING_JUNCTION_055
+JP: 青い地球を望む場所
+EN: looking down on Earth
+RU: 
+
+ID: CORE_DYING_JUNCTION_056
+JP: 地獄の底
+EN: in the depths of hell
+RU: 
+
+ID: CORE_DYING_JUNCTION_057
+JP: 奈落
+EN: in the abyss
+RU: 
+
+ID: CORE_DYING_JUNCTION_058
+JP: ありえない程深い闇
+EN: in the deepest darkness
+RU: 
+
+ID: CORE_DYING_JUNCTION_059
+JP: 血風舞う戦場
+EN: at a blood-soaked battlefield
+RU: 
+
+ID: CORE_DYING_JUNCTION_060
+JP: 過去に囚われた地
+EN: at a land stuck in the past
+RU: 
+
+ID: CORE_DYING_JUNCTION_061
+JP: 想い出の場所
+EN: at a place of memories
+RU: 
+
+ID: CORE_DYING_JUNCTION_062
+JP: あの人がいた国
+EN: in the land where he used to live
+RU: 
+
+ID: CORE_DYING_JUNCTION_063
+JP: あそこ
+EN: over there
+RU: 
+
+ID: CORE_DYING_JUNCTION_064
+JP: そこ
+EN: there
+RU: 
+
+ID: CORE_DYING_JUNCTION_065
+JP: クソみたいな掃き溜め
+EN: at a garbage dump
+RU: 
+
+ID: CORE_DYING_JUNCTION_066
+JP: ウンザリするような田舎
+EN: in the boring countryside
+RU: 
+
+ID: CORE_DYING_JUNCTION_067
+JP: 地味な場所
+EN: somewhere very dull
+RU: 
+
+ID: CORE_DYING_JUNCTION_068
+JP: 墓場にふさわしい所
+EN: at a place fit to die
+RU: 
+
+ID: CORE_DYING_JUNCTION_069
+JP: まっくらなトコロ
+EN: somewhere very dark
+RU: 
+
+ID: CORE_DYING_JUNCTION_070
+JP: よくわかんないところ
+EN: in a confusing place
+RU: 
+
+ID: CORE_DYING_LAST_001_01
+JP: 憎むべき敵を見た
+EN: saw my most hated enemy
+RU: 
+
+ID: CORE_DYING_LAST_001_02
+JP: 憎むべき敵を見た
+EN: saw a bitter enemy
+RU: 
+
+ID: CORE_DYING_LAST_002_01
+JP: 哀れな鉄の塊を見た
+EN: saw a pathetic lump of metal
+RU: 
+
+ID: CORE_DYING_LAST_002_02
+JP: 哀れな鉄の塊を見た
+EN: saw a pathetic lump of metal
+RU: 
+
+ID: CORE_DYING_LAST_003_01
+JP: 故郷を奪い去った者たちを見た
+EN: saw the conquering invaders
+RU: 
+
+ID: CORE_DYING_LAST_003_02
+JP: 故郷を奪い去った者たちを見た
+EN: saw conquering invaders
+RU: 
+
+ID: CORE_DYING_LAST_004_01
+JP: 美しい地球に巣食う敵を見た
+EN: saw the enemy take over Earth
+RU: 
+
+ID: CORE_DYING_LAST_004_02
+JP: 美しい地球に巣食う敵を見た
+EN: saw the enemy take over Earth
+RU: 
+
+ID: CORE_DYING_LAST_005_01
+JP: 無感情な機械たちを見た
+EN: saw emotionless machines
+RU: 
+
+ID: CORE_DYING_LAST_005_02
+JP: 無感情な機械たちを見た
+EN: saw emotionless machines
+RU: 
+
+ID: CORE_DYING_LAST_006_01
+JP: 多くの同胞たちを思った
+EN: thought of my many friends
+RU: 
+
+ID: CORE_DYING_LAST_006_02
+JP: 多くの同胞たちを思った
+EN: thought of many friends
+RU: 
+
+ID: CORE_DYING_LAST_007_01
+JP: かつての同胞たちの姿を見た
+EN: saw my old companions
+RU: 
+
+ID: CORE_DYING_LAST_007_02
+JP: かつての同胞たちの姿を見た
+EN: saw old companions
+RU: 
+
+ID: CORE_DYING_LAST_008_01
+JP: 仲間であったはずのヨルハの兵士を見た
+EN: saw a YoRHa once considered a friend
+RU: 
+
+ID: CORE_DYING_LAST_008_02
+JP: 仲間であったはずのヨルハの兵士を見た
+EN: saw a YoRHa once considered a friend
+RU: 
+
+ID: CORE_DYING_LAST_009_01
+JP: 赤い目をしたアンドロイドを見た
+EN: saw an android with red eyes
+RU: 
+
+ID: CORE_DYING_LAST_009_02
+JP: 赤い目をしたアンドロイドを見た
+EN: saw an android with red eyes
+RU: 
+
+ID: CORE_DYING_LAST_010_01
+JP: 自我を蝕まれた同胞たちを見た
+EN: saw squadmates lose their minds
+RU: 
+
+ID: CORE_DYING_LAST_010_02
+JP: 自我を蝕まれた同胞たちを見た
+EN: saw squadmates lose their minds
+RU: 
+
+ID: CORE_DYING_LAST_011_01
+JP: 仲間の勝利を願った
+EN: wished for my friends' victory
+RU: 
+
+ID: CORE_DYING_LAST_011_02
+JP: 仲間の勝利を願った
+EN: wished for a friend's victory
+RU: 
+
+ID: CORE_DYING_LAST_012_01
+JP: 記憶に無い懐かしい姿を見た
+EN: saw something strange yet nostalgic
+RU: 
+
+ID: CORE_DYING_LAST_012_02
+JP: 記憶に無い懐かしい姿を見た
+EN: saw something strange yet nostalgic
+RU: 
+
+ID: CORE_DYING_LAST_013_01
+JP: 失ったモノたちの幻を見た
+EN: saw a vision of those lost
+RU: 
+
+ID: CORE_DYING_LAST_013_02
+JP: 失ったモノたちの幻を見た
+EN: saw a vision of those lost
+RU: 
+
+ID: CORE_DYING_LAST_014_01
+JP: 愛する者を思った
+EN: thought of my beloved
+RU: 
+
+ID: CORE_DYING_LAST_014_02
+JP: 愛する者を思った
+EN: thought of a loved one
+RU: 
+
+ID: CORE_DYING_LAST_015_01
+JP: 人を模倣する哀れな機械生命体を見た
+EN: saw a machine imitating a human
+RU: 
+
+ID: CORE_DYING_LAST_015_02
+JP: 人を模倣する哀れな機械生命体を見た
+EN: saw a machine imitating a human
+RU: 
+
+ID: CORE_DYING_LAST_016_01
+JP: 生と死に戸惑う機械生命体を見た
+EN: saw a machine ponder life and death
+RU: 
+
+ID: CORE_DYING_LAST_016_02
+JP: 生と死に戸惑う機械生命体を見た
+EN: saw a machine ponder life and death
+RU: 
+
+ID: CORE_DYING_LAST_017_01
+JP: 廃墟の街をさまよう機械生命体を見た
+EN: saw a machine wandering around
+RU: 
+
+ID: CORE_DYING_LAST_017_02
+JP: 廃墟の街をさまよう機械生命体を見た
+EN: saw a machine wandering around
+RU: 
+
+ID: CORE_DYING_LAST_018_01
+JP: 王国を守ろうとする蛮勇の兵たちを見た
+EN: saw soldiers protecting their land
+RU: 
+
+ID: CORE_DYING_LAST_018_02
+JP: 王国を守ろうとする蛮勇の兵たちを見た
+EN: saw soldiers protecting their land
+RU: 
+
+ID: CORE_DYING_LAST_019_01
+JP: 終わらないパレードを楽しむ機械生命体を見た
+EN: saw machines enjoying a parade
+RU: 
+
+ID: CORE_DYING_LAST_019_02
+JP: 終わらないパレードを楽しむ機械生命体を見た
+EN: saw machines enjoying a parade
+RU: 
+
+ID: CORE_DYING_LAST_020_01
+JP: 不確かなものを信じる機械生命体を見た
+EN: saw machines that believed in the uncertain
+RU: 
+
+ID: CORE_DYING_LAST_020_02
+JP: 不確かなものを信じる機械生命体を見た
+EN: saw machines that believed in the uncertain
+RU: 
+
+ID: CORE_DYING_LAST_021_01
+JP: 思想に縋る機械生命体を見た
+EN: saw a machine in deep thought
+RU: 
+
+ID: CORE_DYING_LAST_021_02
+JP: 思想に縋る機械生命体を見た
+EN: saw a machine in deep thought
+RU: 
+
+ID: CORE_DYING_LAST_022_01
+JP: 踊り狂う機械生命体を見た
+EN: saw a machine dancing like mad
+RU: 
+
+ID: CORE_DYING_LAST_022_02
+JP: 踊り狂う機械生命体を見た
+EN: saw a machine dancing like mad
+RU: 
+
+ID: CORE_DYING_LAST_023_01
+JP: 兄を思う機械生命体を見た
+EN: saw a caring machine
+RU: 
+
+ID: CORE_DYING_LAST_023_02
+JP: 兄を思う機械生命体を見た
+EN: saw a caring machine
+RU: 
+
+ID: CORE_DYING_LAST_024_01
+JP: 弟を思う機械生命体を見た
+EN: saw a machine full of love
+RU: 
+
+ID: CORE_DYING_LAST_024_02
+JP: 弟を思う機械生命体を見た
+EN: saw a machine full of love
+RU: 
+
+ID: CORE_DYING_LAST_025_01
+JP: 空を徘徊する機械生命体を見た
+EN: saw a machine flying around
+RU: 
+
+ID: CORE_DYING_LAST_025_02
+JP: 空を徘徊する機械生命体を見た
+EN: saw a machine flying around
+RU: 
+
+ID: CORE_DYING_LAST_026_01
+JP: 我が身を散らす機械生命体を見た
+EN: saw a machine end it all
+RU: 
+
+ID: CORE_DYING_LAST_026_02
+JP: 我が身を散らす機械生命体を見た
+EN: saw a machine end it all
+RU: 
+
+ID: CORE_DYING_LAST_027_01
+JP: 敵を倒すだけの機械を見た
+EN: saw a machine living for combat
+RU: 
+
+ID: CORE_DYING_LAST_027_02
+JP: 敵を倒すだけの機械を見た
+EN: saw a machine living for combat
+RU: 
+
+ID: CORE_DYING_LAST_028_01
+JP: 仲間を喰らう異質な機械生命体を見た
+EN: saw a machine eating its own kind
+RU: 
+
+ID: CORE_DYING_LAST_028_02
+JP: 仲間を喰らう異質な機械生命体を見た
+EN: saw a machine eating its own kind
+RU: 
+
+ID: CORE_DYING_LAST_029_01
+JP: 人に焦がれる機械生命体を見た
+EN: saw a machine in love with humans
+RU: 
+
+ID: CORE_DYING_LAST_029_02
+JP: 人に焦がれる機械生命体を見た
+EN: saw a machine in love with humans
+RU: 
+
+ID: CORE_DYING_LAST_030_01
+JP: 迷子の機械生命体を見た
+EN: saw a lost machine
+RU: 
+
+ID: CORE_DYING_LAST_030_02
+JP: 迷子の機械生命体を見た
+EN: saw a lost machine
+RU: 
+
+ID: CORE_DYING_LAST_031_01
+JP: 砂に潜む機械生命体を見た
+EN: saw a machine buried in sand
+RU: 
+
+ID: CORE_DYING_LAST_031_02
+JP: 砂に潜む機械生命体を見た
+EN: saw a machine buried in sand
+RU: 
+
+ID: CORE_DYING_LAST_032_01
+JP: 木陰に潜む機械生命体を見た
+EN: saw a machine behind a tree
+RU: 
+
+ID: CORE_DYING_LAST_032_02
+JP: 木陰に潜む機械生命体を見た
+EN: saw a machine behind a tree
+RU: 
+
+ID: CORE_DYING_LAST_033_01
+JP: 夢見る機械生命体を見た
+EN: saw a machine with dreams
+RU: 
+
+ID: CORE_DYING_LAST_033_02
+JP: 夢見る機械生命体を見た
+EN: saw a machine with dreams
+RU: 
+
+ID: CORE_DYING_LAST_034_01
+JP: ガラクタに潜む機械生命体を見た
+EN: saw a machine living in junk
+RU: 
+
+ID: CORE_DYING_LAST_034_02
+JP: ガラクタに潜む機械生命体を見た
+EN: saw a machine living in junk
+RU: 
+
+ID: CORE_DYING_LAST_035_01
+JP: 廃墟の街を闊歩する機械生命体を見た
+EN: saw a machine taking a walk
+RU: 
+
+ID: CORE_DYING_LAST_035_02
+JP: 廃墟の街を闊歩する機械生命体を見た
+EN: saw a machine taking a walk
+RU: 
+
+ID: CORE_DYING_LAST_036_01
+JP: 空を覆う機械生命体を見た
+EN: saw a machine cover the skies
+RU: 
+
+ID: CORE_DYING_LAST_036_02
+JP: 空を覆う機械生命体を見た
+EN: saw a machine cover the skies
+RU: 
+
+ID: CORE_DYING_LAST_037_01
+JP: 白い花を見た
+EN: saw a white flower
+RU: 
+
+ID: CORE_DYING_LAST_037_02
+JP: 白い花を見た
+EN: saw a white flower
+RU: 
+
+ID: CORE_DYING_LAST_038_01
+JP: 揺れる草木を見た
+EN: saw swaying flora
+RU: 
+
+ID: CORE_DYING_LAST_038_02
+JP: 揺れる草木を見た
+EN: saw swaying flora
+RU: 
+
+ID: CORE_DYING_LAST_039_01
+JP: 流れる水の音を聞いた
+EN: heard the sound of flowing water
+RU: 
+
+ID: CORE_DYING_LAST_039_02
+JP: 流れる水の音を聞いた
+EN: heard the sound of flowing water
+RU: 
+
+ID: CORE_DYING_LAST_040_01
+JP: さざ波の音を聞いた
+EN: heard the sound of waves
+RU: 
+
+ID: CORE_DYING_LAST_040_02
+JP: さざ波の音を聞いた
+EN: heard the sound of waves
+RU: 
+
+ID: CORE_DYING_LAST_041_01
+JP: 機械生命体の足音を聞いた
+EN: heard the footsteps of machines
+RU: 
+
+ID: CORE_DYING_LAST_041_02
+JP: 機械生命体の足音を聞いた
+EN: heard the footsteps of machines
+RU: 
+
+ID: CORE_DYING_LAST_042_01
+JP: 仲間の呼び声を聞いた
+EN: heard the calls of his friends
+RU: 
+
+ID: CORE_DYING_LAST_042_02
+JP: 仲間の呼び声を聞いた
+EN: heard the call of friends
+RU: 
+
+ID: CORE_DYING_LAST_043_01
+JP: 青い鳥を見た
+EN: saw a blue bird
+RU: 
+
+ID: CORE_DYING_LAST_043_02
+JP: 青い鳥を見た
+EN: saw a blue bird
+RU: 
+
+ID: CORE_DYING_LAST_044_01
+JP: 一冊の白い本を見た
+EN: saw a white book
+RU: 
+
+ID: CORE_DYING_LAST_044_02
+JP: 一冊の白い本を見た
+EN: saw a white book
+RU: 
+
+ID: CORE_DYING_LAST_045_01
+JP: 一冊の黒い本を見た
+EN: saw a black book
+RU: 
+
+ID: CORE_DYING_LAST_045_02
+JP: 一冊の黒い本を見た
+EN: saw a black book
+RU: 
+
+ID: CORE_DYING_LAST_046_01
+JP: 水の冷たさを感じた
+EN: felt the coldness of water
+RU: 
+
+ID: CORE_DYING_LAST_046_02
+JP: 水の冷たさを感じた
+EN: felt the coldness of water
+RU: 
+
+ID: CORE_DYING_LAST_047_01
+JP: 焼けた砂の熱さを感じた
+EN: felt the heat of sand
+RU: 
+
+ID: CORE_DYING_LAST_047_02
+JP: 焼けた砂の熱さを感じた
+EN: felt the heat of sand
+RU: 
+
+ID: CORE_DYING_LAST_048_01
+JP: 楽しげに笑う少女の声を聞いた
+EN: heard a girl laughing merrily
+RU: 
+
+ID: CORE_DYING_LAST_048_02
+JP: 楽しげに笑う少女の声を聞いた
+EN: heard a girl laughing merrily
+RU: 
+
+ID: CORE_DYING_LAST_049_01
+JP: 自分を見下ろす赤い瞳を見た
+EN: saw red eyes gazing down
+RU: 
+
+ID: CORE_DYING_LAST_049_02
+JP: 自分を見下ろす赤い瞳を見た
+EN: saw red eyes gazing down
+RU: 
+
+ID: CORE_DYING_LAST_050_01
+JP: 狂った機械生命体の叫び声を聞いた
+EN: heard the screams of crazed machines
+RU: 
+
+ID: CORE_DYING_LAST_050_02
+JP: 狂った機械生命体の叫び声を聞いた
+EN: heard the screams of crazed machines
+RU: 
+
+ID: CORE_DYING_LAST_051_01
+JP: 狂ったアンドロイドの叫び声を聞いた
+EN: heard the screams of crazed androids
+RU: 
+
+ID: CORE_DYING_LAST_051_02
+JP: 狂ったアンドロイドの叫び声を聞いた
+EN: heard the screams of crazed androids
+RU: 
+
+ID: CORE_DYING_LAST_052_01
+JP: 自身の無力さを悔いた
+EN: felt my own lack of strength
+RU: 
+
+ID: CORE_DYING_LAST_052_02
+JP: 自身の無力さを悔いた
+EN: felt utterly powerless
+RU: 
+
+ID: CORE_DYING_LAST_053_01
+JP: 敵の強さに笑った
+EN: laughed at the enemy's strength
+RU: 
+
+ID: CORE_DYING_LAST_053_02
+JP: 敵の強さに笑った
+EN: laughed at the enemy's strength
+RU: 
+
+ID: CORE_DYING_LAST_054_01
+JP: 予想外の出来事に唖然とした
+EN: was shocked at what happened
+RU: 
+
+ID: CORE_DYING_LAST_054_02
+JP: 予想外の出来事に唖然とした
+EN: was shocked at what happened
+RU: 
+
+ID: CORE_DYING_LAST_055_01
+JP: さらなる力を求めた
+EN: sought more strength
+RU: 
+
+ID: CORE_DYING_LAST_055_02
+JP: さらなる力を求めた
+EN: sought more strength
+RU: 
+
+ID: CORE_DYING_LAST_056_01
+JP: 己の過ちを悔いた
+EN: regretted my own mistakes
+RU: 
+
+ID: CORE_DYING_LAST_056_02
+JP: 己の過ちを悔いた
+EN: regretted a mistake
+RU: 
+
+ID: CORE_DYING_LAST_057_01
+JP: 敵の奇襲を受けた
+EN: was ambushed by the enemy
+RU: 
+
+ID: CORE_DYING_LAST_057_02
+JP: 敵の奇襲を受けた
+EN: was ambushed by the enemy
+RU: 
+
+ID: CORE_DYING_LAST_058_01
+JP: 多くの敵に囲まれた
+EN: was surrounded by enemies
+RU: 
+
+ID: CORE_DYING_LAST_058_02
+JP: 多くの敵に囲まれた
+EN: was surrounded by enemies
+RU: 
+
+ID: CORE_DYING_LAST_059_01
+JP: あっけない幕切れに苦笑した
+EN: laughed at my own demise
+RU: 
+
+ID: CORE_DYING_LAST_059_02
+JP: あっけない幕切れに苦笑した
+EN: was amused by how it all ended
+RU: 
+
+ID: CORE_DYING_LAST_060_01
+JP: リベンジを誓った
+EN: vowed revenge
+RU: 
+
+ID: CORE_DYING_LAST_060_02
+JP: リベンジを誓った
+EN: vowed revenge
+RU: 
+
+ID: CORE_DYING_LAST_061_01
+JP: 華々しく散った
+EN: fell with grace
+RU: 
+
+ID: CORE_DYING_LAST_061_02
+JP: 華々しく散った
+EN: fell with grace
+RU: 
+
+ID: CORE_DYING_LAST_062_01
+JP: 全力を尽くして戦った
+EN: fought with all my strength
+RU: 
+
+ID: CORE_DYING_LAST_062_02
+JP: 全力を尽くして戦った
+EN: fought with every ounce of strength
+RU: 
+
+ID: CORE_DYING_LAST_063_01
+JP: 復讐を誓った
+EN: vowed vengeance
+RU: 
+
+ID: CORE_DYING_LAST_063_02
+JP: 復讐を誓った
+EN: vowed vengeance
+RU: 
+
+ID: CORE_DYING_LAST_064_01
+JP: 世の無情さに絶望した
+EN: felt despair at this cold world
+RU: 
+
+ID: CORE_DYING_LAST_064_02
+JP: 世の無情さに絶望した
+EN: felt despair at this cold world
+RU: 
+
+ID: CORE_DYING_LAST_065_01
+JP: 死力を尽くして戦った
+EN: fought with my last strength
+RU: 
+
+ID: CORE_DYING_LAST_065_02
+JP: 死力を尽くして戦った
+EN: held nothing back
+RU: 
+
+ID: CORE_DYING_LAST_066_01
+JP: 持てる力のすべてを注いだ
+EN: used up all my strength
+RU: 
+
+ID: CORE_DYING_LAST_066_02
+JP: 持てる力のすべてを注いだ
+EN: gave it all
+RU: 
+
+ID: CORE_DYING_LAST_067_01
+JP: 油断した
+EN: was careless
+RU: 
+
+ID: CORE_DYING_LAST_067_02
+JP: 油断した
+EN: was careless
+RU: 
+
+ID: CORE_DYING_LAST_068_01
+JP: 力尽きた
+EN: collapsed
+RU: 
+
+ID: CORE_DYING_LAST_068_02
+JP: 力尽きた
+EN: collapsed
+RU: 
+
+ID: CORE_DYING_LAST_069_01
+JP: 倒れた
+EN: fell
+RU: 
+
+ID: CORE_DYING_LAST_069_02
+JP: 倒れた
+EN: fell
+RU: 
+
+ID: CORE_DYING_LAST_070_01
+JP: 立ち上がることができなかった
+EN: could not get up again
+RU: 
+
+ID: CORE_DYING_LAST_070_02
+JP: 立ち上がることができなかった
+EN: could not get up again
+RU: 
+
+ID: CORE_DYING_LAST_071_01
+JP: 自身の成長を誓った
+EN: vowed to grow as a person
+RU: 
+
+ID: CORE_DYING_LAST_071_02
+JP: 自身の成長を誓った
+EN: vowed to grow as a person
+RU: 
+
+ID: CORE_DYING_LAST_072_01
+JP: 悔しさに唇を噛んだ
+EN: grimaced in anger
+RU: 
+
+ID: CORE_DYING_LAST_072_02
+JP: 悔しさに唇を噛んだ
+EN: grimaced in anger
+RU: 
+
+ID: CORE_DYING_LAST_073_01
+JP: 絶好のチャンスを逃した
+EN: missed my biggest chance
+RU: 
+
+ID: CORE_DYING_LAST_073_02
+JP: 絶好のチャンスを逃した
+EN: missed the chance of a lifetime
+RU: 
+
+ID: CORE_DYING_LAST_074_01
+JP: 敵の弱点を見抜けなかった
+EN: couldn't find a weakpoint
+RU: 
+
+ID: CORE_DYING_LAST_074_02
+JP: 敵の弱点を見抜けなかった
+EN: couldn't find a weakpoint
+RU: 
+
+ID: CORE_DYING_LAST_075_01
+JP: 敵の攻撃に成す術がなかった
+EN: was overwhelmed
+RU: 
+
+ID: CORE_DYING_LAST_075_02
+JP: 敵の攻撃に成す術がなかった
+EN: was overwhelmed
+RU: 
+
+ID: CORE_DYING_LAST_076_01
+JP: 相手に全く歯が立たなかった
+EN: had no chance against my opponent
+RU: 
+
+ID: CORE_DYING_LAST_076_02
+JP: 相手に全く歯が立たなかった
+EN: was totally outmatched
+RU: 
+
+ID: CORE_DYING_LAST_077_01
+JP: 足元の美しい花に気を取られてしまった
+EN: was distracted by a flower
+RU: 
+
+ID: CORE_DYING_LAST_077_02
+JP: 足元の美しい花に気を取られてしまった
+EN: was distracted by a flower
+RU: 
+
+ID: CORE_DYING_LAST_078_01
+JP: 敵にとどめを刺すことをためらった
+EN: hesitated to kill my foe
+RU: 
+
+ID: CORE_DYING_LAST_078_02
+JP: 敵にとどめを刺すことをためらった
+EN: hesitated to land the killing blow
+RU: 
+
+ID: CORE_DYING_LAST_079_01
+JP: 背後からの一撃を受けた
+EN: was attacked from behind
+RU: 
+
+ID: CORE_DYING_LAST_079_02
+JP: 背後からの一撃を受けた
+EN: was attacked from behind
+RU: 
+
+ID: CORE_DYING_LAST_080_01
+JP: 気がつくと地に倒れ伏していた
+EN: suddenly found myself on the ground
+RU: 
+
+ID: CORE_DYING_LAST_080_02
+JP: 気がつくと地に倒れ伏していた
+EN: fell to the ground
+RU: 
+
+ID: CORE_DYING_LAST_081_01
+JP: 強大な敵に一矢報いることができなかった
+EN: couldn't even get a hit in
+RU: 
+
+ID: CORE_DYING_LAST_081_02
+JP: 強大な敵に一矢報いることができなかった
+EN: couldn't even get a hit in
+RU: 
+
+ID: CORE_DYING_LAST_082_01
+JP: 自身の怠惰を呪った
+EN: cursed my own idleness
+RU: 
+
+ID: CORE_DYING_LAST_082_02
+JP: 自身の怠惰を呪った
+EN: was too damn lazy
+RU: 
+
+ID: CORE_DYING_LAST_083_01
+JP: 敵をみくびっていた
+EN: underestimated the enemy
+RU: 
+
+ID: CORE_DYING_LAST_083_02
+JP: 敵をみくびっていた
+EN: underestimated the enemy
+RU: 
+
+ID: CORE_DYING_LAST_084_01
+JP: 敵に背を向けた
+EN: turned my back on the enemy
+RU: 
+
+ID: CORE_DYING_LAST_084_02
+JP: 敵に背を向けた
+EN: faced away from the enemy
+RU: 
+
+ID: CORE_DYING_LAST_085_01
+JP: 敵に恐れを抱いてしまった
+EN: learned to fear the enemy
+RU: 
+
+ID: CORE_DYING_LAST_085_02
+JP: 敵に恐れを抱いてしまった
+EN: learned to fear the enemy
+RU: 
+
+ID: CORE_DYING_LAST_086_01
+JP: 恐怖に支配された
+EN: was overcome by fear
+RU: 
+
+ID: CORE_DYING_LAST_086_02
+JP: 恐怖に支配された
+EN: was overcome by fear
+RU: 
+
+ID: CORE_DYING_LAST_087_01
+JP: いつもの自分を出せなかった
+EN: wasn't myself
+RU: 
+
+ID: CORE_DYING_LAST_087_02
+JP: いつもの自分を出せなかった
+EN: couldn't perform as well as usual
+RU: 
+
+ID: CORE_DYING_LAST_088_01
+JP: 実力を発揮できなかった
+EN: wasn’t in top form
+RU: 
+
+ID: CORE_DYING_LAST_088_02
+JP: 実力を発揮できなかった
+EN: wasn't in top form
+RU: 
+
+ID: CORE_DYING_LAST_089_01
+JP: 本気を出せなかった
+EN: failed to go all-out
+RU: 
+
+ID: CORE_DYING_LAST_089_02
+JP: 本気を出せなかった
+EN: failed to go all-out
+RU: 
+
+ID: CORE_DYING_LAST_090_01
+JP: 好奇心から強敵に挑んだ
+EN: tried taking on a powerful foe
+RU: 
+
+ID: CORE_DYING_LAST_090_02
+JP: 好奇心から強敵に挑んだ
+EN: tried taking on a powerful foe
+RU: 
+
+ID: CORE_DYING_LAST_091_01
+JP: 自身の限界が知りたかった
+EN: wanted to know my own limits
+RU: 
+
+ID: CORE_DYING_LAST_091_02
+JP: 自身の限界が知りたかった
+EN: took it to the limit
+RU: 
+
+ID: CORE_DYING_LAST_092_01
+JP: 追いつめられた
+EN: was backed into a corner
+RU: 
+
+ID: CORE_DYING_LAST_092_02
+JP: 追いつめられた
+EN: was backed into a corner
+RU: 
+
+ID: CORE_DYING_LAST_093_01
+JP: 勇敢に戦った
+EN: fought bravely
+RU: 
+
+ID: CORE_DYING_LAST_093_02
+JP: 勇敢に戦った
+EN: fought bravely
+RU: 
+
+ID: CORE_DYING_LAST_094_01
+JP: 無謀な挑戦に挑んだ
+EN: challenged the enemy foolishly
+RU: 
+
+ID: CORE_DYING_LAST_094_02
+JP: 無謀な挑戦に挑んだ
+EN: challenged the enemy foolishly
+RU: 
+
+ID: CORE_DYING_LAST_095_01
+JP: 真剣勝負に臨んだ
+EN: fought valiantly
+RU: 
+
+ID: CORE_DYING_LAST_095_02
+JP: 真剣勝負に臨んだ
+EN: fought valiantly
+RU: 
+
+ID: CORE_DYING_LAST_096_01
+JP: 敵との駆け引きに敗北した
+EN: lost the battle
+RU: 
+
+ID: CORE_DYING_LAST_096_02
+JP: 敵との駆け引きに敗北した
+EN: lost the battle
+RU: 
+
+ID: CORE_DYING_LAST_097_01
+JP: 玉砕した
+EN: died an honorable death
+RU: 
+
+ID: CORE_DYING_LAST_097_02
+JP: 玉砕した
+EN: died an honorable death
+RU: 
+
+ID: CORE_DYING_LAST_098_01
+JP: 力の差を見せつけられた
+EN: learned my lesson
+RU: 
+
+ID: CORE_DYING_LAST_098_02
+JP: 力の差を見せつけられた
+EN: learned a valuable lesson
+RU: 
+
+ID: CORE_DYING_LAST_099_01
+JP: ギリギリのせめぎ合いを楽しんだ
+EN: enjoyed a tough battle
+RU: 
+
+ID: CORE_DYING_LAST_099_02
+JP: ギリギリのせめぎ合いを楽しんだ
+EN: enjoyed a tough battle
+RU: 
+
+ID: CORE_DYING_LAST_100_01
+JP: 敵に囲まれても笑顔だった
+EN: never stopped smiling
+RU: 
+
+ID: CORE_DYING_LAST_100_02
+JP: 敵に囲まれても笑顔だった
+EN: never stopped smiling
+RU: 
+
+ID: CORE_DYING_LAST_101_01
+JP: 運命のイタズラが起きた
+EN: felt fate toying with me
+RU: 
+
+ID: CORE_DYING_LAST_101_02
+JP: 運命のイタズラが起きた
+EN: felt the hand of fate
+RU: 
+
+ID: CORE_DYING_LAST_102_01
+JP: 知力を尽くして戦った
+EN: applied all combat intel
+RU: 
+
+ID: CORE_DYING_LAST_102_02
+JP: 知力を尽くして戦った
+EN: applied all combat intel
+RU: 
+
+ID: CORE_DYING_LAST_103_01
+JP: 防戦一方だった
+EN: was trapped on the defensive
+RU: 
+
+ID: CORE_DYING_LAST_103_02
+JP: 防戦一方だった
+EN: was trapped on the defensive
+RU: 
+
+ID: CORE_DYING_LAST_104_01
+JP: 戦況を逆転されてしまった
+EN: had the tables turned on me
+RU: 
+
+ID: CORE_DYING_LAST_104_02
+JP: 戦況を逆転されてしまった
+EN: had the tables turned
+RU: 
+
+ID: CORE_DYING_LAST_105_01
+JP: あと一歩のところで及ばなかった
+EN: almost won
+RU: 
+
+ID: CORE_DYING_LAST_105_02
+JP: あと一歩のところで及ばなかった
+EN: almost won
+RU: 
+
+ID: CORE_DYING_LAST_106_01
+JP: 相手の強さに魅せられた
+EN: admired the enemy's strength
+RU: 
+
+ID: CORE_DYING_LAST_106_02
+JP: 相手の強さに魅せられた
+EN: admired the enemy's strength
+RU: 
+
+ID: CORE_DYING_LAST_107_01
+JP: 自身の力不足を痛感した
+EN: felt my own weakness
+RU: 
+
+ID: CORE_DYING_LAST_107_02
+JP: 自身の力不足を痛感した
+EN: hit a wall
+RU: 
+
+ID: CORE_DYING_LAST_108_01
+JP: 思わず笑みがこぼれた
+EN: couldn't help but smile
+RU: 
+
+ID: CORE_DYING_LAST_108_02
+JP: 思わず笑みがこぼれた
+EN: couldn't help but smile
+RU: 
+
+ID: CORE_DYING_LAST_109_01
+JP: 涙があふれた
+EN: cried and cried
+RU: 
+
+ID: CORE_DYING_LAST_109_02
+JP: 涙があふれた
+EN: cried and cried
+RU: 
+
+ID: CORE_DYING_LAST_110_01
+JP: 挫けてしまいそうだ
+EN: lost my courage
+RU: 
+
+ID: CORE_DYING_LAST_110_02
+JP: 挫けてしまいそうだ
+EN: lost all courage
+RU: 
+
+ID: CORE_DYING_LAST_111_01
+JP: 考えるのをやめた
+EN: stopped trying to think
+RU: 
+
+ID: CORE_DYING_LAST_111_02
+JP: 考えるのをやめた
+EN: stopped trying to think
+RU: 
+
+ID: CORE_DYING_LAST_112_01
+JP: 相討ちとなった
+EN: suffered a double KO
+RU: 
+
+ID: CORE_DYING_LAST_112_02
+JP: 相討ちとなった
+EN: suffered a double KO
+RU: 
+
+ID: CORE_DYING_LAST_113_01
+JP: 敵と差し違えた
+EN: fell along with my enemy
+RU: 
+
+ID: CORE_DYING_LAST_113_02
+JP: 敵と差し違えた
+EN: fell along with the enemy
+RU: 
+
+ID: CORE_DYING_LAST_114_01
+JP: 倒れたが悔いはなかった
+EN: regretted nothing
+RU: 
+
+ID: CORE_DYING_LAST_114_02
+JP: 倒れたが悔いはなかった
+EN: regretted nothing
+RU: 
+
+ID: CORE_DYING_LAST_115_01
+JP: 迷いが剣を鈍らせた
+EN: let my doubts get the best of me
+RU: 
+
+ID: CORE_DYING_LAST_115_02
+JP: 迷いが剣を鈍らせた
+EN: gave in to doubt
+RU: 
+
+ID: CORE_DYING_LAST_116_01
+JP: 咄嗟の攻撃に反応できなかった
+EN: wasn't fast enough
+RU: 
+
+ID: CORE_DYING_LAST_116_02
+JP: 咄嗟の攻撃に反応できなかった
+EN: wasn't fast enough
+RU: 
+
+ID: CORE_DYING_LAST_117_01
+JP: たおれちゃった
+EN: died
+RU: 
+
+ID: CORE_DYING_LAST_117_02
+JP: たおれちゃった
+EN: died
+RU: 
+
+ID: CORE_DYING_LAST_118_01
+JP: コロされちゃった
+EN: got killed
+RU: 
+
+ID: CORE_DYING_LAST_118_02
+JP: コロされちゃった
+EN: got killed
+RU: 
+
+ID: CORE_DYING_LAST_119_01
+JP: 美しい想い出になった
+EN: became a beautiful memory
+RU: 
+
+ID: CORE_DYING_LAST_119_02
+JP: 美しい想い出になった
+EN: became a beautiful memory
+RU: 
+
+ID: CORE_DYING_LAST_120_01
+JP: 風になった
+EN: became the wind
+RU: 
+
+ID: CORE_DYING_LAST_120_02
+JP: 風になった
+EN: became the wind
+RU: 
+
+ID: CORE_DYING_LAST_121_01
+JP: ゆっくりと死んだ
+EN: died peacefully
+RU: 
+
+ID: CORE_DYING_LAST_121_02
+JP: ゆっくりと死んだ
+EN: died peacefully
+RU: 
+
+ID: CORE_DYING_LAST_122_01
+JP: 命が粉砕した
+EN: felt my life slip away
+RU: 
+
+ID: CORE_DYING_LAST_122_02
+JP: 命が粉砕した
+EN: felt life slip away
+RU: 
+
+ID: CORE_DYING_LAST_123_01
+JP: 最期まで諦めなかった
+EN: didn't give up until the very end
+RU: 
+
+ID: CORE_DYING_LAST_123_02
+JP: 最期まで諦めなかった
+EN: didn't give up until the very end
+RU: 
+
+ID: CORE_DYING_LAST_124_01
+JP: 誇りある戦いをした
+EN: fought a brave battle
+RU: 
+
+ID: CORE_DYING_LAST_124_02
+JP: 誇りある戦いをした
+EN: fought a brave battle
+RU: 
+
+ID: CORE_DYING_RANDOM_01
+JP: ランダム
+EN: Random
+RU: 
+
+ID: CORE_END_01
+JP: A
+EN: A
+RU: 
+
+ID: CORE_END_02
+JP: B
+EN: B
+RU: 
+
+ID: CORE_END_03
+JP: C
+EN: C
+RU: 
+
+ID: CORE_END_04
+JP: D
+EN: D
+RU: 
+
+ID: CORE_END_05
+JP: E
+EN: E
+RU: 
+
+ID: CORE_END_06
+JP: F
+EN: F
+RU: 
+
+ID: CORE_END_07
+JP: G
+EN: G
+RU: 
+
+ID: CORE_END_08
+JP: H
+EN: H
+RU: 
+
+ID: CORE_END_09
+JP: I
+EN: I
+RU: 
+
+ID: CORE_END_10
+JP: J
+EN: J
+RU: 
+
+ID: CORE_END_11
+JP: K
+EN: K
+RU: 
+
+ID: CORE_END_12
+JP: L
+EN: L
+RU: 
+
+ID: CORE_END_13
+JP: M
+EN: M
+RU: 
+
+ID: CORE_END_14
+JP: N
+EN: N
+RU: 
+
+ID: CORE_END_15
+JP: O
+EN: O
+RU: 
+
+ID: CORE_END_16
+JP: P
+EN: P
+RU: 
+
+ID: CORE_END_17
+JP: Q
+EN: Q
+RU: 
+
+ID: CORE_END_18
+JP: R
+EN: R
+RU: 
+
+ID: CORE_END_19
+JP: S
+EN: S
+RU: 
+
+ID: CORE_END_20
+JP: T
+EN: T
+RU: 
+
+ID: CORE_END_21
+JP: U
+EN: U
+RU: 
+
+ID: CORE_END_22
+JP: V
+EN: V
+RU: 
+
+ID: CORE_END_23
+JP: W
+EN: W
+RU: 
+
+ID: CORE_END_24
+JP: X
+EN: X
+RU: 
+
+ID: CORE_END_25
+JP: Y
+EN: Y
+RU: 
+
+ID: CORE_END_26
+JP: Z
+EN: Z
+RU: 
+
+ID: CORE_FISH_01
+JP: アロワナ
+EN: Arowana
+RU: 
+
+ID: CORE_FISH_02
+JP: フタクビ
+EN: Twinfish
+RU: 
+
+ID: CORE_FISH_03
+JP: メダカ
+EN: Killifish
+RU: 
+
+ID: CORE_FISH_04
+JP: フナ
+EN: Carp
+RU: 
+
+ID: CORE_FISH_05
+JP: ダルマウオ
+EN: Bloat Fish
+RU: 
+
+ID: CORE_FISH_06
+JP: コイ
+EN: Koi Carp
+RU: 
+
+ID: CORE_FISH_07
+JP: 毛ゴイ
+EN: Fur Carp
+RU: 
+
+ID: CORE_FISH_08
+JP: 淡水エイ
+EN: Freshwater Ray
+RU: 
+
+ID: CORE_FISH_09
+JP: ピラルク
+EN: Arapaima
+RU: 
+
+ID: CORE_FISH_10
+JP: アブラ
+EN: Oil Sardine
+RU: 
+
+ID: CORE_FISH_11
+JP: ミジンコ
+EN: Water Flea
+RU: 
+
+ID: CORE_FISH_12
+JP: リョウガン
+EN: Twoface
+RU: 
+
+ID: CORE_FISH_13
+JP: シーラカンス
+EN: Coelacanth
+RU: 
+
+ID: CORE_FISH_14
+JP: フグ
+EN: Blowfish
+RU: 
+
+ID: CORE_FISH_15
+JP: カジキ
+EN: Swordfish
+RU: 
+
+ID: CORE_FISH_16
+JP: アジ
+EN: Mackerel
+RU: 
+
+ID: CORE_FISH_17
+JP: カブトガニ
+EN: Horseshoe Crab
+RU: 
+
+ID: CORE_FISH_18
+JP: カブトムシウオ
+EN: Beetle Fish
+RU: 
+
+ID: CORE_FISH_19
+JP: ヒトデ
+EN: Starfish
+RU: 
+
+ID: CORE_FISH_20
+JP: タイ
+EN: Bream
+RU: 
+
+ID: CORE_FISH_21
+JP: ウバザメ
+EN: Basking Shark
+RU: 
+
+ID: CORE_FISH_22
+JP: メダカ型機械生命体
+EN: Killifish Machine
+RU: 
+
+ID: CORE_FISH_23
+JP: コイ型機械生命体
+EN: Koi Carp Machine
+RU: 
+
+ID: CORE_FISH_24
+JP: ピラルク型機械生命体
+EN: Arapaima Machine
+RU: 
+
+ID: CORE_FISH_25
+JP: フナ型機械生命体
+EN: Carp Machine
+RU: 
+
+ID: CORE_FISH_26
+JP: ダルマウオ型機械生命体
+EN: Bloat Fish Machine
+RU: 
+
+ID: CORE_FISH_27
+JP: フグ型機械生命体
+EN: Blowfish Machine
+RU: 
+
+ID: CORE_FISH_28
+JP: カジキ型機械生命体
+EN: Swordfish Machine
+RU: 
+
+ID: CORE_FISH_29
+JP: ヒトデ型機械生命体
+EN: Starfish Machine
+RU: 
+
+ID: CORE_FISH_30
+JP: タイ型機械生命体
+EN: Bream Machine
+RU: 
+
+ID: CORE_FISH_31
+JP: シーラカンス型機械生命体
+EN: Coelacanth Machine
+RU: 
+
+ID: CORE_FISH_32
+JP: アジ型機械生命体
+EN: Mackerel Machine
+RU: 
+
+ID: CORE_FISH_33
+JP: カブトガニ型機械生命体
+EN: Horseshoe Crab Machine
+RU: 
+
+ID: CORE_FISH_34
+JP: アロワナ型機械生命体
+EN: Arowana Machine
+RU: 
+
+ID: CORE_FISH_35
+JP: ウバザメ型機械生命体
+EN: Basking Shark Machine
+RU: 
+
+ID: CORE_FISH_36
+JP: 淡水エイ型機械生命体
+EN: Freshwater Ray Machine
+RU: 
+
+ID: CORE_FISH_37
+JP: 機械生命体の頭部
+EN: Machine Lifeform Head
+RU: 
+
+ID: CORE_FISH_38
+JP: タイヤ
+EN: Tire
+RU: 
+
+ID: CORE_FISH_39
+JP: ガスボンベ
+EN: Gas Cylinder
+RU: 
+
+ID: CORE_FISH_40
+JP: バッテリー
+EN: Battery
+RU: 
+
+ID: CORE_FISH_41
+JP: 壊れた銃器
+EN: Broken Firearm
+RU: 
+
+ID: CORE_FISH_HELP_01
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_02
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_03
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_04
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_05
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_06
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_07
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_08
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_09
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_10
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in a river.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_11
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_12
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_13
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_14
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_15
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_16
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_17
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_18
+JP: 川で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_19
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_20
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_21
+JP: 海で釣れた生き物。ショップで換金できる。
+EN: Caught in the sea.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_22
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_23
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_24
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_25
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_26
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_27
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_28
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_29
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_30
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_31
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_32
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_33
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_34
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_35
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_36
+JP: 水の中に棲む機械生命体。ショップで換金\nできる。
+EN: An aquatic machine.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_37
+JP: 釣り上げたゴミ。ショップで換金できる。
+EN: Just some old junk.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_38
+JP: 釣り上げたゴミ。ショップで換金できる。
+EN: Just some old junk.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_39
+JP: 釣り上げたゴミ。ショップで換金できる。
+EN: Just some old junk.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_40
+JP: 釣り上げたゴミ。ショップで換金できる。
+EN: Just some old junk.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_FISH_HELP_41
+JP: 釣り上げたゴミ。ショップで換金できる。
+EN: Just some old junk.\nCan be exchanged for money.
+RU: 
+
+ID: CORE_GAMECENTER_01
+JP: ハッキングゲームに挑戦しますか？
+EN: Attempt the hacking game?
+RU: 
+
+ID: CORE_GAMECENTER_02
+JP: トレーニングを実行しますか？
+EN: Commence training?
+RU: 
+
+ID: CORE_GAMECLEAR_TXT_01
+JP: セーブせずにタイトル画面に戻ります。\nよろしいですか？
+EN: Return to the title screen without saving?
+RU: 
+
+ID: CORE_ITEM_NAME_000
+JP: 回復薬：小
+EN: Small Recovery
+RU: 
+
+ID: CORE_ITEM_NAME_001
+JP: 回復薬：中
+EN: Medium Recovery
+RU: 
+
+ID: CORE_ITEM_NAME_002
+JP: 回復薬：大
+EN: Large Recovery
+RU: 
+
+ID: CORE_ITEM_NAME_003
+JP: 回復薬：全
+EN: Full Recovery
+RU: 
+
+ID: CORE_ITEM_NAME_050
+JP: 耐電薬
+EN: Volt-Proof Salve
+RU: 
+
+ID: CORE_ITEM_NAME_060
+JP: 状態異常回復：視覚
+EN: Visual Cure
+RU: 
+
+ID: CORE_ITEM_NAME_070
+JP: 状態異常回復：聴覚
+EN: Aural Cure
+RU: 
+
+ID: CORE_ITEM_NAME_075
+JP: 状態異常回復：操作
+EN: Cure Manipulation
+RU: 
+
+ID: CORE_ITEM_NAME_080
+JP: 状態異常回復：全体
+EN: Cure All Status
+RU: 
+
+ID: CORE_ITEM_NAME_090
+JP: 全HP・全異常回復
+EN: Cure All + Heal All
+RU: 
+
+ID: CORE_ITEM_NAME_100
+JP: 物理攻撃力UP：小
+EN: Melee Attack Up (S)
+RU: 
+
+ID: CORE_ITEM_NAME_102
+JP: 物理攻撃力UP：大
+EN: Melee Attack Up (L)
+RU: 
+
+ID: CORE_ITEM_NAME_110
+JP: 射撃攻撃力UP：小
+EN: Ranged Attack Up (S)
+RU: 
+
+ID: CORE_ITEM_NAME_112
+JP: 射撃攻撃力UP：大
+EN: Ranged Attack Up (L)
+RU: 
+
+ID: CORE_ITEM_NAME_120
+JP: 物理ダメージ軽減：小
+EN: Melee Defense Up (S)
+RU: 
+
+ID: CORE_ITEM_NAME_122
+JP: 物理ダメージ軽減：大
+EN: Melee Defense Up (L)
+RU: 
+
+ID: CORE_ITEM_NAME_130
+JP: 射撃ダメージ軽減：小
+EN: Ranged Defense Up (S)
+RU: 
+
+ID: CORE_ITEM_NAME_132
+JP: 射撃ダメージ軽減：大
+EN: Ranged Defense Up (L)
+RU: 
+
+ID: CORE_ITEM_NAME_140
+JP: スキル回復速度UP：小
+EN: Skill Salve (S)
+RU: 
+
+ID: CORE_ITEM_NAME_142
+JP: スキル回復速度UP：大
+EN: Skill Salve (L)
+RU: 
+
+ID: CORE_ITEM_NAME_150
+JP: 耐衝撃：小
+EN: Impact Bracer (S)
+RU: 
+
+ID: CORE_ITEM_NAME_152
+JP: 耐衝撃：大
+EN: Impact Bracer (L)
+RU: 
+
+ID: CORE_ITEM_NAME_160
+JP: 高速走行：小
+EN: Speed Salve (S)
+RU: 
+
+ID: CORE_ITEM_NAME_162
+JP: 高速走行：大
+EN: Speed Salve (L)
+RU: 
+
+ID: CORE_ITEM_NAME_170
+JP: ポポルの酒
+EN: Popola's Booze
+RU: 
+
+ID: CORE_ITEM_NAME_300
+JP: 動物の餌
+EN: Animal Bait
+RU: 
+
+ID: CORE_ITEM_NAME_330
+JP: お金ドロップUP：小
+EN: Small G Luck+
+RU: 
+
+ID: CORE_ITEM_NAME_332
+JP: お金ドロップUP：大
+EN: Large G Luck+
+RU: 
+
+ID: CORE_ITEM_NAME_400
+JP: 電子ドラッグ
+EN: E-Drug
+RU: 
+
+ID: CORE_ITEM_NAME_510
+JP: 獣皮
+EN: Beast Hide
+RU: 
+
+ID: CORE_ITEM_NAME_515
+JP: イノシシの肉
+EN: Boar Meat
+RU: 
+
+ID: CORE_ITEM_NAME_516
+JP: シカの肉
+EN: Moose Meat
+RU: 
+
+ID: CORE_ITEM_NAME_517
+JP: 白イノシシの肉
+EN: W. Boar Meat
+RU: 
+
+ID: CORE_ITEM_NAME_518
+JP: 白シカの肉
+EN: W. Moose Meat
+RU: 
+
+ID: CORE_ITEM_NAME_520
+JP: 磨り減ったネジ
+EN: Stripped Screw
+RU: 
+
+ID: CORE_ITEM_NAME_521
+JP: 新品のネジ
+EN: Pristine Screw
+RU: 
+
+ID: CORE_ITEM_NAME_525
+JP: 小さな歯車
+EN: Small Gear
+RU: 
+
+ID: CORE_ITEM_NAME_526
+JP: 大きな歯車
+EN: Large Gear
+RU: 
+
+ID: CORE_ITEM_NAME_530
+JP: 錆びた塊
+EN: Rusted Clump
+RU: 
+
+ID: CORE_ITEM_NAME_531
+JP: 隕石の欠片
+EN: Meteorite Shard
+RU: 
+
+ID: CORE_ITEM_NAME_535
+JP: チタン合金
+EN: Titanium Alloy
+RU: 
+
+ID: CORE_ITEM_NAME_536
+JP: 形状記憶合金
+EN: Memory Alloy
+RU: 
+
+ID: CORE_ITEM_NAME_540
+JP: 壊れたゼンマイ
+EN: Broken Key
+RU: 
+
+ID: CORE_ITEM_NAME_545
+JP: 壊れたバッテリー
+EN: Broken Battery
+RU: 
+
+ID: CORE_ITEM_NAME_546
+JP: 大きなバッテリー
+EN: Large Battery
+RU: 
+
+ID: CORE_ITEM_NAME_550
+JP: 切れたケーブル
+EN: Severed Cable
+RU: 
+
+ID: CORE_ITEM_NAME_551
+JP: 綺麗なケーブル
+EN: Pristine Cable
+RU: 
+
+ID: CORE_ITEM_NAME_555
+JP: 新品のボルト
+EN: New Bolt
+RU: 
+
+ID: CORE_ITEM_NAME_560
+JP: 綺麗なナット
+EN: Clean Nut
+RU: 
+
+ID: CORE_ITEM_NAME_570
+JP: 機械生命体の腕
+EN: Machine Arm
+RU: 
+
+ID: CORE_ITEM_NAME_571
+JP: 機械生命体の脚
+EN: Machine Leg
+RU: 
+
+ID: CORE_ITEM_NAME_572
+JP: 機械生命体の胴体
+EN: Machine Torso
+RU: 
+
+ID: CORE_ITEM_NAME_573
+JP: 機械生命体の頭
+EN: Machine Head
+RU: 
+
+ID: CORE_ITEM_NAME_580
+JP: 単純な機械
+EN: Simple Gadget
+RU: 
+
+ID: CORE_ITEM_NAME_581
+JP: 精巧な機械
+EN: Elaborate Gadget
+RU: 
+
+ID: CORE_ITEM_NAME_582
+JP: 複雑な機械
+EN: Complex Gadget
+RU: 
+
+ID: CORE_ITEM_NAME_583
+JP: 強化パーツ：小
+EN: Powerup Part S
+RU: 
+
+ID: CORE_ITEM_NAME_584
+JP: 強化パーツ：中
+EN: Powerup Part M
+RU: 
+
+ID: CORE_ITEM_NAME_585
+JP: 強化パーツ：大
+EN: Powerup Part L
+RU: 
+
+ID: CORE_ITEM_NAME_590
+JP: 空のチップ
+EN: Empty Chip
+RU: 
+
+ID: CORE_ITEM_NAME_600
+JP: 銅鉱
+EN: Copper Ore
+RU: 
+
+ID: CORE_ITEM_NAME_601
+JP: 鉄鉱
+EN: Iron Ore
+RU: 
+
+ID: CORE_ITEM_NAME_602
+JP: 銀鉱
+EN: Silver Ore
+RU: 
+
+ID: CORE_ITEM_NAME_603
+JP: 金鉱
+EN: Gold Ore
+RU: 
+
+ID: CORE_ITEM_NAME_610
+JP: 凹んだ金属板
+EN: Dented Plate
+RU: 
+
+ID: CORE_ITEM_NAME_621
+JP: 植物の種
+EN: Plant Seed
+RU: 
+
+ID: CORE_ITEM_NAME_622
+JP: 樹液
+EN: Tree Sap
+RU: 
+
+ID: CORE_ITEM_NAME_623
+JP: 綺麗な水
+EN: Pure Water
+RU: 
+
+ID: CORE_ITEM_NAME_624
+JP: 木の実
+EN: Tree Seed
+RU: 
+
+ID: CORE_ITEM_NAME_625
+JP: 砂漠のバラ
+EN: Desert Rose
+RU: 
+
+ID: CORE_ITEM_NAME_626
+JP: キノコ
+EN: Mushroom
+RU: 
+
+ID: CORE_ITEM_NAME_627
+JP: 汚れた本
+EN: Torn Book
+RU: 
+
+ID: CORE_ITEM_NAME_628
+JP: 機械油
+EN: Machine Oil
+RU: 
+
+ID: CORE_ITEM_NAME_629
+JP: なめし剤
+EN: Tanning Agent
+RU: 
+
+ID: CORE_ITEM_NAME_630
+JP: 溶加材
+EN: Filler Metal
+RU: 
+
+ID: CORE_ITEM_NAME_631
+JP: 染料
+EN: Dye
+RU: 
+
+ID: CORE_ITEM_NAME_632
+JP: パイライト
+EN: Pyrite
+RU: 
+
+ID: CORE_ITEM_NAME_633
+JP: アンバー
+EN: Amber
+RU: 
+
+ID: CORE_ITEM_NAME_634
+JP: 天然ゴム
+EN: Natural Rubber
+RU: 
+
+ID: CORE_ITEM_NAME_635
+JP: 錆びたボルト
+EN: Rusty Bolt
+RU: 
+
+ID: CORE_ITEM_NAME_636
+JP: つぶれたナット
+EN: Crushed Nut
+RU: 
+
+ID: CORE_ITEM_NAME_637
+JP: 巨大な卵
+EN: Giant Egg
+RU: 
+
+ID: CORE_ITEM_NAME_638
+JP: 鷲の卵
+EN: Eagle Eggs
+RU: 
+
+ID: CORE_ITEM_NAME_639
+JP: 黒真珠
+EN: Black Pearl
+RU: 
+
+ID: CORE_ITEM_NAME_640
+JP: 割れたイヤリング
+EN: Shattered Earring
+RU: 
+
+ID: CORE_ITEM_NAME_641
+JP: くすんだ腕輪
+EN: Drab Bracelet
+RU: 
+
+ID: CORE_ITEM_NAME_642
+JP: 頑丈なソケット
+EN: Sturdy Socket
+RU: 
+
+ID: CORE_ITEM_NAME_643
+JP: 歪んだ針金
+EN: Warped Wire
+RU: 
+
+ID: CORE_ITEM_NAME_644
+JP: 伸びたコイル
+EN: Stretched Coil
+RU: 
+
+ID: CORE_ITEM_NAME_645
+JP: 凹んだソケット
+EN: Dented Socket
+RU: 
+
+ID: CORE_ITEM_NAME_646
+JP: 壊れた回路
+EN: Broken Circuit
+RU: 
+
+ID: CORE_ITEM_NAME_680
+JP: 水晶
+EN: Crystal
+RU: 
+
+ID: CORE_ITEM_NAME_681
+JP: 綺麗なチョーカー
+EN: Lovely Choker
+RU: 
+
+ID: CORE_ITEM_NAME_682
+JP: 古い仮面
+EN: Ancient Mask
+RU: 
+
+ID: CORE_ITEM_NAME_683
+JP: 貴金属のピアス
+EN: Precious Earrings
+RU: 
+
+ID: CORE_ITEM_NAME_684
+JP: 何かの技術書
+EN: Tech Manual
+RU: 
+
+ID: CORE_ITEM_NAME_685
+JP: 分厚い辞典
+EN: Thick Dictionary
+RU: 
+
+ID: CORE_ITEM_NAME_686
+JP: 真珠
+EN: Pearl
+RU: 
+
+ID: CORE_ITEM_NAME_687
+JP: モルダバイト
+EN: Moldavite
+RU: 
+
+ID: CORE_ITEM_NAME_688
+JP: メテオライト
+EN: Meteorite
+RU: 
+
+ID: CORE_ITEM_NAME_690
+JP: 機械生命体のコア
+EN: Machine Core
+RU: 
+
+ID: CORE_ITEM_NAME_691
+JP: パスカルのコア
+EN: Pascal's Core
+RU: 
+
+ID: CORE_ITEM_NAME_692
+JP: 子供達のコア
+EN: Children's Cores
+RU: 
+
+ID: CORE_ITEM_NAME_693
+JP: パスカルの愛読書
+EN: Pascal's Book
+RU: 
+
+ID: CORE_ITEM_NAME_700
+JP: サルトルへの手紙
+EN: Letter for Sartre
+RU: 
+
+ID: CORE_ITEM_NAME_700_US
+JP: ジャンポールへの手紙
+EN: Letter for Jean-Paul
+RU: 
+
+ID: CORE_ITEM_NAME_701
+JP: きれいなガラス
+EN: Beautiful Glass
+RU: 
+
+ID: CORE_ITEM_NAME_702
+JP: 機械の化石
+EN: Machine Fossil
+RU: 
+
+ID: CORE_ITEM_NAME_703
+JP: サルトルの置手紙
+EN: Sartre's Letter
+RU: 
+
+ID: CORE_ITEM_NAME_703_US
+JP: ジャンポールの置手紙
+EN: Jean-Paul's Letter
+RU: 
+
+ID: CORE_ITEM_NAME_715
+JP: メモリーチップ
+EN: Memory Chip
+RU: 
+
+ID: CORE_ITEM_NAME_716
+JP: 男の日記
+EN: Man's Journal
+RU: 
+
+ID: CORE_ITEM_NAME_720
+JP: データチップA
+EN: Data Chip A
+RU: 
+
+ID: CORE_ITEM_NAME_721
+JP: データチップB
+EN: Data Chip B
+RU: 
+
+ID: CORE_ITEM_NAME_722
+JP: データチップC
+EN: Data Chip C
+RU: 
+
+ID: CORE_ITEM_NAME_723
+JP: データチップD
+EN: Data Chip D
+RU: 
+
+ID: CORE_ITEM_NAME_724
+JP: データチップE
+EN: Data Chip E
+RU: 
+
+ID: CORE_ITEM_NAME_740
+JP: 錆びたドッグタグ
+EN: Rusty Dog Tag
+RU: 
+
+ID: CORE_ITEM_NAME_741
+JP: 汚れたドッグタグ
+EN: Dirty Dog Tag
+RU: 
+
+ID: CORE_ITEM_NAME_742
+JP: 傷ついたドッグタグ
+EN: Damaged Dog Tag
+RU: 
+
+ID: CORE_ITEM_NAME_743
+JP: 血の付いたドッグタグ
+EN: Bloody Dog Tag
+RU: 
+
+ID: CORE_ITEM_NAME_750
+JP: 錆びたオルゴール
+EN: Rusty Music Box
+RU: 
+
+ID: CORE_ITEM_NAME_760
+JP: 砂漠のどこかの写真
+EN: Desert Photo
+RU: 
+
+ID: CORE_ITEM_NAME_761
+JP: 遊園地のどこかの写真
+EN: Amusement Park Photo
+RU: 
+
+ID: CORE_ITEM_NAME_762
+JP: 森のどこかの写真
+EN: Forest Photo
+RU: 
+
+ID: CORE_ITEM_NAME_775
+JP: 移送用の荷物
+EN: Package
+RU: 
+
+ID: CORE_ITEM_NAME_780
+JP: 壊れたおもちゃ
+EN: Broken Toy
+RU: 
+
+ID: CORE_ITEM_NAME_781
+JP: 汚れた家計簿
+EN: Accounting Book
+RU: 
+
+ID: CORE_ITEM_NAME_782
+JP: 小さな靴
+EN: Small Shoe
+RU: 
+
+ID: CORE_ITEM_NAME_790
+JP: ３色ケーブル
+EN: Tri-color Cable
+RU: 
+
+ID: CORE_ITEM_NAME_791
+JP: ４色ケーブル
+EN: Four-color Cable
+RU: 
+
+ID: CORE_ITEM_NAME_792
+JP: ５色ケーブル
+EN: Five-color Cable
+RU: 
+
+ID: CORE_ITEM_NAME_793
+JP: 歯ブラシ
+EN: Toothbrush
+RU: 
+
+ID: CORE_ITEM_NAME_794
+JP: 化粧品
+EN: Cosmetics
+RU: 
+
+ID: CORE_ITEM_NAME_795
+JP: ダイエットグッズ
+EN: Dietary Goods
+RU: 
+
+ID: CORE_ITEM_NAME_796
+JP: 筆記用具
+EN: Writing Implement
+RU: 
+
+ID: CORE_ITEM_NAME_797
+JP: 医学書
+EN: Medical Journal
+RU: 
+
+ID: CORE_ITEM_NAME_820
+JP: アクセスキー：森林地帯
+EN: Forest Access Key
+RU: 
+
+ID: CORE_ITEM_NAME_821
+JP: アクセスキー：水没都市
+EN: Ocean Access Key
+RU: 
+
+ID: CORE_ITEM_NAME_822
+JP: アクセスキー：遊園地
+EN: Park Access Key
+RU: 
+
+ID: CORE_ITEM_NAME_832
+JP: 機械生命体の部品
+EN: Machine Part
+RU: 
+
+ID: CORE_ITEM_NAME_833
+JP: スタンプ
+EN: Stamp
+RU: 
+
+ID: CORE_ITEM_NAME_834
+JP: スタンプカード
+EN: Stamp Card
+RU: 
+
+ID: CORE_ITEM_NAME_835
+JP: 古びた杖
+EN: Aged Stick
+RU: 
+
+ID: CORE_ITEM_NAME_836
+JP: 掟の書かれた石板
+EN: Commandment Slab
+RU: 
+
+ID: CORE_ITEM_NAME_837
+JP: 汚れた仮面
+EN: Filthy Mask
+RU: 
+
+ID: CORE_ITEM_NAME_838
+JP: 少女の石像
+EN: Statue of a Girl
+RU: 
+
+ID: CORE_ITEM_NAME_839
+JP: 遊具の材料
+EN: Toy Material
+RU: 
+
+ID: CORE_ITEM_NAME_840
+JP: 記憶素子の素材
+EN: Storage Element
+RU: 
+
+ID: CORE_ITEM_NAME_841
+JP: 機密プラグイン・チップ
+EN: Plug-in Chip
+RU: 
+
+ID: CORE_ITEM_NAME_842
+JP: 剛性植物の樹皮
+EN: Rigid Tree Bark
+RU: 
+
+ID: CORE_ITEM_NAME_843
+JP: 会員証
+EN: Membership Card
+RU: 
+
+ID: CORE_ITEM_NAME_844
+JP: 汚れたバッグ
+EN: Dirty Bag
+RU: 
+
+ID: CORE_ITEM_NAME_845
+JP: エレベーターの鍵
+EN: Elevator Key
+RU: 
+
+ID: CORE_ITEM_NAME_850
+JP: 哲学書『パンセ』
+EN: Book: "Pensées"
+RU: 
+
+ID: CORE_ITEM_NAME_851
+JP: 燃料用濾過フィルター
+EN: Fuel Filter
+RU: 
+
+ID: CORE_ITEM_NAME_852
+JP: 高粘度オイル
+EN: Viscous Oil
+RU: 
+
+ID: CORE_ITEM_NAME_870
+JP: バルブ：頭
+EN: Valve: Head
+RU: 
+
+ID: CORE_ITEM_NAME_871
+JP: 光学迷彩式ゴーグル
+EN: Camouflage Goggles
+RU: 
+
+ID: CORE_ITEM_NAME_872
+JP: Ａ２のウィッグ
+EN: A2 Wig
+RU: 
+
+ID: CORE_ITEM_NAME_873
+JP: ピンクリボン
+EN: Pink Ribbon
+RU: 
+
+ID: CORE_ITEM_NAME_874
+JP: 水色リボン
+EN: Blue Ribbon
+RU: 
+
+ID: CORE_ITEM_NAME_900
+JP: 商品券
+EN: Gift Voucher
+RU: 
+
+ID: CORE_ITEM_NAME_920
+JP: 匂い袋
+EN: Sachet
+RU: 
+
+ID: CORE_ITEM_NAME_921
+JP: 高級な匂い袋
+EN: Quality Sachet
+RU: 
+
+ID: CORE_ITEM_NAME_922
+JP: 極上の匂い袋
+EN: Choice Sachet
+RU: 
+
+ID: CORE_ITEM_NAME_930
+JP: レコード：第一集
+EN: Sound Data 1
+RU: 
+
+ID: CORE_ITEM_NAME_931
+JP: レコード：第ニ集
+EN: Sound Data 2
+RU: 
+
+ID: CORE_ITEM_NAME_932
+JP: レコード：第三集
+EN: Sound Data 3
+RU: 
+
+ID: CORE_ITEM_NAME_933
+JP: レコード：第四集
+EN: Sound Data 4
+RU: 
+
+ID: CORE_ITEM_NAME_934
+JP: レコード：第五集
+EN: Sound Data 5
+RU: 
+
+ID: CORE_ITEM_NAME_950
+JP: 遊戯機械
+EN: Play System Pod
+RU: 
+
+ID: CORE_ITEM_NAME_951
+JP: 白の書
+EN: Grimoire Weiss
+RU: 
+
+ID: CORE_ITEM_NAME_952
+JP: 配送用ダンボール
+EN: Cardboard Pod
+RU: 
+
+ID: CORE_ITEM_NAME_953
+JP: ブルーストライプ
+EN: Blue Stripes Pod
+RU: 
+
+ID: CORE_ITEM_NAME_954
+JP: レトロ・レッド
+EN: Retro Red Pod
+RU: 
+
+ID: CORE_ITEM_NAME_955
+JP: レトロ・ホワイト
+EN: Retro White Pod
+RU: 
+
+ID: CORE_ITEM_NAME_956
+JP: レトロ・ブラック
+EN: Retro Black Pod
+RU: 
+
+ID: CORE_ITEM_NAME_957
+JP: レトロ・グレー
+EN: Retro Grey Pod
+RU: 
+
+ID: CORE_ITEM_NAME_958
+JP: レトロ・パープル
+EN: Retro Purple Pod
+RU: 
+
+ID: CORE_ITEM_NAME_959
+JP: amazarashiヘッド
+EN: amazarashi Head
+RU: 
+
+ID: CORE_ITEM_NAME_980
+JP: 衣装着脱モジュール
+EN: Dress Module
+RU: 
+
+ID: CORE_ITEM_NAME_981
+JP: 重装アーマー：Ａ
+EN: Heavy Armor A
+RU: 
+
+ID: CORE_ITEM_NAME_982
+JP: 重装アーマー：Ｂ
+EN: Heavy Armor B
+RU: 
+
+ID: CORE_ITEM_NAME_990
+JP: 機械生命体の被り物
+EN: Machine Mask
+RU: 
+
+ID: CORE_ITEM_NAME_991
+JP: エミールの被り物
+EN: Emil's Head
+RU: 
+
+ID: CORE_ITEM_NAME_992
+JP: 月の涙の花飾り
+EN: Lunar Tear
+RU: 
+
+ID: CORE_ITEM_NAME_993
+JP: エミールのお面
+EN: Emil Mask
+RU: 
+
+ID: CORE_ITEM_NAME_995
+JP: アダムの眼鏡
+EN: Adam's Glasses
+RU: 
+
+ID: CORE_ITEM_NAME_996
+JP: エイリアンのマスク
+EN: Alien Mask
+RU: 
+
+ID: CORE_ITEM_NAME_997
+JP: バルブ：左目
+EN: Valve: Left Eye
+RU: 
+
+ID: CORE_ITEM_NAME_998
+JP: バルブ：右目
+EN: Valve: Right Eye
+RU: 
+
+ID: CORE_ITEM_NAME_999
+JP: バルブ：両目
+EN: Valve: Both Eyes
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0010
+JP: 飛行ユニットに搭乗する。
+EN: Board the flight unit.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0020
+JP: 敵の防衛システムをダウンさせる。
+EN: Disable the enemy's defense system.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0030
+JP: 攻撃部隊の支援に向う。
+EN: Provide support to the attack squad.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0100
+JP: 敵機体の脆弱性にハッキングを行う。
+EN: Hack into the enemy's weak point.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0110
+JP: ９Ｓと再会する。
+EN: Reunite with 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0120
+JP: ２Ｂの自室へ向かいセットアップを手伝う。
+EN: Head to 2B's private quarters.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0130
+JP: 司令官と話す。
+EN: Speak with the Commander.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0140
+JP: 格納庫から地上に向かう。
+EN: Head to the surface from the hangar.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0150
+JP: レジスタンスキャンプのリーダーの話を聞く。
+EN: Talk to the Resistance Camp leader.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0160
+JP: レジスタンス達から情報収集する。
+EN: Gain intel from the Resistance members.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0170
+JP: 砂漠地帯の機械生命体を破壊する。
+EN: Eliminate the machines in the desert.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0180
+JP: 砂漠地帯の廃墟を調査する。
+EN: Investigate the ruins in the desert.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0190
+JP: 新型の機械生命体を破壊する。
+EN: Destroy the new machine lifeform model.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0200
+JP: 司令部に調査結果を報告する。
+EN: Report to Command.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0210
+JP: 消息不明のヨルハ部隊を捜索する。
+EN: Find the missing YoRHa units.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0220
+JP: 新型の巨大機械生命体を破壊する。
+EN: Destroy the new Goliath class machine.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0230
+JP: 機械生命体の村を調査する。
+EN: Investigate the village of the machines.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0240
+JP: 村人の様子を観察する。
+EN: Check on the villagers.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0245
+JP: アネモネに燃料用濾過フィルターを届ける。
+EN: Deliver the fuel filter to Anemone.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0246
+JP: パスカルに高粘度オイルを届ける。
+EN: Deliver the viscous oil to Pascal.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0250
+JP: 廃墟都市へ向かう。
+EN: Go to the city ruins.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0260
+JP: 飛行ユニットに乗り込む。
+EN: Board the flight units.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0270
+JP: 超大型兵器を破壊する。
+EN: Destroy the Goliath-class unit.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0280
+JP: エイリアンの反応を探知した陥没地帯を調査する。
+EN: Investigate the flooded area for alien readings.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0290
+JP: 発見した地下洞窟を調査する。
+EN: Investigate the underground cave.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0295
+JP: 発見したエイリアンの施設を調査する。
+EN: Investigate the alien facility.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0300
+JP: アダム・イヴを破壊する。
+EN: Destroy Adam and Eve.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0310
+JP: アクセスポイントでバンカーに戻る。
+EN: Return to the Bunker via an access point.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0320
+JP: 司令官に調査結果を報告する。
+EN: Report to Command.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0330
+JP: アクセスポイントでパスカルの村に向かう。
+EN: Head to Pascal's village via an access point.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0340
+JP: パスカルに機械生命体の動向を聞く。
+EN: Ask Pascal about the behavior of the machines.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0350
+JP: 村人の依頼を達成する。
+EN: Fulfill the villager's request.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0360
+JP: 商業施設跡から森林地帯へ向かう。
+EN: Head to the forest via the commercial facility.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0370
+JP: 機械生命体を破壊する。
+EN: Destroy the machine lifeforms.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0380
+JP: ヨルハプロトタイプ機・Ａ２を破壊する。
+EN: Destroy YoRHa prototype A2.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0390
+JP: パスカルと話す。
+EN: Talk to Pascal.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0400
+JP: レジスタンスキャンプへ向かう。
+EN: Go to the Resistance camp.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0410
+JP: 水没都市のミサイル補給作戦を支援する。
+EN: Support the missile supply mission.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0420
+JP: レジスタンスキャンプへ向かう。
+EN: Go to the Resistance camp.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0430
+JP: 赤い髪のレジスタンスと話す。
+EN: Talk to the red-headed Resistance members.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0440
+JP: スキャナーを使い生存しているヨルハ部隊を捜索する。
+EN: Use your scanner to find surviving YoRHa units.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0450
+JP: ９Ｓを捜索する。
+EN: Find 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0460
+JP: ９Ｓの痕跡を辿る。
+EN: Follow 9S's tracks.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0470
+JP: アダムを破壊して９Ｓを救出する。
+EN: Destroy Adam and save 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0480
+JP: 大型ターミナルから２Ｂを援護する。
+EN: Use the giant terminal to support 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0490
+JP: 機械生命体を操り２Ｂの元へ向う。
+EN: Control the machine lifeform to reach 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0500
+JP: エレベーターにハッキングを行いロックを解除する。
+EN: Hack into the elevator to unlock it.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0510
+JP: 工場廃墟のシステムにハッキングを行い２Ｂを援護する。
+EN: Hack into the factory system to support 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0520
+JP: 工場廃墟のコアにハッキングを行い電力を停止する。
+EN: Hack into the factory core to shut down the power.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0530
+JP: 司令官と話す。
+EN: Talk to the Commander.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0540
+JP: 司令部からのメールを確認する。
+EN: Check the mail from Command.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0550
+JP: 工場廃墟でパスカルと合流する。
+EN: Meet Pascal at the abandoned factory.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0560
+JP: 工場廃墟内で和平交渉を行う。
+EN: Negotiate peace inside the factory.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0570
+JP: 案内に従い教祖のいる部屋へ向う。
+EN: Follow the guides to their leader.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0580
+JP: 狂った機械生命体達を撃退する。
+EN: Defeat the deranged machine lifeforms.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0590
+JP: エレベーターに乗り部屋から脱出する。
+EN: Escape using the elevator.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0600
+JP: 工場廃墟から脱出する。
+EN: Escape from the abandoned factory.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0610
+JP: 大型多脚兵器を破壊する。
+EN: Destroy the multi-legged Goliath.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0620
+JP: レジスタンスキャンプへ向かう。
+EN: Go to the Resistance camp.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0630
+JP: レジスタンスキャンプを襲う機械生命体を破壊する。
+EN: Destroy all enemies at the Resistance camp.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0640
+JP: レジスタンスリーダーと話す。
+EN: Talk to the Resistance leader.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0650
+JP: レジスタンスキャンプの外を調査する。
+EN: Investigate the area around the camp.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0655
+JP: 大廃墟都市の2Bを援護する。
+EN: Protect 2B at the city ruins.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0660
+JP: 大型多脚兵器を破壊する。
+EN: Destroy the multi-legged Goliath.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0670
+JP: 多塊構成球状兵器を破壊する。
+EN: Destroy the spherical machine.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0680
+JP: パスカルの村へ向かう。
+EN: Head to Pascal's village.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0690
+JP: バリケードの周囲の敵を排除する。
+EN: Remove the enemies around the barricade.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0700
+JP: 廃墟都市中央部へ向かう。
+EN: Go to the center of the city ruins.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0710
+JP: イヴを破壊する。
+EN: Destroy Eve.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0720
+JP: ウイルスに汚染された９Ｓの元へ向かう。
+EN: Go to 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0730
+JP: ２Ｂにとどめを刺してもらう。
+EN: Finish off 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0740
+JP: ９Sの部屋へ行く。
+EN: Go to 9S's room
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0750
+JP: 自室へ向かう。
+EN: Go to your private quarters.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0760
+JP: 格納庫へ向かう。
+EN: Go to the hangar.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0770
+JP: 敵防空システム稼働率を下げる。
+EN: Obstruct the enemy air defenses.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0780
+JP: ２Ｂとの合流地点へ向かう。
+EN: Go to the rendezvous point and meet 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0790
+JP: 敵を殲滅する。
+EN: Destroy all enemies.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0800
+JP: ２Ｂをハッキングする。
+EN: Hack 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0810
+JP: ジャミング敵を破壊する。
+EN: Destroy the jamming enemy.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0820
+JP: ９Ｓを防衛する。
+EN: Protect 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0830
+JP: 司令室に向かう。
+EN: Go to the command center.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0840
+JP: バンカーから脱出する。
+EN: Escape from the Bunker.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0850
+JP: 商業施設跡へ向かう。
+EN: Go to the commercial facility.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0860
+JP: 汚染ヨルハ部隊を殲滅する。
+EN: Destroy all contaminated YoRHa units.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0870
+JP: ２Ｂと合流する。
+EN: Rendezvous with 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0880
+JP: 大型機械生命体を破壊する。
+EN: Destroy the Goliath-class unit.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0885
+JP: 機械生命体をブチ殺す。
+EN: Destroy the machine lifeforms.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0890
+JP: 新型の巨大機械生命体を破壊する。
+EN: Destroy the new Goliath-class unit.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0900
+JP: 燃料用濾過フィルターを交換する。
+EN: Replace your fuel filter.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0905
+JP: 怪しい機械生命体を調査する。
+EN: Investigate the suspicious machine.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0910
+JP: パスカルにフィルターのお礼をする。
+EN: Thank Pascal for the filter.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0920
+JP: パスカルの村の依頼を達成する。
+EN: Fulfill the requests at Pascal's village.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0925
+JP: アネモネから哲学書をもらう。
+EN: Receive the philosophy book from Anemone.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0930
+JP: 通信が途絶したパスカルのもとへ向かう。
+EN: Find out why Pascal's connection cut off.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0940
+JP: 暴走する機械生命体を全て破壊する。
+EN: Destroy the rampaging machines.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0950
+JP: パスカルと合流する。
+EN: Rendezvous with Pascal.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0960
+JP: 工場廃墟でパスカルと合流する。
+EN: Meet Pascal at the abandoned factory.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0970
+JP: パスカルから現在の状況を確認する。
+EN: Get a status report from Pascal.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0980
+JP: 侵入してきた機械生命体を破壊する。
+EN: Destroy the infiltrating machine lifeforms.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0990
+JP: 敵の増援部隊を撃退する。
+EN: Defeat the enemy backup.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1000
+JP: 子供達の元へと戻る。
+EN: Return to the children.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1010
+JP: パスカルの処遇を決断する。
+EN: Decide what to do with Pascal.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1020
+JP: 外の様子を見てみる。
+EN: See what's going on outside.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1030
+JP: 陥没地帯に出現した巨大構造物をハッキングして解析する。
+EN: Hack and analyze the giant structure.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1040
+JP: 「塔」のサブユニットをハッキングして解析する。
+EN: Hack and analyze the sub-units.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1050
+JP: マークされた森の資源回収ユニットへ向かう。
+EN: Go to the recovery unit in the forest.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1060
+JP: 森の資源回収ユニットを停止させる。
+EN: Shut down the recovery unit in the forest.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1070
+JP: 水没都市の資源回収ユニットへ向かう。
+EN: Go to the recovery unit in the flooded city.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1080
+JP: 各階のハッキングポイントをクリアし、最上階のコアを目指す。
+EN: Clear all hacking points, and reach the core.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1090
+JP: 水没都市の資源回収ユニットを停止する。
+EN: Shut down the recovery unit in the flooded city.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1100
+JP: レジスタンスキャンプのデボルに会う。
+EN: Meet Devola at the Resistance camp.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1110
+JP: マークされた資源回収ユニットへ向かう。
+EN: Go to the marked resource recovery unit.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1120
+JP: 『神の箱』を停止させる。
+EN: Shut down the "god box."
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1130
+JP: ２１Oを破壊する。
+EN: Destroy 21O.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1140
+JP: 機械生命体を破壊する。
+EN: Destroy the machine lifeforms.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1150
+JP: 「塔」を調査する。
+EN: Investigate the Tower.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1160
+JP: 敵性アンドロイドを破壊する。
+EN: Destroy the hostile androids.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1170
+JP: 入手したアクセス認証キーで塔のロックを解除する。
+EN: Unlock the Tower with the keys.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1180
+JP: ゲートが解放された塔の内部を調査する。
+EN: Investigate the interior of the Tower.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1190
+JP: 「塔」を調査する。
+EN: Investigate the Tower.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1200
+JP: 自らをハッキングして体内のウイルスを除去する。
+EN: Hack yourself to remove the virus.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1210
+JP: 行く手を阻む赤い少女の刺客を破壊する。
+EN: Destroy the Red Girls' assassins.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1220
+JP: 汚染ヨルハの飛行部隊を殲滅する。
+EN: Destroy the contaminated YoRHA units.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1230
+JP: 大型多脚兵器を破壊する。
+EN: Destroy the multi-legged Goliath.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1240
+JP: 「塔」を調査する。
+EN: Investigate the Tower.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1250
+JP: 電脳空間から脱出する。
+EN: Escape the cyberspace.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1260
+JP: 「塔」の最上部へ向かう。
+EN: Go to the top floor of the Tower.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1270
+JP: 複合大型多脚兵器を破壊する。
+EN: Destroy the compound Goliath.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1280
+JP: Ａ２を倒す。
+EN: Defeat A2.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1290
+JP: ９Ｓを倒す。
+EN: Defeat 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1300
+JP: ９Ｓのウィルスを除去する。
+EN: Remove 9S's virus.
+RU: 
+
+ID: CORE_MAP_DIALOG_01
+JP: マップ情報が解放されました。
+EN: Map information unlocked.
+RU: 
+
+ID: CORE_MAP_TRANS_0001
+JP: バンカー
+EN: Bunker
+RU: 
+
+ID: CORE_MAP_TRANS_0002
+JP: レジスタンスキャンプ
+EN: Resistance Camp
+RU: 
+
+ID: CORE_MAP_TRANS_0003
+JP: 廃墟都市：中央
+EN: City Ruins: Center
+RU: 
+
+ID: CORE_MAP_TRANS_0004
+JP: 廃墟都市：工場廃墟付近
+EN: City Ruins: Near Factory
+RU: 
+
+ID: CORE_MAP_TRANS_0005
+JP: 廃墟都市：鉄塔付近
+EN: City Ruins: Near the Tower
+RU: 
+
+ID: CORE_MAP_TRANS_0006
+JP: 砂漠地帯：キャンプ
+EN: Desert: Camp
+RU: 
+
+ID: CORE_MAP_TRANS_0007
+JP: 砂漠地帯：中央
+EN: Desert: Center
+RU: 
+
+ID: CORE_MAP_TRANS_0008
+JP: 砂漠地帯：油田
+EN: Desert: Oil Field
+RU: 
+
+ID: CORE_MAP_TRANS_0009
+JP: 砂漠地帯：マンモス団地
+EN: Desert: Housing Complex
+RU: 
+
+ID: CORE_MAP_TRANS_0010
+JP: 遊園地廃墟：のりもの広場
+EN: Park Ruins: Attraction Sq.
+RU: 
+
+ID: CORE_MAP_TRANS_0011
+JP: 遊園地廃墟：コースター
+EN: Park Ruins: Coaster
+RU: 
+
+ID: CORE_MAP_TRANS_0012
+JP: 遊園地廃墟：劇場上
+EN: Park Ruins: Above Theater
+RU: 
+
+ID: CORE_MAP_TRANS_0013
+JP: 遊園地廃墟：劇場内
+EN: Park Ruins: Theater
+RU: 
+
+ID: CORE_MAP_TRANS_0014
+JP: パスカルの村
+EN: Pascal's Village
+RU: 
+
+ID: CORE_MAP_TRANS_0015
+JP: 森林地帯：中央
+EN: Forest Zone: Center
+RU: 
+
+ID: CORE_MAP_TRANS_0016
+JP: 森の城：前
+EN: Forest Castle: Front
+RU: 
+
+ID: CORE_MAP_TRANS_0017
+JP: 森の城：王室前
+EN: Forest Castle: Royal Chamber
+RU: 
+
+ID: CORE_MAP_TRANS_0018
+JP: 工場廃墟：入口
+EN: Factory: Entrance
+RU: 
+
+ID: CORE_MAP_TRANS_0019
+JP: 工場廃墟：格納庫
+EN: Factory: Hangar
+RU: 
+
+ID: CORE_MAP_TRANS_0020
+JP: 工場廃墟：溶鉱炉前
+EN: Factory: Furnace
+RU: 
+
+ID: CORE_MAP_TRANS_0021
+JP: 水没都市：沿岸
+EN: Flooded City: Coast
+RU: 
+
+ID: CORE_MAP_TRANS_0022
+JP: 廃墟都市：地下空洞
+EN: City Ruins: Cave
+RU: 
+
+ID: CORE_MAP_VOICECNG_01
+JP: オプションの「その他」に「ボイスチェンジャー」が追加されました。
+EN: Voice change option added to the "Other" options category.
+RU: 
+
+ID: CORE_POD_GET
+JP: 新しいポッドを入手しました。
+EN: You obtained a Pod.
+RU: 
+
+ID: CORE_POD_NAME_01
+JP: ポッドa
+EN: Pod A
+RU: 
+
+ID: CORE_POD_NAME_02
+JP: ポッドb
+EN: Pod B
+RU: 
+
+ID: CORE_POD_NAME_03
+JP: ポッドc
+EN: Pod C
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_01
+JP: 攻撃
+EN: Attack
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_02
+JP: 防御
+EN: Defense
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_03
+JP: 補助
+EN: Support
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_04
+JP: ハッキング
+EN: Hacking
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_05
+JP: システム
+EN: System
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_000
+JP: 『<CHIP_NAME>』の効果上限を超えました。\n効果上限：<CHIP_HELP>
+EN: The effect limit for "<CHIP_NAME>" has been exceeded.\nEffect limit: <CHIP_HELP>
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_001
+JP: 近接武器による攻撃力が2%上昇する。
+EN: Increase power of weapon-based attacks by 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_002
+JP: 近接武器による攻撃力が4%上昇する。
+EN: Increase power of weapon-based attacks by 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_003
+JP: 近接武器による攻撃力が8%上昇する。
+EN: Increase power of weapon-based attacks by 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_004
+JP: 近接武器による攻撃力が10%上昇する。
+EN: Increase power of weapon-based attacks by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_005
+JP: 近接武器による攻撃力が15%上昇する。
+EN: Increase power of weapon-based attacks by 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_006
+JP: 近接武器による攻撃力が20%上昇する。
+EN: Increase power of weapon-based attacks by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_007
+JP: 近接武器による攻撃力が50%上昇する。
+EN: Increase power of weapon-based attacks by 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_008
+JP: 近接武器による攻撃力が80%上昇する。
+EN: Increase power of weapon-based attacks by 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_009
+JP: 近接武器による攻撃力が2倍になる。
+EN: Increase power of weapon-based attacks by 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_010
+JP: 敵をダウンさせる攻撃力が2%上昇する。
+EN: Increase the power of down-attacks by 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_011
+JP: 敵をダウンさせる攻撃力が4%上昇する。
+EN: Increase the power of down-attacks by 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_012
+JP: 敵をダウンさせる攻撃力が8%上昇する。
+EN: Increase the power of down-attacks by 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_013
+JP: 敵をダウンさせる攻撃力が10%上昇する。
+EN: Increase the power of down-attacks by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_014
+JP: 敵をダウンさせる攻撃力が15%上昇する。
+EN: Increase the power of down-attacks by 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_015
+JP: 敵をダウンさせる攻撃力が20%上昇する。
+EN: Increase the power of down-attacks by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_016
+JP: 敵をダウンさせる攻撃力が50%上昇する。
+EN: Increase the power of down-attacks by 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_017
+JP: 敵をダウンさせる攻撃力が80%上昇する。
+EN: Increase the power of down-attacks by 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_018
+JP: 敵をダウンさせる攻撃力が２倍になる。
+EN: Increase the power of down-attacks by 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_019
+JP: 近接攻撃のクリティカルヒット率が1%増加する。
+EN: Increase critical hit rate by 1%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_020
+JP: 近接攻撃のクリティカルヒット率が2%増加する。
+EN: Increase critical hit rate by 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_021
+JP: 近接攻撃のクリティカルヒット率が3%増加する。
+EN: Increase critical hit rate by 3%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_022
+JP: 近接攻撃のクリティカルヒット率が4%増加する。
+EN: Increase critical hit rate by 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_023
+JP: 近接攻撃のクリティカルヒット率が6%増加する。
+EN: Increase critical hit rate by 6%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_024
+JP: 近接攻撃のクリティカルヒット率が8%増加する。
+EN: Increase critical hit rate by 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_025
+JP: 近接攻撃のクリティカルヒット率が10%増加する。
+EN: Increase critical hit rate by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_026
+JP: 近接攻撃のクリティカルヒット率が15%増加する。
+EN: Increase critical hit rate by 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_027
+JP: 近接攻撃のクリティカルヒット率が30%増加する。
+EN: Increase critical hit rate by 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_028
+JP: 射撃攻撃力が2%上昇する。
+EN: Increase power of projectile attacks by 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_029
+JP: 射撃攻撃力が4%上昇する。
+EN: Increase power of projectile attacks by 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_030
+JP: 射撃攻撃力が8%上昇する。
+EN: Increase power of projectile attacks by 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_031
+JP: 射撃攻撃力が10%上昇する。
+EN: Increase power of projectile attacks by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_032
+JP: 射撃攻撃力が15%上昇する。
+EN: Increase power of projectile attacks by 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_033
+JP: 射撃攻撃力が20%上昇する。
+EN: Increase power of projectile attacks by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_034
+JP: 射撃攻撃力が50%上昇する。
+EN: Increase power of projectile attacks by 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_035
+JP: 射撃攻撃力が80%上昇する。
+EN: Increase power of projectile attacks by 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_036
+JP: 射撃攻撃力が２倍になる。
+EN: Increase power of projectile attacks by 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_037
+JP: ポッド・プログラムのクールダウン時間が2%減少する。
+EN: Reduce Pod program cooldown time by 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_038
+JP: ポッド・プログラムのクールダウン時間が4%減少する。
+EN: Reduce Pod program cooldown time by 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_039
+JP: ポッド・プログラムのクールダウン時間が8%減少する。
+EN: Reduce Pod program cooldown time by 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_040
+JP: ポッド・プログラムのクールダウン時間が10%減少する。
+EN: Reduce Pod program cooldown time by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_041
+JP: ポッド・プログラムのクールダウン時間が15%減少する。
+EN: Reduce Pod program cooldown time by 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_042
+JP: ポッド・プログラムのクールダウン時間が20%減少する。
+EN: Reduce Pod program cooldown time by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_043
+JP: ポッド・プログラムのクールダウン時間が25%減少する。
+EN: Reduce Pod program cooldown time by 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_044
+JP: ポッド・プログラムのクールダウン時間が35%減少する。
+EN: Reduce Pod program cooldown time by 35%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_045
+JP: ポッド・プログラムのクールダウン時間が50%減少する。
+EN: Reduce Pod program cooldown time by 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_046
+JP: 物理攻撃の被ダメージを2%カットする。
+EN: Reduce melee damage taken by 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_047
+JP: 物理攻撃の被ダメージを4%カットする。
+EN: Reduce melee damage taken by 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_048
+JP: 物理攻撃の被ダメージを8%カットする。
+EN: Reduce melee damage taken by 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_049
+JP: 物理攻撃の被ダメージを10%カットする。
+EN: Reduce melee damage taken by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_050
+JP: 物理攻撃の被ダメージを15%カットする。
+EN: Reduce melee damage taken by 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_051
+JP: 物理攻撃の被ダメージを20%カットする。
+EN: Reduce melee damage taken by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_052
+JP: 物理攻撃の被ダメージを30%カットする。
+EN: Reduce melee damage taken by 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_053
+JP: 物理攻撃の被ダメージを60%カットする。
+EN: Reduce melee damage taken by 60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_054
+JP: 物理攻撃の被ダメージを80%カットする。
+EN: Reduce melee damage taken by 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_055
+JP: 射撃攻撃の被ダメージを2%カットする。
+EN: Reduce projectile damage taken by 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_056
+JP: 射撃攻撃の被ダメージを4%カットする。
+EN: Reduce projectile damage taken by 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_057
+JP: 射撃攻撃の被ダメージを8%カットする。
+EN: Reduce projectile damage taken by 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_058
+JP: 射撃攻撃の被ダメージを10%カットする。
+EN: Reduce projectile damage taken by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_059
+JP: 射撃攻撃の被ダメージを15%カットする。
+EN: Reduce projectile damage taken by 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_060
+JP: 射撃攻撃の被ダメージを20%カットする。
+EN: Reduce projectile damage taken by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_061
+JP: 射撃攻撃の被ダメージを30%カットする。
+EN: Reduce projectile damage taken by 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_062
+JP: 射撃攻撃の被ダメージを60%カットする。
+EN: Reduce projectile damage taken by 60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_063
+JP: 射撃攻撃の被ダメージを80%カットする。
+EN: Reduce projectile damage taken by 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_064
+JP: ダメージを受けた後0.5秒間無敵になる。
+EN: Turn invincible for 0.5 seconds after taking damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_065
+JP: ダメージを受けた後1秒間無敵になる。
+EN: Turn invincible for 1 second after taking damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_066
+JP: ダメージを受けた後1.5秒間無敵になる。
+EN: Turn invincible for 1.5 seconds after taking damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_067
+JP: ダメージを受けた後2秒間無敵になる。
+EN: Turn invincible for 2 seconds after taking damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_068
+JP: ダメージを受けた後2.5秒間無敵になる。
+EN: Turn invincible for 2.5 seconds after taking damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_069
+JP: ダメージを受けた後3秒間無敵になる。
+EN: Turn invincible for 3 seconds after taking damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_070
+JP: ダメージを受けた後4秒間無敵になる。
+EN: Turn invincible for 4 seconds after taking damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_071
+JP: ダメージを受けた後5秒間無敵になる。
+EN: Turn invincible for 5 seconds after taking damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_072
+JP: ダメージを受けた後6秒間無敵になる。
+EN: Turn invincible for 6 seconds after taking damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_073
+JP: プレイヤーのHPが5%増加する。
+EN: Increase maximum HP by 5%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_074
+JP: プレイヤーのHPが10%増加する。
+EN: Increase maximum HP by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_075
+JP: プレイヤーのHPが15%増加する。
+EN: Increase maximum HP by 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_076
+JP: プレイヤーのHPが20%増加する。
+EN: Increase maximum HP by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_077
+JP: プレイヤーのHPが25%増加する。
+EN: Increase maximum HP by 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_078
+JP: プレイヤーのHPが30%増加する。
+EN: Increase maximum HP by 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_079
+JP: プレイヤーのHPが50%増加する。
+EN: Increase maximum HP by 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_080
+JP: プレイヤーのHPが80%増加する。
+EN: Increase maximum HP by 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_081
+JP: プレイヤーのHPが2倍になる。
+EN: Increase maximum HP by 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_082
+JP: 与えたダメージ量の2%HPが回復する。
+EN: Recover 2% of damage dealt as HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_083
+JP: 与えたダメージ量の5%HPが回復する。
+EN: Recover 5% of damage dealt as HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_084
+JP: 与えたダメージ量の10%HPが回復する。
+EN: Recover 10% of damage dealt as HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_085
+JP: 与えたダメージ量の15%HPが回復する。
+EN: Recover 15% of damage dealt as HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_086
+JP: 与えたダメージ量の20%HPが回復する。
+EN: Recover 20% of damage dealt as HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_087
+JP: 与えたダメージ量の30%HPが回復する。
+EN: Recover 30% of damage dealt as HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_088
+JP: 与えたダメージ量の50%HPが回復する。
+EN: Recover 50% of damage dealt as HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_089
+JP: 与えたダメージ量の80%HPが回復する。
+EN: Recover 80% of damage dealt as HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_090
+JP: 与えたダメージ量の分だけHPが回復する。
+EN: Recover 100% of damage dealt as HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_091
+JP: 敵を倒した時にHPが5%回復する。
+EN: Recover 5% HP for every enemy defeated.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_092
+JP: 敵を倒した時にHPが10%回復する。
+EN: Recover 10% HP for every enemy defeated.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_093
+JP: 敵を倒した時にHPが20%回復する。
+EN: Recover 20% HP for every enemy defeated.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_094
+JP: 敵を倒した時にHPが30%回復する。
+EN: Recover 30% HP for every enemy defeated.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_095
+JP: 敵を倒した時にHPが40%回復する。
+EN: Recover 40% HP for every enemy defeated.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_096
+JP: 敵を倒した時にHPが50%回復する。
+EN: Recover 50% HP for every enemy defeated.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_097
+JP: 敵を倒した時にHPが60%回復する。
+EN: Recover 60% HP for every enemy defeated.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_098
+JP: 敵を倒した時にHPが80%回復する。
+EN: Recover 80% HP for every enemy defeated.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_099
+JP: 敵を倒した時にHPが全回復する。
+EN: Recover 100% HP for every enemy defeated.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_100
+JP: 6秒間ノーダメージで、毎秒0.6%HPが回復する。
+EN: After 6 seconds of not taking damage, restore 0.6% HP/sec.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_101
+JP: 6秒間ノーダメージで、毎秒1.2%HPが回復する。
+EN: After 6 seconds of not taking damage, restore 1.2% HP/sec.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_102
+JP: 6秒間ノーダメージで、毎秒2.4%HPが回復する。
+EN: After 6 seconds of not taking damage, restore 2.4% HP/sec.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_103
+JP: 6秒間ノーダメージで、毎秒3.6%HPが回復する。
+EN: After 6 seconds of not taking damage, restore 3.6% HP/sec.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_104
+JP: 6秒間ノーダメージで、毎秒4.8%HPが回復する。
+EN: After 6 seconds of not taking damage, restore 4.8% HP/sec.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_105
+JP: 6秒間ノーダメージで、毎秒7.2%HPが回復する。
+EN: After 6 seconds of not taking damage, restore 7.2% HP/sec.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_106
+JP: 5秒間ノーダメージで、毎秒9.6%HPが回復する。
+EN: After 5 seconds of not taking damage, restore 9.6% HP/sec.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_107
+JP: 5秒間ノーダメージで、毎秒12%HPが回復する。
+EN: After 5 seconds of not taking damage, restore 12% HP/sec.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_108
+JP: 4秒間ノーダメージで、毎秒18%HPが回復する。
+EN: After 4 seconds of not taking damage, restore 18% HP/sec.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_109
+JP: 回避行動の移動距離が1.1倍になる。
+EN: Increase evade distance by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_110
+JP: 回避行動の移動距離が1.2倍になる。
+EN: Increase evade distance by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_111
+JP: 回避行動の移動距離が1.4倍になる。
+EN: Increase evade distance by 40%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_112
+JP: 回避行動の移動距離が1.6倍になる。
+EN: Increase evade distance by 60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_113
+JP: 回避行動の移動距離が1.8倍になる。
+EN: Increase evade distance by 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_114
+JP: 回避行動の移動距離が2倍になる。
+EN: Increase evade distance by 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_115
+JP: 回避行動の移動距離が2.2倍になる。
+EN: Increase evade distance by 120%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_116
+JP: 回避行動の移動距離が2.6倍になる。
+EN: Increase evade distance by 160%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_117
+JP: 回避行動の移動距離が3倍になる。
+EN: Increase evade distance by 200%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_118
+JP: 移動速度が2%上昇する。
+EN: Increase movement speed by 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_119
+JP: 移動速度が4%上昇する。
+EN: Increase movement speed by 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_120
+JP: 移動速度が8%上昇する。
+EN: Increase movement speed by 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_121
+JP: 移動速度が10%上昇する。
+EN: Increase movement speed by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_122
+JP: 移動速度が12%上昇する。
+EN: Increase movement speed by 12%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_123
+JP: 移動速度が14%上昇する。
+EN: Increase movement speed by 14%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_124
+JP: 移動速度が16%上昇する。
+EN: Increase movement speed by 16%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_125
+JP: 移動速度が18%上昇する。
+EN: Increase movement speed by 18%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_126
+JP: 移動速度が20%上昇する。
+EN: Increase movement speed by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_127
+JP: 敵を倒した時のアイテムドロップ率が10%上昇する。
+EN: Increase enemy item drop rate by 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_128
+JP: 敵を倒した時のアイテムドロップ率が20%上昇する。
+EN: Increase enemy item drop rate by 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_129
+JP: 敵を倒した時のアイテムドロップ率が30%上昇する。
+EN: Increase enemy item drop rate by 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_130
+JP: 敵を倒した時のアイテムドロップ率が40%上昇する。
+EN: Increase enemy item drop rate by 40%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_131
+JP: 敵を倒した時のアイテムドロップ率が50%上昇する。
+EN: Increase enemy item drop rate by 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_132
+JP: 敵を倒した時のアイテムドロップ率が60%上昇する。
+EN: Increase enemy item drop rate by 60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_133
+JP: 敵を倒した時のアイテムドロップ率が70%上昇する。
+EN: Increase enemy item drop rate by 70%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_134
+JP: 敵を倒した時のアイテムドロップ率が80%上昇する。
+EN: Increase enemy item drop rate by 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_135
+JP: 敵を倒した時のアイテムドロップ率が90%上昇する。
+EN: Increase enemy item drop rate by 90%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_136
+JP: 敵を倒した時の取得経験値が2%増加する。
+EN: Gain 2% more EXP from defeated enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_137
+JP: 敵を倒した時の取得経験値が4%増加する。
+EN: Gain 4% more EXP from defeated enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_138
+JP: 敵を倒した時の取得経験値が8%増加する。
+EN: Gain 8% more EXP from defeated enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_139
+JP: 敵を倒した時の取得経験値が10%増加する。
+EN: Gain 10% more EXP from defeated enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_140
+JP: 敵を倒した時の取得経験値が20%増加する。
+EN: Gain 20% more EXP from defeated enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_141
+JP: 敵を倒した時の取得経験値が30%増加する。
+EN: Gain 30% more EXP from defeated enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_142
+JP: 敵を倒した時の取得経験値が50%増加する。
+EN: Gain 50% more EXP from defeated enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_143
+JP: 敵を倒した時の取得経験値が80%増加する。
+EN: Gain 80% more EXP from defeated enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_144
+JP: 敵を倒した時の取得経験値が２倍になる。
+EN: Gain 100% more EXP from defeated enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_145
+JP: 武器による攻撃時に、弱い衝撃波を発生させる。
+EN: Add a weak shock wave to weapon attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_146
+JP: 武器による攻撃時に、やや弱い衝撃波を発生させる。
+EN: Add a slightly weak shock wave to weapon attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_147
+JP: 武器による攻撃時に、衝撃波を発生させる。
+EN: Add a shock wave to weapon attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_148
+JP: 武器による攻撃時に、少し強い衝撃波を発生させる。
+EN: Add a slightly strong shock wave to weapon attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_149
+JP: 武器による攻撃時に、やや強い衝撃波を発生させる。
+EN: Add a fairly strong shock wave to weapon attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_150
+JP: 武器による攻撃時に、強い衝撃波を発生させる。
+EN: Add a strong shock wave to weapon attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_151
+JP: 武器による攻撃時に、強力な衝撃波を発生させる。
+EN: Add a powerful shock wave to weapon attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_152
+JP: 武器による攻撃時に、とても強力な衝撃波を発生させる。
+EN: Add a pretty powerful shock wave to weapon attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_153
+JP: 武器による攻撃時に、かなり強力な衝撃波を発生させる。
+EN: Add a very powerful shock wave to weapon attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_154
+JP: HPが25%以下のときの攻撃力が5%上昇する。
+EN: Increase attack power by 5% if HP is 25% or less.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_155
+JP: HPが25%以下のときの攻撃力が10%上昇する。
+EN: Increase attack power by 10% if HP is 25% or less.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_156
+JP: HPが25%以下のときの攻撃力が15%上昇する。
+EN: Increase attack power by 15% if HP is 25% or less.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_157
+JP: HPが25%以下のときの攻撃力が20%上昇する。
+EN: Increase attack power by 20% if HP is 25% or less.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_158
+JP: HPが25%以下のときの攻撃力が30%上昇する。
+EN: Increase attack power by 30% if HP is 25% or less.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_159
+JP: HPが25%以下のときの攻撃力が50%上昇する。
+EN: Increase attack power by 50% if HP is 25% or less.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_160
+JP: HPが25%以下のときの攻撃力が60%上昇する。
+EN: Increase attack power by 60% if HP is 25% or less.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_161
+JP: HPが25%以下のときの攻撃力が80%上昇する。
+EN: Increase attack power by 80% if HP is 25% or less.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_162
+JP: HPが25%以下のときの攻撃力が2倍になる。
+EN: Increase attack power by 100% if HP is 25% or less.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_163
+JP: 5%の確率で被ダメージ量の10%だけHPを回復する。
+EN: 5% chance to restore 10% of damage taken.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_164
+JP: 10%の確率で被ダメージ量の20%だけHPを回復する。
+EN: 10% chance to restore 20% of damage taken.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_165
+JP: 15%の確率で被ダメージ量の30%だけHPを回復する。
+EN: 15% chance to restore 30% of damage taken.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_166
+JP: 20%の確率で被ダメージ量の40%だけHPを回復する。
+EN: 20% chance to restore 40% of damage taken.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_167
+JP: 25%の確率で被ダメージ量の50%だけHPを回復する。
+EN: 25% chance to restore 50% of damage taken.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_168
+JP: 30%の確率で被ダメージ量の80%だけHPを回復する。
+EN: 30% chance to restore 80% of damage taken.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_169
+JP: 35%の確率で被ダメージ量の分だけHPが回復する。
+EN: 35% chance to restore all damage taken.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_170
+JP: 40%の確率で被ダメージ量の1.5倍の分だけHPを回復する。
+EN: 40% chance to restore 150% of damage taken.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_171
+JP: 50%の確率で被ダメージ量の2倍の分だけHPが回復する。
+EN: 50% chance to restore 200% of damage taken.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_172
+JP: 5%の確率で被ダメージ量の10%で反撃する。
+EN: 5% chance that 10% of damage taken is dealt back to the enemy.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_173
+JP: 10%の確率で被ダメージ量の20%で反撃する。
+EN: 10% chance that 20% of damage taken is dealt back to the enemy.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_174
+JP: 15%の確率で被ダメージ量の30%で反撃する。
+EN: 15% chance that 30% of damage taken is dealt back to the enemy.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_175
+JP: 20%の確率で被ダメージ量の40%で反撃する。
+EN: 20% chance that 40% of damage taken is dealt back to the enemy.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_176
+JP: 25%の確率で被ダメージ量の50%で反撃する。
+EN: 25% chance that 50% of damage taken is dealt back to the enemy.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_177
+JP: 30%の確率で被ダメージ量の80%で反撃する。
+EN: 30% chance that 80% of damage taken is dealt back to the enemy.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_178
+JP: 35%の確率で被ダメージ量と同じ攻撃力で反撃する。
+EN: 35% chance that all damage taken is dealt back to the enemy.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_179
+JP: 40%の確率で被ダメージ量の1.5倍で反撃する。
+EN: 40% chance that 150% of damage taken is dealt back to the enemy.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_180
+JP: 50%の確率で被ダメージ量の2倍で反撃する。
+EN: 50% chance that 200% of damage taken is dealt back to the enemy.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_181
+JP: 死亡時に5%の確率でHPを10%回復して復活する。
+EN: 5% chance of reviving with 10% HP upon death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_182
+JP: 死亡時に5%の確率でHPを20%回復して復活する。
+EN: 5% chance of reviving with 20% HP upon death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_183
+JP: 死亡時に10%の確率でHPを20%回復して復活する。
+EN: 10% chance of reviving with 20% HP upon death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_184
+JP: 死亡時に15%の確率でHPを30%回復して復活する。
+EN: 15% chance of reviving with 30% HP upon death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_185
+JP: 死亡時に20%の確率でHPを40%回復して復活する。
+EN: 20% chance of reviving with 40% HP upon death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_186
+JP: 死亡時に25%の確率でHPを50%回復して復活する。
+EN: 25% chance of reviving with 50% HP upon death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_187
+JP: 死亡時に30%の確率でHPを60%回復して復活する。
+EN: 30% chance of reviving with 60% HP upon death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_188
+JP: 死亡時に40%の確率でHPを70%回復して復活する。
+EN: 40% chance of reviving with 70% HP upon death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_189
+JP: 死亡時に50%の確率でHPを80%回復して復活する。
+EN: 50% chance of reviving with 80% HP upon death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_190
+JP: ジャスト回避後、0.8秒間世界がスローになる。
+EN: Slow time for 0.8 seconds after a Perfect Evade.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_191
+JP: ジャスト回避後、1.5秒間世界がスローになる。
+EN: Slow time for 1.5 seconds after a Perfect Evade.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_192
+JP: ジャスト回避後、2秒間世界がスローになる。
+EN: Slow time for 2 seconds after a Perfect Evade.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_193
+JP: ジャスト回避後、2.5秒間世界がスローになる。
+EN: Slow time for 2.5 seconds after a Perfect Evade.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_194
+JP: ジャスト回避後、3秒間世界がスローになる。
+EN: Slow time for 3 seconds after a Perfect Evade.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_195
+JP: ジャスト回避後、3.5秒間世界がスローになる。
+EN: Slow time for 3.5 seconds after a Perfect Evade.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_196
+JP: ジャスト回避後、4秒間世界がスローになる。
+EN: Slow time for 4 seconds after a Perfect Evade.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_197
+JP: ジャスト回避後、4.5秒間世界がスローになる。
+EN: Slow time for 4.5 seconds after a Perfect Evade.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_198
+JP: ジャスト回避後、5.5秒間世界がスローになる。
+EN: Slow time for 5.5 seconds after a Perfect Evade.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_199
+JP: HPが80%以上のとき、敵から攻撃を受けてもひるまない。
+EN: Avoid stagger after hits if HP is 80% or more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_200
+JP: HPが70%以上のとき、敵から攻撃を受けてもひるまない。
+EN: Avoid stagger after hits if HP is 70% or more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_201
+JP: HPが60%以上のとき、敵から攻撃を受けてもひるまない。
+EN: Avoid stagger after hits if HP is 60% or more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_202
+JP: HPが50%以上のとき、敵から攻撃を受けてもひるまない。
+EN: Avoid stagger after hits if HP is 50% or more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_203
+JP: HPが40%以上のとき、敵から攻撃を受けてもひるまない。
+EN: Avoid stagger after hits if HP is 40% or more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_204
+JP: HPが30%以上のとき、敵から攻撃を受けてもひるまない。
+EN: Avoid stagger after hits if HP is 30% or more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_205
+JP: HPが20%以上のとき、敵から攻撃を受けてもひるまない。
+EN: Avoid stagger after hits if HP is 20% or more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_206
+JP: HPが10%以上のとき、敵から攻撃を受けてもひるまない。
+EN: Avoid stagger after hits if HP is 10% or more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_207
+JP: HPが5%以上のとき、敵から攻撃を受けてもひるまない。
+EN: Avoid stagger after hits if HP is 5% or more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_208
+JP: ミニマップにアイテムの位置が表示される。
+EN: Display item locations on the mini-map.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_217
+JP: 敵の攻撃方向に合わせて移動を入力すると敵の攻撃を弾く。
+EN: Move toward an enemy attack with perfect timing to counter it.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_218
+JP: カウンターで攻撃を弾き、敵攻撃力の10%のダメージを与える。
+EN: Counter an enemy attack to send back 10% of incoming damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_219
+JP: カウンターで攻撃を弾き、敵攻撃力の30%のダメージを与える。
+EN: Counter an enemy attack to send back 30% of incoming damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_220
+JP: カウンターで攻撃を弾き、敵攻撃力の60%のダメージを与える。
+EN: Counter an enemy attack to send back 60% of incoming damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_221
+JP: カウンターで攻撃を弾き、敵攻撃力の80%のダメージを与える。
+EN: Counter an enemy attack to send back 80% of incoming damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_222
+JP: カウンターで攻撃を弾き、敵攻撃力の分だけダメージを与える。
+EN: Counter an enemy attack to send back all incoming damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_223
+JP: カウンターで攻撃を弾き、敵攻撃力の1.5倍のダメージを与える。
+EN: Counter an enemy attack to send back 150% of incoming damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_224
+JP: カウンターで攻撃を弾き、敵攻撃力の2倍のダメージを与える。
+EN: Counter an enemy attack to send back 200% of incoming damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_225
+JP: カウンターで攻撃を弾き、敵攻撃力の2.5倍のダメージを与える。
+EN: Counter an enemy attack to send back 250% of incoming damage.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_226
+JP: 挑発の効果が攻撃力1.8倍、敵攻撃力1.8倍に変化する。
+EN: Taunts raise player and enemy attack power to 180%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_227
+JP: 挑発の効果が攻撃力2倍、敵攻撃力2倍に変化する。
+EN: Taunts raise player and enemy attack power to 200%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_228
+JP: 挑発の効果が攻撃力2.4倍、敵攻撃力2.4倍に変化する。
+EN: Taunts raise player and enemy attack power to 240%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_229
+JP: 挑発の効果が攻撃力2.8倍、敵攻撃力2.8倍に変化する。
+EN: Taunts raise player and enemy attack power to 280%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_230
+JP: 挑発の効果が攻撃力3倍、敵攻撃力3倍に変化する。
+EN: Taunts raise player and enemy attack power to 300%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_231
+JP: 挑発の効果が攻撃力3.5倍、敵攻撃力3.5倍に変化する。
+EN: Taunts raise player and enemy attack power to 350%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_232
+JP: 挑発の効果が攻撃力4倍、敵攻撃力4倍に変化する。
+EN: Taunts raise player and enemy attack power to 400%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_233
+JP: 挑発の効果が攻撃力4.5倍、敵攻撃力4.5倍に変化する。
+EN: Taunts raise player and enemy attack power to 450%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_234
+JP: 挑発の効果が攻撃力5倍、敵攻撃力5倍に変化する。
+EN: Taunts raise player and enemy attack power to 500%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_235
+JP: <KC_HEAVY_ATK_2>長押しで発動できるチャージアタックの攻撃力1.2倍。
+EN: Increase power of charge attacks (hold <KC_HEAVY_ATK_2>) to 120%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_236
+JP: <KC_HEAVY_ATK_2>長押しで発動できるチャージアタックの攻撃力1.4倍。
+EN: Increase power of charge attacks (hold <KC_HEAVY_ATK_2>) to 140%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_237
+JP: <KC_HEAVY_ATK_2>長押しで発動できるチャージアタックの攻撃力1.6倍。
+EN: Increase power of charge attacks (hold <KC_HEAVY_ATK_2>) to 160%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_238
+JP: <KC_HEAVY_ATK_2>長押しで発動できるチャージアタックの攻撃力1.8倍。
+EN: Increase power of charge attacks (hold <KC_HEAVY_ATK_2>) to 180%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_239
+JP: <KC_HEAVY_ATK_2>長押しで発動できるチャージアタックの攻撃力2倍。
+EN: Increase power of charge attacks (hold <KC_HEAVY_ATK_2>) to 200%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_240
+JP: <KC_HEAVY_ATK_2>長押しで発動できるチャージアタックの攻撃力2.5倍。
+EN: Increase power of charge attacks (hold <KC_HEAVY_ATK_2>) to 250%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_241
+JP: <KC_HEAVY_ATK_2>長押しで発動できるチャージアタックの攻撃力3倍。
+EN: Increase power of charge attacks (hold <KC_HEAVY_ATK_2>) to 300%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_242
+JP: <KC_HEAVY_ATK_2>長押しで発動できるチャージアタックの攻撃力3.5倍。
+EN: Increase power of charge attacks (hold <KC_HEAVY_ATK_2>) to 350%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_243
+JP: <KC_HEAVY_ATK_2>長押しで発動できるチャージアタックの攻撃力4倍。
+EN: Increase power of charge attacks (hold <KC_HEAVY_ATK_2>) to 400%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_244
+JP: HPが30%以下になると、回復アイテムを自動使用する。効能1.1倍。
+EN: Auto-use healing item if HP drops below 30%. Heals 10% more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_246
+JP: HPが30%以下になると、回復アイテムを自動使用する。効能1.2倍。
+EN: Auto-use healing item if HP drops below 30%. Heals 20% more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_247
+JP: HPが30%以下になると、回復アイテムを自動使用する。効能1.3倍。
+EN: Auto-use healing item if HP drops below 30%. Heals 30% more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_248
+JP: HPが30%以下になると、回復アイテムを自動使用する。効能1.4倍。
+EN: Auto-use healing item if HP drops below 30%. Heals 40% more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_249
+JP: HPが30%以下になると、回復アイテムを自動使用する。効能1.5倍。
+EN: Auto-use healing item if HP drops below 30%. Heals 50% more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_250
+JP: HPが30%以下になると、回復アイテムを自動使用する。効能1.6倍。
+EN: Auto-use healing item if HP drops below 30%. Heals 60% more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_251
+JP: HPが30%以下になると、回復アイテムを自動使用する。効能1.8倍。
+EN: Auto-use healing item if HP drops below 30%. Heals 80% more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_252
+JP: HPが30%以下になると、回復アイテムを自動使用する。効能2倍。
+EN: Auto-use healing item if HP drops below 30%. Heals 100% more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_262
+JP: 敵をリモート操作時、操作している機体のレベルが1上昇する。
+EN: Strengthen remotely controlled enemies. Enemy level +1.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_263
+JP: 敵をリモート操作時、操作している機体のレベルが2上昇する。
+EN: Strengthen remotely controlled enemies. Enemy level +2.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_264
+JP: 敵をリモート操作時、操作している機体のレベルが3上昇する。
+EN: Strengthen remotely controlled enemies. Enemy level +3.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_265
+JP: 敵をリモート操作時、操作している機体のレベルが4上昇する。
+EN: Strengthen remotely controlled enemies. Enemy level +4.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_266
+JP: 敵をリモート操作時、操作している機体のレベルが5上昇する。
+EN: Strengthen remotely controlled enemies. Enemy level +5.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_267
+JP: 敵をリモート操作時、操作している機体のレベルが6上昇する。
+EN: Strengthen remotely controlled enemies. Enemy level +6.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_268
+JP: 敵をリモート操作時、操作している機体のレベルが7上昇する。
+EN: Strengthen remotely controlled enemies. Enemy level +7.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_269
+JP: 敵をリモート操作時、操作している機体のレベルが8上昇する。
+EN: Strengthen remotely controlled enemies. Enemy level +8.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_270
+JP: 敵をリモート操作時、操作している機体のレベルが9上昇する。
+EN: Strengthen remotely controlled enemies. Enemy level +9.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_289
+JP: 敵を放電させスタン状態にする。放電範囲5m、効果時間3秒。
+EN: Zap a hacked foe to emit a 5m blast & stun them for 3 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_290
+JP: 敵を放電させスタン状態にする。放電範囲10m、効果時間3秒。
+EN: Zap a hacked foe to emit a 10m blast & stun them for 3 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_291
+JP: 敵を放電させスタン状態にする。放電範囲10m、効果時間3.5秒。
+EN: Zap a hacked foe to emit a 10m blast & stun them for 3.5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_292
+JP: 敵を放電させスタン状態にする。放電範囲15m、効果時間3.5秒。
+EN: Zap a hacked foe to emit a 15m blast & stun them for 3.5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_293
+JP: 敵を放電させスタン状態にする。放電範囲15m、効果時間4秒。
+EN: Zap a hacked foe to emit a 15m blast & stun them for 4 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_294
+JP: 敵を放電させスタン状態にする。放電範囲20m、効果時間4秒。
+EN: Zap a hacked foe to emit a 20m blast & stun them for 4 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_295
+JP: 敵を放電させスタン状態にする。放電範囲20m、効果時間4.5秒。
+EN: Zap a hacked foe to emit a 20m blast & stun them for 4.5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_296
+JP: 敵を放電させスタン状態にする。放電範囲25m、効果時間4.5秒。
+EN: Zap a hacked foe to emit a 25m blast & stun them for 4.5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_297
+JP: 敵を放電させスタン状態にする。放電範囲25m、効果時間5秒。
+EN: Zap a hacked foe to emit a 25m blast & stun them for 5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_298
+JP: 敵の回路をショートさせて発火・炎上させる。効果時間3秒。
+EN: Short-circuit a foe, causing a fire for 3 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_299
+JP: 敵の回路をショートさせて発火・炎上させる。効果時間3.5秒。
+EN: Short-circuit a foe, causing a fire for 3.5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_300
+JP: 敵の回路をショートさせて発火・炎上させる。効果時間4秒。
+EN: Short-circuit a foe, causing a fire for 4 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_301
+JP: 敵の回路をショートさせて発火・炎上させる。効果時間4.5秒。
+EN: Short-circuit a foe, causing a fire for 4.5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_302
+JP: 敵の回路をショートさせて発火・炎上させる。効果時間5秒。
+EN: Short-circuit a foe, causing a fire for 5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_303
+JP: 敵の回路をショートさせて発火・炎上させる。効果時間5.5秒。
+EN: Short-circuit a foe, causing a fire for 5.5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_304
+JP: 敵の回路をショートさせて発火・炎上させる。効果時間6秒。
+EN: Short-circuit a foe, causing a fire for 6 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_305
+JP: 敵の回路をショートさせて発火・炎上させる。効果時間6.5秒。
+EN: Short-circuit a foe, causing a fire for 6.5 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_306
+JP: 敵の回路をショートさせて発火・炎上させる。効果時間7秒。
+EN: Short-circuit a foe, causing a fire for 7 seconds.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_325
+JP: ハッキングで敵撃破時、10%の確率で回復アイテムがドロップする。
+EN: 10% chance foes drop healing items if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_326
+JP: ハッキングで敵撃破時、20%の確率で回復アイテムがドロップする。
+EN: 20% chance foes drop healing items if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_327
+JP: ハッキングで敵撃破時、30%の確率で回復アイテムがドロップする。
+EN: 30% chance foes drop healing items if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_328
+JP: ハッキングで敵撃破時、40%の確率で回復アイテムがドロップする。
+EN: 40% chance foes drop healing items if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_329
+JP: ハッキングで敵撃破時、50%の確率で回復アイテムがドロップする。
+EN: 50% chance foes drop healing items if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_330
+JP: ハッキングで敵撃破時、60%の確率で回復アイテムがドロップする。
+EN: 60% chance foes drop healing items if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_331
+JP: ハッキングで敵撃破時、70%の確率で回復アイテムがドロップする。
+EN: 70% chance foes drop healing items if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_332
+JP: ハッキングで敵撃破時、90%の確率で回復アイテムがドロップする。
+EN: 90% chance foes drop healing items if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_333
+JP: ハッキングで敵撃破時、必ず回復アイテムがドロップする。
+EN: 100% chance foes drop healing items if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_334
+JP: ハッキングで敵撃破時、敵が断末魔を叫ぶ。
+EN: Enemies emit death cries if defeated by hacking.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_336
+JP: 音声を分析したグラフが表示される。
+EN: Display a sound analysis graph.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_339
+JP: 敵の弾が近づくと演算処理がアップし映像がスローになる。
+EN: Time slows when near enemy projectiles.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_340
+JP: 回避してもコンボが継続する。
+EN: Combos continue while evading.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_341
+JP: 敵の弾によってダメージを受けた際に、周りの弾を誘爆させる。
+EN: Strike enemy bullets to detonate them.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_342
+JP: 採取アイテムを拾わなくても自動で吸い寄せ取得する。
+EN: Items are automatically drawn in and collected.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_346
+JP: 経験値ゲージと取得経験値数値が表示される。
+EN: Display the EXP gauge and amount of EXP earned.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_353
+JP: 釣り可能エリアにいるときアイコンが表示される。
+EN: Display an icon in areas where you can fish.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_999
+JP: 『<CHIP_NAME>』は複数装備しても効果は重複しません。
+EN: Equipping multiple <CHIP_NAME> chips will not increase their effect.
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_001
+JP: 近接武器攻撃力UP
+EN: Weapon Attack Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_002
+JP: 近接武器攻撃力UP＋1
+EN: Weapon Attack Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_003
+JP: 近接武器攻撃力UP＋2
+EN: Weapon Attack Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_004
+JP: 近接武器攻撃力UP＋3
+EN: Weapon Attack Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_005
+JP: 近接武器攻撃力UP＋4
+EN: Weapon Attack Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_006
+JP: 近接武器攻撃力UP＋5
+EN: Weapon Attack Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_007
+JP: 近接武器攻撃力UP＋6
+EN: Weapon Attack Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_008
+JP: 近接武器攻撃力UP＋7
+EN: Weapon Attack Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_009
+JP: 近接武器攻撃力UP＋8
+EN: Weapon Attack Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_010
+JP: ダウン攻撃力UP
+EN: Down-Attack Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_011
+JP: ダウン攻撃力UP＋1
+EN: Down-Attack Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_012
+JP: ダウン攻撃力UP＋2
+EN: Down-Attack Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_013
+JP: ダウン攻撃力UP＋3
+EN: Down-Attack Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_014
+JP: ダウン攻撃力UP＋4
+EN: Down-Attack Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_015
+JP: ダウン攻撃力UP＋5
+EN: Down-Attack Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_016
+JP: ダウン攻撃力UP＋6
+EN: Down-Attack Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_017
+JP: ダウン攻撃力UP＋7
+EN: Down-Attack Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_018
+JP: ダウン攻撃力UP＋8
+EN: Down-Attack Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_019
+JP: クリティカルUP
+EN: Critical Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_020
+JP: クリティカルUP＋1
+EN: Critical Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_021
+JP: クリティカルUP＋2
+EN: Critical Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_022
+JP: クリティカルUP＋3
+EN: Critical Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_023
+JP: クリティカルUP＋4
+EN: Critical Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_024
+JP: クリティカルUP＋5
+EN: Critical Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_025
+JP: クリティカルUP＋6
+EN: Critical Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_026
+JP: クリティカルUP＋7
+EN: Critical Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_027
+JP: クリティカルUP＋8
+EN: Critical Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_028
+JP: 射撃攻撃力UP
+EN: Ranged Attack Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_029
+JP: 射撃攻撃力UP＋1
+EN: Ranged Attack Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_030
+JP: 射撃攻撃力UP＋2
+EN: Ranged Attack Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_031
+JP: 射撃攻撃力UP＋3
+EN: Ranged Attack Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_032
+JP: 射撃攻撃力UP＋4
+EN: Ranged Attack Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_033
+JP: 射撃攻撃力UP＋5
+EN: Ranged Attack Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_034
+JP: 射撃攻撃力UP＋6
+EN: Ranged Attack Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_035
+JP: 射撃攻撃力UP＋7
+EN: Ranged Attack Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_036
+JP: 射撃攻撃力UP＋8
+EN: Ranged Attack Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_037
+JP: クールダウン高速化
+EN: Fast Cooldown
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_038
+JP: クールダウン高速化＋1
+EN: Fast Cooldown +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_039
+JP: クールダウン高速化＋2
+EN: Fast Cooldown +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_040
+JP: クールダウン高速化＋3
+EN: Fast Cooldown +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_041
+JP: クールダウン高速化＋4
+EN: Fast Cooldown +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_042
+JP: クールダウン高速化＋5
+EN: Fast Cooldown +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_043
+JP: クールダウン高速化＋6
+EN: Fast Cooldown +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_044
+JP: クールダウン高速化＋7
+EN: Fast Cooldown +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_045
+JP: クールダウン高速化＋8
+EN: Fast Cooldown +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_046
+JP: 物理ダメージ軽減
+EN: Melee Defense
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_047
+JP: 物理ダメージ軽減＋1
+EN: Melee Defense +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_048
+JP: 物理ダメージ軽減＋2
+EN: Melee Defense +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_049
+JP: 物理ダメージ軽減＋3
+EN: Melee Defense +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_050
+JP: 物理ダメージ軽減＋4
+EN: Melee Defense +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_051
+JP: 物理ダメージ軽減＋5
+EN: Melee Defense +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_052
+JP: 物理ダメージ軽減＋6
+EN: Melee Defense +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_053
+JP: 物理ダメージ軽減＋7
+EN: Melee Defense +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_054
+JP: 物理ダメージ軽減＋8
+EN: Melee Defense +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_055
+JP: 射撃ダメージ軽減
+EN: Ranged Defense
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_056
+JP: 射撃ダメージ軽減＋1
+EN: Ranged Defense +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_057
+JP: 射撃ダメージ軽減＋2
+EN: Ranged Defense +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_058
+JP: 射撃ダメージ軽減＋3
+EN: Ranged Defense +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_059
+JP: 射撃ダメージ軽減＋4
+EN: Ranged Defense +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_060
+JP: 射撃ダメージ軽減＋5
+EN: Ranged Defense +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_061
+JP: 射撃ダメージ軽減＋6
+EN: Ranged Defense +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_062
+JP: 射撃ダメージ軽減＋7
+EN: Ranged Defense +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_063
+JP: 射撃ダメージ軽減＋8
+EN: Ranged Defense +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_064
+JP: 連続ダメージ防止
+EN: Anti Chain Damage
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_065
+JP: 連続ダメージ防止＋1
+EN: Anti Chain Damage +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_066
+JP: 連続ダメージ防止＋2
+EN: Anti Chain Damage +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_067
+JP: 連続ダメージ防止＋3
+EN: Anti Chain Damage +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_068
+JP: 連続ダメージ防止＋4
+EN: Anti Chain Damage +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_069
+JP: 連続ダメージ防止＋5
+EN: Anti Chain Damage +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_070
+JP: 連続ダメージ防止＋6
+EN: Anti Chain Damage +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_071
+JP: 連続ダメージ防止＋7
+EN: Anti Chain Damage +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_072
+JP: 連続ダメージ防止＋8
+EN: Anti Chain Damage +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_073
+JP: HP最大値UP
+EN: Max HP Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_074
+JP: HP最大値UP＋1
+EN: Max HP Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_075
+JP: HP最大値UP＋2
+EN: Max HP Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_076
+JP: HP最大値UP＋3
+EN: Max HP Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_077
+JP: HP最大値UP＋4
+EN: Max HP Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_078
+JP: HP最大値UP＋5
+EN: Max HP Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_079
+JP: HP最大値UP＋6
+EN: Max HP Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_080
+JP: HP最大値UP＋7
+EN: Max HP Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_081
+JP: HP最大値UP＋8
+EN: Max HP Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_082
+JP: 攻撃HP回復
+EN: Offensive Heal
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_083
+JP: 攻撃HP回復＋1
+EN: Offensive Heal +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_084
+JP: 攻撃HP回復＋2
+EN: Offensive Heal +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_085
+JP: 攻撃HP回復＋3
+EN: Offensive Heal +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_086
+JP: 攻撃HP回復＋4
+EN: Offensive Heal +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_087
+JP: 攻撃HP回復＋5
+EN: Offensive Heal +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_088
+JP: 攻撃HP回復＋6
+EN: Offensive Heal +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_089
+JP: 攻撃HP回復＋7
+EN: Offensive Heal +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_090
+JP: 攻撃HP回復＋8
+EN: Offensive Heal +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_091
+JP: 撃破HP回復
+EN: Deadly Heal
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_092
+JP: 撃破HP回復＋1
+EN: Deadly Heal +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_093
+JP: 撃破HP回復＋2
+EN: Deadly Heal +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_094
+JP: 撃破HP回復＋3
+EN: Deadly Heal +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_095
+JP: 撃破HP回復＋4
+EN: Deadly Heal +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_096
+JP: 撃破HP回復＋5
+EN: Deadly Heal +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_097
+JP: 撃破HP回復＋6
+EN: Deadly Heal +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_098
+JP: 撃破HP回復＋7
+EN: Deadly Heal +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_099
+JP: 撃破HP回復＋8
+EN: Deadly Heal +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_100
+JP: オートHP回復
+EN: Auto-Heal
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_101
+JP: オートHP回復＋1
+EN: Auto-Heal +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_102
+JP: オートHP回復＋2
+EN: Auto-Heal +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_103
+JP: オートHP回復＋3
+EN: Auto-Heal +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_104
+JP: オートHP回復＋4
+EN: Auto-Heal +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_105
+JP: オートHP回復＋5
+EN: Auto-Heal +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_106
+JP: オートHP回復＋6
+EN: Auto-Heal +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_107
+JP: オートHP回復＋7
+EN: Auto-Heal +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_108
+JP: オートHP回復＋8
+EN: Auto-Heal +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_109
+JP: 回避行動距離UP
+EN: Evade Range Up 
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_110
+JP: 回避行動距離UP＋1
+EN: Evade Range Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_111
+JP: 回避行動距離UP＋2
+EN: Evade Range Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_112
+JP: 回避行動距離UP＋3
+EN: Evade Range Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_113
+JP: 回避行動距離UP＋4
+EN: Evade Range Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_114
+JP: 回避行動距離UP＋5
+EN: Evade Range Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_115
+JP: 回避行動距離UP＋6
+EN: Evade Range Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_116
+JP: 回避行動距離UP＋7
+EN: Evade Range Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_117
+JP: 回避行動距離UP＋8
+EN: Evade Range Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_118
+JP: 移動速度UP
+EN: Moving Speed Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_119
+JP: 移動速度UP＋1
+EN: Moving Speed Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_120
+JP: 移動速度UP＋2
+EN: Moving Speed Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_121
+JP: 移動速度UP＋3
+EN: Moving Speed Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_122
+JP: 移動速度UP＋4
+EN: Moving Speed Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_123
+JP: 移動速度UP＋5
+EN: Moving Speed Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_124
+JP: 移動速度UP＋6
+EN: Moving Speed Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_125
+JP: 移動速度UP＋7
+EN: Moving Speed Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_126
+JP: 移動速度UP＋8
+EN: Moving Speed Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_127
+JP: ドロップ率UP
+EN: Drop Rate Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_128
+JP: ドロップ率UP＋1
+EN: Drop Rate Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_129
+JP: ドロップ率UP＋2
+EN: Drop Rate Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_130
+JP: ドロップ率UP＋3
+EN: Drop Rate Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_131
+JP: ドロップ率UP＋4
+EN: Drop Rate Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_132
+JP: ドロップ率UP＋5
+EN: Drop Rate Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_133
+JP: ドロップ率UP＋6
+EN: Drop Rate Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_134
+JP: ドロップ率UP＋7
+EN: Drop Rate Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_135
+JP: ドロップ率UP＋8
+EN: Drop Rate Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_136
+JP: 取得経験値UP
+EN: EXP Gain Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_137
+JP: 取得経験値UP＋1
+EN: EXP Gain Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_138
+JP: 取得経験値UP＋2
+EN: EXP Gain Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_139
+JP: 取得経験値UP＋3
+EN: EXP Gain Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_140
+JP: 取得経験値UP＋4
+EN: EXP Gain Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_141
+JP: 取得経験値UP＋5
+EN: EXP Gain Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_142
+JP: 取得経験値UP＋6
+EN: EXP Gain Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_143
+JP: 取得経験値UP＋7
+EN: EXP Gain Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_144
+JP: 取得経験値UP＋8
+EN: EXP Gain Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_145
+JP: 衝撃波
+EN: Shock Wave
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_146
+JP: 衝撃波＋1
+EN: Shock Wave +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_147
+JP: 衝撃波＋2
+EN: Shock Wave +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_148
+JP: 衝撃波＋3
+EN: Shock Wave +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_149
+JP: 衝撃波＋4
+EN: Shock Wave +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_150
+JP: 衝撃波＋5
+EN: Shock Wave +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_151
+JP: 衝撃波＋6
+EN: Shock Wave +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_152
+JP: 衝撃波＋7
+EN: Shock Wave +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_153
+JP: 衝撃波＋8
+EN: Shock Wave +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_154
+JP: 瀕死時攻撃力UP
+EN: Last Stand
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_155
+JP: 瀕死時攻撃力UP＋1
+EN: Last Stand +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_156
+JP: 瀕死時攻撃力UP＋2
+EN: Last Stand +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_157
+JP: 瀕死時攻撃力UP＋3
+EN: Last Stand +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_158
+JP: 瀕死時攻撃力UP＋4
+EN: Last Stand +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_159
+JP: 瀕死時攻撃力UP＋5
+EN: Last Stand +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_160
+JP: 瀕死時攻撃力UP＋6
+EN: Last Stand +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_161
+JP: 瀕死時攻撃力UP＋7
+EN: Last Stand +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_162
+JP: 瀕死時攻撃力UP＋8
+EN: Last Stand +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_163
+JP: ダメージ吸収
+EN: Damage Absorb
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_164
+JP: ダメージ吸収＋1
+EN: Damage Absorb +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_165
+JP: ダメージ吸収＋2
+EN: Damage Absorb +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_166
+JP: ダメージ吸収＋3
+EN: Damage Absorb +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_167
+JP: ダメージ吸収＋4
+EN: Damage Absorb +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_168
+JP: ダメージ吸収＋5
+EN: Damage Absorb +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_169
+JP: ダメージ吸収＋6
+EN: Damage Absorb +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_170
+JP: ダメージ吸収＋7
+EN: Damage Absorb +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_171
+JP: ダメージ吸収＋8
+EN: Damage Absorb +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_172
+JP: リベンジ
+EN: Vengeance
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_173
+JP: リベンジ＋1
+EN: Vengeance +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_174
+JP: リベンジ＋2
+EN: Vengeance +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_175
+JP: リベンジ＋3
+EN: Vengeance +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_176
+JP: リベンジ＋4
+EN: Vengeance +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_177
+JP: リベンジ＋5
+EN: Vengeance +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_178
+JP: リベンジ＋6
+EN: Vengeance +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_179
+JP: リベンジ＋7
+EN: Vengeance +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_180
+JP: リベンジ＋8
+EN: Vengeance +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_181
+JP: 再起動
+EN: Reset
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_182
+JP: 再起動＋1
+EN: Reset +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_183
+JP: 再起動＋2
+EN: Reset +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_184
+JP: 再起動＋3
+EN: Reset +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_185
+JP: 再起動＋4
+EN: Reset +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_186
+JP: 再起動＋5
+EN: Reset +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_187
+JP: 再起動＋6
+EN: Reset +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_188
+JP: 再起動＋7
+EN: Reset +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_189
+JP: 再起動＋8
+EN: Reset +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_190
+JP: オーバークロック
+EN: Overclock
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_191
+JP: オーバークロック＋1
+EN: Overclock +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_192
+JP: オーバークロック＋2
+EN: Overclock +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_193
+JP: オーバークロック＋3
+EN: Overclock +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_194
+JP: オーバークロック＋4
+EN: Overclock +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_195
+JP: オーバークロック＋5
+EN: Overclock +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_196
+JP: オーバークロック＋6
+EN: Overclock +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_197
+JP: オーバークロック＋7
+EN: Overclock +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_198
+JP: オーバークロック＋8
+EN: Overclock +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_199
+JP: 耐衝撃制御
+EN: Resilience
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_200
+JP: 耐衝撃制御＋1
+EN: Resilience +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_201
+JP: 耐衝撃制御＋2
+EN: Resilience +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_202
+JP: 耐衝撃制御＋3
+EN: Resilience +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_203
+JP: 耐衝撃制御＋4
+EN: Resilience +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_204
+JP: 耐衝撃制御＋5
+EN: Resilience +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_205
+JP: 耐衝撃制御＋6
+EN: Resilience +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_206
+JP: 耐衝撃制御＋7
+EN: Resilience +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_207
+JP: 耐衝撃制御＋8
+EN: Resilience +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_208
+JP: アイテムスキャン
+EN: Item Scan
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_217
+JP: カウンター
+EN: Counter
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_218
+JP: カウンター＋1
+EN: Counter +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_219
+JP: カウンター＋2
+EN: Counter +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_220
+JP: カウンター＋3
+EN: Counter +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_221
+JP: カウンター＋4
+EN: Counter +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_222
+JP: カウンター＋5
+EN: Counter +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_223
+JP: カウンター＋6
+EN: Counter +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_224
+JP: カウンター＋7
+EN: Counter +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_225
+JP: カウンター＋8
+EN: Counter +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_226
+JP: 挑発強化
+EN: Taunt Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_227
+JP: 挑発強化＋1
+EN: Taunt Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_228
+JP: 挑発強化＋2
+EN: Taunt Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_229
+JP: 挑発強化＋3
+EN: Taunt Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_230
+JP: 挑発強化＋4
+EN: Taunt Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_231
+JP: 挑発強化＋5
+EN: Taunt Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_232
+JP: 挑発強化＋6
+EN: Taunt Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_233
+JP: 挑発強化＋7
+EN: Taunt Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_234
+JP: 挑発強化＋8
+EN: Taunt Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_235
+JP: チャージアタック
+EN: Charge Attack
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_236
+JP: チャージアタック＋1
+EN: Charge Attack +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_237
+JP: チャージアタック＋2
+EN: Charge Attack +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_238
+JP: チャージアタック＋3
+EN: Charge Attack +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_239
+JP: チャージアタック＋4
+EN: Charge Attack +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_240
+JP: チャージアタック＋5
+EN: Charge Attack +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_241
+JP: チャージアタック＋6
+EN: Charge Attack +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_242
+JP: チャージアタック＋7
+EN: Charge Attack +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_243
+JP: チャージアタック＋8
+EN: Charge Attack +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_244
+JP: オートアイテム
+EN: Auto-use Item
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_245
+JP: オートアイテム＋1
+EN: Auto-use Item +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_246
+JP: オートアイテム＋2
+EN: Auto-use Item +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_247
+JP: オートアイテム＋3
+EN: Auto-use Item +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_248
+JP: オートアイテム＋4
+EN: Auto-use Item +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_249
+JP: オートアイテム＋5
+EN: Auto-use Item +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_250
+JP: オートアイテム＋6
+EN: Auto-use Item +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_251
+JP: オートアイテム＋7
+EN: Auto-use Item +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_252
+JP: オートアイテム＋8
+EN: Auto-use Item +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_262
+JP: リモート操作強化
+EN: Hijack Boost
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_263
+JP: リモート操作強化+1
+EN: Hijack Boost +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_264
+JP: リモート操作強化+2
+EN: Hijack Boost +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_265
+JP: リモート操作強化+3
+EN: Hijack Boost +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_266
+JP: リモート操作強化+4
+EN: Hijack Boost +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_267
+JP: リモート操作強化+5
+EN: Hijack Boost +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_268
+JP: リモート操作強化+6
+EN: Hijack Boost +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_269
+JP: リモート操作強化+7
+EN: Hijack Boost +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_270
+JP: リモート操作強化+8
+EN: Hijack Boost +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_289
+JP: スタン
+EN: Stun
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_290
+JP: スタン+1
+EN: Stun +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_291
+JP: スタン+2
+EN: Stun +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_292
+JP: スタン+3
+EN: Stun +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_293
+JP: スタン+4
+EN: Stun +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_294
+JP: スタン+5
+EN: Stun +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_295
+JP: スタン+6
+EN: Stun +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_296
+JP: スタン+7
+EN: Stun +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_297
+JP: スタン+8
+EN: Stun +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_298
+JP: 炎上
+EN: Combust
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_299
+JP: 炎上+1
+EN: Combust +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_300
+JP: 炎上+2
+EN: Combust +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_301
+JP: 炎上+3
+EN: Combust +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_302
+JP: 炎上+4
+EN: Combust +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_303
+JP: 炎上+5
+EN: Combust +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_304
+JP: 炎上+6
+EN: Combust +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_305
+JP: 炎上+7
+EN: Combust +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_306
+JP: 炎上+8
+EN: Combust +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_325
+JP: 回復ドロップ
+EN: Heal Drops Up
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_326
+JP: 回復ドロップ+1
+EN: Heal Drops Up +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_327
+JP: 回復ドロップ+2
+EN: Heal Drops Up +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_328
+JP: 回復ドロップ+3
+EN: Heal Drops Up +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_329
+JP: 回復ドロップ+4
+EN: Heal Drops Up +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_330
+JP: 回復ドロップ+5
+EN: Heal Drops Up +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_331
+JP: 回復ドロップ+6
+EN: Heal Drops Up +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_332
+JP: 回復ドロップ+7
+EN: Heal Drops Up +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_333
+JP: 回復ドロップ+8
+EN: Heal Drops Up +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_334
+JP: 断末魔
+EN: Death Rattle
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_335
+JP: HUD：HPゲージ
+EN: HUD: HP Gauge
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_336
+JP: HUD：音声分析
+EN: HUD: Sound Waves
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_337
+JP: HUD：敵情報表示
+EN: HUD: Enemy Data
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_338
+JP: OSチップ
+EN: OS Chip
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_339
+JP: 銃弾回避システム
+EN: Evasive System
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_340
+JP: コンボ継続
+EN: Continuous Combo
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_341
+JP: 敵弾誘爆
+EN: Bullet Detonation
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_342
+JP: アイテム自動吸着
+EN: Auto-collect Items
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_343
+JP: HUD：スキルゲージ
+EN: HUD: Skill Gauge
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_344
+JP: HUD：テキストログ
+EN: HUD: Text Log
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_345
+JP: HUD：ミニマップ
+EN: HUD: Mini-map
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_346
+JP: HUD：経験値ゲージ
+EN: HUD: EXP Gauge
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_347
+JP: HUD：セーブ可能表示
+EN: HUD: Save Points
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_348
+JP: HUD：ダメージ数値
+EN: HUD: Damage Values
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_349
+JP: HUD：目的地表示
+EN: HUD: Objectives
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_350
+JP: HUD：オート表示制御
+EN: HUD: Control
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_351
+JP: エイリアンの細胞
+EN: Alien Cells
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_352
+JP: エイリアンの心臓
+EN: Alien Heart
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_353
+JP: HUD：釣魚可能表示
+EN: HUD: Fishing Spots
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_354
+JP: オート攻撃
+EN: Auto-Attack
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_355
+JP: オート射撃
+EN: Auto-Fire
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_356
+JP: オート回避
+EN: Auto-Evade
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_357
+JP: オートプログラム
+EN: Auto-Program
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_358
+JP: オート武器切替
+EN: Auto-Weapon Switch
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_CHIP
+JP: チップ『<CHIP_NAME>』
+EN: "<CHIP_NAME>" Chip
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_EXP
+JP: <EXP_VALUE>EXP
+EN: <EXP_VALUE> EXP
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_ITEM
+JP: <ITEM_NAME> ×<ITEM_NUM>
+EN: <ITEM_NAME> x <ITEM_NUM>
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_MONEY
+JP: <MONEY_VALUE>G
+EN: <MONEY_VALUE> G
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_WEAPON
+JP: <WEAPON_NAME>
+EN: <WEAPON_NAME>
+RU: 
+
+ID: CORE_QUEST_TXT_01
+JP: 「<QUEST_NAME>」を受注しました。
+EN: "<QUEST_NAME>" accepted.
+RU: 
+
+ID: CORE_QUEST_TXT_02
+JP: 「<QUEST_NAME>」が完了しました。
+EN: "<QUEST_NAME>" complete.
+RU: 
+
+ID: CORE_QUEST_TXT_03
+JP: クエスト情報が更新されました。
+EN: Quest information has been updated.
+RU: 
+
+ID: CORE_QUEST_TXT_04
+JP: 「<QUEST_NAME>」を報告しました。
+EN: Reported "<QUEST_NAME>".
+RU: 
+
+ID: CORE_QUEST_TXT_05
+JP: 修復が完了しました。
+EN: Repairs completed.
+RU: 
+
+ID: CORE_SAVELOAD_TXT_00
+JP: ゲームを終了します。よろしいですか？
+EN: This will close the game.\nIs that okay?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_01
+JP: データを作成しますか？
+EN: Create save data?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_02
+JP: 選択したセーブデータでプレイしますか？
+EN: Load this save file?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_03
+JP: このセーブスロットにセーブします。\nよろしいですか？\n(再開時は最寄りのアクセスポイントから再開します。)
+EN: Save to this slot? (The game will resume from the nearest access point.)
+RU: 
+
+ID: CORE_SAVELOAD_TXT_04
+JP: このセーブスロットに上書きセーブします。\nよろしいですか？\n(再開時は最寄りのアクセスポイントから再開します。)
+EN: Overwrite this save? (The game will resume from the nearest access point.)
+RU: 
+
+ID: CORE_SAVELOAD_TXT_06
+JP: セーブデータが存在しません。
+EN: No save data found.
+RU: 
+
+ID: CORE_SAVELOAD_TXT_07
+JP: 現在のセーブデータを破棄して\n新しいデータを作成しますか？
+EN: Delete the current save data\nand create a new file?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_08
+JP: ロードしました。
+EN: Loading complete.
+RU: 
+
+ID: CORE_SAVELOAD_TXT_09
+JP: これまでの進行をセーブしますか？
+EN: Save your current progress?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_10
+JP: このセーブスロットにセーブします。\nよろしいですか？
+EN: Save to this slot?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_11
+JP: このセーブスロットに上書きセーブします。\nよろしいですか？
+EN: Overwrite save in this slot?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_12
+JP: セーブせずにゲームに戻ります。\nよろしいですか？
+EN: Return to the game without saving?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_13
+JP: 選択したセーブデータでプレイしますか？\nセーブされていないゲームデータは失われます。
+EN: Load this save file?\nUnsaved game data will be lost.
+RU: 
+
+ID: CORE_SKILL_GET
+JP: ポッド・プログラムを入手しました。
+EN: You obtained a Pod program.
+RU: 
+
+ID: CORE_STOP_TXT_01
+JP: 識別信号機能停止
+EN: Identification signal no longer functional.
+RU: 
+
+ID: CORE_SYS_DIALOG_04
+JP: このゲームではメッセージ共有機能にオンライン機能を使用します。\nオンラインに接続しますか？\n（システムメニューからいつでも変更できます。）
+EN: This game uses online functionality for its message-sharing features. \nConnect to the network? (This can be changed from the System Menu at any time.)
+RU: 
+
+ID: CORE_SYS_DIALOG_05
+JP: オンラインに接続しますか？
+EN: Connect to the network?
+RU: 
+
+ID: CORE_SYS_DIALOG_06
+JP: ペアレンタルコントロールによる制限がかかっているため、オンライン機能を利用できません。
+EN: You cannot access the online functionality of this game, due to Parental Control restrictions.
+RU: 
+
+ID: CORE_TRANSPORTER_TXT_01
+JP: <AREA_NAME>へ移動しますか？
+EN: Move to <AREA_NAME>?
+RU: 
+
+ID: CORE_TRANSPORTER_TXT_02
+JP: この機能は使用できません。
+EN: This function cannot be used.
+RU: 
+
+ID: CORE_TUTORIAL_0000
+JP: ※このゲームはオートセーブに対応していません。セーブ方法はゲーム内を探してください。
+EN: * This game does not support auto-save. Play the game to find out how to save.
+RU: 
+
+ID: CORE_TUTORIAL_0018
+JP: ※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。※このゲームはオートセーブに対応していません。
+EN: * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save.
+RU: 
+
+ID: CORE_TUTORIAL_0020
+JP: 世界中に偽装されたアクセスポイント <MAP_EVENT> が点在しており、接続することで以下の機能が\n利用可能です。\n\n・マップ情報解放\n・アクセスポイント付近（マップ上の白いエリア）でセーブ可能。\n\n敵に襲われているアクセスポイントもあるので、敵を排除して利用可能にしましょう。\n
+EN: The world is filled with cleverly disguised access points <MAP_EVENT> which can be used for the following:\n\n- Unlocking map info\n- Unlocking a save area (a white area on the map), which allows you to save your game in the System Menu as long as you're close enough to the access point.\n\nIf you find an access point under attack by enemies, destroy them all to reactivate the terminal.
+RU: 
+
+ID: CORE_TUTORIAL_0021
+JP: アクセスポイントの端末メニューで「端末へ転送」を選択すると、\n他のアクセスポイントに転送されます。\n\n各地に点在するアクセスポイントを解放することで、転送可能な場所が増えます。
+EN: Select "Transport" at an access point to travel to other terminals.\nThere are lots of access points all over the world, but you'll need to unlock them before you can use them.
+RU: 
+
+ID: CORE_TUTORIAL_0022
+JP: アイコンが転送不可状態 <MAP_TELEPORT_N> になっているアクセスポイントは\n不具合が発生している為、利用不可能です。
+EN: Access points marked with this icon <MAP_TELEPORT_N>, are experiencing technical difficulties and cannot be utilized. 
+RU: 
+
+ID: CORE_TUTORIAL_0023
+JP: アクセスポイントの端末メニューで「メールBOX」を選択すると、\n受信したメールを確認できます。
+EN: Select "Inbox" at an access point to check your mail.
+RU: 
+
+ID: CORE_TUTORIAL_0024
+JP: 端末内に「ゲームセンター」がオープンしました。\nこれまでにクリアしたハッキングゲームをプレイできます。
+EN: You unlocked the "Arcade" feature for access points.\nThis lets you replay any hacking games you completed during the game.
+RU: 
+
+ID: CORE_TUTORIAL_0025
+JP: プレイヤーが死亡すると、その場所に義体 <MAP_CORPSE> が残ります。\n義体には様々なデータが残っており、義体を回収することでそれらを取り戻すことができます。\n\n義体を回収できずにもう一度死亡すると、前の義体は失われてしまいます。\nまた、回収せずに長時間プレイを進めた場合も義体は消滅します。
+EN: When your character dies, its body remains on the map as a corpse <MAP_CORPSE>. These bodies contain various data, so you'll have to go back to your body to retrieve your belongings. \n\nIf you die again before reaching your previous body, it will disappear. If you keep playing for an extended period of time without retrieving your body, it will disappear.\n
+RU: 
+
+ID: CORE_TUTORIAL_0026
+JP: 死亡時、ネットワーク機能をONにしていると、\n自分の残した義体がオンラインにアップロードされます。\n\n義体には死亡時メッセージを設定でき、システムメニューSYSTEMタブ内の「ネットワーク」から変更できます。\n
+EN: If you have the Network Features option turned on, your body will be uploaded online upon death.\nYou can create a death message for your body within the Network tab, under Edit Death Message within the System Menu.
+RU: 
+
+ID: CORE_TUTORIAL_0027
+JP: ネットワーク機能をONにしていると、他のプレイヤーが残した義体が各地に現れます。\n他人の義体にアクセスすると、以下の行為が可能です。\n\n黙祷：義体の持ち主のHPが全快し、アイテムが届けられます。\n回収：義体が装備していたチップからランダムで3つの効果が一定時間付与されます。\n修理：義体を仲間として連れて行くことができます。（最大一体）\n
+EN: If you have the Network Features option turned on, you'll be able to see other players' dead bodies. By examining these bodies, you can do the following:\n\n- Pray: The other player's health will be fully restored, and they'll receive an item.\n- Retrieve: You'll temporarily gain 3 random effects based on the chips the player had equipped.\n- Repair: The body will follow you around and aid you in combat (one max).
+RU: 
+
+ID: CORE_TUTORIAL_0027_PC
+JP: ネットワーク機能をONにしていると、他のプレイヤーが残した義体が各地に現れます。\n他人の義体にアクセスすると、以下の行為が可能です。\n\n回収：義体が装備していたチップからランダムで3つの効果が一定時間付与されます。\n修理：義体を仲間として連れて行くことができます。（最大一体）
+EN: If you have the Network Features option turned on, you'll be able to see other players' dead bodies. By examining these bodies, you can do the following:\n\n- Retrieve: You'll temporarily gain 3 random effects based on the chips the player had equipped.\n- Repair: The body will follow you around and aid you in combat (one max).
+RU: 
+
+ID: CORE_TUTORIAL_0028
+JP: 各地に点在する依頼人 <MAP_EVENT> からサブクエストを受注できます。\nサブクエストの目的地は、ミニマップに <MAP_GOAL_SUB> アイコンで表示されます。
+EN: You can accept sub-quests from clients (marked as <MAP_EVENT>) all over the world.\nSub-quest destinations are indicated as <MAP_GOAL_SUB> on the mini-map.
+RU: 
+
+ID: CORE_TUTORIAL_0029
+JP: サブクエストがアップデートされました。\n進行状況はシステムメニューQUESTタブから確認できます。
+EN: Your sub-quest has been updated.\nYou can check your progress on the Quests tab in the System Menu.
+RU: 
+
+ID: CORE_TUTORIAL_0030
+JP: デバッグメニューは<BTN_R2_2><ICON_PLUS_2><BTN_SELECT_2>で起動できます。\n\nデバッグメニューを操作すると、\n再度セーブデータをロードするまでセーブ機能が使えなくなります。
+EN: You can open the debug menu by pressing <BTN_R2_2><ICON_PLUS_2><BTN_SELECT_2>\n\nActivating the debug menu will disable all save functionality until you load any save data.
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0020
+JP: アクセスポイント
+EN: Access Points
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0021
+JP: アクセスポイント：転送による移動
+EN: Access Points: Teleport
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0022
+JP: アクセスポイント：転送不可の場合
+EN: Access Point: Unavailable
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0023
+JP: アクセスポイント：メールBOX
+EN: Access Points: Mailbox
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0024
+JP: アクセスポイント：ゲームセンター
+EN: Access Point: Arcade
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0025
+JP: 義体システム
+EN: Reliquary System
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0026
+JP: 義体システム：アップロード
+EN: Reliquary System: Upload
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0027
+JP: 義体システム：他人の義体
+EN: Other Players' Bodies
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0028
+JP: サブクエスト
+EN: Sub-quests
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0029
+JP: サブクエストの状況
+EN: Sub-quest Progress
+RU: 
+
+ID: CORE_WP_GET
+JP: 武器を入手しました。
+EN: You obtained a weapon:
+RU: 
+
+ID: CORE_WP_NAME_00f0
+JP: エンジンブレード
+EN: Engine Blade
+RU: 
+
+ID: CORE_WP_NAME_00f1
+JP: ひのきのぼう
+EN: Cypress Stick
+RU: 
+
+ID: CORE_WP_NAME_1001
+JP: 素手
+EN: Bare Fists
+RU: 
+
+ID: CORE_WP_NAME_1003
+JP: 信義
+EN: Faith
+RU: 
+
+ID: CORE_WP_NAME_1013
+JP: 鉄パイプ
+EN: Iron Pipe
+RU: 
+
+ID: CORE_WP_NAME_1020
+JP: 百獣の剣
+EN: Beastbane
+RU: 
+
+ID: CORE_WP_NAME_1030
+JP: 古の覇王
+EN: Ancient Overlord
+RU: 
+
+ID: CORE_WP_NAME_1040
+JP: 不死鳥の短剣
+EN: Phoenix Dagger
+RU: 
+
+ID: CORE_WP_NAME_1050
+JP: 四○式戦術刀
+EN: Type-4O Sword
+RU: 
+
+ID: CORE_WP_NAME_1060
+JP: 三式戦術刀
+EN: Type-3 Sword
+RU: 
+
+ID: CORE_WP_NAME_1070
+JP: 白の契約
+EN: Virtuous Contract
+RU: 
+
+ID: CORE_WP_NAME_1071
+JP: 黒の誓約
+EN: Cruel Oath
+RU: 
+
+ID: CORE_WP_NAME_1080
+JP: ヨルハ制式鋼刀
+EN: YoRHa-issue Blade
+RU: 
+
+ID: CORE_WP_NAME_1090
+JP: 機械生命体の剣
+EN: Machine Sword
+RU: 
+
+ID: CORE_WP_NAME_1203
+JP: 鉄塊
+EN: Iron Will
+RU: 
+
+ID: CORE_WP_NAME_1213
+JP: 双子の牙
+EN: Fang of the Twins
+RU: 
+
+ID: CORE_WP_NAME_1220
+JP: 百獣の剣王
+EN: Beastlord
+RU: 
+
+ID: CORE_WP_NAME_1230
+JP: 不死鳥の大剣
+EN: Phoenix Sword
+RU: 
+
+ID: CORE_WP_NAME_1240
+JP: 四○式斬機刀
+EN: Type-4O Blade
+RU: 
+
+ID: CORE_WP_NAME_1250
+JP: 三式斬機刀
+EN: Type-3 Blade
+RU: 
+
+ID: CORE_WP_NAME_1260
+JP: 白の約定
+EN: Virtuous Treaty
+RU: 
+
+ID: CORE_WP_NAME_1261
+JP: 黒の血盟
+EN: Cruel Blood Oath
+RU: 
+
+ID: CORE_WP_NAME_1270
+JP: 機械生命体の斧
+EN: Machine Axe
+RU: 
+
+ID: CORE_WP_NAME_1400
+JP: 不死鳥の槍
+EN: Phoenix Lance
+RU: 
+
+ID: CORE_WP_NAME_1420
+JP: 百獣の双槍
+EN: Beastcurse
+RU: 
+
+ID: CORE_WP_NAME_1430
+JP: 草原の竜騎槍
+EN: Dragoon Lance
+RU: 
+
+ID: CORE_WP_NAME_1440
+JP: 王位簒奪者の槍
+EN: Spear of the Usurper
+RU: 
+
+ID: CORE_WP_NAME_1450
+JP: 四○式戦術槍
+EN: Type-4O Lance
+RU: 
+
+ID: CORE_WP_NAME_1460
+JP: 三式戦術槍
+EN: Type-3 Lance
+RU: 
+
+ID: CORE_WP_NAME_1470
+JP: 白の矜持
+EN: Virtuous Dignity
+RU: 
+
+ID: CORE_WP_NAME_1471
+JP: 黒の倨傲
+EN: Cruel Arrogance
+RU: 
+
+ID: CORE_WP_NAME_1480
+JP: 機械生命体の槍
+EN: Machine Spear
+RU: 
+
+ID: CORE_WP_NAME_1600
+JP: 三式拳鍔
+EN: Type-3 Fists
+RU: 
+
+ID: CORE_WP_NAME_1610
+JP: 四○式拳鍔
+EN: Type-4O Fists
+RU: 
+
+ID: CORE_WP_NAME_1620
+JP: 白の哀哭
+EN: Virtuous Grief
+RU: 
+
+ID: CORE_WP_NAME_1621
+JP: 黒の慟哭
+EN: Cruel Lament
+RU: 
+
+ID: CORE_WP_NAME_1630
+JP: 悪魔の穢牙
+EN: Demon's Cry
+RU: 
+
+ID: CORE_WP_NAME_1640
+JP: 天使の聖翼
+EN: Angel's Folly
+RU: 
+
+ID: CORE_WP_NAME_1650
+JP: 機械生命体の頭
+EN: Machine Heads
+RU: 
+
+ID: CORE_WP_NAME_1877
+JP: エミールヘッド
+EN: Emil Heads
+RU: 
+
+ID: PAUSE_QUEST_NAME_q020
+JP: サルトルの憂鬱
+EN: Sartre's Melancholy
+RU: 
+
+ID: PAUSE_QUEST_NAME_q020_US
+JP: ジャンポールの憂鬱
+EN: Jean-Paul's Melancholy
+RU: 
+
+ID: PAUSE_QUEST_NAME_q031
+JP: 巨大ロボの調査
+EN: Machine Examination 1
+RU: 
+
+ID: PAUSE_QUEST_NAME_q032
+JP: 続・巨大ロボの調査
+EN: Machine Examination 2
+RU: 
+
+ID: PAUSE_QUEST_NAME_q040
+JP: 親子喧嘩
+EN: Family Squabble
+RU: 
+
+ID: PAUSE_QUEST_NAME_q070
+JP: 機械と動物
+EN: Of Machines and Beasts
+RU: 
+
+ID: PAUSE_QUEST_NAME_q071
+JP: 動物の看護
+EN: Animal Care
+RU: 
+
+ID: PAUSE_QUEST_NAME_q072
+JP: 動物の縄張り
+EN: Turf War
+RU: 
+
+ID: PAUSE_QUEST_NAME_q100
+JP: ロボ道場・白帯
+EN: Robo Dojo—White Belt
+RU: 
+
+ID: PAUSE_QUEST_NAME_q101
+JP: ロボ道場・茶帯
+EN: Robo Dojo—Brown Belt
+RU: 
+
+ID: PAUSE_QUEST_NAME_q102
+JP: ロボ道場・黒帯
+EN: Robo Dojo—Black Belt
+RU: 
+
+ID: PAUSE_QUEST_NAME_q103
+JP: ロボ道場・紅白帯
+EN: Robo Dojo—Red and White Belt
+RU: 
+
+ID: PAUSE_QUEST_NAME_q104
+JP: ロボ道場・紅帯
+EN: Robo Dojo—Red Belt
+RU: 
+
+ID: PAUSE_QUEST_NAME_q110
+JP: 迷子の妹
+EN: Lost Girl
+RU: 
+
+ID: PAUSE_QUEST_NAME_q120
+JP: 道具屋の依頼
+EN: The Supply Trader's Request
+RU: 
+
+ID: PAUSE_QUEST_NAME_q121
+JP: 管理担当者の依頼
+EN: The Manager's Request
+RU: 
+
+ID: PAUSE_QUEST_NAME_q122
+JP: キャンプの発展
+EN: Camp Development
+RU: 
+
+ID: PAUSE_QUEST_NAME_q123
+JP: アネモネの過去
+EN: Anemone's Past
+RU: 
+
+ID: PAUSE_QUEST_NAME_q130
+JP: 記憶喪失
+EN: Amnesia
+RU: 
+
+ID: PAUSE_QUEST_NAME_q140
+JP: 失踪したレジスタンス
+EN: Resistance Disappearance
+RU: 
+
+ID: PAUSE_QUEST_NAME_q150
+JP: ジャッカスの研究
+EN: Jackass's Research
+RU: 
+
+ID: PAUSE_QUEST_NAME_q160
+JP: 通信環境の改善
+EN: Improving Communications
+RU: 
+
+ID: PAUSE_QUEST_NAME_q162
+JP: 通信環境の調査
+EN: Investigating Communications
+RU: 
+
+ID: PAUSE_QUEST_NAME_q170
+JP: 転送端末の故障
+EN: Terminal Repairs
+RU: 
+
+ID: PAUSE_QUEST_NAME_q171
+JP: 贈り物
+EN: Find a Present
+RU: 
+
+ID: PAUSE_QUEST_NAME_q180
+JP: データ解析の鬼
+EN: Data Analysis Freak
+RU: 
+
+ID: PAUSE_QUEST_NAME_q181
+JP: データ解析の鬼・弐
+EN: Data Analysis Freak 2
+RU: 
+
+ID: PAUSE_QUEST_NAME_q210
+JP: 谷の主
+EN: Lord of the Valley
+RU: 
+
+ID: PAUSE_QUEST_NAME_q220
+JP: 悪いロボ退治
+EN: Vanquish the Bad Bot
+RU: 
+
+ID: PAUSE_QUEST_NAME_q221
+JP: おねえチャンあそんデー！
+EN: Play with Us!
+RU: 
+
+ID: PAUSE_QUEST_NAME_q222
+JP: 記憶素子
+EN: Storage Element
+RU: 
+
+ID: PAUSE_QUEST_NAME_q240
+JP: 天才発明家
+EN: Half-wit Inventor
+RU: 
+
+ID: PAUSE_QUEST_NAME_q250
+JP: ヒネクレモノ
+EN: Idiot Savant
+RU: 
+
+ID: PAUSE_QUEST_NAME_q290
+JP: ゲームクリエイターロボ　Lv1
+EN: Game Dev Machine Lv.1
+RU: 
+
+ID: PAUSE_QUEST_NAME_q291
+JP: ゲームクリエイターロボ　Lv2
+EN: Game Dev Machine Lv.2
+RU: 
+
+ID: PAUSE_QUEST_NAME_q292
+JP: ゲームクリエイターロボ　Lv3
+EN: Game Dev Machine Lv.3
+RU: 
+
+ID: PAUSE_QUEST_NAME_q300
+JP: スピードスター
+EN: Speed Star
+RU: 
+
+ID: PAUSE_QUEST_NAME_q330
+JP: エミールの追憶
+EN: Emil's Memories
+RU: 
+
+ID: PAUSE_QUEST_NAME_q340
+JP: 写真
+EN: Photographs
+RU: 
+
+ID: PAUSE_QUEST_NAME_q360
+JP: 高所に佇む者
+EN: In A High Place
+RU: 
+
+ID: PAUSE_QUEST_NAME_q400
+JP: 復讐の戦士
+EN: The Vengeful Warrior
+RU: 
+
+ID: PAUSE_QUEST_NAME_q401
+JP: 復讐の戦士・リターン
+EN: The Vengeful Warrior Returns
+RU: 
+
+ID: PAUSE_QUEST_NAME_q403
+JP: 復讐の戦士・ファイナル
+EN: The Vengeful Warrior's Finale
+RU: 
+
+ID: PAUSE_QUEST_NAME_q410
+JP: 11Bの形見
+EN: 11B's Memento
+RU: 
+
+ID: PAUSE_QUEST_NAME_q440
+JP: お城の宝探し
+EN: Treasure Hunt at the Castle
+RU: 
+
+ID: PAUSE_QUEST_NAME_q500
+JP: 流浪のカップル
+EN: The Wandering Couple
+RU: 
+
+ID: PAUSE_QUEST_NAME_q520
+JP: 旧世界の情報
+EN: Data on the Old World
+RU: 
+
+ID: PAUSE_QUEST_NAME_q532
+JP: 料理研究家
+EN: Culinary Researcher
+RU: 
+
+ID: PAUSE_QUEST_NAME_q540
+JP: 裏切りのヨルハ
+EN: YoRHa Betrayers
+RU: 
+
+ID: PAUSE_QUEST_NAME_q550
+JP: 情報収集部隊
+EN: Reconnaissance Squad
+RU: 
+
+ID: PAUSE_QUEST_NAME_q560
+JP: デボルのお願い
+EN: Devola's Request
+RU: 
+
+ID: PAUSE_QUEST_NAME_q561
+JP: ポポルの用事
+EN: Popola's Errand
+RU: 
+
+ID: PAUSE_QUEST_NAME_q562
+JP: デボル・ポポルの雑用
+EN: The Twins' Request
+RU: 
+
+ID: PAUSE_QUEST_NAME_q590
+JP: 砂の遺産
+EN: Heritage of the Past
+RU: 
+
+ID: PAUSE_QUEST_NAME_q640
+JP: 機密情報の奪還
+EN: Retrieve the Confidential Intel
+RU: 
+
+ID: PAUSE_QUEST_NAME_q650
+JP: 倉庫番
+EN: Sorting Trouble
+RU: 
+
+ID: PAUSE_QUEST_NAME_q651
+JP: 倉庫番２
+EN: Sorting Trouble 2
+RU: 
+
+ID: PAUSE_QUEST_NAME_q652
+JP: 倉庫番３
+EN: Sorting Trouble 3
+RU: 
+
+ID: PAUSE_QUEST_NAME_q660
+JP: スタンプ集め
+EN: Stamp Collecting
+RU: 
+
+ID: PAUSE_QUEST_NAME_q680
+JP: パレード防衛
+EN: Parade Escort
+RU: 
+
+ID: PAUSE_QUEST_NAME_q720
+JP: 同胞達の行方
+EN: Gathering Keepsakes
+RU: 
+
+ID: PAUSE_QUEST_NAME_q770
+JP: 武器屋の依頼
+EN: The Weapon Dealer's Request
+RU: 
+
+ID: PAUSE_QUEST_NAME_q800
+JP: 引きこもるロボ
+EN: The Recluse
+RU: 
+
+ID: PAUSE_QUEST_NAME_q801
+JP: また引きこもるロボ
+EN: The Recluse Stays Home
+RU: 
+
+ID: PAUSE_QUEST_NAME_q802
+JP: やっぱり引きこもるロボ
+EN: The Permanent Recluse
+RU: 
+
+ID: PAUSE_QUEST_NAME_q900
+JP: エミールの決意
+EN: Emil's Determination
+RU: 
+
+ID: PAUSE_QUEST_NAME_q920
+JP: エミールの万引き撲滅戦争
+EN: A Steal of a Deal
+RU: 
+

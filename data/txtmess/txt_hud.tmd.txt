@@ -1,0 +1,30 @@
+ID: HUD_LOG_TXT_01
+JP: <ITEM NAME>を取得しました
+EN: <ITEM NAME> obtained.
+RU: 
+
+ID: HUD_LOG_TXT_02
+JP: <ITEM NAME>を使用しました
+EN: <ITEM NAME> used.
+RU: 
+
+ID: HUD_LOG_TXT_04
+JP: お金を<MONEY_NUM>G取得しました
+EN: <MONEY_NUM> G obtained.
+RU: 
+
+ID: HUD_LOG_TXT_12
+JP: 個体データが更新されました
+EN: Unit data has been updated.
+RU: 
+
+ID: HUD_LOG_TXT_14
+JP: <ITEM NAME>はこれ以上入手できません
+EN: <ITEM NAME> capacity full.
+RU: 
+
+ID: HUD_LOG_TXT_18
+JP: <ITEM NAME>を自動使用しました（所持数：<NUM>）
+EN: <ITEM NAME> used. (Remaining: <NUM>)
+RU: 
+

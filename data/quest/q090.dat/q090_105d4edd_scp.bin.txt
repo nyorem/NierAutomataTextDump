@@ -1,0 +1,429 @@
+-- Section 1
+
+ID: M6110_S0010_G0010_001_n02
+JP: 全てを倒したって？ Congratulations!\nま、全てを制しても、俺ハ選べないケドな。
+EN: You defeated all of them!? Congratulations!\nYou still can't pick me though.
+RU: 
+
+
+-- Section 2
+
+ID: M6110_S0010_G0000_001_n02
+JP: Oops!\n残念だけど、俺ハ選べないゼ。
+EN: Sorry!\nYou can't pick me!
+RU: 
+
+
+-- Section 3
+
+ID: M6110_S0020_G0010_001_n02
+JP: 剣はステル！弟子にして下サイ！
+EN: We'll throw away our swords! Please teach us!
+RU: 
+
+
+-- Section 4
+
+ID: M6110_S0020_G0000_001_n02
+JP: 結局、小型二足の剣装備は厳しい気がするンダヨネ……
+EN: I guess swords don't go well with small bipedal units after all...
+RU: 
+
+
+-- Section 5
+
+ID: M6110_S0030_G0010_001_n02
+JP: 銃はステル！弟子にして下サイ！
+EN: We'll give up our guns! Please teach us!
+RU: 
+
+
+-- Section 6
+
+ID: M6110_S0030_G0000_001_n02
+JP: 銃のレーザー、ツエエエエエエエエ！！\n改造してヨカッタァァァ！
+EN: Man, laser guns are so friggin' AWESOME!!\nI'm so glad I got myself modded!
+RU: 
+
+
+-- Section 7
+
+ID: M6110_S0040_G0010_001_n02
+JP: ……ブツブツ……オメデトウ……
+EN: Hmmm... Congratulations...
+RU: 
+
+
+-- Section 8
+
+ID: M6110_S0040_G0000_001_n02
+JP: ……ブツブツ……敵の懐に飛び込んで……
+EN: Hmmm... So the trick is to get close, and then...
+RU: 
+
+
+-- Section 9
+
+ID: M6110_S0050_G0010_001_n02
+JP: お兄サン、オメデトウ！\nお父サンは審判なんだケド、お兄サンのファンなんだって！
+EN: Congratulations, big guy!\nMy dad's just a referee, but he's a big fan of yours!
+RU: 
+
+
+-- Section 10
+
+ID: M6110_S0050_G0000_001_n02
+JP: お父サンが出てるンダ！\nガンバレー！
+EN: My dad's out there right now!\nGo, dad!
+RU: 
+
+
+-- Section 11
+
+ID: M6110_S0060_G0000_001_n02
+JP: フフフ……買ってイク？
+EN: Hehehe... You lookin' for somethin'?
+RU: 
+
+ID: M6110_S0060_G0010_001_n02
+JP: ミンナノ身体は、活用サセテもらってるよ……
+EN: It'd be a shame to let all these parts go to waste, no?
+RU: 
+
+
+-- Section 12
+
+ID: M6110_S0060_G0020_001_n02
+JP: ククク……安いヨ？
+EN: Hehehe... Lookin' for a deal?
+RU: 
+
+ID: M6110_S0060_G0030_001_n02
+JP: コノパーツの出処は……秘密ダ。
+EN: Just don't ask where I get my parts from, okay?
+RU: 
+
+
+-- Section 13
+
+ID: M6110_S0060_G0040_001_n02
+JP: ヒヒヒ……色々あるヨ？
+EN: Heeheehee... Got lots of stuff on sale!
+RU: 
+
+ID: M6110_S0060_G0050_001_n02
+JP: 全ての機械ハ、いつか壊レルンダ……
+EN: Every machine breaks down some day, am I right?
+RU: 
+
+
+-- Section 14
+
+ID: M6110_S0065_G0000_001_n02
+JP: ココにいたアイテムショップのヤツかい？さあ……ドコニ行ったンダロウ？
+EN: Hm? You wanna know what happened to the merchant?
+RU: 
+
+ID: M6110_S0065_G0010_001_n02
+JP: コロシアムの客席にヤツの友達がいる筈だから聞イテミナヨ。
+EN: He's friends with one of the spectators here, so why don't you go talk to him?
+RU: 
+
+ID: M6110_S0065_G0020_001_n02
+JP: 大型ノ機械生命体だからスグニ判るハズ。
+EN: He's a big machine, so he should be easy enough to find.
+RU: 
+
+
+-- Section 15
+
+ID: M6110_S0070_G0010_001_n02
+JP: ブッチコッロセ！ヘイ！ブッチ……あ！９Sサン！コンチワっす！
+EN: Kill! Kill! Kill! Ki... \nOh hey, 9S! Sup?
+RU: 
+
+
+-- Section 16
+
+ID: M6110_S0070_G0000_001_n02
+JP: ブッチコッロセ！ヘイ！ブッチコロセ！
+EN: Kill! Kill! Kill! Kill!
+RU: 
+
+
+-- Section 17
+
+ID: M6110_S0080_G0010_001_n02
+JP: オラー！負けたらショウチしねえゾオオ！……デスヨネ、９Sさん？
+EN: Grrr! You'd better not lose! ... Right, 9S?
+RU: 
+
+
+-- Section 18
+
+ID: M6110_S0080_G0000_001_n02
+JP: オラー！負けたらショウチしねえゾオオ！
+EN: Grrr! You'd better not lose!
+RU: 
+
+
+-- Section 19
+
+ID: M6110_S0090_G0010_001_n02
+JP: アァァ！ダメダメ！ちゃんと９Sさんの戦闘分析データ勉強したのか？
+EN: Ugh, no no no no NO. Did you even study 9S's combat data?
+RU: 
+
+
+-- Section 20
+
+ID: M6110_S0090_G0000_001_n02
+JP: アァァ！ダメダメ！ちゃんとセオリー勉強したのか？
+EN: Ugh, no no no no NO. Did you even study theory!?
+RU: 
+
+
+-- Section 21
+
+ID: M6110_S0100_G0010_001_n02
+JP: ヘタクソ！９Sさんを見習えっツーノ！
+EN: Loser! Why don't you try learnin' a bit from 9S, huh!?
+RU: 
+
+
+-- Section 22
+
+ID: M6110_S0100_G0000_001_n02
+JP: ヘタクソ！アンドロイドかよノロマ！
+EN: Loser! What are you, a friggin' android or something!?
+RU: 
+
+
+-- Section 23
+
+ID: M6110_S0110_G0010_001_n02
+JP: ９Sさんの感じでブツべし！
+EN: Not bad, but try approaching your opponent like 9S does!
+RU: 
+
+
+-- Section 24
+
+ID: M6110_S0110_G0000_001_n02
+JP: やや内角をエグイ感じでブツべし！
+EN: Not bad, but try approaching your opponent from a closer angle!
+RU: 
+
+
+-- Section 25
+
+ID: M6110_S0120_G0010_001_n02
+JP: アイツ強いナ！……私ニハ分かる、中身は９Sさんだ……
+EN: Wow, that guy's really strong! He must have a bit of 9S in him...
+RU: 
+
+
+-- Section 26
+
+ID: M6110_S0120_G0000_001_n02
+JP: アイツ強いナ！
+EN: Wow, that guy's really strong!
+RU: 
+
+
+-- Section 27
+
+ID: M6110_S0130_G0010_001_n02
+JP: ア！９Sさん！アナタだけを応援してマス！
+EN: Oh! 9S! You're the only one I'm rooting for!
+RU: 
+
+
+-- Section 28
+
+ID: M6110_S0130_G0000_001_n02
+JP: ファイトー！ミンナ、応援シテルワヨ！
+EN: Good luck! I'm rooting for all of you!
+RU: 
+
+
+-- Section 29
+
+ID: M6110_S0140_G0010_001_n02
+JP: ９Sの様に舞イ、９Sの様に刺すンダ！９Sとナレ！
+EN: Dance like 9S and sting like 9S! \nJust, you know, be like 9S!
+RU: 
+
+
+-- Section 30
+
+ID: M6110_S0140_G0000_001_n02
+JP: チョウの様に舞イ、ハチの様に刺すンダ！
+EN: Dance like a butterfly and sting like a bee!
+RU: 
+
+
+-- Section 31
+
+ID: M6110_S0150_G0010_001_n02
+JP: キャー！９Sさんカッコイイー！９Sさんが近くて興奮スルゥ！
+EN: OH MY GOSH, IT'S 9S! THIS IS SO EXCITING!
+RU: 
+
+
+-- Section 32
+
+ID: M6110_S0150_G0000_001_n02
+JP: キャー！カッコイイー！アツいバトルに興奮スルゥ！
+EN: OH MY GOSH, THIS IS SO EXCITING!
+RU: 
+
+
+-- Section 33
+
+ID: M6110_S0160_G0010_001_n02
+JP: ９Sさん！いいトコなので、解説して頂けませんか？
+EN: 9S! Could you offer your opinion on this match, please?
+RU: 
+
+
+-- Section 34
+
+ID: M6110_S0160_G0000_001_n02
+JP: 今いいトコなんだ話しかけンナ！
+EN: Shhh! I'm trying to concentrate on the match!
+RU: 
+
+
+-- Section 35
+
+ID: M6110_S0170_G0010_001_n02
+JP: ア！９Sさん！エクストラランクのアイツは倒しましたか！？
+EN: Oh, 9S! Did you clear the Special Rank yet?
+RU: 
+
+
+-- Section 36
+
+ID: M6110_S0170_G0000_001_n02
+JP: イケイケー！ブッタオセー！
+EN: Go! Go! Smash them all to a pulp!
+RU: 
+
+
+-- Section 37
+
+ID: M6110_S0180_G0010_001_n02
+JP: ９Sが優勝に１票！
+EN: My money's on 9S!
+RU: 
+
+
+-- Section 38
+
+ID: M6110_S0180_G0000_001_n02
+JP: 小型二足が優勝に１票！
+EN: My money's on the small bipedal unit!
+RU: 
+
+
+-- Section 39
+
+ID: M6110_S0190_G0010_001_n02
+JP: ９Sが優勝に１票！
+EN: My money's on 9S!
+RU: 
+
+
+-- Section 40
+
+ID: M6110_S0190_G0000_001_n02
+JP: 大型二足が優勝に１票！
+EN: My money's on the large bipedal unit!
+RU: 
+
+
+-- Section 41
+
+ID: M6110_S0200_G0010_001_n02
+JP: ９Sが優勝に１票！
+EN: My money's on 9S!
+RU: 
+
+
+-- Section 42
+
+ID: M6110_S0200_G0000_001_n02
+JP: 中型二足が優勝に１票！
+EN: My money's on the medium-size bipedal unit!
+RU: 
+
+
+-- Section 43
+
+ID: M6110_S0210_G0010_001_n02
+JP: ……オマエを応援してるぞ。エクストラランクも期待している。
+EN: ...I'm rootin' for ya. I'm sure you'll ace the Special Rank too.
+RU: 
+
+
+-- Section 44
+
+ID: M6110_S0210_G0000_001_n02
+JP: ……オマエを応援してるぞ。
+EN: ...I'm rootin' for ya.
+RU: 
+
+
+-- Section 45
+
+ID: M6110_S0220_G0010_001_n02
+JP: ……右に同じ。
+EN: ...What he said.
+RU: 
+
+
+-- Section 46
+
+ID: M6110_S0220_G0000_001_n02
+JP: ……右に同じ。
+EN: ...What he said.
+RU: 
+
+
+-- Section 47
+
+ID: M6110_S0230_G0010_001_n02
+JP: ロビーに素材を売ってたヤツがいたダロ？\nアイツは相当の手練だったんダ。
+EN: You know that guy selling stuff in the lobby?\nHe's an expert fighter.
+RU: 
+
+ID: M6110_S0230_G0020_001_n02
+JP: そして、自分を強化するために、倒した敵のパーツを奪って売ってイタ……
+EN: He's been stealing parts from the opponents he defeated to sell them and buy upgrades for himself.
+RU: 
+
+ID: M6110_S0230_G0030_001_n02
+JP: 最近は自我のバックアップデータ領域も強化へあて始めたせいか、\nちょっとオカシクなり始めていてナ……
+EN: He's been tinkering with his ego backup data as well, and I think he's started to get a bit loopy...
+RU: 
+
+ID: M6110_S0230_G0040_001_n02
+JP: 分からなかったかもしれなイガ、オマエが倒した中にヤツが居たンダ。
+EN: You may not have noticed, but you actually fought him before.
+RU: 
+
+ID: M6110_S0230_G0050_001_n02
+JP: ヤツを止めてくれてアリガトウ、そして、オメデトウ。
+EN: Thanks for taking care of him. And congrats!
+RU: 
+
+
+-- Section 48
+
+ID: M6110_S0230_G0000_001_n02
+JP: オマエ、ロビーで買い物してないダロウナ？
+EN: Hey, you. You didn't buy anything in the lobby, did ya?
+RU: 
+
+

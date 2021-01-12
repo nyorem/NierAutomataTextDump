@@ -1,0 +1,20 @@
+ID: M3060_S7000_S0000_001_pod153
+JP: 報告：ヨルハ機体全機のブラックボックス反応の停止を確認。
+EN: Alert: Black boxes for all YoRHa units now offline.
+RU: 
+
+ID: M3060_S7000_S0010_001_pod153
+JP: 我々が担当していたヨルハ計画進行管理任務は終了。
+EN: Mission to advance and manage Project YoRHa is complete.
+RU: 
+
+ID: M3060_S7000_S0020_001_pod153
+JP: 最寄りのアンドロイド部隊に合流後、全記憶を消去。
+EN: Rendezvous with nearest android squadron and delete all memories.
+RU: 
+
+ID: M3060_S7000_S0030_001_pod042
+JP: ……了解。
+EN: Acknowledged.
+RU: 
+

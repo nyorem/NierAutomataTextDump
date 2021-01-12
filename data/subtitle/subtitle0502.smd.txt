@@ -1,0 +1,45 @@
+ID: M1070_S1000_H0000_001_a9s
+JP: 機械達はそれぞれのタカラモノを大事にしていました。
+EN: Each of the machines treated their treasures with great care.
+RU: 
+
+ID: M1070_S1000_H0010_001_a9s
+JP: ある機械にとってのタカラモノは『家族』でした。
+EN: One treasured family above all else.
+RU: 
+
+ID: M1070_S1000_H0020_001_a9s
+JP: ある機械にとってのタカラモノは『兄弟』でした。
+EN: Another treasured its older sibling.
+RU: 
+
+ID: M1070_S1000_H0030_001_a9s
+JP: ある機械にとってのタカラモノは『美しさ』でした。
+EN: Another treasured its own beauty.
+RU: 
+
+ID: M1070_S1000_H0040_001_a9s
+JP: そして、ある機械にとってのタカラモノは……
+EN: But one more machine treasured something unique above all else...
+RU: 
+
+ID: M1070_S1000_H0050_001_a9s
+JP: 『憎悪』でした。
+EN: Hate.
+RU: 
+
+ID: M1070_S1000_H0060_001_adam
+JP: これが……死か……
+EN: Is this...death...?
+RU: 
+
+ID: M1070_S1000_H0070_001_adam
+JP: 暗くて……冷た……
+EN: So dark... So cold...
+RU: 
+
+ID: M1070_S1000_H0080_001_a2b
+JP: ９Ｓ！！
+EN: 9S!
+RU: 
+

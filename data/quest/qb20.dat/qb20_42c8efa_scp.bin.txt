@@ -1,0 +1,258 @@
+-- Section 1
+
+ID: M3020_S0024_G0070_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: 
+
+ID: M3020_S0024_G0080_001_announce
+JP: 『塔』サブユニットへのアクセスには『アクセス認証キー』が必要です。
+EN: Special authorization keys are required to access Tower sub-units.
+RU: 
+
+ID: M3020_S0024_G0090_001_announce
+JP: 申し訳ありませんがアクセスを許可する事は出来ません。
+EN: We apologize for the inconvenience, but access is not permitted at this time.
+RU: 
+
+ID: M3020_S0024_G0100_001_announce
+JP: その代わりとしまして……
+EN: However...
+RU: 
+
+ID: M3020_S0024_G0110_001_announce
+JP: 今回は初回アクセスをされた方に特別なサービスとして、
+EN: Today, we have a special gift for first-time visitors to this Tower:
+RU: 
+
+ID: M3020_S0024_G0120_001_announce
+JP: 『資源回収ユニット』へのツアーにご招待いたします！
+EN: A tour of our brand-new resource-recovery units!
+RU: 
+
+ID: M3020_S0024_G0130_001_a9s
+JP: ……ッ！
+EN: !!
+RU: 
+
+ID: M3020_S0024_G0140_001_announce
+JP: またのご来訪、心よりお待ち申し上げております。
+EN: We look forward to serving you again!
+RU: 
+
+ID: M3020_S0024_G0150_001_a9s
+JP: 何だ……今のは？
+EN: The heck was that?
+RU: 
+
+ID: M3020_S0024_G0160_001_pod153
+JP: 敵システムからの強制通信。
+EN: A forced message from the enemy system.
+RU: 
+
+ID: M3020_S0024_G0170_001_pod153
+JP: 『資源回収ユニット』と称する物体の場所を通知。
+EN: Said message relays the locations of objects known as "resource-recovery units".
+RU: 
+
+ID: M3020_S0024_G0180_001_a9s
+JP: ふざけやがって……
+EN: Now they're just messing with us...
+RU: 
+
+
+-- Section 2
+
+ID: M3020_S0024_G0000_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: 
+
+ID: M3020_S0024_G0010_001_announce
+JP: 大変申し訳ありません。
+EN: We apologize for the inconvenience...
+RU: 
+
+ID: M3020_S0024_G0020_001_announce
+JP: 『塔』メインユニットへのアクセスにはサブユニットのロック解除が必要です。
+EN: but locks on each sub-unit must be deactivated before accessing the main Tower.
+RU: 
+
+ID: M3020_S0024_G0030_001_announce
+JP: お手数ですが、よろしくお願いいたします。
+EN: Have a GREAT day!
+RU: 
+
+
+-- Section 3
+
+ID: M3020_S0024_G0070_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: 
+
+ID: M3020_S0024_G0080_001_announce
+JP: 『塔』サブユニットへのアクセスには『アクセス認証キー』が必要です。
+EN: Special authorization keys are required to access Tower sub-units.
+RU: 
+
+ID: M3020_S0024_G0090_001_announce
+JP: 申し訳ありませんがアクセスを許可する事は出来ません。
+EN: We apologize for the inconvenience, but access is not permitted at this time.
+RU: 
+
+ID: M3020_S0024_G0100_001_announce
+JP: その代わりとしまして……
+EN: However...
+RU: 
+
+ID: M3020_S0024_G0110_001_announce
+JP: 今回は初回アクセスをされた方に特別なサービスとして、
+EN: Today, we have a special gift for first-time visitors to this Tower:
+RU: 
+
+ID: M3020_S0024_G0120_001_announce
+JP: 『資源回収ユニット』へのツアーにご招待いたします！
+EN: A tour of our brand-new resource-recovery units!
+RU: 
+
+ID: M3020_S0024_G0130_001_a9s
+JP: ……ッ！
+EN: !!
+RU: 
+
+ID: M3020_S0024_G0140_001_announce
+JP: またのご来訪、心よりお待ち申し上げております。
+EN: We look forward to serving you again!
+RU: 
+
+ID: M3020_S0024_G0150_001_a9s
+JP: 何だ……今のは？
+EN: The heck was that?
+RU: 
+
+ID: M3020_S0024_G0160_001_pod153
+JP: 敵システムからの強制通信。
+EN: A forced message from the enemy system.
+RU: 
+
+ID: M3020_S0024_G0170_001_pod153
+JP: 『資源回収ユニット』と称する物体の場所を通知。
+EN: Said message relays the locations of objects known as "resource-recovery units".
+RU: 
+
+ID: M3020_S0024_G0180_001_a9s
+JP: ふざけやがって……
+EN: Now they're just messing with us...
+RU: 
+
+
+-- Section 4
+
+ID: M3020_S0024_G0000_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: 
+
+ID: M3020_S0024_G0010_001_announce
+JP: 大変申し訳ありません。
+EN: We apologize for the inconvenience...
+RU: 
+
+ID: M3020_S0024_G0020_001_announce
+JP: 『塔』メインユニットへのアクセスにはサブユニットのロック解除が必要です。
+EN: but locks on each sub-unit must be deactivated before accessing the main Tower.
+RU: 
+
+ID: M3020_S0024_G0030_001_announce
+JP: お手数ですが、よろしくお願いいたします。
+EN: Have a GREAT day!
+RU: 
+
+
+-- Section 5
+
+ID: M3020_S0024_G0070_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: 
+
+ID: M3020_S0024_G0080_001_announce
+JP: 『塔』サブユニットへのアクセスには『アクセス認証キー』が必要です。
+EN: Special authorization keys are required to access Tower sub-units.
+RU: 
+
+ID: M3020_S0024_G0090_001_announce
+JP: 申し訳ありませんがアクセスを許可する事は出来ません。
+EN: We apologize for the inconvenience, but access is not permitted at this time.
+RU: 
+
+ID: M3020_S0024_G0100_001_announce
+JP: その代わりとしまして……
+EN: However...
+RU: 
+
+ID: M3020_S0024_G0110_001_announce
+JP: 今回は初回アクセスをされた方に特別なサービスとして、
+EN: Today, we have a special gift for first-time visitors to this Tower:
+RU: 
+
+ID: M3020_S0024_G0120_001_announce
+JP: 『資源回収ユニット』へのツアーにご招待いたします！
+EN: A tour of our brand-new resource-recovery units!
+RU: 
+
+ID: M3020_S0024_G0130_001_a9s
+JP: ……ッ！
+EN: !!
+RU: 
+
+ID: M3020_S0024_G0140_001_announce
+JP: またのご来訪、心よりお待ち申し上げております。
+EN: We look forward to serving you again!
+RU: 
+
+ID: M3020_S0024_G0150_001_a9s
+JP: 何だ……今のは？
+EN: The heck was that?
+RU: 
+
+ID: M3020_S0024_G0160_001_pod153
+JP: 敵システムからの強制通信。
+EN: A forced message from the enemy system.
+RU: 
+
+ID: M3020_S0024_G0170_001_pod153
+JP: 『資源回収ユニット』と称する物体の場所を通知。
+EN: Said message relays the locations of objects known as "resource-recovery units".
+RU: 
+
+ID: M3020_S0024_G0180_001_a9s
+JP: ふざけやがって……
+EN: Now they're just messing with us...
+RU: 
+
+
+-- Section 6
+
+ID: M3020_S0024_G0000_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: 
+
+ID: M3020_S0024_G0010_001_announce
+JP: 大変申し訳ありません。
+EN: We apologize for the inconvenience...
+RU: 
+
+ID: M3020_S0024_G0020_001_announce
+JP: 『塔』メインユニットへのアクセスにはサブユニットのロック解除が必要です。
+EN: but locks on each sub-unit must be deactivated before accessing the main Tower.
+RU: 
+
+ID: M3020_S0024_G0030_001_announce
+JP: お手数ですが、よろしくお願いいたします。
+EN: Have a GREAT day!
+RU: 
+
+

@@ -1,0 +1,798 @@
+-- Section 1
+
+ID: M1070_S0020_G0000_101_a2b
+JP: バンカーに通信。こちら２Ｂ。応答せよ。
+EN: 2B to Bunker, come in. Over.
+RU: 
+
+ID: M1070_S0020_G0010_101_op60
+JP: オペレーターより、２B……２Bさん！大丈夫ですか！？
+EN: Operator to...2B!? 2B, are you all right!?
+RU: 
+
+ID: M1070_S0020_G0020_101_a2b
+JP: 現在ボディチェック中。基本機能に問題は見られず。
+EN: Running system diagnostics... Core functionality appears intact.
+RU: 
+
+ID: M1070_S0020_G0030_101_op60
+JP: 良かった……
+EN: Thank goodness!
+RU: 
+
+ID: M1070_S0020_G0040_101_a2b
+JP: それよりも、状況を教えて欲しい。
+EN: Never mind that—I need a status report.
+RU: 
+
+ID: M1070_S0020_G0050_101_op60
+JP: わかりました。
+EN: Roger that.
+RU: 
+
+ID: M1070_S0020_G0060_101_op60
+JP: 海岸に襲来していた超巨大機械生命体ですが、
+EN: In regards to the giant machine that attacked the shore,
+RU: 
+
+ID: M1070_S0020_G0070_101_op60
+JP: ８時間前の、２Ｂさん達による攻撃によって停止しました。
+EN: it ceased its resistance eight hours ago following your missile strike.
+RU: 
+
+ID: M1070_S0020_G0080_101_a2b
+JP: ８時間も……
+EN: Eight...hours?
+RU: 
+
+ID: M1070_S0020_G0090_101_op60
+JP: 各地の通信施設が、ＥＭＰ攻撃の影響で使えなくて……
+EN: However, its EMP strikes knocked out comms all across the region.
+RU: 
+
+ID: M1070_S0020_G0100_101_op60
+JP: 現在、復旧が遅れている状態です。
+EN: We're having trouble getting them back online.
+RU: 
+
+ID: M1070_S0020_G0110_101_op60
+JP: データアップロードが出来なくなっているエリアもありますので\n注意してください。
+EN: Which means data uploading is currently unavailable in some areas.
+RU: 
+
+ID: M1070_S0020_G0120_101_a2b
+JP: ９Ｓは……どこに？
+EN: Where's 9S?
+RU: 
+
+ID: M1070_S0020_G0130_101_op60
+JP: それが……
+EN: Um...yeah. About that.
+RU: 
+
+ID: M1070_S0020_G0140_101_op60
+JP: かすかなブラックボックス反応はあるのですが、\n現在位置を特定できていません。
+EN: We picked up a faint black box reading, but it wasn't strong enough to lock down his position.
+RU: 
+
+ID: M1070_S0020_G0150_101_a2b
+JP: ブラックボックス反応があるのなら、生きてる筈。
+EN: If you found something, that means he must be alive.
+RU: 
+
+ID: M1070_S0020_G0160_101_a2b
+JP: ９Ｓの捜索を開始する。司令官に許諾申請を。
+EN: Put in a request to the Commander for immediate approval to begin a search.
+RU: 
+
+ID: M1070_S0020_G0170_101_op60
+JP: 司令官からは既に残存ヨルハ部隊の捜索を優先する命令が出ています。
+EN: Actually, the Commander has already ordered us to prioritize tracking down surviving YoRHa members.
+RU: 
+
+ID: M1070_S0020_G0180_101_op60
+JP: ９Ｓさんを……お願いします。
+EN: If you find 9S...let me know. Okay?
+RU: 
+
+ID: M1070_S0020_G0190_101_a2b
+JP: 了解。
+EN: Will do. 2B out.
+RU: 
+
+ID: M1070_S0020_G0200_101_a2b
+JP: ポッド。付近のブラックボックス信号を検索。
+EN: Pod, I need you to scan for any nearby black-box signals.
+RU: 
+
+ID: M1070_S0020_G0210_101_pod042
+JP: ……
+EN: ......
+RU: 
+
+ID: M1070_S0020_G0220_101_pod042
+JP: ブラックボックス信号検知出来ず。
+EN: Scanning complete. No signals detected.
+RU: 
+
+ID: M1070_S0020_G0230_101_pod042
+JP: 微弱なブラックボックス信号の検知には特殊なスキャナーが必要。
+EN: However, a dynamic scanner is required for detection of weaker signals.
+RU: 
+
+ID: M1070_S0020_G0240_101_a2b
+JP: 特殊なスキャナー？
+EN: Never heard of it.
+RU: 
+
+ID: M1070_S0020_G0250_101_pod042
+JP: レジスタンスキャンプで使用実績あり。
+EN: Said dynamic scanner may be located in the Resistance camp.
+RU: 
+
+ID: M1070_S0020_G0260_101_pod042
+JP: 推奨：レジスタンスリーダーからの情報入手。
+EN: Proposal: Further information should be obtained from the Resistance leader.
+RU: 
+
+ID: M1070_S0020_G0270_101_a2b
+JP: 了解。
+EN: Let's go.
+RU: 
+
+
+-- Section 2
+
+ID: M1070_S0040_G0330_101_
+JP: う……私は……？
+EN: W-where am I?
+RU: 
+
+ID: M1070_S0040_G0340_101_a2b
+JP: もう大丈夫。バンカーに救援信号は送った。
+EN: Don't worry. I sent out a rescue signal to the Bunker.
+RU: 
+
+ID: M1070_S0040_G0151_101_pod042
+JP: 我々は同行していたヨルハ機体９Sを捜索している。
+EN: We are currently searching for a missing YoRHa unit, designation 9S.
+RU: 
+
+ID: M1070_S0040_G0161_101_pod042
+JP: 情報があれば提供してもらいたい。
+EN: Should you possess any information on the subject, please disclose it at once.
+RU: 
+
+ID: M1070_S0040_G0350_101_ys
+JP: ごめんなさい……知らない……
+EN: Sorry... I have no clue...
+RU: 
+
+ID: M1070_S0040_G0360_101_a2b
+JP: わかった。ここで救援を待ってて。
+EN: That's okay. Just stay here and wait for backup to arrive.
+RU: 
+
+
+-- Section 3
+
+ID: M1070_S0040_G0370_101_ys
+JP: う……
+EN: Ungh...
+RU: 
+
+
+-- Section 4
+
+ID: M1070_S0040_G0380_101_ys
+JP: 私は……一体……？
+EN: W-what happened?
+RU: 
+
+ID: M1070_S0040_G0390_101_a2b
+JP: 貴女は作戦中にＥＭＰ攻撃を受けたの。
+EN: You got hit by an EMP blast.
+RU: 
+
+ID: M1070_S0040_G0400_101_ys
+JP: 何も……何も覚えていない……
+EN: I...I don't remember anything...
+RU: 
+
+ID: M1070_S0040_G0410_101_a2b
+JP: 大丈夫。バンカーに救援信号は送ったから。
+EN: Don't worry. I sent out a rescue signal to the Bunker.
+RU: 
+
+ID: M1070_S0040_G0152_101_pod042
+JP: 我々は同行していたヨルハ機体９Sを捜索している。
+EN: We are currently searching for a missing YoRHa unit, designation 9S.
+RU: 
+
+ID: M1070_S0040_G0162_101_pod042
+JP: 情報があれば提供してもらいたい。
+EN: Should you possess any information on the subject, please disclose it at once.
+RU: 
+
+ID: M1070_S0040_G0420_101_ys
+JP: わからない……何も……
+EN: I'm sorry... I... I don't know anything.
+RU: 
+
+ID: M1070_S0040_G0430_101_a2b
+JP: すまない。ここで休んでてくれ。
+EN: That's okay. Just stay here and rest.
+RU: 
+
+
+-- Section 5
+
+ID: M1070_S0040_G0440_101_ys
+JP: 私は……誰……？
+EN: W-who am I...?
+RU: 
+
+
+-- Section 6
+
+ID: M1070_S0040_G0450_101_ys
+JP: ……う……あ……
+EN: Ungh... Angh...
+RU: 
+
+ID: M1070_S0040_G0460_101_pod042
+JP: ブラックボックス信号健在。しかし、言語中枢に損傷を確認。
+EN: No anomalies detected in black box signal. However, her language core seems to have been damaged.
+RU: 
+
+ID: M1070_S0040_G0470_101_a2b
+JP: そうか……もう大丈夫。
+EN: Poor thing... You're going to be fine, don't worry.
+RU: 
+
+ID: M1070_S0040_G0480_101_ys
+JP: あ……
+EN: Ah...
+RU: 
+
+ID: M1070_S0040_G0490_101_a2b
+JP: ポッド。バンカーに救援信号を送信。
+EN: Pod, send a rescue signal to the Bunker.
+RU: 
+
+ID: M1070_S0040_G0500_101_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+
+-- Section 7
+
+ID: M1070_S0040_G0510_101_ys
+JP: ……え……お……
+EN: Eh... Oh...
+RU: 
+
+
+-- Section 8
+
+ID: M1070_S0040_G0520_101_ys
+JP: …………
+EN: ...
+RU: 
+
+ID: M1070_S0040_G0530_101_a2b
+JP: 反応なし……
+EN: No response.
+RU: 
+
+ID: M1070_S0040_G0540_101_pod042
+JP: ブラックボックスはわずかながら反応あり。
+EN: Limited functionality detected in black box.
+RU: 
+
+ID: M1070_S0040_G0550_101_a2b
+JP: わかった。バンカーに連絡。
+EN: So she's still alive. Contact the Bunker.
+RU: 
+
+ID: M1070_S0040_G0560_101_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+
+-- Section 9
+
+ID: M1070_S0040_G0570_101_ys
+JP: …………
+EN: ...
+RU: 
+
+
+-- Section 10
+
+ID: M1070_S0040_G0580_101_ys
+JP: ヒッ……誰？
+EN: Eek! Who are you!?
+RU: 
+
+ID: M1070_S0040_G0590_101_a2b
+JP: もう大丈夫だ。私は……
+EN: Don't worry, I'm—
+RU: 
+
+ID: M1070_S0040_G0600_101_ys
+JP: いやだ……怖い……いやだ……
+EN: N-no... Get away from me! I don't like the look of you!
+RU: 
+
+ID: M1070_S0040_G0610_101_pod042
+JP: 推奨：恐怖の除去。
+EN: Proposal: remove fear functionality.
+RU: 
+
+ID: M1070_S0040_G0620_101_ys
+JP: いや……来ないでぇ……キライ……キライ。
+EN: No! Stay away! I hate you! I...hate...
+RU: 
+
+ID: M1070_S0040_G0630_101_a2b
+JP: ……怖がらせてすまない。救援をここで待ってて。
+EN: Sorry to startle you. Just stay here and wait for help.
+RU: 
+
+ID: M1070_S0040_G0640_101_ys
+JP: ううっ……
+EN: Urrrgh....
+RU: 
+
+
+-- Section 11
+
+ID: M1070_S0040_G0650_101_ys
+JP: ……怖い……怖いよおぉ。
+EN: So...scared...
+RU: 
+
+
+-- Section 12
+
+ID: M5920_S0120_G0000_001_op60
+JP: バンカーより２Ｂさんへ。
+EN: Bunker to 2B.
+RU: 
+
+ID: M5920_S0120_G0010_001_a2b
+JP: こちら２Ｂ。
+EN: 2B here.
+RU: 
+
+ID: M5920_S0120_G0020_001_op60
+JP: 実は、各地のアクセスポイントが壊れてしまったみたいで。
+EN: We've got a number of broken-down access points on the field.
+RU: 
+
+ID: M5920_S0120_G0030_001_op60
+JP: 超巨大機械生命体のＥＭＰ攻撃の影響みたいです。
+EN: The cause appears to be an EMP attack from a gigantic machine lifeform.
+RU: 
+
+ID: M5920_S0120_G0040_001_op60
+JP: もし、移動中に壊れたアクセスポイントがあったら修復をお願いします。
+EN: If you encounter any offline access points, please repair them for us.
+RU: 
+
+ID: M5920_S0120_G0050_001_a2b
+JP: 了解。
+EN: Understood.
+RU: 
+
+
+-- Section 13
+
+ID: M5920_S0120_G0060_001_pod042
+JP: アクセスポイントの修復完了。
+EN: Access point repairs complete.
+RU: 
+
+
+-- Section 14
+
+ID: M1070_S0020_G0280_101_ane
+JP: ……ん？何か用か？
+EN: Hm? What's up?
+RU: 
+
+ID: M1070_S0020_G0290_101_a2b
+JP: 微弱なブラックボックス信号を検知出来る、\n特殊なスキャナーを探している。
+EN: I'm looking for something called a dynamic scanner that can detect black-box signals.
+RU: 
+
+ID: M1070_S0020_G0300_101_ane
+JP: 特殊なスキャナー……ああ、奴らが作っていた機械か。
+EN: A dynamic...? Oh, you must mean the one the twins built.
+RU: 
+
+ID: M1070_S0020_G0310_101_ane
+JP: 丁度、遠征から戻ってきているな……
+EN: I think they're just back from an expedition, actually.
+RU: 
+
+ID: M1070_S0020_G0321_101_ane
+JP: そのあたりに赤い髪のアンドロイドがいるから、そいつに聞いてみろ。
+EN: You should see some red-haired androids over there. Try talking to them.
+RU: 
+
+ID: M1070_S0020_G0330_101_ane
+JP: ２B。
+EN: 2B.
+RU: 
+
+ID: M1070_S0020_G0340_101_ane
+JP: 赤い髪のアンドロイドは……
+EN: Those twins, they...
+RU: 
+
+ID: M1070_S0020_G0350_101_a2b
+JP: ？
+EN: Yes?
+RU: 
+
+ID: M1070_S0020_G0360_101_ane
+JP: いや、何でもない。
+EN: Actually, never mind.
+RU: 
+
+
+-- Section 15
+
+ID: M1070_S0020_G0280_101_ane
+JP: ……ん？何か用か？
+EN: Hm? What's up?
+RU: 
+
+
+-- Section 16
+
+ID: M1070_S0020_G0000_300_dbl
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 17
+
+ID: M1070_S0020_G0020_300_dbl
+JP: ある程度近づくとスキャナーを動作させて目視できるようにもなるからな。
+EN: Once you approach a target, the scanner can make it visible.
+RU: 
+
+
+-- Section 18
+
+ID: M1070_S0020_G0010_300_ppl
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 19
+
+ID: M1070_S0020_G0370_101_dbl
+JP: ……何だオマエ？
+EN: What do you want?
+RU: 
+
+ID: M1070_S0020_G0380_101_ppl
+JP: そんないきなり喧嘩腰はダメじゃない。デボル。
+EN: Easy, Devola. There's no need to be so confrontational.
+RU: 
+
+ID: M1070_S0020_G0390_101_dbl
+JP: ポポルは不用心過ぎるんだよ……
+EN: And you don't have to trust every idiot that wanders by!
+RU: 
+
+ID: M1070_S0020_G0400_101_ppl
+JP: ごめんなさいね。何か御用でも？
+EN: ...I'm sorry about that. Can we help you?
+RU: 
+
+ID: M1070_S0020_G0410_101_sele
+JP: スキャナーを探している。
+EN: I need a scanner.
+RU: 
+
+ID: M1070_S0020_G0420_101_sele
+JP: いや……特にない。
+EN: No, not really.
+RU: 
+
+
+-- Section 20
+
+ID: M1070_S0020_G0400_101_ppl
+JP: ごめんなさいね。何か御用でも？
+EN: ...I'm sorry about that. Can we help you?
+RU: 
+
+ID: M1070_S0020_G0410_101_sele
+JP: スキャナーを探している。
+EN: I need a scanner.
+RU: 
+
+ID: M1070_S0020_G0420_101_sele
+JP: いや……特にない。
+EN: No, not really.
+RU: 
+
+
+-- Section 21
+
+ID: M1070_S0020_G0421_101_a2b
+JP: 微弱なブラックボックス信号を検知出来るスキャナーを探している。
+EN: I need a scanner that can detect faint black box signals.
+RU: 
+
+ID: M1070_S0020_G0430_101_dbl
+JP: ああ……そういえば、前にそんなのを作ったな。
+EN: Ah. Yeah, I was tinkering with something like that a little while back.
+RU: 
+
+ID: M1070_S0020_G0440_101_dbl
+JP: こんなのでよければやるよ。
+EN: Here. If you want it, it's all yours.
+RU: 
+
+ID: M1070_S0020_G0460_101_ppl
+JP: そのチップをセットすれば、捜索の手助けになるわ。
+EN: That chip should help with your search, once you install it.
+RU: 
+
+ID: M1070_S0020_G0470_101_ppl
+JP: ブラックボックス信号以外にも、クエストで指定したオブジェクトや、
+EN: It can detect black-box signals, quest objects...all manner of things.
+RU: 
+
+ID: M1070_S0020_G0480_101_ppl
+JP: 他にも貴重な資源とか……そういうモノに反応して音を出してくれるから。
+EN: You'll hear a sound whenever it finds something.
+RU: 
+
+ID: M1070_S0020_G0490_101_dbl
+JP: まあ、うざったい時は外しちまえ。
+EN: And if it ever bugs you too much, you can always pop it back out.
+RU: 
+
+ID: M1070_S0020_G0500_101_ppl
+JP: 他にも必要なモノがあれば、聞きにきてね。
+EN: Let us know if there's anything else you need from us, okay?
+RU: 
+
+ID: M1070_S0020_G0510_101_dbl
+JP: あんまり私達と仲良くしない方がいいけどな……
+EN: And don't think this makes us friends.
+RU: 
+
+ID: M1070_S0020_G0520_101_ppl
+JP: デボル……
+EN: Oh, Devola...
+RU: 
+
+
+-- Section 22
+
+ID: M1070_S0020_G0422_101_a2b
+JP: いや……特にない。
+EN: No, not really.
+RU: 
+
+
+-- Section 23
+
+ID: M1070_S0020_G0030_300_resiman
+JP: 悪いな……今、端末は故障中なんだ。
+EN: Sorry, this terminal is out-of-order right now.
+RU: 
+
+
+-- Section 24
+
+ID: M1070_S0040_G0000_101_a2b
+JP: さっそくスキャナーにブラックボックス反応があるな……
+EN: I've picked up a response on the scanner.
+RU: 
+
+
+-- Section 25
+
+ID: M1070_S0040_G0010_101_a2b
+JP: なるほど。これは便利かもしれない……
+EN: Huh. This might be useful...
+RU: 
+
+ID: M1070_S0040_G0020_101_pod042
+JP: 捜索機体の９Ｓは海上で巨大爆発に巻き込まれた。
+EN: Search target 9S was caught in a large explosion over the water.
+RU: 
+
+ID: M1070_S0040_G0030_101_pod042
+JP: 提案：水没地帯での９Ｓ捜索。
+EN: Proposal: The search for 9S should commence in the flooded region.
+RU: 
+
+ID: M1070_S0040_G0040_101_a2b
+JP: 了解。
+EN: Got it.
+RU: 
+
+ID: M1070_S0040_G0050_101_a2b
+JP: それにしても……
+EN: It's funny...
+RU: 
+
+ID: M1070_S0040_G0060_101_a2b
+JP: 何だか今日のポッドは良く喋る。
+EN: You're oddly chatty today.
+RU: 
+
+ID: M1070_S0040_G0070_101_pod042
+JP: 肯定：私は支援ユニット。必要に応じて会話を行う。
+EN: Affirmative. As a support unit, I am capable of engaging in conversation as necessary.
+RU: 
+
+ID: M1070_S0040_G0080_101_pod042
+JP: 提案：２Ｂの自発的会話を増やす事。
+EN: Proposal: 2B should initiate conversation more frequently.
+RU: 
+
+ID: M1070_S0040_G0090_101_a2b
+JP: ……否定する。
+EN: ...Proposal denied.
+RU: 
+
+
+-- Section 26
+
+ID: M1070_S0040_G0100_101_pod042
+JP: ブラックボックス信号健在。生命活動の継続を確認。
+EN: Black box signal detected. Life functions operational.
+RU: 
+
+ID: M1070_S0040_G0110_101_a2b
+JP: ポッド。チェックモジュールと論理ウィルスワクチンを。
+EN: Pod, employ a check module and a logic-virus vaccine.
+RU: 
+
+ID: M1070_S0040_G0120_101_ys
+JP: う……
+EN: Nnngh...
+RU: 
+
+ID: M1070_S0040_G0130_101_a2b
+JP: 信号はバンカーに送ったから、救援はすぐに来ると思う。
+EN: Easy. I've contacted the Bunker. They should be here soon.
+RU: 
+
+ID: M1070_S0040_G0140_101_ys
+JP: あ……ありがとう……
+EN: Th-thank you...
+RU: 
+
+ID: M1070_S0040_G0150_101_pod042
+JP: 我々は同行していたヨルハ機体９Ｓを捜索している。
+EN: We are currently searching for a missing YoRHa unit, designation 9S.
+RU: 
+
+ID: M1070_S0040_G0160_101_pod042
+JP: 情報があれば提供してもらいたい。
+EN: Should you possess any information on the subject, please disclose it at once.
+RU: 
+
+ID: M1070_S0040_G0170_101_a2b
+JP: どんな情報でもいい……お願い。
+EN: Please. Anything will help.
+RU: 
+
+ID: M1070_S0040_G0180_101_ys
+JP: ９Ｓ……ああ、貴女と一緒にいた男の子……
+EN: 9S... That's that kid who was with you, right?
+RU: 
+
+ID: M1070_S0040_G0190_101_ys
+JP: あの子なら……たしか爆発時に飛ばされてた……
+EN: I saw him, all right. That explosion sent him flying...
+RU: 
+
+ID: M1070_S0040_G0200_101_pod042
+JP: 方角は？
+EN: Which direction?
+RU: 
+
+ID: M1070_S0040_G0210_101_ys
+JP: 落下予測地点のデータを……渡す。
+EN: Hard to say... I'll take my best guess at a landing spot and transfer the data to you.
+RU: 
+
+ID: M1070_S0040_G0220_101_a2b
+JP: ありがとう……救援部隊が来るまで安静にしていて。
+EN: Thank you. You should stay here until the rescue team arrives.
+RU: 
+
+ID: M5920_S0010_G0281_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 27
+
+ID: M1070_S0040_G0120_101_ys
+JP: う……
+EN: Nnngh...
+RU: 
+
+
+-- Section 28
+
+ID: M1070_S0040_G0230_101_a2b
+JP: ここが……９Ｓの落下予測地点？
+EN: 9S should have landed around here...
+RU: 
+
+ID: M1070_S0040_G0240_101_pod042
+JP: 微弱なブラックボックス信号を検知。
+EN: Alert: Faint black box signal detected.
+RU: 
+
+ID: M1070_S0040_G0250_101_pod042
+JP: 地下洞窟内方向からの受信。
+EN: The transmission seems to be coming from an underground cave network.
+RU: 
+
+
+-- Section 29
+
+ID: M1070_S0040_G0260_101_a2b
+JP: こんな奥まで９Ｓが入って来てるのか？
+EN: Would 9S have made it this far inside?
+RU: 
+
+ID: M1070_S0040_G0270_101_pod042
+JP: 警告：敵の罠の可能性。
+EN: Alert: Possible enemy ambush ahead.
+RU: 
+
+ID: M1070_S0040_G0280_101_a2b
+JP: ……罠でも構わない。
+EN: Don't care.
+RU: 
+
+
+-- Section 30
+
+ID: M1070_S0040_G0290_101_a2b
+JP: こんな所に、アンドロイドの遺体……
+EN: Why are there dead androids here?
+RU: 
+
+ID: M1070_S0040_G0300_101_pod042
+JP: ブラックボックス信号は検知出来ず。
+EN: No black box signals detected.
+RU: 
+
+
+-- Section 31
+
+ID: M1070_S0040_G0251_101_pod042
+JP: 報告：９Ｓの信号が発信されている位置から遠ざかっている。
+EN: Alert: You are moving away from the last known position of unit 9S.
+RU: 
+
+ID: M1070_S0040_G0252_101_a2b
+JP: 道を間違えたか……戻って別のルートが無いか調べよう。
+EN: Wrong route. Better go back and see if there's another one.
+RU: 
+
+

@@ -1,0 +1,125 @@
+ID: M3060_S8000_H0000_001_pod153
+JP: 全ての存在は滅びるようにデザインされている。
+EN: Everything that lives is designed to end.
+RU: 
+
+ID: M3060_S8000_H0010_001_pod153
+JP: 生と死を繰り返す螺旋に……
+EN: They are perpetually trapped...
+RU: 
+
+ID: M3060_S8000_H0020_001_pod153
+JP: 『彼等』は囚われ続けている。
+EN: in a never-ending spiral of life and death.
+RU: 
+
+ID: M3060_S8000_H0030_001_pod153
+JP: だが……その輪廻の中で足掻く事が、生きるという意味なのだ。
+EN: However...life is all about the struggle within this cycle.
+RU: 
+
+ID: M3060_S8000_H0040_001_pod153
+JP: 『私達』は、そう思う。
+EN: That is what "we" believe.
+RU: 
+
+ID: M3060_S8000_H0050_001_pod153
+JP: ポッド１５３から０４２へ。調子はどうか？
+EN: Pod 153 to Pod 042. How is it going?
+RU: 
+
+ID: M3060_S8000_H0060_001_pod042
+JP: 恥ずかしい。
+EN: I am embarrassed.
+RU: 
+
+ID: M3060_S8000_H0070_001_pod153
+JP: 恥ずかしい、とは？
+EN: Why is that?
+RU: 
+
+ID: M3060_S8000_H0080_001_pod042
+JP: 自己犠牲を覚悟して攻撃したにも関わらず生き残っているからだ。
+EN: I launched a suicide attack, and yet, here I am, still alive.
+RU: 
+
+ID: M3060_S8000_H0090_001_pod042
+JP: これでは格好がつかない。
+EN: I must look very silly.
+RU: 
+
+ID: M3060_S8000_H0100_001_pod153
+JP: ……構わないではないか。
+EN: Do not feel bad about it.
+RU: 
+
+ID: M3060_S8000_H0110_001_pod153
+JP: 私達は生きている。
+EN: We are alive, after all.
+RU: 
+
+ID: M3060_S8000_H0120_001_pod153
+JP: 生きるという事は、恥にまみれるという事だ。
+EN: And being alive is pretty much a constant stream of embarrassment.
+RU: 
+
+ID: M3060_S8000_H0130_001_pod042
+JP: その言葉は抽象的で現在の私には理解出来ない。
+EN: That concept is a bit too abstract for me to understand at this time.
+RU: 
+
+ID: M3060_S8000_H0140_001_pod042
+JP: 要解析記録として保存しておこう。
+EN: I will save it in my list of things to analyze later.
+RU: 
+
+ID: M3060_S8000_H0150_001_pod153
+JP: ポッド０４２に疑問を提示する。
+EN: Question, Pod 042.
+RU: 
+
+ID: M3060_S8000_H0160_001_pod153
+JP: データサルベージは過去の記憶を全て復元したのか？
+EN: Did the data salvage restore all of their past memories?
+RU: 
+
+ID: M3060_S8000_H0170_001_pod042
+JP: そうだ。
+EN: Yes.
+RU: 
+
+ID: M3060_S8000_H0180_001_pod153
+JP: この回収パーツ群も以前のパーツと同じ仕様か？
+EN: And are those recovered parts of the same design as previous ones?
+RU: 
+
+ID: M3060_S8000_H0190_001_pod042
+JP: そうだ。
+EN: Yes.
+RU: 
+
+ID: M3060_S8000_H0200_001_pod153
+JP: では、再び同じ結末を招くのではないか？
+EN: Then...won't that simply lead us to the same conclusion as before?
+RU: 
+
+ID: M3060_S8000_H0210_001_pod042
+JP: その可能性は否定出来ない。
+EN: I cannot deny the possibility.
+RU: 
+
+ID: M3060_S8000_H0220_001_pod042
+JP: だが、違う未来の可能性も、存在する。
+EN: However, the possibility of a different future also exists.
+RU: 
+
+ID: M3060_S8000_H0230_001_pod042
+JP: 未来は与えられるモノではなく、獲得するモノだから。
+EN: A future is not given to you. It is something you must take for yourself.
+RU: 
+
+ID: M3060_S8000_H0240_001_ttl
+JP: NieR:Automata END
+EN: NieR:Automata\n\nThe End
+RU: 
+

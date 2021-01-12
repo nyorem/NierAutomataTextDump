@@ -1,0 +1,281 @@
+-- Section 1
+
+ID: M1090_S0020_G0000_201_a9s
+JP: 人類が……もういない……
+EN: The human race is...gone.
+RU: 
+
+ID: M1090_S0020_G0010_201_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0020_G0020_201_a9s
+JP: ２Ｂに、何て言えば……
+EN: How do I tell 2B?
+RU: 
+
+ID: M1090_S0020_G0030_201_bcast
+JP: 緊急指令。コードF２。
+EN: Emergency Protocol, code F2.
+RU: 
+
+ID: M1090_S0020_G0040_201_bcast
+JP: 全ヨルハ部隊員は速やかに戦闘配置に就いてください。
+EN: All YoRHa members are to report to combat stations immediately.
+RU: 
+
+ID: M1090_S0020_G0050_201_bcast
+JP: 繰り返します。緊急指令。コードF２。
+EN: Repeat. Emergency Protocol, code F2.
+RU: 
+
+ID: M1090_S0020_G0060_201_bcast
+JP: 全ヨルハ部隊員は速やかに戦闘配置に就いてください。
+EN: All YoRHa members are to report to combat stations immediately.
+RU: 
+
+ID: M1090_S0020_G0070_201_a9s
+JP: 戦闘配置……行かなきゃ！
+EN: Combat stations? I'd better get a move on.
+RU: 
+
+
+-- Section 3
+
+ID: M1090_S0020_G0080_201_pod153
+JP: 指令：９Ｓに出撃命令。
+EN: Alert: Mission orders received.
+RU: 
+
+ID: M1090_S0020_G0090_201_pod153
+JP: レジスタンスキャンプ付近の２Ｂを支援せよ。
+EN: Rendezvous with and support unit 2B near the Resistance camp.
+RU: 
+
+ID: M1090_S0020_G0100_201_a9s
+JP: 詳細状況！
+EN: Any details?
+RU: 
+
+ID: M1090_S0020_G0110_201_pod153
+JP: 廃墟都市エリア全体に暴走した機械生命体が大量に出現。
+EN: Large numbers of machine lifeforms are rampaging through the city ruins.
+RU: 
+
+ID: M1090_S0020_G0120_201_a9s
+JP: そんな……敵は弱体化した筈じゃ……
+EN: What? How? They're supposed to be weakened...
+RU: 
+
+ID: M1090_S0020_G0130_201_pod153
+JP: 原因は不明。
+EN: Cause unknown.
+RU: 
+
+ID: M1090_S0020_G0140_201_pod153
+JP: 大型兵器も確認されている為、速やかな対処が望まれる。
+EN: Goliath-class enemies also confirmed. Immediate action advised.
+RU: 
+
+
+-- Section 4
+
+ID: M1090_S0020_G0000_300_cmd
+JP: ９Ｓか！すぐに出撃してくれ。
+EN: 9S, I need you to deploy now.
+RU: 
+
+
+-- Section 5
+
+ID: M1090_S0020_G0001_300_cmd
+JP: 何をしている！出撃だ。
+EN: What are you doing? Deploy!
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0060_G0020_300_op60
+JP: 無事でよかった……
+EN: I'm glad you're safe.
+RU: 
+
+ID: M6010_S0060_G0030_300_op60
+JP: 今地上との通信がすごく不安定になってます。\nあまり無茶はしないでくださいね。
+EN: Communications with Earth are incredibly unstable. Please don't do anything too crazy, okay?
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0060_G0040_300_op60
+JP: お気をつけて……！
+EN: Be careful!
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0060_G0050_300_op210
+JP: ……あなたは無謀な行動をとりやすい傾向があります。\nくれぐれも気をつけてください。
+EN: You tend to act recklessly. Please be cautious going forward.
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0060_G0060_300_op210
+JP: ……気をつけて。
+EN: Be careful.
+RU: 
+
+
+-- Section 10
+
+ID: M1090_S0020_G0005_300_op
+JP: いったい何が……
+EN: What in the world...?
+RU: 
+
+
+-- Section 11
+
+ID: M1090_S0020_G0001_300_op
+JP: 解らない……
+EN: I don't know...
+RU: 
+
+
+-- Section 12
+
+ID: M1090_S0020_G0002_300_op
+JP: どうしたっていうんだ！？
+EN: What's happening!?
+RU: 
+
+
+-- Section 13
+
+ID: M1090_S0020_G0000_300_op
+JP: 何が起こってるの！？
+EN: What's going on!?
+RU: 
+
+
+-- Section 14
+
+ID: M1090_S0020_G0002_300_op
+JP: どうしたっていうんだ！？
+EN: What's happening!?
+RU: 
+
+
+-- Section 15
+
+ID: M1090_S0020_G0005_300_op
+JP: いったい何が……
+EN: What in the world...?
+RU: 
+
+
+-- Section 16
+
+ID: M1090_S0020_G0001_300_op
+JP: 解らない……
+EN: I don't know...
+RU: 
+
+
+-- Section 17
+
+ID: M1090_S0020_G0004_300_op
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 18
+
+ID: M1090_S0020_G0005_300_op
+JP: いったい何が……
+EN: What in the world...?
+RU: 
+
+
+-- Section 19
+
+ID: M1090_S0020_G0000_300_op
+JP: 何が起こってるの！？
+EN: What's going on!?
+RU: 
+
+
+-- Section 20
+
+ID: M1090_S0020_G0001_300_op
+JP: 解らない……
+EN: I don't know...
+RU: 
+
+
+-- Section 21
+
+ID: M1090_S0020_G0000_300_op
+JP: 何が起こってるの！？
+EN: What's going on!?
+RU: 
+
+
+-- Section 22
+
+ID: M1090_S0020_G0001_300_op
+JP: 解らない……
+EN: I don't know...
+RU: 
+
+
+-- Section 23
+
+ID: M1090_S0020_G0003_300_op
+JP: ちょっと後にして！！
+EN: Save that for later!
+RU: 
+
+
+-- Section 24
+
+ID: M1090_S0020_G0002_300_op
+JP: どうしたっていうんだ！？
+EN: What's happening!?
+RU: 
+
+
+-- Section 25
+
+ID: M1090_S0020_G0005_300_op
+JP: いったい何が……
+EN: What in the world...?
+RU: 
+
+
+-- Section 26
+
+ID: M1090_S0020_G0004_300_op
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 27
+
+ID: M6010_S0010_G1230_300_bs
+JP: 機体のメンテナンスなら任せてください。
+EN: Need any maintenance done? You've come to the right person!
+RU: 
+
+

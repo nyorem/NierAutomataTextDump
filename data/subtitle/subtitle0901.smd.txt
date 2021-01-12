@@ -1,0 +1,15 @@
+ID: M3020_S0010_H0000_001_a9s
+JP: う……
+EN: Nnngh...
+RU: 
+
+ID: M3020_S0010_H0010_001_ppl
+JP: あ、気がついたみたいよ。デボル。
+EN: Looks like he's awake, Devola.
+RU: 
+
+ID: M3020_S0010_H0020_001_dbl
+JP: おはよう。よく寝たな。９Ｓ。
+EN: Mornin'. Slept well, didn't ya, 9S?
+RU: 
+

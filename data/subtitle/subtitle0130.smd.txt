@@ -1,0 +1,60 @@
+ID: M0010_S0795_S0000_001_a2b
+JP: 制御システムを奪う！
+EN: Seizing the control system!
+RU: 
+
+ID: M0010_S0795_S0001_001_a9s
+JP: 敵機体の……上腕部のコントロール……奪取完了。
+EN:  
+RU: 
+
+ID: M0010_S0795_S0002_001_a9s
+JP: 弱点部分をマークしました……
+EN:  
+RU: 
+
+ID: M0010_S0795_S0003_001_a2b
+JP: ……了解。
+EN:  
+RU: 
+
+ID: M0010_S0795_S0010_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+ID: M0010_S0795_S0020_001_pod042
+JP: 敵サブユニット侵入。
+EN: Infiltrating enemy sub-unit.
+RU: 
+
+ID: M0010_S0795_S0030_001_pod042
+JP: 挙動テーブル変更終了。
+EN: Behavior table adjusted.
+RU: 
+
+ID: M0010_S0795_S0040_001_pod042
+JP: 姿勢制御バーニアコントロール。
+EN: Balance control overridden.
+RU: 
+
+ID: M0010_S0795_S0050_001_pod042
+JP: 敵兵器の従属化を完了。
+EN: Enemy unit subjugation complete.
+RU: 
+
+ID: M0010_S0795_S1001_001_a9s
+JP: 敵機体の……上腕部のコントロール……奪取完了。
+EN: 
+RU: 
+
+ID: M0010_S0795_S1002_001_a9s
+JP: 弱点部分をマークしました……
+EN: 
+RU: 
+
+ID: M0010_S0795_S1003_001_a2b
+JP: ……了解。
+EN: 
+RU: 
+

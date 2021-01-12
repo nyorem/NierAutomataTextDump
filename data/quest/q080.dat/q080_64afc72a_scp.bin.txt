@@ -1,0 +1,106 @@
+-- Section 1
+
+ID: M5080_S0010_G0000_001_a2b
+JP: この記号だらけのメールは、一体……
+EN: What was that mail about?
+RU: 
+
+ID: M5080_S0010_G0010_001_pod042
+JP: 推測：数値は位置座標を示している。
+EN: Hypothesis: The numbers may indicate coordinates.
+RU: 
+
+ID: M5080_S0010_G0020_001_pod042
+JP: 場所は３箇所。砂漠地帯、水没廃墟地帯、及び森林地帯。
+EN: There are 3 locations: The desert, the flooded city, and the forest.
+RU: 
+
+ID: M5080_S0010_G0030_001_a2b
+JP: 調べてみる。マップにマークして。
+EN: Mark them on my map.
+RU: 
+
+ID: M5080_S0010_G0040_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+ID: M5080_S0010_G0050_001_a2
+JP: 何だ……今読んだ記号だらけのメールは？
+EN: What's with the weird mail?
+RU: 
+
+ID: M5080_S0010_G0060_001_pod042
+JP: 推測：数値は位置座標を示している。
+EN: Hypothesis: The numbers may indicate coordinates.
+RU: 
+
+ID: M5080_S0010_G0070_001_pod042
+JP: 場所は３箇所。砂漠地帯、水没廃墟地帯、及び森林地帯。
+EN: There are 3 locations: The desert, the flooded city, and the forest.
+RU: 
+
+ID: M5080_S0010_G0080_001_a2
+JP: 調べてみるか……マップにマーク。
+EN: Yeah, okay. Mark them on my map.
+RU: 
+
+ID: M5080_S0010_G0090_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+ID: M5080_S0010_G0100_001_a9s
+JP: この記号だらけのメールは……何だろう？
+EN: What do you suppose that mail was about?
+RU: 
+
+ID: M5080_S0010_G0110_001_pod153
+JP: 推測：数値は位置座標を示している。
+EN: Hypothesis: The numbers may indicate coordinates.
+RU: 
+
+ID: M5080_S0010_G0120_001_pod153
+JP: 場所は３箇所。砂漠地帯、水没廃墟地帯、及び森林地帯。
+EN: There are 3 locations: The desert, the flooded city, and the forest.
+RU: 
+
+ID: M5080_S0010_G0130_001_a9s
+JP: 調べてみよう。マップにマークして。
+EN: Sounds interesting. Mark 'em on the map.
+RU: 
+
+ID: M5080_S0010_G0140_001_pod153
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+
+-- Section 2
+
+ID: M5080_S0010_G0150_001_a9s
+JP: この記号だらけのメールは……何だ？
+EN: What was that mail about?
+RU: 
+
+ID: M5080_S0010_G0160_001_pod153
+JP: 推測：数値は位置座標を示している。
+EN: Hypothesis: The numbers may indicate coordinates.
+RU: 
+
+ID: M5080_S0010_G0170_001_pod153
+JP: 場所は３箇所。砂漠地帯、水没廃墟地帯、及び森林地帯。
+EN: There are 3 locations: The desert, the flooded city, and the forest.
+RU: 
+
+ID: M5080_S0010_G0180_001_a9s
+JP: 調査する。マップにマーク。
+EN: I'll look into it. Mark 'em on the map.
+RU: 
+
+ID: M5080_S0010_G0190_001_pod153
+JP: 了解。
+EN: Understood.
+RU: 
+
+

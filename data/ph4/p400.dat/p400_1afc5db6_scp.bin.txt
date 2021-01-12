@@ -1,0 +1,817 @@
+-- Section 1
+
+ID: M6150_S0000_G0000_001_dreamR1
+JP: オハヨウ、プラトン１７２８。\n今日ハ起動日ダッタンダネ。
+EN: Good morning, Plato 1728.\nToday's the day of your activation then, is it?
+RU: 
+
+ID: M6150_S0000_G0010_001_dreamR1
+JP: ボクさ、最近スリープモード中ナノニまるで活動シテイルかの様な映像を見ルコトがあるンダ……
+EN: Say, I've been seeing these weird images while in sleep mode recently. It's almost as if I'm actually not asleep.
+RU: 
+
+ID: M6150_S0000_G0020_001_dreamR1
+JP: 見ル映像は毎回違ッテ、楽シイ事や悲シイ事マデ様々ナンダ。
+EN: The images are different every time; sometimes they're fun, sometimes they're sad.
+RU: 
+
+ID: M6150_S0000_G0030_001_dreamR1
+JP: 時ニハ自分が人間にナッタかの様ナ経験マデした事がアルンダ……
+EN: I even had an experience where I turned into a human being!
+RU: 
+
+
+-- Section 2
+
+ID: M6150_S0000_G0040_001_dreamR1
+JP: アノ現実ニハない感覚はナンナノダロウ……
+EN: I wonder where all this miraculous imagery comes from...
+RU: 
+
+ID: M6150_S0000_G0050_001_dreamR1
+JP: 君ハ見たコトアルカイ？
+EN: Have you ever had the same thing happen to you?
+RU: 
+
+
+-- Section 3
+
+ID: M6150_S0010_G0000_001_dreamR2
+JP: コイツ最近スリープモード中に変な映像を見ルって言ウンダ。
+EN: So this guy's saying he's been seeing weird things while in sleep mode recently.
+RU: 
+
+ID: M6150_S0010_G0010_001_dreamR2
+JP: 検査シテモ、視覚回路ニ異常はナイシ何なのダロウ。
+EN: Tests don't indicate any abnormalities in his visual circuits, so I have no clue what's up with him.
+RU: 
+
+
+-- Section 4
+
+ID: M6150_S0020_G0000_001_restR
+JP: 大規模ナ大戦ガ近イミタイデ、最近はズット働キ詰メで疲レタ……\n少シダケ休マセテ……
+EN: I've been fighting one big battle after the next recently. I need some rest...
+RU: 
+
+
+-- Section 5
+
+ID: M6150_S0030_G0000_001_terminalR
+JP: 近頃メンテナンスをサボる個体ガ多クテ困るよ。
+EN: There's been a lot of units who haven't been performing proper maintenance lately.
+RU: 
+
+ID: M6150_S0030_G0010_001_terminalR
+JP: プラトン１７２８、お前は特にボロいんダカラサボるなよ。
+EN: Plato 1728, you're especially janky, so take good care of yourself, ya hear?
+RU: 
+
+
+-- Section 6
+
+ID: M6150_S0040_G0000_001_watchR
+JP: ココノ通路が壊れチャッテ、修理スルマデ落ちるヤツが出ナイヨウニ見張ッテイルンダ。
+EN: I'm here to make sure nobody falls into this hole until the repairs are finished.
+RU: 
+
+ID: M6150_S0040_G0010_001_watchR
+JP: お前ハ特にノロマなんダカラ気をツケロヨ。
+EN: You're dumber than the rest, so you watch your step, okay?
+RU: 
+
+
+-- Section 7
+
+ID: M6150_S0040_G0020_001_watchR
+JP: 空を飛ベナイなんて、足がアル奴は可哀想ダナ。
+EN: I feel sorry for you flightless units. Legs are so useless.
+RU: 
+
+
+-- Section 8
+
+ID: M6150_S0050_G0000_001_lookR
+JP: 最近アノ下に見エル幾何学的模様の建築物にハマる奴が何体もイルンダ。
+EN: Lately, a lot of machines have been obsessed with that building with the geometric pattern down there.
+RU: 
+
+ID: M6150_S0050_G0010_001_lookR
+JP: 何デダロウ？
+EN: I wonder what's in there...
+RU: 
+
+
+-- Section 9
+
+ID: M6150_S0060_G0000_001_attractR
+JP: アア……プラトン１７２８か君もアレを見てミナヨ。
+EN: Oh, hi Plato 1728... Did you have a look at that building yet?
+RU: 
+
+ID: M6150_S0060_G0010_001_attractR
+JP: ドウダイ、吸い込マレソウダロ？
+EN: Feels like you're being sucked in, doesn't it?
+RU: 
+
+
+-- Section 10
+
+ID: M6150_S0060_G0010_001_attractR
+JP: ドウダイ、吸い込マレソウダロ？
+EN: Feels like you're being sucked in, doesn't it?
+RU: 
+
+
+-- Section 11
+
+ID: M6150_S0070_G0000_001_frightenedR
+JP: ハー、戦闘訓練は苦手ナンダヨ。
+EN: *sigh* I hate combat training.
+RU: 
+
+ID: M6150_S0070_G0010_001_frightenedR
+JP: 次も成績ガ悪カッタラ降格ダシ、ウウ考エテいるとコアが痛クナッテ来タ……
+EN: If I don't do well enough, I'm gonna get demoted again. Urrrgh, just thinking about it makes my core hurt...
+RU: 
+
+ID: M6150_S0070_G0020_001_frightenedR
+JP: 君モボクと同様にノロマダカラこの気持ち分カルダロウ？
+EN: You're as clumsy as I am, so you understand the feeling, right?
+RU: 
+
+
+-- Section 12
+
+ID: M6150_S0080_G0000_001_encourageR
+JP: 訓練デそんなに緊張シテどうするんダヨ。
+EN: Don't get yourself all worked up. It's just training.
+RU: 
+
+ID: M6150_S0080_G0010_001_encourageR
+JP: ホラ、落ち着イテ少しネジを緩メロヨ。
+EN: Just relax and loosen your bolts a bit.
+RU: 
+
+
+-- Section 13
+
+ID: M6150_S0130_G0000_001_duskR
+JP: 自分と同タイプの個体が作ラレテイルノを見テイルと不思議ナ気持ちにナルンダ。
+EN: It's always weird to see units of the same model as me getting put together.
+RU: 
+
+ID: M6150_S0130_G0010_001_duskR
+JP: ボクモこうやって生マレテ来たんだヨネ。
+EN: I guess this is how I was born too, huh?
+RU: 
+
+
+-- Section 14
+
+ID: M6150_S0140_G0010_001_badR
+JP: 試験場ならこの先ヲ行った所ダロ、遂ニ記憶領域マデも壊レタノカ？
+EN: The test site is up ahead, you know that, right? Are your memories corrupted or something?
+RU: 
+
+
+-- Section 15
+
+ID: M6150_S0090_G0000_001_audienceR
+JP: イケ！ソコダ！ヤッツケロ！
+EN: Go! Attack! Kill!
+RU: 
+
+
+-- Section 16
+
+ID: M6150_S0100_G0000_001_audienceR
+JP: コワセ！コワセ！コワセ！コワセ！コワセ！ブッコロセ！
+EN: Destroy! Destroy! Destroy! Destroy! KILL!
+RU: 
+
+
+-- Section 17
+
+ID: M6150_S0110_G0000_001_audienceR
+JP: イケー！！オ前はヤレバ出来ル子ダ！
+EN: Yes! You can do it! You have it in you!
+RU: 
+
+
+-- Section 18
+
+ID: M6150_S0120_G0000_001_questionR
+JP: ココ最近、戦闘訓練場で訓練ヲ見ルノがコノ地区デノ流行リナンダッテサ。
+EN: Lots of machines from around here are coming over to watch the combat training sessions.
+RU: 
+
+ID: M6150_S0120_G0010_001_questionR
+JP: ボクモ見に来テミタケド、サッパリダネ。
+EN: I figured I'd have a look as well, but I don't see the appeal at all.
+RU: 
+
+ID: M6150_S0120_G0020_001_questionR
+JP: ソレヨリ、オマエはイツモノロマで戦場デハ迷惑を掛ケテイルンダカラ、シッカリ訓練シテオケヨ。
+EN: Anyway, everyone knows that YOU need the training, so start gearing up!
+RU: 
+
+
+-- Section 19
+
+ID: M6150_S0150_G0000_001_badR
+JP: ヨオ、プラトン１７２８今日は運動機能試験ナンダッテ？
+EN: Yo, Plato 1728! Today's your motor function test, right?
+RU: 
+
+ID: M6150_S0150_G0010_001_badR
+JP: ノロマでボロのオ前ノコトダカラ、ドウセ今日もドベ決定ダナ、ハハハ。
+EN: I'm sure you'll do just peachy, you clunky piece of junk! Bwahahaha!
+RU: 
+
+
+-- Section 20
+
+ID: M6150_S0160_G0000_001_difficultR
+JP: 足が短イ僕のタイプは梯子ヲ降リルのモ一苦労ナンダ。
+EN: Short-legged units such as myself can't even get off a chair without fearing for their safety.
+RU: 
+
+ID: M6150_S0160_G0010_001_difficultR
+JP: ハァー、緊張スル。
+EN: Everything makes us freak out, pretty much.
+RU: 
+
+
+-- Section 21
+
+ID: M6150_S0170_G0000_001_enthusiasticR
+JP: コノ巨大兵器ガ完成したアカツキニハ、アノ憎キアンドロイド共を一掃出来ル！
+EN: As soon as this giant weapon is complete, we will wipe those filthy androids off the face of the earth!
+RU: 
+
+ID: M6150_S0170_G0010_001_enthusiasticR
+JP: ワレワレの勝利ハ目前ダ！
+EN: Our victory is nigh!
+RU: 
+
+
+-- Section 22
+
+ID: M6150_S0180_G0000_001_childR
+JP: ワー、スッゴイ大キイネー。
+EN: Wow, that weapon sure is big!
+RU: 
+
+ID: M6150_S0180_G0010_001_childR
+JP: ボクノ何倍の大キサナンダロウ。
+EN: I wonder how many of me would fit in there?
+RU: 
+
+
+-- Section 23
+
+ID: M6150_S0190_G0000_001_lookR
+JP: 次ノ大戦マデに何トカ完成が間に合エバイインダケド。
+EN: I can only hope that this weapon will be completed before the next big battle.
+RU: 
+
+
+-- Section 24
+
+ID: M6150_S0200_G0000_001_restR
+JP: ハァーモウ動ケナイ、圧倒的ニ作業用ロボの数が足リナイヨ。
+EN: Ugh, I'm too tired to even move. We're way understaffed!
+RU: 
+
+ID: M6150_S0200_G0010_001_restR
+JP: 上ノ奴ラは本当ニ現場の事を何も分カッテナイヨ。\n次ノ大戦マデに何トカ完成が間に合エバイインダケド……
+EN: The guys at the top have no idea how hard this work is. I hope we can get this thing up and running before the next big battle...
+RU: 
+
+
+-- Section 25
+
+ID: M6150_S0220_G0000_001_duskR
+JP: ハァー仕事仕事でモウ疲れた。イッソの事ココカラ飛び降リテシマイタイ。
+EN: I'm so tired of working... I just feel like jumping down from here.
+RU: 
+
+
+-- Section 26
+
+ID: M6150_S0210_G0000_001_restR
+JP: アア、端末画面の見過ギデ、視覚回路を遮断シテモ丸イ光ガ見エル……
+EN: I've been staring at monitors for so long, I see bright, round lights even when I close off my visual circuits.
+RU: 
+
+ID: M6150_S0210_G0010_001_restR
+JP: ………………少し楽シイ。
+EN: .........It's kinda fun, actually.
+RU: 
+
+
+-- Section 27
+
+ID: M6150_S0230_G0000_001_terminalR
+JP: …………今作業中……黙ッテテ……
+EN: ............I'm busy............ Leave me alone.
+RU: 
+
+
+-- Section 28
+
+ID: M6150_S0240_G0000_001_terminalR
+JP: ココガコウデ……良し完璧。
+EN: And then this goes here... And voila! Perfect!
+RU: 
+
+
+-- Section 29
+
+ID: M6150_S0250_G0000_001_terminalR
+JP: アァアァァアアー、マタバグッタ……\nバグバグバグバグバグ……
+EN: AAAARGGH! All these damn bugs!\nBugs everywhere! Bugsbugsbugsbugs!
+RU: 
+
+
+-- Section 30
+
+ID: M6150_S0260_G0000_001_terminalR
+JP: 水没エリアに大規模なアンドロイド部隊の展開がウカガエマス。\n近クノ隊ハ警戒シて下サイ。
+EN: A large android squad has been sighted at the flooded city.\nAll nearby units should proceed with caution.
+RU: 
+
+
+-- Section 31
+
+ID: M6150_S0270_G0000_001_terminalR
+JP: アンドロイドの中デモ、ヨルハと呼ばれル部隊は特別凶悪な奴らナンダ。
+EN: All androids are terrible, but the ones calling themselves YoRHa are the worst of them all.
+RU: 
+
+ID: M6150_S0270_G0010_001_terminalR
+JP: 奴らはタッタ一体で複数の部隊を何度も壊滅サセテイル。
+EN: Just one of them can wipe out multiple machine troops.
+RU: 
+
+
+-- Section 32
+
+ID: M6150_S0655_G0000_001_lookR
+JP: 大キイ声では言エナイガ、横の上司ハ無理ナスケジュールを部下に押し付ケテハ罵ル最悪な奴ダヨ。
+EN: You didn't hear this from me, but this guy over here likes to push ridiculous schedules onto his subordinates and then heap abuse on them when they fail.
+RU: 
+
+
+-- Section 33
+
+ID: M6150_S0280_G0000_001_terminalR
+JP: 巨大兵器サエ完成スレバ、戦況を一気に動カス事が出来ルハズダ。
+EN: If we can complete our giant weapon, we can turn the tide of battle in our favor.
+RU: 
+
+
+-- Section 34
+
+ID: M6150_S0290_G0000_001_terminalR
+JP: 今月は電気の消費が激シイ……
+EN: Our electricity bill is through the roof this month!
+RU: 
+
+ID: M6150_S0290_G0010_001_terminalR
+JP: フム、無駄に電気ヲ使ッテいる個体ガ目立チマスネ。一度警告シナイト。
+EN: Some units are particularly wasteful, it seems. I'll have to give them a warning.
+RU: 
+
+
+-- Section 35
+
+ID: M6150_S0300_G0000_001_terminalR
+JP: コノ部屋はピコピコピコピコうるさスギ。
+EN: All the bleeps and bloops in this room are driving me crazy.
+RU: 
+
+
+-- Section 36
+
+ID: M6150_S0310_G0000_001_terminalR
+JP: 疲レタ、モウボタンを押す度ニ自分のコアが削ラレテ行く気がスル。
+EN: I'm so tired... I feel like my core decays a little every time I press a button.
+RU: 
+
+
+-- Section 37
+
+ID: M6150_S0320_G0000_001_terminalR
+JP: 明ラカに人手不足ダ……
+EN: We're so understaffed, it's ridiculous.
+RU: 
+
+
+-- Section 38
+
+ID: M6150_S0330_G0000_001_terminalR
+JP: 疲レラ……
+EN: I'm tired...
+RU: 
+
+
+-- Section 39
+
+ID: M6150_S0340_G0000_001_terminalR
+JP: 我々ハ何故働カナケレバナラナイノカ……
+EN: Why do we have to work?
+RU: 
+
+
+-- Section 40
+
+ID: M6150_S0350_G0000_001_terminalR
+JP: 仕事が終ワッタと思ッタラ、ソレ以上の仕事が積マレテイタ……
+EN: Just when I thought I was done working, there was another pile of tasks waiting for me...
+RU: 
+
+
+-- Section 41
+
+ID: M6150_S0360_G0000_001_terminalR
+JP: プラトン１７２８か、ナア聞イテクレヨ。
+EN: Oh, hey Plato 1728. You got a second?
+RU: 
+
+ID: M6150_S0360_G0010_001_terminalR
+JP: ココ数ヶ月、端末画面を見スギテ視力が低下シタ気がスルカラメガネを掛ケテミヨウカト思ウンだ。
+EN: I have a feeling my vision has deteriorated because of staring at monitors all day, so I'm thinking of getting glasses.
+RU: 
+
+ID: M6150_S0360_G0020_001_terminalR
+JP: ダケド、メガネを掛ケヨウニモ、機械のオラニハ目ガネェ。ププッ。
+EN: Problem is though, I don't want to make too much of a SPECTACLE of myself. Pfffffffhehehe.
+RU: 
+
+ID: M6150_S0360_G0030_001_terminalR
+JP: ドウダ、最高ダロ。コレハ「ギャグ」と言ッテ人間が使ってイタ高等なコミュニケーションのテクニックナンダ。
+EN: This is what humans called a "pun," a high-level communication technique.
+RU: 
+
+ID: M6150_S0360_G0040_001_terminalR
+JP: 過去の文献で知ッタンダガ、ギャグを言エル者は神の使イトサレ崇メラレテイタラシイ。ドウ、崇メタクナッタ？
+EN: I read in an old book that people who are proficient at puns used to be revered as divine messengers. I like the sound of that!
+RU: 
+
+
+-- Section 42
+
+ID: M6150_S0360_G0050_001_terminalR
+JP: メガネを掛ケタイケド、メガネェ……メガネェッテ、プププ。
+EN: I don't want to make a spectacle of myself by putting on glasses...\nHehehe. Spectacle... So good...
+RU: 
+
+
+-- Section 43
+
+ID: M6150_S0370_G0000_001_terminalR
+JP: 何も考エルナ、何も考えルナ、考えテハイケナイ……
+EN: Don't think, don't think, whatever you do, don't think...
+RU: 
+
+ID: M6150_S0370_G0010_001_terminalR
+JP: ソウダ、イイゾ、コノ調子で手ダケを動カスンダ……
+EN: That's right, just keep moving your hands, don't stop to think...
+RU: 
+
+
+-- Section 44
+
+ID: M6150_S0380_G0000_001_terminalR
+JP: コチラ28地区司令室、地上の部隊ニ告グ。\n物資補給の為、ポイントゼロに移動シて下サイ。
+EN: This is the 28th District Command Center, calling all ground troops. Head to point zero to stock up on supplies.
+RU: 
+
+
+-- Section 45
+
+ID: M6150_S0390_G0000_001_terminalR
+JP: 第17部隊、応答シテ下サイ。
+EN: Squad 17, please respond.
+RU: 
+
+ID: M6150_S0390_G0010_001_terminalR
+JP: ダメダ……ノイズが酷クテ何モ聞コエナイ……
+EN: It's no use... There's too much static, and I can't hear a single thing.
+RU: 
+
+
+-- Section 46
+
+ID: M6150_S0400_G0000_001_terminalR
+JP: メテオライトが不足してイルナ。地上部隊に補給を頼マナクチャ。
+EN: Looks like we're running out of meteorite. I'd better tell the ground troops to stock up.
+RU: 
+
+
+-- Section 47
+
+ID: M6150_S0410_G0000_001_terminalR
+JP: ココ数ヶ月は物資の補給ガ間に合ッテイナイ。\n巨大兵器で大量の物資ガ使ワレテイル影響ガ大キイナ。
+EN: We haven't been able to properly stock up on supplies for months. It's all because of this giant weapon we're building.
+RU: 
+
+
+-- Section 48
+
+ID: M6150_S0420_G0000_001_terminalR
+JP: モウ手ガ限界、戦闘タイプに転向シヨウカナ。
+EN: My hands are getting so tired of this work. Maybe I should convert to a combat model.
+RU: 
+
+
+-- Section 49
+
+ID: M6150_S0430_G0000_001_terminalR
+JP: ハイ、その後デルタ部隊と合流シテ下サイ。
+EN: Yes, please rendezvous with Delta Squad when you're done.
+RU: 
+
+
+-- Section 50
+
+ID: M6150_S0440_G0000_001_terminalR
+JP: コレガ終ワッタラ物資の補給手配をシテ、その次ハ地上部隊と定期連絡をシテその次は……
+EN: When I'm done with this, I need to arrange the supplies, then contact the ground troops, and then...
+RU: 
+
+ID: M6150_S0440_G0010_001_terminalR
+JP: イツ帰レルンダロウカ。
+EN: I don't think I'll be going home today.
+RU: 
+
+
+-- Section 51
+
+ID: M6150_S0441_G0000_001_terminalR
+JP: 第2小隊、出撃を開始して下サイ。
+EN: Second platoon, move out!
+RU: 
+
+
+-- Section 52
+
+ID: M6150_S0442_G0000_001_terminalR
+JP: クソな上司にクソナ仕事に使エナイ同僚、全ク最悪の職場ダヨ。
+EN: My superiors are assholes, my job sucks, my colleagues are useless. This place is the pits.
+RU: 
+
+
+-- Section 53
+
+ID: M6150_S0460_G0000_001_terminalR
+JP: プラトン１７２８か、コンナ所に何かヨウか？\n確か君は今日は運動機能テストダロ。運動部屋は18棟ニアルヨ。
+EN: Hey, Plato 1728. What's up? Aren't you due for a motor functions test today? You have to go to Block 18 for that.
+RU: 
+
+ID: M6150_S0460_G0010_001_terminalR
+JP: 早く行カナイト、マタ叱ラレルゾ。ガンバッテナ。
+EN: Better hurry, or you'll get another earful. Good luck!
+RU: 
+
+
+-- Section 54
+
+ID: M6150_S0470_G0000_001_terminalR
+JP: ヨルハ部隊……何か対策を講ジナケレバ……
+EN: We have to do something about these YoRHa troops...
+RU: 
+
+
+-- Section 55
+
+ID: M6150_S0480_G0000_001_terminalR
+JP: アンドロイドを殲滅しないト戦いは終ワラナイのダロウカ？
+EN: Is there really no other way to end this war than to wipe out all androids?
+RU: 
+
+
+-- Section 56
+
+ID: M6150_S0490_G0000_001_terminalR
+JP: マタ連絡のツカナイ部隊ガ増エタナ。
+EN: We've lost contact with so many troops.
+RU: 
+
+ID: M6150_S0490_G0010_001_terminalR
+JP: 敵にヤラレテシマッタか、ハタマタ脱走か……
+EN: We don't even know if they got destroyed or just deserted.
+RU: 
+
+
+-- Section 57
+
+ID: M6150_S0500_G0000_001_terminalR
+JP: ココ最近デ脱走スル兵士ガ急増シテイルンダ、何カ対策を講ジナケレバ。
+EN: We've had a lot of deserters recently. We really should start doing something.
+RU: 
+
+
+-- Section 58
+
+ID: M6150_S0510_G0000_001_terminalR
+JP: …………………………
+EN: ............
+RU: 
+
+
+-- Section 59
+
+ID: M6150_S0530_G0000_001_terminalR
+JP: 最近アル地区でシュウキョウと言ウものが流行ッテイルラシイ。
+EN: I've heard that something called "religion" is gaining popularity in some districts.
+RU: 
+
+
+-- Section 60
+
+ID: M6150_S0540_G0000_001_terminalR
+JP: コノ部屋の空気ハ最悪ダヨ。
+EN: The air in this room is terrible.
+RU: 
+
+
+-- Section 61
+
+ID: M6150_S0550_G0000_001_terminalR
+JP: 都市周辺部付近ニはレジスタンスの拠点がアルラシイ。
+EN: I've heard rumors there's a Resistance camp somewhere in the city.
+RU: 
+
+ID: M6150_S0550_G0010_001_terminalR
+JP: 何トカ正確な位置を割り出セナイダロウカ。
+EN: We should really find out its exact location.
+RU: 
+
+
+-- Section 62
+
+ID: M6150_S0560_G0000_001_terminalR
+JP: レジスタンスのアンドロイドは一体一体は大シタ事ナイノダガ、奴らの工作活動は侮レナインダ。
+EN: When you take them on individually, Resistance androids aren't much of a threat, but they're good at devising schemes.
+RU: 
+
+
+-- Section 63
+
+ID: M6150_S0565_G0000_001_terminalR
+JP: 全く早く終戦シテ欲シイモノダ……
+EN: I wish this war would end already.
+RU: 
+
+
+-- Section 64
+
+ID: M6150_S0570_G0000_001_terminalR
+JP: 反戦派の奴ラハ臆病者ダ。
+EN: Can you believe these pacifists? They're all just cowards, I tell ya!
+RU: 
+
+ID: M6150_S0570_G0010_001_terminalR
+JP: アンドロイド共は無抵抗の同胞も容赦ナク殺ス悪魔ダ、絶対ニ根絶ヤシニシナケレバ。
+EN: Those androids even kill off their own comrades when they're defenseless. They're demons, and they need to be exterminated immediately!
+RU: 
+
+
+-- Section 65
+
+ID: M6150_S0580_G0000_001_terminalR
+JP: マタ、フリーズダ。コノオンボロ端末メ……
+EN: Geez, this stupid terminal froze on me AGAIN.
+RU: 
+
+
+-- Section 66
+
+ID: M6150_S0590_G0000_001_terminalR
+JP: コンナオンボロの端末で仕事させるナンテ、上層部は本当にケチな奴ラダヨ。
+EN: Why do we have to work with such crappy terminals? My superiors are so stingy!
+RU: 
+
+
+-- Section 67
+
+ID: M6150_S0600_G0000_001_terminalR
+JP: 今日も徹夜カナ……
+EN: Welp, looks like I'll be working through the night again today...
+RU: 
+
+
+-- Section 68
+
+ID: M6150_S0610_G0000_001_terminalR
+JP: 話し掛けルナ、気が散ル。
+EN: Don't talk to me. I'm trying to concentrate.
+RU: 
+
+
+-- Section 69
+
+ID: M6150_S0620_G0000_001_terminalR
+JP: 皆グチグチグチグチ文句バカリ言って、本当にうるさい。
+EN: I'm getting so sick of everyone complaining all the damn time.
+RU: 
+
+ID: M6150_S0620_G0010_001_terminalR
+JP: 我慢して仕事モ出来ナイノカ、全ク。
+EN: Grow up and do your job, geez.
+RU: 
+
+
+-- Section 70
+
+ID: M6150_S0630_G0000_001_terminalR
+JP: オーバーヒートシソウダ……
+EN: I feel like I'm about to overheat...
+RU: 
+
+
+-- Section 71
+
+ID: M6150_S0640_G0000_001_bossR
+JP: ハァー、マタ君デスカ。使エナイ部下を持ツ僕の気持チハ分カリマスカ？
+EN: Oh, it's you again. Do you know what it feels like to be stuck with a subordinate like you?
+RU: 
+
+ID: M6150_S0640_G0010_001_bossR
+JP: ワタシはモウ少しデ帰りマスガ、君はモチロン今日は帰ラズニ仕事をシて下サイネ。
+EN: I'll be going home in a minute, but you'll be staying here for the night, you know that, right?
+RU: 
+
+
+-- Section 72
+
+ID: M6150_S0650_G0000_001_subordinateR
+JP: スイマセン、スイマセン。
+EN: I'm sorry! I'm so sorry!
+RU: 
+
+ID: M6150_S0650_G0010_001_subordinateR
+JP: スケジュールが一週間ホド遅レソウデス。
+EN: I'm behind schedule by about a week...
+RU: 
+
+
+-- Section 73
+
+ID: M6150_S0670_G0000_001_loafR2
+JP: シー、静カニ見ツカルダロ！
+EN: Ssh! Be quiet! I'm trying to hide!
+RU: 
+
+
+-- Section 74
+
+ID: M6150_S0680_G0000_001_putR
+JP: 部屋を整理シテモスグニ汚サレル……
+EN: Every time I clean up this room, it becomes a mess again as soon as I turn around.
+RU: 
+
+
+-- Section 75
+
+ID: M6150_S0690_G0000_001_putR
+JP: 物を運びスギテ、モウ動ケナイ。
+EN: I've been transporting so many materials, my limbs won't move anymore.
+RU: 
+
+
+-- Section 76
+
+ID: M6150_S0700_G0000_001_loafR2
+JP: 仕事をスルフリ、コレガ大事。
+EN: The trick is to LOOK busy.
+RU: 
+
+
+-- Section 77
+
+ID: M6150_S0710_G0000_001_loafR2
+JP: 疲レスギテ何カガ見エル。コレが、コレが神か！
+EN: I'm so tired I'm starting to see things. I-I may have become a god.
+RU: 
+
+
+-- Section 78
+
+ID: M6150_S0720_G0000_001_restR
+JP: オ願い、見過ゴシテ。モウ働キタクナイ。
+EN: Could you leave me alone, please? I'm sick of work.
+RU: 
+
+
+-- Section 79
+
+ID: M6150_S0740_G0000_001_frightenedR
+JP: …………
+EN: ......
+RU: 
+
+

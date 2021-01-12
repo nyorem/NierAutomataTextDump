@@ -1,0 +1,204 @@
+-- Section 1
+
+ID: M1020_S0040_G0000_001_a2b
+JP: あれは……？
+EN: What's that?
+RU: 
+
+ID: M1020_S0040_G0010_001_pod042
+JP: 回答：人類の住居だったエリアの廃墟。
+EN: Analysis: It is the ruin of a former human residential area.
+RU: 
+
+ID: M1020_S0040_G0020_001_pod042
+JP: 鉄骨とコンクリートで出来た高層建築に大勢で居住し、
+EN: Large numbers of humans resided in such concrete and metal shelters.
+RU: 
+
+ID: M1020_S0040_G0030_001_pod042
+JP: 『マンモス団地』などと呼ばれていた。
+EN: The structures were referred to by names such as "apartment complex."
+RU: 
+
+
+-- Section 2
+
+ID: M1020_S0040_G0000_001_a2b
+JP: あれは……？
+EN: What's that?
+RU: 
+
+ID: M1020_S0040_G0010_001_pod042
+JP: 回答：人類の住居だったエリアの廃墟。
+EN: Analysis: It is the ruin of a former human residential area.
+RU: 
+
+ID: M1020_S0040_G0020_001_pod042
+JP: 鉄骨とコンクリートで出来た高層建築に大勢で居住し、
+EN: Large numbers of humans resided in such concrete and metal shelters.
+RU: 
+
+ID: M1020_S0040_G0030_001_pod042
+JP: 『マンモス団地』などと呼ばれていた。
+EN: The structures were referred to by names such as "apartment complex."
+RU: 
+
+ID: M1020_S0040_G0040_021_a9s
+JP: わざわざ大勢で集まって住むなんて……
+EN: I wonder why they insisted on living in such large groups.
+RU: 
+
+ID: M1020_S0040_G0050_021_a9s
+JP: 昔もこのあたりは危険だったのかな。
+EN: Things must have been really dangerous around here, huh?
+RU: 
+
+ID: M1020_S0040_G0060_021_pod153
+JP: 否定：集団で住んでいたのは土地の不足による経済的な理由。
+EN: Negative. Living conditions were mandated by economic imbalance and a lack of space.
+RU: 
+
+ID: M1020_S0040_G0070_021_a9s
+JP: ふぅーん。人間って、変わってるなあ。
+EN: Man, humans sure are weird creatures.
+RU: 
+
+
+-- Section 3
+
+ID: M1020_S0040_G0080_001_n02
+JP: オマエタチ　ヒト　デ　ナイ
+EN: You. Not. People.
+RU: 
+
+
+-- Section 4
+
+ID: M1020_S0040_G0212_001_n02
+JP: ニゲロ　ニゲロ
+EN: Run! Run!
+RU: 
+
+
+-- Section 5
+
+ID: M1020_S0040_G0080_300_a9s
+JP: ターゲットを視認しました。追いかけましょう。
+EN: Target confirmed. Let's get 'em.
+RU: 
+
+
+-- Section 6
+
+ID: M1020_S0040_G0100_001_n02
+JP: コンニチハ　ゴキゲンヨウ
+EN: Hello. How are you?
+RU: 
+
+ID: M1020_S0040_G0090_001_n02
+JP: イイ　テンキ　キョウ　ハ
+EN: Nice. Weather. Today.
+RU: 
+
+
+-- Section 7
+
+ID: M1020_S0040_G0110_001_n02
+JP: アンドロイド　ハ　コワイ
+EN: Androids. Are. Scary.
+RU: 
+
+ID: M1020_S0040_G0120_001_n02
+JP: コワイ……カラ　コロス
+EN: Scary. So...kill.
+RU: 
+
+
+-- Section 8
+
+ID: M1020_S0040_G0130_001_n02
+JP: ドウシテ　ドウシテ　ドウシテ
+EN: Why? Why? Why?
+RU: 
+
+ID: M1020_S0040_G0140_001_n02
+JP: ヤメテ　コワイ　コナイデ　ヒドイ。
+EN: Stop. Scary. Cruel. Stay back.
+RU: 
+
+ID: M1020_S0040_G0150_001_n02
+JP: イタイ　イタイ　イタイイタイイタイイイイイイ
+EN: Ow. Ow. Owowowowowowowow...
+RU: 
+
+
+-- Section 9
+
+ID: M1020_S0040_G0160_001_n02
+JP: ミンナ　シンダ
+EN: Everyone. Dead.
+RU: 
+
+ID: M1020_S0040_G0170_001_n02
+JP: オマエタチ　ハ　ニセモノ
+EN: You. Are. False.
+RU: 
+
+ID: M1020_S0040_G0180_001_n02
+JP: イズレ　コワレテ
+EN: You. Will. Break.
+RU: 
+
+
+-- Section 10
+
+ID: M1020_S0040_G0213_001_n02
+JP: ニゲロ　ニゲロ
+EN: Run! Run!
+RU: 
+
+
+-- Section 11
+
+ID: M1020_S0040_G0215_001_n02
+JP: アッ　マチガエタ！
+EN: Aaaah! Not this way!
+RU: 
+
+
+-- Section 12
+
+ID: M1020_S0040_G0190_001_a9s
+JP: どういう基準で言葉を選んでるんだろう……
+EN: I wonder what makes them choose these words...
+RU: 
+
+
+-- Section 13
+
+ID: M1020_S0040_G0200_001_a2b
+JP: アンドロイド達の……死体。
+EN: These are android bodies...
+RU: 
+
+ID: M1020_S0040_G0201_001_pod042
+JP: 推測：当地域に生息する機械生命体によるもの。
+EN: Hypothesis: They were killed by local machine lifeforms.
+RU: 
+
+ID: M1020_S0040_G0210_001_a9s
+JP: なんでこんな場所に……
+EN: What are they doing here?
+RU: 
+
+ID: M1020_S0040_G0211_001_pod042
+JP: 理由：不明。
+EN: Unknown.
+RU: 
+
+ID: M1020_S0040_G0220_001_a9s
+JP: まるで、集められているような感じですね。
+EN: It's like they were gathered here.
+RU: 
+
+

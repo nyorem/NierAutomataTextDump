@@ -1,0 +1,205 @@
+-- Section 1
+
+ID: M3060_S0640_G0020_001_a2
+JP: クソッ！何でまだ動けるんだ！？
+EN: Is this thing SERIOUSLY still kicking!?
+RU: 
+
+ID: M3060_S0640_G0030_001_pod042
+JP: 推測：敵サーバーの残存データによるもの。
+EN: Speculation: It is driven by remaining data located within enemy servers.
+RU: 
+
+ID: M3060_S0640_G0040_001_a2
+JP: 結局……全部倒すまで続くって事か！
+EN: So this just keeps going until I kill 'em all!?
+RU: 
+
+ID: M3060_S0640_G0050_001_spider
+JP: ワタシ……達ハ……
+EN: We...we are...
+RU: 
+
+ID: M3060_S0640_G0000_001_spider
+JP: ネット……ワーク……
+EN: Net...work...
+RU: 
+
+ID: M3060_S0640_G0010_001_spider
+JP: アンド……ロイド
+EN: An...droids...
+RU: 
+
+ID: M3060_S0640_G0270_001_spider
+JP: 失う……キズナ。
+EN: Bonds...are lost.
+RU: 
+
+ID: M3060_S0640_G0280_001_spider
+JP: 誰カココに……ボクの穴を……
+EN: Someone... This hole...
+RU: 
+
+ID: M3060_S0640_G0290_001_spider
+JP: 穴を、フサイデ
+EN: Fill in this hole...
+RU: 
+
+ID: M3060_S0640_G0300_001_a2
+JP: あの機械……
+EN: This is messed up.
+RU: 
+
+ID: M3060_S0640_G0310_001_a2
+JP: 何をグズグズと喋ってるんだ！？
+EN: What the hell is this thing going on about?
+RU: 
+
+ID: M3060_S0640_G0320_001_pod042
+JP: 報告：敵の過去記憶の流出。
+EN: Analysis: It appears to be a leak of the enemy's past memories.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0640_G0550_001_a2
+JP: あのガレキは……？
+EN: What's all this junk?
+RU: 
+
+ID: M3060_S0640_G0560_001_pod042
+JP: 不明。何かの資材にする可能性。
+EN: Speculation: It is a resource of some kind.
+RU: 
+
+ID: M3060_S0640_G0570_001_a2
+JP: 資材……何を作るんだ？
+EN: Used to make what?
+RU: 
+
+ID: M3060_S0640_G0580_001_pod042
+JP: 不明。
+EN: Unknown.
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S0640_G0330_001_spider
+JP: 信じてた信じてたシンジテタ死んじ
+EN: I believed you, I believed you, I beLIEved you...
+RU: 
+
+ID: M3060_S0640_G0340_001_spider
+JP: 神にナッタ神になった神になったダレがなった？
+EN: Become a god, become a god, become a god, who has become?
+RU: 
+
+
+-- Section 4
+
+ID: M3060_S0640_G0350_001_spider
+JP: 命をウバウ命を、命ヲウバウんだ
+EN: Take their... Take their lives... Take their...
+RU: 
+
+ID: M3060_S0640_G0360_001_spider
+JP: 神ニナル！
+EN: Become as gods!
+RU: 
+
+ID: M3060_S0640_G0370_001_spider
+JP: 神に！神に！……神ニ！
+EN: As gods! As gods! ...as gods!
+RU: 
+
+ID: M3060_S0640_G0380_001_spider
+JP: タイセツなモノ失う
+EN: Lose what is precious...
+RU: 
+
+ID: M3060_S0640_G0390_001_spider
+JP: 失った……壊れた
+EN: Lost...destroyed...
+RU: 
+
+ID: M3060_S0640_G0400_001_spider
+JP: だから、お前達も……コワス
+EN: So we destroy you too...
+RU: 
+
+
+-- Section 5
+
+ID: M3060_S0640_G0410_001_spider
+JP: ホシに……向かおう
+EN: Look...at the stars...
+RU: 
+
+ID: M3060_S0640_G0420_001_spider
+JP: 歌を……うたおう
+EN: Sing...a song...
+RU: 
+
+ID: M3060_S0640_G0430_001_spider
+JP: ササゲル……今……
+EN: Dedicate...now...
+RU: 
+
+ID: M3060_S0640_G0440_001_spider
+JP: 僕達は機械生命体
+EN: We are machines.
+RU: 
+
+ID: M3060_S0640_G0450_001_spider
+JP: 僕達は機械生命体
+EN: We are machines.
+RU: 
+
+ID: M3060_S0640_G0460_001_spider
+JP: 君達はアンドロイド
+EN: You are androids.
+RU: 
+
+ID: M3060_S0640_G0470_001_spider
+JP: 君達はアンドロイド
+EN: You are androids.
+RU: 
+
+ID: M3060_S0640_G0480_001_spider
+JP: 私達は敵同士
+EN: Mutual enemies.
+RU: 
+
+ID: M3060_S0640_G0490_001_spider
+JP: 戦う運命
+EN: Doomed to fight.
+RU: 
+
+ID: M3060_S0640_G0500_001_spider
+JP: 君は、何故生存するのか。
+EN: Why do you live?
+RU: 
+
+ID: M3060_S0640_G0510_001_spider
+JP: 僕は、何故存在するのか。
+EN: Why do we exist?
+RU: 
+
+ID: M3060_S0640_G0520_001_spider
+JP: ああ、光が見える。
+EN: I see...light.
+RU: 
+
+ID: M3060_S0640_G0530_001_spider
+JP: 光が。
+EN: The light.
+RU: 
+
+ID: M3060_S0640_G0540_001_spider
+JP: 僕達は空に飛ぶんだ。
+EN: We will soar through the sky.
+RU: 
+
+

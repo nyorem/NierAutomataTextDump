@@ -1,0 +1,121 @@
+-- Section 1
+
+ID: M3020_S0040_G0080_001_n02
+JP: 我が……王のカタキ……！
+EN: Revenge for our king!
+RU: 
+
+
+-- Section 2
+
+ID: M3020_S0040_G0090_001_n02
+JP: オウサマ……王サマ！
+EN: My king... My king...
+RU: 
+
+
+-- Section 3
+
+ID: M3020_S0040_G0080_001_n02
+JP: 我が……王のカタキ……！
+EN: Revenge for our king!
+RU: 
+
+
+-- Section 4
+
+ID: M3020_S0040_G0100_001_n02
+JP: ニンゲンめ……！
+EN: Accursed humans!
+RU: 
+
+
+-- Section 5
+
+ID: M3020_S0040_G0100_001_n02
+JP: ニンゲンめ……！
+EN: Accursed humans!
+RU: 
+
+ID: M3020_S0040_G0080_001_n02
+JP: 我が……王のカタキ……！
+EN: Revenge for our king!
+RU: 
+
+
+-- Section 6
+
+ID: M3020_S0040_G0090_001_n02
+JP: オウサマ……王サマ！
+EN: My king... My king...
+RU: 
+
+
+-- Section 7
+
+ID: M3020_S0040_G0080_001_n02
+JP: 我が……王のカタキ……！
+EN: Revenge for our king!
+RU: 
+
+
+-- Section 8
+
+ID: M3020_S0040_G0090_001_n02
+JP: オウサマ……王サマ！
+EN: My king... My king...
+RU: 
+
+
+-- Section 9
+
+ID: M3020_S0040_G0100_001_n02
+JP: ニンゲンめ……！
+EN: Accursed humans!
+RU: 
+
+ID: M3020_S0040_G0080_001_n02
+JP: 我が……王のカタキ……！
+EN: Revenge for our king!
+RU: 
+
+
+-- Section 10
+
+ID: M1050_S0190_G0130_300_n02
+JP: 我らが森の王の為に！！
+EN: For the king of our forest!
+RU: 
+
+
+-- Section 11
+
+ID: M1050_S0197_G0050_300_n02
+JP: これ以上貴様らに何も奪わせはしない！
+EN: Don't let them take anything else from us!
+RU: 
+
+ID: M1050_S0197_G0060_300_n02
+JP: この国から出て行けー！
+EN: Leave our kingdom!
+RU: 
+
+
+-- Section 12
+
+ID: M3020_S0040_G0080_001_n02
+JP: 我が……王のカタキ……！
+EN: Revenge for our king!
+RU: 
+
+ID: M3020_S0040_G0090_001_n02
+JP: オウサマ……王サマ！
+EN: My king... My king...
+RU: 
+
+ID: M3020_S0040_G0100_001_n02
+JP: ニンゲンめ……！
+EN: Accursed humans!
+RU: 
+
+

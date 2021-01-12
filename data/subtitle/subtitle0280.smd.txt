@@ -1,0 +1,25 @@
+ID: M1030_S0115_S0000_201_a9s
+JP: キカイは、見つけました。
+EN: They were found by the machines.
+RU: 
+
+ID: M1030_S0115_S0010_201_a9s
+JP: それをキカイはタカラモノと呼んでいました。
+EN: The machines called them "treasures."
+RU: 
+
+ID: M1030_S0115_S0020_201_a9s
+JP: タカラモノの形は、みんな違いました。
+EN: Each treasure had a different shape.
+RU: 
+
+ID: M1030_S0115_S0030_201_a9s
+JP: タカラモノの形は……
+EN: Each treasure had a different...
+RU: 
+
+ID: M1030_S0115_S0040_201_a9s
+JP: みんな違いました。
+EN: shape.
+RU: 
+

@@ -1,0 +1,124 @@
+-- Section 1
+
+ID: M5920_S0110_G0050_001_a2b
+JP: こちらヨルハ部隊所属、２Ｂ……
+EN: This is YoRHa unit 2B...
+RU: 
+
+
+-- Section 2
+
+ID: M5920_S0110_G0000_001_pod153
+JP: ヨルハ部隊飛行ユニットの残骸。
+EN: The remains of a YoRHa flight unit.
+RU: 
+
+ID: M5920_S0110_G0010_001_pod153
+JP: 報告：当機体よりヨルハ機体２ＢのＩＤを確認。
+EN: ID of YoRHa unit 2B confirmed within the craft.
+RU: 
+
+ID: M5920_S0110_G0020_001_a9s
+JP: ２Ｂの機体……
+EN: This belonged to 2B...
+RU: 
+
+ID: M5920_S0110_G0030_001_pod153
+JP: 飛行ユニットのメモリー内に未送信メッセージを確認。
+EN: Unsent message found within memory of flight unit.
+RU: 
+
+ID: M5920_S0110_G0040_001_a9s
+JP: ……再生。
+EN: Play it.
+RU: 
+
+ID: M5920_S0110_G0050_001_a2b
+JP: こちらヨルハ部隊所属、２Ｂ……
+EN: This is YoRHa unit 2B...
+RU: 
+
+ID: M5920_S0110_G0060_001_a2b
+JP: この記録を聞いた者がいたら、伝えて欲しい……事がある……
+EN: If anyone is listening to this, there's something I need you to do.
+RU: 
+
+ID: M5920_S0110_G0070_001_a2b
+JP: もし、ヨルハ部隊所属９Ｓに会う事があったら……
+EN: If you ever meet up with YoRHa unit 9S...
+RU: 
+
+ID: M5920_S0110_G0080_001_a2b
+JP: 私は……彼に……
+EN: I want him... I mean...
+RU: 
+
+ID: M5920_S0110_G0090_001_a2b
+JP: ……すまない。彼へのメッセージは……
+EN: I'm sorry. Please just give him the following message:
+RU: 
+
+ID: M5920_S0110_G0100_001_a2b
+JP: ９Ｓ、君と、一緒に過ごした日は……私にとって……
+EN: 9S...the time I was able to spend with you...
+RU: 
+
+ID: M5920_S0110_G0110_001_a2b
+JP: 光のような思い出だった……
+EN: It was like memories of pure light...
+RU: 
+
+ID: M5920_S0110_G0120_001_a2b
+JP: ありがとう……ナイン……ズ。
+EN: Thank you...Nine...s.
+RU: 
+
+ID: M5920_S0110_G0130_001_pod153
+JP: メッセージは以上。
+EN: End of message.
+RU: 
+
+ID: M5920_S0110_G0140_001_a9s
+JP: ……２Ｂ。
+EN: Oh, 2B...
+RU: 
+
+
+-- Section 3
+
+ID: M5920_S0110_G0150_001_pod042
+JP: ヨルハ部隊飛行ユニットの残骸。
+EN: The remains of a YoRHa flight unit.
+RU: 
+
+ID: M5920_S0110_G0160_001_pod042
+JP: 当機体はヨルハ機体２Ｂの所有機体だった。
+EN: ID of YoRHa unit 2B confirmed within craft.
+RU: 
+
+ID: M5920_S0110_G0170_001_a2
+JP: ２Ｂの機体……
+EN: 2B, huh?
+RU: 
+
+ID: M5920_S0110_G0180_001_pod042
+JP: 飛行ユニットのメモリー内に未送信メッセージを確認。
+EN: Unsent message found within memory of flight unit.
+RU: 
+
+ID: M5920_S0110_G0190_001_a2
+JP: ……そのままにしておこう。
+EN: Leave it.
+RU: 
+
+ID: M5920_S0110_G0200_001_a2
+JP: きっと、私が読むべき物じゃないだろうから。
+EN: It's not my business.
+RU: 
+
+ID: M5920_S0110_G0210_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+

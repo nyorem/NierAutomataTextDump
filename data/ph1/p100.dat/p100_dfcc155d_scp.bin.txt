@@ -1,0 +1,44 @@
+-- Section 1
+
+ID: M0010_S0100_G0000_101_a2b
+JP: これが……目標大型兵器！？
+EN: Is that our target?
+RU: 
+
+ID: M0010_S0100_G0010_101_pod042
+JP: 否定：当該敵は目標ではない。
+EN: Negative. This enemy is unrelated.
+RU: 
+
+ID: M0010_S0100_G0020_101_pod042
+JP: 速やかな排除を推奨。
+EN: Proposal: Dispatch it as swiftly as possible.
+RU: 
+
+ID: M0010_S0100_G0030_101_a2b
+JP: 簡単に言う……ッ
+EN: You don't say.
+RU: 
+
+
+-- Section 2
+
+ID: M0010_S0100_G0040_101_pod042
+JP: レーザー通信回復。
+EN: Laser communications recovered.
+RU: 
+
+ID: M0010_S0100_G0050_101_op60
+JP: ２Ｂさん、今……ポッド・プロ……送信し……
+EN: 2B...transmitting...Pod prog...!
+RU: 
+
+
+-- Section 3
+
+ID: M0010_S0100_G0060_101_pod042
+JP: ポッド・プログラムのダウンロードを終了。
+EN: Pod program download complete.
+RU: 
+
+

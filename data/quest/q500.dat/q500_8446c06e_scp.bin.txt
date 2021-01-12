@@ -1,0 +1,953 @@
+-- Section 1
+
+ID: M5500_S0010_G0000_001_andwoman
+JP: ……！
+EN: Ah!
+RU: 
+
+ID: M5500_S0010_G0010_001_andman
+JP: くそッ！まずい……！
+EN: Oh no!
+RU: 
+
+ID: M5500_S0010_G0020_001_a9s
+JP: ち、ちょっと。
+EN: Sorry, is something wro—
+RU: 
+
+ID: M5500_S0010_G0030_001_andwoman
+JP: お願い、見逃して！
+EN: Mercy! Please, just let us go!
+RU: 
+
+ID: M5500_S0010_G0040_001_a9s
+JP: えーっと……何か勘違いされていませんか？
+EN: Um, I think there might be some kind of misunderstanding here.
+RU: 
+
+ID: M5500_S0010_G0050_001_andman
+JP: ……君は、俺達を捕まえに来たんじゃないんか？
+EN: You mean you aren't here to arrest us?
+RU: 
+
+ID: M5500_S0010_G0060_001_a9s
+JP: 違いますよ！
+EN: Noooo.
+RU: 
+
+ID: M5500_S0010_G0070_001_a9s
+JP: 一体、何があったんですか？
+EN: Wait, why do you think I'd arrest you?
+RU: 
+
+ID: M5500_S0010_G0080_001_andwoman
+JP: ……私達、脱走したの。レジスタンスキャンプから。
+EN: We...deserted the Resistance.
+RU: 
+
+ID: M5500_S0010_G0090_001_a9s
+JP: 脱走！？
+EN: You what?
+RU: 
+
+ID: M5500_S0010_G0100_001_andman
+JP: もう戦いなんて嫌なんだ！\n俺達は、ただ2人で静かに暮らしたいだけなんだよ！
+EN: We just want to find a place where the two of us can live our lives in peace. Is that so wrong?
+RU: 
+
+ID: M5500_S0010_G0110_001_andwoman
+JP: ねえ、お願い。ここに私達がいる事は内緒にして？
+EN: Please don't tell anyone that we're here. Please!
+RU: 
+
+ID: M5500_S0010_G0120_001_a2b
+JP: 私達はヨルハ部隊。レジスタンスとは違う組織。
+EN: We're not with the Resistance. We're YoRHa.
+RU: 
+
+ID: M5500_S0010_G0130_001_a2b
+JP: 貴方達の事を報告する義務はない。
+EN: We don't have any obligation to report you to your superiors.
+RU: 
+
+ID: M5500_S0010_G0140_001_andwoman
+JP: 良かった……
+EN: Thank goodness...
+RU: 
+
+ID: M5500_S0010_G0150_001_a9s
+JP: でも、こんな所にいても、いつか見つかりますよ……？
+EN: Still, if you guys stay here, they're going to find you eventually.
+RU: 
+
+ID: M5500_S0010_G0160_001_andman
+JP: 判ってる。だが、体が上手く動かないんだ。\nメンテナンスの部品が無くて……
+EN: We don't have a choice. My locomotion functions have been damaged, and we don't have the necessary materials to perform repairs.
+RU: 
+
+ID: M5500_S0010_G0170_001_andwoman
+JP: あの、すごく厚かましいかもしれないけど、\nメンテナンスに必要な素材を持ってきてくれないかしら？
+EN: Er...I don't suppose you'd bring us the materials we need?
+RU: 
+
+ID: M5500_S0010_G0180_001_a9s
+JP: え？僕達が？
+EN: Huh? Who, us?
+RU: 
+
+ID: M5500_S0010_G0190_001_andwoman
+JP: 私達は動き回るわけにはいかないの。
+EN: We can't get them ourselves—if we leave this place, we'll be found for certain.
+RU: 
+
+ID: M5500_S0010_G0200_001_andwoman
+JP: 報酬は弾むから……お願い！
+EN: I know it's a lot to ask, but we promise to reward you... Please?
+RU: 
+
+ID: M5500_S0010_G0210_001_sele
+JP: 協力する。
+EN: Help the deserters.
+RU: 
+
+ID: M5500_S0010_G0220_001_sele
+JP: 協力しない。
+EN: Leave them to their fate.
+RU: 
+
+
+-- Section 2
+
+ID: M5500_S0010_G0230_001_andwoman
+JP: ああ、助かるわ。メンテナンスには『精巧な機械』が必要なの。
+EN: Thank you. We just need an elaborate gadget to conduct the repairs.
+RU: 
+
+ID: M5500_S0010_G0240_001_andwoman
+JP: 以前、廃工場付近で見かけたわ。
+EN: I saw one near the abandoned factory.
+RU: 
+
+ID: M5500_S0010_G0250_001_andman
+JP: アンタを信じてる。頼んだぞ。
+EN: Thank you again. We know you can do this.
+RU: 
+
+
+-- Section 3
+
+ID: M5500_S0010_G0260_001_andman
+JP: きっとここにも、レジスタンスの追手がやってくる。\n俺達はただ2人で静かに暮らしたいだけなのに……
+EN: I know the Resistance will be here soon, but all we desire is a quiet life for ourselves.
+RU: 
+
+
+-- Section 4
+
+ID: M5500_S0010_G0270_001_andwoman
+JP: メンテナンスに必要な素材を持ってきてくれないかしら？\nそうしたら、ここを去るから……お願い！
+EN: Please bring us the parts we need so we can get out of here!
+RU: 
+
+ID: M5500_S0010_G0210_001_sele
+JP: 協力する。
+EN: Help the deserters.
+RU: 
+
+ID: M5500_S0010_G0220_001_sele
+JP: 協力しない。
+EN: Leave them to their fate.
+RU: 
+
+
+-- Section 5
+
+ID: M5500_S0010_G0230_001_andwoman
+JP: ああ、助かるわ。メンテナンスには『精巧な機械』が必要なの。
+EN: Thank you. We just need an elaborate gadget to conduct the repairs.
+RU: 
+
+ID: M5500_S0010_G0240_001_andwoman
+JP: 以前、廃工場付近で見かけたわ。
+EN: I saw one near the abandoned factory.
+RU: 
+
+ID: M5500_S0010_G0250_001_andman
+JP: アンタを信じてる。頼んだぞ。
+EN: Thank you again. We know you can do this.
+RU: 
+
+
+-- Section 6
+
+ID: M5500_S0010_G0250_001_andman
+JP: アンタを信じてる。頼んだぞ。
+EN: Thank you again. We know you can do this.
+RU: 
+
+
+-- Section 7
+
+ID: M5500_S0020_G0000_001_andwoman
+JP: ああ、これよ！これがあればメンテナンス出来るわ！
+EN: That's it! Now my companion can fix what's been ailing him.
+RU: 
+
+ID: M5500_S0020_G0010_001_andman
+JP: ありがとう。アンタを信じて良かった。
+EN: I'm so glad we trusted you.
+RU: 
+
+ID: M5500_S0020_G0020_001_andman
+JP: メンテナンスが終わったら、ここを去るよ。どうか俺達の無事を祈ってくれ。
+EN: We'll leave this place as soon as we can. Please pray for our safe passage.
+RU: 
+
+
+-- Section 8
+
+ID: M5500_S0020_G0020_001_andman
+JP: メンテナンスが終わったら、ここを去るよ。どうか俺達の無事を祈ってくれ。
+EN: We'll leave this place as soon as we can. Please pray for our safe passage.
+RU: 
+
+
+-- Section 9
+
+ID: M5500_S0020_G0030_001_n02
+JP: ココにいたアンドロイドさん、出てイッテしまったんデスね。
+EN: THE ANDROIDS THAT WERE HERE HAVE LEFT.
+RU: 
+
+ID: M5500_S0020_G0035_001_n02
+JP: ボクも海の向こうにイッテみたいナ……
+EN: I'D LOVE TO GO BEYOND THE SEA TOO...
+RU: 
+
+
+-- Section 10
+
+ID: M5500_S0020_G0040_001_n02
+JP: ドコカデ無事ニイルトイイケド……２人ノ幸セヲネガウヨ。
+EN: I HOPE THEY FIND THE HAPPINESS THEY SEEK.
+RU: 
+
+
+-- Section 11
+
+ID: M5500_S0020_G0050_001_andman
+JP: 俺達の事を覚えているか？アンタに助けてもらった……
+EN: Oh, hello! Remember us? You saved our hides a little while back.
+RU: 
+
+ID: M5500_S0020_G0060_001_andman
+JP: あの時は助かったよ。ありがとう。
+EN: Thank you again for your help.
+RU: 
+
+ID: M5500_S0020_G0070_001_andwoman
+JP: ……実は、お願いがあるんだけどいいかしら？
+EN: I know this is awkward, but if you have the time, we could actually use your assistance again.
+RU: 
+
+ID: M5500_S0020_G0080_001_andman
+JP: バカ、やめろ！これ以上、巻き込むな！
+EN: Don't you dare ask for more help!
+RU: 
+
+ID: M5500_S0020_G0090_001_andwoman
+JP: でも……
+EN: But...
+RU: 
+
+ID: M5500_S0020_G0100_001_a9s
+JP: どうかしたんですか？また修理用の素材が欲しいとか？
+EN: No, what is it? Do you need more parts to repair yourselves?
+RU: 
+
+ID: M5500_S0020_G0110_001_andman
+JP: いや、その……
+EN: I won't accept—
+RU: 
+
+ID: M5500_S0020_G0120_001_andwoman
+JP: 変なプライドを持ってたって仕方がないでしょ？\n困ってるのは事実なんだから。
+EN: Put your pride aside, you foolish man! We need the help and you know it.
+RU: 
+
+ID: M5500_S0020_G0130_001_andman
+JP: しかし……
+EN: I know, but...
+RU: 
+
+ID: M5500_S0020_G0140_001_andwoman
+JP: ああもう、アナタってばいつもそう。いいから黙ってて。
+EN: Why must you always be so stubborn!? Just let me handle this.
+RU: 
+
+ID: M5500_S0020_G0150_001_andwoman
+JP: あのね、私達、海の向こうの別エリアに逃げようと思ってるの。
+EN: Yes, we need your help, but not with finding parts. We're actually trying to flee to a land across the sea.
+RU: 
+
+ID: M5500_S0020_G0160_001_a9s
+JP: そうなんですね……でも、どうやって？
+EN: Oh. How's that going to work?
+RU: 
+
+ID: M5500_S0020_G0170_001_andwoman
+JP: 逃がしてくれるモグリのレジスタンスがいるのよ。\n『逃がし屋』って呼ばれてる。
+EN: There's a sympathetic figure in the Resistance who's offered to help us. People refer to him as "The Emancipator."
+RU: 
+
+ID: M5500_S0020_G0180_001_andwoman
+JP: でも、かなりのお金が必要で……
+EN: However, he doesn't work for free.
+RU: 
+
+ID: M5500_S0020_G0190_001_andwoman
+JP: ずばり私達、５００００Ｇほど欲しいの。持ってたらカンパしてくれないかしら？
+EN: I'll be frank: We need 50,000 G in order to secure his services. Would you be willing to donate it to our cause?
+RU: 
+
+ID: M5500_S0020_G0200_001_sele
+JP: ５００００Ｇ渡す。
+EN: Give them 50,000 G.
+RU: 
+
+ID: M5500_S0020_G0210_001_sele
+JP: 渡さない。
+EN: Refuse.
+RU: 
+
+
+-- Section 12
+
+ID: M5500_S0020_G0220_001_andwoman
+JP: ほ、本当にいいの！？ありがとう！
+EN: Y-You will? Oh, thank you so much!
+RU: 
+
+ID: M5500_S0020_G0230_001_andman
+JP: すまない。俺が不甲斐ないばかりに……
+EN: I don't know what to say. We really don't deserve such generosity...
+RU: 
+
+ID: M5500_S0020_G0240_001_andman
+JP: いつか、きっと返す。誓うよ。
+EN: But we'll pay it back someday. I swear we will!
+RU: 
+
+
+-- Section 13
+
+ID: M5500_S0020_G0251_001_andwoman
+JP: あら、今は手持ちがないようね
+EN: Hmm, looks like you don't have the money on you.
+RU: 
+
+ID: M5500_S0020_G0252_001_andwoman
+JP: 用意できたら、また来てくれる？
+EN: Come back when you have enough, okay?
+RU: 
+
+
+-- Section 14
+
+ID: M5500_S0020_G0060_001_andman
+JP: あの時は助かったよ。ありがとう。
+EN: Thank you again for your help.
+RU: 
+
+
+-- Section 15
+
+ID: M5500_S0020_G0250_001_andwoman
+JP: 海の向こうに逃げるには５００００Ｇほど必要なの。\n持っていたらカンパしてくれないかしら？
+EN: We need 50,000 G in order to escape this place. Would you be willing to help us?
+RU: 
+
+ID: M5500_S0020_G0200_001_sele
+JP: ５００００Ｇ渡す。
+EN: Give them 50,000 G.
+RU: 
+
+ID: M5500_S0020_G0210_001_sele
+JP: 渡さない。
+EN: Refuse.
+RU: 
+
+
+-- Section 16
+
+ID: M5500_S0020_G0220_001_andwoman
+JP: ほ、本当にいいの！？ありがとう！
+EN: Y-You will? Oh, thank you so much!
+RU: 
+
+ID: M5500_S0020_G0230_001_andman
+JP: すまない。俺が不甲斐ないばかりに……
+EN: I don't know what to say. We really don't deserve such generosity...
+RU: 
+
+ID: M5500_S0020_G0240_001_andman
+JP: いつか、きっと返す。誓うよ。
+EN: But we'll pay it back someday. I swear we will!
+RU: 
+
+
+-- Section 17
+
+ID: M5500_S0020_G0251_001_andwoman
+JP: あら、今は手持ちがないようね
+EN: Hmm, looks like you don't have the money on you.
+RU: 
+
+ID: M5500_S0020_G0252_001_andwoman
+JP: 用意できたら、また来てくれる？
+EN: Come back when you have enough, okay?
+RU: 
+
+
+-- Section 18
+
+ID: M5500_S0020_G0060_001_andman
+JP: あの時は助かったよ。ありがとう。
+EN: Thank you again for your help.
+RU: 
+
+
+-- Section 19
+
+ID: M5500_S0020_G0230_001_andman
+JP: すまない。俺が不甲斐ないばかりに……
+EN: I don't know what to say. We really don't deserve such generosity...
+RU: 
+
+ID: M5500_S0020_G0240_001_andman
+JP: いつか、きっと返す。誓うよ。
+EN: But we'll pay it back someday. I swear we will!
+RU: 
+
+
+-- Section 20
+
+ID: M5500_S0020_G0260_001_andman
+JP: う……あ……
+EN: Nnnngh... Hrrrgh...
+RU: 
+
+ID: M5500_S0020_G0270_001_a9s
+JP: 大丈夫ですか！？一体ここで何が！？
+EN: Are you all right? What happened?
+RU: 
+
+ID: M5500_S0020_G0280_001_andman
+JP: に、逃がし屋にいきなり襲われて……！
+EN: The Emancipator...attacked...
+RU: 
+
+ID: M5500_S0020_G0290_001_andman
+JP: あいつ、最初から俺達を騙すつもりでいたんだ。
+EN: He was swindling us from the start.
+RU: 
+
+ID: M5500_S0020_G0300_001_a9s
+JP: もう一人はどうしたんですか！？
+EN: What happened to the woman who was with you?
+RU: 
+
+ID: M5500_S0020_G0310_001_andman
+JP: か、彼女は、俺を守る為に囮になってここから離れた……
+EN: She fled... She was trying to act as a decoy in order to keep me safe...
+RU: 
+
+ID: M5500_S0020_G0320_001_andman
+JP: どうか、彼女を探すのを手伝ってくれないか！？
+EN: P-Please... You must help me find her!
+RU: 
+
+ID: M5500_S0020_G0330_001_sele
+JP: 助ける。
+EN: Help the man.
+RU: 
+
+ID: M5500_S0020_G0340_001_sele
+JP: 助けない。
+EN: Refuse.
+RU: 
+
+
+-- Section 21
+
+ID: M5500_S0020_G0350_001_andman
+JP: ありがとう……彼女の生体コードを渡しておく。どうか頼む！
+EN: Thank you. Here's her bio-code—it should help you find her.
+RU: 
+
+
+-- Section 22
+
+ID: M5500_S0020_G0350_001_andman
+JP: ありがとう……彼女の生体コードを渡しておく。どうか頼む！
+EN: Thank you. Here's her bio-code—it should help you find her.
+RU: 
+
+
+-- Section 23
+
+ID: M5500_S0020_G0320_001_andman
+JP: どうか、彼女を探すのを手伝ってくれないか！？
+EN: P-Please... You must help me find her!
+RU: 
+
+ID: M5500_S0020_G0330_001_sele
+JP: 助ける。
+EN: Help the man.
+RU: 
+
+ID: M5500_S0020_G0340_001_sele
+JP: 助けない。
+EN: Refuse.
+RU: 
+
+
+-- Section 24
+
+ID: M5500_S0020_G0350_001_andman
+JP: ありがとう……彼女の生体コードを渡しておく。どうか頼む！
+EN: Thank you. Here's her bio-code—it should help you find her.
+RU: 
+
+
+-- Section 25
+
+ID: M5500_S0020_G0370_001_a2b
+JP: ポッド。この生体コードを持つアンドロイドの位置情報検索。
+EN: Pod, scan this bio-code and run a positional search.
+RU: 
+
+ID: M5500_S0020_G0380_001_pod042
+JP: 詳細不明。ただし、最後に目撃された地点についての情報が存在。
+EN: Exact position unknown. Data regarding her last known location does exist, however.
+RU: 
+
+ID: M5500_S0020_G0390_001_pod042
+JP: 総合分析の結果、当該アンドロイドの現在位置は遊園地廃墟一帯と予測。
+EN: The unit in question was most recently seen in the amusement park ruins.
+RU: 
+
+ID: M5500_S0020_G0400_001_a2b
+JP: わかった。
+EN: Got it.
+RU: 
+
+
+-- Section 26
+
+ID: M5500_S0020_G0410_001_a9s
+JP: ポッド。この生体コードを持つアンドロイドの位置情報検索。
+EN: Pod, scan this bio-code and run a positional search.
+RU: 
+
+ID: M5500_S0020_G0420_001_pod153
+JP: 詳細不明。ただし、最後に目撃された地点についての情報が存在。
+EN: Exact position unknown. Data regarding her last known location does exist, however.
+RU: 
+
+ID: M5500_S0020_G0430_001_pod153
+JP: 総合分析の結果、当該アンドロイドの現在位置は遊園地廃墟一帯と予測。
+EN: The unit in question was most recently seen in the amusement park ruins.
+RU: 
+
+ID: M5500_S0020_G0440_001_a9s
+JP: わかった。
+EN: Got it.
+RU: 
+
+
+-- Section 27
+
+ID: M5500_S0020_G0350_001_andman
+JP: ありがとう……彼女の生体コードを渡しておく。どうか頼む！
+EN: Thank you. Here's her bio-code—it should help you find her.
+RU: 
+
+
+-- Section 28
+
+ID: M5500_S0060_G0000_001_andwoman
+JP: う……
+EN: Nnngh...
+RU: 
+
+ID: M5500_S0060_G0010_001_a9s
+JP: 大丈夫ですか！？
+EN: Are you all right?
+RU: 
+
+ID: M5500_S0060_G0020_001_andwoman
+JP: う、うう……
+EN: Uuurgh...
+RU: 
+
+ID: M5500_S0060_G0030_001_a9s
+JP: 損害個所が多い。でも、修復できない傷じゃない。
+EN: Well, you've certainly taken damage, but it's nothing that can't be repaired.
+RU: 
+
+ID: M5500_S0060_G0070_001_pod042
+JP: このアンドロイドの修復には『形状記憶合金』が必要。
+EN: Alert: Memory alloy required to repair this unit.
+RU: 
+
+ID: M5500_S0060_G0080_001_pod153
+JP: このアンドロイドの修復には『形状記憶合金』が必要。
+EN: Alert: Memory alloy required to repair this unit.
+RU: 
+
+ID: M5500_S0060_G0060_001_a9s
+JP: ここで少し待っていてください。すぐに素材を集めて戻ってきますから！
+EN: Just wait here, okay? I'll get what you need as soon as I can.
+RU: 
+
+
+-- Section 29
+
+ID: M5500_S0060_G0020_001_andwoman
+JP: う、うう……
+EN: Uuurgh...
+RU: 
+
+
+-- Section 30
+
+ID: M5500_S0060_G0090_001_a9s
+JP: パスカル！？どうしてここに？
+EN: Pascal? What are you doing here?
+RU: 
+
+ID: M5500_S0060_G0100_001_pascal
+JP: ウチの村にいた２人のアンドロイドさんの事が心配で、\nずっとサーチしていたんです。
+EN: I was concerned about the two androids who were staying in our village, so I decided to look for them.
+RU: 
+
+ID: M5500_S0060_G0110_001_pascal
+JP: そうしたらこちらの方の反応が急に弱くなっていたので……
+EN: During my search, I noticed that one of their signals had suddenly grown quite weak.
+RU: 
+
+ID: M5500_S0060_G0120_001_pascal
+JP: それは修理用の素材ですか？貸してください、私が直します。
+EN: You have the material she needs, yes? If so, please give it to me so I can perform the repairs.
+RU: 
+
+ID: M5500_S0060_G0130_001_a9s
+JP: わかった！
+EN: You got it.
+RU: 
+
+ID: M5500_S0060_G0140_001_pascal
+JP: …………
+EN: ......
+RU: 
+
+ID: M5500_S0060_G0150_001_a9s
+JP: どうしたの？
+EN: Something wrong?
+RU: 
+
+ID: M5500_S0060_G0160_001_pascal
+JP: アンドロイドの方は女性ですし、一応目を閉じていただけると……
+EN: This android is female. You are male... Perhaps you might close your eyes until I'm done?
+RU: 
+
+ID: M5500_S0060_G0170_001_a9s
+JP: わーっ！ごめん。そうだよね！閉じます！今すぐに目を閉じます！
+EN: Oh! Right! Sure, yeah. Lemme just...close my eyes then.
+RU: 
+
+
+-- Section 31
+
+ID: M5500_S0060_G0020_001_andwoman
+JP: う、うう……
+EN: Uuurgh...
+RU: 
+
+
+-- Section 32
+
+ID: M5500_S0060_G0180_001_pascal
+JP: これを……こうして……こうやって……
+EN: Excellent. I'll just take this here... Patch up this area...
+RU: 
+
+ID: M5500_S0060_G0190_001_pascal
+JP: はい！出来ました！
+EN: And done!
+RU: 
+
+
+-- Section 33
+
+ID: M5500_S0060_G0200_001_pascal
+JP: ……ふう、これでもう大丈夫でしょう。
+EN: Whew! She should be all right now.
+RU: 
+
+ID: M5500_S0060_G0210_001_andwoman
+JP: 助けてくれてありがとう。ところで、彼は無事？
+EN: Thank you for helping me. Do you have any information about my friend?
+RU: 
+
+ID: M5500_S0060_G0220_001_a9s
+JP: ええ、無事ですよ。安心し……
+EN: He's fine. You don't need to worry—
+RU: 
+
+ID: M5500_S0060_G0230_001_andman
+JP: 良かった、無事だったか！
+EN: You're alive! Oh, thank goodness!
+RU: 
+
+ID: M5500_S0060_G0240_001_andwoman
+JP: あ……！
+EN: Ah!
+RU: 
+
+ID: M5500_S0060_G0250_001_andman
+JP: すまない、俺がもっと強かったら……！
+EN: I'm sorry. I should have been stronger for you.
+RU: 
+
+ID: M5500_S0060_G0260_001_andwoman
+JP: ううん、いいの。アナタが無事なら、私はそれで……
+EN: Please, don't. You're safe, and that's all that matters.
+RU: 
+
+ID: M5500_S0060_G0270_001_andman
+JP: アンタらには迷惑をかけたな。本当にすまない。
+EN: I'm sorry to have put this on you. I truly am.
+RU: 
+
+ID: M5500_S0060_G0280_001_pascal
+JP: いえ。それより、この後はどうするのですか？
+EN: Oh, it's perfectly fine. However, what do you intend to do now?
+RU: 
+
+ID: M5500_S0060_G0290_001_andman
+JP: ……とりあえず、安全な場所を探さないと。
+EN: Now? Well, I suppose we'll try to find someplace safe.
+RU: 
+
+ID: M5500_S0060_G0300_001_andwoman
+JP: また放浪の旅に出るの？かつての仲間に追われながら、機械生命体に\n怯えながら……
+EN: And then what? Continue being pursued by our former friends and hunted by machines?
+RU: 
+
+ID: M5500_S0060_G0310_001_andwoman
+JP: そんなの、私はもう耐えられない！
+EN: I can't take that any more!
+RU: 
+
+ID: M5500_S0060_G0320_001_andman
+JP: だけど……
+EN: But...
+RU: 
+
+ID: M5500_S0060_G0330_001_andwoman
+JP: ……ねぇ……こんな事ならレジスタンスキャンプに戻ろうよ。
+EN: If this is going to be my life, I'd rather return to the Resistance.
+RU: 
+
+ID: M5500_S0060_G0340_001_andwoman
+JP: 記憶を初期化して、クリーンになったらアネモネさんだって\n迎えてくれる筈だよ……
+EN: If we reformat ourselves and reset our memories, I'm sure Anemone will take us back.
+RU: 
+
+ID: M5500_S0060_G0350_001_andman
+JP: だけど、初期化なんかしたら……この君への想いだって……
+EN: But if we do that, I'll forget how I feel about you!
+RU: 
+
+ID: M5500_S0060_G0360_001_andwoman
+JP: このまま一緒にいても、貴方の事を嫌いになってしまうわ。
+EN: And if we don't, I'll eventually grow to hate you. Do you understand?
+RU: 
+
+ID: M5500_S0060_G0370_001_andwoman
+JP: 私、初期化されてもきっと貴方の事を好きになるから。
+EN: Even if I'm reformatted, I know I'll fall in love with you.
+RU: 
+
+ID: M5500_S0060_G0380_001_andman
+JP: ……わかった。
+EN: ...All right.
+RU: 
+
+ID: M5500_S0060_G0390_001_andwoman
+JP: お願い。私達の記憶を消して！そして、レジスタンスキャンプに連れて行って！
+EN: Will you help us one more time? Will you erase our memories and bring us back to the Resistance camp?
+RU: 
+
+ID: M5500_S0060_G0400_001_sele
+JP: 協力する。
+EN: Agree to help.
+RU: 
+
+ID: M5500_S0060_G0410_001_sele
+JP: 協力しない。
+EN: Refuse.
+RU: 
+
+
+-- Section 34
+
+ID: M5500_S0060_G0420_001_andwoman
+JP: お願い……私達の記憶を消して。
+EN: Please. You must erase our memories.
+RU: 
+
+ID: M5500_S0060_G0400_001_sele
+JP: 協力する。
+EN: Agree to help.
+RU: 
+
+ID: M5500_S0060_G0410_001_sele
+JP: 協力しない。
+EN: Refuse.
+RU: 
+
+
+-- Section 35
+
+ID: M5500_S0060_G0435_001_pascal
+JP: 記憶を消してまで……お二人はよっぽど仲がいいんですね。
+EN: They must really love each other if they both want their memories erased...
+RU: 
+
+
+-- Section 36
+
+ID: M5500_S0060_G0270_001_andman
+JP: アンタらには迷惑をかけたな。本当にすまない。
+EN: I'm sorry to have put this on you. I truly am.
+RU: 
+
+
+-- Section 37
+
+ID: M5500_S0060_G0430_001_andman
+JP: ……ありがとう。じゃあ、俺から頼む。
+EN: Thank you. \n...You can begin with me.
+RU: 
+
+ID: M5500_S0060_G0440_001_a9s
+JP: わかりました……
+EN: All right...
+RU: 
+
+
+-- Section 38
+
+ID: M5500_S0060_G0450_001_a9s
+JP: ……フォーマット完了。しばらくしたら再起動します。
+EN: ...Formatting complete. He should reboot here in a little while.
+RU: 
+
+
+-- Section 39
+
+ID: M5500_S0060_G0460_001_a9s
+JP: 次は……貴女ですね？
+EN: Are you ready?
+RU: 
+
+ID: M5500_S0060_G0470_001_andwoman
+JP: あ、私はいいわ。
+EN: Me? No, I'm fine, thanks.
+RU: 
+
+ID: M5500_S0060_G0480_001_a9s
+JP: ……え？
+EN: What?
+RU: 
+
+ID: M5500_S0060_G0490_001_andwoman
+JP: ……フォーマットは上手くいったみたいね。さすがヨルハ最新型モデル。
+EN: Your formatting procedure was perfect. I'd expect nothing less from a cutting-edge YoRHa model.
+RU: 
+
+ID: M5500_S0060_G0500_001_a9s
+JP: ち、ちょっと待ってください。貴女は一体何を……
+EN: Wait, what are you—
+RU: 
+
+ID: M5500_S0060_G0510_001_andwoman
+JP: ほら、私達は弱過ぎるでしょ？
+EN: Don't you understand? We're too weak.
+RU: 
+
+ID: M5500_S0060_G0520_001_andwoman
+JP: だから、片方を戦闘型に改造したらどうかって。\nそうすれば逃げる必要もないもの。
+EN: That's why I knew I had to convert one of us into a combat model. Then we'll never have to run from anything again!
+RU: 
+
+ID: M5500_S0060_G0530_001_andwoman
+JP: でも、その為には初期化が必要だったのよね。\nだから彼だけフォーマットしてもらったの。
+EN: But I can't do that without a complete system reset, which is why I had you format him. Now it's time to strengthen him up!
+RU: 
+
+ID: M5500_S0060_G0540_001_andwoman
+JP: さて、これからはこの人を強くしなきゃ。ああ、ついでにちょっと情けない\n性格も変えようかな。私、もう少し強引な方が好みなの。
+EN: Hmm... While I'm at it, I'd better delete all of his namby-pamby ways. I need someone more forceful in my life, you know?
+RU: 
+
+ID: M5500_S0060_G0550_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M5500_S0060_G0560_001_andwoman
+JP: 気に病む事は無いって。だってこれフォーマット６回目だから。
+EN: Oh, don't look at me like that! This is the sixth time I've had him formatted, and it's never been a problem.
+RU: 
+
+ID: M5500_S0060_G0570_001_andwoman
+JP: アナタには本当にお世話になったわ。\nこれ、お礼になるかどうかわからないけど……
+EN: I don't know if this is enough payment for all you've done, but please accept it.
+RU: 
+
+ID: M5500_S0060_G0580_001_andwoman
+JP: それじゃ、もう行くわね。今度会う時の彼は、きっと凄いわよ！
+EN: Anyway, we'd better get going. The next time you see this guy, he's going to be incredible!
+RU: 
+
+
+-- Section 40
+
+ID: M5500_S0060_G0590_001_pascal
+JP: あのう、つまり、どういう事でしょうか？
+EN: Er, 9S? What was that about?
+RU: 
+
+ID: M5500_S0060_G0600_001_a9s
+JP: ……女性って、怖いですね。
+EN: Women can be pretty scary sometimes.
+RU: 
+
+ID: M5500_S0060_G0610_001_pascal
+JP: 女性って、怖い……覚えておきます。
+EN: I...see. I will bear that in mind...
+RU: 
+
+
+-- Section 41
+
+ID: M5500_S0060_G0610_001_pascal
+JP: 女性って、怖い……覚えておきます。
+EN: I...see. I will bear that in mind...
+RU: 
+
+

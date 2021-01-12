@@ -1,0 +1,109 @@
+-- Section 1
+
+ID: M3060_S0500_G0000_001_announce
+JP: ヨルハ機体９Ｓ！
+EN: YoRHa unit 9S!
+RU: 
+
+ID: M3060_S0500_G0010_001_girls
+JP: ヨルハ機体９Ｓ！
+EN: YoRHa unit 9S!
+RU: 
+
+ID: M3060_S0500_G0020_001_announce
+JP: ようこそ『塔』へ！
+EN: Welcome to the Tower!
+RU: 
+
+ID: M3060_S0500_G0030_001_girls
+JP: ようこそ『塔』へ！
+EN: Welcome to the Tower!
+RU: 
+
+ID: M3060_S0500_G0040_001_a9s
+JP: 貴様ら……ッ！！
+EN: You bastards...!
+RU: 
+
+ID: M3060_S0500_G0050_001_announce
+JP: ここまで辿り着いた貴様に耳寄りな情報があります。
+EN: Because you made it this far, we have a special announcement just for you...
+RU: 
+
+ID: M3060_S0500_G0060_001_girls
+JP: ここまで辿り着いた貴様に耳寄りな情報があります。
+EN: Because you made it this far, we have a special announcement just for you...
+RU: 
+
+ID: M3060_S0500_G0070_001_girls
+JP: この場に居る機械生命体を全て破壊したら教えよう。
+EN: We'll reveal it once you destroy all the machine lifeforms here.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0500_G0080_001_girls
+JP: 全てを破壊したな。
+EN: You did it.
+RU: 
+
+ID: M3060_S0500_G0090_001_girls
+JP: 全てを破壊したな。
+EN: You did it.
+RU: 
+
+ID: M3060_S0500_G0100_001_girls
+JP: ならば約束通り見せてやろう。
+EN: Now let us show you what we promised.
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S0560_G0000_001_girls
+JP: 私達は機械生命体のネットワークから生まれた概念人格。
+EN: We are conceptual human personalities created within the machine network.
+RU: 
+
+ID: M3060_S0560_G0010_001_girls
+JP: 破壊する事は不可能。
+EN: We cannot be destroyed.
+RU: 
+
+ID: M3060_S0560_G0020_001_girls
+JP: ヨルハ機体９Ｓ。
+EN: YoRHa unit 9S...
+RU: 
+
+ID: M3060_S0560_G0030_001_girls
+JP: 貴様の攻撃は無駄だ。
+EN: Your attack is meaningless.
+RU: 
+
+ID: M3060_S0560_G0040_001_girls
+JP: 貴様の存在は無意味だ。
+EN: Your existence is meaningless.
+RU: 
+
+ID: M3060_S0560_G0050_001_a9s
+JP: うるさいッ！！
+EN: Shut up!
+RU: 
+
+ID: M3060_S0560_G0060_001_a9s
+JP: 何度も何度も……
+EN: Keep 'em coming...
+RU: 
+
+ID: M3060_S0560_G0070_001_a9s
+JP: 全部壊す……
+EN: I'll destroy them all...
+RU: 
+
+ID: M3060_S0560_G0080_001_a9s
+JP: お前達も、この塔も……！
+EN: All of them...AND this Tower!
+RU: 
+
+

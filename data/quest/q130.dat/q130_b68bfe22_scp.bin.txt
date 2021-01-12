@@ -1,0 +1,896 @@
+-- Section 1
+
+ID: M5130_S0010_G0130_001_resiwoman
+JP: この壊れたポッドがライフログを撮っているハズだから、取り出してくれない？
+EN: This broken Pod was recording her life log. Think you can get it for me?
+RU: 
+
+ID: M5130_S0010_G0140_001_sele
+JP: 協力する。
+EN: Help her out.
+RU: 
+
+ID: M5130_S0010_G0150_001_sele
+JP: 協力しない。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5130_S0010_G0170_001_resiwoman
+JP: ポッドから友人のライフログを取り出してくれる？
+EN: I need you to get my friend's life log out of this Pod...
+RU: 
+
+ID: M5130_S0010_G0140_001_sele
+JP: 協力する。
+EN: Help her out.
+RU: 
+
+ID: M5130_S0010_G0150_001_sele
+JP: 協力しない。
+EN: Refuse.
+RU: 
+
+
+-- Section 3
+
+ID: M5130_S0010_G0000_001_resiwoman
+JP: あ……う……
+EN: Owwwwww...
+RU: 
+
+ID: M5130_S0010_G0010_001_a9s
+JP: あの、大丈夫ですか？レジスタンスの人ですよね？
+EN: Hey, you're with the Resistance, right? Are you okay?
+RU: 
+
+ID: M5130_S0010_G0020_001_resiwoman
+JP: う……少し前に、廃墟で爆発があったでしょう？
+EN: Nnngh... You know that explosion that happened in the ruins?
+RU: 
+
+ID: M5130_S0010_G0030_001_resiwoman
+JP: その時の衝撃でちょっと調子が悪いのよね。
+EN: The shockwave hit me like...well, a shockwave, I guess. Knocked my circuits all out of whack, but I managed to—
+RU: 
+
+ID: M5130_S0010_G0040_001_resiwoman
+JP: ……っていうか、そっちのお姉さんヨルハの人……前に会った事があるかしら？
+EN: Wait a second... You look familiar—have we met before?
+RU: 
+
+ID: M5130_S0010_G0050_001_a2b
+JP: いいえ……ヨルハ型は似てるモデルが多いから。
+EN: Me? No. But lots of YoRHa models look alike.
+RU: 
+
+ID: M5130_S0010_G0060_001_resiwoman
+JP: 貴方達、ヨルハ部隊の人？
+EN: Oh... So, you two are with YoRHa, are you?
+RU: 
+
+ID: M5130_S0010_G0070_001_a9s
+JP: そ、そうですけど？
+EN: Um, yes? Why do you want to know?
+RU: 
+
+ID: M5130_S0010_G0080_001_resiwoman
+JP: すごく、高性能だって聞いてるけど……
+EN: No reason! I mean, I've just heard stories about how advanced you guys are, and how kind, and...
+RU: 
+
+ID: M5130_S0010_G0090_001_resiwoman
+JP: 良ければ助けてくれない？
+EN: Okay, fine. I need help.
+RU: 
+
+ID: M5130_S0010_G0100_001_a9s
+JP: え？……ああ、はい。出来る事なら。
+EN: Well, sure, I guess? What's the problem?
+RU: 
+
+ID: M5130_S0010_G0110_001_resiwoman
+JP: 実は、一緒に作戦に従事していた友人が死んでしまって……
+EN: What happened is, my friend who was with me on this mission was killed, and...
+RU: 
+
+ID: M5130_S0010_G0120_001_resiwoman
+JP: 最後の想い出を取り出したいの。
+EN: I want to retrieve her final moments.
+RU: 
+
+
+-- Section 4
+
+ID: M5130_S0010_G0160_001_resiwoman
+JP: ありがとう！
+EN: Thank you.
+RU: 
+
+
+-- Section 5
+
+ID: M5130_S0010_G0130_001_resiwoman
+JP: この壊れたポッドがライフログを撮っているハズだから、取り出してくれない？
+EN: This broken Pod was recording her life log. Think you can get it for me?
+RU: 
+
+
+-- Section 6
+
+ID: M5130_S0010_G0180_001_a9s
+JP: わかりました。そのポッドから写真を取り出せばいいんですね？
+EN: All right. I just need to extract some images, right?
+RU: 
+
+
+-- Section 7
+
+ID: M5130_S0010_G0190_001_telo
+JP: ライフログから画像を取り出した。
+EN: You extracted the images from the life log.
+RU: 
+
+
+-- Section 8
+
+ID: M5130_S0030_G0000_001_a9s
+JP: 今、表示されたのは、ポッドに残されていた最後のログです。
+EN: ...That was the last entry contained in the life log.
+RU: 
+
+ID: M5130_S0030_G0010_001_a9s
+JP: レジスタンス同士の争いみたいですが……
+EN: I could be wrong, but it looked like two Resistance members fighting each other.
+RU: 
+
+ID: M5130_S0030_G0020_001_resiwoman
+JP: まさか、彼女はレジスタンスに……仲間に殺されたの！？
+EN: So my friend was killed by the Resistance? By one of her own!?
+RU: 
+
+ID: M5130_S0030_G0030_001_a9s
+JP: 待って！まだ完全には修復出来ていません。
+EN: Easy. We haven't finished fully restoring the data.
+RU: 
+
+ID: M5130_S0030_G0040_001_a9s
+JP: 今よりもっと深い階層に潜らないと、完全には——
+EN: It won't be complete until we dig into a deeper layer and—
+RU: 
+
+ID: M5130_S0030_G0050_001_resiwoman
+JP: いいえ、もう十分……十分よ……
+EN: No. That's enough. I don't need to know any more.
+RU: 
+
+ID: M5130_S0030_G0060_001_resiwoman
+JP: この赤いフードのレジスタンスが彼女の仇……
+EN: That person in the red hood killed my friend...
+RU: 
+
+ID: M5130_S0030_G0070_001_resiwoman
+JP: 仲間を殺すなんて、許せないッ！
+EN: And she's going to pay for it!
+RU: 
+
+
+-- Section 9
+
+ID: M5130_S0030_G0080_001_a9s
+JP: 待って！
+EN: Wait!
+RU: 
+
+
+-- Section 10
+
+ID: M5130_S0030_G0090_001_resiwoman
+JP: 何？
+EN: What is it?
+RU: 
+
+ID: M5130_S0030_G0100_001_a9s
+JP: どこに行くんですか？
+EN: Where are you going?
+RU: 
+
+ID: M5130_S0030_G0110_001_resiwoman
+JP: 犯人を探しだして……殺す。
+EN: To kill the bastard who murdered my friend!
+RU: 
+
+ID: M5130_S0030_G0120_001_a9s
+JP: 殺すって言ったって、情報が足りなさすぎますよ！
+EN: Just slow down, all right? We need more data about what happened.
+RU: 
+
+ID: M5130_S0030_G0130_001_a9s
+JP: それに、貴方は犯人に見られている可能性がありますから危険です。
+EN: Besides, it's dangerous. The killer could be watching you right now for all we know.
+RU: 
+
+ID: M5130_S0030_G0140_001_resiwoman
+JP: じゃあ、どうすれば……
+EN: Fine then. What do YOU think I should do?
+RU: 
+
+ID: M5130_S0030_G0150_001_a9s
+JP: 僕が、レジスタンスキャンプで調査してきますよ。
+EN: Let me ask around the Resistance camp before you go running off.
+RU: 
+
+ID: M5130_S0030_G0160_001_a9s
+JP: 赤いフードなんてあまり見る服装じゃないですからね。
+EN: There can't be that many people in red hoods, after all. Someone must know something.
+RU: 
+
+ID: M5130_S0030_G0170_001_resiwoman
+JP: ……わかった。頼んだぞ。
+EN: All right. I can wait for a little while.
+RU: 
+
+ID: M5130_S0030_G0180_001_resiwoman
+JP: 礼ははずむからな。
+EN: Hey, and...thanks.
+RU: 
+
+
+-- Section 11
+
+ID: M5130_S0030_G0060_001_resiwoman
+JP: この赤いフードのレジスタンスが彼女の仇……
+EN: That person in the red hood killed my friend...
+RU: 
+
+ID: M5130_S0030_G0070_001_resiwoman
+JP: 仲間を殺すなんて、許せないッ！
+EN: And she's going to pay for it!
+RU: 
+
+
+-- Section 12
+
+ID: M5130_S0030_G0110_001_resiwoman
+JP: 犯人を探しだして……殺す。
+EN: To kill the bastard who murdered my friend!
+RU: 
+
+
+-- Section 13
+
+ID: M5130_S0030_G0190_001_a2b
+JP: お人好し。
+EN: Well. Aren't we generous?
+RU: 
+
+ID: M5130_S0030_G0200_001_a9s
+JP: え？
+EN: Hmm?
+RU: 
+
+ID: M5130_S0030_G0210_001_a2b
+JP: 美人だからとはいえ、サービスしすぎ。
+EN: All this help for no personal gain? I know she's pretty, but—
+RU: 
+
+ID: M5130_S0030_G0220_001_a9s
+JP: いやいやいや！そんな事ないですって！
+EN: Whoa, whoa! It's not like that!
+RU: 
+
+ID: M5130_S0030_G0230_001_a9s
+JP: いや、不美人っていう訳じゃなくて……
+EN: I mean, she IS pretty, but that's... It's not...
+RU: 
+
+ID: M5130_S0030_G0240_001_a2b
+JP: どっちでもいい。
+EN: Whatever.
+RU: 
+
+
+-- Section 14
+
+ID: M5130_S0120_G0000_001_a9s
+JP: そういえば、赤色のフードを付けているって言ってたよな……
+EN: We need to find someone wearing a red hood.
+RU: 
+
+
+-- Section 15
+
+ID: M5130_S0120_G0010_001_a9s
+JP: そのフード、綺麗な色ですね。
+EN: Say, nice hood. You make it?
+RU: 
+
+ID: M5130_S0120_G0020_001_resiwoman2
+JP: え？ああ、ありがとう。友達に貰ったの。
+EN: What, this? No, a girlfriend of mine gave it to me.
+RU: 
+
+ID: M5130_S0120_G0030_001_resiwoman2
+JP: 今日、初めて着たんだけど似合うかな？
+EN: This is the first time I've worn it in public. Do you really like it?
+RU: 
+
+ID: M5130_S0120_G0040_001_a9s
+JP: ええ、とても似合ってます。僕も欲しくなっちゃった。
+EN: Yeah, it's great. In fact, I wish I had one for myself.
+RU: 
+
+ID: M5130_S0120_G0050_001_a9s
+JP: お友達に、どこで手に入れたのか聞いてみたいなぁ……？
+EN: Do you happen to know where she got it?
+RU: 
+
+ID: M5130_S0120_G0060_001_resiwoman2
+JP: 残念。彼女、ここにはいないの。
+EN: No, sorry. I didn't think to ask.
+RU: 
+
+ID: M5130_S0120_G0070_001_a9s
+JP: そうなんですか？じゃあ、今はどこに？
+EN: Do you know where your friend is? Maybe I'll go ask her myself.
+RU: 
+
+ID: M5130_S0120_G0080_001_resiwoman2
+JP: 聞きに行くの？ずいぶんフードが気に入ったのね。
+EN: Man, you REALLY like this hood!
+RU: 
+
+ID: M5130_S0120_G0090_001_resiwoman2
+JP: 今は砂漠の駐留地よ。
+EN: Last I heard, she was out at the desert station.
+RU: 
+
+ID: M5130_S0120_G0100_001_resiwoman2
+JP: 女性は彼女一人だから、すぐに判ると思う。
+EN: She shouldn't be hard to find—I think she's the only woman there.
+RU: 
+
+ID: M5130_S0120_G0110_001_a9s
+JP: ありがとうございます！
+EN: Thanks. I appreciate it.
+RU: 
+
+ID: M5130_S0120_G0120_001_resiwoman2
+JP: フード、手に入るといいね。
+EN: Hope you manage to get a hood of your own!
+RU: 
+
+
+-- Section 16
+
+ID: M5130_S0120_G0120_001_resiwoman2
+JP: フード、手に入るといいね。
+EN: Hope you manage to get a hood of your own!
+RU: 
+
+
+-- Section 17
+
+ID: M5130_S0130_G0000_001_a9s
+JP: 赤いフードの服はプレゼントされた物だったんだ……
+EN: Sounds like that red hood was a gift of some sort.
+RU: 
+
+ID: M5130_S0130_G0010_001_a2b
+JP: プレゼントなんて無意味な行為。
+EN: Gifts are such a useless ritual.
+RU: 
+
+ID: M5130_S0130_G0020_001_a9s
+JP: ど、どうしたんですか！？急に。
+EN: Wow, okay. Where'd THAT come from?
+RU: 
+
+ID: M5130_S0130_G0030_001_a2b
+JP: 相手に聞かずに物を送るのは迷惑。
+EN: It's rude to give a person something without their permission.\nWhat if they don't want it?
+RU: 
+
+ID: M5130_S0130_G0040_001_a9s
+JP: うーん……物というより、贈る気持ちが重要、とか？
+EN: Hmm. I think it's more about the feeling behind it than the actual item, right?
+RU: 
+
+ID: M5130_S0130_G0050_001_a2b
+JP: 気持ちとか感情を持つことは禁止されている。
+EN: Feelings are prohibited.
+RU: 
+
+ID: M5130_S0130_G0060_001_a9s
+JP: はいはーい。
+EN: Yeah, yeah.
+RU: 
+
+ID: M5130_S0130_G0070_001_a2b
+JP: ハイは一回。
+EN: One affirmation will suffice.
+RU: 
+
+ID: M5130_S0130_G0080_001_a9s
+JP: はーい。
+EN: Oh, for the love of... Fine. "Yeah."
+RU: 
+
+
+-- Section 18
+
+ID: M5130_S0130_G0090_001_a9s
+JP: 赤いフードを贈った女性レジスタンスが砂漠に居るはずです。
+EN: Our red-hooded target should be in the desert.
+RU: 
+
+ID: M5130_S0130_G0100_001_a2b
+JP: そいつが犯人の可能性もあるから、気をつけないと……
+EN: Stay alert. She could be our killer.
+RU: 
+
+ID: M5130_S0130_G0110_001_a9s
+JP: でも、砂漠の駐留地には女性レジスタンスは一人しかいないですよ……
+EN: But there's only one female resistance member at the desert station...
+RU: 
+
+
+-- Section 19
+
+ID: M5130_S0130_G0120_001_a9s
+JP: あれ……？いないですね。
+EN: Hmm. I don't see her.
+RU: 
+
+
+-- Section 20
+
+ID: M5130_S0130_G0130_001_a2b
+JP: あそこにいる人に聞いてみよう。
+EN: Let's ask that guy over there.
+RU: 
+
+
+-- Section 21
+
+ID: M5130_S0130_G0140_001_resiman
+JP: え……？女レジスタンスを探してる？
+EN: ...How's that? You're looking for a Resistance lady?
+RU: 
+
+ID: M5130_S0130_G0150_001_resiman
+JP: ああ、ジャッカスの事か。
+EN: Oh, you must mean Jackass, huh?
+RU: 
+
+ID: M5130_S0130_G0180_001_resiman
+JP: 何でも爆破とか乱暴な手段で済ませようとする女なんだよな……
+EN: Every time there's an issue, ol' Jackass tries to solve it with explosives or some other violent method.
+RU: 
+
+ID: M5130_S0130_G0190_001_resiman
+JP: 彼女なら今、砂漠の洞窟に地質調査に行ってるハズだ。
+EN: I think she's off doing geological research in one of the desert caves.
+RU: 
+
+ID: M5130_S0130_G0200_001_resiman
+JP: 位置情報を渡しておくから、勝手に探してくれ。
+EN: I'll send you the coordinates if you want.
+RU: 
+
+ID: M5130_S0130_G0210_001_resiman
+JP: あ、あと……
+EN: Oh, but if you're gonna head out there—
+RU: 
+
+ID: M5130_S0130_G0220_001_resiman
+JP: 君達も吹き飛ばされないように気をつけろよ。
+EN: Just make sure you don't get caught up in one of her explosions, you hear?
+RU: 
+
+
+-- Section 22
+
+ID: M5130_S0130_G0190_001_resiman
+JP: 彼女なら今、砂漠の洞窟に地質調査に行ってるハズだ。
+EN: I think she's off doing geological research in one of the desert caves.
+RU: 
+
+ID: M5130_S0130_G0220_001_resiman
+JP: 君達も吹き飛ばされないように気をつけろよ。
+EN: Just make sure you don't get caught up in one of her explosions, you hear?
+RU: 
+
+
+-- Section 23
+
+ID: M5130_S0130_G0240_001_a9s
+JP: あの……ジャッカス……さん？
+EN: Excuse me? Are you...um..."Jackass"?
+RU: 
+
+ID: M5130_S0130_G0250_001_jackas
+JP: ん？……何か用？
+EN: Who wants to know?
+RU: 
+
+ID: M5130_S0130_G0260_001_a9s
+JP: ああ、ちょっとヨルハ部隊で必要な現地調査を行っていまして……
+EN: We're with YoRHa. We're conducting a field investigation.
+RU: 
+
+ID: M5130_S0130_G0270_001_resiwoman2
+JP: へえ、わざわざご苦労様。
+EN: Well, yippee for you.
+RU: 
+
+ID: M5130_S0130_G0280_001_a9s
+JP: ご友人に赤色のフードを贈ったのって、貴女ですか？
+EN: Listen, did you happen to give a red hood to a friend earlier?
+RU: 
+
+ID: M5130_S0130_G0290_001_a9s
+JP: 我々の部隊旗の色を染めるのに、あの赤色染料を手に入れたいんですが……
+EN: That red is perfect for our new YoRHa colors, so we were hoping to—
+RU: 
+
+ID: M5130_S0130_G0300_001_jackas
+JP: ああ、あれ？いきなり売りつけられたんだよね。
+EN: That old piece of crap? Yeah, I gave it to her. Hell, I never wanted it in the first place.
+RU: 
+
+ID: M5130_S0130_G0310_001_a9s
+JP: 売りつけられた？
+EN: Er, so it came from someone else originally?
+RU: 
+
+ID: M5130_S0130_G0320_001_jackas
+JP: そう。廃墟都市が爆発したすぐ後だったかな。
+EN: Did I stutter? Yeah, it came from someone else. I bought the stupid thing right after that explosion in the city ruins.
+RU: 
+
+ID: M5130_S0130_G0330_001_jackas
+JP: 買ってくれって、赤い髪の女レジスタンスに言われたんだよ。
+EN: Some Resistance lady with red hair practically tackled me trying to get me to buy it.
+RU: 
+
+ID: M5130_S0130_G0340_001_jackas
+JP: フード自体は友達に似合いそうな色だったし、まあいいかなって。
+EN: I only did it to get her off my case. Well, and because I thought it might look good on my friend... But if you tell her that, you're dead!
+RU: 
+
+ID: M5130_S0130_G0350_001_a9s
+JP: 赤い髪の、女レジスタンス……
+EN: A red-haired Resistance member...
+RU: 
+
+ID: M5130_S0130_G0360_001_pod153
+JP: 依頼主の特徴と一致。
+EN: The same color as our client's hair.
+RU: 
+
+ID: M5130_S0130_G0370_001_jackas
+JP: ん？依頼主？
+EN: What client? What the hell's going on here?
+RU: 
+
+ID: M5130_S0130_G0380_001_a9s
+JP: いえ、なんでもないです！
+EN: Uh, nothing! It's just...that's her nickname. "The Client."
+RU: 
+
+ID: M5130_S0130_G0390_001_jackas
+JP: でも、今思えば、不思議なヤツだったな……
+EN: That's even stupider than Jackass!
+RU: 
+
+ID: M5130_S0130_G0400_001_jackas
+JP: ずっと笑ってたよ。
+EN: That lady WAS pretty creepy, though.\nKept grinning at me like a crazy person.
+RU: 
+
+ID: M5130_S0130_G0410_001_a9s
+JP: 笑ってた……
+EN: Grinning...?
+RU: 
+
+ID: M5130_S0130_G0420_001_a9s
+JP: ありがとうございました。失礼します。
+EN: Uh, well, thanks for your help. We'll be on our way.
+RU: 
+
+
+-- Section 24
+
+ID: M5130_S0130_G0390_001_jackas
+JP: でも、今思えば、不思議なヤツだったな……
+EN: That's even stupider than Jackass!
+RU: 
+
+ID: M5130_S0130_G0400_001_jackas
+JP: ずっと笑ってたよ。
+EN: That lady WAS pretty creepy, though.\nKept grinning at me like a crazy person.
+RU: 
+
+
+-- Section 25
+
+ID: M5130_S0140_G0000_001_pod153
+JP: 報告：赤い頭髪は依頼人である女性型レジスタンスと特徴が一致。
+EN: Alert: The description of a female Resistance member with red hair matches that of our client.
+RU: 
+
+ID: M5130_S0140_G0010_001_a9s
+JP: 仮に本人だとして、友人を殺した犯人のフードを、何で彼女が……
+EN: But if it's the same person, why would she have had the killer's hood?
+RU: 
+
+ID: M5130_S0140_G0020_001_pod153
+JP: 推測：女性型レジスタンスが当該犯人であるか、\nまたはその関係者である状態。
+EN: Hypothesis: The red-haired Resistance member is either the killer or an accomplice.
+RU: 
+
+ID: M5130_S0140_G0030_001_a2b
+JP: ……とにかく、話してみよう。
+EN: Let's go talk to her.
+RU: 
+
+
+-- Section 26
+
+ID: M5130_S0140_G0040_001_resiwoman
+JP: どうだった？友達を殺した、赤色のフードの奴は見つかった！？
+EN: So? How'd it go? Did you find that murdering wench in the red hood?
+RU: 
+
+ID: M5130_S0140_G0050_001_a9s
+JP: その件なんですが……
+EN: Not...exactly.
+RU: 
+
+ID: M5130_S0140_G0060_001_a9s
+JP: どうやらそのフードを、貴女が売った可能性があるんです。
+EN: But we DID learn that you sold the hood to someone.
+RU: 
+
+ID: M5130_S0140_G0070_001_resiwoman
+JP: え……？
+EN: Wha!?
+RU: 
+
+ID: M5130_S0140_G0080_001_a9s
+JP: 廃墟都市の爆発のすぐ後に、赤い髪の女レジスタンスが\n赤色のフードを売りに来た、と。
+EN: Apparently a red-haired Resistance member sold the hood after the explosion in the ruins.
+RU: 
+
+ID: M5130_S0140_G0090_001_resiwoman2
+JP: 赤い……髪……？私が、あのフードを……？
+EN: This doesn't make sense...
+RU: 
+
+ID: M5130_S0140_G0100_001_a9s
+JP: 貴女と犯人に何らかの関係があった可能性も……
+EN: We're starting to believe you had something to do with the murder.
+RU: 
+
+ID: M5130_S0140_G0110_001_resiwoman2
+JP: ……判らない。そんなの判らない、知らない……
+EN: But that's impossible! I don't know about any of that...
+RU: 
+
+ID: M5130_S0140_G0120_001_a9s
+JP: でも……
+EN: Listen, if you—
+RU: 
+
+ID: M5130_S0140_G0130_001_resiwoman2
+JP: ……確かこのポッドの記録、まだ残ってる部分があるんでしょう？
+EN: Look, you said there were still some records left in this Pod, right?
+RU: 
+
+ID: M5130_S0140_G0140_001_resiwoman2
+JP: だったらお願い。今すぐ調べてみて！
+EN: Then we have to look at them right now!
+RU: 
+
+ID: M5130_S0140_G0150_001_a9s
+JP: 言いにくいんですが……
+EN: Think about this for a second. I want you to understand what you're asking.
+RU: 
+
+ID: M5130_S0140_G0160_001_a9s
+JP: 記憶喪失状態の貴方が、犯人である可能性も……
+EN: You may have killed your own friend. I don't know why or how, but it's possible.
+RU: 
+
+ID: M5130_S0140_G0170_001_resiwoman
+JP: ……構わない。私は真実が知りたい。だからお願い！
+EN: I don't care. I have to know the truth. Please!
+RU: 
+
+ID: M5130_S0140_G0180_001_a9s
+JP: ……判りました。では、始めます。
+EN: ...All right. I'm heading in.
+RU: 
+
+
+-- Section 27
+
+ID: M5130_S0140_G0170_001_resiwoman
+JP: ……構わない。私は真実が知りたい。だからお願い！
+EN: I don't care. I have to know the truth. Please!
+RU: 
+
+
+-- Section 28
+
+ID: M5130_S0010_G0190_001_telo
+JP: ライフログから画像を取り出した。
+EN: You extracted the images from the life log.
+RU: 
+
+
+-- Section 29
+
+ID: M5130_S0150_G0010_001_resiwoman
+JP: あ……ああ……
+EN: Ah! Ahhhhh...
+RU: 
+
+ID: M5130_S0150_G0020_001_resiwoman
+JP: ……私は……ヨルハＥ型……
+EN: I... I'm a Type-E... A YoRHa Type-E...
+RU: 
+
+ID: M5130_S0150_G0030_001_a9s
+JP: ヨルハ？
+EN: YoRHa?
+RU: 
+
+ID: M5130_S0150_G0040_001_resiwoman
+JP: 脱走者や裏切り者を殺す為に作られた、アンドロイド殺しの為のモデル……
+EN: My function is to seek out and execute deserters and traitors.
+RU: 
+
+ID: M5130_S0150_G0050_001_resiwoman
+JP: 偽装し、裏切り者に近づき、殺す。
+EN: I disguise myself so I can approach my targets and kill without warning.
+RU: 
+
+ID: M5130_S0150_G0060_001_resiwoman
+JP: だけれど、ある日、友達を殺す命令が下されて……
+EN: But one day, I was ordered to kill my friend.
+RU: 
+
+ID: M5130_S0150_G0070_001_resiwoman
+JP: それで私は……指示に、従って……
+EN: So I did. I had my orders, and I followed them.
+RU: 
+
+ID: M5130_S0150_G0080_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5130_S0150_G0090_001_resiwoman
+JP: でも、つらくて。親友を手にかけた事実から、逃げたくて。だから私、記憶を……
+EN: It was hard. So hard. And after a while, I couldn't live with what I had done.
+RU: 
+
+ID: M5130_S0150_G0100_001_a9s
+JP: 自分で……消去したんですね。
+EN: So you erased your own memories.
+RU: 
+
+ID: M5130_S0150_G0110_001_resiwoman
+JP: そう……
+EN: Yes.
+RU: 
+
+ID: M5130_S0150_G0120_001_resiwoman
+JP: でも、これ一回じゃない。
+EN: But...this wasn't the first time.
+RU: 
+
+ID: M5130_S0150_G0130_001_resiwoman
+JP: 何度も何度も、友達や恋人になっては殺す事を命じられた……
+EN: I've killed comrades. Friends. Lovers. I've done it more times than I can count. Again and again and again and...
+RU: 
+
+ID: M5130_S0150_G0140_001_resiwoman
+JP: 繰り返し、繰り返し、繰り返し……
+EN: Hee.
+RU: 
+
+ID: M5130_S0150_G0150_001_resiwoman
+JP: フフッ……フフフッ
+EN: Eee hee hee hee hee.
+RU: 
+
+ID: M5130_S0150_G0160_001_a9s
+JP: ど、どうしました！？
+EN: Um, are you all right?
+RU: 
+
+ID: M5130_S0150_G0170_001_resiwoman
+JP: これでいいんだよ。これで、いいんだよね？
+EN: Yes. I am "all right." Everything is "all right."
+RU: 
+
+ID: M5130_S0150_G0180_001_resiwoman
+JP: 私はヨルハＥ型……処刑モデル。
+EN: I am a YoRHa Type-E. E for "Execution."
+RU: 
+
+ID: M5130_S0150_G0190_001_resiwoman
+JP: 友達を殺すのが……ヒヒッ……任務……
+EN: I follow orders. I kill my friends. Eee hee hee!
+RU: 
+
+ID: M5130_S0150_G0200_001_resiwoman
+JP: ああ、ヒッ調べてくれてありがとうフフッ。お礼ハハッあげるね。
+EN: And you solved it! Solved the murder! Eee hee! Now I have to pay you! Eee hee hee!
+RU: 
+
+ID: M5130_S0150_G0210_001_a9s
+JP: そんな……
+EN: Wait, you don't—
+RU: 
+
+ID: M5130_S0150_G0220_001_resiwoman
+JP: ヒヒッ……友達を殺したくなったら言ってね……私のしごと仕事シゴト仕事しごと\n仕事シゴト仕事しごとナン仕事だから……ウフ
+EN: Eee hee hee! Do you need a friend killed? A lover? It's my job! My job! Hee! My job! Hee hee! My j-job my j-j-job my-y-y-yyyyy jjjooooeeeheeheeeeeee...
+RU: 
+
+ID: M5130_S0150_G0230_001_a2b
+JP: ……行こう、９Ｓ……
+EN: ...Let's go.
+RU: 
+
+
+-- Section 30
+
+ID: M5130_S0150_G0190_001_resiwoman
+JP: 友達を殺すのが……ヒヒッ……任務……
+EN: I follow orders. I kill my friends. Eee hee hee!
+RU: 
+
+
+-- Section 31
+
+ID: M5130_S0150_G0220_001_resiwoman
+JP: ヒヒッ……友達を殺したくなったら言ってね……私のしごと仕事シゴト仕事しごと\n仕事シゴト仕事しごとナン仕事だから……ウフ
+EN: Eee hee hee! Do you need a friend killed? A lover? It's my job! My job! Hee! My job! Hee hee! My j-job my j-j-job my-y-y-yyyyy jjjooooeeeheeheeeeeee...
+RU: 
+
+
+-- Section 32
+
+ID: M5130_S0150_G0240_001_a9s
+JP: ヨルハＥ型……そんなモデルがあったんですね。
+EN: Type-E... I didn't know there was such a thing.
+RU: 
+
+ID: M5130_S0150_G0250_001_a9s
+JP: ２Ｂは知っていましたか？
+EN: Did you, 2B?
+RU: 
+
+ID: M5130_S0150_G0260_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5130_S0150_G0270_001_a2b
+JP: ……知らなくていいことだって、ある。
+EN: Some things are better left unknown.
+RU: 
+
+ID: M5130_S0150_G0280_001_a9s
+JP: そうかも、しれませんね……
+EN: ...Yeah. I suppose so.
+RU: 
+
+

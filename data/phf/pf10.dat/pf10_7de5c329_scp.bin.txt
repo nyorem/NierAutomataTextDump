@@ -1,0 +1,316 @@
+-- Section 1
+
+ID: M3060_S9000_G0040_001_pod153
+JP: ポッド１５３よりプレイヤーへ。
+EN: Pod 153 to player.
+RU: 
+
+ID: M3060_S9000_G0050_001_pod153
+JP: 質問が存在する。
+EN: Please respond to this query.
+RU: 
+
+ID: M3060_S9000_G0060_001_pod153
+JP: <player>は、
+EN: Do you, faithful player <player name>,
+RU: 
+
+ID: M3060_S9000_G0070_001_pod153
+JP: 『NieR:Automata』をクリア出来ずに苦しんでいる者達に対して、
+EN: have anything you would like to say to other players
+RU: 
+
+ID: M3060_S9000_G0080_001_pod153
+JP: 何か言葉はあるか？
+EN: who are suffering because they cannot finish NieR:Automata?
+RU: 
+
+ID: M3060_S9000_G0090_001_select
+JP: 伝えたい事がある。
+EN: I have something I want to say.
+RU: 
+
+ID: M3060_S9000_G0100_001_select
+JP: 何もない。
+EN: Nope, nothing at all.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S9000_G0190_001_pod042
+JP: 了解：タイトルに戻る。
+EN: Understood. Returning to title screen.
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S9000_G0130_001_pod153
+JP: ポッド０４２よりプレイヤーへ。
+EN: Pod 042 to player.
+RU: 
+
+ID: M3060_S9000_G0140_001_pod153
+JP: 質問が存在する。
+EN: Please respond to this query.
+RU: 
+
+ID: M3060_S9000_G0150_001_pod042
+JP: このゲームのプレイヤーである、<player>は……
+EN: You, <player>, faithful player of this title,
+RU: 
+
+ID: M3060_S9000_G0160_001_pod042
+JP: 最後のゲームで何度も命を失った。
+EN: have lost your life multiple times to make it this far.
+RU: 
+
+ID: M3060_S9000_G0170_001_pod042
+JP: 君は苦痛と苦難を知る者だ。
+EN: You have faced crushing hardship, and suffered greatly for it.
+RU: 
+
+ID: M3060_S9000_G0180_001_pod042
+JP: 君に……弱き者達を助ける意思はあるか？
+EN: Do you have any interest in helping the weak?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 4
+
+ID: M3060_S9000_G0200_001_pod042
+JP: この選択肢を選ぶと、君は世界の誰かを救う事が出来る。
+EN: Selecting this option enables you to save someone somewhere in the world.
+RU: 
+
+ID: M3060_S9000_G0210_001_pod042
+JP: だが、代償として全てのセーブデータを失うだろう。
+EN: However, in exchange, you will lose all of your save data.
+RU: 
+
+ID: M3060_S9000_G0220_001_pod042
+JP: それでも、見ず知らずの誰かを助けたいと願うか？
+EN: Do you still wish to rescue someone—a total stranger—in spite of this?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 5
+
+ID: M3060_S9000_G0230_001_pod042
+JP: 助ける相手はランダムで選ばれる。
+EN: The person you save will be selected at random.
+RU: 
+
+ID: M3060_S9000_G0240_001_pod042
+JP: だから、その相手は……
+EN: As a result, this person...
+RU: 
+
+ID: M3060_S9000_G0250_001_pod042
+JP: 助けを求めている相手は、
+EN: who cries out for help even as we speak...
+RU: 
+
+ID: M3060_S9000_G0260_001_pod042
+JP: 君の嫌いな人間かもしれない。
+EN: may be someone you intensely dislike.
+RU: 
+
+ID: M3060_S9000_G0270_001_pod042
+JP: それでも、その誰かを助けるか？
+EN: Do you still wish to help?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 6
+
+ID: M3060_S9000_G0280_001_pod042
+JP: 君が必死で解除したデバッグモードもチャプターセレクトも……
+EN: You worked so hard to unlock Debug Mode and Chapter Select...
+RU: 
+
+ID: M3060_S9000_G0290_001_pod042
+JP: 使用出来なくなる。
+EN: But they will no longer be available to you.
+RU: 
+
+ID: M3060_S9000_G0300_001_pod042
+JP: それでも、助けたいと願うか？
+EN: Do you...still wish to help?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 7
+
+ID: M3060_S9000_G0310_001_pod042
+JP: 君が誰かを助けても、感謝されないかもしれない。
+EN: You may not receive thanks for your efforts.
+RU: 
+
+ID: M3060_S9000_G0320_001_pod042
+JP: 君の行いは、偽善と呼ばれるかもしれない。
+EN: Some may say that your efforts are purely for show.
+RU: 
+
+ID: M3060_S9000_G0330_001_pod042
+JP: それでも、助けたいと願うか？
+EN: Do you still wish to help?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 8
+
+ID: M3060_S9000_G0340_001_pod042
+JP: 本当に……本当にそれで良いのか？
+EN: And you are truly—TRULY—sure about this?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 9
+
+ID: M3060_S9000_G0350_001_pod042
+JP: ……わかった。
+EN: ...Very well.
+RU: 
+
+ID: M3060_S9000_G0360_001_pod042
+JP: 全てのデータを代償として……
+EN: In exchange for all of your data...
+RU: 
+
+ID: M3060_S9000_G0370_001_pod042
+JP: 君の意思をこの世界に伝えよう。
+EN: I will convey your will to this world.
+RU: 
+
+
+-- Section 10
+
+ID: M3060_S9000_G0190_001_pod042
+JP: 了解：タイトルに戻る。
+EN: Understood. Returning to title screen.
+RU: 
+
+
+-- Section 11
+
+ID: M3060_S9000_G0380_001_pod042
+JP: 全データの削除、完了。
+EN: All of your data has been deleted.
+RU: 
+
+ID: M3060_S9000_G0390_001_pod042
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S9000_G0400_001_pod153
+JP: これで、お別れだ。
+EN: And so, we must say goodbye.
+RU: 
+
+ID: M3060_S9000_G0410_001_pod153
+JP: ……少し、さみしいと、感じる。
+EN: I feel a slight amount...of sadness.
+RU: 
+
+ID: M3060_S9000_G0420_001_pod042
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S9000_G0430_001_pod042
+JP: 最後の言葉を。
+EN: It is time for the final words.
+RU: 
+
+ID: M3060_S9000_G0440_001_pod153
+JP: ……了解。
+EN: Affirmative.
+RU: 
+
+ID: M3060_S9000_G0450_001_pod042
+JP: このゲームをプレイしてくれたプレイヤーに……
+EN: To all of you who spent time with this game...
+RU: 
+
+ID: M3060_S9000_G0460_001_pod042
+JP: 本当に……
+EN: Thank you.
+RU: 
+
+ID: M3060_S9000_G0480_001_pod042
+JP: 本当にありがとうございました。
+EN: Thank you for playing.
+RU: 
+
+
+-- Section 12
+
+ID: M3060_S9000_G0190_001_pod042
+JP: 了解：タイトルに戻る。
+EN: Understood. Returning to title screen.
+RU: 
+
+

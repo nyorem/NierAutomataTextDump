@@ -1,0 +1,306 @@
+-- Section 1
+
+ID: M5330_S0010_G0000_001_a9s
+JP: へえ……変わった花ですね。
+EN: Hmm. That's a strange flower.
+RU: 
+
+ID: M5330_S0010_G0010_001_pod153
+JP: 『月の涙』と呼ばれる植物。
+EN: Analysis: It is a plant known as a Lunar Tear.
+RU: 
+
+ID: M5330_S0010_G0020_001_a2b
+JP: 月の涙……
+EN: A Lunar Tear...
+RU: 
+
+
+-- Section 2
+
+ID: M5330_S0000_G0030_001_a2
+JP: 変わった花だな……
+EN: What a weird flower...
+RU: 
+
+ID: M5330_S0000_G0040_001_a9s
+JP: ……
+EN: ...
+RU: 
+
+
+-- Section 3
+
+ID: M5330_S0000_G0010_001_a2b
+JP: 不思議な花だ……
+EN: What an odd flower...
+RU: 
+
+ID: M5330_S0000_G0020_001_a9s
+JP: 不思議な花だ……
+EN: That's a peculiar little flower...
+RU: 
+
+
+-- Section 4
+
+ID: M5330_S0010_G0030_001_eml
+JP: ……
+EN: ......
+RU: 
+
+ID: M5330_S0010_G0040_001_a9s
+JP: ……いつの間に！？
+EN: Huh? When did YOU get here!?
+RU: 
+
+ID: M5330_S0010_G0050_001_eml
+JP: この花……月の涙って言うんですね。
+EN: So this flower is called a Lunar Tear...
+RU: 
+
+ID: M5330_S0010_G0060_001_eml
+JP: これを見ていると、何だか色々な事を思いだします。
+EN: Seeing that dredges up all kinds of memories.
+RU: 
+
+ID: M5330_S0010_G0070_001_eml
+JP: 何故だか判りませんが……巨大なイノシシに何度も襲われた事や……
+EN: Some of them are a bit strange, honestly. Like the one where I'm being attacked by a giant boar over and over again?
+RU: 
+
+ID: M5330_S0010_G0080_001_eml
+JP: 身体を壊されて、その度に色んな部位を装着して試したりとか……
+EN: Or another where I keep trying out new parts every time my body is damaged...
+RU: 
+
+ID: M5330_S0010_G0090_001_a9s
+JP: な、なかなか壮絶ですね。
+EN: Sounds rough.
+RU: 
+
+ID: M5330_S0010_G0100_001_eml
+JP: それに……この花を見ると、良く判らない感情に満たされるんです。
+EN: Something about this flower fills me with an emotion I don't really understand.
+RU: 
+
+ID: M5330_S0010_G0110_001_eml
+JP: 胸のあたりが、きゅうっとするような……
+EN: It's like something's pushing down on my chest really hard...
+RU: 
+
+ID: M5330_S0010_G0120_001_eml
+JP: ……あの、ひとつお願いがあるんですけど、いいですか？
+EN: So, um...do you mind if I ask you a favor?
+RU: 
+
+ID: M5330_S0010_G0130_001_eml
+JP: もし、この『月の涙』の咲いている場所を他にも見つけたら教えてください。
+EN: If you find Lunar Tears growing anywhere else, would you let me know?
+RU: 
+
+ID: M5330_S0010_G0140_001_eml
+JP: この、良く判らない想いの正体を知りたいんです……
+EN: I want to try and figure out what this feeling is all about.
+RU: 
+
+ID: M5330_S0010_G0150_001_eml
+JP: だから、お願いします！
+EN: What do you say?
+RU: 
+
+ID: M5330_S0010_G0160_001_sele
+JP: 依頼を受ける。
+EN: Accept his request.
+RU: 
+
+ID: M5330_S0010_G0170_001_sele
+JP: 依頼を受けない。
+EN: Refuse.
+RU: 
+
+
+-- Section 5
+
+ID: M5330_S0010_G0210_001_eml
+JP: ええ！？そこを何とか！何とか、お願いします！！
+EN: Whaaaa!? Oh, come on! I'm begging you!
+RU: 
+
+ID: M5330_S0010_G0220_001_sele
+JP: 依頼を受ける。
+EN: Accept his request.
+RU: 
+
+ID: M5330_S0010_G0230_001_sele
+JP: 依頼を受けない。
+EN: Refuse.
+RU: 
+
+
+-- Section 6
+
+ID: M5330_S0010_G0180_001_eml
+JP: ありがとうございます！
+EN: Aw, thanks!
+RU: 
+
+ID: M5330_S0010_G0190_001_eml
+JP: もし、月の涙を見つけた時は、この周波数に通信してください。
+EN: If you find another Lunar Tear, just let me know on this frequency, all right?
+RU: 
+
+ID: M5330_S0010_G0200_001_eml
+JP: では、お願いします！
+EN: I'm counting on you!
+RU: 
+
+
+-- Section 7
+
+ID: M5330_S0080_G0000_001_a9s
+JP: エミールさんから渡された鍵は、ここのものですよね。
+EN: This must be what Emil's key is for.
+RU: 
+
+
+-- Section 8
+
+ID: M5330_S0080_G0005_001_telo
+JP: 鍵を使用した。
+EN: You used the key.
+RU: 
+
+
+-- Section 9
+
+ID: M5330_S0080_G0010_001_a9s
+JP: すごい、こんなに月の涙が……！
+EN: Wow... Look at all the Lunar Tears!
+RU: 
+
+ID: M5330_S0080_G0020_001_a2b
+JP: この場所は……？
+EN: Where are we...?
+RU: 
+
+ID: M5330_S0080_G0030_001_eml
+JP: 来てくれて、ありがとうございます。
+EN: Thank you for coming.
+RU: 
+
+ID: M5330_S0080_G0040_001_a2b
+JP: エミール、ここは？
+EN: Emil, what is this place?
+RU: 
+
+ID: M5330_S0080_G0050_001_eml
+JP: 僕がどうしても守りたかった、大切な思い出の場所です。
+EN: It's the place from my memories that I worked so hard to protect.
+RU: 
+
+ID: M5330_S0080_G0060_001_eml
+JP: ……いえ、正確には『僕だった』人、なのですが。
+EN: Or, to be exact, the place protected by the person I used to be.
+RU: 
+
+ID: M5330_S0080_G0070_001_a9s
+JP: 良くわからないな……詳しく教えてくれますか？
+EN: Er, sorry. I don't get it.
+RU: 
+
+
+-- Section 10
+
+ID: M5330_S0080_G0160_001_eml
+JP: ここは、元々のオリジナルのエミールが好きだった場所。
+EN: The original Emil liked this place a lot.
+RU: 
+
+ID: M5330_S0080_G0170_001_eml
+JP: ずうっと昔、大好きな人達と一緒に過ごした場所。つらい事も、悲しい事もたくさんあったけれど……
+EN: He spent a lot of time here with people he loved. They were tough times... Sad times...
+RU: 
+
+ID: M5330_S0080_G0180_001_eml
+JP: でも、オリジナルにとってあの旅の記憶は、本当に、本当に\n宝物だったんです。
+EN: But the memories of that journey were his greatest treasure.
+RU: 
+
+ID: M5330_S0080_G0190_001_eml
+JP: 僕の記憶の中にも、微かな名残りとして残っています。
+EN: And I have a few traces of those memories in my own mind.
+RU: 
+
+ID: M5330_S0080_G0200_001_a9s
+JP: そのオリジナルってのは、どこに？
+EN: Where's the original Emil now?
+RU: 
+
+ID: M5330_S0080_G0210_001_eml
+JP: わかりません。僕らはその……あまりにも数が多くなってしまったので。
+EN: I don't know. There were so many of us that after a while, we just...
+RU: 
+
+ID: M5330_S0080_G0220_001_a9s
+JP: そうなんだ……
+EN: Oh.
+RU: 
+
+ID: M5330_S0080_G0230_001_eml
+JP: そして、僕達には決着しなければいけない事がある……
+EN: And there's still something that all of us Emils need to settle...
+RU: 
+
+ID: M5330_S0080_G0240_001_a2b
+JP: え？
+EN: Hmm?
+RU: 
+
+ID: M5330_S0080_G0250_001_eml
+JP: ……
+EN: ......
+RU: 
+
+ID: M5330_S0080_G0260_001_eml
+JP: ああ、そうだ。これまでのお礼に、これを渡そうと思ってたんです。\nどうか受け取ってください。
+EN: Ah, right. I should probably repay you for all of your help.\nPlease take this.
+RU: 
+
+ID: M5330_S0080_G0270_001_eml
+JP: 月の涙は、願いが叶う花だと言われているんですよ。
+EN: It's said that a Lunar Tear can make any wish come true.
+RU: 
+
+ID: M5330_S0080_G0280_001_a2b
+JP: ……ありがとう。
+EN: ...Thank you.
+RU: 
+
+ID: M5330_S0080_G0290_001_eml
+JP: 僕の方こそ、ありがとうございました。
+EN: Oh no! I'm the one who should be thanking you.
+RU: 
+
+ID: M5330_S0080_G0300_001_eml
+JP: おかげで、大切なものを思い出す事ができました。この思い出があれば、\n僕は一人でも頑張れます。
+EN: You've helped me find some of my precious memories. Now I'll be able to keep pushing forward, even if I'm alone.
+RU: 
+
+
+-- Section 11
+
+ID: M5330_S0080_G0300_001_eml
+JP: おかげで、大切なものを思い出す事ができました。この思い出があれば、\n僕は一人でも頑張れます。
+EN: You've helped me find some of my precious memories. Now I'll be able to keep pushing forward, even if I'm alone.
+RU: 
+
+
+-- Section 12
+
+ID: M5330_S0010_G0190_001_eml
+JP: もし、月の涙を見つけた時は、この周波数に通信してください。
+EN: If you find another Lunar Tear, just let me know on this frequency, all right?
+RU: 
+
+

@@ -1,0 +1,30 @@
+ID: M3010_S0090_H0000_001_a2
+JP: ……ッ！！
+EN:  
+RU: 
+
+ID: M3010_S0090_H0005_001_n02
+JP: ママ……
+EN: Mama...
+RU: 
+
+ID: M3010_S0090_H0010_001_a2b
+JP: 私達は、同じだ。
+EN: You and I...are the same.
+RU: 
+
+ID: M3010_S0090_H0020_001_a2b
+JP: 誰にも頼れず、ただ泣き叫んでい……
+EN: We have no one to help us. We can only cry and scream—
+RU: 
+
+ID: M3010_S0090_H0030_001_a2
+JP: うるさいッ……
+EN: I said SHUT UP!
+RU: 
+
+ID: M3010_S0090_H0040_001_a2
+JP: うるさい……
+EN: Just shut up...
+RU: 
+

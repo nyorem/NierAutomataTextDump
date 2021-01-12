@@ -1,0 +1,15 @@
+ID: M1060_S0920_H0000_001_op60
+JP: つ……通信途絶……
+EN: S-Signal lost...
+RU: 
+
+ID: M1060_S0920_H0010_001_cmd
+JP: 墜落したヨルハ部隊の捜索と救援部隊を編成しろっ！
+EN: Organize a search-and-rescue party for the missing YoRHa members at once!
+RU: 
+
+ID: M1060_S0920_H0020_001_cmd
+JP: ２Ｂ、９Ｓ……死ぬなよ。
+EN: 2B... 9S... Don't die on me...
+RU: 
+

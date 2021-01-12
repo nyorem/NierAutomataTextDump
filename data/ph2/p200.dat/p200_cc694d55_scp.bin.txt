@@ -1,0 +1,74 @@
+-- Section 1
+
+ID: M1090_S0120_G0000_101_ane
+JP: ２Ｂッ！
+EN: 2B!
+RU: 
+
+ID: M1090_S0120_G0010_101_a2b
+JP: 大丈夫！？
+EN: You okay?
+RU: 
+
+ID: M1090_S0120_G0020_101_ane
+JP: 急に奴らがキャンプになだれ込んできて……
+EN: They came out of nowhere. Overran the entire camp.
+RU: 
+
+ID: M1090_S0120_G0030_101_ane
+JP: 応戦したんだが、銃が効かないんだ！
+EN: We tried to fight back, but our shots have no effect!
+RU: 
+
+ID: M1090_S0120_G0040_101_pod042
+JP: 敵個体からエネルギーシールドを確認
+EN: Alert: Energy shields detected on multiple enemy fighters.
+RU: 
+
+ID: M1090_S0120_G0050_101_pod042
+JP: 推奨：近接物理攻撃。
+EN: Physical attacks recommended.
+RU: 
+
+ID: M1090_S0120_G0060_101_a2b
+JP: わかった！貴方は他のアンドロイドを退避させて！
+EN: Got it. You get the other androids out of here!
+RU: 
+
+ID: M1090_S0120_G0070_101_ane
+JP: 頼む！
+EN: Good luck!
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0120_G0080_101_ane
+JP: ありがとう２Ｂ。助かったよ……
+EN: 2B, you...you saved our lives.
+RU: 
+
+ID: M1090_S0120_G0090_101_a2b
+JP: 一体、何が？
+EN: What's going on here?
+RU: 
+
+ID: M1090_S0120_G0100_101_ane
+JP: わからない……奴ら、急にこの拠点に攻め込んできて……
+EN: I have no idea. They came out of nowhere and just—
+RU: 
+
+
+-- Section 3
+
+ID: M1090_S0120_G0110_101_a2b
+JP: 何！？
+EN: Huh!?
+RU: 
+
+ID: M1090_S0120_G0120_101_ane
+JP: キャンプの外から聞こえたぞ！
+EN: That was outside the camp!
+RU: 
+
+

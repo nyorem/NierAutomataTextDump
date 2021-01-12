@@ -1,0 +1,45 @@
+ID: M1030_S0040_S0000_201_pod042
+JP: こちら随行支援ユニット：ポッド０４２。
+EN: This is Tactical Support Pod 042.
+RU: 
+
+ID: M1030_S0040_S0010_201_pod042
+JP: 操作主権は２Ｂにセットされている。
+EN: Control has been assigned to 2B.
+RU: 
+
+ID: M1030_S0040_S0020_201_pod153
+JP: こちら随行支援ユニット：ポッド１５３。
+EN: This is Weapon Support Pod 153.
+RU: 
+
+ID: M1030_S0040_S0030_201_pod153
+JP: 操作主権は９Sにセットされている。
+EN: Control has been assigned to 9S.
+RU: 
+
+ID: M1030_S0040_S0040_201_pod042
+JP: 要請：戦闘データの交換。
+EN: Battle data exchange requested.
+RU: 
+
+ID: M1030_S0040_S0050_201_pod153
+JP: 承認。
+EN: Exchange accepted.
+RU: 
+
+ID: M1030_S0040_S0060_201_pod042
+JP: 提案：効率化の為に諸データの交換を随時行う事。
+EN: Proposal: Data should be exchanged regularly for greater efficiency.
+RU: 
+
+ID: M1030_S0040_S0070_201_pod153
+JP: 承認：効率化の為に諸データの交換を随時行う。
+EN: Proposal accepted. Data will be exchanged regularly.
+RU: 
+
+ID: M1030_S0040_S0080_201_pod042
+JP: 以上。
+EN: End communication.
+RU: 
+

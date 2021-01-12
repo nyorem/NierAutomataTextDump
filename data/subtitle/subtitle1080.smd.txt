@@ -1,0 +1,30 @@
+ID: M3060_S0010_S0000_001_pod153
+JP: ボディユニットチェック完了。
+EN: Physical check complete.
+RU: 
+
+ID: M3060_S0010_S0010_001_pod153
+JP: メモリーユニットチェック完了。
+EN: Memory check complete.
+RU: 
+
+ID: M3060_S0010_S0020_001_pod153
+JP: メンテナンスモード終了。
+EN: Maintenance mode complete.
+RU: 
+
+ID: M3060_S0010_S0030_001_pod153
+JP: ヨルハ機体９Ｓ。起動。
+EN: YoRHa unit 9S... Engage.
+RU: 
+
+ID: M3060_S0010_S0040_001_a9s
+JP: う……
+EN: Ooof.
+RU: 
+
+ID: M3060_S0010_S0050_001_pod153
+JP: おはようございます。９Ｓ。
+EN: Good morning, 9S.
+RU: 
+

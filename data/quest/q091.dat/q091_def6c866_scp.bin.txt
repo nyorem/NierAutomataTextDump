@@ -1,0 +1,126 @@
+-- Section 1
+
+ID: M5091_S0010_G0000_001_andmys
+JP: 会員証をお持ちですか？
+EN: Hey! Do you have a membership card?
+RU: 
+
+ID: M5091_S0010_G0010_001_a2b
+JP: 会員証？
+EN: A membership card?
+RU: 
+
+ID: M5091_S0010_G0020_001_a2
+JP: ……会員証？
+EN: A what?
+RU: 
+
+ID: M5091_S0010_G0030_001_a9s
+JP: 会員証？
+EN: A membership card?
+RU: 
+
+
+-- Section 2
+
+ID: M5091_S0010_G0040_001_andmys
+JP: この場所は会員証をお持ちの方しかお通し出来ません。
+EN: I can't let anyone in here if they don't have a membership card.
+RU: 
+
+ID: M5091_S0010_G0050_001_andmys
+JP: お帰りを……
+EN: Now begone from here!
+RU: 
+
+ID: M5091_S0010_G0060_001_sele
+JP: もう一度交渉してみる。
+EN: Negotiate.
+RU: 
+
+ID: M5091_S0010_G0070_001_sele
+JP: 素直に帰る。
+EN: Do as you're told.
+RU: 
+
+
+-- Section 3
+
+ID: M5091_S0010_G0080_001_andmys
+JP: くどいですね……
+EN: I told you to scram!
+RU: 
+
+ID: M5091_S0010_G0090_001_andmys
+JP: ここは会員証が無いと入れないのです。
+EN: You're not getting in here without a membership card!
+RU: 
+
+ID: M5091_S0010_G0100_001_sele
+JP: 金をチラつかせる。
+EN: Let money do the talking.
+RU: 
+
+ID: M5091_S0010_G0110_001_sele
+JP: あきらめて帰る。
+EN: Give up and leave.
+RU: 
+
+
+-- Section 4
+
+ID: M5091_S0010_G0120_001_andmys
+JP: わ、私が買収などという手に乗るとでも？
+EN: You think I can just be bribed like that!?
+RU: 
+
+ID: M5091_S0010_G0130_001_andmys
+JP: 失礼極まりない！
+EN: I've never been this insulted in my LIFE!
+RU: 
+
+ID: M5091_S0010_G0140_001_sele
+JP: １０００Ｇ渡す。
+EN: Give 1000 G.
+RU: 
+
+ID: M5091_S0010_G0150_001_sele
+JP: 買収は悪い事なのでやめる。
+EN: Don't offer a bribe.
+RU: 
+
+
+-- Section 5
+
+ID: M5091_S0010_G0180_001_andmys
+JP: ……会員証を確認しました。
+EN: Hmm... Well, this card appears to be in order.
+RU: 
+
+ID: M5091_S0010_G0190_001_andmys
+JP: それでは、こちらへどうぞ。
+EN: Please, this way.
+RU: 
+
+
+-- Section 6
+
+ID: M5091_S0010_G0195_001_andmys
+JP: あなた、全然お金を持ってないじゃないですか！？
+EN: What, you don't even have any money on you!?
+RU: 
+
+ID: M5091_S0010_G0196_001_andmys
+JP: そ、そもそも私は買収など汚い手にはのりませんよ！
+EN: N-not that I'd ever accept a bribe or anything!
+RU: 
+
+
+-- Section 7
+
+ID: M5091_S0010_G0190_001_andmys
+JP: それでは、こちらへどうぞ。
+EN: Please, this way.
+RU: 
+
+

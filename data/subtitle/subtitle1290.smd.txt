@@ -1,0 +1,20 @@
+ID: M5090_S0040_H0130_001_plato
+JP: 強く、強く、モット強く……
+EN: Stronger, stronger... You must become stronger.
+RU: 
+
+ID: M5090_S0040_H0140_001_plato
+JP: ソウ言われて、ボクあ頑張ってきたよ。
+EN: That's what they kept telling me, so I tried.
+RU: 
+
+ID: M5090_S0040_H0150_001_plato
+JP: 強くナロウト、頑張ったんラヨ。
+EN: I tried to become stronger. I tried and I tried.
+RU: 
+
+ID: M5090_S0040_H0160_001_plato
+JP: デモ……僕は……
+EN: But in the end... I...
+RU: 
+

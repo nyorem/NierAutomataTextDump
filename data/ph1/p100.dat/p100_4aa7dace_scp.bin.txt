@@ -1,0 +1,494 @@
+-- Section 1
+
+ID: M1010_S0010_G0000_300_a9s
+JP: ２Ｂさん、聞こえますか。\n起動セットアップを始めますね。
+EN: 2B, can you hear me? I'm starting your boot sequence.
+RU: 
+
+ID: M1010_S0010_G0010_300_a9s
+JP: まず、システムの明度設定を確認してください。
+EN: First, you'll want to check your brightness settings.
+RU: 
+
+
+-- Section 2
+
+ID: M1010_S0010_G0020_300_a9s
+JP: あれ、明度調整の方法、わかりませんか？\nどこかの入力に対応してると思うんですが……
+EN: ...Hmm? You don't know how to adjust the brightness? I think it's set up to respond to some kind of input.
+RU: 
+
+
+-- Section 3
+
+ID: M1010_S0010_G0030_300_a9s
+JP: ……えーと。わかりました。ちょっと待って下さい。
+EN: Er, all right. Just give me a second here...
+RU: 
+
+
+-- Section 4
+
+ID: M1010_S0010_G0040_300_a9s
+JP: ガイドを発見しました！ガイドに従ってください。
+EN: Okay, I found the guide! If you can just follow that, it'll make things easier.
+RU: 
+
+
+-- Section 5
+
+ID: M1010_S0010_G0050_300_a9s
+JP: それでは、早速始めますね。
+EN: Right then. Let's get started.
+RU: 
+
+ID: M1010_S0010_G0060_300_a9s
+JP: 一つずつ調整していきましょう。
+EN: We'll go through each adjustment in order.
+RU: 
+
+ID: M1010_S0010_G0070_300_a9s
+JP: まずはそのまま明度の調整、お願いします。
+EN: Let's start by getting the brightness set.
+RU: 
+
+
+-- Section 6
+
+ID: M1010_S0010_G0080_300_a9s
+JP: ２Ｂさん、この値で大丈夫ですか？
+EN: Okay. How does this look?
+RU: 
+
+ID: M1010_S0010_G0090_300_a2b
+JP: はい
+EN: Okay
+RU: 
+
+ID: M1010_S0010_G0110_300_a2b
+JP: いいえ
+EN: Not good
+RU: 
+
+
+-- Section 7
+
+ID: M1010_S0010_G0100_300_a9s
+JP: 了解です。
+EN: Roger that.
+RU: 
+
+ID: M1010_S0010_G0120_300_a9s
+JP: あっ、そうそう。セットアップのプロセスは一応記録させてもらっています。
+EN: Oh, and I should probably let you know that this entire process is being recorded for posterity.
+RU: 
+
+
+-- Section 8
+
+ID: M1010_S0010_G0100_300_a9s
+JP: 了解です。
+EN: Roger that.
+RU: 
+
+
+-- Section 9
+
+ID: M1010_S0010_G0130_300_a9s
+JP: それでは、次は音声認識の設定です。
+EN: Now let's take a look at your voice recognition settings.
+RU: 
+
+ID: M1010_S0010_G0140_300_a9s
+JP: 音声認識の設定がミュートになっているので、調整お願いします。\n今から実際に呼びかけるので、僕の声が聴こえるようにしてください。
+EN: Seems your voice recognition is set to mute, which isn't gonna work. I'm gonna call out to you now—make sure you can hear my voice.
+RU: 
+
+
+-- Section 10
+
+ID: M1010_S0010_G0150_300_a9s
+JP: ２Ｂさーん、聞こえますかー？
+EN: Ma'am? Are you there? Can you hear me?
+RU: 
+
+ID: M1010_S0010_G0160_300_a9s
+JP: えー、もしもーし、聞こえるように調整お願いしまーす。
+EN: Uh, hellooo? Go ahead and adjust your settings so you can hear me, all right?
+RU: 
+
+ID: M1010_S0010_G0170_300_a9s
+JP: 僕の声が聴こえるように調整お願いしまーす。
+EN: Adjust the settings until you can hear my voice.
+RU: 
+
+ID: M1010_S0010_G0180_300_a9s
+JP: あ、あのー、恥ずかしいので早くしてもらえますか……？
+EN: Er, could you try and pick up the pace a little bit? This is getting embarrassing...
+RU: 
+
+
+-- Section 11
+
+ID: M1010_S0010_G0190_300_a9s
+JP: え、僕の声、聞こえてないですよね？
+EN: Wait, you shouldn't be able to hear me now...
+RU: 
+
+
+-- Section 12
+
+ID: M1010_S0010_G0200_300_a9s
+JP: これで問題ありませんか？
+EN: All right. Are we good now?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+ID: M1010_S0010_G0240_300_a2b
+JP: 大丈夫……９Ｓの声って……何か安心する。
+EN: I'm fine, 9S. There's something calming about your voice.
+RU: 
+
+
+-- Section 13
+
+ID: M1010_S0010_G0220_300_a9s
+JP: はい、これで設定は完了です。
+EN: Okay! Settings should all be good to go.
+RU: 
+
+
+-- Section 14
+
+ID: M1010_S0010_G0100_300_a9s
+JP: 了解です。
+EN: Roger that.
+RU: 
+
+
+-- Section 15
+
+ID: M1010_S0010_G0250_300_a9s
+JP: ！！……あ、ありがとうございます。\nこれでオプションの設定は完了です。
+EN: Oh, uh, th-thank you! ...Anyway, that takes care of the settings.
+RU: 
+
+
+-- Section 16
+
+ID: M1010_S0010_G0260_300_a9s
+JP: う！……な、なんだ！？勝手に心拍数が上昇してる！？
+EN: Ngh!? What the heck? My pulse rate is rising!
+RU: 
+
+ID: M1010_S0010_G0270_300_a9s
+JP: なんだ、これ……あれ、正常値に戻った……
+EN: Hmm... It seems to be back to normal now. How odd.
+RU: 
+
+
+-- Section 17
+
+ID: M1010_S0010_G0280_300_a9s
+JP: あれ？自爆許可の項目が消えてる。\nちょっと待ってください！すぐに復元できるので！！
+EN: Er, hold on. Your self-destruct permissions are missing.\nWait a sec, we need to restore those.
+RU: 
+
+
+-- Section 18
+
+ID: M1010_S0010_G0290_300_a9s
+JP: 僕が設定しても良いんですが、\n一応規則なので２Ｂさんが設定してくださいね。
+EN: I could set it for you, but you should probably do it yourself. Regulations and all, you know?
+RU: 
+
+
+-- Section 19
+
+ID: M1010_S0010_G0300_300_a9s
+JP: ……？？？ダメですよ、ちゃんとＯＮにしてください。
+EN: Huh? Wait, no. You need to leave that turned on.
+RU: 
+
+
+-- Section 20
+
+ID: M1010_S0010_G0310_300_a9s
+JP: えーと、ダメですよ。特別なケース以外、設定は必須です。
+EN: Yeah, you can't really do that. It needs to be turned on except in very specific cases.
+RU: 
+
+
+-- Section 21
+
+ID: M1010_S0010_G0320_300_a9s
+JP: 見逃せません。許可してください。
+EN: I'm afraid I can't leave this as-is, ma'am. Please give your permission.
+RU: 
+
+
+-- Section 22
+
+ID: M1010_S0010_G0330_300_a9s
+JP: もう！困らせないでください。規則なんですから。
+EN: Hey, come on now! I'm just trying to follow regulations here.
+RU: 
+
+
+-- Section 23
+
+ID: M1010_S0010_G0340_300_a9s
+JP: OKです。\nいざという時は、身を挺して作戦を遂行する必要がありますからね。
+EN: Okay, good. If things go wrong during an op, you may have to sacrifice yourself in order to finish it, sooo...
+RU: 
+
+ID: M1010_S0010_G0360_300_a9s
+JP: 設定が終わったら、この画面を終了してください。
+EN: Once you're finished making adjustments, you can go ahead and close this out.
+RU: 
+
+
+-- Section 24
+
+ID: M1010_S0010_G0370_300_a9s
+JP: あ、振動検知の機能を有効にしたんですね。\nそれでは、簡単にテストしてみましょうか。
+EN: Oh, I see you've turned vibration detection on. Let's run a check to make sure it's working.
+RU: 
+
+ID: M1010_S0010_G0380_300_a9s
+JP: 今から、実際に肩を軽く叩いてみますね。
+EN: I'm gonna tap you on the shoulders, all right?
+RU: 
+
+
+-- Section 25
+
+ID: M1010_S0010_G0420_300_a9s
+JP: あれ？おかしいですね。設定は正しいはずなのに。
+EN: Huh? That's odd. Everything should be set up correctly.
+RU: 
+
+ID: M1010_S0010_G0430_300_a9s
+JP: ちょっと叩く場所を変えてみましょうか。次は、腕を軽く叩きますよ。
+EN: Here, let me try somewhere else. I'm gonna tap you on the arm this time, okay?
+RU: 
+
+
+-- Section 26
+
+ID: M1010_S0010_G0480_300_a9s
+JP: え！？本当ですか？？
+EN: Huh? Really?
+RU: 
+
+
+-- Section 27
+
+ID: M1010_S0010_G0490_300_a9s
+JP: ２Ｂ、絶対わかってると思うんだけど……\n僕のこと、からかってるのかな……
+EN: 2B must have felt that... Maybe she's just messing with me.
+RU: 
+
+
+-- Section 28
+
+ID: M1010_S0010_G0500_300_a9s
+JP: うーん、仕方ないですね。ここはどうですか？
+EN: Well, if you say so. How about this?
+RU: 
+
+
+-- Section 29
+
+ID: M1010_S0010_G0510_300_a9s
+JP: 次はここにしよう、でもなんだか怒られそうだな。
+EN: Should I tap her here, though? She might get angry at me.
+RU: 
+
+
+-- Section 30
+
+ID: M1010_S0010_G0560_300_a9s
+JP: 本当ですか！？
+EN: Are you serious?
+RU: 
+
+ID: M1010_S0010_G0570_300_a9s
+JP: 本当に何も感じませんか？
+EN: You didn't feel anything just now?
+RU: 
+
+ID: M1010_S0010_G0580_300_a9s
+JP: じゃ、じゃあこれでどうですか？
+EN: Well then, let's try something else.
+RU: 
+
+
+-- Section 31
+
+ID: M1010_S0010_G0590_300_a9s
+JP: も、もう知りませんよ……
+EN: No turning back now, I guess...
+RU: 
+
+
+-- Section 32
+
+ID: M1010_S0010_G0390_300_a9s
+JP: どうですか？分かりますか？
+EN: How was that? Did you feel it?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 33
+
+ID: M1010_S0010_G0410_300_a9s
+JP: ＯＫ、テスト終了です。
+EN: Okay, check complete.
+RU: 
+
+
+-- Section 34
+
+ID: M1010_S0010_G0440_300_a9s
+JP: 今度はわかりましたよね？
+EN: Did you feel that?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 35
+
+ID: M1010_S0010_G0460_300_a9s
+JP: OK、テスト終了です。
+EN: Okay, check complete.
+RU: 
+
+
+-- Section 36
+
+ID: M1010_S0010_G0520_300_a9s
+JP: ……どうですか？
+EN: Er, how was that?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 37
+
+ID: M1010_S0010_G0540_300_a9s
+JP: OK、テスト終了です。
+EN: Okay, check complete.
+RU: 
+
+
+-- Section 38
+
+ID: M1010_S0010_G0600_300_a9s
+JP: どうですか？
+EN: ...Well?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 39
+
+ID: M1010_S0010_G0620_300_a9s
+JP: はい……ありがとうございました。
+EN: Okay, great. Thanks.
+RU: 
+
+
+-- Section 40
+
+ID: M1010_S0010_G0640_300_a9s
+JP: うーん。今ちょっと原因が判らないので、\n後から精密検査を受けてもらうしかないですね。
+EN: Hmm... I don't know what's causing this, so we'll need to run some precision diagnostics later.
+RU: 
+
+ID: M1010_S0010_G0650_300_a9s
+JP: とりあえず、テストは終了です。
+EN: Regardless, that's the end of the check for now.
+RU: 
+
+
+-- Section 41
+
+ID: M1010_S0010_G0660_300_a9s
+JP: 確かに、自爆するのは嫌ですよね……
+EN: I know no one LIKES the idea of self-destructing.
+RU: 
+
+ID: M1010_S0010_G0670_300_a9s
+JP: 規則では自爆機能は必須ですけど……司令官には、黙っておきます。
+EN: But that's what regulations call for. Still, I'll keep it a secret from the Commander.
+RU: 
+
+
+-- Section 42
+
+ID: M1010_S0010_G0680_300_a9s
+JP: 音声、聞きたくないんですか？？いいですけど……なぜ……
+EN: You...don't want to hear my voice? I mean, it's your choice and all, but...
+RU: 
+
+
+-- Section 43
+
+ID: M1010_S0010_G0690_300_a9s
+JP: 僕が設定をサポートした全ての項目が覆されてしまった。
+EN: You undid the settings I walked you through...
+RU: 
+
+ID: M1010_S0010_G0700_300_a9s
+JP: 僕、嫌われているんだろうか。\nこの先２Ｂさんとうまくやっていけるかなあ……
+EN: Er, this isn't about me, is it? Because I'm really hoping we'll be a good team going forward.
+RU: 
+
+

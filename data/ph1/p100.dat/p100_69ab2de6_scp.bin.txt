@@ -1,0 +1,71 @@
+-- Section 1
+
+ID: M1010_S0040_G0000_001_a9s
+JP: でも、どうして２Ｂのような戦闘モデルが調査を担当するんでしょうか？
+EN: Hey, 2B. Why do you think they sent a combat model like you to a recon job?
+RU: 
+
+ID: M1010_S0040_G0010_001_a9s
+JP: 現地調査なら僕達スキャナーモデルだけで十分なのに。
+EN: If all they want is intel, we Scanner models are built for that kind of thing.
+RU: 
+
+ID: M1010_S0040_G0020_001_a2b
+JP: ……命令に文句を言わない。
+EN: Orders are orders.
+RU: 
+
+ID: M1010_S0040_G0030_001_a9s
+JP: はーい。
+EN: All right, all right.
+RU: 
+
+
+-- Section 2
+
+ID: M1010_S0040_G0031_001_op60
+JP: ２Ｂさん。今回から新装備が搭載されています。
+EN: 2B, you're going to have some new weaponry installed from here on out.
+RU: 
+
+ID: M1010_S0040_G0032_001_op60
+JP: 使用方法を表示しますので確認してください。
+EN: I'll put up instructions for you. Make sure to commit them to memory!
+RU: 
+
+ID: M1010_S0040_G0033_001_a2b
+JP: 了解。
+EN: Roger.
+RU: 
+
+ID: M1010_S0040_G0040_001_op60
+JP: バンカーより２Ｂさんへ。
+EN: Bunker to 2B, come in.
+RU: 
+
+ID: M1010_S0040_G0050_001_op60
+JP: 飛行ユニットの降下地点を設定しました。
+EN: I've set a landing point for your flight units.
+RU: 
+
+ID: M1010_S0040_G0060_001_op60
+JP: レジスタンスのキャンプよりちょっと離れた場所なんですが……
+EN: You'll be touching down quite a ways from the Resistance camp, unfortunately.
+RU: 
+
+ID: M1010_S0040_G0070_001_op60
+JP: 敵への情報漏洩を防止する為なので我慢してください。
+EN: Sorry for the trouble, but we can't risk the enemy discovering their position.
+RU: 
+
+ID: M1010_S0040_G0080_001_a2b
+JP: 了解。
+EN: Understood.
+RU: 
+
+ID: M1010_S0040_G0090_001_op60
+JP: がんばってくださいね！
+EN: Good luck down there!
+RU: 
+
+

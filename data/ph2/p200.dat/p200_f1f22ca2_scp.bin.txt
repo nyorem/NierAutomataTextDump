@@ -1,0 +1,207 @@
+-- Section 1
+
+ID: M1080_S0030_G0480_101_pascal
+JP: 同盟を結びたい機械生命体はこの奥にいるそうです。
+EN: The machines who seek to form an alliance with my village are hiding out here.
+RU: 
+
+ID: M1080_S0030_G0490_101_pascal
+JP: しかし気をつけて下さいね。
+EN: Still, you should probably be careful.
+RU: 
+
+ID: M1080_S0030_G0500_101_pascal
+JP: 我々機械生命体は危険ですから。
+EN: We machines can be rather...unpredictable.
+RU: 
+
+ID: M1080_S0030_G0510_101_a2b
+JP: 自分達が、危険？
+EN: Even you?
+RU: 
+
+ID: M1080_S0030_G0520_101_pascal
+JP: ええ、客観的事実です。
+EN: In truth, yes.
+RU: 
+
+ID: M1080_S0030_G0530_101_pascal
+JP: ネットワークから切り離された私達は、お互いの情報を共有していません。
+EN: Now that we're cut off from the network, we no longer share data with each other.
+RU: 
+
+ID: M1080_S0030_G0540_101_pascal
+JP: 言葉を交わしても、本心とは違うかもしれませんので。
+EN: We can speak, of course, but I find that language contains many ways to hide one's true intentions.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0030_G0550_101_a2b
+JP: ……言葉、か。
+EN: It certainly does.
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0030_G0000_300_pascal
+JP: ２Ｂさん、どこに行くのですか？\n同盟を結びたい機械生命体がいるのは廃工場の中ですよ。
+EN: Where are you going, 2B? The machine lifeforms wishing to form an alliance are in the abandoned factory.
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0040_S0000_101_n02
+JP: ようこそ。神の宿る場所へ。
+EN: You enter the domain of God!
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0050_G0000_101_n02
+JP: 私達は、神の存在に気付きました。
+EN: We have come to know the existence of God.
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0050_G0010_101_n02
+JP: 神の名の下に、全ての存在は平等であらねばなりません。
+EN: And by His word, all living things are to be considered equal.
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0050_G0020_101_n02
+JP: 教祖が貴方がたと和平を結びたいと望んでおられます。
+EN: His Grace wishes to form a pact of peace with your people.
+RU: 
+
+
+-- Section 8
+
+ID: M1080_S0050_G0030_101_n02
+JP: 我々司祭がご案内いたします。奥のお部屋へ、どうぞ。
+EN: We, his humble priests, will guide you to him. This way.
+RU: 
+
+
+-- Section 9
+
+ID: M1080_S0050_G0000_101_n02
+JP: 私達は、神の存在に気付きました。
+EN: We have come to know the existence of God.
+RU: 
+
+
+-- Section 10
+
+ID: M1080_S0050_G0010_101_n02
+JP: 神の名の下に、全ての存在は平等であらねばなりません。
+EN: And by His word, all living things are to be considered equal.
+RU: 
+
+
+-- Section 11
+
+ID: M1080_S0050_G0020_101_n02
+JP: 教祖が貴方がたと和平を結びたいと望んでおられます。
+EN: His Grace wishes to form a pact of peace with your people.
+RU: 
+
+
+-- Section 12
+
+ID: M1080_S0050_G0030_101_n02
+JP: 我々司祭がご案内いたします。奥のお部屋へ、どうぞ。
+EN: We, his humble priests, will guide you to him. This way.
+RU: 
+
+
+-- Section 13
+
+ID: M1080_S0050_G0050_300_n02
+JP: おやめ下さい！！\n我々に戦闘の意思はありません！！
+EN: Stop! We have no desire to fight you!
+RU: 
+
+ID: M1080_S0050_G0060_300_pascal
+JP: 落ち着いて下さい！\n我々は和平交渉の為にここに来たのですから……
+EN: Please, you must be calm! We have come to negotiate peace with you!
+RU: 
+
+
+-- Section 14
+
+ID: M1080_S0050_G0090_101_prst
+JP: こちらの通路をお進みください。
+EN: Down this corridor, if you would.
+RU: 
+
+
+-- Section 15
+
+ID: M1080_S0050_G0100_101_prst
+JP: 教祖様のお部屋に行くには、このエレベーターに乗っていただければ。
+EN: Please board this elevator to access His Grace's sanctum.
+RU: 
+
+
+-- Section 16
+
+ID: M1080_S0050_G0111_101_prst
+JP: そんなに急いでも、教祖様は逃げませんよ。
+EN: You don't have to hurry so! His Grace won't run from you.
+RU: 
+
+
+-- Section 17
+
+ID: M1080_S0050_G0111_101_prst
+JP: そんなに急いでも、教祖様は逃げませんよ。
+EN: You don't have to hurry so! His Grace won't run from you.
+RU: 
+
+
+-- Section 18
+
+ID: M1080_S0050_G0040_101_pascal
+JP: 予測した通り、非常に怪しい集団ですねぇ……
+EN: This all seems pretty shady if you ask me...
+RU: 
+
+ID: M1080_S0050_G0050_101_a2b
+JP: じゃあ何でついてきた？
+EN: So why are you still here?
+RU: 
+
+ID: M1080_S0050_G0060_101_pascal
+JP: ２Ｂさんにここを紹介した以上……
+EN: Well, I brought you this far, didn't I?
+RU: 
+
+ID: M1080_S0050_G0070_101_pascal
+JP: 責任を持って最後までお付き合いする必要がありますので。
+EN: It's my duty to see this through to the end.
+RU: 
+
+ID: M1080_S0050_G0080_101_a2b
+JP: ……一応、感謝しておく。
+EN: ...Appreciated.
+RU: 
+
+
+-- Section 19
+
+ID: M1080_S0050_G0100_300_pascal
+JP: まずは彼らの話だけでも聞いてみましょう。
+EN: We should at least hear them out.
+RU: 
+
+

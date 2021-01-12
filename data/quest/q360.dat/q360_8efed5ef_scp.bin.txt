@@ -1,0 +1,268 @@
+-- Section 1
+
+ID: M5360_S0010_G0000_001_a9s
+JP: あのロボット……何か様子がおかしいな？
+EN: That machine... I think something's wrong with it.
+RU: 
+
+
+-- Section 2
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 3
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 4
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 5
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 6
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 7
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 8
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: 
+
+ID: M5360_S0010_G0020_001_a9s
+JP: オーイ、こんにちはー
+EN: Hellooo? Anybody home in there?
+RU: 
+
+ID: M5360_S0010_G0030_001_n02
+JP: …………
+EN: ......
+RU: 
+
+ID: M5360_S0010_G0040_001_a9s
+JP: 聴こえてるよね？君、こんなところで何してるの？
+EN: Come on, I know you can hear me. What are you doing here?
+RU: 
+
+ID: M5360_S0010_G0050_001_n02
+JP: ……
+EN: ......
+RU: 
+
+ID: M5360_S0010_G0060_001_pod153
+JP: 回路に異常なし。意図的な無反応。いわゆる無視。
+EN: Analysis: Scans indicate no mechanical malfunctions in this unit. Therefore, it must be deliberately ignoring you.
+RU: 
+
+ID: M5360_S0010_G0070_001_a9s
+JP: む……そっちがその気なら、こっちだって。
+EN: So it's gonna be like that, is it?
+RU: 
+
+
+-- Section 9
+
+ID: M5360_S0030_G0010_001_a9s
+JP: オーイ、こんにちはー！
+EN: Hey there, buddy. You listening?
+RU: 
+
+ID: M5360_S0030_G0020_001_n02
+JP: ……
+EN: ......
+RU: 
+
+ID: M5360_S0030_G0030_001_a9s
+JP: やっぱり駄目か。じゃあ、ちょっとハッキングで失礼しますよっと。
+EN: That seems like a big fat no. Guess it won't mind if I hack my way inside...
+RU: 
+
+
+-- Section 10
+
+ID: M5360_S0040_G0010_001_a9s
+JP: こんにちは。
+EN: Hi there.
+RU: 
+
+ID: M5360_S0040_G0020_001_n02
+JP: ……
+EN: ......
+RU: 
+
+ID: M5360_S0040_G0030_001_a9s
+JP: ……少し、覗かせてもらうよ。
+EN: All right, that's enough small talk. Time to root around and see what's what.
+RU: 
+
+
+-- Section 11
+
+ID: M5360_S0020_G0030_001_a9s
+JP: あの音声は、機械生命体の……思考？
+EN: That voice couldn't have been that machine's...thoughts, right?
+RU: 
+
+ID: M5360_S0020_G0040_001_a9s
+JP: 自分の存在意義について悩んでる？
+EN: Was it seriously trying to figure out the meaning of existence?
+RU: 
+
+ID: M5360_S0020_G0050_001_pod153
+JP: 否定：機械生命体は、そのような思考を持たない。
+EN: Negative: Machine lifeforms do not possess such thought routines.
+RU: 
+
+ID: M5360_S0020_G0060_001_a9s
+JP: 確かに……
+EN: Well, yeah, but...
+RU: 
+
+
+-- Section 12
+
+ID: M5360_S0030_G0080_001_a9s
+JP: 何だ……これ！？
+EN: Okay, what the hell was that?
+RU: 
+
+ID: M5360_S0030_G0090_001_a9s
+JP: 自分に価値が見出せなくて……苦しい？
+EN: It's in pain because it can't find value in its own existence?
+RU: 
+
+ID: M5360_S0030_G0100_001_a9s
+JP: 自分はなぜここにいる？なんで存在する？僕は？僕は何の為に……
+EN: It wants to know why it's here? Why it exists?\n...And what about me? Why am I here? Why do I—
+RU: 
+
+ID: M5360_S0030_G0110_001_pod153
+JP: 警告：ハッキングにより電波の同調が見られる。
+EN: Alert: Hacking has resulted in an alignment of synaptic transmissions.
+RU: 
+
+ID: M5360_S0030_G0120_001_a9s
+JP: あ……ああ、ごめん。ありがとう。
+EN: ...Oh. R-Right. Sorry, I just...
+RU: 
+
+ID: M5360_S0030_G0130_001_a9s
+JP: 気をつけないと……
+EN: I'd better be more careful next time.
+RU: 
+
+
+-- Section 13
+
+ID: M5360_S0040_G0080_001_a9s
+JP: うっ……
+EN: ...Oof.
+RU: 
+
+ID: M5360_S0040_G0090_001_pod153
+JP: バイタル値に異常。心拍数に上昇傾向が見られる。
+EN: Alert: Abnormalities detected in vital signs.\nPulse rate nearing dangerous levels.
+RU: 
+
+ID: M5360_S0040_G0100_001_a9s
+JP: 大丈夫……
+EN: I'm all right...
+RU: 
+
+
+-- Section 14
+
+ID: M5360_S0040_G0110_001_n02
+JP: 私達は戦う為に生み出された！
+EN: We were created to fight!
+RU: 
+
+ID: M5360_S0040_G0120_001_n02
+JP: 他者を排除しあらゆる存在の頂点になる為に！
+EN: To eliminate all others and reside at the pinnacle of existence!
+RU: 
+
+ID: M5360_S0040_G0130_001_n02
+JP: だが闘争は永遠に続く！
+EN: Yet the battle rages eternal!
+RU: 
+
+ID: M5360_S0040_G0140_001_n02
+JP: 破壊と再生の輪廻を繰り返すだけの呪われた存在になってしまった！
+EN: Our cursed cycle of destruction and rebirth continues without end!
+RU: 
+
+ID: M5360_S0040_G0150_001_n02
+JP: この世界に私達は愛されていない！
+EN: None of us in this world are loved!
+RU: 
+
+ID: M5360_S0040_G0160_001_n02
+JP: この世界に私達は不要だ！
+EN: This world has no need for us!
+RU: 
+
+ID: M5360_S0040_G0170_001_n02
+JP: だから……
+EN: There is only one solution...
+RU: 
+
+ID: M5360_S0040_G0180_001_a9s
+JP: あ！
+EN: Ah!
+RU: 
+
+ID: M5360_S0040_G0190_001_a9s
+JP: 機械生命体が、自死を選ぶなんて……
+EN: I can't believe that thing decided to end itself...
+RU: 
+
+
+-- Section 15
+
+ID: M5360_S0020_G0070_001_a9s
+JP: 一体、何だったんだ……
+EN: What was it going on about then?
+RU: 
+
+
+-- Section 16
+
+ID: M5360_S0040_G0200_001_a9s
+JP: あの機械生命体が落ちた場所……
+EN: This is where that machine fell...
+RU: 
+
+

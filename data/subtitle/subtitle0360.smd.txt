@@ -1,0 +1,35 @@
+ID: M1040_S0800_S0000_201_a9s
+JP: お父さんを殺しました。
+EN: "I killed my father."
+RU: 
+
+ID: M1040_S0800_S0010_201_a9s
+JP: お母さんを殺しました。
+EN: "I killed my mother."
+RU: 
+
+ID: M1040_S0800_S0020_201_a9s
+JP: お父さんを殺しました。
+EN: "I killed my father."
+RU: 
+
+ID: M1040_S0800_S0030_201_a9s
+JP: お母さんを殺しました。
+EN: "I killed my mother."
+RU: 
+
+ID: M1040_S0800_S0040_201_a9s
+JP: その手には、成長の喜びと……
+EN: And in his hand, he coldly gripped...
+RU: 
+
+ID: M1040_S0800_S0050_201_a9s
+JP: 一人になった孤独が、
+EN: Both the joy of growing up.
+RU: 
+
+ID: M1040_S0800_S0060_201_a9s
+JP: 冷たく握られていました。
+EN: And the agony of being alone.
+RU: 
+

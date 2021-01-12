@@ -1,0 +1,36 @@
+-- Section 1
+
+ID: M3060_S0050_G0000_001_a9s
+JP: 汚染された……ヨルハ機体！
+EN: Corrupted YoRHa units!
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0050_G0010_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: 
+
+ID: M3060_S0050_G0020_001_announce
+JP: この度は『塔』へのご来場、まことにありがとうございます。
+EN: We're so pleased you've chosen to visit the Tower today!
+RU: 
+
+ID: M3060_S0050_G0030_001_announce
+JP: 最後のサブユニットを解除したご来場者様への『ファイナルワン賞』は\nこの先のお部屋にご用意しております。
+EN: Don't forget about the special prize for the guest who unlocks the last sub-unit in the room just ahead.
+RU: 
+
+ID: M3060_S0050_G0040_001_announce
+JP: ごゆっくりとお楽しみください！
+EN: You're going to LOVE IT!
+RU: 
+
+ID: M3060_S0050_G0041_001_a9s
+JP: 皆殺しにしてやる……
+EN: I'm gonna kill you...
+RU: 
+
+

@@ -1,0 +1,286 @@
+-- Section 1
+
+ID: M5031_S0030_G0201_001_a2b
+JP: このロボット……
+EN: This machine...
+RU: 
+
+ID: M5031_S0030_G0202_001_a9s
+JP: ああ、壊れたロボットですね。ちょっと手を入れれば修復できそうです。
+EN: You mean this broken hunk of junk? It looks like we can probably get it running again with a little bit of repair work.
+RU: 
+
+ID: M5031_S0030_G0195_001_a9s
+JP: 記憶領域同士をつなぐ為に、『新品のネジ』４本と、『大きな歯車』を\n入手したいですね。
+EN: Let's see... Four pristine screws and one large gear should be enough to bridge the gap in its memory circuits.
+RU: 
+
+ID: M5031_S0030_G0205_001_a2b
+JP: わかった。
+EN: Fair enough.
+RU: 
+
+ID: M5920_S0010_G0280_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+ID: M5920_S0020_G0280_001_pod153
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 2
+
+ID: M5032_S0010_G0000_001_a2b
+JP: 工場の情報から何かわかった事はある？
+EN: Did you learn anything from the factory data?
+RU: 
+
+ID: M5032_S0010_G0010_001_a9s
+JP: いえ、奴らの製造過程が分かっただけで……
+EN: Just how it was manufactured. Pretty boring, actually.
+RU: 
+
+ID: M5032_S0010_G0020_001_a2b
+JP: 機械生命体についてはまだ判ってない事が多い。
+EN: There's still a lot about machines that we don't understand.
+RU: 
+
+ID: M5032_S0010_G0030_001_a2b
+JP: どんな情報でもいいから、集めておかないと。
+EN: Gather as much data as you can, no matter how irrelevant it may seem.
+RU: 
+
+
+-- Section 3
+
+ID: M5032_S0010_G0050_001_a9s
+JP: これで、あの大型兵器を修理する為の部品が全部揃いましたね。
+EN: Okay. That should be everything we need to repair the machine.
+RU: 
+
+
+-- Section 4
+
+ID: M5032_S0010_G0055_001_telo
+JP: 53分後……
+EN: 53 minutes later...
+RU: 
+
+
+-- Section 5
+
+ID: M5032_S0010_G0080_300_a2b
+JP: ……中々素材が集まらない。
+EN: We still don't have what we need.
+RU: 
+
+
+-- Section 6
+
+ID: M5032_S0020_G0000_001_a9s
+JP: これで……良し……
+EN: Let's see what we've got.
+RU: 
+
+ID: M5032_S0020_G0010_001_eng
+JP: 私ノ名前ハ『エンゲルス』。製造番号ハ１１０−B。
+EN: My name is Engels, serial number 110-B.
+RU: 
+
+ID: M5032_S0020_G0020_001_a9s
+JP: わっ！
+EN: Whoa!
+RU: 
+
+ID: M5032_S0020_G0030_001_eng
+JP: 人類西暦１１９３４年２月ニ製造。
+EN: I was manufactured in February of the human calendar year 11,934 A.D.
+RU: 
+
+ID: M5032_S0020_G0040_001_eng
+JP: 同年８月ニ初出撃。
+EN: My first deployment was in August of that same year.
+RU: 
+
+ID: M5032_S0020_G0050_001_eng
+JP: 現在ノ状況確認ガ必要。
+EN: Requesting confirmation of current status.
+RU: 
+
+ID: M5032_S0020_G0060_001_a9s
+JP: 急にしゃべるからビックリした……
+EN: This thing's getting chattier.
+RU: 
+
+ID: M5032_S0020_G0070_001_eng
+JP: 現在ノ状況確認ガ必要。
+EN: Requesting confirmation of current status.
+RU: 
+
+ID: M5032_S0020_G0080_001_a9s
+JP: ……お前は、僕達アンドロイドに倒され、現在動く事が出来ない。
+EN: Um...well, you were defeated by us androids. That's why you can't move.
+RU: 
+
+ID: M5032_S0020_G0090_001_a9s
+JP: おとなしく持ってる機密情報を渡せ。
+EN: At this point, you should probably just hand over any classified information in your possession.
+RU: 
+
+ID: M5032_S0020_G0100_001_eng
+JP: 了解シタ。
+EN: Understood.
+RU: 
+
+ID: M5032_S0020_G0110_001_a9s
+JP: やけに、あっさりと渡すんだな……
+EN: That was surprisingly easy.
+RU: 
+
+ID: M5032_S0020_G0120_001_eng
+JP: 当機ノ任務ハ既ニ達成サレテオリ、現在ハ命令者不在。
+EN: My mission has already been accomplished. My commander is absent.
+RU: 
+
+ID: M5032_S0020_G0130_001_eng
+JP: 機密ヲ保護スル指令モ受ケテイナイ。
+EN: I have no orders to withhold classified information.
+RU: 
+
+ID: M5032_S0020_G0140_001_eng
+JP: タダシ、戦闘兵器デアル当機ノ情報ハソレホド多クナイ。
+EN: But as a combat weapon, I do not possess a great deal of data.
+RU: 
+
+ID: M5032_S0020_G0150_001_eng
+JP: 期待スルナ。
+EN: You should not expect much.
+RU: 
+
+ID: M5032_S0020_G0160_001_a9s
+JP: なるほどね……
+EN: We'll keep that in mind.
+RU: 
+
+
+-- Section 7
+
+ID: M5032_S0020_G0170_001_eng
+JP: 助ケテクレタ事ヲ感謝スル。
+EN: Thank you for saving me.
+RU: 
+
+ID: M5032_S0020_G0180_001_a2b
+JP: 別に、助けた訳じゃない……
+EN: That's not quite what's happening here.
+RU: 
+
+ID: M5032_S0020_G0190_001_eng
+JP: 良ケレバ、マタ立チ寄ッテクレ。
+EN: Please visit me again.
+RU: 
+
+ID: M5032_S0020_G0200_001_a2b
+JP: どうして？
+EN: Why?
+RU: 
+
+ID: M5032_S0020_G0210_001_eng
+JP: 暇ダカラ。
+EN: Because I have nothing to do.
+RU: 
+
+ID: M5032_S0020_G0220_001_a9s
+JP: 暇……
+EN: Are you trying to say you're bored?
+RU: 
+
+
+-- Section 8
+
+ID: M5032_S0020_G0230_001_a9s
+JP: 変わったロボットでしたね……
+EN: What a strange machine...
+RU: 
+
+
+-- Section 9
+
+ID: M5032_S0010_G0000_300_a2b
+JP: 『新品のネジ』は大型２足から手に入れるとして、”大きな歯車”は？
+EN: We know we can find pristine screws on big bipedal machines, but what about large gears?
+RU: 
+
+ID: M5032_S0010_G0010_300_a9s
+JP: 困った時のオペレーターさん、ですよ。
+EN: Let's try the Operator again.
+RU: 
+
+
+-- Section 10
+
+ID: M5032_S0010_G0080_300_a2b
+JP: ……中々素材が集まらない。
+EN: We still don't have what we need.
+RU: 
+
+ID: M5032_S0010_G0090_300_a9s
+JP: 破損がひどくて使えないものばかりでしたね。
+EN: Yeah. Most of the gears were too damaged to use.
+RU: 
+
+ID: M5032_S0010_G0100_300_a2b
+JP: 少しくらい壊れてても使えるんじゃ……
+EN: Surely just a LITTLE damage won't hurt?
+RU: 
+
+ID: M5032_S0010_G0110_300_a9s
+JP: 無茶言わないでください
+EN: Come on now, 2B.
+RU: 
+
+
+-- Section 11
+
+ID: M5032_S0010_G0020_300_a9s
+JP: オペレーターさん、僕達『大きな歯車』を探してるんですけど、\nどこで入手できるか教えてください。
+EN: 9S to Operator! We're trying to track down a large gear. Any idea where to start the search?
+RU: 
+
+ID: M5032_S0010_G0030_300_op210
+JP: 今度は何をしているんですか？……まぁいいですけど\n『大きな歯車』は小型の機械生命体から入手した記録が残っています。
+EN: Why are you looking for—? Well, anyway, you can salvage the requested material from smaller machine lifeforms.
+RU: 
+
+ID: M5032_S0010_G0040_300_op210
+JP: 破壊時の破損が大きくて、めったに使えるものは手に入らないようですが。
+EN: Finding one intact might prove tricky, however. The part is easily damaged when the machine housing it is destroyed.
+RU: 
+
+ID: M5032_S0010_G0050_300_a9s
+JP: なるほど……情報提供感謝します。
+EN: Thanks, Operator. That's good to know.
+RU: 
+
+ID: M5032_S0010_G0060_300_a2b
+JP: とりあえず、小型の機械生命体を倒しまくればいいのか。
+EN: Right. Let's go take out some small fry.
+RU: 
+
+ID: M5032_S0010_G0070_300_a9s
+JP: ……２Ｂってホント大雑把ですよね。
+EN: Heh. Straight to the point as always, 2B!
+RU: 
+
+
+-- Section 12
+
+ID: M5031_S0020_G0100_300_a2b
+JP: 今はこいつを修理している場合じゃない
+EN: Now's not the time to be fixing this thing.
+RU: 
+
+

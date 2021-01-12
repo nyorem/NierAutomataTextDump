@@ -1,0 +1,106 @@
+-- Section 1
+
+ID: M3060_S0150_G0000_001_a2
+JP: 何だ……この部屋……
+EN: What's up with this place?
+RU: 
+
+ID: M3060_S0150_G0010_001_pod042
+JP: 予測：図書館を模した施設。
+EN: Hypothesis: It is a representation of a library.
+RU: 
+
+ID: M3060_S0150_G0020_001_a2
+JP: 図書館？……何だそれ？
+EN: What's that?
+RU: 
+
+ID: M3060_S0150_G0030_001_pod042
+JP: 過去に人類文明が作り上げた情報保存施設。
+EN: A library is a data-storage facility constructed by past human civilizations.
+RU: 
+
+ID: M3060_S0150_G0040_001_a2
+JP: ふーん。
+EN: Hmm.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0150_G0050_001_a2
+JP: データを見るのにハッキングする必要があるのか。
+EN: I suppose we have to hack in to look at the data, yeah?
+RU: 
+
+ID: M3060_S0150_G0060_001_a2
+JP: ポッド。頼む。
+EN: Help me out, Pod.
+RU: 
+
+ID: M3060_S0150_G0070_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+ID: M3060_S0150_G0080_001_pod042
+JP: ヨルハ機体Ａ２にハッキングインターフェイスへのアクセス権限を付与。
+EN: Hacking-interface access rights granted to YoRHa unit A2.
+RU: 
+
+ID: M3060_S0150_G0090_001_a2
+JP: 良し……
+EN: Peachy.
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S0150_G0100_001_a2
+JP: この『塔』は機械生命体にとっての情報収集装置みたいだな……
+EN: This Tower looks like a data-gathering system for the machines.
+RU: 
+
+
+-- Section 4
+
+ID: M3060_S0150_G0110_001_a2
+JP: 月面の人類サーバーの記録……
+EN: These records are from the human server on the moon...
+RU: 
+
+ID: M3060_S0150_G0120_001_a2
+JP: 機械生命体はそんな場所まで侵入していたのか。
+EN: The machines hacked that deep into the system, huh?
+RU: 
+
+
+-- Section 5
+
+ID: M3060_S0150_G0150_001_a2
+JP: 過去の人間の記録か……
+EN: Some records on old humans...
+RU: 
+
+ID: M3060_S0150_G0160_001_a2
+JP: 数が多すぎて埒が明かないな……
+EN: Damn it, this is useless. There's too many of them.
+RU: 
+
+
+-- Section 6
+
+ID: M3060_S0150_G0170_001_a2
+JP: ……ん？何だアレ？
+EN: Huh? What's that?
+RU: 
+
+
+-- Section 7
+
+ID: M3060_S0150_G0180_001_a2
+JP: 『ヨルハ計画に於ける二号モデル運用概略』……？
+EN: "Operational Summary of Model Number Two in Project YoRHa."
+RU: 
+
+

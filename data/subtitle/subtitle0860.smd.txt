@@ -1,0 +1,30 @@
+ID: M3010_S0010_H0000_001_a2
+JP: それじゃあ……それじゃあ司令部は……！？
+EN: So then...what happened to Command!?
+RU: 
+
+ID: M3010_S0010_H0010_001_n4
+JP: 行って二号！ここは私がッ
+EN: Number 2, go! I can handle—
+RU: 
+
+ID: M3010_S0010_H0020_001_a2
+JP: だめっ……四号ッ……！！
+EN: No! Number 4!
+RU: 
+
+ID: M3010_S0010_H0030_001_a2
+JP: ……ッ！！
+EN:  
+RU: 
+
+ID: M3010_S0010_H0040_001_pod042
+JP: 識別番号Ａ２の起動を確認。
+EN: Activation of unit A2 confirmed.
+RU: 
+
+ID: M3010_S0010_H0050_001_pod042
+JP: おはようございます。Ａ２。
+EN: Good morning, A2.
+RU: 
+

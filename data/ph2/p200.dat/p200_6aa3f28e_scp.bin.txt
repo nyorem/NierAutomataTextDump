@@ -1,0 +1,46 @@
+-- Section 1
+
+ID: M1090_S0240_G0000_001_eve
+JP: ニイチャン……にいチャん……
+EN: Brother... My...brother...
+RU: 
+
+ID: M1090_S0240_G0010_001_eve
+JP: ニ……チャン……イチャン……
+EN: Brother...brother...
+RU: 
+
+ID: M1090_S0240_G0020_001_a2b
+JP: これは……
+EN: What is this?
+RU: 
+
+ID: M1090_S0240_G0030_001_a9s
+JP: 広範囲に強制通信を撒き散らしているみたいです……
+EN: Looks like he's bombarding the area with forced connections...
+RU: 
+
+ID: M1090_S0240_G0031_001_a9s
+JP: おそらく、この強力な通信が敵の機械生命体を\n凶暴にさせているんだと思います。
+EN: I think all these transmissions are making the machines go haywire.
+RU: 
+
+ID: M1090_S0240_G0032_001_a9s
+JP: 『イヴ』を探しだして、破壊しましょう！
+EN: We have to find Eve and destroy him!
+RU: 
+
+ID: M1090_S0240_G0033_001_a2b
+JP: 了解。
+EN: On it.
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0240_G0050_001_a9s
+JP: 一体……何が……
+EN: Now what?
+RU: 
+
+

@@ -1,0 +1,352 @@
+-- Section 1
+
+ID: M6010_S0090_G0100_300_op
+JP: 見なおしたよ。流石だな。\n次も、死ぬなよ。
+EN: Looks like I was wrong about you. Make sure you come back alive next time, too!
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0090_G0110_300_op
+JP: ここからが正念場だ。\nじゃあ、頑張れよ。
+EN: It's do or die from now on. Good luck.
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0100_G0100_300_op
+JP: ……作戦中だ。話しかけるな。
+EN: Please don't talk to me when we're in the middle of a mission.
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0100_G0110_300_op
+JP: ……頼んだぞ。
+EN: Oh, and good luck. We're all counting on you.
+RU: 
+
+
+-- Section 5
+
+ID: M6010_S0090_G0120_300_op
+JP: とってもかっこ良かったよ～！\n今度、時間のある時お話きかせてねぇ～
+EN: You were so cool! Tell me about everything that happened, okay? Leave no detail unspoken!
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0090_G0130_300_op
+JP: ファンになっちゃう～
+EN: I'm gonna start a 2B fan club!
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0100_G0120_300_op
+JP: もう作業中なんだから話しかけたらダメぇ～！
+EN: Please don't bug me when I'm working!
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0100_G0130_300_op
+JP: 無事に帰ってきてよ～！
+EN: Just get out there, kick some machine ass, and come back safe!
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0090_G0140_300_op
+JP: ……ちょっと、いいか。今まで、冷たくして悪かったな。\nお前を見損なっていたようだ。イヴの件、感謝する。
+EN: I'm sorry I was so cold earlier—I clearly misjudged you. Thank you for taking care of Eve.
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0090_G0150_300_op
+JP: 久しぶりにリラックスできたよ。\nこれはお前と９Ｓのおかげだ。
+EN: I can finally relax again. And it's all thanks to you and 9S!
+RU: 
+
+
+-- Section 11
+
+ID: M6010_S0100_G0140_300_op
+JP: ……早く出撃しろ。
+EN: Hurry and move out.
+RU: 
+
+
+-- Section 12
+
+ID: M6010_S0100_G0150_300_op
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 13
+
+ID: M6010_S0090_G0160_300_op
+JP: あなたのおかげで戦況はかなり好転してるわ。\nありがとう。
+EN: We're doing much better thanks to you. Great job!
+RU: 
+
+
+-- Section 14
+
+ID: M6010_S0090_G0170_300_op
+JP: 次も、頑張れる気がする。
+EN: I know you'll keep doing great things.
+RU: 
+
+
+-- Section 15
+
+ID: M6010_S0100_G0160_300_op
+JP: 頑張ってね……
+EN: Good luck.
+RU: 
+
+
+-- Section 16
+
+ID: M6010_S0100_G0170_300_op
+JP: さぁ、もう時間じゃない？
+EN: ...Er, don't you think it's time to go?
+RU: 
+
+
+-- Section 17
+
+ID: M6010_S0090_G0180_300_op
+JP: イヴとの戦闘、見てたぞ。\n義体の使い方本当にうまいんだな。
+EN: I saw your battle with Eve. You have such amazing control over your body! ...I'm kinda jealous.
+RU: 
+
+
+-- Section 18
+
+ID: M6010_S0090_G0190_300_op
+JP: 今度、稽古つけてくれよ。
+EN: Do you think you might give me some tips sometime?
+RU: 
+
+
+-- Section 19
+
+ID: M6010_S0100_G0180_300_op
+JP: 今回も、すごい戦闘データ期待してるからな。\n死んだらデータもロストするから気をつけろよ。
+EN: Remember that any amazing combat data you collect dies with you, so be careful.
+RU: 
+
+
+-- Section 20
+
+ID: M6010_S0100_G0190_300_op
+JP: ……死ぬなよ。
+EN: Try not to die out there.
+RU: 
+
+
+-- Section 21
+
+ID: M6010_S0090_G0200_300_op
+JP: バンカー中、お前と９Ｓの話題で持ちきりだぞ。\nよくやってくれたな。
+EN: You and 9S are the talk of the Bunker. You were incredible!
+RU: 
+
+
+-- Section 22
+
+ID: M6010_S0090_G0210_300_op
+JP: これからもよろしく頼むよ。
+EN: We'll all be counting on you the next time some terrible machine thing tries to kill us all!
+RU: 
+
+
+-- Section 23
+
+ID: M6010_S0100_G0200_300_op
+JP: 大丈夫、皆うまくやってるさ。
+EN: Everyone's doing a great job!
+RU: 
+
+
+-- Section 24
+
+ID: M6010_S0100_G0210_300_op
+JP: 早く行ってやってくれ。
+EN: Now please hurry up and get going.
+RU: 
+
+
+-- Section 25
+
+ID: M6010_S0090_G0220_300_op
+JP: 最後の戦い、けっこう大変でしたね。\nよく勝てましたね！惚れ惚れしました。
+EN: That last battle looked really tough, but you pulled through. It was mesmerizing!
+RU: 
+
+
+-- Section 26
+
+ID: M6010_S0090_G0230_300_op
+JP: ここだけの話、２Ｂさんってオペレーター仲間ではかなり人気が高いんですよ！\nナイショですよ！
+EN: Just so you know, you're quite popular with the operators! ...Er, but you didn't hear that from me.
+RU: 
+
+
+-- Section 27
+
+ID: M6010_S0100_G0220_300_op
+JP: もう作業に入ってますよ。静かにして下さい。
+EN: I've already started working. Please let me concentrate.
+RU: 
+
+
+-- Section 28
+
+ID: M6010_S0100_G0230_300_op
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 29
+
+ID: M6010_S0090_G0240_300_op
+JP: よく勝ってくれたな。ひやひやしたよ。\nイヴの残バイタルの表示アシストしてたのは私だったんだが、役に立ったか？
+EN: Man, I was sweating in my seat during that whole fight! ...I was the one displaying Eve's remaining vitals, by the way. Hope it helped!
+RU: 
+
+
+-- Section 30
+
+ID: M6010_S0090_G0250_300_op
+JP: ま、死なねーように頑張りな。
+EN: Now get back out there and keep not dying!
+RU: 
+
+
+-- Section 31
+
+ID: M6010_S0100_G0240_300_op
+JP: めんどくせーなー、また始まったよ。
+EN: Ugh, you're such a pain! Here we go again...
+RU: 
+
+
+-- Section 32
+
+ID: M6010_S0100_G0250_300_op
+JP: 完璧にサポートしてやるから安心しな。
+EN: Don't worry, I'll give you perfect support.
+RU: 
+
+
+-- Section 33
+
+ID: M6010_S0090_G0260_300_op
+JP: 大金星でしたね。
+EN: That was a spectacular victory!
+RU: 
+
+
+-- Section 34
+
+ID: M6010_S0090_G0270_300_op
+JP: 引き続き、宜しくお願いします。
+EN: Here's to your next victory!
+RU: 
+
+
+-- Section 35
+
+ID: M6010_S0100_G0260_300_op
+JP: そろそろ、出撃時間です。\n格納庫へ向かって下さい。
+EN: It's almost time to head out.
+RU: 
+
+
+-- Section 36
+
+ID: M6010_S0100_G0270_300_op
+JP: 格納庫から発進して下さい。
+EN: You should probably get to the hangar.
+RU: 
+
+
+-- Section 37
+
+ID: M6010_S0090_G0280_300_op
+JP: なんと！２Ｂさん！この度はご苦労様でした！
+EN: Wow, 2B... That must have been tough.
+RU: 
+
+
+-- Section 38
+
+ID: M6010_S0090_G0290_300_op
+JP: ご武運をお祈りしておりますー！
+EN: Let's keep the winning streak going! Woooo!
+RU: 
+
+
+-- Section 39
+
+ID: M6010_S0100_G0280_300_op
+JP: ちょっと、今はもうダメですって！\n話しかけないで！
+EN: This is a REALLY bad time for a chat!
+RU: 
+
+
+-- Section 40
+
+ID: M6010_S0100_G0290_300_op
+JP: 頑張ってくださいね！
+EN: Oh, but good luck!
+RU: 
+
+
+-- Section 41
+
+ID: M6010_S0090_G0300_300_op
+JP: 作戦成功おめでとうございます。\n階級上がるんじゃないでしょうか？とにかく、感謝しています。
+EN: I bet you'll get a sweet promotion after this. And even if you don't, please know that all of us are forever in your debt.
+RU: 
+
+
+-- Section 42
+
+ID: M6010_S0090_G0310_300_op
+JP: 感謝しています。ありがとう。
+EN: Thank you for everything.
+RU: 
+
+
+-- Section 43
+
+ID: M6010_S0100_G0300_300_op
+JP: こんな大規模な作戦は初めてです。\nあ、心配しないで下さい。メモリは増設しておいたので。
+EN: This is my first large-scale mission. But don't worry—I increased my memory just in case.
+RU: 
+
+
+-- Section 44
+
+ID: M6010_S0100_G0310_300_op
+JP: こちらは任せて下さい。
+EN: You can count on me to make things work from this end!
+RU: 
+
+

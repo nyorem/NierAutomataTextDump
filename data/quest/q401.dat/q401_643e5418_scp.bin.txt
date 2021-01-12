@@ -1,0 +1,160 @@
+-- Section 1
+
+ID: M5401_S0010_G0000_001_a2b
+JP: あれは……確か以前戦った……
+EN: Haven't I fought this thing before...?
+RU: 
+
+ID: M5401_S0010_G0010_001_pod042
+JP: 推奨：破壊。
+EN: Proposal: Enemy should be dispatched immediately.
+RU: 
+
+ID: M5401_S0010_G0020_001_pod042
+JP: あの個体は、放っておくには危険と判断。
+EN: Leaving such a dangerous foe intact would be unwise.
+RU: 
+
+ID: M5401_S0010_G0030_001_a2b
+JP: ……了解。
+EN: Understood.
+RU: 
+
+
+-- Section 2
+
+ID: M5401_S0010_G0040_001_a9s
+JP: あれ、前に戦ったロボットだよね。
+EN: Hey, I've fought this machine before, right?
+RU: 
+
+ID: M5401_S0010_G0050_001_pod153
+JP: 推奨：破壊。
+EN: Proposal: Enemy should be dispatched immediately.
+RU: 
+
+ID: M5401_S0010_G0060_001_pod153
+JP: あの個体は、放っておくには危険と判断。
+EN: Leaving such a dangerous foe intact would be unwise.
+RU: 
+
+ID: M5401_S0010_G0070_001_a9s
+JP: 了解。
+EN: If you say so.
+RU: 
+
+
+-- Section 3
+
+ID: M5401_S0010_G0080_001_a2
+JP: あれは確か、前に戦った奴……
+EN: Wait. Haven't I fought this thing already?
+RU: 
+
+ID: M5401_S0010_G0090_001_pod042
+JP: 推奨：破壊。
+EN: Proposal: Enemy should be dispatched immediately.
+RU: 
+
+ID: M5401_S0010_G0100_001_pod042
+JP: あの個体は、放っておくには危険と判断。
+EN: Leaving such a dangerous foe intact would be unwise.
+RU: 
+
+ID: M5401_S0010_G0110_001_a2
+JP: 言われなくても。
+EN: Don't have to tell me twice.
+RU: 
+
+
+-- Section 4
+
+ID: M5401_S0010_G0120_001_robosmallgoldwoman
+JP: 見つけた。兄の仇……諸悪の根源め！覚悟！
+EN: You killed my brother. You are the true evil. You must die!
+RU: 
+
+ID: M5401_S0020_G0000_001_a2b
+JP: 迎撃する。
+EN: Engaging enemy.
+RU: 
+
+
+-- Section 5
+
+ID: M5401_S0010_G0120_001_robosmallgoldwoman
+JP: 見つけた。兄の仇……諸悪の根源め！覚悟！
+EN: You killed my brother. You are the true evil. You must die!
+RU: 
+
+ID: M5401_S0020_G0010_001_a9s
+JP: 迎撃する。
+EN: Ready to engage.
+RU: 
+
+
+-- Section 6
+
+ID: M5401_S0010_G0120_001_robosmallgoldwoman
+JP: 見つけた。兄の仇……諸悪の根源め！覚悟！
+EN: You killed my brother. You are the true evil. You must die!
+RU: 
+
+ID: M5401_S0020_G0020_001_a2
+JP: 倒すぞ。
+EN: Time to die.
+RU: 
+
+
+-- Section 7
+
+ID: M5401_S0020_G0030_001_robosmallgoldwoman
+JP: う……ああ……
+EN: Nnngh... Aahhhhhh...
+RU: 
+
+
+-- Section 8
+
+ID: M5401_S0020_G0040_001_robosmallgoldwoman
+JP: いやあぁッ！よくも……よくも彼を！
+EN: No! You...you killed him!
+RU: 
+
+
+-- Section 9
+
+ID: M5401_S0030_G0000_001_robosmallgoldwoman
+JP: 不覚……兄様……ごめんなさい……
+EN: I am...undone... Forgive me...Brother...
+RU: 
+
+
+-- Section 10
+
+ID: M5401_S0020_G0030_001_robosmallgoldwoman
+JP: う……ああ……
+EN: Nnngh... Aahhhhhh...
+RU: 
+
+ID: M5401_S0030_G0000_001_robosmallgoldwoman
+JP: 不覚……兄様……ごめんなさい……
+EN: I am...undone... Forgive me...Brother...
+RU: 
+
+ID: M5401_S0030_G0010_001_a2b
+JP: 兄様……他の個体もいるということ？
+EN: Brother? So there's another one?
+RU: 
+
+ID: M5401_S0030_G0020_001_a9s
+JP: 兄様って……他にもいるのか？
+EN: Brother? Wait, there's more of these things?
+RU: 
+
+ID: M5401_S0030_G0030_001_a2
+JP: 兄様……まさか他にも……？
+EN: Brother? So there's more of them?
+RU: 
+
+

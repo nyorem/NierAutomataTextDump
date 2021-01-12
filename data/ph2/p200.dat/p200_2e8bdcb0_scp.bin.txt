@@ -1,0 +1,118 @@
+-- Section 1
+
+ID: M1040_S0545_S0000_001_cmd
+JP: 司令部より全ヨルハ部隊へ。
+EN: YoRHa, this is your Commander.
+RU: 
+
+ID: M1040_S0545_S0010_001_cmd
+JP: 数百年もの間発見されなかったエイリアン達の反応を確認した。
+EN: For the first time in centuries, we've intercepted a signal belonging to the aliens.
+RU: 
+
+ID: M1040_S0545_S0020_001_cmd
+JP: 知っていると思うが、エイリアンは機械生命体達の司令塔だ。
+EN: These are the creatures that are in direct command of the machine lifeforms on this planet.
+RU: 
+
+ID: M1040_S0545_S0030_001_cmd
+JP: エイリアンを殲滅すれば、長きに亘るこの戦争も終結する。
+EN: If we can destroy them, we can end this long and arduous war once and for all!
+RU: 
+
+ID: M1040_S0545_S0040_001_cmd
+JP: 現在、技術部の方で電波発信源の解析を進めているが、
+EN: Our intel team is hard at work attempting to analyze the source of the signal, but we're not there yet.
+RU: 
+
+ID: M1040_S0545_S0050_001_cmd
+JP: 情報が不足している。
+EN: We need more data.
+RU: 
+
+ID: M1040_S0545_S0060_001_cmd
+JP: 地上にいるヨルハ部隊は、本案件に対する情報収集を最優先しろ。
+EN: All YoRHa units are hereby ordered to prioritize data collection above all else.
+RU: 
+
+ID: M1040_S0545_S0070_001_cmd
+JP: この好機を逃してはならない。
+EN: We can't let this chance slip through our fingers!
+RU: 
+
+ID: M1040_S0545_S0080_001_cmd
+JP: ……人類に栄光あれ。
+EN: ...Glory to mankind.
+RU: 
+
+ID: M1040_S0550_G0001_001_a9s
+JP: 司令部の情報を元に、信号発信源を予測。マップにマークしました。
+EN: I used Command's data to determine the signal's source and marked it on the map.
+RU: 
+
+
+-- Section 2
+
+ID: M1040_S0550_G0010_001_a9s
+JP: でもこれ、地下の深めの場所みたいですけど……
+EN: But it seems to be underground. Like, way underground.
+RU: 
+
+ID: M1040_S0550_G0020_001_a2b
+JP: 行ってみれば判るよ……
+EN: Guess we'll see once we get there.
+RU: 
+
+ID: M1040_S0550_G0021_001_a2b
+JP: 多分。
+EN: ...If we're lucky.
+RU: 
+
+ID: M1040_S0550_G0030_001_a9s
+JP: ２Ｂって……大雑把なところがあるんですね。
+EN: You're not much for plans, are you, 2B?
+RU: 
+
+
+-- Section 3
+
+ID: M1040_S0545_S0001_001_a2b
+JP: これは……
+EN: What is this?
+RU: 
+
+ID: M1040_S0545_S0002_001_pod042
+JP: 地下にある空間の崩落による陥没。
+EN: Analysis: It is a cave-in caused by the collapse of an open space underground.
+RU: 
+
+ID: M1040_S0545_S0003_001_a9s
+JP: こんな巨大な空洞が、どうして……
+EN: Why is there such a huge cavern beneath the city?
+RU: 
+
+
+-- Section 4
+
+ID: M1040_S0545_S0090_300_a9s
+JP: 何だ……あの変な敵は。
+EN: That's a weird-looking enemy.
+RU: 
+
+
+-- Section 5
+
+ID: M1040_S0550_G0120_300_a9s
+JP: ２Ｂ。反応があった陥没地帯の地下に行ってみましょう。
+EN: 2B, we picked up the signal under the caved-in area.\nLet's go check it out.
+RU: 
+
+
+-- Section 6
+
+ID: M1040_S0550_G0130_300_pod042
+JP: 報告：強固なプロテクト。アクセス不可能。
+EN: Analysis: Strong software locks detected. Access impossible.
+RU: 
+
+

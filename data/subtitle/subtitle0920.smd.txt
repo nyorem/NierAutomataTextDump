@@ -1,0 +1,10 @@
+ID: M3020_S0100_H0000_001_sku
+JP: こんにちは！資源回収ユニットです。防衛態勢に入ります！
+EN: Hello! This is the Resource Recovery Unit.\nNow activating defense mode!
+RU: 
+
+ID: M3020_S0100_H0001_001_a9s
+JP: 機械生命体共が……
+EN: Damn machines...
+RU: 
+

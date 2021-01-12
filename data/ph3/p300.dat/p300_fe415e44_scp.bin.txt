@@ -1,0 +1,263 @@
+-- Section 1
+
+ID: M3000_S0200_G0000_001_a9s
+JP: ２Ｂ！
+EN: 2B!
+RU: 
+
+ID: M3000_S0200_G0010_001_a2b
+JP: 状況は？
+EN: What's our status?
+RU: 
+
+ID: M3000_S0200_G0020_001_a9s
+JP: 作戦は開始。先行部隊は既に交戦中。
+EN: The operation is underway, and a few squads have already engaged the enemy.
+RU: 
+
+ID: M3000_S0200_G0030_001_a9s
+JP: 僕達の役割は、先行部隊の状況に合わせて援護する遊撃部隊。
+EN: Our orders are to function as a kind of guerilla unit that provides support as necessary.
+RU: 
+
+
+-- Section 2
+
+ID: M3000_S0200_G0031_001_a9s
+JP: 先行部隊が交戦している場所をマップに転送しました。\n援護に向かいましょう。
+EN: I forwarded our squads' current positions to your map. You should head over there ASAP.
+RU: 
+
+ID: M3000_S0200_G0040_001_a2b
+JP: 了解。
+EN: Sounds good.
+RU: 
+
+
+-- Section 3
+
+ID: M3000_S0200_G0081_001_a9s
+JP: 視界が悪いですね……
+EN: Man, I can't see a thing...
+RU: 
+
+ID: M3000_S0200_G0082_001_pod153
+JP: 報告：敵性機械生命体の反応が通常よりも増加。
+EN: Alert: Detecting an unusually high number of hostile machine lifeforms.
+RU: 
+
+ID: M3000_S0200_G0083_001_a9s
+JP: 『イヴ』のネットワークが破壊されたのに、\nどうして奴らは暴走してるんでしょう。
+EN: Why are they going nuts like this? I thought Eve's network was destroyed.
+RU: 
+
+ID: M3000_S0200_G0084_001_a2b
+JP: ……私達は、戦うだけ。
+EN: All we can do is fight.
+RU: 
+
+
+-- Section 4
+
+ID: M3000_S0200_G0090_001_a7b
+JP: こちら７Ｂ。先行攻撃部隊デルタ、隊長。
+EN: This is unit 7B with Vanguard Squadron Delta.
+RU: 
+
+ID: M3000_S0200_G0100_001_a7b
+JP: 交戦中の機械生命体が暴れていて手を付けられない。
+EN: We're currently pinned down by a number of machines that appear to have lost their minds.
+RU: 
+
+ID: M3000_S0200_G0110_001_a2b
+JP: こちら２Ｂ。遊撃部隊。
+EN: This is unit 2B.
+RU: 
+
+ID: M3000_S0200_G0120_001_a2b
+JP: 今からそちらの援護に向かう。
+EN: We're heading over now to provide support.
+RU: 
+
+ID: M3000_S0200_G0130_001_a7b
+JP: 了解。感謝する。
+EN: Roger, 2B. Much appreciated.
+RU: 
+
+
+-- Section 5
+
+ID: M3000_S0200_G0140_001_a7b
+JP: 助かった。
+EN: Thanks for the assist.
+RU: 
+
+ID: M3000_S0200_G0150_001_a9s
+JP: 僕達は次の部隊の援護に向かいます！
+EN: We're heading out to support the next squad.
+RU: 
+
+ID: M3000_S0200_G0160_001_a7b
+JP: 私達もそちらに同行し、援護しよう。
+EN: Understood. We'll join you there and lend a hand.
+RU: 
+
+ID: M3000_S0200_G0170_001_a2b
+JP: 了解。
+EN: All right.
+RU: 
+
+
+-- Section 6
+
+ID: M3000_S0200_G0391_300_telo
+JP: 部隊デルタ　壊滅
+EN: Delta Squad destroyed
+RU: 
+
+
+-- Section 7
+
+ID: M3000_S0200_G0031_300_a4b
+JP: こちら４Ｂ。先行攻撃部隊アルファ、隊長。
+EN: This is 4B, captain of Vanguard Squadron Alpha.
+RU: 
+
+ID: M3000_S0200_G0040_300_a4b
+JP: 敵の攻撃に手を焼いている。
+EN: We're being worn down by a fierce enemy attack.
+RU: 
+
+ID: M3000_S0200_G0050_300_a2b
+JP: こちら２Ｂ。遊撃部隊。
+EN: This is guerrilla unit 2B.
+RU: 
+
+ID: M3000_S0200_G0060_300_a2b
+JP: 今からそちらの援護に向かう。
+EN: We're on our way.
+RU: 
+
+ID: M3000_S0200_G0070_300_a4b
+JP: 了解。感謝する。
+EN: Roger. And thanks.
+RU: 
+
+
+-- Section 8
+
+ID: M3000_S0200_G0080_300_a4b
+JP: 助かった。
+EN: Thanks for the assist.
+RU: 
+
+ID: M3000_S0200_G0090_300_a9s
+JP: 僕達は次の部隊の援護に向かいます！
+EN: We're heading out to support other squadrons.
+RU: 
+
+ID: M3000_S0200_G0100_300_a4b
+JP: 我々もそちらに同行し、援護しよう。
+EN: We'll join you and provide further backup.
+RU: 
+
+
+-- Section 9
+
+ID: M3000_S0200_G0392_300_telo
+JP: 部隊アルファ　壊滅
+EN: Alpha Squad destroyed
+RU: 
+
+
+-- Section 10
+
+ID: M3000_S0200_G0120_300_a3b
+JP: こちら３Ｂ。シータ部隊隊長だ。
+EN: This is 3B, captain of Theta Squadron.
+RU: 
+
+ID: M3000_S0200_G0130_300_a3b
+JP: 機械生命体共がどんどん増えていて手に負えない。
+EN: The enemy machines are multiplying in front of us. We can't hold this position!
+RU: 
+
+
+-- Section 11
+
+ID: M3000_S0200_G0140_300_a3b
+JP: ありがとう。
+EN: Thanks.
+RU: 
+
+ID: M3000_S0200_G0150_300_a3b
+JP: 私達も同行しよう。
+EN: We'll join you, if that's all right.
+RU: 
+
+
+-- Section 12
+
+ID: M3000_S0200_G0393_300_telo
+JP: 部隊シータ　壊滅
+EN: Theta Squad destroyed
+RU: 
+
+
+-- Section 13
+
+ID: M3000_S0200_G0180_001_a2b
+JP: 全滅……間に合わなかった。
+EN: Damn it, we took too long. They're gone.
+RU: 
+
+ID: M3000_S0200_G0190_001_a9s
+JP: ２Ｂ。他のポイントも急いで援護しにいこう。
+EN: We should head to another area and provide support.
+RU: 
+
+
+-- Section 14
+
+ID: M3000_S0200_G0200_001_a8b
+JP: こちら攻撃部隊オメガの８Ｂ。担当区域を制圧した。
+EN: This is unit 8B with Attack Squadron Omega. We've gained control of our assigned zone.
+RU: 
+
+ID: M3000_S0200_G0210_001_a8b
+JP: 他の地域の援護に向かう。
+EN: Heading out now to provide support elsewhere.
+RU: 
+
+
+-- Section 15
+
+ID: M3000_S0200_G0001_300_a9s
+JP: コイツ……
+EN: Hey...
+RU: 
+
+ID: M3000_S0200_G0011_300_a9s
+JP: 一度ハッキングした機械生命体のようです！
+EN: This is a machine I've hacked into before!
+RU: 
+
+ID: M3000_S0200_G0021_300_a9s
+JP: 遅効性ウィルスを発動させて物理ダメージを与えれないか試してみます。
+EN: I'll set off the delayed virus to see if I can damage it physically.
+RU: 
+
+
+-- Section 16
+
+ID: M5920_S0010_G0310_001_pod042
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+ID: M5920_S0010_G0320_001_pod042
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: 
+
+

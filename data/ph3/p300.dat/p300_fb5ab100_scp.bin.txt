@@ -1,0 +1,36 @@
+-- Section 1
+
+ID: M3060_S0036_G0080_001_pod153
+JP: 疑問：何故この『塔』に入口が用意されていたのか？
+EN: Query: Why does this Tower possess an entrance at all?
+RU: 
+
+ID: M3060_S0036_G0090_001_pod153
+JP: 資源搬入は上空から行われている事を確認。
+EN: All material transport takes place via aerial vehicles.
+RU: 
+
+ID: M3060_S0036_G0100_001_pod153
+JP: 外部からの侵入路が用意されている事は不自然。
+EN: It is irrational for an infiltration route to be so easily accessible.
+RU: 
+
+ID: M3060_S0036_G0110_001_pod153
+JP: 予測：罠。
+EN: Hypothesis: Entrance is a trap.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0036_G0120_001_a9s
+JP: ……罠でも何でもいい。
+EN: I don't care.
+RU: 
+
+ID: M3060_S0036_G0130_001_a9s
+JP: 皆殺しにするだけだ。
+EN: I just have to kill them all.
+RU: 
+
+

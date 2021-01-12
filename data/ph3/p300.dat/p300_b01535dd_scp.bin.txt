@@ -1,0 +1,52 @@
+-- Section 1
+
+ID: M5920_S0010_G0310_001_pod042
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+
+-- Section 2
+
+ID: M3030_S0110_G0130_001_pascal
+JP: 一体、どうして私達が狙われるんでしょう……
+EN: Why are they coming after us? Why!?
+RU: 
+
+ID: M3030_S0110_G0140_001_a2
+JP: 考えるのは後回しだ。
+EN: We can sort it out later.
+RU: 
+
+ID: M3030_S0110_G0150_001_a2
+JP: 今はとりあえずこいつらを倒さないと！
+EN: Right now we have to take 'em down!
+RU: 
+
+
+-- Section 3
+
+ID: M3030_S0120_G0000_001_a2
+JP: これじゃあ……キリがないぞ！
+EN: These bastards won't stop!
+RU: 
+
+ID: M3030_S0120_G0010_001_pascal
+JP: ……Ａ２さん、私に考えがあります。
+EN: ...A2? I have an idea.
+RU: 
+
+ID: M3030_S0120_G0020_001_pascal
+JP: しばらく時間を稼いでいてください！
+EN: Please buy me a bit of time!
+RU: 
+
+
+-- Section 4
+
+ID: M3030_S0120_G0030_001_a2
+JP: こんな大型兵器まで……
+EN: Come on, Goliaths too...?
+RU: 
+
+

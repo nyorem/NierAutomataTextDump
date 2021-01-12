@@ -1,0 +1,226 @@
+-- Section 1
+
+ID: M3000_S0510_G0000_001_pod042
+JP: 警告：ウィルス汚染を感知。
+EN: Alert: Virus infection detected.
+RU: 
+
+ID: M3000_S0510_G0010_001_pod042
+JP: 推奨：早急なワクチン投与。
+EN: Proposal: Administer vaccine immediately.
+RU: 
+
+ID: M3000_S0510_G0020_001_a2b
+JP: うっ……
+EN: Ungh...
+RU: 
+
+
+-- Section 2
+
+ID: M3000_S0510_G0021_001_pod042
+JP: 警告：ウィルス汚染度１６％に上昇。
+EN: Alert: Virus contamination rate up to 16 percent.
+RU: 
+
+ID: M3000_S0510_G0033_001_pod042
+JP: ＮＦＣＳ回路に異常を検知。
+EN: Malfunction detected in NFCS circuit.
+RU: 
+
+ID: M3000_S0510_G0026_001_a2b
+JP: 他の……アンドロイドに、汚染を広げないようにしないと……
+EN: I have to keep it...from spreading to other androids...
+RU: 
+
+ID: M3000_S0510_G0027_001_a2b
+JP: ポッド。アンドロイドの反応が少ない地点を。
+EN: Pod, give me a location that's low on android signals.
+RU: 
+
+ID: M3000_S0510_G0028_001_pod042
+JP: 検索……
+EN: Searching...
+RU: 
+
+ID: M3000_S0510_G0029_001_pod042
+JP: 報告：商業施設の廃屋付近が該当。
+EN: Analysis: The area near the abandoned commercial facility meets the desired parameters.
+RU: 
+
+
+-- Section 3
+
+ID: M3000_S0510_G0030_001_pod042
+JP: 警告：ウィルスを除去しなければヨルハ機体２Ｂに深刻なダメージ。
+EN: Alert: YoRHa unit 2B will sustain serious damage unless the virus is eliminated.
+RU: 
+
+ID: M3000_S0510_G0031_001_a2b
+JP: ……わかって……る。
+EN: You don't say...
+RU: 
+
+
+-- Section 4
+
+ID: M3000_S0510_G0023_001_pod042
+JP: 警告：ウィルス汚染度２１％に上昇。
+EN: Alert: Virus contamination rate up to 21 percent.
+RU: 
+
+ID: M3000_S0510_G0002_300_a2b
+JP: 汚染の除去と……再起動……
+EN: Remove the contamination...and reset...
+RU: 
+
+ID: M3000_S0510_G0003_300_pod042
+JP: 報告：ウィルスは自己のアルゴリズムを高速で改変・進化しており\n除去が困難。
+EN: Analysis: Virus is transforming and progressing its own algorithm with abnormal speed. Removal will be difficult.
+RU: 
+
+
+-- Section 5
+
+ID: M3000_S0510_G0032_001_pod042
+JP: 警告：ウィルス汚染度３２％に上昇。
+EN: Alert: Virus contamination rate up to 32 percent.
+RU: 
+
+ID: M3000_S0510_G0024_001_pod042
+JP: 視覚処理システムに異常を検知。
+EN: Malfunction detected in visual processing system.
+RU: 
+
+
+-- Section 6
+
+ID: M5920_S0090_G0200_001_human
+JP: 月面人類会議より地上で奮戦している……に告げる。
+EN: The Council of Humanity has a message for all of our......fighting on the surface.
+RU: 
+
+ID: M5920_S0090_G0210_001_human
+JP: 今日は諸君らに吉報を……
+EN: Today, I have wonderful......
+RU: 
+
+ID: M5920_S0090_G0220_001_human
+JP: この度、月面の人類会議は新兵器……を決定した。
+EN: The Council of Humanity has decided to increase the production of new.......
+RU: 
+
+ID: M5920_S0090_G0230_001_human
+JP: これにより新たな打撃を……機械生命体に与える事が出来るだろう。
+EN: This will enable us to deal a powerful blow to......enemies.
+RU: 
+
+ID: M5920_S0090_G0240_001_human
+JP: 希望の光は、……
+EN: The light of hope is near......closer than ever to it.
+RU: 
+
+ID: M5920_S0090_G0250_001_human
+JP: 諸君らの奮戦に、……
+EN: We look forward to future......and know that you will be the ones to bring it to us.
+RU: 
+
+ID: M5920_S0090_G0260_001_human
+JP: 人類に……
+EN: Glory to......
+RU: 
+
+
+-- Section 7
+
+ID: M3000_S0510_G0034_001_pod042
+JP: 警告：ウィルス汚染度５７％に上昇。
+EN: Alert: Virus contamination rate up to 57 percent.
+RU: 
+
+ID: M3000_S0510_G0022_001_pod042
+JP: ＦＦＣＳ回路に異常を検知。
+EN: Malfunction detected in FFCS circuit.
+RU: 
+
+
+-- Section 8
+
+ID: M3000_S0510_G0005_300_pod042
+JP: 警告：ウィルス汚染７０％
+EN: Alert: Virus contamination rate 70 percent.
+RU: 
+
+ID: M3000_S0510_G0006_300_pod042
+JP: システム保護領域に侵入。
+EN: Infiltrating system-protected region.
+RU: 
+
+
+-- Section 9
+
+ID: M3000_S0510_G0007_300_pod042
+JP: 警告：ウィルス汚染９０％
+EN: Alert: Virus contamination rate 90 percent.
+RU: 
+
+ID: M3000_S0510_G0008_300_pod042
+JP: 警告：中枢神経系に異常な発熱を検知、内部爆発の危険性あり。
+EN: Alert: Unusual heat generation in central nervous system. Internal combustion imminent.
+RU: 
+
+
+-- Section 10
+
+ID: M3000_S0510_G0015_300_pod042
+JP: 報告：視覚センサーに異常を検知。
+EN: Analysis: Abnormality detected in visual sensors.
+RU: 
+
+ID: M3000_S0510_G0016_300_pod042
+JP: 警告：ブラックボックス変質。
+EN: Alert: Deterioration found in black box.
+RU: 
+
+ID: M3000_S0510_G0017_300_pod042
+JP: 警告：データバックアップシステム破損。
+EN: Alert: Damage to data backup system.
+RU: 
+
+ID: M3000_S0510_G0018_300_pod042
+JP: 当該システム破壊により義体バックアップ時の自我維持は困難。
+EN: Said damage will make it difficult to retain self-consciousness upon backup.
+RU: 
+
+ID: M3000_S0510_G0019_300_a2b
+JP: ……もう、バンカーはない。バックアップの意味も……ない。
+EN: Bunker's gone... There's...no point in backing up anyway.
+RU: 
+
+ID: M3000_S0510_G0020_300_a2b
+JP: ９……Ｓ……
+EN: 9...S...
+RU: 
+
+ID: M3000_S0510_G0021_300_a2b
+JP: 義体が……
+EN: My body is...
+RU: 
+
+
+-- Section 11
+
+ID: M5920_S0010_G0310_001_pod042
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+
+-- Section 12
+
+ID: M3000_S0510_G0026_001_a2b
+JP: 他の……アンドロイドに、汚染を広げないようにしないと……
+EN: I have to keep it...from spreading to other androids...
+RU: 
+
+

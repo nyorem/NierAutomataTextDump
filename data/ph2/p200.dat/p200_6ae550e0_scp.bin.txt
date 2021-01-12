@@ -1,0 +1,69 @@
+-- Section 1
+
+ID: M1060_S0005_G0000_001_pascal
+JP: ９Ｓさん。どうしたんですか？直接話したいって。
+EN: I was surprised you wished to speak with me personally. Whatever is the matter?
+RU: 
+
+ID: M1060_S0005_G0010_001_a9s
+JP: 話すよりも実際の記録を見てもらった方が話が早いな……
+EN: It'll be faster if you just take a look at this recording.
+RU: 
+
+ID: M1060_S0005_G0020_001_sele
+JP: データ転送開始。
+EN: Transfer data.
+RU: 
+
+ID: M1060_S0005_G0030_001_sele
+JP: データ転送しない。
+EN: Don't transfer.
+RU: 
+
+
+-- Section 2
+
+ID: M1060_S0005_G0040_001_pascal
+JP: ……なるほど。
+EN: ...I see.
+RU: 
+
+ID: M1060_S0005_G0050_001_pascal
+JP: この『Ａ２』というアンドロイドですが、私達の過去記録にもあります。
+EN: Information about this A2 android is indeed contained within our archives.
+RU: 
+
+ID: M1060_S0005_G0060_001_pascal
+JP: 危険なアンドロイドとして認識していますが……
+EN: We all understand her to be rather dangerous.
+RU: 
+
+ID: M1060_S0005_G0070_001_pascal
+JP: この村に直接来る事はありませんね。
+EN: However, she's never visited our village in person.
+RU: 
+
+ID: M1060_S0005_G0080_001_pascal
+JP: すみません。私の知っている情報はこのくらいです。
+EN: My apologies. That's all the information I have.
+RU: 
+
+ID: M1060_S0005_G0090_001_a9s
+JP: そう……ありがとう。
+EN: I see... All right, thanks.
+RU: 
+
+
+-- Section 3
+
+ID: M1060_S0005_G0170_001_a2b
+JP: 各地を警戒しつつ、一度レジスタンスキャンプに戻ろう。
+EN: Let's stay sharp and head back to the Resistance camp.
+RU: 
+
+ID: M1060_S0005_G0180_001_a2b
+JP: 自我データのチェックと、補給が必要だから。
+EN: We should run a check on our consciousness data and resupply.
+RU: 
+
+

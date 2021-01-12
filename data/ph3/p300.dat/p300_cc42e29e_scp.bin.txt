@@ -1,0 +1,149 @@
+-- Section 1
+
+ID: M3060_S0032_G0000_001_a9s
+JP: デボル……ポポル……
+EN: Devola? Popola?
+RU: 
+
+ID: M3060_S0032_G0010_001_a9s
+JP: どうして……ここに！？
+EN: What are you doing here!?
+RU: 
+
+ID: M3060_S0032_G0020_001_dbl
+JP: 約束しただろう！
+EN: Remember your promise?
+RU: 
+
+ID: M3060_S0032_G0030_001_a9s
+JP: は？……何言ってるんだ！？
+EN: What are you talking about?
+RU: 
+
+ID: M3060_S0032_G0040_001_ppl
+JP: ９Ｓ！今のうちにハッキングして！
+EN: Come on, 9S! Hack in while you can!
+RU: 
+
+ID: M3060_S0032_G0050_001_a9s
+JP: 訳がわからないッ！
+EN: None of this makes any sense!
+RU: 
+
+ID: M3060_S0032_G0060_001_ppl
+JP: 詳しい事は『塔』に入ってから説明するから！
+EN: We'll explain everything once we're inside!
+RU: 
+
+ID: M3060_S0032_G0070_001_a9s
+JP: クソッ
+EN: Ugh!
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0032_G0071_001_a9s
+JP: ダメだ……デボル達を放ってはおけない！
+EN: No... We can't just abandon them!
+RU: 
+
+ID: M3060_S0032_G0072_001_a9s
+JP: このままじゃ、デボル達は……！
+EN: If we don't do something, they're gonna...
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S0032_G0073_001_pod153
+JP: 警告：戦闘地域からの離脱はアンドロイド、デボル・ポポルの放棄を\n意味する。
+EN: Alert: Leaving the zone of combat would mean abandoning the androids Devola and Popola.
+RU: 
+
+ID: M3060_S0032_G0074_001_pod153
+JP: 推奨：『塔』メインユニットへのハッキングを敢行。
+EN: Proposal: Hack into the main Tower unit.
+RU: 
+
+ID: M3060_S0032_G0200_300_dbl
+JP: ９Ｓ！どこにいくつもりだ！このままだと持たないぞ…！
+EN: Where are you going, 9S? We need you!
+RU: 
+
+ID: M3060_S0032_G0210_300_ppl
+JP: くっ…９Ｓ、早く戻ってきて！私たちだけではとても耐えられない！
+EN: 9S, come back! We can't hold out by ourselves!
+RU: 
+
+ID: M3060_S0032_G0220_300_pod153
+JP: 警告：デボルとポポルに敵勢力が集中。危険な状態。
+EN: Alert: Enemy forces gathering around Devola and Popola. Situation critical.
+RU: 
+
+ID: M3060_S0032_G0230_300_pod153
+JP: 推奨：速やかな救援行動。
+EN: Proposal: Provide rescue support immediately.
+RU: 
+
+ID: M3060_S0032_G0240_300_a9s
+JP: 彼女たちを残したままにはできない！早く戻らないと…！
+EN: I can't leave them alone... I've got to go back!
+RU: 
+
+
+-- Section 4
+
+ID: M3060_S0032_G0250_300_dbl
+JP: くそ、ここまでか……
+EN: Damn... Looks like this is it.
+RU: 
+
+ID: M3060_S0032_G0260_300_ppl
+JP: そんな……
+EN: No...
+RU: 
+
+
+-- Section 5
+
+ID: M3060_S0032_G0270_300_dbl
+JP: ９Ｓはハッキングに集中して、こっちは任せろ！
+EN: We've got this, 9S! You just focus on hacking!
+RU: 
+
+
+-- Section 6
+
+ID: M3060_S0032_G0280_300_dbl
+JP: ハッキングで『塔』のロックを解除してくれ！
+EN: You need to hack the Tower lock open!
+RU: 
+
+
+-- Section 7
+
+ID: M3060_S0032_G0290_300_ppl
+JP: ９Ｓ！『塔』のハッキングをお願いッ！
+EN: 9S! You must hack into the Tower!
+RU: 
+
+ID: M3060_S0032_G0300_300_ppl
+JP: このままじゃあ……持たない！
+EN: We...we can't hold out like this!
+RU: 
+
+
+-- Section 8
+
+ID: M3060_S0032_G0310_300_dbl
+JP: ９Ｓッ！！もう、ダメだあああッ！
+EN: 9S! I can't do this anymore!
+RU: 
+
+ID: M3060_S0032_G0320_300_ppl
+JP: きゃあああああっ！
+EN: Aaaaugh!
+RU: 
+
+

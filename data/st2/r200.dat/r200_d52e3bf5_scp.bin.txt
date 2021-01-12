@@ -1,0 +1,431 @@
+-- Section 1
+
+ID: M4020_S0000_G0271_300_pod042
+JP: 推奨：ポッド射撃による強制停止。
+EN: Proposal: Use Pod fire to force him to stop.
+RU: 
+
+
+-- Section 2
+
+ID: M4020_S0000_G0310_300_pod153
+JP: 推奨：ポッド射撃による強制停止。
+EN: Proposal: Use Pod fire to force him to stop.
+RU: 
+
+
+-- Section 3
+
+ID: M5920_S0030_G0000_001_a2
+JP: 何だ……あれは。
+EN: Huh? What's that?
+RU: 
+
+ID: M4020_S0000_G0271_300_pod042
+JP: 推奨：ポッド射撃による強制停止。
+EN: Proposal: Use Pod fire to force him to stop.
+RU: 
+
+
+-- Section 4
+
+ID: M6020_S0000_G0020_300_eml
+JP: 何か御用ですか？
+EN: Can I help you with anything?
+RU: 
+
+ID: M5920_S0080_G0120_001_eml
+JP: いやあ、最近物騒ですよね。
+EN: Boy, the world's really going to hell in a handbasket, isn't it?
+RU: 
+
+ID: M5920_S0080_G0130_001_eml
+JP: この前もウチにドロボウさんが来たみたいで……
+EN: I actually had a bandit break into my place a little while ago!
+RU: 
+
+ID: M5920_S0080_G0140_001_eml
+JP: でも、今回は頑丈な入れ物に入れたので大丈夫です！
+EN: After that, I put all my valuables in a secure container. Now I don't have to worry anymore!
+RU: 
+
+
+-- Section 5
+
+ID: M6020_S0000_G0000_300_eml
+JP: あいたたた……
+EN: Owowowow...
+RU: 
+
+ID: M6020_S0000_G0010_300_eml
+JP: あっ！いらっしゃい！
+EN: Oh! Heya!
+RU: 
+
+
+-- Section 6
+
+ID: M6020_S0000_G0100_001_eml
+JP: いやあ……気づきませんでした。
+EN: Sorry about that. I didn't see you there.
+RU: 
+
+ID: M6020_S0000_G0020_300_eml
+JP: 何か御用ですか？
+EN: Can I help you with anything?
+RU: 
+
+
+-- Section 7
+
+ID: M6020_S0000_G0050_001_eml
+JP: いらっしゃいませ～！
+EN: Welcome!
+RU: 
+
+
+-- Section 8
+
+ID: M6020_S0000_G0060_001_eml
+JP: こんにちは～
+EN: Hello!
+RU: 
+
+ID: M6020_S0000_G0120_001_eml
+JP: 攻撃して止めるなんて……乱暴ですねぇ。
+EN: You don't have to whack someone in the face to get their attention, you know?
+RU: 
+
+
+-- Section 9
+
+ID: M6020_S0000_G0070_001_eml
+JP: いらっしゃいませ？
+EN: Er, welcome?
+RU: 
+
+
+-- Section 10
+
+ID: M6020_S0000_G0110_001_eml
+JP: おおっと？何かご入用ですか？
+EN: Sorry? Do you need something?
+RU: 
+
+
+-- Section 11
+
+ID: M6020_S0000_G0030_300_eml
+JP: また来てくださいね～
+EN: Come again!
+RU: 
+
+
+-- Section 12
+
+ID: M6020_S0000_G0040_001_eml
+JP: またのご利用をお待ちしておりまーす！！
+EN: Hope to see you again!
+RU: 
+
+
+-- Section 13
+
+ID: M6020_S0000_G0080_001_eml
+JP: ありがとうございました～！
+EN: Thank you!
+RU: 
+
+
+-- Section 14
+
+ID: M6020_S0000_G0090_001_eml
+JP: ありがとうございました？
+EN: Thank you?
+RU: 
+
+
+-- Section 15
+
+ID: M6020_S0000_G0230_300_eml
+JP: あっいらっしゃいませ！
+EN: Oh! Welcome!
+RU: 
+
+ID: M6020_S0000_G0240_300_eml
+JP: え？どうしてこんな形状で商売してるかって？
+EN: ...Hmm? Why am I running a shop like this?
+RU: 
+
+ID: M6020_S0000_G0250_300_eml
+JP: それを話すと、一晩じゃ済まないのですが……
+EN: Yeaaaah, that's a really long story that we probably don't have time for.
+RU: 
+
+ID: M6020_S0000_G0260_300_eml
+JP: とりあえず……何か買いますか？
+EN: So how about you buy something instead?
+RU: 
+
+ID: M6020_S0000_G0270_300_eml
+JP: ありがとうございました！
+EN: Thanks much!
+RU: 
+
+ID: M6020_S0000_G0280_300_eml
+JP: えーと、領収書のお名前は……
+EN: And what name should I put on the receipt?
+RU: 
+
+ID: M6020_S0000_G0290_300_eml
+JP: 領収書なんか要らない。
+EN: That's not necessary.
+RU: 
+
+ID: M6020_S0000_G0330_300_eml
+JP: 領収書なんか要らない。
+EN: Um, I don't really think I need a receipt.
+RU: 
+
+ID: M6020_S0000_G0300_300_eml
+JP: ヨルハ頭脳スキャン完了！２Ｂさんですね。
+EN: ...YoRHa brain scan complete. "2B," is it?
+RU: 
+
+ID: M6020_S0000_G0340_300_eml
+JP: ヨルハ頭脳スキャン完了！９Ｓさんですね。
+EN: ...YoRHa brain scan complete. "9S," is it?
+RU: 
+
+ID: M6020_S0000_G0310_300_eml
+JP: 今後ともご愛顧の程よろしくお願いいたします！
+EN: Hope to see you again soon!
+RU: 
+
+ID: M6020_S0000_G0320_300_eml
+JP: ……
+EN: ......
+RU: 
+
+ID: M6020_S0000_G0360_300_eml
+JP: ……
+EN: Oooo-kay?
+RU: 
+
+
+-- Section 16
+
+ID: M6020_S0000_G0370_300_eml
+JP: あ、いらっしゃいませ！
+EN: Welcome!
+RU: 
+
+ID: M6020_S0000_G0380_300_eml
+JP: そういえば、お名前は……Ａ２さんですか？
+EN: I think you're...A2, right?
+RU: 
+
+ID: M6020_S0000_G0390_300_eml
+JP: 何故知ってる。
+EN: How did you know that?
+RU: 
+
+ID: M6020_S0000_G0400_300_eml
+JP: ２Ｂさんから聞いた事を思い出して…・…２Ｂさんをご存知ですか？
+EN: Oh, I just remembered something 2B said. Do you know 2B?
+RU: 
+
+ID: M6020_S0000_G0410_300_eml
+JP: あいつは……
+EN: She...
+RU: 
+
+ID: M6020_S0000_G0420_300_eml
+JP: すごく美人で、優しくて、物静かでいい人でしたよ！
+EN: She's beautiful! And kind! And unusually calm, all things considered.
+RU: 
+
+ID: M6020_S0000_G0430_300_eml
+JP: ……
+EN: ......
+RU: 
+
+ID: M6020_S0000_G0440_300_eml
+JP: どうしました？
+EN: What's wrong?
+RU: 
+
+ID: M6020_S0000_G0450_300_eml
+JP: ……何でもない。どこかで元気にやってるだろう。
+EN: Nothing. I'm sure she's doing well...wherever she is.
+RU: 
+
+ID: M6020_S0000_G0460_300_eml
+JP: そうなんですね。Ａ２さんも、また是非いらしてください～
+EN: I think so too. I hope you'll visit me again, A2!
+RU: 
+
+
+-- Section 17
+
+ID: M6020_S0000_G0130_300_eml
+JP: いたたたた……
+EN: Ow! Owowowowowwww...
+RU: 
+
+ID: M6020_S0000_G0140_300_eml
+JP: あっ！アナタは……先日の！
+EN: Hey! I remember you from the other day!
+RU: 
+
+ID: M6020_S0000_G0150_300_eml
+JP: この前は驚いて逃げてしまい、すみませんでした！
+EN: Sorry I got startled and ran away. ...Er, or rolled away, I guess.
+RU: 
+
+ID: M6020_S0000_G0160_300_eml
+JP: 僕の名前はエミールといいます。見ての通り、ショップを営んでいます。
+EN: Anyway, my name's Emil, and this is my shop.
+RU: 
+
+ID: M6020_S0000_G0170_300_eml
+JP: 良ければ何か買っていきますか？
+EN: Wanna buy something? I've got the best prices anywhere!
+RU: 
+
+
+-- Section 18
+
+ID: M5920_S0080_G0000_001_eml
+JP: またのご愛顧をお待ちしております！
+EN: I look forward to serving you again!
+RU: 
+
+ID: M5920_S0080_G0010_001_eml
+JP: え？僕がドコに住んでいるかですか？
+EN: ...What was that? You want to know where I live?
+RU: 
+
+ID: M5920_S0080_G0040_001_a9s
+JP: 聞いてない。
+EN: I didn't ask that.
+RU: 
+
+ID: M5920_S0080_G0060_001_eml
+JP: えーと、地下の奥深くのそのまた奥深く、に暮らしています。
+EN: Well, I live deep, deep underground. Picture something deep, then go DEEPER!
+RU: 
+
+ID: M5920_S0080_G0070_001_eml
+JP: いつでも遊びに来てくださいね！
+EN: Feel free to visit me anytime you want!
+RU: 
+
+
+-- Section 19
+
+ID: M5920_S0080_G0000_001_eml
+JP: またのご愛顧をお待ちしております！
+EN: I look forward to serving you again!
+RU: 
+
+ID: M5920_S0080_G0010_001_eml
+JP: え？僕がドコに住んでいるかですか？
+EN: ...What was that? You want to know where I live?
+RU: 
+
+ID: M5920_S0080_G0020_001_a2b
+JP: 聞いてない。
+EN: I didn't ask that.
+RU: 
+
+ID: M5920_S0080_G0030_001_a9s
+JP: 聞いてないよ。
+EN: Uh, I don't think I asked about that.
+RU: 
+
+ID: M5920_S0080_G0060_001_eml
+JP: えーと、地下の奥深くのそのまた奥深く、に暮らしています。
+EN: Well, I live deep, deep underground. Picture something deep, then go DEEPER!
+RU: 
+
+ID: M5920_S0080_G0070_001_eml
+JP: いつでも遊びに来てくださいね！
+EN: Feel free to visit me anytime you want!
+RU: 
+
+
+-- Section 20
+
+ID: M6020_S0000_G0050_001_eml
+JP: いらっしゃいませ～！
+EN: Welcome!
+RU: 
+
+ID: M6020_S0000_G0080_001_eml
+JP: ありがとうございました～！
+EN: Thank you!
+RU: 
+
+
+-- Section 21
+
+ID: M6020_S0000_G0180_300_eml
+JP: うううっ……イタタタ。
+EN: Urgh...  Ow ow ow.
+RU: 
+
+ID: M6020_S0000_G0190_300_eml
+JP: いきなり攻撃して停車させるなんて……
+EN: You could've just asked me to stop, you know?
+RU: 
+
+ID: M6020_S0000_G0200_300_eml
+JP: ああ……Ａ２さんじゃないですか！
+EN: Hey... You're A2, aren't you?
+RU: 
+
+ID: M6020_S0000_G0210_300_eml
+JP: ここで出会ったのも何かのご縁……\nせっかくなのでブツをバイしてみませんか？
+EN: It must be fate that we ran into each other. ...And since you're here, you might as well buy something!
+RU: 
+
+ID: M5920_S0080_G0000_001_eml
+JP: またのご愛顧をお待ちしております！
+EN: I look forward to serving you again!
+RU: 
+
+ID: M5920_S0080_G0010_001_eml
+JP: え？僕がドコに住んでいるかですか？
+EN: ...What was that? You want to know where I live?
+RU: 
+
+ID: M5920_S0080_G0050_001_a2
+JP: 聞いてない。
+EN: No.
+RU: 
+
+ID: M5920_S0080_G0060_001_eml
+JP: えーと、地下の奥深くのそのまた奥深く、に暮らしています。
+EN: Well, I live deep, deep underground. Picture something deep, then go DEEPER!
+RU: 
+
+ID: M5920_S0080_G0070_001_eml
+JP: いつでも遊びに来てくださいね！
+EN: Feel free to visit me anytime you want!
+RU: 
+
+
+-- Section 22
+
+ID: M6020_S0000_G0050_001_eml
+JP: いらっしゃいませ～！
+EN: Welcome!
+RU: 
+
+ID: M6020_S0000_G0080_001_eml
+JP: ありがとうございました～！
+EN: Thank you!
+RU: 
+
+

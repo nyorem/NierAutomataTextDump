@@ -1,0 +1,49 @@
+-- Section 1
+
+ID: M1020_S0060_G0000_001_a2b
+JP: なんだ……こいつ……
+EN: Who IS this guy?
+RU: 
+
+
+-- Section 2
+
+ID: M1020_S0060_G0010_001_adam
+JP: ウウウッ……ウウウ……
+EN: Nnngh....
+RU: 
+
+ID: M1020_S0060_G0020_001_adam
+JP: アンド……ロイド……
+EN: An...droids...
+RU: 
+
+ID: M1020_S0060_G0030_001_adam
+JP: ドウシテ……タタカ……ウ
+EN: Why...fight...?
+RU: 
+
+
+-- Section 3
+
+ID: M1020_S0060_G0040_001_adam
+JP: カタナ……避ケル……
+EN: Sword...dodge...
+RU: 
+
+ID: M1020_S0060_G0050_001_adam
+JP: タマ……ハジク……
+EN: Projectile...deflect...
+RU: 
+
+ID: M1020_S0060_G0060_001_a9s
+JP: ２Ｂッ！！あいつ、進化してる！！
+EN: I think he's evolving!
+RU: 
+
+ID: M1020_S0060_G0070_001_a9s
+JP: 一気にケリをつけましょう！！
+EN: We'd better finish this quick!
+RU: 
+
+

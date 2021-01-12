@@ -1,0 +1,23 @@
+-- Section 1
+
+ID: M3010_S0020_G0380_001_a2
+JP: この場所に入るのは……止めておこう。
+EN: No. Let's not go in here.
+RU: 
+
+ID: M3010_S0020_G0390_001_pod042
+JP: ヨルハ機体２Ｂの記録によると、
+EN: According to the memory data of unit 2B,
+RU: 
+
+ID: M3010_S0020_G0400_001_pod042
+JP: この村の住人は平和主義者であり安全と判断されている。
+EN: the residents of this village have been determined to be safe.
+RU: 
+
+ID: M3010_S0020_G0410_001_a2
+JP: ……そういうのを殺したい気分じゃない。
+EN: I'm not interested in killing a bunch of sad-sacks.
+RU: 
+
+

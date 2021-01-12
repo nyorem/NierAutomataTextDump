@@ -1,0 +1,48 @@
+-- Section 1
+
+ID: M6080_S0020_G0010_300_sp
+JP: ああ、アンタも無事だったのか……\nまぁ、落ち込んでてもしかたねえ。互いに元気だして行こうや。
+EN: You must be exhausted from all the terrible things that have happened. Please take care of yourself.
+RU: 
+
+
+-- Section 2
+
+ID: M6080_S0020_G0030_300_sp
+JP: 近頃は何かと物騒だからな、無理だけはするなよ……
+EN: I understand how anxious these times must be for you. Go in good health!
+RU: 
+
+
+-- Section 3
+
+ID: M6080_S0020_G0020_300_sp
+JP: おう、元気そうで何よりだ。\n必要な物は何でも言ってくれ、力になるぜ。
+EN: Thank you for visiting my shop, and please let me know if I can be of any help. It's the least I can do!
+RU: 
+
+
+-- Section 4
+
+ID: M6080_S0020_G0030_300_sp
+JP: 近頃は何かと物騒だからな、無理だけはするなよ……
+EN: I understand how anxious these times must be for you. Go in good health!
+RU: 
+
+
+-- Section 5
+
+ID: M6080_S0010_G0020_300_sp
+JP: おう、よく来たな。\nまぁ、ゆっくりしていってくれ。
+EN: Welcome, and thank you for visiting my shop. Feel free to look around.
+RU: 
+
+
+-- Section 6
+
+ID: M6080_S0010_G0030_300_sp
+JP: また来てくれよ。アンタなら何時でも歓迎するぜ。
+EN: Please grace my shop with your presence anytime you please.
+RU: 
+
+

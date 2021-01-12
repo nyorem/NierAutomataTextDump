@@ -1,0 +1,56 @@
+-- Section 1
+
+ID: M3060_S0500_G0000_001_announce
+JP: ヨルハ機体９Ｓ！
+EN: YoRHa unit 9S!
+RU: 
+
+ID: M3060_S0500_G0010_001_girls
+JP: ヨルハ機体９Ｓ！
+EN: YoRHa unit 9S!
+RU: 
+
+ID: M3060_S0500_G0020_001_announce
+JP: ようこそ『塔』へ！
+EN: Welcome to the Tower!
+RU: 
+
+ID: M3060_S0500_G0030_001_girls
+JP: ようこそ『塔』へ！
+EN: Welcome to the Tower!
+RU: 
+
+ID: M3060_S0500_G0040_001_a9s
+JP: 貴様ら……ッ！！
+EN: You bastards...!
+RU: 
+
+ID: M3060_S0500_G0060_001_girls
+JP: ここまで辿り着いた貴様に耳寄りな情報があります。
+EN: Because you made it this far, we have a special announcement just for you...
+RU: 
+
+ID: M3060_S0500_G0070_001_girls
+JP: この場に居る機械生命体を全て破壊したら教えよう。
+EN: We'll reveal it once you destroy all the machine lifeforms here.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0500_G0080_001_girls
+JP: 全てを破壊したな。
+EN: You did it.
+RU: 
+
+ID: M3060_S0500_G0090_001_girls
+JP: 全てを破壊したな。
+EN: You did it.
+RU: 
+
+ID: M3060_S0500_G0100_001_girls
+JP: ならば約束通り見せてやろう。
+EN: Now let us show you what we promised.
+RU: 
+
+

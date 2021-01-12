@@ -1,0 +1,157 @@
+-- Section 1
+
+ID: M1090_S0230_G0000_001_a9s
+JP: クソッ！ここにも敵が！
+EN: Damn it! They're here too!
+RU: 
+
+ID: M1090_S0230_G0010_001_pascal
+JP: ９Ｓさん！
+EN: 9S!
+RU: 
+
+ID: M1090_S0230_G0020_001_pascal
+JP: ネットワークにぶら下がっている機械生命体が全部暴走したらしく……
+EN: It seems the machines on the network have gone berserk.
+RU: 
+
+ID: M1090_S0230_G0030_001_pascal
+JP: 村の入口を封鎖して応戦しているのですが、
+EN: We've sealed off the entrance to the village and are trying to hold them off, but...
+RU: 
+
+ID: M1090_S0230_G0040_001_pascal
+JP: 私達の武装では……
+EN: With these weapons, there's only so much we can do...
+RU: 
+
+ID: M1090_S0230_G0050_001_a2b
+JP: まず、こいつを排除する。
+EN: Let's take these guys out first.
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0230_G0060_001_pascal
+JP: ありがとうございます……助かりました。
+EN: You saved us! Oh, thank you so much...
+RU: 
+
+ID: M1090_S0230_G0070_001_a2b
+JP: 一体、何があったんだ？
+EN: What happened here?
+RU: 
+
+ID: M1090_S0230_G0080_001_pascal
+JP: ネットワークに接続されている全ての機械生命体が一斉に暴走したんです。
+EN: The machines on the network all went berserk at the same moment.
+RU: 
+
+ID: M1090_S0230_G0090_001_pascal
+JP: おそらく、全体を統括しているユニットが暴走したかと。
+EN: I think the unit presiding over them may have gone mad.
+RU: 
+
+ID: M1090_S0230_G0100_001_a9s
+JP: あの……『イヴ』って機械生命体だ。
+EN: It's Eve. It's got to be.
+RU: 
+
+ID: M1090_S0230_G0110_001_a2b
+JP: その統括しているユニットを破壊すれば、全体の活動が停止するの？
+EN: If we destroy this presiding unit, will it stop the rest?
+RU: 
+
+ID: M1090_S0230_G0120_001_pascal
+JP: おそらく……
+EN: Most likely, yes...
+RU: 
+
+ID: M1090_S0230_G0130_001_a2b
+JP: ポッド！イヴの位置を特定出来る？
+EN: Pod, I need you to locate Eve's current position.
+RU: 
+
+ID: M1090_S0230_G0140_001_pod042
+JP: 報告：位置は既に特定。地図にポイント完了。
+EN: Location has been detected and placed on map.
+RU: 
+
+ID: M1090_S0230_G0150_001_a2b
+JP: 私達がイヴを倒す。
+EN: We'll take care of Eve.
+RU: 
+
+ID: M1090_S0230_G0160_001_a9s
+JP: パスカルは村を守ってて！
+EN: You just worry about keeping the village safe, okay?
+RU: 
+
+
+-- Section 3
+
+ID: M1090_S0230_G1060_001_pascal
+JP: ありがとうございます……助かりました。
+EN: You saved us! Oh, thank you so much...
+RU: 
+
+ID: M1090_S0230_G0070_001_a2b
+JP: 一体、何があったんだ？
+EN: What happened here?
+RU: 
+
+ID: M1090_S0230_G1080_001_pascal
+JP: ネットワークに接続されている全ての機械生命体が一斉に暴走したんです。
+EN: The machines on the network all went berserk at the same moment.
+RU: 
+
+ID: M1090_S0230_G1090_001_pascal
+JP: おそらく、全体を統括しているユニットが暴走したかと。
+EN: I think the unit presiding over them may have gone mad.
+RU: 
+
+ID: M1090_S0230_G0100_001_a9s
+JP: あの……『イヴ』って機械生命体だ。
+EN: It's Eve. It's got to be.
+RU: 
+
+ID: M1090_S0230_G0110_001_a2b
+JP: その統括しているユニットを破壊すれば、全体の活動が停止するの？
+EN: If we destroy this presiding unit, will it stop the rest?
+RU: 
+
+ID: M1090_S0230_G1120_001_pascal
+JP: おそらく……
+EN: Most likely, yes...
+RU: 
+
+ID: M1090_S0230_G0130_001_a2b
+JP: ポッド！イヴの位置を特定出来る？
+EN: Pod, I need you to locate Eve's current position.
+RU: 
+
+ID: M1090_S0230_G0140_001_pod042
+JP: 報告：位置は既に特定。地図にポイント完了。
+EN: Location has been detected and placed on map.
+RU: 
+
+ID: M1090_S0230_G0150_001_a2b
+JP: 私達がイヴを倒す。
+EN: We'll take care of Eve.
+RU: 
+
+ID: M1090_S0230_G0160_001_a9s
+JP: パスカルは村を守ってて！
+EN: You just worry about keeping the village safe, okay?
+RU: 
+
+
+-- Section 4
+
+ID: M1090_S0230_G0170_001_pascal
+JP: お気をつけて！
+EN: Do be careful!
+RU: 
+
+

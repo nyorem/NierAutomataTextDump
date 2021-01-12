@@ -1,0 +1,323 @@
+-- Section 1
+
+ID: M1080_S0020_G0000_201_pod153
+JP: 検査推奨：記憶エリア。
+EN: Proposal: Engage memory core diagnostics.
+RU: 
+
+ID: M1080_S0020_G0010_201_a9s
+JP: ハイハイ。
+EN: Yeah, yeah.
+RU: 
+
+ID: M1080_S0020_G0020_201_pod153
+JP: 『ハイ』は一度で認識可能。
+EN: A single reply is sufficient for acknowledgment.
+RU: 
+
+ID: M1080_S0020_G0030_201_a9s
+JP: ハーイ。
+EN: Fiiine.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0020_G0040_201_pod153
+JP: 記憶エリアチェック完了。問題なし。
+EN: Memory core diagnostics complete. No issues detected.
+RU: 
+
+ID: M1080_S0020_G0050_201_a9s
+JP: 了解。
+EN: Good.
+RU: 
+
+ID: M1080_S0020_G0060_201_pod153
+JP: 検査推奨：視覚センサー処理系。
+EN: Proposal: Engage visual sensor diagnostics.
+RU: 
+
+ID: M1080_S0020_G0070_201_a9s
+JP: ハーイ。
+EN: You got it.
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0020_G0080_201_pod153
+JP: 視覚センサー処理系チェック完了。問題なし。
+EN: Visual sensor diagnostics complete. No issues detected.
+RU: 
+
+ID: M1080_S0020_G0090_201_pod153
+JP: 全チェック完了。
+EN: All checks complete.
+RU: 
+
+ID: M1080_S0020_G0100_201_a9s
+JP: ふうっ……ようやく全部のチェックが終わった……
+EN: Whew... Took long enough.
+RU: 
+
+ID: M1080_S0020_G0110_201_a9s
+JP: データオーバーホールとか、やり過ぎだよ。
+EN: Don't you think it's overkill to perform a full data overhaul?
+RU: 
+
+ID: M1080_S0020_G0120_201_pod153
+JP: 機体９Ｓは敵に鹵獲され長時間の操作不能状態にあった。
+EN: Unit 9S was seized by the enemy and placed in a non-controlled state for an extended period of time.
+RU: 
+
+ID: M1080_S0020_G0130_201_pod153
+JP: その間に敵の論理ウィルスの潜伏を許してしまった可能性が……
+EN: There is a high probability of corruption by an enemy logic virus.
+RU: 
+
+ID: M1080_S0020_G0140_201_a9s
+JP: わかったわかった。
+EN: All right, all right. Cram it.
+RU: 
+
+ID: M1080_S0020_G0150_201_a9s
+JP: 後は、バンカーのサーバーとデータを同期をしたら終わりだね。
+EN: Anyway, I just gotta synch up with the Bunker server and then I'm outta here, right?
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0020_G0160_201_a9s
+JP: 何……今の？
+EN: Huh? What was that?
+RU: 
+
+ID: M1080_S0020_G0170_201_pod153
+JP: 不明。
+EN: Unknown.
+RU: 
+
+ID: M1080_S0020_G0180_201_a9s
+JP: データ同期を中止。
+EN: Halt the data sync.
+RU: 
+
+ID: M1080_S0020_G0190_201_pod153
+JP: 警告：データ同期は全ヨルハ機体の義務工程。
+EN: Alert: Data synchronization is mandatory for all YoRHa units.
+RU: 
+
+ID: M1080_S0020_G0200_201_a9s
+JP: 不明瞭なノイズがあったからね。
+EN: Yeah, I know that. But we just got some kind of weird noise.
+RU: 
+
+ID: M1080_S0020_G0210_201_a9s
+JP: ２Ｂのデータ同期プロセスも一旦保留しておいて。
+EN: Halt the data sync for 2B as well.
+RU: 
+
+ID: M1080_S0020_G0220_201_pod153
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+ID: M1080_S0020_G0230_201_a9s
+JP: 万全を期する為に、データノイズの原因を探す。
+EN: Let's figure out where that noise came from. Just to be sure, you know?
+RU: 
+
+ID: M1080_S0020_G0240_201_a9s
+JP: サーバーへのポートを開いて。
+EN: Open a port to the server.
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0020_G0250_201_a9s
+JP: 全部調べるのは無理だな……重要なポイントに絞って調べよう。
+EN: Hmm... No time to examine everything. Better stick to the main data nodes.
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0020_G0260_201_pod153
+JP: 検出：月面の人類会議サーバーへのポートログ。
+EN: Detected: Access log to Council of Humanity's lunar server.
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0020_G0270_201_a9s
+JP: どうして防壁がこんな所に……
+EN: What's a barrier doing here...?
+RU: 
+
+ID: M1080_S0020_G0280_201_a9s
+JP: これは月面への資材搬入記録か。
+EN: Hmm... Looks like records for supplies shipped to the moon.
+RU: 
+
+ID: M1080_S0020_G0290_201_a9s
+JP: でも、変だな……空のコンテナがやたらある。
+EN: Strange... There were a ton of empty containers.
+RU: 
+
+ID: M1080_S0020_G0300_201_a9s
+JP: 何でこんな……無意味な事してるんだろう？
+EN: That's weird. Why would they do that?
+RU: 
+
+
+-- Section 8
+
+ID: M1080_S0020_G0310_201_pod153
+JP: 検出：ヨルハ機体保管記録。
+EN: Detected: YoRHa unit storage records.
+RU: 
+
+
+-- Section 9
+
+ID: M1080_S0020_G0320_201_a9s
+JP: こんなに厳重に防御する意味ってなんだろう……
+EN: What's the point of all this heavy security?
+RU: 
+
+ID: M1080_S0020_G0330_201_a9s
+JP: ブラックボックスに関する情報だけ、全部潰されてる……
+EN: All the black box data has been deleted, but it looks like everything else is here.
+RU: 
+
+
+-- Section 10
+
+ID: M1080_S0020_G0340_201_a9s
+JP: ん……？新しいポートが開いた。
+EN: ...Huh? A new port just opened.
+RU: 
+
+
+-- Section 11
+
+ID: M1080_S0020_G0340_201_a9s
+JP: ん……？新しいポートが開いた。
+EN: ...Huh? A new port just opened.
+RU: 
+
+
+-- Section 12
+
+ID: M1080_S0020_G0350_201_pod153
+JP: 検出：人類会議及びヨルハ計画記録インデックス。
+EN: Detected: Council of Humanity and Project YoRHa records index.
+RU: 
+
+ID: M1080_S0020_G0360_201_pod153
+JP: 警告：当該データへのアクセスは許可されていない。
+EN: Alert: We are not authorized to access this data.
+RU: 
+
+ID: M1080_S0020_G0370_201_a9s
+JP: ……変なデータが多すぎる。
+EN: Man, this stuff is all wrong...
+RU: 
+
+ID: M1080_S0020_G0380_201_a9s
+JP: このデータも調べないとダメだ。
+EN: I need to check this out too.
+RU: 
+
+
+-- Section 13
+
+ID: M1080_S0020_G0390_201_a9s
+JP: 攻撃型の防壁！？
+EN: An attack barrier? Really!?
+RU: 
+
+ID: M1080_S0020_G0400_201_a9s
+JP: こんなのをサーバー内部に設置するなんて……
+EN: Why the heck would they install one of those in this server...?
+RU: 
+
+
+-- Section 14
+
+ID: M1080_S0020_G0410_201_a9s
+JP: このデータ……ヨルハ計画の中に、人類会議策定の見出しが入ってる……
+EN: Let's see... Looks like info about how the Council of Humanity was formed as part of Project YoRHa.
+RU: 
+
+ID: M1080_S0020_G0420_201_a9s
+JP: これじゃあ、順番が逆……
+EN: Wait. Isn't that backwards?
+RU: 
+
+
+-- Section 15
+
+ID: M1080_S0020_G0430_201_a9s
+JP: 数多の戦いと冒険を経て、預言者は言う。
+EN: After a long period of battles and adventures, the prophet spoke.
+RU: 
+
+ID: M1080_S0020_G0440_201_a9s
+JP: ああ、大地の慈悲を。
+EN: O grant me the mercy of the land!
+RU: 
+
+ID: M1080_S0020_G0450_201_a9s
+JP: ああ、天上の喜びを。
+EN: O grant me the joy of the heavens!
+RU: 
+
+ID: M1080_S0020_G0460_201_a9s
+JP: 鉄の軛から解き放たれ、
+EN: Release me from my yoke of iron!
+RU: 
+
+ID: M1080_S0020_G0470_201_a9s
+JP: 私達の魂は……
+EN: Thus shall our souls be—
+RU: 
+
+
+-- Section 16
+
+ID: M1080_S0020_G0480_201_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M1080_S0020_G0490_201_a9s
+JP: 今のは……一体？
+EN: What was that?
+RU: 
+
+ID: M1080_S0020_G0500_201_a9s
+JP: くそっ！見つかった？
+EN: Crap! Did they find me?
+RU: 
+
+ID: M1080_S0020_G0510_201_pod153
+JP: 否定：２Ｂからの緊急援護申請。
+EN: Negative. Emergency backup request from 2B.
+RU: 
+
+ID: M1080_S0020_G0520_201_a9s
+JP: サーバー切断。ボディユニット起動。
+EN: Close the server connection and activate my body.
+RU: 
+
+ID: M1080_S0020_G0530_201_a9s
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+

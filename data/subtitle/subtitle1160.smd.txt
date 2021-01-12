@@ -1,0 +1,15 @@
+ID: M3060_S0250_H0000_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S0250_H0010_001_a9s
+JP: ……ッ！？
+EN:  
+RU: 
+
+ID: M3060_S0250_H0020_001_a9s
+JP: 戦うんだ……戦わなくちゃ……
+EN: I can't stop... Have to keep fighting...
+RU: 
+

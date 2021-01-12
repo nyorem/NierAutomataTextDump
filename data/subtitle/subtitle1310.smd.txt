@@ -1,0 +1,25 @@
+ID: M5092_S0040_H0060_001_plato
+JP: 真っ暗ナ世界をススムには……
+EN: In order to advance through the darkness...
+RU: 
+
+ID: M5092_S0040_H0070_001_plato
+JP: 導いてクレる命綱が必要ラ。
+EN: One requires a guiding lifeline.
+RU: 
+
+ID: M5092_S0040_H0080_001_plato
+JP: ダケドその鎖に縛ラレテシマウと
+EN: However, if one lets oneself get too restricted by these chains,
+RU: 
+
+ID: M5092_S0040_H0090_001_plato
+JP: 何も見えなくナルんだ……
+EN: one is doomed to lose sight...
+RU: 
+
+ID: M5092_S0040_H0100_001_plato
+JP: ナニモ……
+EN: Of everything...
+RU: 
+

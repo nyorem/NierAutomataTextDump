@@ -1,0 +1,454 @@
+-- Section 1
+
+ID: M5410_S0010_G0120_001_16d
+JP: もちろん、時間がある時で構いませんので。
+EN: It's not a priority or anything. Just if you have the time.
+RU: 
+
+ID: M5410_S0010_G0130_001_sele
+JP: 承諾する。
+EN: Agree to the request.
+RU: 
+
+ID: M5410_S0010_G0140_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 2
+
+ID: M5410_S0010_G0170_001_16d
+JP: 先輩の１１Ｂさんの遺品を見つけたら譲っていただけませんか？
+EN: If you find any items that belonged to 11B, would you mind bringing them back to me?
+RU: 
+
+ID: M5410_S0010_G0130_001_sele
+JP: 承諾する。
+EN: Agree to the request.
+RU: 
+
+ID: M5410_S0010_G0140_001_sele
+JP: 断る。
+EN: Refuse.
+RU: 
+
+
+-- Section 3
+
+ID: M5410_S0010_G0000_001_16d
+JP: あの……２Ｂさん、ですか？
+EN: 2...B? Is that you?
+RU: 
+
+ID: M5410_S0010_G0010_001_a2b
+JP: ……そうだけど。
+EN: Yes, but—
+RU: 
+
+
+-- Section 4
+
+ID: M5410_S0010_G0020_001_16d
+JP: ああ、良かった。私、１６Dと言います。
+EN: Thank goodness! My name is 16D.
+RU: 
+
+ID: M5410_S0010_G0030_001_16d
+JP: ２Ｂさんが工場廃墟に出撃された際、僚機だった１１Ｂさんは、\n私の指導員だったんです。
+EN: My instructor, 11B, was one of your squadmates in the assault on the abandoned factory.
+RU: 
+
+ID: M5410_S0010_G0040_001_16d
+JP: あの……先輩はやっぱり……
+EN: I don't suppose she...
+RU: 
+
+ID: M5410_S0010_G0050_001_a2b
+JP: ……ああ。その戦いで撃墜された。
+EN: She was shot down during the battle.
+RU: 
+
+ID: M5410_S0010_G0060_001_16d
+JP: そうですか……残念です。先輩は、私の憧れでした。
+EN: I...I see... What a shame. She was the closest thing I had to a mentor.
+RU: 
+
+ID: M5410_S0010_G0070_001_16d
+JP: いつも、強くてカッコ良くて……
+EN: She was so strong and admirable...
+RU: 
+
+ID: M5410_S0010_G0080_001_16d
+JP: 遺体はどうなったんですか？
+EN: What happened to her body?
+RU: 
+
+ID: M5410_S0010_G0090_001_a2b
+JP: 確認していない。
+EN: I don't know.
+RU: 
+
+ID: M5410_S0010_G0100_001_16d
+JP: 不躾なお願いで申し訳ないのですが……
+EN: I know it isn't my place to be asking you this...
+RU: 
+
+ID: M5410_S0010_G0110_001_16d
+JP: もし、先輩の遺品とか見つけたら是非私にいただけませんか？
+EN: But... Well, if you happen to run across anything of hers, would you mind bringing it back to me?
+RU: 
+
+
+-- Section 5
+
+ID: M5410_S0010_G0180_001_a2b
+JP: ……わかった。
+EN: I'll keep an eye out.
+RU: 
+
+ID: M5410_S0010_G0185_001_16d
+JP: 有難うございます。
+EN: Thank you.
+RU: 
+
+ID: M5410_S0010_G0190_001_a2b
+JP: ポッド。１１Ｂのブラックボックス信号は？
+EN: Pod, do we have any information about 11B's black box?
+RU: 
+
+ID: M5410_S0010_G0200_001_pod042
+JP: 不明：現在に至るまで回収されていない。
+EN: Negative. 11B's black box has yet to be recovered.
+RU: 
+
+ID: M5410_S0010_G0210_001_a2b
+JP: 落下したのは廃工場付近か……
+EN: She was shot down near the abandoned factory, right?
+RU: 
+
+
+-- Section 6
+
+ID: M5410_S0010_G0150_001_16d
+JP: ……そうですか。無理を言ってすみません。
+EN: No, that's fair. I'm sorry to have troubled you.
+RU: 
+
+ID: M5410_S0010_G0160_001_16d
+JP: また、お時間のある時にでも是非……
+EN: If you find yourself with time later on, just let me know, okay?
+RU: 
+
+
+-- Section 7
+
+ID: M5410_S0010_G0030_001_16d
+JP: ２Ｂさんが工場廃墟に出撃された際、僚機だった１１Ｂさんは、\n私の指導員だったんです。
+EN: My instructor, 11B, was one of your squadmates in the assault on the abandoned factory.
+RU: 
+
+ID: M5410_S0010_G0100_001_16d
+JP: 不躾なお願いで申し訳ないのですが……
+EN: I know it isn't my place to be asking you this...
+RU: 
+
+
+-- Section 8
+
+ID: M5410_S0010_G0220_001_a2b
+JP: ヨルハの遺体……
+EN: That's a YoRHa unit...
+RU: 
+
+
+-- Section 9
+
+ID: M5410_S0010_G0230_001_pod042
+JP: 確認：ヨルハＢ型。捜索中の１１Ｂの義体。
+EN: Analysis: YoRHa type B body confirmed. It belongs to the missing unit known as 11B.
+RU: 
+
+ID: M5410_S0010_G0240_001_a2b
+JP: こんなところに落ちていたのか。１１Ｂ……
+EN: So this is where you landed...
+RU: 
+
+ID: M5410_S0010_G0250_001_a2b
+JP: ブラックボックス信号は？
+EN: Pod, can you access her black box?
+RU: 
+
+ID: M5410_S0010_G0260_001_pod042
+JP: 確認出来ず。\nブラックボックス本体に致命的な損傷がある為修復も不可能。
+EN: Negative. Unit 11B's black box has been irreparably damaged.
+RU: 
+
+ID: M5410_S0010_G0270_001_a2b
+JP: そう……
+EN: Hmm...
+RU: 
+
+ID: M5410_S0010_G0280_001_pod042
+JP: 推奨：使用可能な武器を回収。
+EN: Proposal: Unit 2B should recover any usable weapons.
+RU: 
+
+ID: M5410_S0010_G0290_001_pod042
+JP: また、記憶領域内に断片的な記憶データを確認。
+EN: Fragmented data detected in memory region.
+RU: 
+
+
+-- Section 10
+
+ID: M5410_S0010_G0300_001_a2b
+JP: 脱走計画……
+EN: She was planning to go AWOL...
+RU: 
+
+ID: M5410_S0010_G0320_001_pod042
+JP: 重大な規定違反。しかし当該機体の死亡により、処罰の実行は不可能。
+EN: Violation of regulations detected. However, due to the death of the unit in question, corrective punishment is impossible.
+RU: 
+
+ID: M5410_S0010_G0325_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5410_S0010_G0330_001_a2b
+JP: 武器は、バンカーにいる１６Ｄに渡そう。
+EN: I'll bring this weapon back to 16D in the Bunker.
+RU: 
+
+
+-- Section 11
+
+ID: M5410_S0010_G0325_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5410_S0020_G0070_001_sele
+JP: １１Ｂの脱走計画を伝える。
+EN: Tell her about 11B's attempted desertion.
+RU: 
+
+ID: M5410_S0020_G0080_001_sele
+JP: １１Ｂの脱走計画は黙っておく。
+EN: Keep 11B's plans to yourself.
+RU: 
+
+
+-- Section 12
+
+ID: M5410_S0020_G0000_001_16d
+JP: あっ……２Ｂさん。
+EN: Oh, 2B. Hello.
+RU: 
+
+ID: M5410_S0020_G0010_001_a2b
+JP: １１Ｂの遺体が見つかった。この武器が彼女の遺品だ。
+EN: I found 11B's body, along with this weapon.
+RU: 
+
+ID: M5410_S0020_G0015_001_telo
+JP: １１Ｂの遺品を渡した。
+EN: You handed over 11B's belongings.
+RU: 
+
+ID: M5410_S0020_G0020_001_16d
+JP: この武器……戦闘使用ログがある。死の間際まで戦っていたんですね……
+EN: The battle log is still intact on this... She must have fought right up to the end.
+RU: 
+
+ID: M5410_S0020_G0030_001_16d
+JP: 勇敢な先輩らしいです。ありがとうございます。
+EN: I always knew she was the bravest of us all... Thank you, 2B.
+RU: 
+
+ID: M5410_S0020_G0040_001_16d
+JP: ……私は防衛型ですから、この武器は２Ｂさん、貴方が使ってください。
+EN: But I think you should keep it. You're a combat model, after all, whereas I'm a defensive unit.
+RU: 
+
+ID: M5410_S0020_G0050_001_16d
+JP: その方が先輩も喜ぶと思います。
+EN: I'm sure 11B would be happy knowing it was being put to good use.
+RU: 
+
+ID: M5410_S0020_G0060_001_a2b
+JP: ……わかった。
+EN: All right.
+RU: 
+
+
+-- Section 13
+
+ID: M5410_S0020_G0090_001_a2b
+JP: 実は、１１Ｂの記憶エリアにこんな情報が入ってた……
+EN: There's more. I discovered some additional data in 11B's memory banks.
+RU: 
+
+ID: M5410_S0020_G0100_001_16d
+JP: これは……脱走？あの先輩が？
+EN: Let me see... Wait. She was planning to abandon her post?
+RU: 
+
+
+-- Section 14
+
+ID: M5410_S0020_G0110_001_16d
+JP: くっ……
+EN: Heh...
+RU: 
+
+ID: M5410_S0020_G0120_001_16d
+JP: くふっ……ふふふふっ
+EN: Pffft...aaah ha ha ha ha!
+RU: 
+
+ID: M5410_S0020_G0130_001_a2b
+JP: 何がおかしい？
+EN: What's so funny?
+RU: 
+
+ID: M5410_S0020_G0140_001_16d
+JP: だって、あんな厳しかった先輩が、脱走しようとして……フフッ
+EN: It's just that...she was always such a hard ass, you know? To think she wanted to run away just... Ha ha!
+RU: 
+
+ID: M5410_S0020_G0150_001_16d
+JP: しかもこんな惨めったらしい死に方するなんて。
+EN: And what a miserable way to die.
+RU: 
+
+ID: M5410_S0020_G0160_001_16d
+JP: 散々私を虐めたバツが下ったんだ……
+EN: Serves her right for the way she used to heap abuse on me...
+RU: 
+
+ID: M5410_S0020_G0170_001_16d
+JP: 私が攻撃モデルじゃないからって、見下しやがって……
+EN: She always looked down on me because I wasn't a combat model, and now...
+RU: 
+
+ID: M5410_S0020_G0180_001_16d
+JP: ああ、２Ｂさん。ありがとうございます！
+EN: Thank you, 2B. Thank you for showing me this.
+RU: 
+
+ID: M5410_S0020_G0190_001_16d
+JP: これで、楽しく仕事に専念出来ますよ！
+EN: Now I can dedicate myself to my job with a clear mind.
+RU: 
+
+ID: M5410_S0020_G0200_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5410_S0020_G0320_001_16d
+JP: あ、これ、お礼に差し上げます。
+EN: Oh, and here. You should take this.
+RU: 
+
+ID: M5410_S0020_G0330_001_16d
+JP: 私にはもう、身を守る理由なんて無いから……
+EN: I don't have a reason to protect myself anymore...
+RU: 
+
+
+-- Section 15
+
+ID: M5410_S0020_G0210_001_16d
+JP: 先輩の情報はこれが全部でしょうか……？
+EN: Are you sure this is everything? There's no other information?
+RU: 
+
+ID: M5410_S0020_G0220_001_a2b
+JP: ……ええ。
+EN: I'm sure.
+RU: 
+
+ID: M5410_S0020_G0230_001_16d
+JP: これで先輩も弔われると思います。
+EN: Well, at least now I can put her memory to rest.
+RU: 
+
+ID: M5410_S0020_G0240_001_16d
+JP: ……
+EN: ......
+RU: 
+
+ID: M5410_S0020_G0250_001_16d
+JP: 実は、私……先輩と付き合ってたんです。
+EN: Can I admit something to you? 11B and I... We were in a relationship.
+RU: 
+
+ID: M5410_S0020_G0260_001_16d
+JP: 『お前の事は俺が守る』……なんて言ってくれてたんですけど。
+EN: She promised to protect me. It all seemed so romantic at the time...
+RU: 
+
+ID: M5410_S0020_G0270_001_16d
+JP: 死んじゃったら、守りようがないですよね。
+EN: But now she can't.
+RU: 
+
+ID: M5410_S0020_G0280_001_16d
+JP: 私……先輩や２Ｂさんのような攻撃型に転向しようと思っています。
+EN: I've been thinking of converting to a combat model like you and her.
+RU: 
+
+ID: M5410_S0020_G0290_001_16d
+JP: 先輩の敵を討つために。
+EN: That way I could avenge her death.
+RU: 
+
+ID: M5410_S0020_G0300_001_a2b
+JP: ……そう。
+EN: I see.
+RU: 
+
+
+-- Section 16
+
+ID: M5410_S0020_G0310_001_16d
+JP: 色々ありがとうございました。
+EN: Anyway, thank you.
+RU: 
+
+ID: M5410_S0020_G0320_001_16d
+JP: あ、これ、お礼に差し上げます。
+EN: Oh, and here. You should take this.
+RU: 
+
+ID: M5410_S0020_G0330_001_16d
+JP: 私にはもう、身を守る理由なんて無いから……
+EN: I don't have a reason to protect myself anymore...
+RU: 
+
+
+-- Section 17
+
+ID: M5410_S0020_G0160_001_16d
+JP: 散々私を虐めたバツが下ったんだ……
+EN: Serves her right for the way she used to heap abuse on me...
+RU: 
+
+ID: M5410_S0020_G0120_001_16d
+JP: くふっ……ふふふふっ
+EN: Pffft...aaah ha ha ha ha!
+RU: 
+
+
+-- Section 18
+
+ID: M5410_S0020_G0330_001_16d
+JP: 私にはもう、身を守る理由なんて無いから……
+EN: I don't have a reason to protect myself anymore...
+RU: 
+
+

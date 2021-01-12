@@ -1,0 +1,1341 @@
+-- Section 1
+
+ID: M6090_S0100_G0000_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0010_300_sele
+JP: 世界
+EN: Stage
+RU: 
+
+ID: M6090_S0100_G0020_300_sele
+JP: 戦闘
+EN: Battle
+RU: 
+
+ID: M6090_S0100_G0030_300_sele
+JP: 物語
+EN: Scenario
+RU: 
+
+ID: M6090_S0100_G0040_300_sele
+JP: 補足
+EN: Other
+RU: 
+
+ID: M6090_S0100_G1400_300_sele
+JP: 追加
+EN: Additional
+RU: 
+
+ID: M6090_S0100_G0050_300_sele
+JP: 曲を止める。
+EN: Stop Playback
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 2
+
+ID: M6090_S0100_G0000_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0010_300_sele
+JP: 世界
+EN: Stage
+RU: 
+
+ID: M6090_S0100_G0020_300_sele
+JP: 戦闘
+EN: Battle
+RU: 
+
+ID: M6090_S0100_G0030_300_sele
+JP: 物語
+EN: Scenario
+RU: 
+
+ID: M6090_S0100_G0040_300_sele
+JP: 補足
+EN: Other
+RU: 
+
+ID: M6090_S0100_G1400_300_sele
+JP: 追加
+EN: Additional
+RU: 
+
+ID: M6090_S0100_G0050_300_sele
+JP: 曲を止める。
+EN: Stop Playback
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 3
+
+ID: M6090_S0100_G0000_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0010_300_sele
+JP: 世界
+EN: Stage
+RU: 
+
+ID: M6090_S0100_G0020_300_sele
+JP: 戦闘
+EN: Battle
+RU: 
+
+ID: M6090_S0100_G0030_300_sele
+JP: 物語
+EN: Scenario
+RU: 
+
+ID: M6090_S0100_G0040_300_sele
+JP: 補足
+EN: Other
+RU: 
+
+ID: M6090_S0100_G1400_300_sele
+JP: 追加
+EN: Additional
+RU: 
+
+ID: M6090_S0100_G0050_300_sele
+JP: 曲を止める。
+EN: Stop Playback
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 4
+
+ID: M6090_S0100_G0000_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0010_300_sele
+JP: 世界
+EN: Stage
+RU: 
+
+ID: M6090_S0100_G0020_300_sele
+JP: 戦闘
+EN: Battle
+RU: 
+
+ID: M6090_S0100_G0030_300_sele
+JP: 物語
+EN: Scenario
+RU: 
+
+ID: M6090_S0100_G0040_300_sele
+JP: 補足
+EN: Other
+RU: 
+
+ID: M6090_S0100_G1400_300_sele
+JP: 追加
+EN: Additional
+RU: 
+
+ID: M6090_S0100_G0050_300_sele
+JP: 曲を止める。
+EN: Stop Playback
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 5
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G0080_300_sele
+JP: 丙
+EN: Quiet
+RU: 
+
+ID: M6090_S0100_G0090_300_sele
+JP: 乙
+EN: Medium
+RU: 
+
+ID: M6090_S0100_G0100_300_sele
+JP: 甲
+EN: Dynamic
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 6
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G1126_300_sele
+JP: コーラス
+EN: Chorus
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 7
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G1121_300_sele
+JP: ジュニーク・ニコール
+EN: J’Nique Nicole
+RU: 
+
+ID: M6090_S0100_G1122_300_sele
+JP: 河野万里奈
+EN: Marina Kawano
+RU: 
+
+ID: M6090_S0100_G1123_300_sele
+JP: エミ・エヴァンス
+EN: Emi Evans
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 8
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G1200_300_sele
+JP: ギター
+EN: Guitar
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 9
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1080_300_sele
+JP: ハミング
+EN: Humming version
+RU: 
+
+ID: M6090_S0100_G1090_300_sele
+JP: お店
+EN: Shop version
+RU: 
+
+ID: M6090_S0100_G1100_300_sele
+JP: 適当
+EN: Random version
+RU: 
+
+ID: M6090_S0100_G1110_300_sele
+JP: インスト
+EN: Instrumental version
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 10
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G0080_300_sele
+JP: 丙
+EN: Quiet
+RU: 
+
+ID: M6090_S0100_G0100_300_sele
+JP: 甲
+EN: Dynamic
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 11
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G0080_300_sele
+JP: 丙
+EN: Quiet
+RU: 
+
+ID: M6090_S0100_G0100_300_sele
+JP: 甲
+EN: Dynamic
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 12
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 13
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G1210_300_sele
+JP: カミニナッタ
+EN: Become a God
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 14
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G1220_300_sele
+JP: カミニナッタ
+EN: Become a God
+RU: 
+
+ID: M6090_S0100_G1230_300_sele
+JP: コノママジャダメ
+EN: This cannot continue
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 15
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G1124_300_sele
+JP: オルゴール
+EN: Music Box
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 16
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G1125_300_sele
+JP: その他
+EN: Etc.
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 17
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 18
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1120_300_sele
+JP: 通常
+EN: Normal
+RU: 
+
+ID: M6090_S0100_G1126_300_sele
+JP: コーラス
+EN: Chorus
+RU: 
+
+ID: M6090_S0100_G1127_300_sele
+JP: コーラス＆ストリングス
+EN: Chorus & Strings
+RU: 
+
+ID: M6090_S0100_G1128_300_sele
+JP: ストリングス
+EN: Strings
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 19
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G0850_300_sele
+JP: English Version／ジュニーク・ニコール
+EN: English Version - J’Nique Nicole
+RU: 
+
+ID: M6090_S0100_G0860_300_sele
+JP: 壊レタ世界ノ歌／河野万里奈
+EN: Kowaretasekainouta - Marina Kawano
+RU: 
+
+ID: M6090_S0100_G0870_300_sele
+JP: Nouveau-FR Version／エミ・エヴァンス
+EN: Nouveau-FR Version - Emi Evans
+RU: 
+
+ID: M6090_S0100_G0880_300_sele
+JP: the End of YoRHa
+EN: the End of YoRHa
+RU: 
+
+ID: M6090_S0100_G0890_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 20
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1410_300_sele
+JP: 乙弐
+EN: Medium 2
+RU: 
+
+ID: M6090_S0100_G1420_300_sele
+JP: 甲弐
+EN: Dynamic 2
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 21
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1430_300_sele
+JP: 松田洋祐
+EN: Yosuke Matsuda
+RU: 
+
+ID: M6090_S0100_G1440_300_sele
+JP: 松田洋祐・佐藤賢一
+EN: Yosuke Matsuda/Kenichi Sato
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 22
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1460_300_sele
+JP: 乙
+EN: Medium
+RU: 
+
+ID: M6090_S0100_G1470_300_sele
+JP: 通常（声有り）
+EN: Normal (with vocals)
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 23
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1490_300_sele
+JP: 乙
+EN: Medium
+RU: 
+
+ID: M6090_S0100_G1500_300_sele
+JP: 通常（声無し）
+EN: Normal (with vocals)
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 24
+
+ID: M6090_S0100_G0070_300_jukeBox
+JP: 曲調を変更できます。
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G1520_300_sele
+JP: 乙弐
+EN: Medium 2
+RU: 
+
+ID: M6090_S0100_G1530_300_sele
+JP: 甲（声無し）
+EN: Dynamic (no vocals)
+RU: 
+
+ID: M6090_S0100_G0110_300_sele
+JP: 丁
+EN: 8-bit
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 25
+
+ID: M6090_S0100_G0140_300_jukeBox
+JP: ボーカルまたはコーラスの有無を変更できます
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G0150_300_sele
+JP: 有り
+EN: With vocals
+RU: 
+
+ID: M6090_S0100_G0160_300_sele
+JP: 無し
+EN: Without vocals
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 26
+
+ID: M6090_S0100_G0140_300_jukeBox
+JP: ボーカルまたはコーラスの有無を変更できます
+EN: Which melody would you like?
+RU: 
+
+ID: M6090_S0100_G0150_300_sele
+JP: 有り
+EN: With vocals
+RU: 
+
+ID: M6090_S0100_G0160_300_sele
+JP: 無し
+EN: Without vocals
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+ID: M6090_S0100_G0060_300_sele
+JP: 操作をやめる。
+EN: Quit
+RU: 
+
+
+-- Section 27
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0200_300_sele
+JP: 愚カシイ兵器
+EN: Wretched Weaponry
+RU: 
+
+ID: M6090_S0100_G0210_300_sele
+JP: 偽リノ城塞
+EN: Fortress of Lies
+RU: 
+
+ID: M6090_S0100_G0220_300_sele
+JP: 遺サレタ場所／斜光
+EN: City Ruins (Rays of Light)
+RU: 
+
+ID: M6090_S0100_G0230_300_sele
+JP: 穏ヤカナ眠リ
+EN: Peaceful Sleep
+RU: 
+
+ID: M6090_S0100_G0240_300_sele
+JP: 砂塵ノ記憶
+EN: Memories of Dust
+RU: 
+
+ID: M6090_S0100_G0250_300_sele
+JP: 遊園施設
+EN: Amusement Park
+RU: 
+
+ID: M6090_S0100_G0350_300_sele
+JP: 次へ。
+EN: Next
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 28
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0290_300_sele
+JP: パスカル
+EN: Pascal
+RU: 
+
+ID: M6090_S0100_G0310_300_sele
+JP: 遺サレタ場所／遮光
+EN: City Ruins (Shade)
+RU: 
+
+ID: M6090_S0100_G0330_300_sele
+JP: 森ノ王国
+EN: Forest Kingdom
+RU: 
+
+ID: M6090_S0100_G0390_300_sele
+JP: 複製サレタ街
+EN: Copied City
+RU: 
+
+ID: M6090_S0100_G0400_300_sele
+JP: 「塔」
+EN: The Tower
+RU: 
+
+ID: M6090_S0100_G0340_300_sele
+JP: 前へ。
+EN: Previous
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 29
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0440_300_sele
+JP: 取リ憑イタ業病
+EN: Possessed by Disease
+RU: 
+
+ID: M6090_S0100_G0450_300_sele
+JP: 生マレ出ヅル意思
+EN: Birth of a Wish
+RU: 
+
+ID: M6090_S0100_G0460_300_sele
+JP: エミール／絶望
+EN: Emil (Despair)
+RU: 
+
+ID: M6090_S0100_G0470_300_sele
+JP: オバアチャン／破壊
+EN: Grandma (Destruction)
+RU: 
+
+ID: M6090_S0100_G0480_300_sele
+JP: 双極ノ悪夢
+EN: Bipolar Nightmare
+RU: 
+
+ID: M6090_S0100_G0350_300_sele
+JP: 次へ。
+EN: Next
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 30
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0300_300_sele
+JP: 戦争ト戦争
+EN: War & War
+RU: 
+
+ID: M6090_S0100_G0490_300_sele
+JP: 美シキ歌
+EN: A Beautiful Song
+RU: 
+
+ID: M6090_S0100_G0320_300_sele
+JP: 異形ノ末路
+EN: End of the Unknown
+RU: 
+
+ID: M6090_S0100_G0380_300_sele
+JP: 全テヲ破壊スル黒キ巨人／怪獣
+EN: Dark Colossus (Kaiju)
+RU: 
+
+ID: M6090_S0100_G0530_300_sele
+JP: 依存スル弱者
+EN: Dependent Weakling
+RU: 
+
+ID: M6090_S0100_G0350_300_sele
+JP: 次へ。
+EN: Next
+RU: 
+
+ID: M6090_S0100_G0340_300_sele
+JP: 前へ。
+EN: Previous
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 31
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G1140_300_sele
+JP: 崩壊ノ虚妄／前身
+EN: Crumbling Lies (Front)
+RU: 
+
+ID: M6090_S0100_G1150_300_sele
+JP: 崩壊ノ虚妄／後身
+EN: Crumbling Lies (Back)
+RU: 
+
+ID: M6090_S0100_G0770_300_sele
+JP: イニシエノウタ／贖罪
+EN: Song of the Ancients (Atonement)
+RU: 
+
+ID: M6090_S0100_G0540_300_sele
+JP: 終ワリノ音
+EN: The Sound of the End
+RU: 
+
+ID: M6090_S0100_G0970_300_sele
+JP: 顕現シタ異物
+EN: Alien Manifestation
+RU: 
+
+ID: M6090_S0100_G0340_300_sele
+JP: 前へ。
+EN: Previous
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 32
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0580_300_sele
+JP: 曖昧ナ希望／氷雨
+EN: Vague Hope (Cold Rain)
+RU: 
+
+ID: M6090_S0100_G0600_300_sele
+JP: 還ラナイ声
+EN: Voice of no Return
+RU: 
+
+ID: M6090_S0100_G0620_300_sele
+JP: 追悼
+EN: Mourning
+RU: 
+
+ID: M6090_S0100_G0670_300_sele
+JP: 澱ンダ祈リ／暁風
+EN: Faltering Prayer (Dawn Breeze)
+RU: 
+
+ID: M6090_S0100_G0680_300_sele
+JP: 澱ンダ祈リ／星空
+EN: Faltering Prayer (Starry Sky)
+RU: 
+
+ID: M6090_S0100_G0350_300_sele
+JP: 次へ。
+EN: Next
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 33
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G0690_300_sele
+JP: 沈痛ノ色
+EN: The Color of Depression
+RU: 
+
+ID: M6090_S0100_G0700_300_sele
+JP: 幸セナ死
+EN: Blissful Death
+RU: 
+
+ID: M6090_S0100_G0710_300_sele
+JP: 割レタ心
+EN: Broken Heart
+RU: 
+
+ID: M6090_S0100_G0760_300_sele
+JP: 茫洋タル病
+EN: Widespread Illness
+RU: 
+
+ID: M6090_S0100_G0780_300_sele
+JP: 大切ナ時間
+EN: Treasured Times
+RU: 
+
+ID: M6090_S0100_G0340_300_sele
+JP: 前へ。
+EN: Previous
+RU: 
+
+ID: M6090_S0100_G0350_300_sele
+JP: 次へ。
+EN: Next
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 34
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G1130_300_sele
+JP: 再生ト希望
+EN: Rebirth & Hope
+RU: 
+
+ID: M6090_S0100_G0895_300_sele
+JP: Weight of the World
+EN: Weight of the World
+RU: 
+
+ID: M6090_S0100_G0340_300_sele
+JP: 前へ。
+EN: Previous
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 35
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G1010_300_sele
+JP: 意味
+EN: Significance
+RU: 
+
+ID: M6090_S0100_G1020_300_sele
+JP: エミール／ショップ
+EN: Emil's Shop
+RU: 
+
+ID: M6090_S0100_G0405_300_sele
+JP: イニシエノウタ／ポポル
+EN: Song of the Ancients (Popola)
+RU: 
+
+ID: M6090_S0100_G0790_300_sele
+JP: カイネ／救済
+EN: Kainé (Salvation)
+RU: 
+
+ID: M6090_S0100_G0800_300_sele
+JP: エミール／犠牲
+EN: Emil (Sacrifice)
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 36
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G1560_300_sele
+JP: 遺サレタ場所／遮光：甲弐
+EN: City Ruins (Shade) - Dynamic 2
+RU: 
+
+ID: M6090_S0100_G1570_300_sele
+JP: 生マレ出ヅル意思：乙
+EN: Birth of a Wish - Medium
+RU: 
+
+ID: M6090_S0100_G1580_300_sele
+JP: 砂塵ノ記憶：乙弐・甲弐
+EN: Memories of Dust - Medium 2/Dynamic 2
+RU: 
+
+ID: M6090_S0100_G1590_300_sele
+JP: イニシエノウタ／贖罪：乙
+EN: Song of the Ancients (Atonement) - Medium
+RU: 
+
+ID: M6090_S0100_G1600_300_sele
+JP: 全テヲ破壊スル黒キ巨人／怪獣：乙弐・甲弐
+EN: Dark Colossus (Kaiju) - Medium 2/Dynamic 2
+RU: 
+
+ID: M6090_S0100_G1610_300_sele
+JP: 全テヲ破壊スル黒キ巨人／怪獣：乙弐・甲
+EN: Dark Colossus (Kaiju) - Medium 2/Dynamic
+RU: 
+
+ID: M6090_S0100_G0350_300_sele
+JP: 次へ。
+EN: Next
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 37
+
+ID: M6090_S0100_G0190_300_jukeBox
+JP: どの曲を再生しますか？
+EN: Which song would you like to play?
+RU: 
+
+ID: M6090_S0100_G1620_300_sele
+JP: 曖昧ナ希望／翠雨
+EN: Vague Hope (Spring Rain)
+RU: 
+
+ID: M6090_S0100_G1640_300_sele
+JP: 生マレ出ヅル意思／社長
+EN: Birth of a Wish (CEO)
+RU: 
+
+ID: M6090_S0100_G0340_300_sele
+JP: 前へ。
+EN: Previous
+RU: 
+
+ID: M6090_S0100_G0120_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+

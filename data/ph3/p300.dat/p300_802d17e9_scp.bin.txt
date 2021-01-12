@@ -1,0 +1,203 @@
+-- Section 1
+
+ID: M3060_S0802_G0005_001_a2
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S0802_G0000_001_a2
+JP: この塔は月面の人類サーバーを狙った巨大砲台だ。
+EN: This tower is a giant cannon that's aimed at the human server on the moon.
+RU: 
+
+ID: M3060_S0802_G0010_001_a2
+JP: このままだと、人類の残存データが破壊されるだろう……
+EN: If we don't do something, all of humanity's remaining data will be destroyed.
+RU: 
+
+ID: M3060_S0802_G0020_001_a9s
+JP: はははっ……はははは！
+EN: Ha ha ha...ha ha ha hah!
+RU: 
+
+ID: M3060_S0802_G0030_001_a9s
+JP: どうでもいい……
+EN: So what?
+RU: 
+
+ID: M3060_S0802_G0040_001_a9s
+JP: もう、どうでもいいんだよ。そんな事。
+EN: None of it matters.
+RU: 
+
+ID: M3060_S0802_G0050_001_a9s
+JP: 知ってた？
+EN: Or didn't you know?
+RU: 
+
+ID: M3060_S0802_G0060_001_a9s
+JP: ……僕らはこの世界に必要ないんだ。
+EN: We aren't required in this world anymore.
+RU: 
+
+ID: M3060_S0802_G0070_001_a9s
+JP: 人類はもう滅んでる。
+EN: Humanity is extinct.
+RU: 
+
+ID: M3060_S0802_G0080_001_a9s
+JP: アンドロイドが戦う意味を持つ為に作られた月面の偽装サーバー。
+EN: That moon server you're so worried about was invented to give us androids something to fight for.
+RU: 
+
+ID: M3060_S0802_G0090_001_a9s
+JP: その嘘を守る為に用意されたヨルハ部隊は……
+EN: And YoRHa was created to perpetuate the lie.
+RU: 
+
+ID: M3060_S0802_G0100_001_a9s
+JP: 証拠隠滅の為に、最初から全滅するように計画されていた。
+EN: But in order to make sure no one ever learned the truth, we were DESIGNED to be killed.
+RU: 
+
+ID: M3060_S0802_G0110_001_a9s
+JP: バンカーに仕掛けられたバックドアは一定時間で起動。
+EN: They built a back door in the Bunker and programmed it to activate after a certain amount of time.
+RU: 
+
+ID: M3060_S0802_G0120_001_a9s
+JP: 司令官も、僕も、２Ｂも……
+EN: The Commander? Me? 2B?
+RU: 
+
+ID: M3060_S0802_G0130_001_a9s
+JP: 全部、捨て駒だったんだよ？
+EN: Sacrificial lambs. All of us.
+RU: 
+
+ID: M3060_S0802_G0140_001_a9s
+JP: オカシイよね？笑えるよねぇ？
+EN: Isn't that HILARIOUS!? Doesn't it make you LAUGH!?
+RU: 
+
+ID: M3060_S0802_G0150_001_a2
+JP: ９Ｓ……私達は……
+EN: 9S, we—
+RU: 
+
+ID: M3060_S0802_G0160_001_a9s
+JP: うるさいッ！！
+EN: Shut up!
+RU: 
+
+ID: M3060_S0802_G0170_001_a9s
+JP: ……君は２Ｂを殺したじゃないか。
+EN: You killed 2B.
+RU: 
+
+ID: M3060_S0802_G0180_001_a9s
+JP: それだけで十分だよ。僕達が殺しあう理由なんて。
+EN: That's all we need to kill each other.
+RU: 
+
+ID: M3060_S0802_G0190_001_a2
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S0802_G0200_001_a2
+JP: ……２Ｂは苦しんでいたよ。
+EN: 2B hated to keep killing you.
+RU: 
+
+ID: M3060_S0802_G0210_001_a2
+JP: 君を、殺し続ける事を。
+EN: It caused her so much pain.
+RU: 
+
+ID: M3060_S0802_G0220_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S0802_G0230_001_a2
+JP: 高機能モデルの９Ｓタイプが真実に到達する事は予見されていた。
+EN: The 9S type is a high-end model. They knew you'd discover the truth eventually.
+RU: 
+
+ID: M3060_S0802_G0240_001_a2
+JP: 彼女の『２Ｂ』というモデル名は偽装だ。
+EN: But the model designation "2B" was just a cover.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0806_G0090_300_unknown
+JP: 要請：操作するヨルハ義体を選択。
+EN: Please make your choice.
+RU: 
+
+ID: M3060_S0806_G0100_300_sele
+JP: ９Ｓ
+EN: 9S
+RU: 
+
+ID: M3060_S0806_G0110_300_sele
+JP: Ａ２
+EN: A2
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S0806_G0120_300_unknown
+JP: 確認：本当に構わないか？
+EN: Are you sure?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 4
+
+ID: M3060_S0806_G0120_300_unknown
+JP: 確認：本当に構わないか？
+EN: Are you sure?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 5
+
+ID: M3060_S0806_G0130_300_unknown
+JP: 了解。
+EN: Understood.
+RU: 
+
+
+-- Section 6
+
+ID: M3060_S0806_G0130_300_unknown
+JP: 了解。
+EN: Understood.
+RU: 
+
+

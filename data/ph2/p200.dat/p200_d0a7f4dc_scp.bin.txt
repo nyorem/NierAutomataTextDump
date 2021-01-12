@@ -1,0 +1,122 @@
+-- Section 1
+
+ID: M1090_S0100_G0000_101_pascal
+JP: いやあ、酷い目に遭いましたね。
+EN: Well, THAT was certainly something.
+RU: 
+
+ID: M1090_S0100_G0010_101_pascal
+JP: しかしあの廃工場の地下にあんな巨大空間があったとは……
+EN: I had no idea such a vast space existed beneath the abandoned factory!
+RU: 
+
+ID: M1090_S0100_G0020_101_pascal
+JP: いつかまた調査しなくてはなりませんね。
+EN: I need to return and investigate as soon as possible.
+RU: 
+
+ID: M1090_S0100_G0030_101_pascal
+JP: その時は２Ｂさんとまたご一緒できれば……
+EN: When I do, perhaps you'd be willing to join me?
+RU: 
+
+ID: M1090_S0100_G0040_101_a2b
+JP: 断る。
+EN: No thanks.
+RU: 
+
+ID: M1090_S0100_G0050_101_a2b
+JP: 私はレジスタンスキャンプに行く。
+EN: I'm heading back to the Resistance camp.
+RU: 
+
+ID: M1090_S0100_G0060_101_a2b
+JP: パスカルはどうする？
+EN: What about you?
+RU: 
+
+ID: M1090_S0100_G0070_101_pascal
+JP: 私は自分の村に帰ります。村の雑用をしなくてはいけないので。
+EN: Oh, I'll probably wander back to the village. I have plenty on my plate there.
+RU: 
+
+ID: M1090_S0100_G0080_101_a2b
+JP: そう。
+EN: I see.
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0100_G0090_101_ane
+JP: こち……レジスタン…キャンプ！
+EN: This...Resistan...camp!
+RU: 
+
+ID: M1090_S0100_G0100_101_a2b
+JP: 通信状況が悪い……
+EN: Say again? I'm not receiving.
+RU: 
+
+ID: M1090_S0100_G0110_101_pod042
+JP: 電波障害を確認。
+EN: Scanning for interference.
+RU: 
+
+ID: M1090_S0100_G0120_101_ane
+JP: ……機械生命……
+EN: ...Machines......!
+RU: 
+
+ID: M1090_S0100_G0130_101_ane
+JP: この通……受信………要請。頼む……
+EN: Requesting...backup...forces! Please......
+RU: 
+
+ID: M1090_S0100_G0140_101_a2b
+JP: 急ごう……！
+EN: Let's move.
+RU: 
+
+
+-- Section 3
+
+ID: M1090_S0100_G0150_101_a2b
+JP: 機械生命体の数が増えてる……
+EN: Why are their numbers increasing like this?
+RU: 
+
+ID: M1090_S0100_G0160_101_pod042
+JP: 原因不明。
+EN: Cause unknown.
+RU: 
+
+ID: M1090_S0100_G0170_101_a2b
+JP: バンカーにレーザー通信での呼びかけを継続。
+EN: Try contacting the Bunker via laser relay system.
+RU: 
+
+ID: M1090_S0100_G0180_101_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+
+-- Section 4
+
+ID: M1090_S0120_G0001_101_resiman
+JP: いやだ……いやだああっ！
+EN: No... Nooooo!
+RU: 
+
+ID: M1090_S0120_G0002_101_resiwoman2
+JP: 誰か助けてええっ！
+EN: Somebody help me!
+RU: 
+
+ID: M1090_S0120_G0003_101_resiman
+JP: 早く逃げるんだっ！
+EN: Get out of here now!
+RU: 
+
+

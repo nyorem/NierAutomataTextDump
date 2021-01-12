@@ -1,0 +1,196 @@
+-- Section 1
+
+ID: M6010_S0090_G0060_300_op
+JP: ついに、イヴを倒したんだな。
+EN: We finally defeated Eve.
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0090_G0070_300_op
+JP: ありがとう、２Ｂ。
+EN: Thank you, 2B.
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0100_G0060_300_op
+JP: 全力でサポートさせてもらうよ。\n健闘を祈る。
+EN: I'll do whatever I can to help you from here. Good luck.
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0100_G0070_300_op
+JP: 我々ならやれるよ。
+EN: We can do this!
+RU: 
+
+
+-- Section 5
+
+ID: M6010_S0090_G0080_300_op
+JP: よくやってくれたな、２Ｂ。
+EN: You did great, 2B.
+RU: 
+
+ID: M6010_S0090_G0090_300_op
+JP: いや～本当にありがとうございました～
+EN: Thank you so much for all you've done!
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0100_G0080_300_op
+JP: 終わらせよう、我々の戦いを。
+EN: Let's put an end to all this fighting once and for all.
+RU: 
+
+ID: M6010_S0100_G0090_300_op
+JP: 情報処理系フルチューンしたからサポートは任せて～！
+EN: My data-processing functions just underwent a full tune-up, so you can count on me to support you!
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0090_G0480_300_op
+JP: あ！２Ｂさん！イヴのデータは取れましたか！？\n早く共有して下さい！
+EN: 2B! Did you get Eve's data? Give it to me! Gimmegimmegimme!
+RU: 
+
+ID: M6010_S0090_G0490_300_ys
+JP: おいおい、後にしてやれよ。
+EN: Calm down already! There's plenty of time for that later. Sheesh...
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0100_G0440_300_op
+JP: 健闘を祈ります。
+EN: Good luck.
+RU: 
+
+ID: M6010_S0100_G0450_300_ys
+JP: 了解。
+EN: Understood.
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0090_G0670_300_ysA
+JP: いいことを思いついた。\n飛行ユニットにイヴの自己再生機能を移植してみてはどうだ？
+EN: Say, I have an idea! Why don't we port Eve's self-regenerative function into our flight units?
+RU: 
+
+ID: M6010_S0090_G0680_300_ysB
+JP: わお！それいいかも！\n修理コストゼロですね！
+EN: Hey, that's a great idea! Think how much we'd save in repair costs!
+RU: 
+
+ID: M6010_S0090_G0690_300_op
+JP: ダメに決まってるじゃないですか！\nみんなウィルス汚染されて義体ごとおしゃかですよ！
+EN: Are you people INSANE!? We'd all get infected by a virus and DIE!
+RU: 
+
+ID: M6010_S0090_G0700_300_ysA
+JP: あはは、冗談だよ、冗談。
+EN: Ha ha! Kidding! We were just...kidding. Yeah, that's it...
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0090_G0710_300_ysA
+JP: ……いい案だったと思うんだけどな。
+EN: Still a good idea... *grumble grumble*
+RU: 
+
+
+-- Section 11
+
+ID: M6010_S0100_G0590_300_ysA
+JP: 我々も行くか。
+EN: You ready?
+RU: 
+
+ID: M6010_S0100_G0600_300_ysB
+JP: そうですね。
+EN: Yep. Let's do it.
+RU: 
+
+ID: M6010_S0100_G0610_300_op
+JP: ご武運を。
+EN: Good luck.
+RU: 
+
+
+-- Section 12
+
+ID: M6010_S0090_G0500_300_op
+JP: お疲れ。\n疲れてないか？回復薬を持って行ったらどうだ？
+EN: You must be tired after all that machine killing, right? You should buy some recovery items.
+RU: 
+
+
+-- Section 13
+
+ID: M6010_S0090_G0510_300_op
+JP: お前ぐらい活躍していたら、全部タダでもいいと思うけどな。
+EN: Personally, I think you should get everything for free since you were so amazing! But I don't make the rules, so whatcha gonna do?
+RU: 
+
+
+-- Section 14
+
+ID: M6010_S0100_G0460_300_op
+JP: 出撃前に装備を整えていったらどうだ？
+EN: Why don't you equip yourself before you go?
+RU: 
+
+
+-- Section 15
+
+ID: M6010_S0090_G0630_300_ysA
+JP: うぅ、おぇぇぇ……
+EN: *urp* Oh man, I think I'm gonna... BLAAAAAARGH!
+RU: 
+
+ID: M6010_S0090_G0640_300_ysB
+JP: 安心しろ、２Ｂ達のおかげで多少出撃回数は減るだろう。
+EN: Relax! Thanks to 2B, you won't have to ride a flight unit nearly as much as before!
+RU: 
+
+ID: M6010_S0090_G0650_300_ysA
+JP: ほ、ほんとうですかぁぁ！ありがとうございまうおぇぇぇ！
+EN: R-Really!? Oh my gosh, thank youuuu!
+RU: 
+
+
+-- Section 16
+
+ID: M6010_S0090_G0660_300_ysA
+JP: ありがとうございまうおぇぇぇ！
+EN: Thank you so muc—BLUUUUUURGH!
+RU: 
+
+
+-- Section 17
+
+ID: M6010_S0100_G0570_300_ysA
+JP: うぅ、おぇぇぇ……行かねばうおぇぇ……
+EN: All right... Let's get down there and kick some machi—BLUUUURGH!
+RU: 
+
+ID: M6010_S0100_G0580_300_ysB
+JP: ああ、行くぞ。宇宙で吐くなよ。
+EN: Um, can you please try not to puke while we're in the deep vacuum of space? It's super gross.
+RU: 
+
+

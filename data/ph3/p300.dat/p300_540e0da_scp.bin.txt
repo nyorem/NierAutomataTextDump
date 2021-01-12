@@ -1,0 +1,21 @@
+-- Section 1
+
+ID: M3040_S1500_G0000_001_pod042
+JP: そうか……９Ｓがそんな状態に。
+EN: This is the current status of unit 9S?
+RU: 
+
+
+-- Section 2
+
+ID: M3040_S1500_G0010_001_pod153
+JP: ９Ｓの精神状態は危険な状態に達しつつある。
+EN: Affirmative. His mental state has become dangerously unstable.
+RU: 
+
+ID: M3040_S1500_G0020_001_pod153
+JP: 早急な対処が必要だ。
+EN: Action must be taken immediately.
+RU: 
+
+

@@ -1,0 +1,175 @@
+-- Section 1
+
+ID: M5070_S0010_G0000_001_a2b
+JP: 何だろう……この小屋？
+EN: Nice shack.
+RU: 
+
+
+-- Section 2
+
+ID: M5070_S0010_G0050_001_n02
+JP: オネガイシマス！ドウカ……
+EN: PLEASE. I BEG OF YOU...
+RU: 
+
+ID: M5070_S0010_G0070_001_sele
+JP: タスケル。
+EN: Spare the animals.
+RU: 
+
+ID: M5070_S0010_G0080_001_sele
+JP: タスケナイ。
+EN: Show no mercy.
+RU: 
+
+
+-- Section 3
+
+ID: M5070_S0010_G0010_001_n02
+JP: ソノコタチヲイジメルナ！
+EN: STAY AWAY FROM THEM!
+RU: 
+
+
+-- Section 4
+
+ID: M5070_S0010_G0020_001_n02
+JP: ココカラデテイケ！デテイケ！
+EN: LEAVE THIS PLACE. LEAVE NOW!
+RU: 
+
+ID: M5070_S0010_G0030_001_a9s
+JP: え？待って！なになになに！？
+EN: Okay, now wha— Wait, what!?
+RU: 
+
+ID: M5070_S0010_G0040_001_n02
+JP: デテイケーッ！
+EN: LEAVE NOW!
+RU: 
+
+
+-- Section 5
+
+ID: M5070_S0010_G0050_001_n02
+JP: オネガイシマス！ドウカ……
+EN: PLEASE. I BEG OF YOU...
+RU: 
+
+
+-- Section 6
+
+ID: M5070_S0010_G0060_001_n02
+JP: ドウカ、コノコタチノ、イノチダケハ……！
+EN: SPARE THEIR LIVES...
+RU: 
+
+
+-- Section 7
+
+ID: M5070_S0010_G0110_001_a2b
+JP: 動物を殺す趣味はない。
+EN: Fine. We'll spare your critters.
+RU: 
+
+
+-- Section 8
+
+ID: M5070_S0010_G0120_001_n02
+JP: アア……ヨカッタ……
+EN: AHH... THANK YOU...
+RU: 
+
+ID: M5070_S0010_G0130_001_a9s
+JP: ……何故ここに動物を集めてるの？
+EN: So why do you have all these animals here anyway?
+RU: 
+
+ID: M5070_S0010_G0140_001_n02
+JP: モウ、リユウナンテオボエテイナイケド……
+EN: LONG AGO, I RESCUED A HURT ANIMAL.
+RU: 
+
+ID: M5070_S0010_G0150_001_n02
+JP: ムカシ、ケガヲシタドウブツヲタスケタンダ。
+EN: I DO NOT REMEMBER THE REASON.
+RU: 
+
+ID: M5070_S0010_G0160_001_n02
+JP: ソノコハ、ボクニナツイタ。
+EN: THE CREATURE TOOK A LIKING TO ME.
+RU: 
+
+ID: M5070_S0010_G0170_001_n02
+JP: ドコニイクニモ、イツモイッショデ、ヒマガアレバジャレツイテキテ。
+EN: SHE FOLLOWED ME WHEREVER I WENT.\nWE PLAYED TOGETHER WHENEVER WE COULD.
+RU: 
+
+ID: M5070_S0010_G0180_001_n02
+JP: ソレガ、トテモウレシクテ……アタタカカッタンダ。
+EN: SHE WAS...WARM. SHE MADE ME HAPPY.
+RU: 
+
+ID: M5070_S0010_G0190_001_a2b
+JP: あたたかい……？
+EN: Interesting.
+RU: 
+
+ID: M5070_S0010_G0200_001_n02
+JP: ソレイコウ、ケガシタコヤ、ヨワッタコヲ、ココニハコンデ
+EN: NOW, IF I FIND A CREATURE THAT IS WEAK OR INJURED, I BRING THEM HERE.
+RU: 
+
+ID: M5070_S0010_G0210_001_n02
+JP: ゲンキニナルマデメンドウヲミテル。
+EN: I WATCH OVER THEM UNTIL THEY ARE HEALTHY AGAIN.
+RU: 
+
+ID: M5070_S0010_G0220_001_n02
+JP: タスケテクレテ……アリガトウ。
+EN: THANK YOU FOR SPARING THEM.
+RU: 
+
+ID: M5070_S0010_G0230_001_n02
+JP: ヨカッタラ、コンドハアソビニキテ。
+EN: PLEASE VISIT US AGAIN.
+RU: 
+
+ID: M5070_S0010_G0240_001_n02
+JP: ミンナ、カンゲイスルトオモウ。
+EN: WE WOULD WELCOME YOU ANYTIME.
+RU: 
+
+ID: M5070_S0010_G0250_001_a2b
+JP: ……気が向いたら、そうする。
+EN: We'll see.
+RU: 
+
+
+-- Section 9
+
+ID: M5070_S0010_G0090_001_n02
+JP: ソンナ……ソンナ……
+EN: NO... NO...
+RU: 
+
+ID: M5070_S0010_G0060_001_n02
+JP: ドウカ、コノコタチノ、イノチダケハ……！
+EN: SPARE THEIR LIVES...
+RU: 
+
+
+-- Section 10
+
+ID: M5070_S0010_G0230_001_n02
+JP: ヨカッタラ、コンドハアソビニキテ。
+EN: PLEASE VISIT US AGAIN.
+RU: 
+
+ID: M5070_S0010_G0240_001_n02
+JP: ミンナ、カンゲイスルトオモウ。
+EN: WE WOULD WELCOME YOU ANYTIME.
+RU: 
+
+

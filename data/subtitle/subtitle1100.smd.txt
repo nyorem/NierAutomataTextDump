@@ -1,0 +1,75 @@
+ID: M3060_S0034_H0000_001_dbl
+JP: どうしたッ！！
+EN: What happened!?
+RU: 
+
+ID: M3060_S0034_H0010_001_a9s
+JP: この防壁は……
+EN: It's the barrier...
+RU: 
+
+ID: M3060_S0034_H0020_001_ppl
+JP: あああああああああっ！！
+EN:  
+RU: 
+
+ID: M3060_S0034_H0030_001_dbl
+JP: ポポルッ！！
+EN: Popola!
+RU: 
+
+ID: M3060_S0034_H0040_001_a9s
+JP: ダメだッ！その防壁は自己閉鎖系アルゴリズムで侵入は……
+EN: No, don't! You can't do anything—the wall's got a self-closing algorithm!
+RU: 
+
+ID: M3060_S0034_H0050_001_ppl
+JP: うるさいッ！！！！！
+EN: Enough!
+RU: 
+
+ID: M3060_S0034_H0060_001_ppl
+JP: 私達は、私達が犯した罪を償うんだッ！！！！
+EN: Devola and I—we have to atone for our sins no matter what!
+RU: 
+
+ID: M3060_S0034_H0070_001_a9s
+JP: そんな事をしたら、君の回路が……
+EN: But if you do that, your circuits will—
+RU: 
+
+ID: M3060_S0034_H0080_001_ppl
+JP: デボルッ！！！！
+EN: Devola!
+RU: 
+
+ID: M3060_S0034_H0090_001_ppl
+JP: 今だあああああああああああッ！！！
+EN: NOOOOOW!
+RU: 
+
+ID: M3060_S0034_H0100_001_dbl
+JP: ああああああっ！！
+EN:  
+RU: 
+
+ID: M3060_S0034_H0110_001_dbl
+JP: ……ああッ
+EN: ...Right!
+RU: 
+
+ID: M3060_S0034_H0120_001_a9s
+JP: デボルッ！？
+EN: Devola!
+RU: 
+
+ID: M3060_S0034_H0130_001_dbl
+JP: オマエは……後悔するなよ……
+EN: I hope you...don't regret this...
+RU: 
+
+ID: M3060_S0034_H0140_001_ppl
+JP: アアアアアアアアアッ！！！！
+EN:  
+RU: 
+

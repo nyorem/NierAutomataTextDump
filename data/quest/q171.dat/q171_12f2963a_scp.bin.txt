@@ -1,0 +1,134 @@
+-- Section 1
+
+ID: M5171_S0010_G0000_001_a2b
+JP: ……ポッド。
+EN: Pod?
+RU: 
+
+ID: M5171_S0010_G0010_001_pod042
+JP: 了解。
+EN: Understood.
+RU: 
+
+ID: M5171_S0010_G0020_001_a2b
+JP: ……まだ何も言ってない。
+EN: I didn't say anything yet.
+RU: 
+
+ID: M5171_S0010_G0030_001_pod042
+JP: オペレーター６Ｏと２Ｂの会話を解析。
+EN: The conversation between Operator 6O and unit 2B has been analyzed.
+RU: 
+
+ID: M5171_S0010_G0040_001_pod042
+JP: 推測：２Ｂはオペレーター６Ｏに対し、\n何か地上の物を贈答したいと思考している。
+EN: Hypothesis: Unit 2B wishes to send Operator 6O a gift from the surface so that she might be able to experience it in some fashion.
+RU: 
+
+ID: M5171_S0010_G0050_001_a2b
+JP: ……その通り。
+EN: ...That's right.
+RU: 
+
+ID: M5171_S0010_G0060_001_pod042
+JP: 提案：希少な花の写真。
+EN: Proposal: The gift should be a photograph of a rare flower.
+RU: 
+
+ID: M5171_S0010_G0070_001_a2b
+JP: 花の写真？
+EN: You think?
+RU: 
+
+ID: M5171_S0010_G0080_001_pod042
+JP: 報告：過去の記録によると、\n女性の過半数が植物の生殖器である花を好む。
+EN: Analysis of historical data indicates that human females enjoyed viewing the reproductive organs of flowering plants.
+RU: 
+
+ID: M5171_S0010_G0090_001_pod042
+JP: 画像データであれば、通信のみでバンカーに伝える事が可能。
+EN: If unit 2B can procure appropriate image data, it could be uploaded to the Bunker.
+RU: 
+
+ID: M5171_S0010_G0100_001_pod042
+JP: 推奨：砂漠に生息する『砂漠のバラ』の画像データを撮影し、送信する。
+EN: Proposal: Unit 2B should obtain an image of the plant known as the "desert rose."
+RU: 
+
+ID: M5171_S0010_G0110_001_a2b
+JP: なるほど……
+EN: All right.
+RU: 
+
+
+-- Section 2
+
+ID: M5171_S0010_G0120_001_a2b
+JP: ポッド。『砂漠のバラ』を撮影し、オペレーター６Ｏに送信。
+EN: Pod, take a photograph of the desert rose and send it to Operator 6O.
+RU: 
+
+ID: M5171_S0010_G0130_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: 
+
+ID: M5171_S0010_G0140_001_pod042
+JP: ……画像データの送信を完了。
+EN: Image data transfer complete.
+RU: 
+
+
+-- Section 3
+
+ID: M5171_S0030_G0000_001_op60
+JP: オペレーター６Ｏより、２Ｂさんへ！
+EN: 2B, this is Operator 6O! Pick up!
+RU: 
+
+ID: M5171_S0030_G0010_001_a2b
+JP: こちら２Ｂ。聞こえている。
+EN: 2B here. Go ahead.
+RU: 
+
+ID: M5171_S0030_G0020_001_op60
+JP: 先ほど、写真データを受け取りました。ありがとうございます！
+EN: Thank you so much for the picture!
+RU: 
+
+ID: M5171_S0030_G0030_001_op60
+JP: これが、砂漠のバラなんですね……なんだか神秘的な形してます。
+EN: So this is a desert rose, huh? It seems almost...mystical.
+RU: 
+
+ID: M5171_S0030_G0040_001_op60
+JP: 地球には、こんな豊かな自然があるんですね。
+EN: There must just be a bounty of nature down there, huh?
+RU: 
+
+ID: M5171_S0030_G0050_001_a2b
+JP: ……バラの他にも、沢山ある。ユリやサクラにスズラン、ツキノナミダ。
+EN: Some, yes. I've seen lilies, cherry blossoms, daffodils, and even lunar tears.
+RU: 
+
+ID: M5171_S0030_G0060_001_a2b
+JP: 機会があれば、また送る。
+EN: I'll try to send more if I can.
+RU: 
+
+ID: M5171_S0030_G0070_001_op60
+JP: ありがとうございます！
+EN: Oh, 2B...
+RU: 
+
+ID: M5171_S0030_G0080_001_op60
+JP: この写真……宝物にします！
+EN: I'm going to treasure this forever!
+RU: 
+
+ID: M5171_S0030_G0090_001_op60
+JP: お礼のメールも、後で出しておきますね……ではでは！
+EN: Oh, and I'm going to send you a proper thank-you mail later, so keep an eye out for it. Bye!
+RU: 
+
+

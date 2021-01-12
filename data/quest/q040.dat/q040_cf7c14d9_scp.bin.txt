@@ -1,0 +1,561 @@
+-- Section 1
+
+ID: M5040_S0010_G0090_001_robomother
+JP: 外は危険で、ワタシにはとても……
+EN: I'd go myself, but I'd never survive out there on my own.
+RU: 
+
+ID: M5040_S0010_G0100_001_sele
+JP: 子供を連れ戻す。
+EN: Agree to help.
+RU: 
+
+ID: M5040_S0010_G0110_001_sele
+JP: 忙しいので無視する。
+EN: Refuse to help.
+RU: 
+
+
+-- Section 2
+
+ID: M5040_S0010_G0140_001_robomother
+JP: お願いします。ウチの子を連れ戻してください！
+EN: Please bring my child home. Please!
+RU: 
+
+ID: M5040_S0010_G0100_001_sele
+JP: 子供を連れ戻す。
+EN: Agree to help.
+RU: 
+
+ID: M5040_S0010_G0110_001_sele
+JP: 忙しいので無視する。
+EN: Refuse to help.
+RU: 
+
+
+-- Section 3
+
+ID: M5040_S0010_G0000_001_robomother
+JP: 待って！待ちなさい！
+EN: Hey! Stop right this instant!
+RU: 
+
+ID: M5040_S0010_G0010_001_robochild
+JP: 知ルカ！バカー！！
+EN: No! Get away from me, dummy!
+RU: 
+
+
+-- Section 4
+
+ID: M5040_S0010_G0020_001_a9s
+JP: ……何でしょうね、今の。
+EN: What was all that about?
+RU: 
+
+ID: M5040_S0010_G0030_001_a2b
+JP: さあ……
+EN: No idea.
+RU: 
+
+
+-- Section 5
+
+ID: M5040_S0010_G0040_001_a9s
+JP: あ、さっきの……どうかしたんですか？
+EN: Excuse me. Can I ask what just happened?
+RU: 
+
+ID: M5040_S0010_G0050_001_robomother
+JP: その……お恥ずかしい話なんですが、子どもとケンカしてしまって。
+EN: Oh, this is so embarrassing! But if you must know, I was arguing with my child.
+RU: 
+
+ID: M5040_S0010_G0060_001_a2b
+JP: 子ども？あなたの？
+EN: You don't say.
+RU: 
+
+ID: M5040_S0010_G0070_001_robomother
+JP: はい。あの子ったら、話も聞かずに外に飛び出してしまったんです。
+EN: That boy just refuses to listen to me, and now he's gone and run off to who knows where!
+RU: 
+
+ID: M5040_S0010_G0080_001_robomother
+JP: すみません。もしよろしければ、あの子を連れ戻してはくれないでしょうか？
+EN: This is terribly forward of me, but would you mind finding him and bringing him home?
+RU: 
+
+
+-- Section 6
+
+ID: M5040_S0010_G0120_001_a2b
+JP: わかった。
+EN: We'll see what we can do.
+RU: 
+
+ID: M5040_S0010_G0130_001_a9s
+JP: はあっ。２Ｂはお人好しなんだから……
+EN: Heh. Look at you, you big softie.
+RU: 
+
+
+-- Section 7
+
+ID: M5040_S0010_G0140_001_robomother
+JP: お願いします。ウチの子を連れ戻してください！
+EN: Please bring my child home. Please!
+RU: 
+
+
+-- Section 8
+
+ID: M5040_S0010_G0150_001_a9s
+JP: それにしても、『母』に『子ども』か……
+EN: So this machine "mother" has a "child," eh?
+RU: 
+
+ID: M5040_S0010_G0160_001_a9s
+JP: 機械生命体が家族という組織を形成しているなんて、驚きですね。
+EN: It's surprising to see them form familial units like that.
+RU: 
+
+ID: M5040_S0010_G0170_001_a9s
+JP: 連れ戻したら、お礼に脳回路を覗かせてもらえないかな。
+EN: I wonder if they'll let us examine their brain circuits if we bring the kid home.
+RU: 
+
+ID: M5040_S0010_G0180_001_a2b
+JP: 行き過ぎた探究心は、悪趣味。
+EN: Your scientific curiosity is getting out of hand, 9S.
+RU: 
+
+ID: M5040_S0010_G0190_001_a9s
+JP: 冗談ですよ、冗談。
+EN: Joking! I'm joking! ...Mostly.
+RU: 
+
+
+-- Section 9
+
+ID: M5040_S0020_G0000_001_robochild
+JP: 助ケテ！お母サン！お母サーン！
+EN: Help! Mom! Mommyyyyyy!
+RU: 
+
+ID: M5040_S0020_G0020_001_a9s
+JP: ２Ｂ、気を付けて。近くに敵の反応があります！
+EN: Careful, 2B. I'm picking up hostiles.
+RU: 
+
+
+-- Section 10
+
+ID: M5040_S0020_G0010_001_a2b
+JP: あそこ。
+EN: Over there.
+RU: 
+
+
+-- Section 11
+
+ID: M5040_S0020_G0030_001_a9s
+JP: 怖かった？もう大丈夫だよ。
+EN: Easy there, little guy. It's all right. You weren't scared, were you?
+RU: 
+
+ID: M5040_S0020_G0040_001_robochild
+JP: ウ……ヒック……
+EN: Nnngh... *sniff*
+RU: 
+
+ID: M5040_S0020_G0050_001_a2b
+JP: 早く戻ろう。別の敵が来るかもしれない。
+EN: We should leave before more enemies arrive.
+RU: 
+
+ID: M5040_S0020_G0060_001_robochild
+JP: ヤ、ヤダ！ボクは戻ラナイ！戻ルモンカ！
+EN: No! I'm not going back! I'm NEVER going back!
+RU: 
+
+ID: M5040_S0020_G0070_001_a9s
+JP: そんな、駄々をこねないで……
+EN: Come on, kid. Don't be unreasonable.
+RU: 
+
+ID: M5040_S0020_G0080_001_a9s
+JP: ２Ｂ、どうしよう。こんな小さな機械生命体の相手をした事なくて……
+EN: Any ideas, 2B? I've never dealt with a snot-nosed machine before.
+RU: 
+
+ID: M5040_S0020_G0090_001_a2b
+JP: 私にも判らない……
+EN: You got me.
+RU: 
+
+
+-- Section 12
+
+ID: M5040_S0020_G0100_001_a9s
+JP: 言ってる傍からきましたよ、２Ｂ！
+EN: Uh oh. More enemies incoming!
+RU: 
+
+ID: M5040_S0020_G0110_001_a2b
+JP: 判ってる！
+EN: I'm on it.
+RU: 
+
+ID: M5040_S0020_G0120_001_robochild
+JP: お母サンは、いつもお兄チャンばっかり褒メルンダ！
+EN: Mommy only ever praises my big brother!
+RU: 
+
+ID: M5040_S0020_G0130_001_robochild
+JP: お皿を割ッタノハ弟ナノニ、ボクのセイにサレタ！
+EN: My little brother broke a plate once and she blamed ME for it!
+RU: 
+
+ID: M5040_S0020_G0140_001_robochild
+JP: 先に叩イテキタノはお兄チャンなのニ、ボクが悪イッテ！
+EN: My big brother punched me, but somehow it was MY fault!
+RU: 
+
+ID: M5040_S0020_G0150_001_robochild
+JP: いつもボクだけ我慢シロッテ！
+EN: It's not fair!
+RU: 
+
+ID: M5040_S0020_G0160_001_robochild
+JP: お母サンは、ボクが嫌イナンダ！
+EN: I hate my mommy!
+RU: 
+
+ID: M5040_S0020_G0170_001_robochild
+JP: お母サンなんか、嫌イダ！
+EN: I HATE her!
+RU: 
+
+
+-- Section 13
+
+ID: M5040_S0020_G0180_001_robochild
+JP: ウウ……お母サンの、バカァ……
+EN: Stupid mom...
+RU: 
+
+ID: M5040_S0020_G0190_001_a9s
+JP: ……気は済んだ？
+EN: Are you finished?
+RU: 
+
+ID: M5040_S0020_G0200_001_robochild
+JP: ……
+EN: ......
+RU: 
+
+ID: M5040_S0020_G0210_001_a9s
+JP: お母さん、心配してたよ。だから僕達が来たんだ。
+EN: Your mother is worried about you. She sent us here to find you.
+RU: 
+
+ID: M5040_S0020_G0220_001_a9s
+JP: 一緒に帰ろう？
+EN: So quit with the whining and let us take you home already.
+RU: 
+
+ID: M5040_S0020_G0230_001_robochild
+JP: ……ウン。
+EN: ...'Kay.
+RU: 
+
+
+-- Section 14
+
+ID: M5040_S0020_G0240_001_a2b
+JP: あの小さい機械生命体が……
+EN: Oh. That's...unfortunate.
+RU: 
+
+ID: M5040_S0020_G0250_001_a9s
+JP: 仕方ないですね……戻って母親に説明しましょう。
+EN: Yeah, this is rough. Better go tell Mom what happened.
+RU: 
+
+
+-- Section 15
+
+ID: M5040_S0020_G0040_001_robochild
+JP: ウ……ヒック……
+EN: Nnngh... *sniff*
+RU: 
+
+ID: M5040_S0020_G0030_001_a9s
+JP: 怖かった？もう大丈夫だよ。
+EN: Easy there, little guy. It's all right. You weren't scared, were you?
+RU: 
+
+ID: M5040_S0020_G0220_001_a9s
+JP: 一緒に帰ろう？
+EN: So quit with the whining and let us take you home already.
+RU: 
+
+ID: M5040_S0020_G0230_001_robochild
+JP: ……ウン。
+EN: ...'Kay.
+RU: 
+
+
+-- Section 16
+
+ID: M5040_S0020_G0231_001_a9s
+JP: あれ……あの小さな機械生命体が見当たりませんね。
+EN: Huh? I don't see that little machine anywhere.
+RU: 
+
+ID: M5040_S0020_G0232_001_a2b
+JP: どこかではぐれたのか……
+EN: We must have lost him somewhere.
+RU: 
+
+ID: M5040_S0020_G0233_001_a9s
+JP: 最初の場所に戻っているかもしれません。探してみましょう。
+EN: He may have gone back to where we first found him.\nLet's look around.
+RU: 
+
+
+-- Section 17
+
+ID: M5040_S0020_G0240_001_a2b
+JP: あの小さい機械生命体が……
+EN: Oh. That's...unfortunate.
+RU: 
+
+ID: M5040_S0020_G0250_001_a9s
+JP: 仕方ないですね……戻って母親に説明しましょう。
+EN: Yeah, this is rough. Better go tell Mom what happened.
+RU: 
+
+
+-- Section 18
+
+ID: M5040_S0030_G0000_001_a9s
+JP: 僕達から離れちゃ駄目だよ。ちゃんと付いてきて。
+EN: Stay close, all right? Don't go wandering off.
+RU: 
+
+ID: M5040_S0030_G0010_001_robochild
+JP: ウン……お母サン、本当にボクのコト心配シテタ？
+EN: Hey, mister? Was Mommy really worried about me?
+RU: 
+
+ID: M5040_S0030_G0020_001_a9s
+JP: してたよ。だから戻ってちゃんと謝ろうね？
+EN: She sure was. So let's go home and have you apologize, all right?
+RU: 
+
+ID: M5040_S0030_G0030_001_robochild
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 19
+
+ID: M5040_S0040_G0000_001_robomother
+JP: ああ……ああああ！
+EN: Ah! You're back!
+RU: 
+
+ID: M5040_S0040_G0010_001_robomother
+JP: ありがとうございます！ウチの子を連れ戻してくれたんですね！
+EN: Thank you so much for bringing him home.
+RU: 
+
+
+-- Section 20
+
+ID: M5040_S0040_G0020_001_robochild
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 21
+
+ID: M5040_S0040_G0030_001_robomother
+JP: まったくこの子は、心配ばかりかけて！
+EN: Selfish child! How dare you make me worry like that!
+RU: 
+
+
+-- Section 22
+
+ID: M5040_S0040_G0040_001_a9s
+JP: あ、あの、あまり怒らないで……
+EN: Um, hey...no need to get all angry about this.
+RU: 
+
+
+-- Section 23
+
+ID: M5040_S0040_G0052_001_mama
+JP: ウウウ……
+EN: *sniff* *sniff*
+RU: 
+
+
+-- Section 24
+
+ID: M5040_S0040_G0050_001_robochild
+JP: ……ッ！？お、お母サン、泣かナイデ！
+EN: M-Mommy? Mommy, no! Don't cry!
+RU: 
+
+
+-- Section 25
+
+ID: M5040_S0040_G0051_001_robomother
+JP: ワタシがどれだけ……どれだけ……
+EN: Do you have any idea how worried I was?
+RU: 
+
+
+-- Section 26
+
+ID: M5040_S0040_G0060_001_robochild
+JP: ゴメンナサイ！泣かナイデ！
+EN: I'm sorry, Mommy! Please don't cry!
+RU: 
+
+
+-- Section 27
+
+ID: M5040_S0040_G0070_001_robomother
+JP: ……お母さんも御免ね。言い過ぎた。
+EN: *sniff* I'm sorry too, my darling. I shouldn't have said that.
+RU: 
+
+
+-- Section 28
+
+ID: M5040_S0040_G0080_001_robochild
+JP: ウン……ウン……
+EN: *sniff* Oh, Mommy...
+RU: 
+
+
+-- Section 29
+
+ID: M5040_S0040_G0090_001_robomother
+JP: ほら、先に家に戻ってな。
+EN: Go on, honey. Get yourself home.
+RU: 
+
+ID: M5040_S0040_G0100_001_robomother
+JP: お母さん、この人達にお礼を言わなきゃいけないから。
+EN: I have to thank these nice people for helping you.
+RU: 
+
+
+-- Section 30
+
+ID: M5040_S0040_G0110_001_robochild
+JP: ハイ……アンドロイドのヒト……アリガトウございマシタ！
+EN: Okay. Bye-bye, androids!
+RU: 
+
+
+-- Section 31
+
+ID: M5040_S0040_G0120_001_robomother
+JP: ……あの子が何を思って何を考えているのか、ワタシにはさっぱりです。
+EN: ...I swear, sometimes I think that child's mind is just a bunch of bolts rattling around an empty pail.
+RU: 
+
+ID: M5040_S0040_G0130_001_robomother
+JP: ネットワークから切り離された状態が、こんなに難しいなんて思いませんでした。
+EN: I never imagined how hard it would be to disconnect from the network.
+RU: 
+
+ID: M5040_S0040_G0140_001_robomother
+JP: 年がら年中、擦れ違いばかり。でも……
+EN: We're constantly misunderstanding each other.
+RU: 
+
+ID: M5040_S0040_G0150_001_robomother
+JP: だからこそ、こうやって判りあえた時の嬉しさは大きいんですよ。
+EN: Still, on those rare occasions where we connect, it makes me so very happy.
+RU: 
+
+
+-- Section 32
+
+ID: M5040_S0040_G0160_001_a2b
+JP: ……
+EN: I can see that.
+RU: 
+
+
+-- Section 33
+
+ID: M5040_S0040_G0170_001_robomother
+JP: あの子を連れ戻してくれて、本当にありがとうございました。
+EN: Thank you again for bringing him home.
+RU: 
+
+ID: M5040_S0040_G0180_001_robomother
+JP: お礼と言ってはなんですが、これを……
+EN: This isn't much, but I'd very much like you to have it.
+RU: 
+
+
+-- Section 34
+
+ID: M5040_S0040_G0190_001_a9s
+JP: ネットワークなしでの相互理解……大変そうですね。
+EN: Mutual understanding without a network sounds tough.
+RU: 
+
+ID: M5040_S0040_G0200_001_a2b
+JP: ええ、でも……なんだか楽しそうだった。
+EN: True. But it also seems kind of fun.
+RU: 
+
+
+-- Section 35
+
+ID: M5040_S0040_G0210_001_robomother
+JP: あの、ウチの子は！？あの子は無事なんですか！？
+EN: What happened? Where is my child?
+RU: 
+
+ID: M5040_S0040_G0220_001_a2b
+JP: ……残念だが、連れ戻せなかった。
+EN: I'm sorry. We couldn't save him.
+RU: 
+
+
+-- Section 36
+
+ID: M5040_S0040_G0230_001_robomother
+JP: そんな……！
+EN: No...
+RU: 
+
+ID: M5040_S0040_G0240_001_robomother
+JP: そんな……そんな……
+EN: No no no no no...
+RU: 
+
+
+-- Section 37
+
+ID: M5040_S0040_G0240_001_robomother
+JP: そんな……そんな……
+EN: No no no no no...
+RU: 
+
+

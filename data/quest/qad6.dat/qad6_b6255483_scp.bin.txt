@@ -1,0 +1,33 @@
+-- Section 1
+
+ID: M3060_S0032_G0080_001_a9s
+JP: なんだ……この防壁……
+EN: What's...this barrier?
+RU: 
+
+ID: M3060_S0032_G0090_001_pod153
+JP: 警告：閉鎖系防御システム。
+EN: Analysis: It is part of a closed defensive system.
+RU: 
+
+ID: M3060_S0032_G0100_001_a9s
+JP: どうやったら壊せるんだ！？
+EN: Well, how do I break it down!?
+RU: 
+
+ID: M3060_S0032_G0110_001_pod153
+JP: 予測：当該自我データを暴走させる。
+EN: Hypothesis: Unit 9S could permit his self-consciousness data to lose control.
+RU: 
+
+ID: M3060_S0032_G0120_001_pod153
+JP: その自爆エネルギーで防壁を一時的に麻痺させる事が可能。
+EN: The resulting energy surge has an acceptable probability of temporarily paralyzing the barrier.
+RU: 
+
+ID: M3060_S0032_G0130_001_a9s
+JP: それじゃあ入れないのと一緒だ！
+EN: That's almost as bad as not going in at all!
+RU: 
+
+

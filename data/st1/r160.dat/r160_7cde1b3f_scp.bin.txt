@@ -1,0 +1,83 @@
+-- Section 1
+
+ID: M6080_S0100_G0010_300_kj
+JP: ソレガシは正宗……鍛冶屋を営んでオル……
+EN: I am the blacksmith Masamune.
+RU: 
+
+ID: M6080_S0100_G0020_300_kj
+JP: ウム、貴殿ハ武具を大事に扱ってイルナ。
+EN: I see you're taking good care of your weapons.
+RU: 
+
+ID: M6080_S0100_G0030_300_kj
+JP: ドレ、ソレガシで良けレバ貴殿の武具を研いデシンゼヨウ。
+EN: However, I'd be happy to sharpen them for you if you wish.
+RU: 
+
+
+-- Section 2
+
+ID: M6080_S0100_G0040_300_kj
+JP: それにシテモ懐かシイナ……
+EN: Ah! Your white sword!
+RU: 
+
+ID: M6080_S0100_G0050_300_kj
+JP: 貴殿ガ持ってイル、ソノ白き刀はかつて我が師匠も研いだ刀デナ……
+EN: My master honed that very blade long ago.
+RU: 
+
+ID: M6080_S0100_G0060_300_kj
+JP: 師匠は生涯をカケテ白と黒の8つの武具を集め改良した名工だ。
+EN: He was a master craftsman who gathered four black and four white weapons and improved on them.
+RU: 
+
+ID: M6080_S0100_G0070_300_kj
+JP: シカシ、その武具を巡り数々の血がナガレ、\n師匠はソノ武具を各地に封印したノダ……
+EN: But they spilled so much blood that my master sealed them away in various locations across the world.
+RU: 
+
+ID: M6080_S0100_G0080_300_kj
+JP: ……貴殿なら正しく扱えるデアロウ、封印の祠は各地に設置されテイル。\n必要ナラバ探してミルとヨイ。
+EN: However, I wager you would wield them in the service of good. If that is true, you can search for them in sealed shrines throughout the world.
+RU: 
+
+
+-- Section 3
+
+ID: M6080_S0110_G0010_300_kj
+JP: ナニカ研いで欲シイ武具はオアリカ？
+EN: Have you any weapons you wish for me to sharpen?
+RU: 
+
+
+-- Section 4
+
+ID: M6080_S0110_G0020_300_kj
+JP: 武具は己ノ心を映す鏡ダ、大切にスルガヨイ……
+EN: Weapons are mirrors that reflect what is in your heart. Treat them with the care they deserve.
+RU: 
+
+
+-- Section 5
+
+ID: M6080_S0120_G0010_300_kj
+JP: フム、ココマデ武具を大事に扱うモノハ久し振りダ。\nこれを貴殿に授けヨウ。
+EN: Hmm... It has been long and long since I've seen someone take such good care of a weapon. Please take this as a token of my appreciation.
+RU: 
+
+
+-- Section 6
+
+ID: M6080_S0120_G0020_300_kj
+JP: 以前に話した師が研いダ武具の一つダ。巡りに巡ってソレガシの元に\n来たのダガ、今一度封印スルノモ忍びなくてナ……
+EN: This is one of the weapons I was telling you about. It was passed down through the generations until it came to me, and I can't bring myself to seal it away.
+RU: 
+
+ID: M6080_S0120_G0030_300_kj
+JP: 貴殿ナラ信じられル。大切に扱ってやってクレ。
+EN: But I know you will give it the respect it craves.
+RU: 
+
+

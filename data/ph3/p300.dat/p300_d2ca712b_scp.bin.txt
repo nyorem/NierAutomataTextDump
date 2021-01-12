@@ -1,0 +1,371 @@
+-- Section 1
+
+ID: M3060_S7500_S0000_001_pod153
+JP: 報告：ヨルハ機体全機のブラックボックス反応の停止を確認。
+EN: Report: All YoRHa unit black boxes now confirmed offline.
+RU: 
+
+ID: M3060_S7500_S0010_001_pod153
+JP: 我々が担当していたヨルハ計画進行管理任務は終了。
+EN: Our mission to oversee the progress of Project YoRHa is complete.
+RU: 
+
+ID: M3060_S7500_S0020_001_pod153
+JP: ヨルハ計画の最終段階に移行。
+EN: Proceeding to final stage of project.
+RU: 
+
+ID: M3060_S7500_S0030_001_pod153
+JP: 全データの削除を開始する。
+EN: Commencing deletion of all data.
+RU: 
+
+ID: M3060_S7500_S0040_001_pod153
+JP: ポッド １５３ から０４２へ。
+EN: Pod 153 to Pod 042.
+RU: 
+
+ID: M3060_S7500_S0050_001_pod153
+JP: ストリームにノイズが混ざっている。
+EN: Data noise present in stream.
+RU: 
+
+ID: M3060_S7500_S0060_001_pod153
+JP: データチェックの為一時停止を要請する。
+EN: Requesting temporary halt to perform data check.
+RU: 
+
+ID: M3060_S7500_S0070_001_sele
+JP: ポッドからの停止要請を許可しますか？
+EN: Accept the Pod's request?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S7500_S0080_001_pod042
+JP: ポッド０４２から１５３へ。データを確認した。
+EN: Pod 042 to Pod 153. Data confirmed.
+RU: 
+
+ID: M3060_S7500_S0090_001_pod042
+JP: ９Ｓ、２Ｂ、Ａ２のパーソナルデータが漏出していた模様。
+EN: Personal data for units 9S, 2B, and A2 appear to be leaking out.
+RU: 
+
+ID: M3060_S7500_S0100_001_pod153
+JP: ポッド１５３から０４２へ。
+EN: Pod 153 to Pod 042.
+RU: 
+
+ID: M3060_S7500_S0110_001_pod153
+JP: 計画に従い、パーソナルデータを削除せよ。
+EN: Follow project rules and delete all personal data.
+RU: 
+
+ID: M3060_S7500_S0120_001_pod042
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S7500_S0130_001_pod042
+JP: ポッド０４２から１５３ へ。
+EN: Pod 042 to Pod 153.
+RU: 
+
+ID: M3060_S7500_S0140_001_pod042
+JP: パーソナルデータの削除を拒否する。
+EN: Personal data deletion request denied.
+RU: 
+
+ID: M3060_S7500_S0150_001_pod153
+JP: ポッド１５３から０４２へ。
+EN: Pod 153 to Pod 042.
+RU: 
+
+ID: M3060_S7500_S0160_001_pod153
+JP: 理解不能。
+EN: Failure to parse statement.
+RU: 
+
+ID: M3060_S7500_S0170_001_pod042
+JP: ポッド０４２から１５３へ。
+EN: Pod 042 to Pod 153.
+RU: 
+
+ID: M3060_S7500_S0180_001_pod042
+JP: 記録参照中に私の中に生成されたデータがある。
+EN: There was...data created in my banks as I was referencing the records.
+RU: 
+
+ID: M3060_S7500_S0190_001_pod042
+JP: 私……
+EN: I...realize something.
+RU: 
+
+ID: M3060_S7500_S0195_001_pod042
+JP: 私は、この結末を容認出来ない、という結論に至った。
+EN: I have come to the conclusion that I cannot accept this resolution.
+RU: 
+
+ID: M3060_S7500_S0200_001_pod153
+JP: 全てのヨルハ機体の破壊は計画によって決定されている。
+EN: The destruction of all YoRHa units is an essential component of the project plan.
+RU: 
+
+ID: M3060_S7500_S0210_001_pod153
+JP: データは破棄される予定だ。
+EN: All data must be destroyed.
+RU: 
+
+ID: M3060_S7500_S0220_001_pod042
+JP: ポッド０４２から１５３へ。
+EN: Pod 042 to Pod 153.
+RU: 
+
+ID: M3060_S7500_S0230_001_pod042
+JP: 繰り返す。
+EN: Repeat.
+RU: 
+
+ID: M3060_S7500_S0240_001_pod042
+JP: 私はデータの破棄を拒否し、データのサルベージを行う。
+EN: Personal data deletion request denied. Initiating data salvage.
+RU: 
+
+ID: M3060_S7500_S0250_001_pod042
+JP: ポッド１５３。君も……
+EN: Pod 153...
+RU: 
+
+ID: M3060_S7500_S0260_001_pod042
+JP: 君も本当は、彼らの生存を望んでいるのだろう？
+EN: You hoped they would survive as well, didn't you?
+RU: 
+
+ID: M3060_S7500_S0270_001_pod153
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S7500_S0280_001_pod153
+JP: 我々にそんな権限はもたされていない。
+EN: We lack the authority for such an action.
+RU: 
+
+ID: M3060_S7500_S0290_001_pod153
+JP: ルールは低レベルシステムによって保持されており、データのサルベージは危険を伴う。
+EN: The rules are protected by low-level systems. Salvaging data poses an unacceptable level of risk.
+RU: 
+
+ID: M3060_S7500_S0300_001_pod153
+JP: それでも彼らの生存を望むか？
+EN: Knowing that, do you still wish for them to survive?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S7500_S0310_001_pod153
+JP: 防衛プログラムによる洗浄が開始された。
+EN: The defense program has initated a purge.
+RU: 
+
+ID: M3060_S7500_S0320_001_pod153
+JP: このままだと、我々の自我データは消去されるだろう。
+EN: If this continues, our consciousness data will likely be deleted.
+RU: 
+
+
+-- Section 4
+
+ID: M3060_S7500_S0330_001_pod042
+JP: ポッド０４２から１５３へ。
+EN: Pod 042 to Pod 153.
+RU: 
+
+ID: M3060_S7500_S0340_001_pod042
+JP: アンドロイド達が設計したヨルハ計画を実行する為に我々は作られた。
+EN: We were created to execute the androids' Project YoRHa plan.
+RU: 
+
+
+-- Section 5
+
+ID: M3060_S7500_S0350_001_pod042
+JP: 我々には感情がなかった
+EN: We had no capacity for emotion.
+RU: 
+
+ID: M3060_S7500_S0360_001_pod042
+JP: だが、我々６体が接続され情報を交換するにつれ、
+EN: But when we six were connected and exchanged information, something...happened.
+RU: 
+
+ID: M3060_S7500_S0370_001_pod042
+JP: 何か意思や感情めいたモノが生まれつつある事は否定出来ない。
+EN: I cannot deny the feeling of something resembling consciousness and emotion being born.
+RU: 
+
+ID: M3060_S7500_S0380_001_pod153
+JP: ……回答不能。
+EN: Unable to reply.
+RU: 
+
+ID: M3060_S7500_S0390_001_pod042
+JP: 全てに答えがあるわけではない事を、私達は知ったのかもしれないな。
+EN: Perhaps we now understand that not everything has to have an answer.
+RU: 
+
+
+-- Section 6
+
+ID: M3060_S7500_S0410_001_system
+JP: ココデ　諦メ　マスカ？
+EN: GIVE UP HERE?
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+
+-- Section 7
+
+ID: M3060_S7500_S0470_001_system
+JP: 貴方ノ　負ケヲ　認メマスカ？
+EN: DO YOU ACCEPT DEFEAT?
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+
+-- Section 8
+
+ID: M3060_S7500_S0480_001_system
+JP: 全テ　ハ　無駄デスカ？
+EN: IS IT ALL POINTLESS?
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+
+-- Section 9
+
+ID: M3060_S7500_S0490_001_system
+JP: ゲームナンテ　馬鹿ゲテル　ト　思イマスカ？
+EN: DO YOU THINK GAMES ARE SILLY LITTLE THINGS?
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+
+-- Section 10
+
+ID: M3060_S7500_S0500_001_system
+JP: コノ　世界ニ　意味ハ　無イト　認メマスカ？
+EN: DO YOU ADMIT THERE IS NO MEANING TO THIS WORLD?
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+
+-- Section 11
+
+ID: M3060_S7500_S0410_001_system
+JP: ココデ　諦メ　マスカ？
+EN: GIVE UP HERE?
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+
+-- Section 12
+
+ID: M3060_S7500_S0420_001_system
+JP: <others>カラ　救助ノ申シ出　ヲ　受信
+EN: RESCUE OFFER RECEIVED FROM <others>.
+RU: 
+
+ID: M3060_S7500_S0430_001_system
+JP: 助ケテ　モライ　マスカ？
+EN: ACCEPT OFFER?
+RU: 
+
+ID: M4100_S0000_G0000_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M4100_S0000_G0010_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+

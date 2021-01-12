@@ -1,0 +1,239 @@
+-- Section 1
+
+ID: M5104_S0010_G0000_001_robomaster
+JP: お前サン達か。ドウじゃ？手合わせしてミンか？
+EN: Well? What think you of Father Servo now?
+RU: 
+
+ID: M5104_S0010_G0010_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5104_S0010_G0020_001_a9s
+JP: ……随分と改造したんだ……ね？
+EN: You've, uh, had a lot of work done.
+RU: 
+
+ID: M5104_S0010_G0030_001_robomaster
+JP: オウ！お前サン達のお陰じゃ！
+EN: Indeed! And all thanks to you!
+RU: 
+
+ID: M5104_S0010_G0040_001_robomaster
+JP: ドウじゃ？ワシの全力、受け止めてはクレンカのう？
+EN: Well then? Think you can face the full might of Father Servo's power?
+RU: 
+
+ID: M5104_S0010_G0050_001_sele
+JP: 受ケ止メル。
+EN: Face the full might of the Father.
+RU: 
+
+ID: M5104_S0010_G0060_001_sele
+JP: 受ケ止メナイ。
+EN: Walk away from this nonsense.
+RU: 
+
+
+-- Section 2
+
+ID: M5104_S0010_G0070_001_robomaster
+JP: サア、死力を尽くして戦おうゾ！
+EN: Then we fight!
+RU: 
+
+
+-- Section 3
+
+ID: M5104_S0010_G0080_001_robomaster
+JP: 残念じゃ……気が変わったラまた来てオクレ。
+EN: Ah, a pity. Come find Father Servo if you change your mind.
+RU: 
+
+
+-- Section 4
+
+ID: M5104_S0010_G0000_300_robomaster
+JP: ワシの全力、受け止めてクレるのか？
+EN: Dare you face the full brunt of Father Servo's power?
+RU: 
+
+ID: M5104_S0010_G0010_300_sele
+JP: 受ケ止メル。
+EN: Face the brunt.
+RU: 
+
+ID: M5104_S0010_G0020_300_sele
+JP: 受ケ止メナイ。
+EN: Face 180 degrees and walk.
+RU: 
+
+
+-- Section 5
+
+ID: M5104_S0010_G0090_001_robomaster
+JP: 文句ナシに、ワシが最強じゃ！
+EN: Yes! Yesssss! The power of the multiverse courses through the circuits of Father Servo!
+RU: 
+
+ID: M5104_S0010_G0100_001_robomaster
+JP: フェッフェッフェ。お前サン達、良けレバまた修行に付き合うゾイ？
+EN: If you desire to test yourself anew, Father Servo is happy to oblige.
+RU: 
+
+
+-- Section 6
+
+ID: M5104_S0010_G0030_300_robomaster
+JP: お前サン達、修行に付き合ってほしいのか？
+EN: Would you like to help Father Servo with his training?
+RU: 
+
+ID: M5104_S0010_G0040_300_sele
+JP: 修行を再開スル。
+EN: Begin anew.
+RU: 
+
+ID: M5104_S0010_G0050_300_sele
+JP: 修行を再開シナイ。
+EN: Begin nothing.
+RU: 
+
+
+-- Section 7
+
+ID: M5104_S0010_G0070_001_robomaster
+JP: サア、死力を尽くして戦おうゾ！
+EN: Then we fight!
+RU: 
+
+
+-- Section 8
+
+ID: M5104_S0010_G0080_001_robomaster
+JP: 残念じゃ……気が変わったラまた来てオクレ。
+EN: Ah, a pity. Come find Father Servo if you change your mind.
+RU: 
+
+
+-- Section 9
+
+ID: M5104_S0010_G0060_300_robomaster
+JP: 弱った状態では相手にならぬ。出直してくるのじゃ。
+EN: Father Servo will not waste his talents on a weakened foe! Begone!
+RU: 
+
+
+-- Section 10
+
+ID: M5104_S0010_G0110_001_a9s
+JP: これで懲りた？
+EN: Okay. We're done now, right? I mean, this HAS to be the end.
+RU: 
+
+ID: M5104_S0010_G0120_001_robomaster
+JP: ……イイや、マダじゃ！強者にナル為にハ、命を賭ケル必要がアル！
+EN: Oh, my child. How wrong you are. For if Father Servo wishes to be truly strong, he must stake his very life upon it!
+RU: 
+
+ID: M5104_S0010_G0130_001_a2b
+JP: こいつ……！
+EN: Oh, for the love of...
+RU: 
+
+ID: M5104_S0010_G0140_001_robomaster
+JP: サア、手加減は無しで来いッ！これは生キルか死ヌカの勝負じゃッ！
+EN: Grant Father Servo no quarter! This will be a battle to the death!
+RU: 
+
+
+-- Section 11
+
+ID: M5104_S0010_G0150_001_robomaster
+JP: 滅ぼしてやるッ！アンドロイド共！
+EN: Prepare to die, my android child!
+RU: 
+
+
+-- Section 12
+
+ID: M5104_S0010_G0160_001_robomaster
+JP: ……ああ……満足ジャ……
+EN: G-Good... Now Father Servo...can be at peace...
+RU: 
+
+ID: M5104_S0010_G0170_001_robomaster
+JP: 我が武の全てヲ……ブツケル強敵に出会えテ……
+EN: For he has found a foe...strong enough to withstand him...
+RU: 
+
+ID: M5104_S0010_G0180_001_robomaster
+JP: これは礼ジャ……
+EN: Here... Your earthly reward...
+RU: 
+
+ID: M5104_S0010_G0190_001_robomaster
+JP: ありがトウ……アリガ……
+EN: Th-Thank...
+RU: 
+
+ID: M5104_S0010_G0200_001_robomaster
+JP: ……
+EN: ......
+RU: 
+
+ID: M5104_S0030_G0010_001_robomaster
+JP: ……
+EN: ......
+RU: 
+
+ID: M5104_S0010_G0210_001_a9s
+JP: 攻撃対象は完全に沈黙。……僕達の勝利です。
+EN: Target neutralized. \n...It's over.
+RU: 
+
+ID: M5104_S0010_G0220_001_a2b
+JP: ……そうか。
+EN: Huh.
+RU: 
+
+
+-- Section 13
+
+ID: M5104_S0010_G0230_001_a9s
+JP: あー、せいせいしましたね！
+EN: About goddamn time!
+RU: 
+
+ID: M5104_S0010_G0240_001_a9s
+JP: これでもう、ロボ導師に振り回されなくて済みますよ。
+EN: If I ever see that bossy robo-monk again, it'll be too soon, let me tell you.
+RU: 
+
+ID: M5104_S0010_G0250_001_a2b
+JP: ……そうだね。
+EN: I suppose.
+RU: 
+
+ID: M5104_S0010_G0260_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M5104_S0010_G0270_001_a9s
+JP: ……馬鹿なロボットですよ。破壊されるまで、強さにこだわるなんて。
+EN: Stupid machine. All he cared about was getting stronger until we finally scrapped him.
+RU: 
+
+ID: M5104_S0010_G0280_001_a9s
+JP: もう、会う事もないですし……本当に、せいせいしました……
+EN: But now we don't have to see him ever again. What a relief!
+RU: 
+
+ID: M5104_S0010_G0290_001_a2b
+JP: ……うん。
+EN: ...Indeed.
+RU: 
+
+

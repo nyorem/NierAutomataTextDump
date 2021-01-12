@@ -1,0 +1,84 @@
+-- Section 1
+
+ID: M1060_S0050_G0000_001_cap
+JP: こちら空母ブルーリッジＩＩ。
+EN: Attention! This is carrier Blue Ridge II.
+RU: 
+
+ID: M1060_S0050_G0010_001_cap
+JP: この通信が届くアンドロイド部隊に支援要請。
+EN: Requesting support from any friendly units in range.
+RU: 
+
+ID: M1060_S0050_G0020_001_cap
+JP: 現在我々は敵軍の攻撃を受けている。
+EN: We've come under heavy fire from the enemy.
+RU: 
+
+ID: M1060_S0050_G0030_001_cap
+JP: 護衛艦は大破し行動不能になった。
+EN: Our escort ship has taken damage and is unable to engage.
+RU: 
+
+ID: M1060_S0050_G0040_001_cap
+JP: 手持ちの支援機で応戦しているが、押されている状態だ。
+EN: We're currently resisting with all remaining support fighters, but we can't hold them off for long.
+RU: 
+
+ID: M1060_S0050_G0050_001_cap
+JP: 繰り返す。こちら空母ブルーリッジⅡ。
+EN: I repeat, this is carrier Blue Ridge II.
+RU: 
+
+ID: M1060_S0050_G0060_001_cap
+JP: 付近にいるアンドロイド部隊からの支援を求む。
+EN: We need immediate backup from any available android forces.
+RU: 
+
+
+-- Section 2
+
+ID: M1060_S0050_G0070_001_a9s
+JP: 大型の敵、反応あります！
+EN: I'm picking up a large-scale enemy inbound!
+RU: 
+
+ID: M1060_S0052_S0000_001_a9s
+JP: 南西の方角、距離2.8km！
+EN: Looks to be 2.8 klicks southwest of us!
+RU: 
+
+
+-- Section 3
+
+ID: M1060_S0056_G0000_001_a2b
+JP: 敵飛行兵器の破壊を確認。
+EN: Enemy aerial unit destroyed.
+RU: 
+
+ID: M1060_S0056_G0010_001_a2b
+JP: これより周囲の警戒に移行……
+EN: Reverting back to area reconnai—
+RU: 
+
+ID: M1060_S0056_G0020_001_a9s
+JP: ちょっと待って！
+EN: Wait!
+RU: 
+
+ID: M1060_S0056_G0030_001_a9s
+JP: まだ、大型の敵反応が残ってます！！
+EN: I'm still picking up a large enemy presence!
+RU: 
+
+ID: M1060_S0056_G0040_001_a2b
+JP: え……その敵は今破壊した筈じゃ……
+EN: Didn't I kill that already?
+RU: 
+
+ID: M1060_S0056_G0050_001_a9s
+JP: そんな……こんな大きな敵、どこに！？
+EN: What on...? If it's that big, we should be able to see it...
+RU: 
+
+

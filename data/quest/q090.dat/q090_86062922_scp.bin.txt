@@ -1,0 +1,1270 @@
+-- Section 1
+
+ID: M5090_S0020_G0091_300_roborece
+JP: 以上。
+EN: That's all.
+RU: 
+
+ID: M5090_S0020_G0040_001_roborece
+JP: ソレデハ、手続きを行いガチ。
+EN: Good good. I sign you in.
+RU: 
+
+ID: M5090_S0040_G0010_001_roborece
+JP: ロボット達がココで戦う意味、オマエハ理解しタカ？
+EN: Do you now understand why we come here to fight?
+RU: 
+
+ID: M5090_S0020_G0063_300_sele
+JP: やめる
+EN: Quit
+RU: 
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0660_300_roborece
+JP: …………
+EN: ...
+RU: 
+
+ID: M5090_S0010_G0080_001_a9s
+JP: わっ！？　な、なに？
+EN: Huh!? What are you—
+RU: 
+
+ID: M5090_S0020_G0050_001_roborece
+JP: ……オマエハロボットの気持チがわかル奴だ。
+EN: ...You understand how machines feel.
+RU: 
+
+ID: M5090_S0060_G0060_001_robomode
+JP: 勝負アリ！
+EN: We have a winner!
+RU: 
+
+ID: M5090_S0040_G0050_001_roborece
+JP: その為に、コノ場所は存在スル。
+EN: It is why this arena exists.
+RU: 
+
+ID: M5090_S0030_G0340_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+ID: M5090_S0030_G0270_001_a9s
+JP: ここは、純粋に強さを求める場所なのか……
+EN: It seems like strength is the only thing that matters here.
+RU: 
+
+ID: M5090_S0020_G0030_300_sele
+JP: 三段　（推奨Lv：50）
+EN: Rank 3 (Rec. Lv: 50)
+RU: 
+
+ID: M5090_S0030_G0170_001_a9s
+JP: ……もっと簡単に倒せたな。
+EN: That was an ugly match.
+RU: 
+
+ID: M5090_S0020_G0150_300_n02
+JP: ドノ武器をツカウ？
+EN: WHICH WEAPON WILL I USE?
+RU: 
+
+ID: M5090_S0060_G0070_001_robomode
+JP: 戦闘ハ常に非情で無情ナリ……
+EN: There is no compassion or sympathy in combat...
+RU: 
+
+ID: M5090_S0060_G0110_001_roborece
+JP: マタの挑戦をお待ちしております。
+EN: Come back anytime!
+RU: 
+
+ID: M5090_S0040_G0000_001_roborece
+JP: とうとう、最後の難関をクリアしたナ。オメデトウ。
+EN: You overcame final obstacle. Congratulation.
+RU: 
+
+ID: M5090_S0020_G0670_300_roborece
+JP: この闘技場を盛り上げたいからコンナコト話しちゃったケド……
+EN: I'm only telling you this because I want this place to thrive...
+RU: 
+
+ID: M5090_S0030_G0260_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+ID: M5090_S0020_G0030_001_roborece
+JP: グッバイ。
+EN: Goodbye then. Goodbye.
+RU: 
+
+
+-- Section 2
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 3
+
+ID: M5090_S0020_G0150_300_n02
+JP: ドノ武器をツカウ？
+EN: WHICH WEAPON WILL I USE?
+RU: 
+
+ID: M5090_S0020_G0200_300_sele
+JP: 素手
+EN: Fists
+RU: 
+
+ID: M5090_S0020_G0220_300_sele
+JP: 銃
+EN: Gun
+RU: 
+
+ID: M5090_S0020_G0230_300_sele
+JP: 盾
+EN: Shield
+RU: 
+
+ID: M5090_S0020_G0210_300_sele
+JP: 鋸
+EN: Saw
+RU: 
+
+
+-- Section 4
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 5
+
+ID: M5090_S0020_G0150_300_n02
+JP: ドノ武器をツカウ？
+EN: WHICH WEAPON WILL I USE?
+RU: 
+
+ID: M5090_S0020_G0200_300_sele
+JP: 素手
+EN: Fists
+RU: 
+
+ID: M5090_S0020_G0260_300_sele
+JP: 槍
+EN: Spear
+RU: 
+
+ID: M5090_S0020_G0270_300_sele
+JP: 斧
+EN: Axe
+RU: 
+
+ID: M5090_S0020_G0250_300_sele
+JP: 剣
+EN: Sword
+RU: 
+
+ID: M5090_S0020_G0280_300_sele
+JP: 銃
+EN: Gun
+RU: 
+
+
+-- Section 6
+
+ID: M5090_S0020_G0290_300_n02
+JP: 盾は装備スルカ？
+EN: SHOULD I EQUIP A SHIELD?
+RU: 
+
+ID: M5090_S0020_G0300_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0310_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 7
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 8
+
+ID: M5090_S0020_G0150_300_n02
+JP: ドノ武器をツカウ？
+EN: WHICH WEAPON WILL I USE?
+RU: 
+
+ID: M5090_S0020_G0320_300_sele
+JP: 剣
+EN: Sword
+RU: 
+
+ID: M5090_S0020_G0330_300_sele
+JP: 銃
+EN: Gun
+RU: 
+
+
+-- Section 9
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 10
+
+ID: M5090_S0020_G0150_300_n02
+JP: ドノ武器をツカウ？
+EN: WHICH WEAPON WILL I USE?
+RU: 
+
+ID: M5090_S0020_G0340_300_sele
+JP: 装備なし
+EN: None
+RU: 
+
+ID: M5090_S0020_G0350_300_sele
+JP: 銃撃ユニット×４
+EN: Gun Unit x4
+RU: 
+
+
+-- Section 11
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 12
+
+ID: M5090_S0020_G0150_300_n02
+JP: ドノ武器をツカウ？
+EN: WHICH WEAPON WILL I USE?
+RU: 
+
+ID: M5090_S0020_G0380_300_sele
+JP: 素手
+EN: Fists
+RU: 
+
+ID: M5090_S0020_G0400_300_sele
+JP: 槍
+EN: Spear
+RU: 
+
+ID: M5090_S0020_G0410_300_sele
+JP: 斧
+EN: Axe
+RU: 
+
+ID: M5090_S0020_G0390_300_sele
+JP: 剣
+EN: Sword
+RU: 
+
+
+-- Section 13
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 14
+
+ID: M5090_S0020_G0150_300_n02
+JP: ドノ武器をツカウ？
+EN: WHICH WEAPON WILL I USE?
+RU: 
+
+ID: M5090_S0020_G0420_300_sele
+JP: 四足形態
+EN: Quadruped Config
+RU: 
+
+ID: M5090_S0020_G0430_300_sele
+JP: 人型形態
+EN: Humanoid Config
+RU: 
+
+ID: M5090_S0020_G0440_300_sele
+JP: 騎乗形態
+EN: Mounted Config
+RU: 
+
+
+-- Section 15
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 16
+
+ID: M5090_S0020_G0150_300_n02
+JP: ドノ武器をツカウ？
+EN: WHICH WEAPON WILL I USE?
+RU: 
+
+ID: M5090_S0020_G0450_300_sele
+JP: 斧
+EN: Axe
+RU: 
+
+ID: M5090_S0020_G0460_300_sele
+JP: 銃
+EN: Gun
+RU: 
+
+ID: M5090_S0020_G0470_300_sele
+JP: ドリル
+EN: Drill
+RU: 
+
+
+-- Section 17
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 18
+
+ID: M5090_S0020_G0150_300_n02
+JP: ドノ武器をツカウ？
+EN: WHICH WEAPON WILL I USE?
+RU: 
+
+ID: M5090_S0020_G0480_300_sele
+JP: 鋸
+EN: Saw
+RU: 
+
+ID: M5090_S0020_G0490_300_sele
+JP: ドリル
+EN: Drill
+RU: 
+
+ID: M5090_S0020_G0500_300_sele
+JP: 銃
+EN: Gun
+RU: 
+
+
+-- Section 19
+
+ID: M5090_S0020_G0100_300_n02
+JP: ボクのカラダをツカウか？
+EN: WILL YOU USE MY BODY?
+RU: 
+
+ID: M5090_S0020_G0110_300_sele
+JP: はい
+EN: Yes
+RU: 
+
+ID: M5090_S0020_G0120_300_sele
+JP: いいえ
+EN: No
+RU: 
+
+
+-- Section 20
+
+ID: M6110_S0000_G0000_001_n02
+JP: 受付デ話を通シテもらわないと困ルヨ。
+EN: Go talk to the receptionist first.
+RU: 
+
+
+-- Section 21
+
+ID: M5090_S0010_G0060_001_a9s
+JP: なんだ、ここ……？
+EN: What's this?
+RU: 
+
+
+-- Section 22
+
+ID: M5090_S0010_G0070_001_roborece
+JP: 識別コードヲ確認。
+EN: Confirming identification code...
+RU: 
+
+ID: M5090_S0010_G0080_001_a9s
+JP: わっ！？　な、なに？
+EN: Huh!? What are you—
+RU: 
+
+ID: M5090_S0010_G0090_001_roborece
+JP: 確認終了。貴方、機械生命体を操ッタ事アルネ？
+EN: Identification confirmed. Have you ever used a machine?
+RU: 
+
+ID: M5090_S0010_G0100_001_a9s
+JP: 操る？
+EN: Er, I'm not sure what you mean?
+RU: 
+
+ID: M5090_S0010_G0110_001_roborece
+JP: コノ闘技場ハ、ハジメテですね？
+EN: So you are new. First time in arena.
+RU: 
+
+ID: M5090_S0010_G0120_001_a9s
+JP: そ、そうだけど……
+EN: Yes, but—
+RU: 
+
+ID: M5090_S0010_G0130_001_roborece
+JP: ココデハ、最強のロボットを決メル大会が開かれテイル。
+EN: We hold championship. Fights.\nWe find strongest machine in world.
+RU: 
+
+ID: M5090_S0010_G0140_001_roborece
+JP: 試合に勝つト、賞金と景品ヲ受け取る事ができウル。
+EN: Prizes await. Good good prizes. Prizes for winners.
+RU: 
+
+ID: M5090_S0010_G0150_001_roborece
+JP: 参加希望者ハ、コノ受付で手続きをスルベキ。
+EN: Competitors sign in at front desk.
+RU: 
+
+ID: M5090_S0010_G0160_001_a9s
+JP: 一体、何なんだ……
+EN: The hell is going on here...?
+RU: 
+
+
+-- Section 23
+
+ID: M5090_S0070_G0000_001_roborece
+JP: 難易度<difficulty>での、オマエのEX段の最速クリアタイムは<m_time>ダ。
+EN: Your fastest completion time of the Special Rank on <difficulty> difficulty is: <m_time>.
+RU: 
+
+ID: M5090_S0070_G0010_001_roborece
+JP: 戦いに終わりはナイ、マダマダ上を目指セヨ。
+EN: War knows no end. Keep working hard to obtain better results!
+RU: 
+
+ID: M5090_S0020_G0000_001_roborece
+JP: ヤル？
+EN: You are in?
+RU: 
+
+ID: M5090_S0020_G0010_001_sele
+JP: ヤル。
+EN: Sure, why not?
+RU: 
+
+ID: M5090_S0020_G0020_001_sele
+JP: ヤラナイ。
+EN: No thanks.
+RU: 
+
+
+-- Section 24
+
+ID: M5090_S0020_G0030_001_roborece
+JP: グッバイ。
+EN: Goodbye then. Goodbye.
+RU: 
+
+
+-- Section 25
+
+ID: M5090_S0020_G0070_300_roborece
+JP: デハ、操ルロボットにハナシカケロ。
+EN: Speak to machine you want to control.
+RU: 
+
+
+-- Section 26
+
+ID: M5090_S0020_G0040_001_roborece
+JP: ソレデハ、手続きを行いガチ。
+EN: Good good. I sign you in.
+RU: 
+
+ID: M5090_S0020_G0050_001_roborece
+JP: ……オマエハロボットの気持チがわかル奴だ。
+EN: ...You understand how machines feel.
+RU: 
+
+ID: M5090_S0020_G0060_001_roborece
+JP: あそこのボディがオマエが扱えるロボだっちゃ。
+EN: That body there. You can handle it.
+RU: 
+
+ID: M5090_S0020_G0070_001_a9s
+JP: え？
+EN: Huh?
+RU: 
+
+ID: M5090_S0020_G0080_001_a9s
+JP: あれは……これまでに乗っ取った事のある機械生命体……
+EN: I know that machine... I've taken control of it before.
+RU: 
+
+ID: M5090_S0020_G0090_001_roborece
+JP: 上手く、操レヨ。
+EN: Good luck. Good good luck.
+RU: 
+
+
+-- Section 27
+
+ID: M5090_S0020_G0600_300_roborece
+JP: 何ガ聞きタイ？
+EN: What would you like to ask about?
+RU: 
+
+ID: M5090_S0020_G0065_300_sele
+JP: 挑戦方法を聞く
+EN: How does this work?
+RU: 
+
+ID: M5090_S0020_G0610_300_sele
+JP: 乗っ取り方法を聞く
+EN: How do I take over machines?
+RU: 
+
+ID: M5090_S0020_G0620_300_sele
+JP: レベルについて聞く
+EN: What do levels mean?
+RU: 
+
+ID: M6090_S0010_G0975_300_sele
+JP: 戻る。
+EN: Back
+RU: 
+
+
+-- Section 28
+
+ID: M5090_S0020_G0085_300_roborece
+JP: 挑戦方法ハ簡単ダ。
+EN: The rules are simple.
+RU: 
+
+ID: M5090_S0020_G0087_300_roborece
+JP: コノ受付デ、難易度ヲ選ンダ後……
+EN: You just select the difficulty here at the reception...
+RU: 
+
+ID: M5090_S0020_G0089_300_roborece
+JP: 操作シタイ機械生命体ヲ、選ブダケ。
+EN: And then choose which machine you want to control.
+RU: 
+
+ID: M5090_S0020_G0091_300_roborece
+JP: 以上。
+EN: That's all.
+RU: 
+
+
+-- Section 29
+
+ID: M5090_S0020_G0630_300_roborece
+JP: 我々の乗っ取りの方法ハ簡単ダ。
+EN: Taking control of us is simple.
+RU: 
+
+ID: M5090_S0020_G0640_300_roborece
+JP: 機械生命体ニ気づかれないようにハッキングするダケ。
+EN: Just hack into a machine without getting noticed.
+RU: 
+
+ID: M5090_S0020_G0650_300_roborece
+JP: 背後カラ近づくと気づかれにくい。
+EN: I recommend sneaking up from behind.
+RU: 
+
+ID: M5090_S0020_G0660_300_roborece
+JP: …………
+EN: ...
+RU: 
+
+ID: M5090_S0020_G0670_300_roborece
+JP: この闘技場を盛り上げたいからコンナコト話しちゃったケド……
+EN: I'm only telling you this because I want this place to thrive...
+RU: 
+
+ID: M5090_S0020_G0680_300_roborece
+JP: こんなのバラしたのバレたらぶっ飛ばされる気がするからオレのことはナイショだぞ？
+EN: If anyone finds out, I'll become target practice, so let's keep this between us, okay?
+RU: 
+
+
+-- Section 30
+
+ID: M5090_S0020_G0730_300_roborece
+JP: オマエが操るボディのレベルは、オマエ自身と同等ニ調整してアル。
+EN: The level of the body you control is based on your own level.
+RU: 
+
+
+-- Section 31
+
+ID: M5090_S0060_G0000_001_roborece
+JP: 新たなタタカイを用意シテルヨ……
+EN: We've prepared a new battle for you!
+RU: 
+
+
+-- Section 32
+
+ID: M5090_S0030_G0000_001_robomode
+JP: それデハ、今カラ、試合ヲ始めルヨ？
+EN: Excellent. Shall we begin, then?
+RU: 
+
+ID: M5090_S0030_G0010_001_robomode
+JP: サア、己ガ未来ヲ切リ開ケ！ファイト！！
+EN: It's time to battle for your future! Now...FIGHT!
+RU: 
+
+ID: M5090_S0030_G0040_001_roborece
+JP: オメデトウゴザイマス。こちらが景品の衣装になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+ID: M5090_S0030_G0045_001_roborece
+JP: コノ闘技場は、難易度ガ高いから早めに衣装をアゲチャウ、という優シサ……
+EN: This arena difficult, so I give you reward sooner. Aren't I nice?
+RU: 
+
+ID: M5090_S0030_G0050_001_roborece
+JP: さらに強い敵を倒すべく、ガンバッテクダサイ。
+EN: Other machines await. Stronger machines.\nGood luck. Goodbye.
+RU: 
+
+
+-- Section 33
+
+ID: M5090_S0030_G0000_001_robomode
+JP: それデハ、今カラ、試合ヲ始めルヨ？
+EN: Excellent. Shall we begin, then?
+RU: 
+
+ID: M5090_S0030_G0010_001_robomode
+JP: サア、己ガ未来ヲ切リ開ケ！ファイト！！
+EN: It's time to battle for your future! Now...FIGHT!
+RU: 
+
+ID: M5090_S0030_G0220_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+
+-- Section 34
+
+ID: M5090_S0030_G0060_001_robomode
+JP: 今カラ、試合を始めマス。
+EN: The battle will commence at once.
+RU: 
+
+ID: M5090_S0030_G0070_001_robomode
+JP: デハ……始メッ！
+EN: Ready? FIGHT!
+RU: 
+
+ID: M5090_S0030_G0090_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+ID: M5090_S0030_G0100_001_a9s
+JP: 戦って……景品……
+EN: A reward...for fighting?
+RU: 
+
+ID: M5090_S0030_G0110_001_roborece
+JP: 次も頑張ッテくれたマーエ。
+EN: Good luck in next battle.
+RU: 
+
+
+-- Section 35
+
+ID: M5090_S0030_G0060_001_robomode
+JP: 今カラ、試合を始めマス。
+EN: The battle will commence at once.
+RU: 
+
+ID: M5090_S0030_G0070_001_robomode
+JP: デハ……始メッ！
+EN: Ready? FIGHT!
+RU: 
+
+ID: M5090_S0030_G0220_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+
+-- Section 36
+
+ID: M5090_S0030_G0120_001_robomode
+JP: 油に飢エタ野郎ドモ！今カラ試合ヲ始めるゼッ！
+EN: Listen up, you oil-thirsty throngs! A new match is about to begin!
+RU: 
+
+ID: M5090_S0030_G0130_001_robomode
+JP: サア、オマエの根性見せやガレッ！ファイッ！！
+EN: Now show us what you're made of...and FIGHT!
+RU: 
+
+ID: M5090_S0030_G0150_001_roborece
+JP: オメデトウゴザイマス。
+EN: Good job. Good good job.
+RU: 
+
+ID: M5090_S0030_G0160_001_roborece
+JP: こちらが景品になりマス。
+EN: Here is reward. Good good.
+RU: 
+
+ID: M5090_S0030_G0170_001_a9s
+JP: ……もっと簡単に倒せたな。
+EN: That was an ugly match.
+RU: 
+
+ID: M5090_S0030_G0180_001_roborece
+JP: 勝ち方ニ拘りガ出てキタラ、一人前ダナ。
+EN: You sound like true fighter. Good good.
+RU: 
+
+
+-- Section 37
+
+ID: M5090_S0030_G0120_001_robomode
+JP: 油に飢エタ野郎ドモ！今カラ試合ヲ始めるゼッ！
+EN: Listen up, you oil-thirsty throngs! A new match is about to begin!
+RU: 
+
+ID: M5090_S0030_G0130_001_robomode
+JP: サア、オマエの根性見せやガレッ！ファイッ！！
+EN: Now show us what you're made of...and FIGHT!
+RU: 
+
+ID: M5090_S0030_G0220_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+
+-- Section 38
+
+ID: M5090_S0030_G0190_001_robomode
+JP: ア、アノ……今カラ、試合ヲ……始めマス。
+EN: Uh-uhm... It's time to, uh...start the match...
+RU: 
+
+ID: M5090_S0030_G0200_001_robomode
+JP: それデハ、始めマス。怪我しないでクダサイネ？
+EN: All right, let's begin. Try not to get hurt, okay?
+RU: 
+
+ID: M5090_S0030_G0220_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+
+-- Section 39
+
+ID: M5090_S0030_G0190_001_robomode
+JP: ア、アノ……今カラ、試合ヲ……始めマス。
+EN: Uh-uhm... It's time to, uh...start the match...
+RU: 
+
+ID: M5090_S0030_G0200_001_robomode
+JP: それデハ、始めマス。怪我しないでクダサイネ？
+EN: All right, let's begin. Try not to get hurt, okay?
+RU: 
+
+ID: M5090_S0030_G0220_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+
+-- Section 40
+
+ID: M5090_S0030_G0230_001_robomode
+JP: ハーイ、ミンナー、元気カナー？
+EN: Hello, everyone! Are you ready to rattle!?
+RU: 
+
+ID: M5090_S0030_G0240_001_robomode
+JP: では血沸き肉……じゃなカッタ、歯車が踊る戦イヲ——開始！
+EN: The oil will spew! The gears will fly! Now let's get it on!
+RU: 
+
+ID: M5090_S0030_G0260_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+ID: M5090_S0030_G0270_001_a9s
+JP: ここは、純粋に強さを求める場所なのか……
+EN: It seems like strength is the only thing that matters here.
+RU: 
+
+ID: M5090_S0030_G0280_001_roborece
+JP: ソノ気持ちヲ味わう為に、ミンナ戦ってイルノダ。
+EN: True. True true. Strength is why we fight.
+RU: 
+
+
+-- Section 41
+
+ID: M5090_S0030_G0230_001_robomode
+JP: ハーイ、ミンナー、元気カナー？
+EN: Hello, everyone! Are you ready to rattle!?
+RU: 
+
+ID: M5090_S0030_G0240_001_robomode
+JP: では血沸き肉……じゃなカッタ、歯車が踊る戦イヲ——開始！
+EN: The oil will spew! The gears will fly! Now let's get it on!
+RU: 
+
+ID: M5090_S0030_G0220_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+
+-- Section 42
+
+ID: M5090_S0030_G0290_001_robomode
+JP: えー、ゴホンッ。それデハ、今から試合を開始しマス。
+EN: And now...the battle is about to begin.
+RU: 
+
+ID: M5090_S0030_G0300_001_robomode
+JP: ココマデ上り詰めた方々にお聞きシマス。
+EN: But first, consider this: both competitors have fought long and hard to make it here...
+RU: 
+
+ID: M5090_S0030_G0310_001_robomode
+JP: なぜ、あなた方は戦うのデショウ？
+EN: So why do they keep fighting?
+RU: 
+
+ID: M5090_S0030_G0320_001_robomode
+JP: その答えは、きっとこの戦いの中にアル。それデハ、始メッ！
+EN: I'm sure we'll know the answer soon. And with that....let us BEGIN!
+RU: 
+
+ID: M5090_S0030_G0340_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+ID: M5090_S0040_G0000_001_roborece
+JP: とうとう、最後の難関をクリアしたナ。オメデトウ。
+EN: You overcame final obstacle. Congratulation.
+RU: 
+
+ID: M5090_S0040_G0010_001_roborece
+JP: ロボット達がココで戦う意味、オマエハ理解しタカ？
+EN: Do you now understand why we come here to fight?
+RU: 
+
+ID: M5090_S0040_G0020_001_a9s
+JP: ……ああ。
+EN: I think I do.
+RU: 
+
+ID: M5090_S0040_G0030_001_roborece
+JP: ワタシ達は戦う事で、存在スル意義を見出しタンダ。
+EN: We fight to find meaning.
+RU: 
+
+ID: M5090_S0040_G0040_001_roborece
+JP: 戦い、磨き合う事に、生キル意味がアル。
+EN: We fight to grow strong. It is a life's work.
+RU: 
+
+ID: M5090_S0040_G0050_001_roborece
+JP: その為に、コノ場所は存在スル。
+EN: It is why this arena exists.
+RU: 
+
+ID: M5090_S0040_G0060_001_roborece
+JP: ダカラ、ワタシ達はコレカラモ大会を開き続けるダロウ。
+EN: It will continue on for long time to come.
+RU: 
+
+ID: M5090_S0040_G0070_001_roborece
+JP: モハヤ、何の為に強くナルノか忘れテシマッタが……
+EN: We have forgotten why we must grow strong.
+RU: 
+
+ID: M5090_S0040_G0080_001_roborece
+JP: 強くナル事こそスベテ……強くナル……
+EN: But growing strong is all that matters.
+RU: 
+
+ID: M5090_S0040_G0090_001_roborece
+JP: それこそがスベテ。
+EN: It is all that matters.
+RU: 
+
+ID: M5090_S0040_G0100_001_roborece
+JP: お前タチも、ソウダロウ？
+EN: You are just like us. We are the same.
+RU: 
+
+ID: M5090_S0040_G0110_001_a9s
+JP: 僕達は……
+EN: Wait, what? That's not—
+RU: 
+
+ID: M5090_S0040_G0120_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 43
+
+ID: M5090_S0030_G0290_001_robomode
+JP: えー、ゴホンッ。それデハ、今から試合を開始しマス。
+EN: And now...the battle is about to begin.
+RU: 
+
+ID: M5090_S0030_G0220_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+
+-- Section 44
+
+ID: M5090_S0060_G0005_001_robomode
+JP: ここに揃うは究極の猛者達のみ……
+EN: The world's strongest fighters have gathered here...
+RU: 
+
+ID: M5090_S0060_G0010_001_robomode
+JP: そして、最後の敵は究極の勇者……「正宗」が登場ダ！
+EN: And at the end, you will face the ultimate hero... Masamune!
+RU: 
+
+ID: M5090_S0060_G0020_001_robomode
+JP: 思う存分タタカウベシ！
+EN: Fight as if your life depends on it!
+RU: 
+
+ID: M5090_S0080_G0000_001_roborece
+JP: 今の戦いに要シタ時間は<time>ダ。
+EN: The time you took to complete this battle is: <time>.
+RU: 
+
+ID: M5090_S0080_G0010_001_roborece
+JP: 日々の鍛錬を怠らズ、シッカリ腕を磨けヨ。
+EN: Keep training every day! I'm sure you can do even better!
+RU: 
+
+ID: M5090_S0060_G0080_001_roborece
+JP: よくやった。このお面をサズケヨウ。
+EN: Well done! Please accept this mask as your reward.
+RU: 
+
+ID: M5090_S0060_G0090_001_roborece
+JP: このお面は機械を操作する時にちょっと便利ニナル……
+EN: This mask will help you out a bit when controlling machines.
+RU: 
+
+ID: M5090_S0060_G0100_001_roborece
+JP: ただ、ソレダケ。
+EN: That's all it does, really.
+RU: 
+
+ID: M5090_S0060_G0110_001_roborece
+JP: マタの挑戦をお待ちしております。
+EN: Come back anytime!
+RU: 
+
+
+-- Section 45
+
+ID: M5090_S0060_G0005_001_robomode
+JP: ここに揃うは究極の猛者達のみ……
+EN: The world's strongest fighters have gathered here...
+RU: 
+
+ID: M5090_S0060_G0010_001_robomode
+JP: そして、最後の敵は究極の勇者……「正宗」が登場ダ！
+EN: And at the end, you will face the ultimate hero... Masamune!
+RU: 
+
+ID: M5090_S0060_G0020_001_robomode
+JP: 思う存分タタカウベシ！
+EN: Fight as if your life depends on it!
+RU: 
+
+ID: M5090_S0080_G0000_001_roborece
+JP: 今の戦いに要シタ時間は<time>ダ。
+EN: The time you took to complete this battle is: <time>.
+RU: 
+
+ID: M5090_S0080_G0010_001_roborece
+JP: 日々の鍛錬を怠らズ、シッカリ腕を磨けヨ。
+EN: Keep training every day! I'm sure you can do even better!
+RU: 
+
+ID: M5090_S0030_G0220_001_roborece
+JP: オメデトウゴザイマス。こちらが景品になりマス。
+EN: Good job. Good good. Take reward.
+RU: 
+
+
+-- Section 46
+
+ID: M5090_S0030_G0030_001_robomode
+JP: そこマデッ！試合終ー了ー！
+EN: Enough! The match has ended!
+RU: 
+
+ID: M5090_S0030_G0080_001_robomode
+JP: 武器ヲ納めてクダサイ。試合終了デス！
+EN: Hold your weapons! The match is over!
+RU: 
+
+ID: M5090_S0030_G0140_001_robomode
+JP: 決マッター！試合、終ー了ーッ！
+EN: That's it! This match is OVER!
+RU: 
+
+ID: M5090_S0030_G0210_001_robomode
+JP: そ、そこマデ！終ワリ！終ワリデスーッ！
+EN: S-Stop! It's over! The match is over!
+RU: 
+
+ID: M5090_S0030_G0250_001_robomode
+JP: ハイハーイ、そこまで。試合終了デース！
+EN: That's all she wrote, folks! This match is OVER!
+RU: 
+
+ID: M5090_S0030_G0330_001_robomode
+JP: これニテ、試合を終了とスル！
+EN: Enough! I declare this match OVER!
+RU: 
+
+ID: M5090_S0060_G0060_001_robomode
+JP: 勝負アリ！
+EN: We have a winner!
+RU: 
+
+ID: M5090_S0060_G0070_001_robomode
+JP: 戦闘ハ常に非情で無情ナリ……
+EN: There is no compassion or sympathy in combat...
+RU: 
+
+
+-- Section 47
+
+ID: M5090_S0020_G0000_300_roborece
+JP: どのランクに挑戦するんだ？
+EN: Which rank you want to challenge?
+RU: 
+
+ID: M5090_S0020_G0061_300_sele
+JP: EX段　（推奨Lv：99）
+EN: Special Rank (Rec. Lv: 99)
+RU: 
+
+ID: M5090_S0020_G0060_300_sele
+JP: 六段　（推奨Lv：80）
+EN: Rank 6 (Rec. Lv: 80)
+RU: 
+
+ID: M5090_S0020_G0050_300_sele
+JP: 五段　（推奨Lv：70）
+EN: Rank 5 (Rec. Lv: 70)
+RU: 
+
+ID: M5090_S0020_G0040_300_sele
+JP: 四段　（推奨Lv：60）
+EN: Rank 4 (Rec. Lv: 60)
+RU: 
+
+ID: M5090_S0020_G0030_300_sele
+JP: 三段　（推奨Lv：50）
+EN: Rank 3 (Rec. Lv: 50)
+RU: 
+
+ID: M5090_S0020_G0020_300_sele
+JP: 二段　（推奨Lv：45）
+EN: Rank 2 (Rec. Lv: 45)
+RU: 
+
+ID: M5090_S0020_G0010_300_sele
+JP: 一段　（推奨Lv：40）
+EN: Rank 1 (Rec. Lv: 40)
+RU: 
+
+ID: M5090_S0020_G0062_300_sele
+JP: 説明を聞く
+EN: Ask for an explanation.
+RU: 
+
+ID: M5090_S0020_G0063_300_sele
+JP: やめる
+EN: Quit
+RU: 
+
+
+-- Section 48
+
+ID: M5090_S0030_G0020_300_roborece
+JP: 残念ダッタナ、マタコイヨ。
+EN: Too bad. Come again.
+RU: 
+
+
+-- Section 49
+
+ID: M5090_S0030_G0020_300_roborece
+JP: 残念ダッタナ、マタコイヨ。
+EN: Too bad. Come again.
+RU: 
+
+
+-- Section 50
+
+ID: M5090_S0060_G0030_001_masamune
+JP: ウオオオオオオオッ！
+EN: GGGGGRRRRRRRAAAAAAAAHH!
+RU: 
+
+ID: M5090_S0060_G0040_001_masamune
+JP: 我が名はマサムネ！
+EN: I am Masamune!
+RU: 
+
+ID: M5090_S0060_G0050_001_masamune
+JP: いざ、尋常に勝負スルベシ！
+EN: Let us fight with honor!
+RU: 
+
+

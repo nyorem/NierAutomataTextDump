@@ -1,0 +1,313 @@
+-- Section 1
+
+ID: M1040_S0033_G0000_001_a9s
+JP: ……何の音だろう？
+EN: What's that noise?
+RU: 
+
+
+-- Section 2
+
+ID: M1040_S0033_G0010_011_op60
+JP: バンカーより緊急連絡！
+EN: 2B, this is an emergency transmission from the Bunker!
+RU: 
+
+ID: M1040_S0033_G0020_011_op60
+JP: ２Ｂさん、廃墟都市地帯に敵大型兵器の出現を確認しました！
+EN: We're reading a Goliath-class enemy inside the city ruins!
+RU: 
+
+ID: M1040_S0033_G0030_011_op60
+JP: 他にも機械生命体反応が多数あります。
+EN: And it looks like there are a ton of other machines there with it!
+RU: 
+
+ID: M1040_S0033_G0040_011_op60
+JP: 全ヨルハ部隊は迎撃に急行してください！
+EN: All YoRHa units should proceed and engage immediately!
+RU: 
+
+
+-- Section 3
+
+ID: M1040_S0033_G0050_021_op210
+JP: バンカーより９Ｓに緊急連絡。
+EN: Operator to 9S. Emergency transmission incoming.
+RU: 
+
+ID: M1040_S0033_G0060_021_op210
+JP: 廃墟都市地帯に敵大型兵器の出現を確認。
+EN: We've detected a Goliath-class enemy inside the city ruins.
+RU: 
+
+ID: M1040_S0033_G0070_021_op210
+JP: 随伴する機械生命体反応が多数。
+EN: It seems to be accompanied by a large number of machine lifeforms.
+RU: 
+
+ID: M1040_S0033_G0080_021_op210
+JP: 全ヨルハ部隊に出撃命令が下りました。
+EN: All YoRHa members are ordered to engage at once.
+RU: 
+
+
+-- Section 4
+
+ID: M1040_S0033_G0090_001_a9s
+JP: 大型兵器……！
+EN: A Goliath!?
+RU: 
+
+ID: M1040_S0033_G0100_001_a9s
+JP: ２Ｂ、やっぱりこいつらは僕らをワナにかけようとして……
+EN: This WAS a trap! I knew it!
+RU: 
+
+ID: M1040_S0033_G0110_001_pascal
+JP: ……私達もその情報を知りませんでした。
+EN: ...I promise you, we were not aware of this information.
+RU: 
+
+ID: M1040_S0033_G0120_001_pascal
+JP: 信じていただけないかもしれませんが……
+EN: I realize the odds of you believing me are strikingly low...
+RU: 
+
+ID: M1040_S0033_G0130_001_pascal
+JP: 可能であれば、信じて欲しいです。
+EN: But I hope you will nonetheless.
+RU: 
+
+ID: M1040_S0033_G0140_001_a2b
+JP: どっちでもいい。倒しにいく。
+EN: We'll sort it out later. Let's go.
+RU: 
+
+
+-- Section 5
+
+ID: M1040_S0033_G0260_001_a9s
+JP: ２Ｂ！司令部から飛行ユニットの配備の連絡がありました。
+EN: 2B! Command is deploying new flight units for us!
+RU: 
+
+ID: M1040_S0033_G0270_001_a9s
+JP: 座標をポイントしたので、向かいましょう！
+EN: They just sent the coordinates, so let's get going.
+RU: 
+
+ID: M1040_S0033_G0280_001_a2b
+JP: わかった。
+EN: On it.
+RU: 
+
+
+-- Section 6
+
+ID: M1040_S0033_G0142_001_op210
+JP: オペレーター２１Ｏより連絡。
+EN: Operator 21O here. Do you read me?
+RU: 
+
+ID: M1040_S0033_G0150_021_op210
+JP: ９Ｓ。悪いニュースと、良いニュースがそれぞれ一つずつ。
+EN: Operator to 9S. I have bad news and I have good news.
+RU: 
+
+ID: M1040_S0033_G0160_021_op210
+JP: まず、巨大兵器は２体存在する事を確認。
+EN: Bad first—we've confirmed the presence of two Goliath-class heavy-weapon enemies.
+RU: 
+
+ID: M1040_S0033_G0170_021_a9s
+JP: ２体……あんなのが……
+EN: TWO of them!?
+RU: 
+
+ID: M1040_S0033_G0180_021_op210
+JP: 次は良いニュース。
+EN: Now the good news.
+RU: 
+
+ID: M1040_S0033_G0190_021_op210
+JP: 前回の巨大兵器との戦闘データから敵兵器装甲を分析、
+EN: We've used your previous Goliath combat data to analyze the enemy...
+RU: 
+
+ID: M1040_S0033_G0200_021_op210
+JP: 弱点と思われる箇所の特定に成功しました。
+EN: And it seems we have identified a weakness.
+RU: 
+
+ID: M1040_S0033_G0210_021_op210
+JP: また、得られたデータを元にした、射撃ユニットの改良が完了。
+EN: Command has modified a firing unit based on this new intel.
+RU: 
+
+ID: M1040_S0033_G0220_021_op210
+JP: 搭載した飛行ユニットを配備します。
+EN: It's been installed on a pair of flight units that are heading your way.
+RU: 
+
+ID: M1040_S0033_G0230_021_a9s
+JP: さすがはヨルハ開発部……
+EN: That's YoRHa R&D for you!
+RU: 
+
+ID: M1040_S0033_G0240_021_op210
+JP: マップデータを確認してください。
+EN: Check your map data. Operator out.
+RU: 
+
+ID: M1040_S0033_G0250_021_a9s
+JP: 了解しました！
+EN: Thanks, Operator!
+RU: 
+
+
+-- Section 7
+
+ID: M1040_S0035_G0000_001_a9s
+JP: 大型兵器の足元は危ないですね……
+EN: We probably shouldn't get near that guy's feet...
+RU: 
+
+ID: M1040_S0035_G0010_001_a9s
+JP: どこか別のルートを探した方がいい気がします。
+EN: Yeah, no. Let's find another route.
+RU: 
+
+
+-- Section 8
+
+ID: M1040_S0035_G0020_001_a9s
+JP: 飛行ユニットはこの先のビル屋上に配備されてますね……
+EN: The flight units should be on the roof of that building up ahead.
+RU: 
+
+ID: M1040_S0035_G0021_001_a9s
+JP: 危険ですが、あの大型兵器の足元を通らないと辿り着けそうにありません。
+EN: It'll be dangerous, but we're not going anywhere unless we pass through that Goliath's legs.
+RU: 
+
+ID: M1040_S0035_G0030_001_a9s
+JP: 気をつけていきましょう。
+EN: We should be careful.
+RU: 
+
+
+-- Section 9
+
+ID: M1040_S0040_G0000_300_ysA
+JP: ……！！
+EN: Ah!
+RU: 
+
+ID: M1040_S0040_G0010_300_ysA
+JP: 驚いたな。地上装備でコイツを倒すなんて。
+EN: You beat that thing with surface-based gear? That's a surprise!
+RU: 
+
+ID: M1040_S0040_G0020_300_ysA
+JP: 支援感謝する。
+EN: Thanks for the backup.
+RU: 
+
+
+-- Section 10
+
+ID: M1040_S0040_G0030_300_ysB
+JP: お、お前たち、すごいな……
+EN: You guys are amazing...
+RU: 
+
+ID: M1040_S0040_G0050_300_ysB
+JP: 助かった。ありがとう。
+EN: Thanks. We owe you one.
+RU: 
+
+
+-- Section 11
+
+ID: M1040_S0038_G0000_001_a9s
+JP: わあっ！！
+EN: Aaaah!
+RU: 
+
+ID: M1040_S0038_G0010_001_a2b
+JP: くそっ！
+EN: Damn it!
+RU: 
+
+ID: M1040_S0038_G0020_001_a9s
+JP: ２Ｂ！
+EN: 2B!
+RU: 
+
+ID: M1040_S0038_G0030_001_a9s
+JP: 配線が集中しているハブの情報を表示します！
+EN: Displaying data on central wiring hub!
+RU: 
+
+
+-- Section 12
+
+ID: M1040_S0038_G0040_001_a9s
+JP: 今のうちに飛行ユニットの場所まで移動しましょう！
+EN: Let's get to those flight units while we can!
+RU: 
+
+
+-- Section 13
+
+ID: M1040_S0040_G0000_011_op60
+JP: 上空は敵の対空兵器で危険です。
+EN: Be careful! The skies are packed with anti-air weapons.
+RU: 
+
+ID: M1040_S0040_G0010_011_op60
+JP: 低空飛行で接近してください。
+EN: Make sure to approach at low altitude.
+RU: 
+
+ID: M1040_S0040_G0020_011_a2b
+JP: 了解。
+EN: Copy that.
+RU: 
+
+
+-- Section 14
+
+ID: M1040_S0040_G0030_021_op210
+JP: 上空は敵の対空兵器で危険です。
+EN: Enemy anti-air defenses are on patrol at higher altitudes.
+RU: 
+
+ID: M1040_S0040_G0040_021_op210
+JP: 低空飛行での接近を推奨します。
+EN: A low-altitude approach is recommended.
+RU: 
+
+ID: M1040_S0040_G0050_021_a9s
+JP: 了解しました！
+EN: Got it, thanks!
+RU: 
+
+
+-- Section 15
+
+ID: M1040_S0040_G0060_300_pod042
+JP: 推奨：目的地の確認。
+EN: Proposal: Confirm current destination.
+RU: 
+
+
+-- Section 16
+
+ID: M1040_S0040_G0061_300_pod042
+JP: 警告：作戦エリアからの離脱により被害拡大。
+EN: Alert: Leaving the operational area has resulted in significant allied casualties.
+RU: 
+
+

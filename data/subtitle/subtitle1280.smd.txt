@@ -1,0 +1,40 @@
+ID: M5330_S0080_S0080_001_eml
+JP: 僕は元々、大昔に兵器として作られました。
+EN: A long time ago, I was created to be a weapon.
+RU: 
+
+ID: M5330_S0080_S0090_001_eml
+JP: ありとあらゆる環境に適応し、殲滅する為の兵器の一部として。
+EN: A weapon that could adapt to any environment, and one capable of total destruction.
+RU: 
+
+ID: M5330_S0080_S0100_001_a9s
+JP: 兵器だった……のか。
+EN: You're...a weapon?
+RU: 
+
+ID: M5330_S0080_S0110_001_eml
+JP: ……エイリアンとの戦いが始まった時、僕は自己増殖による\n兵力増強を行いました。
+EN: When the war against the aliens started, I decided to strengthen that weapon by creating copies of myself.
+RU: 
+
+ID: M5330_S0080_S0120_001_a2b
+JP: 自己増殖？
+EN: Interesting.
+RU: 
+
+ID: M5330_S0080_S0130_001_eml
+JP: はい。僕は複製された無数のエミールのうちの一人です。
+EN: So in truth, I'm only one of a countless number of Emils.
+RU: 
+
+ID: M5330_S0080_S0140_001_eml
+JP: 僕は……僕達はお互いに協力しあう事でなんとか防衛線を\n維持していました。
+EN: I—or we, I guess—worked with each other to keep our defensive lines intact.
+RU: 
+
+ID: M5330_S0080_S0150_001_eml
+JP: しかし、そうやって何百、何千とコピーされていくうちに僕達の記憶は\n薄まっていったのです。
+EN: But the more of ourselves we created, the more our original memories began to fade.
+RU: 
+

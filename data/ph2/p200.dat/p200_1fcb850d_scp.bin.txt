@@ -1,0 +1,95 @@
+-- Section 1
+
+ID: M1080_S0080_G0160_300_a9s
+JP: まだ幾つかは使えそうだな。\n念の為ここの座標をバンカーに送っておこう。
+EN: A few still look usable. Better send these coordinates to the Bunker, just in case.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0080_G0110_300_a9s
+JP: しまった！？\n……早く２Ｂの所へ行かないと。
+EN: Uh oh... I'd better get to 2B fast!
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0080_G0120_300_a9s
+JP: クソッ！\nもっとパワーのある機体に乗り換えた方が良いかもしれないな……
+EN: Damn it! Maybe I should've taken over something with a little more power...
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0080_G0150_300_a9s
+JP: 停止したロボットの残骸……
+EN: Look at all these broken machines...
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0080_G0300_300_a9s
+JP: よし、このエレベーターをハッキングで起動させれば、\n２Ｂ達が脱出することが出来ますね！！
+EN: All right. If I can hack this elevator and get it running, I can get 2B and everyone else out of here!
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0075_G0000_101_pod153
+JP: ポッド１５３：工場廃墟へのハッキングを開始。
+EN: Pod 153: Hacking into factory system.
+RU: 
+
+
+-- Section 7
+
+ID: M1080_S0070_G0170_101_a2b
+JP: 
+EN: 
+RU: 
+
+
+-- Section 8
+
+ID: M1080_S0070_G0180_101_rbot9s
+JP: 待って待って待って！２Ｂ！
+EN: Whoa, whoa, whoa, whoa, whoa! 2B!
+RU: 
+
+
+-- Section 9
+
+ID: M1080_S0070_G0190_101_rbot9s
+JP: 僕です！９Ｓです！
+EN: It's me! 9S!
+RU: 
+
+
+-- Section 10
+
+ID: M1080_S0070_G0200_101_a2b
+JP: ……９Ｓ！？
+EN: ...9S!?
+RU: 
+
+ID: M1080_S0070_G0210_101_a9s
+JP: バンカーからハッキングしてこの機械生命体をコントロールしています。
+EN: I hacked into this machine from the Bunker. I'm controlling it!
+RU: 
+
+ID: M1080_S0070_G0220_101_a9s
+JP: これから工場のシステムに侵入し、お二人を脱出させます！
+EN: I'm gonna break into this factory's systems and get you outta here!
+RU: 
+
+ID: M1080_S0070_G0230_101_a2b
+JP: わかった。お願い！
+EN: Appreciated.
+RU: 
+
+

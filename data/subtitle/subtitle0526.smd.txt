@@ -1,0 +1,15 @@
+ID: M1070_S0164_H0000_101_adam
+JP: だから、私は命を懸けて戦う事にしたんだ。
+EN: Thus, I decided...that I shall risk my life in battle.
+RU: 
+
+ID: M1070_S0164_H0010_101_adam
+JP: ネットワークから自分を切り離した……
+EN: I have severed my connection to the network.
+RU: 
+
+ID: M1070_S0164_H0020_101_adam
+JP: さあ、殺し合おう！！
+EN: Now...let us embrace death!
+RU: 
+

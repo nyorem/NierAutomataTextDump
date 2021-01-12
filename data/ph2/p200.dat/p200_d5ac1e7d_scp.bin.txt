@@ -1,0 +1,59 @@
+-- Section 1
+
+ID: M1070_S0120_G0000_101_a2b
+JP: ここは……一体？
+EN: What is this?
+RU: 
+
+ID: M1070_S0120_G0010_101_pod042
+JP: 検知：ケイ素と炭素が含まれる結晶状の物質。
+EN: Analysis: This area is composed of crystallized silicon and carbon.
+RU: 
+
+ID: M1070_S0120_G0020_101_pod042
+JP: 詳細についてはデータ不足の為不明。
+EN: Further details unknown.
+RU: 
+
+ID: M1070_S0120_G0030_101_a2b
+JP: 誰がこんな物を？
+EN: Who built it?
+RU: 
+
+ID: M1070_S0120_G0040_101_pod042
+JP: 不明。
+EN: Unknown.
+RU: 
+
+
+-- Section 2
+
+ID: M1070_S0120_G0050_101_a2b
+JP: どうして死体が……
+EN: What's with the corpses?
+RU: 
+
+ID: M1070_S0120_G0060_101_pod042
+JP: ヨルハ部隊員が自力で侵入した可能性は低い。
+EN: It is unlikely the YoRHa units came this far on their own.
+RU: 
+
+ID: M1070_S0120_G0070_101_pod042
+JP: 予測：意図的に敵によって配置されている。
+EN: Hypothesis: The enemy must have placed them here deliberately.
+RU: 
+
+
+-- Section 3
+
+ID: M1070_S0040_G0281_300_pod042
+JP: 推奨：９Ｓの捜索を優先。
+EN: Proposal: Prioritize search for 9S.
+RU: 
+
+ID: M1070_S0040_G0282_300_a2b
+JP: 分かってる、急ごう。
+EN: I know. Let's move.
+RU: 
+
+

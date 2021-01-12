@@ -1,0 +1,1367 @@
+-- Section 1
+
+ID: M5091_S0010_G0250_001_a2b
+JP: これは……
+EN: Huh. This is unexpected.
+RU: 
+
+ID: M5091_S0010_G0260_001_a9s
+JP: なんだ、これ……
+EN: Oh my gosh...
+RU: 
+
+ID: M5091_S0010_G0270_001_a2
+JP: これは……
+EN: ...Really?
+RU: 
+
+
+-- Section 2
+
+ID: M5091_S0020_G0000_001_reception
+JP: おや、ここに来るのは初めて？
+EN: This must be your first time with us.
+RU: 
+
+ID: M5091_S0020_G0010_001_reception
+JP: ここは、アンドロイドとロボットが命を賭けて戦う最高の娯楽施設だよ。
+EN: In that case, welcome to the ultimate in entertainment! A place where androids and machines risk their lives in combat!
+RU: 
+
+ID: M5091_S0020_G0020_001_reception
+JP: レジスタンスの規則には違反してるけど……まあ息抜きは必要だよね。
+EN: And yes, it's technically against Resistance regulations, but everyone needs a way to blow off some steam, am I right?
+RU: 
+
+ID: M5091_S0020_G0030_001_reception
+JP: バトルに参加したくなったら、声かけてくれ。
+EN: Please let me know if you'd like to participate.
+RU: 
+
+
+-- Section 3
+
+ID: M5091_S0020_G0040_001_reception
+JP: バトルに参加するかい？
+EN: Care to join the fray?
+RU: 
+
+ID: M5091_S0020_G0050_001_sele
+JP: バトルに参加する。
+EN: Sign up to fight.
+RU: 
+
+ID: M5091_S0020_G0060_001_sele
+JP: バトルに参加しない。
+EN: Walk away.
+RU: 
+
+
+-- Section 4
+
+ID: M5091_S0020_G0080_001_reception
+JP: 気が向いたらいつでも言ってくれ。
+EN: All right. Please let me know if you change your mind.
+RU: 
+
+
+-- Section 5
+
+ID: M5091_S0020_G0070_001_reception
+JP: わかった。じゃあ、参加手続きをする。
+EN: Very good. Let me get you signed up...
+RU: 
+
+ID: M5091_S0020_G0155_001_reception
+JP: ああ、この闘技場ではアイテム使用は禁止されてる。
+EN: Oh by the way, you are not allowed to use items in the arena!
+RU: 
+
+ID: M5091_S0020_G0157_001_reception
+JP: 弱いのにゴリ押しする奴らが多くてね……
+EN: Can't have a bunch of weaklings try to bulldoze their way through without any strategy, can we?
+RU: 
+
+
+-- Section 6
+
+ID: M5091_S0065_G0000_001_reception
+JP: お、来たね。君は難易度<difficulty>で、EXランクを最速<m_time>でクリアしている。
+EN: Your fastest completion time of the Special Rank on <difficulty> difficulty is: <m_time>.
+RU: 
+
+ID: M5091_S0065_G0010_001_reception
+JP: 是非、記録の更新にチャレンジしてくれ。
+EN: Keep working hard to obtain better results!
+RU: 
+
+ID: M5091_S0020_G0040_001_reception
+JP: バトルに参加するかい？
+EN: Care to join the fray?
+RU: 
+
+ID: M5091_S0020_G0050_001_sele
+JP: バトルに参加する。
+EN: Sign up to fight.
+RU: 
+
+ID: M5091_S0020_G0060_001_sele
+JP: バトルに参加しない。
+EN: Walk away.
+RU: 
+
+
+-- Section 7
+
+ID: M5091_S0055_G0000_001_reception
+JP: 待ってたよ！君のために特別なランクを用意したんだ！
+EN: We prepared a special new rank for you! Hope you like lots of pain!
+RU: 
+
+ID: M5091_S0055_G0010_001_reception
+JP: 今回は、純粋な君の力が見たいから悪いけどオートチップ類は無効化させて貰う。
+EN: This is meant to test your actual skills, so your auto-chips will be disabled.
+RU: 
+
+ID: M5091_S0055_G0020_001_reception
+JP: 是非その腕を存分に奮ってくれ！
+EN: This is your chance to show the world what you're truly made of!
+RU: 
+
+
+-- Section 8
+
+ID: M5091_S0020_G0110_001_reception
+JP: この闘技場の大会には、E、D、C、B、A、Sの６段階のランクがある。
+EN: Battles here are separated into six distinct ranks. They start at E, then move up through D, C, B, A, and finally S.
+RU: 
+
+ID: M5091_S0020_G0120_001_reception
+JP: 初心者が参加できるのは、Ｅランクからのみだ。
+EN: As a beginner, you can participate only in E-level matches.
+RU: 
+
+ID: M5091_S0020_G0130_001_reception
+JP: 勝利すると、次のランクの大会に参加する資格が得られるぞ。
+EN: Once you win, you'll earn the right to join the next tier.
+RU: 
+
+ID: M5091_S0020_G0140_001_reception
+JP: ランクが上がれば景品も豪華になるからな。
+EN: The higher you advance, the greater the prizes you can win.
+RU: 
+
+ID: M5091_S0020_G0145_001_reception
+JP: 説明はそんなところだ。
+EN: And that's about all there's to it!
+RU: 
+
+
+-- Section 9
+
+ID: M5091_S0040_G0012_001_reception
+JP: アソコの奥に行ってみな？面白いモノがあるぜ。
+EN: Have a look back there. You'll love it!
+RU: 
+
+
+-- Section 10
+
+ID: M5091_S0030_G0000_001_moderator
+JP: それでは、今からＥランクの戦いを始めます！
+EN: We're ready to kick off a new E-rank battle!
+RU: 
+
+ID: M5091_S0030_G0010_001_moderator
+JP: 最低ランクですが、決して気を抜かないように。
+EN: Don't let the low rank fool you—if you lower your guard, you'll be scrap.
+RU: 
+
+ID: M5091_S0030_G0020_001_moderator
+JP: では、戦闘を開始してください！
+EN: Now...let the battle begin!
+RU: 
+
+ID: M5091_S0030_G0040_001_moderator
+JP: そこまでとします！
+EN: That's all she wrote, folks!
+RU: 
+
+ID: M5091_S0030_G0050_001_reception
+JP: おめでとう！Ｅランクの景品はこれだ。受け取ってくれ。
+EN: Congratulations. Here's your reward for clearing the E-rank battle.
+RU: 
+
+ID: M5091_S0030_G0052_001_reception
+JP: たまには髪色を変えてオシャレをするのもいいぞ？
+EN: It's nice to change your hair color every once in a while, you know?
+RU: 
+
+ID: M5091_S0030_G0054_001_reception
+JP: そうでもしないと、息が詰まるからな。
+EN: We have to look for little things like that to distract us from our everyday lives.
+RU: 
+
+ID: M5091_S0030_G0056_001_reception
+JP: 戦争が続いてるとみんなオカシクなるんだよ……
+EN: Otherwise we'll all go insane, what with the constant fighting going on.
+RU: 
+
+ID: M5091_S0030_G0058_001_reception
+JP: ……すまない。愚痴だ。また挑戦してくれよな？
+EN: ...I'm sorry, I was just rambling a bit. Come visit again, okay?
+RU: 
+
+ID: M5091_S0030_G0060_001_andman
+JP: オラ、きりきり歩け！ゼンマイ錆びてんのか、ああ？
+EN: Hey, your gears rusted or something? Hurry up already!
+RU: 
+
+ID: M5091_S0030_G0070_001_roboman
+JP: スミマセン、スミマセン。
+EN: I AM SORRY. I AM SORRY.
+RU: 
+
+ID: M5091_S0030_G0080_001_andman
+JP: チッ、使えねえ奴。そろそろ替え時かねぇ。
+EN: Bah! You're useless. I oughta trade you in and be done with it...
+RU: 
+
+
+-- Section 11
+
+ID: M5091_S0030_G0030_001_moderator
+JP: では、開始します！
+EN: Let the battle begin!
+RU: 
+
+ID: M5091_S0030_G0040_001_moderator
+JP: そこまでとします！
+EN: That's all she wrote, folks!
+RU: 
+
+
+-- Section 12
+
+ID: M5091_S0030_G0090_001_moderator
+JP: ではこれより、Ｄランクの戦闘を～開始！
+EN: It's time to kick off this D-rank match, folks!
+RU: 
+
+ID: M5091_S0030_G0100_001_moderator
+JP: ……と言ったら開始してくださいね～？
+EN: Er, I mean, once I say to begin, we'll kick it off. We won't start during the explanation of how to start... I'm making this very confusing.
+RU: 
+
+ID: M5091_S0030_G0110_001_moderator
+JP: ……ええと、それじゃ、か、開始っ！
+EN: Uh, yeah. Anyway. This is for real. Now fight!
+RU: 
+
+ID: M5091_S0030_G0120_001_moderator
+JP: そこまでとします！
+EN: That's it! We're finished!
+RU: 
+
+ID: M5091_S0030_G0130_001_reception
+JP: おめでとう！Ｄランクの景品はこれだ。受け取ってくれ。
+EN: Congratulations. Here's your reward for clearing the D-rank battle.
+RU: 
+
+ID: M5091_S0030_G0140_001_andmanA
+JP: なあ、さっきのロボット見た？
+EN: Did you see that machine just now?
+RU: 
+
+ID: M5091_S0030_G0150_001_andwomanA
+JP: 見た見た！命乞いとかしてんの。
+EN: Sure did! Stupid contraption was begging for its life...
+RU: 
+
+ID: M5091_S0030_G0160_001_andwomanA
+JP: ロボットの癖に何様って感じだよね？アハハッ！
+EN: Not that a hunk of junk like that even has a life worth begging for! Ha ha!
+RU: 
+
+
+-- Section 13
+
+ID: M5091_S0030_G0030_001_moderator
+JP: では、開始します！
+EN: Let the battle begin!
+RU: 
+
+ID: M5091_S0030_G0120_001_moderator
+JP: そこまでとします！
+EN: That's it! We're finished!
+RU: 
+
+
+-- Section 14
+
+ID: M5091_S0030_G0170_001_moderator
+JP: はーい、じゃあＣランクの戦闘をさりげなく始めますね～
+EN: Now then! Let's get this C-rank battle rolling!
+RU: 
+
+ID: M5091_S0030_G0180_001_moderator
+JP: では、開始！
+EN: Now...fight!
+RU: 
+
+ID: M5091_S0030_G0190_001_moderator
+JP: はーい。そこまでとしま～す。
+EN: This one's all over!
+RU: 
+
+ID: M5091_S0030_G0200_001_reception
+JP: おめでとう！Ｃランクの景品はこれだ。受け取ってくれ。
+EN: Congratulations. Here's your reward for clearing the C-rank battle.
+RU: 
+
+ID: M5091_S0030_G0210_001_robowoman
+JP: ドウカ、お母さんヲタスケテください！タスケテ！
+EN: PLEASE. MY MOTHER! YOU HAVE TO RESCUE HER!
+RU: 
+
+ID: M5091_S0030_G0220_001_andmanC
+JP: ハハハッ。機械生命体が「お母さん」だってさ。
+EN: Machines don't have mothers!
+RU: 
+
+ID: M5091_S0030_G0230_001_andmanC
+JP: 思考回路が壊れてるんじゃね？
+EN: I think someone crossed your circuits.
+RU: 
+
+ID: M5091_S0030_G0250_001_andmanC
+JP: よし、テメェも修理してやるよ……！
+EN: Better tear you apart and see what's wrong.
+RU: 
+
+ID: M5091_S0030_G0260_001_robowoman
+JP: ヤ、ヤメ……ヤメテェエッ！！
+EN: NO. NO! NOOOOOO!
+RU: 
+
+
+-- Section 15
+
+ID: M5091_S0030_G0030_001_moderator
+JP: では、開始します！
+EN: Let the battle begin!
+RU: 
+
+ID: M5091_S0030_G0190_001_moderator
+JP: はーい。そこまでとしま～す。
+EN: This one's all over!
+RU: 
+
+
+-- Section 16
+
+ID: M5091_S0030_G0270_001_moderator
+JP: 血と油と歯車に魅せられし者達よ……
+EN: Are you ready for another feast of oil, gears, and blood?
+RU: 
+
+ID: M5091_S0030_G0280_001_moderator
+JP: Ｂランクのステージにようこそ！
+EN: Then welcome...to the B-rank stage!
+RU: 
+
+ID: M5091_S0030_G0290_001_moderator
+JP: 今こそ理性を解放し本能のままに美しき闘争心を……あ、長いですか？
+EN: Let the fists fly! Let the feet kick! Let the pure passion of combat come forth in glorious... Er, sorry. I'm rambling again, aren't I?
+RU: 
+
+ID: M5091_S0030_G0300_001_moderator
+JP: じゃあ開始！
+EN: Fine then. Fiiight!
+RU: 
+
+ID: M5091_S0030_G0310_001_moderator
+JP: そこまでとします！
+EN: That's it! We're done! It's over!
+RU: 
+
+ID: M5091_S0030_G0320_001_reception
+JP: おめでとう！Ｂランクの景品はこれだ。受け取ってくれ。
+EN: Congratulations. Here's your reward for clearing the B-rank battle.
+RU: 
+
+ID: M5091_S0030_G0330_001_n02
+JP: コノ戦イニ勝テバ……解放サレル……勝タナキャ……
+EN: IF I WIN...I AM FREE. I MUST WIN. I MUST...
+RU: 
+
+
+-- Section 17
+
+ID: M5091_S0030_G0030_001_moderator
+JP: では、開始します！
+EN: Let the battle begin!
+RU: 
+
+ID: M5091_S0030_G0310_001_moderator
+JP: そこまでとします！
+EN: That's it! We're done! It's over!
+RU: 
+
+
+-- Section 18
+
+ID: M5091_S0030_G0340_001_moderator
+JP: ここに立つ方々にはＡランクに相応しい戦いを期待します。
+EN: We're looking forward to a true A-rank contest from each and every one of you...
+RU: 
+
+ID: M5091_S0030_G0350_001_moderator
+JP: どうか、ぐっちゃぐっちゃのぎっとぎとになるまで殺し合ってくださいね！
+EN: I want you to kill, kill, KILL! Kill until you're soaked in blood! Kill until your feet slip in pools of your own lubricants!
+RU: 
+
+ID: M5091_S0030_G0360_001_moderator
+JP: それでは、開始ッ！
+EN: And now...FIIIGHT!
+RU: 
+
+ID: M5091_S0030_G0370_001_moderator
+JP: そこまでとします！
+EN: The battle is over!
+RU: 
+
+ID: M5091_S0030_G0380_001_reception
+JP: おめでとう！Ａランクの景品はこれだ。受け取ってくれ。
+EN: Congratulations. Here's your reward for clearing the A-rank battle.
+RU: 
+
+ID: M5091_S0030_G0390_001_andmanC
+JP: あれ？新しいロボットにしたのか？
+EN: Huh? Did you go with a new model out there?
+RU: 
+
+ID: M5091_S0030_G0400_001_andmanD
+JP: ああ、前のは蹴ったら壊れちまったからな。
+EN: Yeah, I kicked my old one a few too many times and it finally fell apart.
+RU: 
+
+ID: M5091_S0030_G0410_001_andmanC
+JP: どうせお前の事だから、フルパワーで蹴ったんだろ？
+EN: Probably not gentle kicks either, knowing you.
+RU: 
+
+ID: M5091_S0030_G0420_001_andmanD
+JP: それで壊れるこいつらが悪いんだよ。
+EN: Who gives a rip? It's that dumb machine's fault for being such a piece of crap.
+RU: 
+
+ID: M5091_S0030_G0430_001_andmanD
+JP: まあ、壊れたら取りかえればいいんだしな。
+EN: Not like I can't just get another one.
+RU: 
+
+
+-- Section 19
+
+ID: M5091_S0030_G0030_001_moderator
+JP: では、開始します！
+EN: Let the battle begin!
+RU: 
+
+ID: M5091_S0030_G0370_001_moderator
+JP: そこまでとします！
+EN: The battle is over!
+RU: 
+
+
+-- Section 20
+
+ID: M5091_S0030_G0440_001_moderator
+JP: Ｓランクの勇士達よ……
+EN: Warriors of the S-rank...
+RU: 
+
+ID: M5091_S0030_G0450_001_moderator
+JP: どうか最高に美しい、至高の戦いを見せてくれたまえ……
+EN: Today, I want to see you revel in the glorious and refined combat arts...
+RU: 
+
+ID: M5091_S0030_G0460_001_moderator
+JP: 互いに情け容赦は無用。歯車の一片をも壊しつくすがいい！
+EN: Show no mercy! Grant no quarter! Rip and tear and gouge and poke and slice and crush and maim and destroy!
+RU: 
+
+ID: M5091_S0030_G0470_001_moderator
+JP: 開始！
+EN: Now FIIIGHT!
+RU: 
+
+ID: M5091_S0030_G0480_001_moderator
+JP: そこまでとします！
+EN: Finished! We're done!
+RU: 
+
+ID: M5091_S0030_G0490_001_reception
+JP: おめでとう！Ｓランクの景品はこれだ。受け取ってくれ。
+EN: Congratulations. Here's your reward for clearing the S-rank battle.
+RU: 
+
+ID: M5091_S0030_G0500_001_a2b
+JP: これは……？
+EN: What's this?
+RU: 
+
+ID: M5091_S0030_G0510_001_a9s
+JP: これは……？
+EN: What's this?
+RU: 
+
+ID: M5091_S0030_G0520_001_a2
+JP: 何だ？
+EN: What the!?
+RU: 
+
+ID: M5091_S0030_G0530_001_reception
+JP: 大昔の人類が着用していた「露出の多い女性の服」だ。
+EN: This is a piece of "revealing women's clothing" that humans used to wear.
+RU: 
+
+ID: M5091_S0030_G0540_001_reception
+JP: どういう理由でこんな服を作ったのかさっぱり知らないんだが……
+EN: With clothing like this, you have to wonder why they even bothered wearing anything in the first place, eh?
+RU: 
+
+ID: M5091_S0030_G0550_001_reception
+JP: ま、受け取ってくれ。
+EN: That's humans for ya. Anyway, take it. It's yours.
+RU: 
+
+ID: M5091_S0040_G0000_001_reception
+JP: それにしても、素晴らしい戦いだったよ！久々に興奮したなぁ。
+EN: Talk about exciting, by the way! I haven't seen a battle like that in forever.
+RU: 
+
+ID: M5091_S0040_G0010_001_reception
+JP: そうだ。お礼に、君にいいものを見せてやるよ。
+EN: Hey, you want to see something interesting?
+RU: 
+
+ID: M5091_S0040_G0012_001_reception
+JP: アソコの奥に行ってみな？面白いモノがあるぜ。
+EN: Have a look back there. You'll love it!
+RU: 
+
+
+-- Section 21
+
+ID: M5091_S0030_G0030_001_moderator
+JP: では、開始します！
+EN: Let the battle begin!
+RU: 
+
+ID: M5091_S0030_G0010_300_moderator
+JP: そこまでとします！
+EN: That's all she wrote, folks!
+RU: 
+
+
+-- Section 22
+
+ID: M5091_S0060_G0000_001_moderator
+JP: ついにここまで来てしまったようですね……
+EN: Hmmm. So you made it this far, huh?
+RU: 
+
+ID: M5091_S0060_G0010_001_moderator
+JP: 戦いを極めた貴方のために、特別なランクを用意しました！
+EN: Alright, then I think you're ready to face the next challenge!
+RU: 
+
+ID: M5091_S0060_G0025_001_moderator
+JP: 常識外れの極限バトル……君は超えられるか！？
+EN: This is the ultimate, completely insane battle! Can you overcome the odds!?
+RU: 
+
+ID: M5091_S0060_G0030_001_moderator
+JP: それでは、開始！
+EN: Ready? Fight!
+RU: 
+
+ID: M5091_S0060_G0040_001_moderator
+JP: そこまで！
+EN: That's enough!
+RU: 
+
+ID: M5091_S0065_G0020_001_reception
+JP: お疲れさま。今回の戦いで掛かった時間は<time>だ。
+EN: The time you took to complete this battle is: <time>.
+RU: 
+
+ID: M5091_S0065_G0030_001_reception
+JP: 次の君の熱い挑戦を待っているよ。
+EN: I'm sure you can do better!
+RU: 
+
+
+-- Section 23
+
+ID: M5091_S0030_G0030_001_moderator
+JP: では、開始します！
+EN: Let the battle begin!
+RU: 
+
+ID: M5091_S0060_G0040_001_moderator
+JP: そこまで！
+EN: That's enough!
+RU: 
+
+ID: M5091_S0065_G0020_001_reception
+JP: お疲れさま。今回の戦いで掛かった時間は<time>だ。
+EN: The time you took to complete this battle is: <time>.
+RU: 
+
+ID: M5091_S0065_G0030_001_reception
+JP: 次の君の熱い挑戦を待っているよ。
+EN: I'm sure you can do better!
+RU: 
+
+
+-- Section 24
+
+ID: M5091_S0030_G0100_300_reception
+JP: どのランクに挑戦するんだ？
+EN: Which rank do you want to attempt?
+RU: 
+
+ID: M5091_S0030_G0170_300_sele
+JP: EXランク　（推奨Lv：99）
+EN: Special Rank (Rec. Lv: 99)
+RU: 
+
+ID: M5091_S0030_G0160_300_sele
+JP: Sランク　（推奨Lv：80）
+EN: Rank S (Rec. Lv: 80)
+RU: 
+
+ID: M5091_S0030_G0150_300_sele
+JP: Aランク　（推奨Lv：70）
+EN: Rank A (Rec. Lv: 70)
+RU: 
+
+ID: M5091_S0030_G0140_300_sele
+JP: Bランク　（推奨Lv：60）
+EN: Rank B (Rec. Lv: 60)
+RU: 
+
+ID: M5091_S0030_G0130_300_sele
+JP: Cランク　（推奨Lv：50）
+EN: Rank C (Rec. Lv: 50)
+RU: 
+
+ID: M5091_S0030_G0120_300_sele
+JP: Dランク　（推奨Lv：35）
+EN: Rank D (Rec. Lv: 35)
+RU: 
+
+ID: M5091_S0030_G0110_300_sele
+JP: Eランク　（推奨Lv：25）
+EN: Rank E (Rec. Lv: 25)
+RU: 
+
+ID: M5091_S0030_G0175_300_sele
+JP: バトルの説明を聞く
+EN: Ask for an explanation
+RU: 
+
+ID: M5091_S0030_G0180_300_sele
+JP: やめる
+EN: Quit
+RU: 
+
+
+-- Section 25
+
+ID: M5091_S0030_G0010_300_moderator
+JP: そこまでとします！
+EN: That's all she wrote, folks!
+RU: 
+
+ID: M5091_S0030_G0020_300_reception
+JP: 残念だったな！これに懲りずにまた挑戦してくれよ！
+EN: Tough luck. But don't let it stop you—just try, try again!
+RU: 
+
+
+-- Section 26
+
+ID: M5091_S0030_G0010_300_moderator
+JP: そこまでとします！
+EN: That's all she wrote, folks!
+RU: 
+
+
+-- Section 27
+
+ID: M5091_S0060_G0052_001_reception
+JP: この果物にはアンドロイドの体に特殊な効果をもたらす毒が入っている。
+EN: This fruit contains a poison that has a special effect on android bodies.
+RU: 
+
+ID: M5091_S0060_G0054_001_reception
+JP: 使用前には『必ず』説明を読むんだぞ……？
+EN: Make ABSOLUTELY sure you read the instructions before using it, okay?
+RU: 
+
+
+-- Section 28
+
+ID: M5091_S0060_G0050_001_reception
+JP: 今回の景品はこれだ。受け取ってくれ。
+EN: Here's your reward.
+RU: 
+
+
+-- Section 29
+
+ID: M5091_S0060_G0050_001_reception
+JP: 今回の景品はこれだ。受け取ってくれ。
+EN: Here's your reward.
+RU: 
+
+
+-- Section 30
+
+ID: M5091_S0060_G0060_001_reception
+JP: お疲れさま！また参加してくれよ。
+EN: Great job! Drop by again any time!
+RU: 
+
+
+-- Section 31
+
+ID: M5091_S0070_G0000_001_secretary
+JP: はい、何か御用でしょうか？
+EN: Hello, can I help you?
+RU: 
+
+ID: M5091_S0070_G0010_300_sele
+JP: アレと戦わせて欲しい。
+EN: I wanna fight you-know-who.
+RU: 
+
+ID: M5091_S0070_G0020_300_sele
+JP: 特に用はない。
+EN: Nope.
+RU: 
+
+
+-- Section 32
+
+ID: M5091_S0070_G0030_001_secretary
+JP: そうですか、では失礼致します。
+EN: Very well. Good day then.
+RU: 
+
+
+-- Section 33
+
+ID: M5091_S0070_G0040_001_secretary
+JP: 申し上げにくいのですが、アポイントのないお客様をお通しする事は出来ません。
+EN: I'm sorry, but I cannot let anyone pass without an appointment.
+RU: 
+
+
+-- Section 34
+
+ID: M5091_S0070_G0050_001_secretary
+JP: まだ、何か御用がおありでしょうか？
+EN: Yes? Is there anything else you require?
+RU: 
+
+ID: M5091_S0070_G0010_300_sele
+JP: アレと戦わせて欲しい。
+EN: I wanna fight you-know-who.
+RU: 
+
+ID: M5091_S0070_G0020_300_sele
+JP: 特に用はない。
+EN: Nope.
+RU: 
+
+
+-- Section 35
+
+ID: M5091_S0070_G0060_001_secretary
+JP: あいにくですが、私の一存では決めかねますので。
+EN: I'm sorry, I'm not authorized to make that decision.
+RU: 
+
+
+-- Section 36
+
+ID: M5091_S0070_G0070_001_secretary
+JP: お客様……一応お伺いしますが、どのようなご用件でしょうか？
+EN: Okay, I'm going to ask again, because I'm nice: IS there something I can help you with?
+RU: 
+
+ID: M5091_S0070_G0010_300_sele
+JP: アレと戦わせて欲しい。
+EN: I wanna fight you-know-who.
+RU: 
+
+ID: M5091_S0070_G0020_300_sele
+JP: 特に用はない。
+EN: Nope.
+RU: 
+
+
+-- Section 37
+
+ID: M5091_S0070_G0080_001_secretary
+JP: そこまで仰るのであればお通ししますが、この先は世界観や雰囲気が大幅に壊れてしまう恐れがありますが、本当に宜しいでしょうか？
+EN: Alright, if you insist. But I have to warn you: what you're about to see may end up destroying your sense of immersion. Are you okay with that?
+RU: 
+
+ID: M5091_S0070_G0170_300_sele
+JP: はい
+EN: Immersion schmimmersion!
+RU: 
+
+ID: M5091_S0070_G0180_300_sele
+JP: やめる
+EN: I most certainly am not.
+RU: 
+
+
+-- Section 38
+
+ID: M5091_S0070_G0090_001_secretary
+JP: 私もその方が良いかと思います。
+EN: I think that's a wise decision.
+RU: 
+
+
+-- Section 39
+
+ID: M5091_S0070_G0100_001_secretary
+JP: 恐れ入りますが、本当に、本当に戦って問題ないでしょうか？\nコレが最後の確認になります。
+EN: Are you REALLY super duper sure you want to do this? This is your last chance to back out!
+RU: 
+
+ID: M5091_S0070_G0170_300_sele
+JP: はい
+EN: Immersion schmimmersion!
+RU: 
+
+ID: M5091_S0070_G0180_300_sele
+JP: やめる
+EN: I most certainly am not.
+RU: 
+
+
+-- Section 40
+
+ID: M5091_S0070_G0110_001_secretary
+JP: かしこまりました。では、ご案内致します。
+EN: Very well then. Follow me.
+RU: 
+
+
+-- Section 41
+
+ID: M5091_S0070_G0170_001_secretary
+JP: はい、何か御用でしょうか？
+EN: Hello, can I help you?
+RU: 
+
+ID: M5091_S0070_G0220_300_sele
+JP: アレと戦わせて欲しい。
+EN: I wanna fight you-know-who.
+RU: 
+
+ID: M5091_S0070_G0230_300_sele
+JP: 特に用はない。
+EN: Nope.
+RU: 
+
+
+-- Section 42
+
+ID: M5091_S0070_G0200_001_secretary
+JP: そうですか、では失礼致します。
+EN: Very well. Good day then.
+RU: 
+
+
+-- Section 43
+
+ID: M5091_S0070_G0210_001_secretary
+JP: 分かりました、準備致します。
+EN: Understood. I'll get things ready.
+RU: 
+
+
+-- Section 44
+
+ID: M6110_S0500_G0000_001_noname
+JP: 流石です。よくここまでたどり着きました。
+EN: Well done. I'm impressed you made it this far.
+RU: 
+
+ID: M6110_S0500_G0010_001_unknown
+JP: スクウェア・エニックス代表取締役社長
+EN: I am the President and CEO of Square Enix.
+RU: 
+
+ID: M6110_S0500_G0020_001_unknown
+JP: 松田洋祐です。
+EN: The name is Yosuke Matsuda.
+RU: 
+
+ID: M5091_S0070_G0130_001_secretary
+JP: 本日はお忙しいところ有難うございました。
+EN: Thank you very much for dropping by today.
+RU: 
+
+ID: M5091_S0070_G0140_001_secretary
+JP: 私共々大変楽しい時間を過ごさせて頂きました。
+EN: It has been greatly entertaining to watch you fight at peak performance.
+RU: 
+
+ID: M5091_S0070_G0150_001_secretary
+JP: こちらは、ほんの心ばかりの品ですがお納めください。
+EN: Here's a little gift for you as a token of our appreciation.
+RU: 
+
+ID: M5091_S0070_G0160_001_secretary
+JP: では、失礼させて頂きます。
+EN: See you later!
+RU: 
+
+
+-- Section 45
+
+ID: M6110_S0500_G0030_001_unknown
+JP: 私とお手合わせ願いましょう。
+EN: Let's see what you're made of, shall we?
+RU: 
+
+
+-- Section 46
+
+ID: M5091_S0070_G0120_001_secretary
+JP: 奴らは社長……最強の存在。
+EN: They are CEOs... The strongest beings on the planet.
+RU: 
+
+ID: M5091_S0070_G0180_001_secretary
+JP: 敗北は恥ではありません。
+EN: It is only natural that you lost in an incredibly humiliating way. Try not to let it get to you.
+RU: 
+
+ID: M5091_S0070_G0190_001_secretary
+JP: また、気が向いたらお声掛け下さい。
+EN: I will be here if you need me again.
+RU: 
+
+
+-- Section 47
+
+ID: M6110_S0500_G0040_001_unknown
+JP: やりますねぇ。
+EN: Not bad, kid!
+RU: 
+
+ID: M6110_S0500_G0050_001_unknown
+JP: 僕も混ぜてもらっていいですか？
+EN: Mind if I join in?
+RU: 
+
+ID: M6110_S0500_G0060_001_unknown
+JP: プラチナゲームズ代表取締役社長、
+EN: I am the President and CEO of PlatinumGames...
+RU: 
+
+ID: M6110_S0500_G0070_001_unknown
+JP: 佐藤賢一です。
+EN: Kenichi Sato!
+RU: 
+
+ID: M6110_S0500_G0080_001_unknown
+JP: いくぜぇ！
+EN: Let's get it on!
+RU: 
+
+
+-- Section 48
+
+ID: M6110_S0500_G0090_001_unknown
+JP: ふむ、そろそろ時間ですね。
+EN: Hm. I think that's about enough for today.
+RU: 
+
+ID: M6110_S0500_G0100_001_unknown
+JP: 私達、代表取締役から最後のプレゼントです。
+EN: Allow us to give you a parting gift before we leave though.
+RU: 
+
+ID: M6110_S0500_G0110_001_unknown
+JP: 受け取って下さい！
+EN: Hope you like it!
+RU: 
+
+
+-- Section 49
+
+ID: M5091_S0040_G0016_001_a2b
+JP: これは……
+EN: Huh. This is unexpected.
+RU: 
+
+ID: M5091_S0040_G0017_001_a9s
+JP: なんだ、これ……
+EN: Oh my gosh...
+RU: 
+
+ID: M5091_S0040_G0018_001_a2
+JP: これは……
+EN: ...Really?
+RU: 
+
+ID: M5091_S0040_G0019_001_n02
+JP: 助ケテ……助ケテ……
+EN: Help me... Help me...
+RU: 
+
+ID: M5091_S0040_G0020_001_resi
+JP: さ～て、次はどれにしようかな～？
+EN: Now then... Which one should I choose next?
+RU: 
+
+ID: M5091_S0040_G0030_001_n02
+JP: ヒッ……！
+EN: EEP...!
+RU: 
+
+ID: M5091_S0040_G0040_001_resi
+JP: あははっ、見て！怯えてるよ。機械生命体の癖に！最高にウケる！
+EN: Ha ha! Stupid machines. Look at 'em quaking in their boots or...whatever they have. I love it!
+RU: 
+
+ID: M5091_S0040_G0050_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5091_S0040_G0060_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M5091_S0040_G0070_001_a2
+JP: ……
+EN: ......
+RU: 
+
+ID: M5091_S0040_G0080_001_resi
+JP: ……オレは、部下を８人も機械生命体に殺された。
+EN: These little bastards killed 8 of my subordinates!
+RU: 
+
+ID: M5091_S0040_G0085_001_resi
+JP: 他の奴らも、機械生命体に大切な仲間を殺されたレジスタンスばかりだ。
+EN: Every Resistance member here lost someone important because of the machines.
+RU: 
+
+ID: M5091_S0040_G0087_001_resi
+JP: 愛する者を切り刻まれ、大切な仲間を喰われてしまった者達……
+EN: Some saw their loved ones cut to pieces, others had their friends eaten right in front of their eyes.
+RU: 
+
+ID: M5091_S0040_G0088_001_resi
+JP: ここは、そういう連中の溜り場なんだよ。
+EN: Do you blame us for getting together in a place like this?
+RU: 
+
+ID: M5091_S0040_G0090_001_resi
+JP: そうだ……こいつらを、水に沈めて壊れていくのを見ようと思ってるんだ。
+EN: I'm thinking of taking a few of these guys and dunking 'em in water. Might be fun to watch the sparks fly.
+RU: 
+
+ID: M5091_S0040_G0100_001_resi
+JP: どう？ストレス解消になると思わないか？
+EN: A little light-show might be just what the mechanic ordered...
+RU: 
+
+ID: M5091_S0040_G0110_001_resi
+JP: ね？一緒にやろうよ？
+EN: Well? You up for it?
+RU: 
+
+ID: M5091_S0040_G0120_001_a2b
+JP: ……いや、いい。
+EN: Pass.
+RU: 
+
+ID: M5091_S0040_G0130_001_a9s
+JP: ……いや、遠慮します。
+EN: N-no, I'm good, thanks.
+RU: 
+
+ID: M5091_S0040_G0140_001_a2
+JP: ……いや、いい。
+EN: No. Hell no.
+RU: 
+
+ID: M5091_S0040_G0150_001_resi
+JP: そっかぁ。残念だ。
+EN: Aw, come on! Don't be such an old lump of iron!
+RU: 
+
+ID: M5091_S0040_G0160_001_resi
+JP: でも、君らだって、コイツらを倒した時には『ヨシ、やった！』って思っただろ？
+EN: You didn't forget your bloodlust when you were trashing these guys earlier, right?
+RU: 
+
+ID: M5091_S0040_G0170_001_resi
+JP: それと同じだよ。
+EN: Well, this is the same deal.
+RU: 
+
+ID: M5091_S0040_G0180_001_resi
+JP: ここで殺すか、任務で殺すかの違いなんだけどねぇ……
+EN: Only difference is whether you kill 'em here or kill 'em on your missions, you know?
+RU: 
+
+ID: M5091_S0040_G0190_001_resi
+JP: まあいいか……どうでも……
+EN: Eh, whatever. This is wasted on you.
+RU: 
+
+
+-- Section 50
+
+ID: M5091_S0040_G0200_001_pod042
+JP: 記録：ここにいるアンドロイド達の感情の多様性。
+EN: Analysis: The androids in this arena are exhibiting unusual emotional depth.
+RU: 
+
+ID: M5091_S0040_G0210_001_pod042
+JP: 推測：人間が持つ残虐性を持ち始めている。
+EN: Hypothesis: They have begun to inherit the cruelty inherent in humanity.
+RU: 
+
+ID: M5091_S0040_G0220_001_a2b
+JP: ……そう。
+EN: ...Huh.
+RU: 
+
+ID: M5091_S0040_G0230_001_pod153
+JP: 記録：ここにいるアンドロイド達の感情の多様性。
+EN: Analysis: The androids in this arena are exhibiting unusual emotional depth.
+RU: 
+
+ID: M5091_S0040_G0240_001_pod153
+JP: 推測：人間が持つ残虐性を持ち始めている。
+EN: Hypothesis: They have begun to inherit the cruelty inherent in humanity.
+RU: 
+
+ID: M5091_S0040_G0250_001_a9s
+JP: ……僕にも、そういう面があるんだろうか。
+EN: I wonder if there's a side of me like that...
+RU: 
+
+ID: M5091_S0040_G0260_001_pod042
+JP: 記録：ここにいるアンドロイド達の感情の多様性。
+EN: Analysis: The androids in this arena are exhibiting unusual emotional depth.
+RU: 
+
+ID: M5091_S0040_G0270_001_pod042
+JP: 推測：人間が持つ残虐性を持ち始めている。
+EN: Hypothesis: They have begun to inherit the cruelty inherent in humanity.
+RU: 
+
+ID: M5091_S0040_G0280_001_a2
+JP: ……そうか。
+EN: ...I see.
+RU: 
+
+
+-- Section 51
+
+ID: M5091_S0040_G0014_001_reception
+JP: おいおい。せっかく許可出してやってるんだから見ていけよ。
+EN: Hey, come on now! I'm letting you have a look! Don't be rude!
+RU: 
+
+
+-- Section 52
+
+ID: M5091_S0030_G0070_001_roboman
+JP: スミマセン、スミマセン。
+EN: I AM SORRY. I AM SORRY.
+RU: 
+
+
+-- Section 53
+
+ID: M5091_S0030_G0085_001_andman
+JP: この機械生命体、最近バトルに出るのを嫌がるようになったんだよな……
+EN: This hunk of junk REALLY doesn't want to fight anymore for some reason...
+RU: 
+
+
+-- Section 54
+
+ID: M5091_S0030_G0600_001_andmanA
+JP: あーこんなに笑ったのは久し振りだぜ。
+EN: Har har! I haven't laughed this hard in ages!
+RU: 
+
+
+-- Section 55
+
+ID: M5091_S0030_G0610_001_andwomanA
+JP: 機械生命体に命なんてないのにバカなやつらだよ。
+EN: Can you believe these things are so dumb they think they're actually alive!?
+RU: 
+
+
+-- Section 56
+
+ID: M5091_S0030_G0620_001_robowoman
+JP: ウウ……オカアサン……
+EN: *sniff* MOTHER...
+RU: 
+
+
+-- Section 57
+
+ID: M5091_S0030_G0630_001_robowoman
+JP: 何で、何でコンナヒドイ事が出来ルノ？
+EN: HOW COULD ANYONE DO SUCH A THING?
+RU: 
+
+
+-- Section 58
+
+ID: M5091_S0030_G0640_001_andmanC
+JP: ごめんごめん、オマエの『お母さん』を修理しようとしたら壊れちゃったよ！
+EN: I took your mother apart because she needed fixin'!
+RU: 
+
+ID: M5091_S0030_G0650_001_andmanC
+JP: ま、機械生命体に母親なんていないから気にするな！
+EN: It doesn't look like I'll be able to put her back together again, though.
+RU: 
+
+
+-- Section 59
+
+ID: M5091_S0030_G0660_001_andmanC
+JP: 何だよ、その不満げな顔は？
+EN: What? What are you looking at me like that for?
+RU: 
+
+ID: M5091_S0030_G0670_001_andmanC
+JP: 用がないなら話し掛けるんじゃねーよ。
+EN: If you got nothing to say, get the hell outta my face.
+RU: 
+
+
+-- Section 60
+
+ID: M5091_S0030_G0680_001_resi
+JP: 機械生命体がお母さんとか言ってるんじゃねぇよ。
+EN: Machines crying over their "mothers"...
+RU: 
+
+ID: M5091_S0030_G0690_001_resi
+JP: 気持ち悪い。
+EN: It's bloody disgusting, is what it is.
+RU: 
+
+
+-- Section 61
+
+ID: M5091_S0030_G0700_001_resi
+JP: アンタも混ざりたいのか？
+EN: Hey, you wanna join in on the fun?
+RU: 
+
+ID: M5091_S0030_G0710_001_resi
+JP: 何だよ、違うならアッチ行きな、シッシ。
+EN: Whatever, we don't need your holier-than-thou attitude. Get outta here.
+RU: 
+
+
+-- Section 62
+
+ID: M5091_S0030_G0725_001_resi
+JP: この地獄カラ、逃げ出スンダ……
+EN: I MUST ESCAPE THIS HELL...
+RU: 
+
+
+-- Section 63
+
+ID: M5091_S0030_G0720_001_resi
+JP: いいからさっさと闘技場に出ろ。マヌケ。
+EN: Quit yer yappin' and get fightin' already, you stupid piece of junk.
+RU: 
+
+
+-- Section 64
+
+ID: M5091_S0030_G0730_001_resi
+JP: こいつらには無限の地獄を味わってもらうからな……
+EN: I want to see these bastards suffer over and over!
+RU: 
+
+
+-- Section 65
+
+ID: M5091_S0030_G0738_001_n02
+JP: ウウ……カアチャン、タスケテ……
+EN: *sniff* MOMMY... HELP ME... PLEASE...
+RU: 
+
+ID: M5091_S0030_G0740_001_n02
+JP: カアチャン……カアチャン……
+EN: MOMMY... MOMMY...
+RU: 
+
+
+-- Section 66
+
+ID: M5091_S0030_G0750_001_andmanC
+JP: 俺も新しい奴隷を探さなきゃな……
+EN: I should probably get a new machine one of these days.
+RU: 
+
+
+-- Section 67
+
+ID: M5091_S0030_G0760_001_andmanC
+JP: 次はなるべく泣き虫なヤツがいいかな。
+EN: One that cries even more, preferably.
+RU: 
+
+
+-- Section 68
+
+ID: M5091_S0030_G0770_001_andmanD
+JP: さて、次はどんな風に遊んでやるかな。
+EN: Lessee, what ordeals shall I put my little robot through next?
+RU: 
+
+
+-- Section 69
+
+ID: M5091_S0030_G0780_001_andmanD
+JP: こいつらには人様の星で暴れてくれた罪をしっかり償わせなきゃな。
+EN: It's gotta make up for screwing up the planet like this, am I right?
+RU: 
+
+

@@ -1,0 +1,65 @@
+ID: M1060_S0930_S0000_201_a9s
+JP: その子は、大きな力を持っていました。
+EN: The child held sway over enormous strength.
+RU: 
+
+ID: M1060_S0930_S0010_201_a9s
+JP: でも、その子は、少し壊れていました。
+EN: But sadly, he was also a little bit broken...
+RU: 
+
+ID: M1060_S0930_S0020_201_a9s
+JP: まわりの人を傷つけてばかりいました。
+EN: He spent his long days hurting those around him.
+RU: 
+
+ID: M1060_S0930_S0030_201_a9s
+JP: その子は、いい子になろうとがんばりました。
+EN: He tried his best to be good and kind.
+RU: 
+
+ID: M1060_S0930_S0040_201_a9s
+JP: でも、その子は、上手くいい子にはなれませんでした。
+EN: But despite his efforts, things never seemed to turn out.
+RU: 
+
+ID: M1060_S0930_S0050_201_a9s
+JP: その子は、要らない子だと言われました。
+EN: They told him he was unwanted.
+RU: 
+
+ID: M1060_S0930_S0060_201_a9s
+JP: その子は、深い海に捨てられました。
+EN: They abandoned him in the deep, dark ocean.
+RU: 
+
+ID: M1060_S0930_S0070_201_a9s
+JP: 深い海の中でその子は叫びます。
+EN: And from the cold at the bottom of the sea, he cried out...
+RU: 
+
+ID: M1060_S0930_S0080_201_a9s
+JP: おかあさん。
+EN: Mother...
+RU: 
+
+ID: M1060_S0930_S0090_201_a9s
+JP: おかあさん。
+EN: Mother...
+RU: 
+
+ID: M1060_S0930_S0100_201_a9s
+JP: おかあさん。
+EN: Mother...
+RU: 
+
+ID: M1060_S0930_S0110_201_a9s
+JP: おかあさん。
+EN: Mother...
+RU: 
+
+ID: M1060_S0930_S0120_201_a9s
+JP: その子の声が、おかあさんに届く事はありませんでした。
+EN: But his voice never reached his mother.
+RU: 
+

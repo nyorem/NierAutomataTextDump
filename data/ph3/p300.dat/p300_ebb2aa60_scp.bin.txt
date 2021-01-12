@@ -1,0 +1,18 @@
+-- Section 1
+
+ID: M3020_S0040_G0110_001_n02
+JP: 殺シて……ヤル！
+EN: I...I'll kill you!
+RU: 
+
+ID: M3020_S0040_G0120_001_a9s
+JP: ……殺してやる？
+EN: "I'll kill you?" ...Heh.
+RU: 
+
+ID: M3020_S0040_G0130_001_a9s
+JP: それは、こっちの台詞だ……
+EN: That's my line.
+RU: 
+
+

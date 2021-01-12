@@ -1,0 +1,236 @@
+-- Section 1
+
+ID: M1050_S0020_G0000_001_a9s
+JP: あのう……
+EN: Um...
+RU: 
+
+ID: M1050_S0020_G0010_001_pascal
+JP: ああ、９Ｓさんと２Ｂさん。
+EN: Oh! It's 9S and 2B, yes?
+RU: 
+
+ID: M1050_S0020_G0020_001_pascal
+JP: 先日の機械生命体の暴走は大変でしたね……
+EN: Those machines caused quite the ruckus, don't you think?
+RU: 
+
+ID: M1050_S0020_G0030_001_a2b
+JP: いくつか貴方に聞きたい事がある。
+EN: We need to talk.
+RU: 
+
+ID: M1050_S0020_G0040_001_pascal
+JP: はい。私に回答出来る事でしたら、なんなりと。
+EN: Of course. I'll help however I can.
+RU: 
+
+ID: M1050_S0020_G0050_001_sele
+JP: パスカルの平和主義について聞く。
+EN: Ask about Pascal's pacifism.
+RU: 
+
+ID: M1050_S0020_G0060_001_sele
+JP: 異星人について聞く。
+EN: Ask about the aliens.
+RU: 
+
+ID: M1050_S0020_G0070_001_sele
+JP: 他の機械生命体について聞く。
+EN: Ask about the other machines.
+RU: 
+
+ID: M1050_S0020_G0080_001_sele
+JP: 何も聞かない。
+EN: Leave.
+RU: 
+
+
+-- Section 2
+
+ID: M1050_S0040_G0090_001_pascal
+JP: はい。何でしょう？
+EN: Yes, 2B?
+RU: 
+
+ID: M1050_S0020_G0050_001_sele
+JP: パスカルの平和主義について聞く。
+EN: Ask about Pascal's pacifism.
+RU: 
+
+ID: M1050_S0020_G0060_001_sele
+JP: 異星人について聞く。
+EN: Ask about the aliens.
+RU: 
+
+ID: M1050_S0020_G0070_001_sele
+JP: 他の機械生命体について聞く。
+EN: Ask about the other machines.
+RU: 
+
+ID: M1050_S0020_G0080_001_sele
+JP: 何も聞かない。
+EN: Leave.
+RU: 
+
+
+-- Section 3
+
+ID: M1050_S0020_G0100_001_a2b
+JP: パスカル。貴方は何故戦わないの？
+EN: Pascal. Why did you choose not to fight?
+RU: 
+
+ID: M1050_S0020_G0110_001_pascal
+JP: ……私達は、何百年も生きています。
+EN: We have been alive for hundreds of years.
+RU: 
+
+ID: M1050_S0020_G0120_001_pascal
+JP: その間、何度も何度も仲間を失いました。
+EN: We lost countless friends, time and time again.
+RU: 
+
+ID: M1050_S0020_G0130_001_pascal
+JP: でも、私が怖かったのは、仲間を失う事ではありません。
+EN: But losing friends isn't what scares me.
+RU: 
+
+ID: M1050_S0020_G0140_001_pascal
+JP: 仲間が死んでしまう事に、慣れてしまっている自分が怖くなったのです。
+EN: What scares me is the fact that I've grown used to seeing those I care about die all around me.
+RU: 
+
+ID: M1050_S0020_G0150_001_pascal
+JP: だから……もう戦わない、と決めたのです。
+EN: That's why I decided I'd had enough.
+RU: 
+
+
+-- Section 4
+
+ID: M1050_S0020_G0160_001_a2b
+JP: 異星人について何か知ってる情報はある？
+EN: Do you know anything about the aliens?
+RU: 
+
+ID: M1050_S0020_G0170_001_pascal
+JP: 異星人……ですか。私達の創造主の事ですね。
+EN: The...aliens? You mean the ones who created us?
+RU: 
+
+ID: M1050_S0020_G0180_001_pascal
+JP: でもすみません。実は私はよく知らないのです。
+EN: I'm sorry. There's not much I can tell you.
+RU: 
+
+ID: M1050_S0020_G0190_001_pascal
+JP: ここ数百年、彼等からのメッセージはなく、\n私達は独立して戦っていましたから。
+EN: We've been fighting for centuries without a single message from them.
+RU: 
+
+ID: M1050_S0020_G0200_001_pascal
+JP: ……そうですね。異星人からの指令が無くなった事も、\n私達が平和主義になった理由の一つです。
+EN: I guess you could say that the fact they never give us orders anymore is also a reason why we quit fighting.
+RU: 
+
+
+-- Section 5
+
+ID: M1050_S0040_G0080_001_a2b
+JP: ……パスカル。
+EN: Pascal?
+RU: 
+
+ID: M1050_S0040_G0090_001_pascal
+JP: はい。何でしょう？
+EN: Yes, 2B?
+RU: 
+
+ID: M1050_S0040_G0100_001_a2b
+JP: この村以外に、ネットワークから切り離された機械生命体はいるの？
+EN: Aside from this village, are there any other machines that are cut off from the network?
+RU: 
+
+ID: M1050_S0040_G0110_001_pascal
+JP: この村以外ですか……
+EN: Hmm...
+RU: 
+
+ID: M1050_S0040_G0120_001_pascal
+JP: 先日、お二人に倒していただいた遊園地の歌姫がそうでしたね。
+EN: I suppose that unpleasant songstress you so kindly defeated in the amusement park wasn't part of the network.
+RU: 
+
+ID: M1050_S0040_G0130_001_a9s
+JP: 歌姫……あれが？
+EN: You mean that singing thing?
+RU: 
+
+ID: M1050_S0040_G0140_001_pascal
+JP: あ、あとは『森の国』にもいるのですが……
+EN: Oh, and of course there's the forest kingdom, but—
+RU: 
+
+ID: M1050_S0040_G0150_001_a2b
+JP: 森の国？
+EN: Forest kingdom?
+RU: 
+
+ID: M1050_S0040_G0160_001_pascal
+JP: ええ。この近くに広い森があるのですが、
+EN: Yes. It's a vast woodland area not far from here.
+RU: 
+
+ID: M1050_S0040_G0170_001_pascal
+JP: そこに機械生命体達が集まって国を作っているのです。
+EN: There's a group of machines there attempting to build a nation of sorts.
+RU: 
+
+ID: M1050_S0040_G0180_001_pascal
+JP: とても排他的なグループで、我々が近づく事も出来ません……
+EN: They're quite hostile to outsiders, however. We can't so much as go near the place.
+RU: 
+
+ID: M1050_S0040_G0190_001_a2b
+JP: 場所は？
+EN: Where is it?
+RU: 
+
+ID: M1050_S0040_G0200_001_pascal
+JP: 廃墟都市の北東にあります。
+EN: Northeast of the city ruins.
+RU: 
+
+ID: M1050_S0040_G0210_001_pascal
+JP: 大きな商業施設の廃墟から行けるはずですが……
+EN: You should be able to reach it by passing through the ruins of the commercial facility.
+RU: 
+
+ID: M1050_S0040_G0220_001_pascal
+JP: あのあたりは最近物騒なので、お気をつけください。
+EN: If you go, however, be careful. Things have been rather rough there lately.
+RU: 
+
+ID: M1050_S0040_G0230_001_a9s
+JP: 森の国……調べてみる価値はありそうですね。
+EN: This...forest kingdom sounds like something we should check out.
+RU: 
+
+
+-- Section 6
+
+ID: M1050_S0020_G0090_001_pascal
+JP: そうですか。気になる事があれば、いつでも質問してくださいね。
+EN: Okay. Let me know if there's anything you want to talk about.
+RU: 
+
+
+-- Section 7
+
+ID: M1050_S0020_G0000_300_a9s
+JP: もう少し話を聞いてみましょう。\n機械生命体について、何かわかるかもしれません。
+EN: Let's hear them out. Maybe we'll learn more about the machine lifeforms.
+RU: 
+
+

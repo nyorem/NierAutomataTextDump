@@ -1,0 +1,20 @@
+ID: M3040_S0500_H0000_001_a9s
+JP: ２Ｂのデータ……
+EN: That's 2B's data...
+RU: 
+
+ID: M3040_S0500_H0010_001_a9s
+JP: これが思い出だとしても……僕は……
+EN: I know these are just memories...but still...
+RU: 
+
+ID: M3040_S0500_H0020_001_a9s
+JP: やめろ……やめろ……
+EN: No, don't... Don't do this!
+RU: 
+
+ID: M3040_S0500_H0030_001_a9s
+JP: やめろおおおおおおぉぉッ！！
+EN: Damn it, STOOOOOOOP!
+RU: 
+

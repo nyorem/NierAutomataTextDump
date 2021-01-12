@@ -1,0 +1,106 @@
+-- Section 1
+
+ID: M3030_S0020_G0000_001_pascal
+JP: ふむ……
+EN: Hmm...
+RU: 
+
+ID: M3030_S0020_G0010_001_pascal
+JP: 『国家が終わるところではじめて、余計者ではない人間が始まる』か……
+EN: "Where the state ceaseth, there only commenceth the man who is not superfluous."
+RU: 
+
+ID: M3030_S0020_G0020_001_pascal
+JP: うーむ。
+EN: Mmmm. I see.
+RU: 
+
+ID: M3030_S0020_G0030_001_pascal
+JP: どうもこのニーチェという人間の考えは深いですね。
+EN: It seems this Nietzsche was quite the profound thinker.
+RU: 
+
+ID: M3030_S0020_G0040_001_pascal
+JP: 深すぎて、私にはまだ変人にしか見えませんが……
+EN: Or perhaps he skipped right past profound and went straight to crazy instead.
+RU: 
+
+ID: M3030_S0020_G0050_001_pascal
+JP: さて……
+EN: Ah, well. Enough of that.
+RU: 
+
+ID: M3030_S0020_G0060_001_pascal
+JP: 本だけではなく、私もこの世界を見て回らないといけませんね……
+EN: I'd best go see the world for myself instead of burying my head in books.
+RU: 
+
+
+-- Section 2
+
+ID: M3030_S0020_G0070_001_child
+JP: ねぇねぇ！パスカルーおジチゃん。あそンデー！
+EN: Uncle Pascal, Uncle Pascal! Play with us!
+RU: 
+
+ID: M3030_S0020_G0080_001_children
+JP: あそンデー！
+EN: Yeah! Come on and play!
+RU: 
+
+ID: M3030_S0020_G0090_001_pascal
+JP: おやおや。ずいぶん言葉が上手になりましたね。
+EN: Well, look at you! Your speaking has improved so much.
+RU: 
+
+ID: M3030_S0020_G0100_001_pascal
+JP: でも、まだ勉強が終わっていないじゃないですか。
+EN: But I fear you still haven't finished your studies, have you?
+RU: 
+
+ID: M3030_S0020_G0110_001_pascal
+JP: 今日は植物の図鑑を読んで覚える、って約束でしたよね？
+EN: You promised to read and memorize that botanical field guide, remember?
+RU: 
+
+ID: M3030_S0020_G0120_001_child
+JP: ジャあ、勉強が終ワッタら、アソんでクレルー？
+EN: But you'll play with us when we're done, right?
+RU: 
+
+ID: M3030_S0020_G0130_001_children
+JP: アソんでクレルー？
+EN: Yeah, promise us!
+RU: 
+
+ID: M3030_S0020_G0140_001_pascal
+JP: もちろん遊びますよ。
+EN: Of course I will! You have my word.
+RU: 
+
+ID: M3030_S0020_G0150_001_pascal
+JP: パスカルおじちゃんは、ウソをつきませんからね。
+EN: And Uncle Pascal would never lie and break his word.
+RU: 
+
+ID: M3030_S0020_G0160_001_pascal
+JP: ウソをつく子は、悪い機械生命体になっちゃいますよ？
+EN: Because children who lie grow up to be mean, evil machines!
+RU: 
+
+ID: M3030_S0020_G0170_001_child
+JP: きャー！
+EN: Aaaaah!
+RU: 
+
+ID: M3030_S0020_G0180_001_children
+JP: きャー！
+EN: Aaaaah!
+RU: 
+
+ID: M3030_S0020_G0190_001_pascal
+JP: ……ん？何でしょうか？
+EN: Hmmm? What's that?
+RU: 
+
+

@@ -1,0 +1,268 @@
+-- Section 1
+
+ID: M5910_S0100_G0155_001_pascal
+JP: …………
+EN: ...
+RU: 
+
+ID: M3030_S0100_G0060_001_select
+JP: 死んだ仲間は再生できないのか？
+EN: Can't you regenerate your dead villagers?
+RU: 
+
+ID: M3030_S0100_G0070_001_select
+JP: この工場は安全か？
+EN: Is this factory safe?
+RU: 
+
+ID: M3030_S0100_G0080_001_select
+JP: もう少し情報が欲しいな……
+EN: We really need more info...
+RU: 
+
+
+-- Section 2
+
+ID: M5910_S0100_G0155_001_pascal
+JP: …………
+EN: ...
+RU: 
+
+ID: M3030_S0100_G0070_001_select
+JP: この工場は安全か？
+EN: Is this factory safe?
+RU: 
+
+ID: M3030_S0100_G0080_001_select
+JP: もう少し情報が欲しいな……
+EN: We really need more info...
+RU: 
+
+
+-- Section 3
+
+ID: M5910_S0100_G0155_001_pascal
+JP: …………
+EN: ...
+RU: 
+
+ID: M3030_S0100_G0080_001_select
+JP: もう少し情報が欲しいな……
+EN: We really need more info...
+RU: 
+
+
+-- Section 4
+
+ID: M5910_S0100_G0155_001_pascal
+JP: …………
+EN: ...
+RU: 
+
+ID: M3030_S0100_G0060_001_select
+JP: 死んだ仲間は再生できないのか？
+EN: Can't you regenerate your dead villagers?
+RU: 
+
+ID: M3030_S0100_G0080_001_select
+JP: もう少し情報が欲しいな……
+EN: We really need more info...
+RU: 
+
+
+-- Section 5
+
+ID: M5910_S0100_G0155_001_pascal
+JP: …………
+EN: ...
+RU: 
+
+ID: M3030_S0100_G0080_001_select
+JP: もう少し情報が欲しいな……
+EN: We really need more info...
+RU: 
+
+
+-- Section 6
+
+ID: M3030_S0100_G0000_001_a2
+JP: 大丈夫か！？パスカル。
+EN: Pascal! Are you okay?
+RU: 
+
+ID: M3030_S0100_G0010_001_pascal
+JP: ああ……Ａ２さん。
+EN: Oh, A2...
+RU: 
+
+ID: M3030_S0100_G0020_001_a2
+JP: 一体何があったんだ？
+EN: So what exactly happened?
+RU: 
+
+ID: M3030_S0100_G0030_001_pascal
+JP: わかりません……いきなり一部の村人達が同じ村の仲間を\n食べ始めたのです……
+EN: I don't know. Some of the villagers just started to...feed on each other.
+RU: 
+
+ID: M3030_S0100_G0040_001_pascal
+JP: Ａ２さんが来てくださらなかったら、私達もきっと……
+EN: If you hadn't come along, I'm sure we would have met the same grim fate.
+RU: 
+
+ID: M3030_S0100_G0050_001_pascal
+JP: ありがとうございました。
+EN: Thank you.
+RU: 
+
+
+-- Section 7
+
+ID: M3030_S0100_G0090_001_pod042
+JP: 疑問：機械生命体は素材さえあれば再生出来るのではないか？
+EN: Query: We understand that machine lifeforms can regenerate as long as they possess the required materials. Is this accurate?
+RU: 
+
+ID: M3030_S0100_G0100_001_pascal
+JP: いえ……実は、私達には『コア』と呼ばれるユニットがあります。
+EN: Unfortunately, we cannot regenerate our cores.
+RU: 
+
+ID: M3030_S0100_G0110_001_pascal
+JP: このコアは自我データを形成するユニットなんですが、
+EN: Cores contain the data which forms our self-consciousness.
+RU: 
+
+ID: M3030_S0100_G0120_001_pascal
+JP: それを破壊されてしまうと元に戻る事はできません。
+EN: If one is destroyed, there is no way to restore it.
+RU: 
+
+ID: M3030_S0100_G0130_001_pascal
+JP: コアは普段は安全な場所に格納しておくのですが、
+EN: We usually store our cores in safe places,
+RU: 
+
+ID: M3030_S0100_G0140_001_pascal
+JP: 今回犠牲になった村人達はコアごと破壊されてしまっているので……
+EN: but this time, the villagers had their cores destroyed as well as their bodies.
+RU: 
+
+ID: M3030_S0100_G0150_001_a2
+JP: そうか……
+EN: I see...
+RU: 
+
+
+-- Section 8
+
+ID: M3030_S0100_G0160_001_a2
+JP: この工場は安全なのか？
+EN: So is this factory safe?
+RU: 
+
+ID: M3030_S0100_G0170_001_pascal
+JP: 以前、暴走した機械生命体が住んでいたのですが、
+EN: It was once occupied by a cadre of fellow machines that had gone berserk.
+RU: 
+
+ID: M3030_S0100_G0180_001_pascal
+JP: ２Ｂさんが撃退してくれて。
+EN: However, 2B took care of that threat.
+RU: 
+
+ID: M3030_S0100_G0190_001_pascal
+JP: 今は、安全なんです。
+EN: It is quite safe now.
+RU: 
+
+ID: M3030_S0100_G0200_001_pascal
+JP: ここしばらくは、私達が資材置き場として使っていました。
+EN: We've been using it for storage for some time.
+RU: 
+
+ID: M3030_S0100_G0210_001_a2
+JP: わかった。
+EN: All right.
+RU: 
+
+
+-- Section 9
+
+ID: M3030_S0110_G0000_001_a2
+JP: ここで籠城するにも、もう少し情報が必要だな……
+EN: Still, if we're gonna hole up here, I wish we had more info to work with...
+RU: 
+
+ID: M3030_S0110_G0010_001_pod042
+JP: 推奨：パスカル達の早急な安全確保。
+EN: Proposal: Unit A2 should secure the safety of Pascal and the children immediately.
+RU: 
+
+ID: M3030_S0110_G0020_001_a2
+JP: そんなに急がせるな……
+EN: What's the hurry?
+RU: 
+
+ID: M3030_S0110_G0030_001_pod042
+JP: 各地のポッドネットワークから情報を入手。
+EN: Haste is predicated on data obtained from the recently restored cross-regional Pod network.
+RU: 
+
+ID: M3030_S0110_G0040_001_a2
+JP: お前達に仲間がいるのか？
+EN: Wait, there's more of you?
+RU: 
+
+ID: M3030_S0110_G0050_001_pod042
+JP: 肯定。
+EN: Affirmative.
+RU: 
+
+ID: M3030_S0110_G0060_001_pod042
+JP: 本工場廃墟に多数の機械生命体が集結しているとの情報あり。
+EN: Cross-regional data reveals a large number of machine lifeforms amassing around these ruins.
+RU: 
+
+ID: M3030_S0110_G0070_001_a2
+JP: 何だって！？
+EN: What!?
+RU: 
+
+
+-- Section 10
+
+ID: M3030_S0110_G0080_001_a2
+JP: パスカルッ！
+EN: Pascal!
+RU: 
+
+ID: M3030_S0110_G0090_001_pascal
+JP: ああっ……Ａ２さん！
+EN: Aaaah! A2!
+RU: 
+
+
+-- Section 11
+
+ID: M3030_S0110_G0100_001_pod042
+JP: 敵の増援部隊、本施設への侵入を開始。
+EN: Alert: Enemy reinforcements are infiltrating the facility.
+RU: 
+
+ID: M3030_S0110_G0110_001_a2
+JP: この部屋に入られる前に、叩き潰す！
+EN: I'll smash 'em before they can reach this room.
+RU: 
+
+ID: M3030_S0110_G0120_001_pascal
+JP: わ、私も、援護します！！
+EN: You...you must let me help you!
+RU: 
+
+ID: M3030_S0110_G0121_001_pascal
+JP: あいつらを叩き潰して、ぶっ殺します！
+EN: I will smash them up and kill them!
+RU: 
+
+

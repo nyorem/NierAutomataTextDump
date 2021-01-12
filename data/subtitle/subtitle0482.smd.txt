@@ -1,0 +1,90 @@
+ID: M1060_S2000_H0000_001_a9s
+JP:  
+EN:  
+RU: 
+
+ID: M1060_S2000_H0010_001_a9s
+JP:  
+EN:  
+RU: 
+
+ID: M1060_S2000_H0020_001_op60
+JP: つ……通信途絶……
+EN: S-Signal lost...
+RU: 
+
+ID: M1060_S2000_H0030_001_cmd
+JP: 墜落したヨルハ部隊の捜索と救援部隊を編成しろっ！
+EN: Organize a search-and-rescue party for the missing YoRHa members at once!
+RU: 
+
+ID: M1060_S2000_H0040_001_cmd
+JP: ２Ｂ、９Ｓ……死ぬなよ。
+EN: 2B... 9S... Don't die on me...
+RU: 
+
+ID: M1060_S2000_H0050_001_a9s
+JP: その子は、大きな力を持っていました。
+EN: The child held sway over enormous strength.
+RU: 
+
+ID: M1060_S2000_H0060_001_a9s
+JP: でも、その子は、少し壊れていました。
+EN: But sadly, he was also a little bit broken...
+RU: 
+
+ID: M1060_S2000_H0070_001_a9s
+JP: まわりの人を傷つけてばかりいました。
+EN: He spent his long days hurting those around him.
+RU: 
+
+ID: M1060_S2000_H0080_001_a9s
+JP: その子は、いい子になろうとがんばりました。
+EN: He tried his best to be good and kind.
+RU: 
+
+ID: M1060_S2000_H0090_001_a9s
+JP: でも、その子は、上手くいい子にはなれませんでした。
+EN: But despite his efforts, things never seemed to turn out.
+RU: 
+
+ID: M1060_S2000_H0100_001_a9s
+JP: その子は、要らない子だと言われました。
+EN: They told him he was unwanted.
+RU: 
+
+ID: M1060_S2000_H0110_001_a9s
+JP: その子は、深い海に捨てられました。
+EN: They abandoned him in the deep, dark ocean.
+RU: 
+
+ID: M1060_S2000_H0120_001_a9s
+JP: 深い海の中でその子は叫びます。
+EN: And from the cold at the bottom of the sea, he cried out...
+RU: 
+
+ID: M1060_S2000_H0130_001_a9s
+JP: おかあさん。
+EN: Mother...
+RU: 
+
+ID: M1060_S2000_H0140_001_a9s
+JP: おかあさん。
+EN: Mother...
+RU: 
+
+ID: M1060_S2000_H0150_001_a9s
+JP: おかあさん。
+EN: Mother...
+RU: 
+
+ID: M1060_S2000_H0160_001_a9s
+JP: おかあさん。
+EN: Mother...
+RU: 
+
+ID: M1060_S2000_H0170_001_a9s
+JP: その子の声が、おかあさんに届く事はありませんでした。
+EN: But his voice never reached his mother.
+RU: 
+

@@ -1,0 +1,69 @@
+-- Section 1
+
+ID: M3050_S0210_G0000_001_a2
+JP: さっきの子は！？
+EN: Where'd he go!?
+RU: 
+
+ID: M3050_S0210_G0010_001_pod042
+JP: 報告：ヨルハ機体９Ｓは現在も生存。
+EN: Analysis: YoRHa unit 9S is still alive.
+RU: 
+
+ID: M3050_S0210_G0020_001_pod042
+JP: 疑問：ヨルハ部隊を裏切ったＡ２が９Ｓの状態について\n確認する理由が存在しない。
+EN: Query: Why would unit A2 be concerned with the status of unit 9S after turning on YoRHa?
+RU: 
+
+ID: M3050_S0210_G0030_001_a2
+JP: うるさいっ！
+EN: Shut up!
+RU: 
+
+
+-- Section 2
+
+ID: M3050_S0210_G0040_001_smachine
+JP: ニイちゃん！
+EN: Big brother!
+RU: 
+
+ID: M3050_S0210_G0050_001_smachine
+JP: にい……チャン！
+EN: Big...brother!
+RU: 
+
+ID: M3050_S0210_G0060_001_smachine
+JP: にいチャ……ん！
+EN: Big...brother...
+RU: 
+
+
+-- Section 3
+
+ID: M3050_S0210_G0070_001_lmachine
+JP: ソノ子達に……
+EN: My brothers...
+RU: 
+
+ID: M3050_S0210_G0080_001_lmachine
+JP: 弟達に、手ヲ出すなッ！！
+EN: Don't hurt my brothers!
+RU: 
+
+ID: M3050_S0210_G0090_001_a2
+JP: お前達が何人のアンドロイドを殺したと思ってる……
+EN: How many androids do you think you've killed...?
+RU: 
+
+ID: M3050_S0210_G0100_001_a2
+JP: そうやって、命乞いをすれば……
+EN: You think begging for your lives will help?
+RU: 
+
+ID: M3050_S0210_G0110_001_a2
+JP: 許されるとでも思ってるのか！？
+EN: You think that's going to make me forget everything!?
+RU: 
+
+

@@ -1,0 +1,88 @@
+-- Section 1
+
+ID: M1080_S0070_G0240_101_pod042
+JP: 敵本体にエネルギーシールドを確認。
+EN: Alert: Energy shield detected over enemy unit.
+RU: 
+
+ID: M1080_S0070_G0250_101_pod042
+JP: 物理防御シールドを確認
+EN: Physical defense shield detected.
+RU: 
+
+ID: M1080_S0070_G0251_101_pod042
+JP: 報告：遠距離攻撃・近接攻撃共に効果無し。
+EN: Analysis: Both long- and close-range attacks are ineffective.
+RU: 
+
+ID: M1080_S0070_G0260_101_a2b
+JP: どうすれば……
+EN: Oh, now what?
+RU: 
+
+ID: M1080_S0070_G0270_101_pod042
+JP: 本工場から大量のエネルギー供給を確認。
+EN: Large energy supply detected within this factory.
+RU: 
+
+ID: M1080_S0070_G0280_101_pod042
+JP: 推奨：エネルギー供給源の破壊。
+EN: Proposal: Energy source should be destroyed.
+RU: 
+
+
+-- Section 2
+
+ID: M1080_S0070_G0290_101_a2b
+JP: ……９Ｓ！
+EN: 9S?
+RU: 
+
+ID: M1080_S0070_G0300_101_a2b
+JP: いま遭遇してる大型機械生命体が……
+EN: That Goliath we just encountered—
+RU: 
+
+ID: M1080_S0070_G0310_101_a9s
+JP: 大丈夫です！モニターしてました。工場の電力を落とします！
+EN: I got it! I've been keeping an eye on you. I'm gonna shut off power to the factory now!
+RU: 
+
+ID: M1080_S0070_G0320_101_a2b
+JP: お願い！
+EN: Do it!
+RU: 
+
+
+-- Section 3
+
+ID: M1080_S0070_G0520_300_a9s
+JP: システム掌握率８０％！！\n２Ｂ、あと少しです！
+EN: Factory system at 80 percent control! Hang in there, 2B!
+RU: 
+
+
+-- Section 4
+
+ID: M1080_S0070_G0530_300_a9s
+JP: ９０％……９２……９５……９８……
+EN: 90 percent... 92... 95... 98...
+RU: 
+
+
+-- Section 5
+
+ID: M1080_S0070_G0330_101_a9s
+JP: 電源供給を停止させました！２Ｂ！
+EN: 2B! I just shut down the electrical grid!
+RU: 
+
+
+-- Section 6
+
+ID: M1080_S0070_G0340_101_pod042
+JP: 敵機械生命体のシールド解除を確認。
+EN: Enemy shield deactivated.
+RU: 
+
+

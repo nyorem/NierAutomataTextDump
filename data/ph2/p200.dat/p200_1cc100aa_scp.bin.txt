@@ -1,0 +1,212 @@
+-- Section 1
+
+ID: M1070_S0160_G0000_101_adam
+JP: 私は……私達、機械生命体は人類に興味があるんだ。
+EN: I—or we machine lifeforms, I suppose—have a keen interest in humanity.
+RU: 
+
+ID: M1070_S0160_G0010_101_adam
+JP: 愛や、家族……戦争や、宗教。
+EN: Love. Family. Religion. War.
+RU: 
+
+ID: M1070_S0160_G0020_101_adam
+JP: 人類の記録を読み解けば、他に例を見ない複雑さに魅了されるばかりだ。
+EN: The more human records I unearth, the more charmed I am by their complexity.
+RU: 
+
+ID: M1070_S0160_G0030_101_adam
+JP: この街も、そうした人類への渇望が生み出した場所の一つ……
+EN: This city is one of many areas I created out of a desire to understand—to know—humans.
+RU: 
+
+ID: M1070_S0160_G0040_101_adam
+JP: 君達アンドロイドの墓場にはもったいない、崇高な場所だろう！？
+EN: It's grand, don't you think? Almost...spiritual. And yet it's currently nothing more than an android graveyard!
+RU: 
+
+ID: M1070_S0160_G0050_101_adam
+JP: 私達は人類の特徴を学び！模倣する！
+EN: I seek to learn and adopt all facets of humanity!
+RU: 
+
+ID: M1070_S0160_G0060_101_adam
+JP: ある物は、愛を！そしてある者は、家族を！
+EN: Some desired love! Others family!
+RU: 
+
+ID: M1070_S0160_G0070_101_adam
+JP: ……そして、私は気づいた。
+EN: Only then did I realize the truth...
+RU: 
+
+ID: M1070_S0160_G0080_101_adam
+JP: 人類の本質は闘争……
+EN: The core of humanity...is conflict.
+RU: 
+
+ID: M1070_S0160_G0090_101_adam
+JP: 戦い、奪い、殺し合う。それが人間だ！
+EN: They fight. Steal. Kill. THIS is humanity in its purest form!
+RU: 
+
+ID: M1070_S0160_G0100_101_a2b
+JP: その口で……人類を語るなッ
+EN: You know nothing about humanity.
+RU: 
+
+ID: M1070_S0160_G0110_101_adam
+JP: クックック……崇拝する人間達の事を悪く言われて気を悪くしたか？
+EN: Have I offended you, little android? Did I speak ill of your beloved humans?
+RU: 
+
+ID: M1070_S0160_G0120_101_adam
+JP: だが、それが真実だ。
+EN: The truth can be so painful.
+RU: 
+
+ID: M1070_S0160_G0130_101_adam
+JP: 私は……人類の本質に到達したい。
+EN: I strive to attain nothing less than the essence of humanity itself.
+RU: 
+
+ID: M1070_S0160_G0140_101_adam
+JP: ネットワークに繋がれた私達機械生命体は……無敵。
+EN: We machines exist in a connected network. We are immortal. Invincible.
+RU: 
+
+ID: M1070_S0160_G0150_101_adam
+JP: だが、無限に続くデータに、生の実感はない。
+EN: And yet, within all those infinite bits of data, there exists not even the merest flicker of being. Of life.
+RU: 
+
+ID: M1070_S0160_G0160_101_adam
+JP: 死の概念を理解出来ないんだ。
+EN: Death—even the concept of death—has no meaning to us.
+RU: 
+
+
+-- Section 2
+
+ID: M1070_S0166_G0000_101_adam
+JP: その程度か！２Ｂ！
+EN: Is that all you've got, little android!?
+RU: 
+
+ID: M1070_S0166_G0010_101_adam
+JP: もっと、もっと俺を憎め！
+EN: Hate me! Despise me!
+RU: 
+
+ID: M1070_S0166_G0020_101_adam
+JP: その為に、お前たちの仲間の死体を飾っておいただろう？
+EN: Did I not festoon this area with the corpses of your friends?
+RU: 
+
+ID: M1070_S0166_G0030_101_a2b
+JP: 貴様ッ！
+EN: Bastard...
+RU: 
+
+ID: M1070_S0166_G0040_101_pod042
+JP: 警告：バイタル反応上昇。敵の挑発に注意。
+EN: Alert: Enemy provocation detected. Emotional turmoil rising.
+RU: 
+
+ID: M1070_S0166_G0050_101_a2b
+JP: わかってる！
+EN: I know!
+RU: 
+
+
+-- Section 3
+
+ID: M1070_S0166_G0060_101_a2b
+JP: お前なんかに関わってるヒマはない……
+EN: I don't have time for you...
+RU: 
+
+ID: M1070_S0166_G0070_101_a2b
+JP: ９Ｓを……９Ｓを探す！
+EN: I need...to find 9S!
+RU: 
+
+ID: M1070_S0166_G0080_101_adam
+JP: ああ……９Ｓ……
+EN: Ah, 9S...
+RU: 
+
+ID: M1070_S0166_G0090_101_adam
+JP: 
+EN: 
+RU: 
+
+ID: M1070_S0166_G0100_101_adam
+JP: 
+EN: 
+RU: 
+
+
+-- Section 4
+
+ID: M1070_S0200_G0000_101_adam
+JP: 我々は、人類に恋い焦がれる者同士……
+EN: Both our kinds share a mad love of humanity, do we not?
+RU: 
+
+ID: M1070_S0200_G0010_101_adam
+JP: 機械生命体と、アンドロイドは同類と言えるなあ？
+EN: Perhaps we're not so different after all.
+RU: 
+
+ID: M1070_S0200_G0020_101_adam
+JP: ふふふっ……
+EN: 
+RU: 
+
+ID: M1070_S0200_G0030_101_adam
+JP: だが、全ては無駄だった。
+EN: But alas, it was all in vain.
+RU: 
+
+ID: M1070_S0200_G0040_101_adam
+JP: 君も気づいているんだろう？
+EN: I'm sure you've realized it by now.
+RU: 
+
+ID: M1070_S0200_G0050_101_a2b
+JP: ……
+EN: .....
+RU: 
+
+ID: M1070_S0200_G0060_101_adam
+JP: 既に人類は、絶滅しているという事を。
+EN: The fact humanity is already...extinct?
+RU: 
+
+ID: M1070_S0200_G0070_101_a2b
+JP: うるさいッ！
+EN: Shut up!
+RU: 
+
+ID: M1070_S0200_G0080_101_pod042
+JP: 警告：敵の偽装情報。
+EN: Alert: Enemy deception detected.
+RU: 
+
+ID: M1070_S0200_G0090_101_a2b
+JP: 黙れッ！
+EN: You shut up too!
+RU: 
+
+ID: M1070_S0200_G0100_101_adam
+JP: 
+EN: 
+RU: 
+
+ID: M1070_S0200_G0110_101_adam
+JP: 
+EN: 
+RU: 
+
+

@@ -1,0 +1,430 @@
+ID: CORE_AUTO_CHIP_00
+JP: このチップは難易度EASYでのみ装備できます。
+EN: This chip can only be equipped on Easy mode.
+RU: 
+
+ID: CORE_AUTO_CHIP_01
+JP: オート操作系チップが装備されました。\n<KC_LOCKON_2>が「ロックオン」から「オートチップ効果のON/OFF」に変更されます。
+EN: Equipped auto-control chips.\n<KC_LOCKON_2> has now changed from "lock-on" to "toggle auto-control."
+RU: 
+
+ID: CORE_AUTO_CHIP_01_KEY
+JP: オート操作系チップが装備されました。\n<KC_LOCKON_2>が「ロックオン」から「オートチップ効果のON/OFF」に変更されます。
+EN: Equipped auto-control chips.\n<KC_LOCKON_2> has now changed from "lock on" to "toggle auto-play."
+RU: 
+
+ID: CORE_AUTO_CHIP_02
+JP: オート操作系チップが全て外されました。\n<KC_LOCKON_2>が「ロックオン」に変更されます。\n<KC_LOCKON_2><ICON_PLUS_2><KC_LOCK_CHANGE_2>でロックオン切替が可能です。
+EN: All auto-control chips have been removed.\nYou can now use <KC_LOCKON_2> to lock on, and <KC_LOCKON_2><ICON_PLUS_2><KC_LOCK_CHANGE_2> to switch targets.
+RU: 
+
+ID: CORE_AUTO_CHIP_98
+JP: オートアイテムチップは難易度VERY HARDでは装備出来ないため外されます。
+EN: Auto-item chips cannot be used on Very Hard mode, so they will be removed.
+RU: 
+
+ID: CORE_AUTO_CHIP_99
+JP: このチップは難易度HARD以下でのみ装備できます。
+EN: This chip can only be equipped on Hard mode or below.
+RU: 
+
+ID: CORE_CONFIG_TXT_01
+JP: テンプレートの内容を反映しますか？\nカスタマイズの内容に上書きされます。
+EN: Reflect the changes to the control scheme? This will overwrite the customized controls.
+RU: 
+
+ID: CORE_CONFIG_TXT_03
+JP: 以下のアクションがボタンに割り振られていません。\nこのままキーコンフィグを終了しますか？
+EN: The following actions are not mapped to a button.\nDo you want to proceed with this configuration anyway?
+RU: 
+
+ID: CORE_CONFIG_TXT_04
+JP: システムメニューを開くアクションが割り振られていません。\nいずれかのボタンに割り振ってください。
+EN: You must assign a button to open the system menu.
+RU: 
+
+ID: CORE_CONFIG_TXT_05
+JP: 変更内容を保存します。\nよろしいですか？
+EN: Save changes and proceed?
+RU: 
+
+ID: CORE_CONFIG_TXT_06
+JP: 「言語」と「画面」カテゴリを除く、全てのオプション項目を初期化します。よろしいですか？
+EN: This will restore all settings to their default values, except for the language and screen settings. \nAre you sure?
+RU: 
+
+ID: CORE_CONFIG_TXT_07
+JP: 初期化しました。
+EN: Default control settings restored.
+RU: 
+
+ID: CORE_CONFIG_TXT_08
+JP: 重複しているキーがあります。\n別のキーに割り当ててください。
+EN: Some buttons are overlapping. Please assign duplicates to separate buttons.
+RU: 
+
+ID: CORE_CONFIG_TXT_09
+JP: 画面設定を変更しました。\nこの内容でよろしいですか？
+EN: The screen settings have been changed.\nAre these settings okay?
+RU: 
+
+ID: CORE_CONFIG_TXT_10
+JP: カメラの設定を初期化します。\nよろしいですか？
+EN: Restore the camera settings?
+RU: 
+
+ID: CORE_CONFIG_TXT_11
+JP: ボタン割り当てを初期化します。よろしいですか？
+EN: Restore the button configuration?
+RU: 
+
+ID: CORE_CONFIG_TXT_12
+JP: キー割り当てを初期化します。よろしいですか？
+EN: Restore the key configuration?
+RU: 
+
+ID: CORE_GAMEOVER_TXT_01
+JP: タイトル画面に戻ります。\nよろしいですか？
+EN: Return to the title screen?
+RU: 
+
+ID: CORE_ITEM_NAME_000
+JP: 回復薬：小
+EN: Small Recovery
+RU: 
+
+ID: CORE_ITEM_NAME_001
+JP: 回復薬：中
+EN: Medium Recovery
+RU: 
+
+ID: CORE_ITEM_NAME_002
+JP: 回復薬：大
+EN: Large Recovery
+RU: 
+
+ID: CORE_ITEM_NAME_003
+JP: 回復薬：全
+EN: Full Recovery
+RU: 
+
+ID: CORE_ITEM_NAME_050
+JP: 耐電薬
+EN: Volt-Proof Salve
+RU: 
+
+ID: CORE_ITEM_NAME_100
+JP: 物理攻撃力UP：小
+EN: Melee Attack Up (S)
+RU: 
+
+ID: CORE_ITEM_NAME_120
+JP: 物理ダメージ軽減：小
+EN: Melee Defense Up (S)
+RU: 
+
+ID: CORE_ITEM_NAME_525
+JP: 小さな歯車
+EN: Small Gear
+RU: 
+
+ID: CORE_ITEM_NAME_530
+JP: 錆びた塊
+EN: Rusted Clump
+RU: 
+
+ID: CORE_ITEM_NAME_535
+JP: チタン合金
+EN: Titanium Alloy
+RU: 
+
+ID: CORE_ITEM_NAME_540
+JP: 壊れたゼンマイ
+EN: Broken Key
+RU: 
+
+ID: CORE_ITEM_NAME_600
+JP: 銅鉱
+EN: Copper Ore
+RU: 
+
+ID: CORE_ITEM_NAME_601
+JP: 鉄鉱
+EN: Iron Ore
+RU: 
+
+ID: CORE_ITEM_NAME_602
+JP: 銀鉱
+EN: Silver Ore
+RU: 
+
+ID: CORE_ITEM_NAME_603
+JP: 金鉱
+EN: Gold Ore
+RU: 
+
+ID: CORE_ITEM_NAME_610
+JP: 凹んだ金属板
+EN: Dented Plate
+RU: 
+
+ID: CORE_ITEM_NAME_628
+JP: 機械油
+EN: Machine Oil
+RU: 
+
+ID: CORE_ITEM_NAME_630
+JP: 溶加材
+EN: Filler Metal
+RU: 
+
+ID: CORE_ITEM_NAME_633
+JP: アンバー
+EN: Amber
+RU: 
+
+ID: CORE_ITEM_NAME_634
+JP: 天然ゴム
+EN: Natural Rubber
+RU: 
+
+ID: CORE_ITEM_NAME_635
+JP: 錆びたボルト
+EN: Rusty Bolt
+RU: 
+
+ID: CORE_ITEM_NAME_646
+JP: 壊れた回路
+EN: Broken Circuit
+RU: 
+
+ID: CORE_ITEM_NAME_680
+JP: 水晶
+EN: Crystal
+RU: 
+
+ID: CORE_KEYCONFIG_01
+JP: ロックオン（長押ししながら<KC_CAMERA_L_2><ICON_SLASH_2><KC_CAMERA_R_2>でロックオン切替）
+EN: Lock on (Hold down and press <KC_CAMERA_L_2><ICON_SLASH_2><KC_CAMERA_R_2> to switch targets)
+RU: 
+
+ID: CORE_KEYCONFIG_02
+JP: ロックオン（長押ししながら<KC_CAMERA_L_3><ICON_SLASH_3><KC_CAMERA_R_3>でロックオン切替）
+EN: Lock on (Hold down and press <KC_CAMERA_L_3><ICON_SLASH_3><KC_CAMERA_R_3> to switch targets)
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0040
+JP: 工場廃墟に潜入する。
+EN: Infiltrate the abandoned factory.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0050
+JP: 敵防衛装置の排除。
+EN: Remove the enemy's defense equipment.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0060
+JP: 超大型兵器を探し出す。
+EN: Locate the Goliath-class unit.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0070
+JP: 超大型兵器を破壊する。
+EN: Destroy the Goliath-class unit.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0080
+JP: ９Ｓの救助に向う。
+EN: Rescue 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0090
+JP: ９Ｓを防衛する。
+EN: Protect 9S.
+RU: 
+
+ID: CORE_MAP_LOADING_TXT_01
+JP: マップを読み込んでいます。
+EN: Loading map...
+RU: 
+
+ID: CORE_NAMEENTRY_TXT_01
+JP: 「<NAME>」の名前で開始します。\nよろしいですか？
+EN: Start with the name "<NAME>"?
+RU: 
+
+ID: CORE_NAMEENTRY_TXT_02
+JP: 使用出来ない語句が含まれています。\n入力し直してください。
+EN: This includes prohibited words. Please choose a new name.
+RU: 
+
+ID: CORE_NAMEENTRY_TXT_03
+JP: 使用出来ない記号(%, \, ", ')が含まれています。\n入力し直してください。
+EN: This includes prohibited symbols (%, \, ", '). Please choose a new name.
+RU: 
+
+ID: CORE_NAMEENTRY_TXT_04
+JP: 名前は2文字以上入力してください。
+EN: You must enter a name of two characters or longer.
+RU: 
+
+ID: CORE_OPTION_DIALOG_01
+JP: 本パラメーターは実験的機能のため、変更すると視覚情報に\n異常が発生する場合があります。留意の上、ご使用ください。\n\nヨルハ部隊　技術部
+EN: Parameter for experimental purposes. Changing it may lead to anomalies in your visual data.\n\nYoRHa Technology Division
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_245
+JP: HPが30%以下になると、回復アイテムを自動使用する。効能1.15倍。
+EN: Auto-use healing item if HP drops below 30%. Heals 15% more.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_335
+JP: プレイヤーのHPゲージが表示される。
+EN: Display the player's HP gauge.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_337
+JP: 敵のHPゲージとレベルが表示される。
+EN: Display enemies' levels and HP.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_338
+JP: アンドロイドの中枢システム。外すと死亡する。
+EN: An android's central system. Removal means death.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_343
+JP: ポッド・プログラムの回復時間を表すスキルゲージが表示される。
+EN: Display the skill gauge. (Shows a Pod program's cooldown time.)
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_344
+JP: テキストログが表示される。
+EN: Display the text log.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_345
+JP: ミニマップが表示される。
+EN: Display the mini-map.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_347
+JP: セーブ可能エリアにいるときアイコンが表示される。
+EN: Display an icon in areas where you can save.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_348
+JP: 敵への与ダメージ数値、自分の被ダメージ数値が表示される。
+EN: Display the values of damage dealt and received.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_349
+JP: 現在の目的地テキストが表示される。
+EN: Display text showing your current objectives.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_350
+JP: HUDを状況に応じて自動で表示してくれる。
+EN: Auto-hide HUD elements in certain situations.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_354
+JP: 近くの戦闘状態の敵に対して自動で近接攻撃を行う。
+EN: Auto-attack hostile enemies in melee range.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_355
+JP: 近くの戦闘状態の敵に対して自動で射撃を行う。
+EN: Auto-fire projectiles at nearby hostile enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_356
+JP: 敵からの攻撃を自動で回避する。
+EN: Auto-evade enemy attacks.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_357
+JP: 近くの戦闘状態の敵に対して自動でポッド・プログラムを起動する。
+EN: Auto-activate Pod programs near hostile enemies.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_358
+JP: 近接攻撃中、自動で武器を切り替える。
+EN: Auto-switch weapons when attacking at close range.
+RU: 
+
+ID: CORE_SYS_DIALOG_01
+JP: システムロード中です。
+EN: Loading system data...
+RU: 
+
+ID: CORE_SYS_DIALOG_02
+JP: システムセーブ中です。
+EN: Saving system data...
+RU: 
+
+ID: CORE_SYS_DIALOG_03
+JP: ワイヤレスコントローラーが検出できませんでした。\nプレイを再開するにはワイヤレスコントローラーを接続し直してください。
+EN: Unable to detect DUALSHOCK®4 wireless controller. Please reconnect it to resume play.
+RU: 
+
+ID: CORE_SYS_DIALOG_07
+JP: ゲームを終了して設定を反映します。\nよろしいですか？
+EN: This will close the game and apply the settings.\nIs that okay?
+RU: 
+
+ID: CORE_SYS_DIALOG_08
+JP: 必要なデータがインストールされていないためゲームを開始できません。
+EN: You cannot start this game because the required data has not been installed yet.
+RU: 
+
+ID: CORE_SYS_DIALOG_09
+JP: 必要なデータがインストールされていないためロードできません。
+EN: Loading not possible because the required data has not been installed yet.
+RU: 
+
+ID: CORE_TITLE_DIALOG_00
+JP: クリアしたデータの続きからプレイする場合は\n「Load Game」からセーブデータをロードして下さい。
+EN: To continue playing with the same save data you used to complete the game, select Continue and load that save data.
+RU: 
+
+ID: CORE_TITLE_DIALOG_01
+JP: オート操作系チップを装備しますか？\n以下のチップが装備されます。\n『オート攻撃』　『オート射撃』　『オート回避』\n『オートプログラム』　『オート武器切替』
+EN: Do you want to use auto-control chips?\nThis will equip Auto-Attack, Auto-Fire,\nAuto-Evade, Auto-Program, and \nAuto-Weapon Switch.
+RU: 
+
+ID: CORE_TITLE_DIALOG_02
+JP: オート操作系チップを装備しますか？\n※装備中のチップセットタイプは「バランス重視」に\n付け替えられます。
+EN: Do you want to use auto-control chips?\n* Your current chip set type will be changed to "Balance Focus."
+RU: 
+
+ID: CORE_TITLE_DIALOG_03
+JP: オート操作系チップを装備しますか？\n※全てのチップセットタイプが「バランス重視」に\n付け替えられます。
+EN: Do you want to use auto-control chips?\n* All of your chip set types will be changed to "Balance Focus."
+RU: 
+
+ID: CORE_TUTORIAL_0001
+JP: システムメニューでは、データ確認・装備変更・各種設定などが行えます。\n※表示されたチュートリアルはDATAタブ内で確認できます。
+EN: The System Menu allows you to check intel, change gear, adjust settings, and more.\n\n* Tutorial messages like this one can be accessed at any time from the Intel tab.
+RU: 
+
+ID: CORE_TUTORIAL_0005
+JP: 現在地周辺の地形情報が画面右下に表示されます。\n目的地アイコン <MAP_GOAL> が示す方向を目指すことで、次の目的地へ移動することができます。
+EN: The mini-map shows the geography around your current location at the bottom right of the screen. The <MAP_GOAL> icon shows your objective, so make sure to follow it if you get lost.
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0000
+JP: ■
+EN: ■ 
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0001
+JP: システムメニュー
+EN: System Menu
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0005
+JP: ミニマップ
+EN: Mini-map
+RU: 
+

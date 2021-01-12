@@ -1,0 +1,118 @@
+-- Section 1
+
+ID: M3050_S0110_G0000_001_a9s
+JP: そんな……
+EN: Oh no...
+RU: 
+
+ID: M3050_S0110_G0010_001_a9s
+JP: オペレーターモデルが……どうして……
+EN: So this Operator model is...?
+RU: 
+
+ID: M3050_S0110_G0020_001_pod153
+JP: 確認：オペレーター２１Ｏ。
+EN: Affirmative. Operator 21O.
+RU: 
+
+ID: M3050_S0110_G0030_001_pod153
+JP: 先の降下作戦時に本人希望によりＢ型に装備転換。
+EN: Volunteered to undergo Type-B equipment transition during previous descent.
+RU: 
+
+ID: M3050_S0110_G0040_001_pod153
+JP: ２１Ｂとして戦線に投入され、４時間後に消息不明の記録。
+EN: Sent to front lines as unit 21B. Recorded as missing in action four hours later.
+RU: 
+
+ID: M3050_S0110_G0050_001_a9s
+JP: そんな……
+EN: No...
+RU: 
+
+
+-- Section 2
+
+ID: M3050_S0110_G0060_001_op210
+JP: ガアアアアアアアッ！！
+EN: Aaaaugh!
+RU: 
+
+ID: M3050_S0110_G0070_001_a9s
+JP: オペレーターさん……！
+EN: Operator!
+RU: 
+
+
+-- Section 3
+
+ID: M3050_S0110_G0080_001_op210
+JP: 場所……座標データを……転送……
+EN: coordinate data......location specified......
+RU: 
+
+ID: M3050_S0110_G0090_001_op210
+JP: 作戦……行動に関係ノ無イ発言……控えてクダ……
+EN: Please keep......reserved......mission-related...
+RU: 
+
+ID: M3050_S0110_G0100_001_op210
+JP: ハイは……一回で……イイデ……
+EN: One...affirmation....will...suffice...
+RU: 
+
+ID: M3050_S0110_G0110_001_a9s
+JP: クソッ……ウウウッ……
+EN: Shit...
+RU: 
+
+
+-- Section 4
+
+ID: M3050_S0110_G0115_001_op210
+JP: カ……家族……ワタシモ……ミンナト……
+EN: A f-family...to be with...
+RU: 
+
+ID: M3050_S0110_G0120_001_op210
+JP: オネ……殺シテ……
+EN: Pl...ease...kill...
+RU: 
+
+
+-- Section 5
+
+ID: M3050_S0110_G0131_001_op210
+JP: ワタし……本当は家族ガ欲しクテ……
+EN: I...just wanted a family...
+RU: 
+
+ID: M3050_S0110_G0132_001_op210
+JP: 一人でサミシ……クテ
+EN: I was so lone...ly...
+RU: 
+
+
+-- Section 6
+
+ID: M3050_S0110_G0133_001_op210
+JP: ヨルハ機体９Ｓとイッショに……いたくて……
+EN: I wanted to be...with 9S...
+RU: 
+
+ID: M3050_S0110_G0140_001_a9s
+JP: 大丈夫……大丈夫……ッ
+EN: It's all right... It's all right...
+RU: 
+
+ID: M3050_S0110_G0150_001_a9s
+JP: 今……
+EN: Because...
+RU: 
+
+ID: M3050_S0110_G0160_001_a9s
+JP: いま……殺すからッ！！
+EN: I'm going to kill you!
+RU: 
+
+

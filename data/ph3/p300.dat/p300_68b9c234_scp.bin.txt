@@ -1,0 +1,18 @@
+-- Section 1
+
+ID: M3060_S1000_G0000_001_pod042
+JP: 警告：ハッキングにより機能低下。
+EN: Alert: Functionality reduced due to hacking activity.
+RU: 
+
+ID: M3060_S1000_G0010_001_pod042
+JP: 推奨：ヨルハ機体９Ｓの破壊。
+EN: Proposal: Destroy YoRHa unit 9S.
+RU: 
+
+ID: M3060_S1000_G0020_001_a2
+JP: ……クソッ！
+EN: Damn it!
+RU: 
+
+

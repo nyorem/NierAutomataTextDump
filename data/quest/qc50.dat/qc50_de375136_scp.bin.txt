@@ -1,0 +1,32 @@
+-- Section 1
+
+ID: M5095_S0200_G0005_001_telo
+JP: メモリ調整完了：不良率３０％
+EN: Memory adjustment complete: 30% defective.
+RU: 
+
+
+-- Section 2
+
+ID: M5095_S0200_G0015_001_telo
+JP: 運動機能　左腕　調整完了：不良率３２％
+EN: Adjustment of left arm motor functions complete: 32% defective.
+RU: 
+
+
+-- Section 3
+
+ID: M5095_S0200_G0025_001_telo
+JP: 運動機能　右腕　調整完了：不良率１１％
+EN: Adjustment of right arm motor functions complete: 11% defective.
+RU: 
+
+
+-- Section 4
+
+ID: M5095_S0200_G0035_001_telo
+JP: 思考野　調整完了：不良率６４％
+EN: Thought adjustment complete: 64% defective.
+RU: 
+
+

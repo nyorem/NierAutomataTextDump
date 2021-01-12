@@ -1,0 +1,286 @@
+-- Section 1
+
+ID: M5102_S0010_G0000_001_robomaster
+JP: ヤヤッ、お前サン達、まタまタ来なすったノカ。
+EN: How good of you to grace Father Servo with your presence once again.
+RU: 
+
+ID: M5102_S0010_G0010_001_robomaster
+JP: 殊勝な心ガケ……カンシン感心じゃ。
+EN: Such drive is admirable.
+RU: 
+
+ID: M5102_S0010_G0020_001_robomaster
+JP: ドウじゃ？我が改造の成果を味わってイクか？
+EN: Well then! Do you care to witness the glories of this latest modification?
+RU: 
+
+ID: M5102_S0010_G0030_001_sele
+JP: 改造ノ成果ヲ味わってイク。
+EN: Witness the glories.
+RU: 
+
+ID: M5102_S0010_G0040_001_sele
+JP: 改造ノ成果ヲ味わってイカナイ。
+EN: Pass on witnessing the glories.
+RU: 
+
+
+-- Section 2
+
+ID: M5102_S0010_G0050_001_robomaster
+JP: こノ間のワシとは一味も二味も違うゾイ！
+EN: The Father Servo you knew has passed from this life, my child. Behold his latest incarnation!
+RU: 
+
+
+-- Section 3
+
+ID: M5102_S0010_G0060_001_robomaster
+JP: 残念じゃ……
+EN: A pity.
+RU: 
+
+ID: M5102_S0010_G0070_001_robomaster
+JP: 気が変わったラまた来てオクレ。
+EN: Come find Father Servo if you change your mind.
+RU: 
+
+
+-- Section 4
+
+ID: M5102_S0010_G0000_300_robomaster
+JP: ドウじゃ？我が改造の成果を味わってイクか？
+EN: Care ye to taste the results of Father Servo's latest modification?
+RU: 
+
+ID: M5102_S0010_G0030_001_sele
+JP: 改造ノ成果ヲ味わってイク。
+EN: Witness the glories.
+RU: 
+
+ID: M5102_S0010_G0040_001_sele
+JP: 改造ノ成果ヲ味わってイカナイ。
+EN: Pass on witnessing the glories.
+RU: 
+
+
+-- Section 5
+
+ID: M5102_S0010_G0080_001_robomaster
+JP: オオ……ワシの強さガ怖イ……！
+EN: Such strength can only be achieved by becoming one with the universe!
+RU: 
+
+ID: M5102_S0010_G0090_001_robomaster
+JP: ホッホッホ。お前サン達、良けレバまた修行に付き合うゾイ？
+EN: If you desire to test yourself anew, Father Servo is happy to oblige.
+RU: 
+
+
+-- Section 6
+
+ID: M5102_S0010_G0030_300_robomaster
+JP: お前サン達、修行に付き合ってほしいのか？
+EN: Would you like to help Father Servo with his training?
+RU: 
+
+ID: M5102_S0010_G0040_300_sele
+JP: 修行を再開スル。
+EN: Begin anew.
+RU: 
+
+ID: M5102_S0010_G0050_300_sele
+JP: 修行を再開シナイ。
+EN: Begin nothing.
+RU: 
+
+
+-- Section 7
+
+ID: M5102_S0010_G0050_001_robomaster
+JP: こノ間のワシとは一味も二味も違うゾイ！
+EN: The Father Servo you knew has passed from this life, my child. Behold his latest incarnation!
+RU: 
+
+
+-- Section 8
+
+ID: M5102_S0010_G0060_001_robomaster
+JP: 残念じゃ……
+EN: A pity.
+RU: 
+
+ID: M5102_S0010_G0070_001_robomaster
+JP: 気が変わったラまた来てオクレ。
+EN: Come find Father Servo if you change your mind.
+RU: 
+
+
+-- Section 9
+
+ID: M5102_S0010_G0060_300_robomaster
+JP: 弱った状態では相手にならぬ。出直してくるのじゃ。
+EN: Father Servo will not waste his talents on a weakened foe! Begone!
+RU: 
+
+
+-- Section 10
+
+ID: M5102_S0010_G0100_001_robomaster
+JP: マイッタ！ヤラレタ！ココマデジャッ！
+EN: No more! Father Servo yields!
+RU: 
+
+ID: M5102_S0010_G0110_001_a9s
+JP: ……で、次は何が欲しいの？
+EN: So what do you want this time? More weird junk?
+RU: 
+
+ID: M5102_S0010_G0120_001_robomaster
+JP: オオ、話ガ早くテ助カルのう！
+EN: To business already? My my!
+RU: 
+
+ID: M5102_S0010_G0130_001_a9s
+JP: 難癖付けられる前に要望を聞いた方が、少しはマシだからね。
+EN: Figured I should get it over with and save us both some time.
+RU: 
+
+ID: M5102_S0010_G0140_001_robomaster
+JP: ホッホッホ、良く出来たアンドロイドじゃ
+EN: You're a clever one, aren't you?
+RU: 
+
+ID: M5102_S0010_G0150_001_robomaster
+JP: では、今度は『銀鉱』に『新品のネジ』、『壊れたバッテリー』を\nお願い出来ルカのう？
+EN: Well, when the heavens offer succor, it is poor form to refuse. Father Servo requires a silver ore, a pristine screw, and a broken battery.
+RU: 
+
+ID: M5102_S0010_G0160_001_a9s
+JP: ちょっと待て。前回より増えてない？
+EN: Hold on. That's more stuff than last time!
+RU: 
+
+ID: M5102_S0010_G0170_001_robomaster
+JP: ガー……ピピッ……
+EN: ERROR. ERROR. BAD FILE OR PATHWAY. BZZZZZT.
+RU: 
+
+ID: M5102_S0010_G0180_001_a9s
+JP: 壊れたフリ……
+EN: Stop it! I know you're not broken!
+RU: 
+
+ID: M5102_S0010_G0190_001_a2b
+JP: ……９Ｓ、探しに行こう。
+EN: Let's go already.
+RU: 
+
+
+-- Section 11
+
+ID: M5920_S0010_G0280_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+ID: M5920_S0020_G0280_001_pod153
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 12
+
+ID: M5920_S0010_G0240_001_pod042
+JP: 依頼されていた資材を入手。
+EN: Requested material obtained.
+RU: 
+
+ID: M5920_S0020_G0240_001_pod153
+JP: 依頼されていた資材を入手。
+EN: Requested material obtained.
+RU: 
+
+
+-- Section 13
+
+ID: M5102_S0010_G0090_300_robomaster
+JP: オオ、アイテムを持ってきてくれたんじゃな？
+EN: Have you brought the required items?
+RU: 
+
+ID: M5102_S0010_G0100_300_sele
+JP: アイテムを渡す
+EN: Surrender the items.
+RU: 
+
+ID: M5102_S0010_G0110_300_sele
+JP: アイテムを渡さない
+EN: Turn him down.
+RU: 
+
+
+-- Section 14
+
+ID: M5102_S0010_G0090_300_robomaster
+JP: オオ、アイテムを持ってきてくれたんじゃな？
+EN: Have you brought the required items?
+RU: 
+
+ID: M5102_S0010_G0100_300_sele
+JP: アイテムを渡す
+EN: Surrender the items.
+RU: 
+
+ID: M5102_S0010_G0110_300_sele
+JP: アイテムを渡さない
+EN: Turn him down.
+RU: 
+
+
+-- Section 15
+
+ID: M5102_S0010_G0200_001_robomaster
+JP: お礼ハ『銀鉱』に『新品のネジ』、『壊れたバッテリー』で良いゾ？
+EN: Father Servo needs a silver ore, a pristine screw, and a broken battery.
+RU: 
+
+
+-- Section 16
+
+ID: M5102_S0020_G0000_001_a9s
+JP: ご所望のものを持って来たよ。
+EN: We've got what you wanted. Pretty much needed a wheelbarrow to carry it all... *grumble*
+RU: 
+
+ID: M5102_S0020_G0010_001_robomaster
+JP: スマンのう。恩に着るゾイ！
+EN: Thank you, my child.
+RU: 
+
+ID: M5102_S0020_G0020_001_robomaster
+JP: これで我ガ肉体モ、もっトもットモーット強くなルゾイ！
+EN: With these items, the flesh of Father Servo will be so, so, so, so, SO powerful!
+RU: 
+
+ID: M5102_S0020_G0030_001_a9s
+JP: 今度は、こっちも手加減しないからね。
+EN: Good. Because I'm going to beat you silly next time to make up for all your stupid errands.
+RU: 
+
+
+-- Section 17
+
+ID: M5102_S0020_G0040_001_robomaster
+JP: 我が肉体改造には時間がカカル……
+EN: Er, yes. Regardless, modifying one's body is not a process accomplished quickly or without effort.
+RU: 
+
+ID: M5102_S0020_G0050_001_robomaster
+JP: 次回会う時を楽しみにしてオクが良い！
+EN: So until your next visit, farewell!
+RU: 
+
+

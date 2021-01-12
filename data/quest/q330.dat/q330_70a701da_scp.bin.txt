@@ -1,0 +1,483 @@
+-- Section 1
+
+ID: M5330_S0000_G0030_001_a2
+JP: 変わった花だな……
+EN: What a weird flower...
+RU: 
+
+ID: M5330_S0000_G0040_001_a9s
+JP: ……
+EN: ...
+RU: 
+
+
+-- Section 2
+
+ID: M5330_S0000_G0010_001_a2b
+JP: 不思議な花だ……
+EN: What an odd flower...
+RU: 
+
+ID: M5330_S0000_G0020_001_a9s
+JP: 不思議な花だ……
+EN: That's a peculiar little flower...
+RU: 
+
+
+-- Section 3
+
+ID: M5330_S0020_G0000_001_a9s
+JP: これは、月の涙……
+EN: This is a Lunar Tear, right?
+RU: 
+
+ID: M5330_S0020_G0010_001_a9s
+JP: エミールさんに知らせましょう。
+EN: We'd better let Emil know.
+RU: 
+
+ID: M5330_S0020_G0020_001_eml
+JP: はい、何でしょう。
+EN: Hey there, guys! What's up?
+RU: 
+
+ID: M5330_S0020_G0030_001_a9s
+JP: 月の涙を見つけました。場所は……
+EN: We found a Lunar Tear. It's located at—
+RU: 
+
+ID: M5330_S0020_G0040_001_eml
+JP: 今すぐ行きます！そこに居てくださいッ！
+EN: STAY RIGHT THERE! I'm coming!
+RU: 
+
+ID: M5330_S0020_G0050_001_a9s
+JP: そこに居ろって、いつまで……
+EN: Uh...okay? I hope he doesn't expect me to just stand here all da—
+RU: 
+
+ID: M5330_S0020_G0060_001_eml
+JP: お待たせしました！！！
+EN: Sorry to keep you!
+RU: 
+
+ID: M5330_S0020_G0070_001_a9s
+JP: うわっ！？
+EN: GYAAA!
+RU: 
+
+ID: M5330_S0020_G0080_001_eml
+JP: ああ……そうだ。そういえば、ここは……
+EN: Oh, hey... Now that I think about it, this whole area was once...
+RU: 
+
+ID: M5330_S0020_G0090_001_a2b
+JP: 何か思いだしたの？
+EN: Are you remembering something?
+RU: 
+
+ID: M5330_S0020_G0100_001_eml
+JP: ずっと昔……この花を保護していた記憶が断片的に残っています……
+EN: It's all pretty fuzzy, but I seem to have a memory of caring for this flower a long time ago...
+RU: 
+
+ID: M5330_S0020_G0110_001_eml
+JP: でも、どんどん砂が侵食してきて……花も、どんどん枯れていって。
+EN: But the sand kept expanding, and the flowers gradually wilted.
+RU: 
+
+ID: M5330_S0020_G0120_001_eml
+JP: そういえば……そのころから人を見かけなくなった気がします……
+EN: Now that I think about it, that was around the same time I stopped seeing people.
+RU: 
+
+ID: M5330_S0020_G0130_001_a9s
+JP: ……人間を？
+EN: You mean humans?
+RU: 
+
+
+-- Section 4
+
+ID: M5330_S0020_G0140_001_eml
+JP: 探してくれて、ありがとうございます。
+EN: Thanks a bunch for finding this. Really.
+RU: 
+
+ID: M5330_S0020_G0150_001_eml
+JP: 別の場所を見つけたら、また教えてください。
+EN: Oh, and let me know if you find any more, okay?
+RU: 
+
+ID: M5330_S0020_G0160_001_eml
+JP: 僕は……もう少し、ここにいます。
+EN: I'm gonna...stay here for a bit.
+RU: 
+
+
+-- Section 5
+
+ID: M5330_S0020_G0170_001_eml
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 6
+
+ID: M5330_S0030_G0000_001_a9s
+JP: これは、月の涙ですね。エミールさんに知らせましょう。
+EN: It's a Lunar Tear. I'd better tell Emil.
+RU: 
+
+ID: M5330_S0030_G0010_001_eml
+JP: はい、何でしょう。
+EN: Hey there! What's going on?
+RU: 
+
+ID: M5330_S0030_G0020_001_a9s
+JP: 月の涙を見つけました。場所は……
+EN: I found one of those flowers you were looking for. It's over at—
+RU: 
+
+ID: M5330_S0030_G0030_001_eml
+JP: 今すぐ行きます！そこに居てくださいッ！
+EN: DON'T MOVE AN INCH! I'm coming!
+RU: 
+
+ID: M5330_S0030_G0040_001_a9s
+JP: そこに居ろって……
+EN: Don't move? I'm actually kind of bus—
+RU: 
+
+ID: M5330_S0030_G0050_001_eml
+JP: お待たせしました！
+EN: Sorry to keep you!
+RU: 
+
+ID: M5330_S0030_G0060_001_a9s
+JP: やっぱり早ッ！？
+EN: Damn, you're fast!
+RU: 
+
+ID: M5330_S0030_G0070_001_eml
+JP: ……
+EN: ......
+RU: 
+
+ID: M5330_S0030_G0080_001_eml
+JP: ああ、そうか。ここは……
+EN: That's it. I remember now...
+RU: 
+
+ID: M5330_S0030_G0090_001_eml
+JP: 昔、エイリアンが襲来してきた時の事です。
+EN: Back when the aliens first invaded...
+RU: 
+
+ID: M5330_S0030_G0100_001_eml
+JP: 僕はここで、地球を守る為に必死になって戦いました。
+EN: I fought as hard as I could to save Earth.
+RU: 
+
+ID: M5330_S0030_G0110_001_a9s
+JP: エミールさんが？
+EN: You did?
+RU: 
+
+ID: M5330_S0030_G0120_001_eml
+JP: きっと何か……守りたい、大切な物があったんだと、思います。
+EN: I think...I had something I wanted to protect. Something really precious to me.
+RU: 
+
+ID: M5330_S0030_G0130_001_eml
+JP: でも、それが何かは判らない……
+EN: But I don't know what it was.
+RU: 
+
+ID: M5330_S0030_G0140_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 7
+
+ID: M5330_S0030_G0150_001_eml
+JP: 探してくれて、ありがとうございます。
+EN: Thank you for finding this.
+RU: 
+
+ID: M5330_S0030_G0160_001_eml
+JP: 別の場所を見つけたら、また教えてください。
+EN: You'll let me know if you find any more, right?
+RU: 
+
+ID: M5330_S0030_G0170_001_eml
+JP: ……
+EN: ......
+RU: 
+
+ID: M5330_S0030_G0180_001_eml
+JP: 僕は……もう少し、ここにいます。
+EN: I'm gonna...stay here for a bit.
+RU: 
+
+
+-- Section 8
+
+ID: M5330_S0030_G0190_001_eml
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 9
+
+ID: M5330_S0040_G0000_001_a9s
+JP: これは、月の涙ですね。エミールさんに知らせましょう。
+EN: It's a Lunar Tear. I'd better tell Emil.
+RU: 
+
+ID: M5330_S0040_G0010_001_eml
+JP: はい、何でしょう。
+EN: Hey there! What's up?
+RU: 
+
+ID: M5330_S0040_G0020_001_a9s
+JP: 月の涙を見つけ……
+EN: I found a Luna—
+RU: 
+
+ID: M5330_S0040_G0030_001_eml
+JP: 今すぐ行きます！！
+EN: I'M ON MY WAY!
+RU: 
+
+ID: M5330_S0040_G0040_001_eml
+JP: お待たせしました！
+EN: Sorry to keep you!
+RU: 
+
+ID: M5330_S0040_G0050_001_a9s
+JP: さすが……早いですね。
+EN: As speedy as always, I see.
+RU: 
+
+ID: M5330_S0040_G0060_001_eml
+JP: ……
+EN: ......
+RU: 
+
+ID: M5330_S0040_G0070_001_eml
+JP: ああ、そうか……
+EN: Oh. That's right.
+RU: 
+
+ID: M5330_S0040_G0080_001_a9s
+JP: ここでは、何があったんですか？
+EN: What happened here, Emil?
+RU: 
+
+ID: M5330_S0040_G0090_001_eml
+JP: エイリアンとの戦い。その戦況は日々悪化していきました。
+EN: I was fighting the aliens. It...wasn't going well.
+RU: 
+
+ID: M5330_S0040_G0100_001_eml
+JP: 僕は、戦闘に勝利する為に自己増殖したんです。
+EN: So I decided to create multiple versions of myself to help with the fight.
+RU: 
+
+ID: M5330_S0040_G0110_001_eml
+JP: でも、敵の数もどんどん増えて……
+EN: But the aliens just kept coming.
+RU: 
+
+ID: M5330_S0040_G0120_001_eml
+JP: 沢山の仲間が命を落としました……もう随分昔の事です。
+EN: I lost so many friends that day... It was a long time ago, but still.
+RU: 
+
+ID: M5330_S0040_G0130_001_a9s
+JP: そうですか……
+EN: Say, Emil?
+RU: 
+
+ID: M5330_S0040_G0140_001_a9s
+JP: エミールさんて、いつから生きてるんですか。
+EN: How old are you, anyway?
+RU: 
+
+ID: M5330_S0040_G0150_001_eml
+JP: よく、わかりません。戦うのに、必要のない記憶だったから……
+EN: I'm not sure. I didn't need that memory to fight.
+RU: 
+
+
+-- Section 10
+
+ID: M5330_S0040_G0160_001_eml
+JP: 探してくれて、ありがとうございます。
+EN: Thank you for finding this.
+RU: 
+
+ID: M5330_S0040_G0170_001_eml
+JP: 別の場所を見つけたら、また教えてください。
+EN: You'll let me know if you find any more, right?
+RU: 
+
+ID: M5330_S0040_G0180_001_eml
+JP: ……
+EN: ......
+RU: 
+
+ID: M5330_S0040_G0190_001_eml
+JP: 僕は……もう少し、ここにいます。
+EN: I'm gonna...stay here for a bit.
+RU: 
+
+
+-- Section 11
+
+ID: M5330_S0040_G0200_001_eml
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 12
+
+ID: M5330_S0050_G0000_001_a9s
+JP: これは、月の涙ですね。エミールさんに……
+EN: I should probably tell Emil about this Lunar Te—
+RU: 
+
+ID: M5330_S0050_G0010_001_eml
+JP: お待たせしました！
+EN: Sorry to keep you!
+RU: 
+
+ID: M5330_S0050_G0020_001_a9s
+JP: まだ伝えてすらいないのに……
+EN: I didn't even contact you yet!
+RU: 
+
+ID: M5330_S0050_G0030_001_eml
+JP: ……
+EN: ...
+RU: 
+
+ID: M5330_S0050_G0035_001_eml
+JP: …………
+EN: ......
+RU: 
+
+ID: M5330_S0050_G0040_001_a9s
+JP: エミールさん？大丈夫ですか？
+EN: Emil? Are you okay?
+RU: 
+
+ID: M5330_S0050_G0050_001_eml
+JP: 今……思い出しました……
+EN: I just remembered...
+RU: 
+
+ID: M5330_S0050_G0060_001_eml
+JP: 僕は……
+EN: I...
+RU: 
+
+ID: M5330_S0050_G0070_001_a9s
+JP: え？
+EN: Hmm?
+RU: 
+
+ID: M5330_S0050_G0080_001_eml
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 13
+
+ID: M5330_S0050_G0090_001_eml
+JP: ……探してくれて、ありがとうございます。
+EN: Thank you for finding this.
+RU: 
+
+ID: M5330_S0050_G0100_001_eml
+JP: 別の場所を見つけたら、また教えてください。
+EN: Let me know if you find any more.
+RU: 
+
+ID: M5330_S0050_G0110_001_eml
+JP: ……
+EN: ......
+RU: 
+
+ID: M5330_S0050_G0120_001_eml
+JP: 僕は……もう少し、ここにいます。
+EN: I'm going to...stay here for a bit.
+RU: 
+
+
+-- Section 14
+
+ID: M5330_S0050_G0130_001_eml
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 15
+
+ID: M5330_S0070_G0000_001_eml
+JP: ありがとうございます。おかげで、大事な場所を思い出す事が出来ました。
+EN: Thank you again. You've helped me remember an important place.
+RU: 
+
+ID: M5330_S0070_G0010_001_a9s
+JP: 大事な場所？
+EN: Oh?
+RU: 
+
+ID: M5330_S0070_G0020_001_eml
+JP: はい。それは『彼』にとって、とても大事な場所……
+EN: A place very special to him...
+RU: 
+
+ID: M5330_S0070_G0030_001_eml
+JP: お礼に、案内します。この鍵を使ってください。
+EN: In thanks, I'll tell you how to visit it. Please take this key.
+RU: 
+
+ID: M5330_S0070_G0040_001_a9s
+JP: これは……
+EN: What's it for?
+RU: 
+
+ID: M5330_S0070_G0050_001_eml
+JP: ショッピングモールにあるエレベーターの鍵です。
+EN: It'll let you access the elevator in the shopping mall.
+RU: 
+
+ID: M5330_S0070_G0060_001_eml
+JP: 後でこの場所に来てください。
+EN: You should head there whenever you have the time.
+RU: 
+
+ID: M5330_S0070_G0070_001_eml
+JP: すみません、先に向かってください。僕はもう少しここにいます。
+EN: I'm sorry. I need to stay here for a while. You go on ahead.
+RU: 
+
+
+-- Section 16
+
+ID: M5330_S0020_G0170_001_eml
+JP: ……
+EN: ......
+RU: 
+
+

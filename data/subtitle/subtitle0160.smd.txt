@@ -1,0 +1,10 @@
+ID: M0010_S0980_H0000_101_a9s
+JP: 人類に栄光あれ。
+EN: Glory to mankind.
+RU: 
+
+ID: M0010_S0980_H0010_101_a2b
+JP: ……人類に、栄光あれ。
+EN: Glory...to mankind.
+RU: 
+

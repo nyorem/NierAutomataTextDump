@@ -1,0 +1,93 @@
+-- Section 1
+
+ID: M3050_S0045_G0000_001_a2
+JP: ポッド。
+EN: Pod.
+RU: 
+
+ID: M3050_S0045_G0010_001_a2
+JP: 機械生命体が、どうして同じ種族のパスカル達を襲ったんだ？
+EN: Why did the machines attack Pascal's village? Aren't they all the same?
+RU: 
+
+ID: M3050_S0045_G0020_001_pod042
+JP: 不明。
+EN: Unknown.
+RU: 
+
+ID: M3050_S0045_G0030_001_a2
+JP: 使えないな……
+EN: Well, aren't you helpful.
+RU: 
+
+ID: M3050_S0045_G0040_001_pod042
+JP: 推奨：機械生命体の現状についてさらなる情報の収集……
+EN: Proposal: Unit A2 should gather further data on the current state of machine li—
+RU: 
+
+ID: M3050_S0045_G0050_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: 
+
+ID: M3050_S0045_G0060_001_a2
+JP: なっ！？
+EN: Huh!?
+RU: 
+
+ID: M3050_S0045_G0070_001_announce
+JP: 本日は皆様に耳寄りな情報があります！
+EN: We've got some VERY exciting news for everyone today!
+RU: 
+
+ID: M3050_S0045_G0080_001_announce
+JP: いよいよ『塔』サブユニットのロック解除があと一つとなりました。
+EN: There's only ONE lock left to remove on the Tower sub-units!
+RU: 
+
+ID: M3050_S0045_G0090_001_announce
+JP: つきましては、日頃のご愛顧に感謝し……
+EN: And in order to repay you for your faithful patronage...
+RU: 
+
+ID: M3050_S0045_G0100_001_announce
+JP: 最後のサブユニットを解除した方には……『ファイナルワン賞』として\n豪華な景品をプレゼントさせていただきます！
+EN: whoever dismantles the final sub-unit will earn a SPECIAL PRIZE!
+RU: 
+
+ID: M3050_S0045_G0110_001_announce
+JP: 皆様の挑戦をお待ちしております！
+EN: Good luck!
+RU: 
+
+ID: M3050_S0045_G0120_001_a2
+JP: 一体……
+EN: The hell was that?
+RU: 
+
+ID: M3050_S0045_G0130_001_pod042
+JP: 東の方角に機械生命体の大型ユニットの起動を確認。
+EN: Large structural unit of machine lifeform origin activated to the east.
+RU: 
+
+ID: M3050_S0045_G0140_001_a2
+JP: 大型ユニット？
+EN: A large what now?
+RU: 
+
+ID: M3050_S0045_G0150_001_a2
+JP: 一体……何が起きてるんだ？
+EN: What the heck is going on around here?
+RU: 
+
+ID: M3050_S0045_G0160_001_pod153
+JP: 不明。
+EN: Unknown.
+RU: 
+
+ID: M3050_S0045_G0170_001_a2
+JP: その『大型ユニット』って所に行くぞ。
+EN: Well, let's go check out this "large structural unit."
+RU: 
+
+

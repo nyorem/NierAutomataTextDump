@@ -1,0 +1,235 @@
+-- Section 1
+
+ID: M3040_S0090_S0000_001_a9s
+JP: また、何か書いてあるな……
+EN: There's something written here, too...
+RU: 
+
+ID: M3040_S0100_G0010_001_pod153
+JP: 『魂の箱』と記載。
+EN: It reads "soul box."
+RU: 
+
+
+-- Section 2
+
+ID: M3040_S0100_G0020_001_a9s
+JP: 敵が……いない？
+EN: ...No enemies?
+RU: 
+
+
+-- Section 3
+
+ID: M3040_S0100_G0030_001_a9s
+JP: そういう事か……
+EN: Oh, I get it.
+RU: 
+
+ID: M3040_S0100_G0040_001_a9s
+JP: システムプロテクトを解除しないとコアまで辿りつけない……
+EN: I have to break the system protection before I can reach the core.
+RU: 
+
+ID: M3040_S0100_G0050_001_a9s
+JP: そういう仕組みか。
+EN: Huh. So that's how it works.
+RU: 
+
+
+-- Section 4
+
+ID: M3040_S0100_G0060_001_a9s
+JP: 射出……あのデカイ構造物は何かの発射台なんだ……
+EN: That huge structure is some kind of launch platform.
+RU: 
+
+ID: M3040_S0100_G0070_001_a9s
+JP: あれだけの施設……宇宙に向けて……
+EN: A structure that size could probably shoot something into space pretty easily.
+RU: 
+
+ID: M3040_S0100_G0080_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M3040_S0100_G0090_001_a9s
+JP: まさか、月面の人類サーバーを狙った……大砲？
+EN: So this is some kind of cannon aimed at the human server on the moon?
+RU: 
+
+ID: M3040_S0100_G0100_001_pod153
+JP: 情報不足の為、否定も肯定も不可能。
+EN: Insufficient data. Cannot confirm or deny.
+RU: 
+
+ID: M3040_S0100_G0110_001_a9s
+JP: ……クソッ！
+EN: Damn it!
+RU: 
+
+
+-- Section 5
+
+ID: M3040_S0100_G0120_001_a9s
+JP: ヨルハ部隊のブラックボックス回路が……
+EN: The YoRHa black box circuitry...
+RU: 
+
+ID: M3040_S0100_G0130_001_a9s
+JP: 機械生命体の、コアでできてる……！？
+EN: It's made from cores from the machines?
+RU: 
+
+ID: M3040_S0100_G0140_001_a9s
+JP: そんなバカな……
+EN: That's... No.
+RU: 
+
+ID: M3040_S0100_G0150_001_a9s
+JP: そんな事、あるはず無い……
+EN: That can't be true.
+RU: 
+
+
+-- Section 6
+
+ID: M3040_S0100_G0000_300_pod153
+JP: 分析：このエレベーターは何らかの要因により制御が\nブロックされている状態。
+EN: Analysis: Access to elevator control system blocked by external factor.
+RU: 
+
+
+-- Section 7
+
+ID: M3040_S0100_G0010_300_pod153
+JP: 提案：エレベーターの制御をブロックしている装置をハッキング
+EN: Proposal: Hack into devices blocking elevator controls.
+RU: 
+
+ID: M3040_S0100_G0020_300_a9s
+JP: コレは何だろう……
+EN: What's this?
+RU: 
+
+
+-- Section 8
+
+ID: M3040_S0100_G0030_300_pod153
+JP: 分析：この階のブロック装置は２か所
+EN: Analysis: There are two blocking devices on this floor.
+RU: 
+
+ID: M3040_S0100_G0040_300_pod153
+JP: 提案：全てのブロック装置をハッキング
+EN: Proposal: Hack into all blocking devices.
+RU: 
+
+
+-- Section 9
+
+ID: M3040_S0100_G0050_300_pod153
+JP: 分析：この階のブロック装置は３か所
+EN: Analysis: There are three blocking devices on this floor.
+RU: 
+
+ID: M3040_S0100_G0060_300_a9s
+JP: わかってる、全部ハッキングすればいいんだろ
+EN: Yeah, and I hack into all of 'em, right?
+RU: 
+
+
+-- Section 10
+
+ID: M3040_S0100_G0090_300_pod153
+JP: 推測：目標達成には本エリアの調査が必要。
+EN: Hypothesis: This area should be investigated in order to meet the mission objective.
+RU: 
+
+
+-- Section 11
+
+ID: M3040_S0100_G0070_300_pod153
+JP: 確認：エレベーターの制御が全てアンロック。
+EN: All elevator controls unlocked.
+RU: 
+
+ID: M3040_S0100_G0080_300_pod153
+JP: 提案：次のエリアの調査。
+EN: Proposal: Investigate the next area.
+RU: 
+
+
+-- Section 12
+
+ID: M3040_S0100_G0100_300_announce
+JP: 機械生命体からの依頼を沢山消化した貴方に、プレゼントを進呈します！\nありがとうございました！
+EN: We have a special present for you—a token of appreciation for all the machine lifeform requests you completed!
+RU: 
+
+
+-- Section 13
+
+ID: M3040_S0100_G0110_300_announce
+JP: おめでとうございます！アンドロイドからの依頼を沢山消化した貴方に、\nプレゼントを進呈します！
+EN: Congratulations! As thanks for all the android requests you completed, we have a special present for you!
+RU: 
+
+
+-- Section 14
+
+ID: M3040_S0100_G0120_300_announce
+JP: 多数のハッキングによって、機械生命体の事を理解しようと努めた貴方に、プレゼントを進呈します！
+EN: As a reward for trying to understand machine lifeforms via frequent hacking sessions, we have a special present for you!
+RU: 
+
+
+-- Section 15
+
+ID: M3040_S0100_G0130_300_announce
+JP: 素晴らしいです！地上のあらゆるものに興味を持って採取を続けた\n貴方に、プレゼントを進呈します！
+EN: It's wonderful to see your interest in the things of this world.\nThe collection you've amassed has earned you a special present!
+RU: 
+
+
+-- Section 16
+
+ID: M3040_S0100_G0140_300_announce
+JP: おめでとうございます！何度も死んだ貴方に、プレゼントを進呈します！
+EN: Goodness! You've died an astonishing number of times.\nYou deserve a special present!
+RU: 
+
+
+-- Section 17
+
+ID: M3040_S0100_G0150_300_announce
+JP: なんという事でしょう！貴方は大変沢山の機械生命体を殺害しました！\nその努力を褒め称えます！
+EN: Oh my! Look at all the machine lifeforms you've murdered!\nSuch dogged persistence is worthy of a special present!
+RU: 
+
+
+-- Section 18
+
+ID: M3040_S0100_G0160_300_announce
+JP: なんと！アイテムの使用回数が多かった貴方に、\nプレゼントを進呈します！
+EN: Heavens, you've used a veritable mountain of items, haven't you?\nPlease have this special present as a reward!
+RU: 
+
+
+-- Section 19
+
+ID: M3040_S0100_G0170_300_announce
+JP: 死体を沢山回収したそこの貴方！とっておきのプレゼントを進呈します！
+EN: You've recovered an army's worth of corpses!\nWe have just the thing for someone like you!
+RU: 
+
+
+-- Section 20
+
+ID: M3020_S0024_G0180_001_a9s
+JP: ふざけやがって……
+EN: Now they're just messing with us...
+RU: 
+
+

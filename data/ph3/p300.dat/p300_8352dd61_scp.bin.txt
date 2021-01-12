@@ -1,0 +1,153 @@
+-- Section 1
+
+ID: M3000_S0500_G0000_001_a2b
+JP: 司令官……ッ
+EN: Commander...
+RU: 
+
+ID: M3000_S0500_G0010_001_pod042
+JP: 警告：追尾反応多数。
+EN: Alert: Multiple pursuers detected.
+RU: 
+
+ID: M3000_S0500_G0020_001_a2b
+JP: ……敵！？
+EN: Hostiles?
+RU: 
+
+ID: M3000_S0500_G0030_001_a9s
+JP: いや……違う
+EN: No... Oh no...
+RU: 
+
+ID: M3000_S0500_G0040_001_a9s
+JP: この反応は……！！
+EN: This signal, it's...
+RU: 
+
+ID: M3000_S0500_G0050_001_a2b
+JP: ヨルハ部隊！！
+EN: It's YoRHa!
+RU: 
+
+ID: M3000_S0500_G0060_001_a2b
+JP: グッ……
+EN: Ungh...
+RU: 
+
+ID: M3000_S0500_G0070_001_a9s
+JP: うああっ！！
+EN: Aaaaugh!
+RU: 
+
+ID: M3000_S0500_G0080_001_a2b
+JP: このままじゃ……
+EN: All right, enough of this shit...
+RU: 
+
+ID: M3000_S0500_G0090_001_a2b
+JP: ９Ｓ！機体制御を貸して！
+EN: 9S, I need to take over your controls!
+RU: 
+
+ID: M3000_S0500_G0100_001_a9s
+JP: えっ！？
+EN: You need to WHAT!?
+RU: 
+
+ID: M3000_S0500_G0110_001_a2b
+JP: ここを突破するッ！
+EN: I'm getting us out of here!
+RU: 
+
+ID: M3000_S0500_G0120_001_a9s
+JP: わ……わかった……
+EN: Um, o-okay...
+RU: 
+
+ID: M3000_S0500_G0130_001_pod153
+JP: 本機の機体制御権限を２Ｂに移行完了。
+EN: Flight controls transferred to unit 2B.
+RU: 
+
+ID: M3000_S0500_G0140_001_pod042
+JP: ９Ｓ搭乗機体の制御を掌握。
+EN: Flight controls established for unit 9S.
+RU: 
+
+ID: M3000_S0500_G0150_001_pod042
+JP: コース自動設定。
+EN: Setting automatic course.
+RU: 
+
+ID: M3000_S0500_G0160_001_pod042
+JP: 戦線空域からの離脱ルートに入る。
+EN: Entering escape route from combat zone.
+RU: 
+
+ID: M3000_S0500_G0170_001_a9s
+JP: ……え！ちょっと待って……何これ……
+EN: Huh? W-Wait, what are you...?
+RU: 
+
+ID: M3000_S0500_G0180_001_a9s
+JP: ダメだよ！
+EN: No!
+RU: 
+
+ID: M3000_S0500_G0190_001_a2b
+JP: ステルス機能解除！
+EN: Stealth function released!
+RU: 
+
+ID: M3000_S0500_G0200_001_pod042
+JP: ヨルハ機体２Ｂ・ステルス機能を解除。
+EN: YoRHa unit 2B's stealth function unlocked.
+RU: 
+
+ID: M3000_S0500_G0210_001_a9s
+JP: そんなッ……２Ｂ！！
+EN: Wait! ...2B!
+RU: 
+
+ID: M3000_S0500_G0220_001_a9s
+JP: ２Ｂッ！！
+EN: 2B!
+RU: 
+
+ID: M3000_S0500_G0230_001_pod042
+JP: 警告：機体ダメージ甚大。
+EN: Alert: Critical damage to flight unit.
+RU: 
+
+ID: M3000_S0500_G0240_001_pod042
+JP: 推奨：脱出。
+EN: Proposal: Eject immediately.
+RU: 
+
+ID: M3000_S0500_G0250_001_a2b
+JP: なんとか、地上に着陸しないと……
+EN: Gotta find a way to land this thing...
+RU: 
+
+ID: M3000_S0500_G0260_001_pod042
+JP: 警告：反応炉温度上昇。
+EN: Alert: Reactor core temperature rising.
+RU: 
+
+ID: M3000_S0500_G0270_001_pod042
+JP: 警告：ＦＦＣＳ、ＮＦＣＳともに反応なし。
+EN: Alert: FFCS and NFCS systems unresponsive.
+RU: 
+
+ID: M3000_S0500_G0280_001_pod042
+JP: 報告：攻撃手段を全て喪失。
+EN: Analysis: Offensive functionality lost.
+RU: 
+
+ID: M3000_S0500_G0290_001_a2b
+JP: くそっ……
+EN: God damn it...
+RU: 
+
+

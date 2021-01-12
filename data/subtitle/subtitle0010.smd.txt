@@ -1,0 +1,75 @@
+ID: M0010_S0050_H0000_101_pod042
+JP: Ho229装備大破。
+EN: Alert: Heavy damage to Ho229 flight unit.
+RU: 
+
+ID: M0010_S0050_H0010_101_pod042
+JP: 操縦系放棄。
+EN: Flight-control systems abandoned.
+RU: 
+
+ID: M0010_S0050_H0020_101_pod042
+JP: 通常通信システムダウン。
+EN: Standard comm systems down.
+RU: 
+
+ID: M0010_S0050_H0030_101_pod042
+JP: レーザー通信システム起動。
+EN: Laser comm system activated.
+RU: 
+
+ID: M0010_S0050_H0040_101_pod042
+JP: 地形把握……遠距離。
+EN: Confirming terrain...long-range.
+RU: 
+
+ID: M0010_S0050_H0050_101_pod042
+JP: ＦＣＳ移管。
+EN: Transferring FCS control.
+RU: 
+
+ID: M0010_S0050_H0060_101_pod042
+JP: ＩＭＵ移管。
+EN: Transferring IMU control.
+RU: 
+
+ID: M0010_S0050_H0070_101_pod042
+JP: ＦＦＣＳ起動。
+EN: Activating FFCS.
+RU: 
+
+ID: M0010_S0050_H0080_101_pod042
+JP: ＮＦＣＳ起動。
+EN: Activating NFCS.
+RU: 
+
+ID: M0010_S0050_H0090_101_pod042
+JP: ２Ｂバイタル再チェックシーケンス開始。
+EN: Initiating 2B vitals recheck sequence.
+RU: 
+
+ID: M0010_S0050_H0100_101_pod042
+JP: 近距離電波迷彩開始。
+EN: Initiating short-range radio-wave camouflage.
+RU: 
+
+ID: M0010_S0050_H0110_101_pod042
+JP: 近距離攻撃装備起動。
+EN: Activating short-range attack gear.
+RU: 
+
+ID: M0010_S0050_H0120_101_pod042
+JP: ２Ｂブラックボックス信号確認。
+EN: Confirming 2B black box signal.
+RU: 
+
+ID: M0010_S0050_H0130_101_pod042
+JP: 敵反応、多数確認。
+EN: Alert: Large enemy group detected.
+RU: 
+
+ID: M0010_S0050_H0140_101_a2b
+JP: 見ればわかるよ。
+EN: Yes, I'm aware of that.
+RU: 
+

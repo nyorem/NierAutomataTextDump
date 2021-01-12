@@ -1,0 +1,118 @@
+-- Section 1
+
+ID: M1030_S0120_G0241_001_pod042
+JP: 報告：この部屋の下にレジスタンスの反応多数。
+EN: Alert: Multiple Resistance members detected beneath this room.
+RU: 
+
+
+-- Section 2
+
+ID: M1030_S0210_G0000_101_a2b
+JP: 何……これ！
+EN: What the hell?
+RU: 
+
+ID: M1030_S0210_G0001_101_a9s
+JP: こんな形の機械生命体、記録にありません！
+EN: Our records don't say anything about a machine like this!
+RU: 
+
+
+-- Section 3
+
+ID: M1030_S0210_G0010_101_a9s
+JP: 敵からのハッキングです！
+EN: It's trying to hack us!
+RU: 
+
+ID: M1030_S0210_G0020_101_a9s
+JP: 電脳内でダメージを受けると機体に不具合が生じるから気をつけて！！
+EN: If we take hacking damage, it'll affect our bodies as well!
+RU: 
+
+
+-- Section 4
+
+ID: M1030_S0230_G0000_101_a2b
+JP: アンドロイドの死体を再利用して攻撃してきてる！？
+EN: Are we seriously being attacked with dead androids?
+RU: 
+
+ID: M1030_S0230_G0010_101_a9s
+JP: いや……これは……
+EN: Wait. I don't think...
+RU: 
+
+ID: M1030_S0230_G0020_101_a9s
+JP: ブラックボックス信号が確認されています！
+EN: 2B! I'm detecting black box signals!
+RU: 
+
+ID: M1030_S0230_G0030_101_a9s
+JP: 生きたまま、兵器に改造されてるんです！！
+EN: They aren't dead—they've been turned into weapons!
+RU: 
+
+ID: M1030_S0230_G0040_101_a2b
+JP: ……すぐに、終わらせる！！
+EN: All right. This ends now!
+RU: 
+
+
+-- Section 5
+
+ID: M1030_S0230_G0050_101_a9s
+JP: 敵のハッキングパターンの解析が進みました。
+EN: I've almost analyzed the enemy's hacking pattern.
+RU: 
+
+ID: M1030_S0230_G0060_101_a9s
+JP: 僕は相手に逆ハッキングを仕掛けます。
+EN: I'm going to try to hack it back.
+RU: 
+
+ID: M1030_S0230_G0070_101_a9s
+JP: 援護してください！！
+EN: Keep it busy!
+RU: 
+
+ID: M1030_S0230_G0080_101_a2b
+JP: 了解！
+EN: You got it.
+RU: 
+
+
+-- Section 6
+
+ID: M1030_S0230_G0090_101_vw
+JP: キレイになるんだ……
+EN: More...beautiful...
+RU: 
+
+ID: M1030_S0230_G0100_101_vw
+JP: キレイに……なるんだ……
+EN: More...beautiful...
+RU: 
+
+ID: M1030_S0230_G0110_101_vw
+JP: もっと……もっとキレイになる……んだ……
+EN: I must...become...more...beautiful...
+RU: 
+
+ID: M1030_S0230_G0120_101_vw
+JP: もっと……もっと……
+EN: More... More.... MORE...
+RU: 
+
+ID: M1030_S0230_G0130_101_pod042
+JP: 警告：敵の自我データによる飽和攻撃。
+EN: Alert: Saturation attack triggered by enemy consciousness data.
+RU: 
+
+ID: M1030_S0230_G0140_101_pod042
+JP: 速やかに破壊しないと記憶領域に重大なダメージの懸念あり。
+EN: Failure to destroy it quickly may lead to serious damage in memory regions.
+RU: 
+
+

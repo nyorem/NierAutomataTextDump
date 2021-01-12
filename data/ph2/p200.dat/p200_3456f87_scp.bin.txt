@@ -1,0 +1,41 @@
+-- Section 1
+
+ID: M1090_S0280_G0000_101_a2b
+JP: ハッキング中の９Ｓ本体を防衛するっ！
+EN: Protecting unit 9S while he hacks the system!
+RU: 
+
+ID: M1090_S0280_G0010_101_pod042
+JP: 敵個体が接続されているネットワークは膨大
+EN: The enemy is connected to a vast network.
+RU: 
+
+ID: M1090_S0280_G0020_101_pod042
+JP: 予測：９Ｓのハッキング成功確率は低い。
+EN: Analysis: The actions of unit 9S have an unacceptably low probability of success.
+RU: 
+
+ID: M1090_S0280_G0030_101_pod042
+JP: 推奨：９Ｓ護衛任務の放棄と……
+EN: Proposal: Unit 2B should abandon unit 9S and save—
+RU: 
+
+ID: M1090_S0280_G0040_101_a2b
+JP: うるさいっ！
+EN: Shut up!
+RU: 
+
+ID: M1090_S0280_G0050_101_a2b
+JP: ９Ｓがやれるって言ったら……やれるんだ！
+EN: If 9S says he can do it, then he will!
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0280_G0060_101_pod042
+JP: 敵個体のネットワーク機能切断を確認。
+EN: Enemy unit cut off from network functionality.
+RU: 
+
+

@@ -1,0 +1,198 @@
+-- Section 1
+
+ID: M5122_S0010_G0000_001_ane
+JP: ああ、丁度良かった。
+EN: Oh, hello. Your timing is excellent.
+RU: 
+
+ID: M5122_S0010_G0010_001_ane
+JP: 二人に、頼みたい事がある。
+EN: I need a favor from you both.
+RU: 
+
+ID: M5122_S0010_G0020_001_a9s
+JP: 何でしょう？
+EN: What is it?
+RU: 
+
+ID: M5122_S0010_G0030_001_ane
+JP: 近々森周辺の調査を再開する予定なのだが、
+EN: We're planning a recon expedition of the forest region.
+RU: 
+
+ID: M5122_S0010_G0040_001_ane
+JP: その出張キャンプの設立に力を貸して欲しい。
+EN: But before we can start, we need someone to head in there and set up a satellite camp.
+RU: 
+
+ID: M5122_S0010_G0050_001_ane
+JP: 我々では、キャンプ予定地にいる敵には歯が立たないんだ。
+EN: The enemies are tough, and I'd lose a lot of good people if we tried to clear them out. But you two seem like you can handle yourselves, so...
+RU: 
+
+ID: M5122_S0010_G0060_001_a2b
+JP: 判った。森周辺の敵を蹴散らせばいいのね？
+EN: Got it. Head to the woods and clear out any enemies.
+RU: 
+
+ID: M5122_S0010_G0070_001_ane
+JP: ああ、頼んだぞ。
+EN: That's the long and short of it, yes. Thank you.
+RU: 
+
+
+-- Section 2
+
+ID: M5920_S0060_G0210_001_a9s
+JP: 仕事とは言え、レジスタンスの皆さんのお手伝いが多いですよね。
+EN: I know it's our job and all, but these Resistance types sure do use and abuse us, don't they?
+RU: 
+
+ID: M5920_S0060_G0220_001_a9s
+JP: 雑用感があるというか、なんというか……
+EN: It's like they see us as a couple of gofers or something.
+RU: 
+
+ID: M5920_S0060_G0230_001_a2b
+JP: 仕事に文句言わない。
+EN: No complaining about your work.
+RU: 
+
+ID: M5920_S0060_G0240_001_a2b
+JP: レジスタンスと情報交換するのは重要な任務。
+EN: Exchanging information with the Resistance is a vital part of our mission.
+RU: 
+
+ID: M5920_S0060_G0250_001_a2b
+JP: それに……戦闘より雑用の方が安全。
+EN: Besides, being a gofer is safer than being locked in combat all the time.
+RU: 
+
+ID: M5920_S0060_G0260_001_a2b
+JP: 死ぬより、死なない方がいいに決まってる。
+EN: Not dying beats dying any day.
+RU: 
+
+ID: M5920_S0060_G0270_001_a9s
+JP: そう……ですね。
+EN: Yeah, that's true.
+RU: 
+
+
+-- Section 3
+
+ID: M5122_S0010_G0120_001_a9s
+JP: 周辺の危機は排除しました。お疲れ様です！
+EN: ...Looks like that's the last of them. Good work.
+RU: 
+
+ID: M5122_S0010_G0130_001_a2b
+JP: これで、レジスタンスもここにキャンプが作れる……
+EN: The Resistance should be able to set up camp now.
+RU: 
+
+ID: M5122_S0010_G0140_001_a9s
+JP: 任務終了ですね。早く報告しに行きましょう。
+EN: Right! Let's head back and give 'em the good news.
+RU: 
+
+
+-- Section 4
+
+ID: M5122_S0010_G0120_001_a9s
+JP: 周辺の危機は排除しました。お疲れ様です！
+EN: ...Looks like that's the last of them. Good work.
+RU: 
+
+ID: M5122_S0010_G0130_001_a2b
+JP: これで、レジスタンスもここにキャンプが作れる……
+EN: The Resistance should be able to set up camp now.
+RU: 
+
+ID: M5122_S0010_G0140_001_a9s
+JP: 任務終了ですね。早く報告しに行きましょう。
+EN: Right! Let's head back and give 'em the good news.
+RU: 
+
+
+-- Section 5
+
+ID: M5122_S0030_G0000_001_ane
+JP: ありがとう。君達のお蔭で森にキャンプを張る事が出来た。
+EN: Looks like we're cleared to set up in the forest. Thank you.
+RU: 
+
+ID: M5122_S0030_G0030_001_ane
+JP: また、何かあったらよろしく頼む。
+EN: I'll let you know if we need anything further.
+RU: 
+
+ID: M5123_S0010_G0000_001_ane
+JP: それにしても、やはりヨルハ部隊は強いな。我々レジスタンスとは格が違う。
+EN: Seriously, you YoRHa types are something else.
+RU: 
+
+ID: M5123_S0010_G0010_001_a9s
+JP: まあ、僕達はヨルハの最新型ですからね。Ａ２のような旧型とは——
+EN: Well, not to brag, but we ARE state-of-the-art units. Not like the A2 or those other old mode—
+RU: 
+
+ID: M5123_S0010_G0020_001_ane
+JP: ……何？
+EN: A2?
+RU: 
+
+ID: M5123_S0010_G0030_001_ane
+JP: Ａ２……アタッカー二号……？
+EN: Attacker Number 2?
+RU: 
+
+ID: M5123_S0010_G0040_001_a2b
+JP: 何か心当たりでもあるの？
+EN: You know her?
+RU: 
+
+ID: M5123_S0010_G0050_001_ane
+JP: いや……
+EN: No, not...
+RU: 
+
+ID: M5123_S0010_G0060_001_ane
+JP: ……
+EN: ......
+RU: 
+
+ID: M5123_S0010_G0070_001_ane
+JP: すまないが、もう１つ頼みを聞いてくれないか。
+EN: I'm sorry. Can I ask one more favor of you?
+RU: 
+
+ID: M5123_S0010_G0080_001_ane
+JP: その旧型ヨルハ、Ａ２の情報があれば私に教えて欲しい。
+EN: Can you give me any information you have on that old A2 YoRHa unit? Anything at all.
+RU: 
+
+ID: M5123_S0010_G0090_001_a9s
+JP: 僕達もＡ２の情報は必要ですが……どうしてですか？
+EN: That's funny—we've been trying to find more information ourselves. Why are you asking?
+RU: 
+
+ID: M5123_S0010_G0100_001_ane
+JP: ……確かめたい事があるんだ。
+EN: I just...need to be sure about something.
+RU: 
+
+
+-- Section 6
+
+ID: M5122_S0010_G0000_300_ane
+JP: すまない、今は任務に集中してくれ
+EN: Sorry, but could you focus on your mission for now?
+RU: 
+
+ID: M5122_S0010_G0010_300_ane
+JP: せっかく来てもらったのに悪いな……
+EN: I know you came here and everything, but...
+RU: 
+
+

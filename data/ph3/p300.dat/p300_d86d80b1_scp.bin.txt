@@ -1,0 +1,132 @@
+-- Section 1
+
+ID: M3060_S0034_G0190_001_pod153
+JP: ポッド１５３：了解。
+EN: Pod 153: Acknowledged.
+RU: 
+
+ID: M3060_S0034_G0200_001_pod153
+JP: ポッド１５３：残存データをアーカイブに保存完了。
+EN: Pod 153: Data saved to archive.
+RU: 
+
+
+-- Section 2
+
+ID: M3060_S0035_G0000_001_pod153
+JP: ポッド１５３：結果として、当該区域管理の失敗は、
+EN: Pod 153: "The failure to manage the area...
+RU: 
+
+ID: M3060_S0035_G0010_001_pod153
+JP: ポッド１５３：ゲシュタルトシステム全体の崩壊を引き起こし
+EN: Pod 153: "resulted in the collapse of the Gestalt System,
+RU: 
+
+ID: M3060_S0035_G0020_001_pod153
+JP: ポッド１５３：人類を破滅させる事になった。
+EN: Pod 153: "which led to the decimation of the human race."
+RU: 
+
+ID: M3060_S0035_G0030_001_pod153
+JP: ポッド１５３：以降、双子システムは
+EN: Pod 153: Due to the discovery of its instability,
+RU: 
+
+ID: M3060_S0035_G0040_001_pod153
+JP: ポッド１５３：不安定である事が確認された為、
+EN: Pod 153: the Twin System was removed
+RU: 
+
+ID: M3060_S0035_G0050_001_pod153
+JP: ポッド１５３：アンドロイド製造の仕様から削除された。
+EN: Pod 153: from future android production designs.
+RU: 
+
+ID: M3060_S0035_G0060_001_pod153
+JP: ポッド１５３：この後、デボル・ポポルモデルについては
+EN: Pod 153: Following the incident, the Devola and Popola models were not dismantled.
+RU: 
+
+ID: M3060_S0035_G0070_001_pod153
+JP: ポッド１５３：解体処分される事は無かったものの、
+EN: Pod 153: However, in order to prevent further unexpected behavior,
+RU: 
+
+ID: M3060_S0035_G0080_001_pod153
+JP: ポッド１５３：再びの暴走を防ぐ為の、記憶消去処理と、
+EN: Pod 153: they underwent a memory wipe.
+RU: 
+
+ID: M3060_S0035_G0090_001_pod153
+JP: ポッド１５３：恒常的な罪悪感の生成を義務付けられた。
+EN: Pod 153: Furthermore, they were reprogrammed to generate constant feelings of guilt.
+RU: 
+
+
+-- Section 3
+
+ID: M3060_S0036_G0000_001_pod153
+JP: ……以上が、旧時代に管理者と呼ばれた彼女達の個人記録だ。
+EN: That is all that remains from their personal record during the era in which they were referred to as administrators.
+RU: 
+
+ID: M3060_S0036_G0010_001_a9s
+JP: そう……
+EN: I see.
+RU: 
+
+ID: M3060_S0036_G0020_001_pod153
+JP: 疑問：何故、アンドロイド・デボル及びポポルは常に同時に死を選ぶのか？
+EN: Query: Why do the androids Devola and Popola seem to prefer death over surviving alone?
+RU: 
+
+ID: M3060_S0036_G0030_001_pod153
+JP: 当該状況からの単独離脱は可能であり……
+EN: There was a very high probability that at least one could have escaped.
+RU: 
+
+ID: M3060_S0036_G0040_001_a9s
+JP: 僕には……
+EN: I...
+RU: 
+
+ID: M3060_S0036_G0050_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M3060_S0036_G0060_001_a9s
+JP: ……君に、理解出来ない事を祈る。
+EN: I hope you never have to understand.
+RU: 
+
+ID: M3060_S0036_G0070_001_pod153
+JP: ……了解。
+EN: ...Affirmative.
+RU: 
+
+
+-- Section 4
+
+ID: M3060_S0034_G0150_001_pod153
+JP: ポッド１５３：報告：デボル及びポポルの残存データを確認。
+EN: Pod 153: Alert: Data records discovered for units Devola and Popola.
+RU: 
+
+ID: M3060_S0034_G0160_001_pod153
+JP: ポッド１５３：確認：データを開封するか？
+EN: Pod 153: Do you wish to open this data now?
+RU: 
+
+ID: M3060_S0034_G0170_001_sele
+JP: 今すぐ開封する。
+EN: Open it now.
+RU: 
+
+ID: M3060_S0034_G0180_001_sele
+JP: 後で開封する。
+EN: Open it later.
+RU: 
+
+

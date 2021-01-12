@@ -1,0 +1,18 @@
+-- Section 1
+
+ID: M1060_S0040_G0150_001_a9s
+JP: 司令官って、本当に人使いが荒いですよね……！
+EN: You see? Total slave driver.
+RU: 
+
+ID: M1060_S0040_G0160_001_a2b
+JP: ……そういう事が出来る人じゃないと、リーダーは務まらない。
+EN: If she didn't order others around, what kind of leader would she be?
+RU: 
+
+ID: M1060_S0040_G0170_001_a9s
+JP: ……なるほど。
+EN: Hmm... If you say so.
+RU: 
+
+

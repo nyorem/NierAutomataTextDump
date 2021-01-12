@@ -1,0 +1,439 @@
+-- Section 1
+
+ID: M5440_S0050_G0220_001_n02
+JP: オソレハモリノオウノキロクダネジャアアノゴエ\nイヘイヲタオシテクレタンダアリガトウボクハ
+EN: Oh hey ya found the record of the king of the forest gosh that's swell just really swell and I guess ya defeated his royal guard for me too huh gosh thanks
+RU: 
+
+ID: M5440_S0050_G0230_001_n02
+JP: コンナフウニチャントシャベレナインダケドヤ\nツラハソレヲリユウニボクヲサベツシテタンダ
+EN: a lot see 'cause I can't really talk so good if ya haven't noticed which maybe ya did and everyone else pretty much won't talk to me 'cause of it
+RU: 
+
+ID: M5440_S0050_G0240_001_n02
+JP: ナニガモリノクニダナニガモリノオウダアンナ\nヤツラミンナシネバイインダハッハッハアリガ
+EN: and who cares about that "forest kingdom" idea anyway and who does that dumb king think he is and all them guys are better off dead anyhow haw haw haw so thanks
+RU: 
+
+ID: M5440_S0050_G0250_001_n02
+JP: トウモリノクニノヤツラヲコロシ\nテクレテコレオレイニアゲル
+EN: again for making all them guys extra dead 'cause they were a bunch of id-jits and who gives two bolts about 'em and here take this for all yer work
+RU: 
+
+ID: M5440_S0050_G0260_001_n02
+JP: マアミロザマアミロザマアミロザマアミロザマアミ\nロザマアミロザマアミロザマアミロザマアミロザマ
+EN: cause they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had
+RU: 
+
+ID: M5440_S0050_G0270_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5440_S0050_G0280_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M5440_S0050_G0290_001_a2
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 2
+
+ID: M5440_S0050_G0260_001_n02
+JP: マアミロザマアミロザマアミロザマアミロザマアミ\nロザマアミロザマアミロザマアミロザマアミロザマ
+EN: cause they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had
+RU: 
+
+
+-- Section 3
+
+ID: M5440_S0010_G0000_001_n02
+JP: シッテルカイモリノクニノウワサヲアソコノオシロニ\nハショダイノロボットオウガノコシタザイホウガネ
+EN: Hey friend didja hear all them rumors 'bout that place with the trees and the bushes and the leaves and the castle built by the first machine king and the big ol' treasure
+RU: 
+
+ID: M5440_S0010_G0010_001_n02
+JP: ムッテイルソウダイッタイドンナザイホウナン\nダロウネイチドデイイカラミテミタイモンダ。
+EN: what's in there behind locked doors or gates or moats or whatnot and ya wonder what it could be and boy howdy I'd love to find out and see it for m'self don't ya know?
+RU: 
+
+ID: M5440_S0010_G0020_001_a2b
+JP: ……？
+EN: ...Huh.
+RU: 
+
+ID: M5440_S0010_G0030_001_pod042
+JP: 解析：『森の国に財宝がある』と主張。
+EN: Analysis: This machine lifeform believes there is treasure located in the forest kingdom.
+RU: 
+
+ID: M5440_S0010_G0040_001_pod042
+JP: 推奨：調査。
+EN: Proposal: 2B should investigate.
+RU: 
+
+ID: M5440_S0010_G0050_001_a9s
+JP: ……え？
+EN: Um, what?
+RU: 
+
+ID: M5440_S0010_G0060_001_pod153
+JP: 解析：『森の国に財宝がある』と主張。
+EN: Analysis: This machine lifeform believes there is treasure located in the forest kingdom.
+RU: 
+
+ID: M5440_S0010_G0070_001_pod153
+JP: 推奨：調査。
+EN: Proposal: 9S should investigate.
+RU: 
+
+ID: M5440_S0010_G0080_001_a2
+JP: ……え、何？
+EN: The hell was that all about?
+RU: 
+
+ID: M5440_S0010_G0090_001_pod042
+JP: 解析：『森の国に財宝がある』と主張。
+EN: Analysis: This machine lifeform believes there is treasure located in the forest kingdom.
+RU: 
+
+ID: M5440_S0010_G0100_001_pod042
+JP: 推奨：調査。
+EN: Proposal: A2 should investigate.
+RU: 
+
+
+-- Section 4
+
+ID: M5440_S0020_G0000_001_pod042
+JP: 解析：機械生命体の部品。
+EN: Analysis: This part belongs to a machine lifeform.
+RU: 
+
+ID: M5440_S0000_G0010_300_a2b
+JP: これは……必要ない。
+EN: Hmm... Don't need this.
+RU: 
+
+ID: M5440_S0000_G0020_300_a2
+JP: これは……必要なさそうだな。
+EN: This looks useless.
+RU: 
+
+ID: M5440_S0020_G0050_001_pod153
+JP: 解析：機械生命体の部品。
+EN: Analysis: This part belongs to a machine lifeform.
+RU: 
+
+ID: M5440_S0000_G0030_300_a9s
+JP: これは……必要なさそうですね。
+EN: Doesn't look like I'll need this.
+RU: 
+
+
+-- Section 5
+
+ID: M5440_S0020_G0000_001_pod042
+JP: 解析：機械生命体の部品。
+EN: Analysis: This part belongs to a machine lifeform.
+RU: 
+
+ID: M5440_S0020_G0010_001_a2b
+JP: これは……ガラクタ？
+EN: So it's junk, basically.
+RU: 
+
+ID: M5440_S0020_G0020_001_a2
+JP: ガラクタじゃないか。
+EN: Great. Useless crap.
+RU: 
+
+ID: M5440_S0020_G0030_001_pod042
+JP: 貴重なものではないが、『森の国の財宝』に関係する可能性あり。
+EN: While lacking in value, it may be connected to the supposed treasure of the forest kingdom.
+RU: 
+
+ID: M5440_S0020_G0040_001_pod042
+JP: 推奨：保管。
+EN: Proposal: It should be confiscated for safekeeping.
+RU: 
+
+ID: M5440_S0020_G0050_001_pod153
+JP: 解析：機械生命体の部品。
+EN: Analysis: This part belongs to a machine lifeform.
+RU: 
+
+ID: M5440_S0020_G0060_001_a2b
+JP: これは……ガラクタ？
+EN: So it's just a bunch of junk?
+RU: 
+
+ID: M5440_S0020_G0070_001_pod153
+JP: 貴重なものではないが、『森の国の財宝』に関係する可能性あり。
+EN: While lacking in value, it may be connected to the supposed treasure of the forest kingdom.
+RU: 
+
+ID: M5440_S0020_G0080_001_pod153
+JP: 推奨：保管。
+EN: Proposal: It should be confiscated for safekeeping.
+RU: 
+
+
+-- Section 6
+
+ID: M5440_S0030_G0060_001_pod042
+JP: 報告：機械生命体のパーツ形状が組み合わせ可能。
+EN: Analysis: Machine lifeform parts can be assembled in some fashion.
+RU: 
+
+ID: M5440_S0030_G0070_001_pod042
+JP: 解析開始：……………………
+EN: Processing....
+RU: 
+
+ID: M5440_S0030_G0080_001_pod042
+JP: 解析中：……………………
+EN: Processing...
+RU: 
+
+ID: M5440_S0030_G0090_001_pod042
+JP: 解析完了：取得された機械生命体の部品を組み合わせる事で\n何かの鍵となる。
+EN: Processing complete. Machine lifeform parts can be assembled into a key.
+RU: 
+
+ID: M5440_S0030_G0100_001_pod153
+JP: 報告：機械生命体のパーツ形状が組み合わせ可能。
+EN: Analysis: Machine lifeform parts can be assembled in some fashion.
+RU: 
+
+ID: M5440_S0030_G0110_001_pod153
+JP: 解析開始：……………………
+EN: Processing...
+RU: 
+
+ID: M5440_S0030_G0120_001_pod153
+JP: 解析中：……………………
+EN: Processing...
+RU: 
+
+ID: M5440_S0030_G0130_001_pod153
+JP: 解析完了：取得された機械生命体の部品を組み合わせる事で\n何かの鍵となる。
+EN: Processing complete. Machine lifeform parts can be assembled into a key.
+RU: 
+
+
+-- Section 7
+
+ID: M5440_S0030_G0140_001_pod042
+JP: 提案：鍵の合う扉を探す。
+EN: Proposal: Initiate search for a door that matches the key.
+RU: 
+
+ID: M5440_S0030_G0150_001_pod153
+JP: 提案：鍵の合う扉を探す。
+EN: Proposal: Initiate search for a door that matches the key.
+RU: 
+
+
+-- Section 8
+
+ID: M5440_S0030_G0160_001_pod042
+JP: 予測：蔵書室とおぼしき場所の扉の鍵。
+EN: Hypothesis: The key belongs to a door leading to what appears to be a library.
+RU: 
+
+ID: M5440_S0030_G0170_001_pod042
+JP: マップにマーク。
+EN: Marking location on map.
+RU: 
+
+ID: M5440_S0030_G0180_001_a2b
+JP: 蔵書室……あの縦長の場所か。
+EN: A library? Must be that long, narrow room.
+RU: 
+
+ID: M5440_S0030_G0190_001_a2
+JP: 蔵書室……？
+EN: A library?
+RU: 
+
+ID: M5440_S0030_G0200_001_pod153
+JP: 予測：蔵書室とおぼしき場所の扉の鍵。
+EN: Hypothesis: The key belongs to a door leading to what appears to be a library.
+RU: 
+
+ID: M5440_S0030_G0210_001_pod153
+JP: マップにマーク。
+EN: Marking location on map.
+RU: 
+
+
+-- Section 9
+
+ID: M5440_S0030_G0000_001_pod042
+JP: 鍵穴を確認。適応する鍵が必要。
+EN: Keyhole detected. A corresponding key will likely be required.
+RU: 
+
+ID: M5440_S0030_G0020_001_pod153
+JP: 鍵穴を確認。適応する鍵が必要。
+EN: Keyhole detected. A corresponding key will likely be required.
+RU: 
+
+
+-- Section 10
+
+ID: M5440_S0030_G0000_001_pod042
+JP: 鍵穴を確認。適応する鍵が必要。
+EN: Keyhole detected. A corresponding key will likely be required.
+RU: 
+
+ID: M5440_S0030_G0010_001_a2b
+JP: 鍵……
+EN: Makes sense.
+RU: 
+
+ID: M5440_S0030_G0020_001_pod153
+JP: 鍵穴を確認。適応する鍵が必要。
+EN: Keyhole detected. A corresponding key will likely be required.
+RU: 
+
+ID: M5440_S0030_G0030_001_a9s
+JP: 鍵か……
+EN: A key, huh?
+RU: 
+
+ID: M5440_S0030_G0040_001_pod042
+JP: 鍵穴を確認。適応する鍵が必要。
+EN: Keyhole detected. A corresponding key will likely be required.
+RU: 
+
+ID: M5440_S0030_G0050_001_a2
+JP: 鍵か……
+EN: You don't say.
+RU: 
+
+
+-- Section 11
+
+ID: M5440_S0050_G0000_001_n02
+JP: オ……ウ……
+EN: The...king...
+RU: 
+
+ID: M5440_S0050_G0010_001_n02
+JP: オ……ウノ……ハカ……マ……モル……
+EN: Protect...the grave...of the king...
+RU: 
+
+ID: M5440_S0050_G0020_001_n02
+JP: シンニュウ……シャ、ハッケン。
+EN: Intruder...detected...
+RU: 
+
+ID: M5440_S0050_G0030_001_n02
+JP: ハイジョ……ハイジョ、ハイジョハイジョ！！
+EN: Eliminate intruder! Eliminate intruder!
+RU: 
+
+
+-- Section 12
+
+ID: M5440_S0050_G0040_001_a2b
+JP: これは……
+EN: What's this?
+RU: 
+
+ID: M5440_S0050_G0050_001_a9s
+JP: これは……
+EN: What's this?
+RU: 
+
+ID: M5440_S0050_G0060_001_a2
+JP: これは……
+EN: What's this?
+RU: 
+
+
+-- Section 13
+
+ID: M5440_S0050_G0070_001_a2b
+JP: 何か書いてある……
+EN: Some kind of writing...
+RU: 
+
+ID: M5440_S0050_G0080_001_pod042
+JP: 『我ら森の王、ここに眠る』と記載。
+EN: It reads: "Here lies the king of our forest."
+RU: 
+
+ID: M5440_S0050_G0090_001_pod042
+JP: 記録メディアを発見。
+EN: Alert: Storage media found.
+RU: 
+
+ID: M5440_S0050_G0100_001_pod042
+JP: データ化及び保存完了。
+EN: Digitization and saving complete.
+RU: 
+
+ID: M5440_S0050_G0120_001_a9s
+JP: 何か書いてある……
+EN: Some kind of writing...
+RU: 
+
+ID: M5440_S0050_G0130_001_pod153
+JP: 『我ら森の王、ここに眠る』と記載。
+EN: It reads: "Here lies the king of our forest."
+RU: 
+
+ID: M5440_S0050_G0140_001_pod153
+JP: 記録メディアを発見。
+EN: Alert: Storage media found.
+RU: 
+
+ID: M5440_S0050_G0150_001_pod153
+JP: データ化及び保存完了。
+EN: Digitization and saving complete.
+RU: 
+
+ID: M5440_S0050_G0170_001_a2
+JP: 何か書いてあるな……
+EN: Some kind of writing...
+RU: 
+
+ID: M5440_S0050_G0180_001_pod042
+JP: 『我ら森の王、ここに眠る』と記載。
+EN: It reads: "Here lies the king of our forest."
+RU: 
+
+ID: M5440_S0050_G0190_001_pod042
+JP: 記録メディアを発見。
+EN: Alert: Storage media found.
+RU: 
+
+ID: M5440_S0050_G0200_001_pod042
+JP: データ化及び保存完了。
+EN: Digitization and saving complete.
+RU: 
+
+ID: M5440_S0050_G0110_001_a2b
+JP: これが……財宝？
+EN: Is this the treasure?
+RU: 
+
+ID: M5440_S0050_G0160_001_a9s
+JP: これが……財宝？
+EN: Wait. So is this the treasure?
+RU: 
+
+ID: M5440_S0050_G0210_001_a2
+JP: これが……財宝？
+EN: So is this the treasure or what?
+RU: 
+
+

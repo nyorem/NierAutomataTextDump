@@ -1,0 +1,391 @@
+-- Section 1
+
+ID: M6010_S0090_G0610_300_op
+JP: このチーム、ちょっと成長した気がするわ。\nそろそろ私の手を離れてもいい頃かも。
+EN: I feel like this team's grown a lot. They probably won't even need my help soon.
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0090_G0620_300_op
+JP: このチームはもう安心ね。
+EN: Yep. This team is going to be fine without me.
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0100_G0550_300_op
+JP: 後は、祈るだけね。
+EN: All we can do now is hope.
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0100_G0560_300_op
+JP: 人類に栄光あれ。
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 5
+
+ID: M6010_S0090_G0400_300_op
+JP: 最近、彼女聞き分けが良くなって、大変仕事がしやすくなったんです。
+EN: She's been picking things up quickly lately. It makes my job a lot easier!
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0090_G0410_300_op
+JP: 前から思っていましたが、やれば出来るんですよ。彼女は。
+EN: She really can do anything if she puts her mind to it.
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0100_G0380_300_op
+JP: 私の出来ることはやりました。\nあとは彼女がどこまでやれるかです。
+EN: I've done my part. Now it's in her hands.
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0100_G0390_300_op
+JP: 客観的に見て、私達いいコンビだと思います。
+EN: ...You know what? We make a pretty darn good team!
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0090_G0420_300_op
+JP: はぁ……今まで私の発言は雑音扱いだったんですって……\nまぁ、これからは大丈夫らしいからいいんだけど。
+EN: I guess my voice was being processed as static or something? I don't really get the details—I'm just glad it's solved.
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0090_G0430_300_op
+JP: 根はいい子だから、気長に付き合っていくとするわ。
+EN: Her heart's always been in the right place regardless, so I'm happy I stuck with it.
+RU: 
+
+
+-- Section 11
+
+ID: M6010_S0100_G0400_300_op
+JP: 持てる情報は全て彼女に渡しました。\nやれるはずです。
+EN: I've given her all the information I have. Now it's up to her.
+RU: 
+
+
+-- Section 12
+
+ID: M6010_S0100_G0410_300_op
+JP: どれだけやれるか、楽しみです。
+EN: I know she can do it... I know it!
+RU: 
+
+
+-- Section 13
+
+ID: M6010_S0090_G0460_300_op
+JP: 彼が完璧な状態なら、イヴだろうが何だろうが一撃だったんですがね……\nでもまぁ、結果オーライですね！
+EN: If she was in perfect condition, she would have taken Eve or anyone else down in one hit! Still, it's the end result that counts.
+RU: 
+
+
+-- Section 14
+
+ID: M6010_S0090_G0470_300_op
+JP: 次の出撃にはちゃんと調整して間に合わせてあげますからね！
+EN: We'll make sure she's ready for the next attack!
+RU: 
+
+
+-- Section 15
+
+ID: M6010_S0100_G0430_300_op
+JP: うーん、この数値が良くないんですよねぇ……
+EN: Uh-oh... These readings don't look good...
+RU: 
+
+
+-- Section 16
+
+ID: M6010_S0100_G0440_300_op
+JP: 健闘を祈ります。
+EN: Good luck.
+RU: 
+
+
+-- Section 17
+
+ID: M6010_S0090_G0320_300_ys
+JP: ……あ、ちょっとまってくれ、２Ｂが来た……
+EN: Oh, hold on a second, 2B's here...
+RU: 
+
+
+-- Section 18
+
+ID: M6010_S0090_G0330_300_ys
+JP: ほら、お前もやることあるんだろ？行った行った。
+EN: Hey, don't you have something to do? Get the lead out!
+RU: 
+
+
+-- Section 19
+
+ID: M6010_S0100_G0320_300_ys
+JP: ……すまん、邪魔が入った……
+EN: ...Sorry, someone needs to speak with me.
+RU: 
+
+
+-- Section 20
+
+ID: M6010_S0100_G0330_300_ys
+JP: 私も後で行く。心配するな、先へ行けよ。
+EN: Just get going, okay? I'll be right behind you.
+RU: 
+
+
+-- Section 21
+
+ID: M6010_S0090_G0340_300_ys
+JP: ……ヤツのコツが分かったよ。とりあえず全部喋らせて疑問点だけ質問する。\nこれがベストだ。
+EN: I've figured out how to deal with her. Just let her say all she wants to say first and then ask only about the points that don't make sense.
+RU: 
+
+ID: M6010_S0090_G0350_300_ys
+JP: 説明が網羅的だから、その方が効率がいいんだ。
+EN: Her explanations are comprehensive, so that works best.
+RU: 
+
+
+-- Section 22
+
+ID: M6010_S0090_G0350_300_ys
+JP: 説明が網羅的だから、その方が効率がいいんだ。
+EN: Her explanations are comprehensive, so that works best.
+RU: 
+
+
+-- Section 23
+
+ID: M6010_S0100_G0340_300_ys
+JP: 出撃だな。
+EN: It's go time!
+RU: 
+
+
+-- Section 24
+
+ID: M6010_S0100_G0350_300_ys
+JP: 作戦は完璧に把握した。後はやるだけだ。
+EN: I understand the plan and agree with it completely. Now we all just have to do our part!
+RU: 
+
+
+-- Section 25
+
+ID: M6010_S0090_G0370_300_ys
+JP: 私、気づいたんです！私の感覚設定が、なぜかオペレーターさんの発言を\n雑音として認識していたんです！
+EN: I realized that my sensory settings were making me hear operator speech as background noise for some reason!
+RU: 
+
+ID: M6010_S0090_G0380_300_ys
+JP: だから、ぜんぜん聞こえづらくて理解できなかったんです！\nでもちゃんと修正したのでもう大丈夫です！
+EN: That's why I was having such a hard time understanding stuff. But they made a couple of tweaks and now I'm good to go!
+RU: 
+
+
+-- Section 26
+
+ID: M6010_S0090_G0390_300_ys
+JP: これからはうまくやっていけると思います！
+EN: I think my problems are over now!
+RU: 
+
+
+-- Section 27
+
+ID: M6010_S0100_G0360_300_ys
+JP: お互い頑張りましょうね。
+EN: Let's be in this thing to win this thing!
+RU: 
+
+
+-- Section 28
+
+ID: M6010_S0100_G0370_300_ys
+JP: オペレーターさんのおかげで作戦は完璧です！
+EN: Thanks to my operator, I understand the plan perfectly.
+RU: 
+
+
+-- Section 29
+
+ID: M6010_S0090_G0440_300_ys
+JP: 結局、一度も出撃せずにイヴが倒されてしまった……\nなんだか複雑な気分だよ。
+EN: In the end, Eve was defeated without my help. I know I should be happy regardless, but I just...
+RU: 
+
+
+-- Section 30
+
+ID: M6010_S0090_G0450_300_ys
+JP: とにかくまぁ、ありがと。
+EN: Well anyway, thanks.
+RU: 
+
+
+-- Section 31
+
+ID: M6010_S0100_G0420_300_ys
+JP: なんてことだ！！まだ出撃できないのかよ！\n早く！早く調整してくれ！
+EN: What do you mean, I can't head out yet? Find the problem and fix it already!
+RU: 
+
+
+-- Section 32
+
+ID: M6010_S0090_G0520_300_ys
+JP: いいかお前達！先の２Ｂ・９Ｓの戦闘データを頭に叩き込め！
+EN: Listen up! Make sure you download every last bit of data from 2B and 9S's battle into your heads!
+RU: 
+
+
+-- Section 33
+
+ID: M6010_S0090_G0530_300_ys
+JP: これで我らは盤石だ！機械生命体を駆逐せよ！
+EN: Those machines are going to be piles of scrap with this intel at our fingertips!
+RU: 
+
+
+-- Section 34
+
+ID: M6010_S0100_G0470_300_ys
+JP: いいかお前達！今までの成果を見せてみろ！
+EN: Listen up, you lot! It's time to show me what you've learned!
+RU: 
+
+
+-- Section 35
+
+ID: M6010_S0100_G0480_300_ys
+JP: 人類に栄光あれぇぇぇ！
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 36
+
+ID: M6010_S0090_G0540_300_ys
+JP: あなた達の戦闘データ、無駄にはしませんよ！
+EN: We'll make good use of your battle data.
+RU: 
+
+
+-- Section 37
+
+ID: M6010_S0090_G0550_300_ys
+JP: 人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 38
+
+ID: M6010_S0100_G0490_300_ys
+JP: あなた達の戦闘データ、無駄にはしませんよ！
+EN: We'll make good use of your battle data.
+RU: 
+
+
+-- Section 39
+
+ID: M6010_S0100_G0500_300_ys
+JP: 人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 40
+
+ID: M6010_S0090_G0560_300_ys
+JP: 君たちは確かにすごいけどさ……\n私にはムリな気がする……
+EN: You guys are amazing. Seriously, I could never have done that...
+RU: 
+
+ID: M6010_S0090_G0570_300_ys
+JP: ……でもまぁ、ちょっとは頑張ってみるか。
+EN: I'm still going to keep trying my best, though. Even if my best is only about 1/47 as good as your best...
+RU: 
+
+
+-- Section 41
+
+ID: M6010_S0090_G0580_300_ys
+JP: ……人類に栄光あれ。
+EN: Glory to mankind.
+RU: 
+
+
+-- Section 42
+
+ID: M6010_S0100_G0510_300_ys
+JP: ……隊長にも世話になったし、頑張ってみるよ。
+EN: I owe everything to my commanding officer, so I'll do my best for her sake.
+RU: 
+
+
+-- Section 43
+
+ID: M6010_S0100_G0520_300_ys
+JP: ……人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 44
+
+ID: M6010_S0090_G0590_300_ys
+JP: 隊長の戦闘データじゃないんですね。\nまぁ、参考になるからいっか。
+EN: Wait... This isn't our commanding officer's battle data! Well, I guess it'll still be useful.
+RU: 
+
+
+-- Section 45
+
+ID: M6010_S0090_G0600_300_ys
+JP: 人類に栄光あれ。
+EN: Glory to mankind.
+RU: 
+
+
+-- Section 46
+
+ID: M6010_S0100_G0530_300_ys
+JP: さて、いいとこ見せちゃおうかな！
+EN: Time to show them what we can do...
+RU: 
+
+
+-- Section 47
+
+ID: M6010_S0100_G0540_300_ys
+JP: 人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+

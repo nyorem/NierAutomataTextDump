@@ -1,0 +1,591 @@
+-- Section 1
+
+ID: M6050_S0010_G0100_300_villager
+JP: ここはボクたちの村。\nボクは村の安全を守ってル。
+EN: This is our village. I keep it safe.
+RU: 
+
+ID: M6050_S0010_G0110_300_villager
+JP: 見張り交代の時間まだカナ……
+EN: I'm ready to change shifts.
+RU: 
+
+
+-- Section 2
+
+ID: M6050_S0010_G0120_300_villager
+JP: ワタシ達の村へヨウコソ……
+EN: Welcome to our village...
+RU: 
+
+ID: M6050_S0010_G0130_300_villager
+JP: ゴユックリ……
+EN: Er, make yourself at home...
+RU: 
+
+
+-- Section 3
+
+ID: M6050_S0010_G0240_300_villager
+JP: <SARU_JAN>のどこがイイのだろう……\nアナタは分かりますカ？
+EN: What's so amazing about this <SARU_JAN> guy?
+RU: 
+
+ID: M6050_S0010_G0250_300_villager
+JP: <SARU_JAN>の魅力……ワタシには分かりません。
+EN: I don't get what's so special about this <SARU_JAN> fellow at all.
+RU: 
+
+
+-- Section 4
+
+ID: M6050_S0010_G0260_300_villager
+JP: ……三段バラ、カッコいいな。
+EN: Look at him and his three-tier belly! That's so cool!
+RU: 
+
+ID: M6050_S0010_G0270_300_villager
+JP: 僕もいつか、お腹の段をフヤスンダ。
+EN: I want to add more tiers to my belly...
+RU: 
+
+
+-- Section 5
+
+ID: M6050_S0010_G0280_300_villager
+JP: ワタシはヘンなやつが村に来ないか見張ってル。
+EN: I'm standing watch to prevent miscreants from entering the village!
+RU: 
+
+ID: M6050_S0010_G0290_300_villager
+JP: コノ先は森のお城につながっているンダ。
+EN: This path leads to the Forest Castle.
+RU: 
+
+
+-- Section 6
+
+ID: M6050_S0010_G0310_300_villager
+JP: ここは静かでいい場所ダ……
+EN: I love this place. It's so quiet.
+RU: 
+
+ID: M6050_S0010_G0320_300_villager
+JP: 孤独こそが、人を強くスル。
+EN: Solitude makes you stronger.
+RU: 
+
+
+-- Section 7
+
+ID: M6050_S0010_G0330_300_villager
+JP: 一人でいる時間を作ルのは大切なことだと、君モ思わないか？
+EN: It's important for people to have time to themselves, don't you think?
+RU: 
+
+ID: M6050_S0010_G0340_300_villager
+JP: まあ、ワタシは人じゃないけどナ。
+EN: I'm not sure if machines count as "people," however.
+RU: 
+
+ID: M6050_S0010_G0350_300_villager
+JP: ……友達がいないワケではないゾ。
+EN: Just to be clear, I'm not standing here by myself because I don't have any friends.
+RU: 
+
+
+-- Section 8
+
+ID: M6050_S0010_G0570_300_villager
+JP: ボクはインドア派っていうヤツさ。
+EN: I like staying inside.
+RU: 
+
+ID: M6050_S0010_G0580_300_villager
+JP: 家でゴロゴロしながら眺める景色が好きナンダ。
+EN: I love lazing about the house and enjoying the view.
+RU: 
+
+
+-- Section 9
+
+ID: M6050_S0010_G0590_300_villager
+JP: ボクはアウトドアが死ヌホド好きナンダ。
+EN: I love being outside so much!
+RU: 
+
+ID: M6050_S0010_G0600_300_villager
+JP: 木々のザワメキを聞きながら森の中を飛ぶと、とても気持ちいいヨネ。
+EN: Flying through the forest... Listening to the leaves rustle...
+RU: 
+
+ID: M6050_S0010_G0610_300_villager
+JP: まあ、飛べないヤツには分からないダロウケドネ。
+EN: I guess you'd only really understand if you could fly.
+RU: 
+
+
+-- Section 10
+
+ID: M6050_S0010_G0620_300_villager
+JP: 空から眺める景色は最高ダヨ。
+EN: The view from the sky is awesome!
+RU: 
+
+
+-- Section 11
+
+ID: M6050_S0010_G0380_300_villager
+JP: パスカルおじちゃん！アソボ！
+EN: Uncle Pascal! Let's play!
+RU: 
+
+ID: M6050_S0010_G0390_300_villager
+JP: アソンデ！……アソベ！
+EN: Come play with us!
+RU: 
+
+ID: M6050_S0010_G0400_300_villager
+JP: 分かりました、その代わり勉強もきちんとやるんですよ。
+EN: Okay, but after we're done, you have to study.
+RU: 
+
+ID: M6050_S0010_G0410_300_villager
+JP: 約束できますか？
+EN: Do you promise?
+RU: 
+
+ID: M6050_S0010_G0420_300_villager
+JP: ウン、勉強する！アトデ！
+EN: Okay! I'll study later!
+RU: 
+
+ID: M6050_S0010_G0430_300_villager
+JP: アトデ、アトデするヨ！
+EN: Yeah! We'll study later!
+RU: 
+
+
+-- Section 12
+
+ID: M6050_S0010_G0440_300_villager
+JP: ナニしてアソボウかな……
+EN: So what do you wanna do?
+RU: 
+
+ID: M6050_S0010_G0450_300_villager
+JP: 考えてナカッタ。
+EN: Ummm...I dunno. I didn't think that far ahead.
+RU: 
+
+
+-- Section 13
+
+ID: M6050_S0010_G0460_300_villager
+JP: アソブノもベンキョウのウチ。
+EN: Playing is kind of like studying in a way.
+RU: 
+
+ID: M6050_S0010_G0470_300_villager
+JP: オマエもそう思うダロ。
+EN: Don't you think?
+RU: 
+
+
+-- Section 14
+
+ID: M6050_S0010_G0480_300_villager
+JP: ボクはもう一人で遊べるんダ。
+EN: I can play on my own. I'm all grown up!
+RU: 
+
+ID: M6050_S0010_G0490_300_villager
+JP: いつまでもパスカルおじちゃんって、アイツらは子供ダナ。
+EN: Listen to them. It's all "Uncle Pascal this" and "Uncle Pascal that." What a bunch of babies!
+RU: 
+
+
+-- Section 15
+
+ID: M6050_S0010_G0500_300_villager
+JP: ……ナンダヨ……僕と遊びたいノカ？
+EN: What? Do you...want to play with me?
+RU: 
+
+ID: M6050_S0010_G0510_300_villager
+JP: ドウシテモというなら……イイゾ？
+EN: Well, if you reeeeeally want to, I guess I'll do you a favor. But just this once!
+RU: 
+
+
+-- Section 16
+
+ID: M6050_S0010_G0630_300_villager
+JP: ヤア、ボクは高い所がスキなんダ！
+EN: Ahhhhh... I love hanging out in high places!
+RU: 
+
+ID: M6050_S0010_G0640_300_villager
+JP: 君も高い所がスキなのカイ？\nここからの眺めはスバラシイヨ！
+EN: Do you like heights too? The view from here is incredible!
+RU: 
+
+
+-- Section 17
+
+ID: M6050_S0010_G0650_300_villager
+JP: パスカルおじちゃんは危ないからダメって言ってたけど、\n向こうに見える森のお城にも行ってみたいナ。
+EN: I'd love to go to that castle in the forest, but Pascal said it's too dangerous.
+RU: 
+
+
+-- Section 18
+
+ID: M6050_S0010_G0660_300_villager
+JP: パスカルおじちゃんが滑り台を作ってくれたンダ！
+EN: Pascal made this slide just for us!
+RU: 
+
+ID: M6050_S0010_G0670_300_villager
+JP: これはヤミツキだ！ヤミツキになるヨ！
+EN: I love it so much! It's an addiction!
+RU: 
+
+
+-- Section 19
+
+ID: M6050_S0010_G0680_300_villager
+JP: コレが噂に聞くスベリダイなのですネ。
+EN: So this is that "slide" I keep hearing so much about, eh?
+RU: 
+
+ID: M6050_S0010_G0690_300_villager
+JP: ヒジョウに、興味ブカイです……
+EN: It's quite...fascinating.
+RU: 
+
+
+-- Section 20
+
+ID: M6050_S0010_G0700_300_villager
+JP: もう少しヨウスを見てから滑りマス。
+EN: I'll just look at it a bit more...from a safe distance.
+RU: 
+
+ID: M6050_S0010_G0710_300_villager
+JP: コ、コワイわけじゃないですよ！
+EN: N-not that I'm scared or anything!
+RU: 
+
+
+-- Section 21
+
+ID: M5221_S0000_G0020_300_robochild
+JP: オモチャタノシー！
+EN: This is sooo fuuuun!
+RU: 
+
+
+-- Section 22
+
+ID: M6050_S0010_G0230_300_villager
+JP: ああ、<SARU_JAN>さん……
+EN: Ah, <SARU_JAN>...
+RU: 
+
+
+-- Section 23
+
+ID: M6050_S0010_G0550_300_villager
+JP: 我々が争うことに意味はありません。
+EN: There is no meaning in war.
+RU: 
+
+ID: M6050_S0010_G0560_300_villager
+JP: <SARU_JAN>の言う通りです。
+EN: <SARU_JAN>'s right.
+RU: 
+
+
+-- Section 24
+
+ID: M6050_S0010_G2600_300_papa
+JP: 大変ダ、タイヘンダ。
+EN: This is bad. This is really bad...
+RU: 
+
+
+-- Section 25
+
+ID: M5803_S0010_G0010_001_robomother
+JP: ウウ……私はどうしタラよいのでショウカ……
+EN: Rrrrgh! What am I supposed to DO!?
+RU: 
+
+
+-- Section 26
+
+ID: M6050_S0010_G2930_300_villager
+JP: 私たちの村へヨウコソ。
+EN: Welcome to our village!
+RU: 
+
+
+-- Section 27
+
+ID: M6050_S0010_G2970_300_villager
+JP: 何かゴヨウがあれば言ってくださいネ。
+EN: Let me know if I can help you with anything.
+RU: 
+
+
+-- Section 28
+
+ID: M6050_S0010_G2960_300_villager
+JP: コンニチワ。\n今日もイイ天気デスネ。
+EN: Hello. Nice day we're having!
+RU: 
+
+
+-- Section 29
+
+ID: M5250_S0010_G0360_001_robostrange
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 30
+
+ID: M6050_S0010_G3050_300_villager
+JP: コイツ、高い所に登れないカラ運んであげるんだケド。\n毎日運んで遊ぶせいで腕がツカレル。
+EN: This guy can't climb very well, so I have to carry him to high places. I also have to carry him while playing, so my arms are getting pretty tired.
+RU: 
+
+ID: M6050_S0010_G3060_300_villager
+JP: 今度パスカルおじちゃんからエンリョという言葉を習ってモラオウ。
+EN: I'm going to get Pascal to teach him the word "restraint" next time.
+RU: 
+
+
+-- Section 31
+
+ID: M6050_S0010_G3030_300_villager
+JP: 今日は村のテッペンと、森の城前と、パスカルおじちゃんの所に連れテケ！
+EN: Today, I want you to take me to the top of the village, the Forest Castle, and Pascal's place!
+RU: 
+
+ID: M6050_S0010_G3040_300_villager
+JP: ソノ後は村の入口の所と、遊園地に向かう橋の所ナ！
+EN: After that, we can go to the village entrance and the bridge to the amusement park!
+RU: 
+
+
+-- Section 32
+
+ID: M6050_S0010_G0780_300_villager
+JP: 今日はナニする？
+EN: What should we do today?
+RU: 
+
+ID: M6050_S0010_G0790_300_villager
+JP: オニごっこ！
+EN: Play tag!
+RU: 
+
+ID: M6050_S0010_G0800_300_villager
+JP: エット……エット、ナワトビ！
+EN: Um...um...jump rope!
+RU: 
+
+ID: M6050_S0010_G0810_300_villager
+JP: ナワトビ？ソレヤル！
+EN: Jump rope? I wanna jump rope!
+RU: 
+
+ID: M6050_S0010_G0820_300_villager
+JP: デモ、アシの長さ……足りる？
+EN: I hope my legs are long enough...
+RU: 
+
+ID: M6050_S0010_G0830_300_villager
+JP: …………
+EN: ......
+RU: 
+
+ID: M6050_S0010_G0840_300_villager
+JP: ……セチガライネ。
+EN: Life is hard.
+RU: 
+
+
+-- Section 33
+
+ID: M6050_S0010_G0850_300_villager
+JP: やっぱり、オニごっこカナ……
+EN: Soooo...tag then?
+RU: 
+
+
+-- Section 34
+
+ID: M6050_S0010_G0860_300_villager
+JP: ナワトビ……したいナ。
+EN: I wanna jump rope...
+RU: 
+
+
+-- Section 35
+
+ID: M6050_S0010_G0881_300_villager
+JP: 僕モあいつミタイニ大きくなりたいんだよなあ。
+EN: I want to be as big as this guy.
+RU: 
+
+ID: M6050_S0010_G0882_300_villager
+JP: もっとオオキナ身体がアレバなあ……そう思わない？
+EN: I wish I was bigger. Don't you?
+RU: 
+
+
+-- Section 36
+
+ID: M6050_S0010_G0883_300_villager
+JP: もっと……もっと強大ナルちからを我ニ……
+EN: Strength... I need more strength!
+RU: 
+
+ID: M6050_S0010_G0884_300_villager
+JP: 巨大なカラダさえアレバ、全てを破壊出来るとイウノニ……
+EN: If I was huge, I could destroy everything!
+RU: 
+
+
+-- Section 37
+
+ID: M6050_S0010_G0870_300_villager
+JP: ボクの身体は大キイケレド、キモチはとても小サイんだヨ……
+EN: My body is big, but I feel tiny on the inside.
+RU: 
+
+ID: M6050_S0010_G0880_300_villager
+JP: イジメないデネ？
+EN: Please don't make fun of me.
+RU: 
+
+
+-- Section 38
+
+ID: M6050_S0010_G0360_300_pascal
+JP: ここにいる者たちに敵意はありません。\nみんな温厚な村人たちですよ。
+EN: The villagers here are all gentle and peace-loving.
+RU: 
+
+ID: M6050_S0010_G0370_300_pascal
+JP: 元気に遊ぶ子供たちを眺めるのが私の日課です。
+EN: I love watching the children play. They're so full of energy!
+RU: 
+
+
+-- Section 39
+
+ID: M6050_S0010_G0210_300_sp
+JP: ようコソ。\n何かほしいものがあるのカイ？
+EN: Welcome. Are you looking for anything?
+RU: 
+
+ID: M6050_S0010_G0220_300_sp
+JP: またいつでも来てクレ。\n遠慮はいらなイヨ。
+EN: Come back whenever you like. No need to be shy.
+RU: 
+
+
+-- Section 40
+
+ID: M6050_S0010_G0140_300_kj
+JP: ヨク来たな。\nコノ村に争いを好む者はいないが、一応武器を備えてる。
+EN: Welcome! Even though none of the villagers want to fight, I have weapons here just in case.
+RU: 
+
+ID: M6050_S0010_G0150_300_kj
+JP: キニなるなら、少し見ていくか？
+EN: Care to take a look?
+RU: 
+
+ID: M6050_S0010_G0170_300_kj
+JP: ツクり方は森に住んでる伝説の刀鍛冶から教えてモラッタ。
+EN: I learned how to make weapons from a legendary swordsmith in the forest.
+RU: 
+
+ID: M6050_S0010_G0180_300_kj
+JP: アイつも村にくればいいノニナ。
+EN: I wish he'd come to the village...
+RU: 
+
+
+-- Section 41
+
+ID: M6050_S0010_G0160_300_kj
+JP: マタきたのか、ゆっくりしてけ。
+EN: Back again? Feel free to look around.
+RU: 
+
+ID: M6050_S0010_G0190_300_kj
+JP: 平和が好キナノニ、武器も好きダ……矛盾シテルな。
+EN: I love peace, but I also love weapons. ...I guess that doesn't make a whole lot of sense.
+RU: 
+
+
+-- Section 42
+
+ID: M6050_S0010_G0160_300_kj
+JP: マタきたのか、ゆっくりしてけ。
+EN: Back again? Feel free to look around.
+RU: 
+
+ID: M6050_S0010_G0200_300_kj
+JP: マタいつでも訪ねてくれよ。
+EN: Come back any time you like.
+RU: 
+
+
+-- Section 43
+
+ID: M1040_S0030_G0020_001_n02
+JP: ヤメテ！殺さなイデ！
+EN: Stop! Do not kill!
+RU: 
+
+
+-- Section 44
+
+ID: M1040_S0030_G0030_001_n02
+JP: 戦わない！戦ワナい！
+EN: No fighting! No fighting!
+RU: 
+
+
+-- Section 45
+
+ID: M1040_S0030_G0040_001_n02
+JP: 殺さナイデ！殺さナイで！
+EN: Don't kill! Don't kill!
+RU: 
+
+
+-- Section 46
+
+ID: M1040_S0030_G0050_001_n02
+JP: 悪イコトしてない……！
+EN: We have done nothing bad!
+RU: 
+
+
+-- Section 47
+
+ID: M1040_S0030_G0060_001_n02
+JP: ごメンナさい！ゴメンなさい！
+EN: I'm sorry! I'm sorry!
+RU: 
+
+

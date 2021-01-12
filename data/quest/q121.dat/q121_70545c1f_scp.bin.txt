@@ -1,0 +1,287 @@
+-- Section 1
+
+ID: M5121_S0010_G0010_300_manager
+JP: ごめんなさい、また後で来てくれる？
+EN: Sorry, but can you come back later?
+RU: 
+
+ID: M5121_S0010_G0020_300_manager
+JP: 皆が必死に戦ってるのに、うだうだ言っていられないわよね……\nがんばらなくちゃ……
+EN: I can't just sit here while everyone's fighting so hard around me. I need to shape up...
+RU: 
+
+
+-- Section 2
+
+ID: M5121_S0010_G0000_001_ane
+JP: ……
+EN: ......
+RU: 
+
+ID: M5121_S0010_G0010_001_a9s
+JP: なんだか、難しい顔してますね。アネモネさん。
+EN: What's wrong, Anemone?
+RU: 
+
+ID: M5121_S0010_G0020_001_ane
+JP: ああ、最近、資材置き場の仕事が滞っててな。
+EN: We've been falling behind on our material-storage work as of late.
+RU: 
+
+ID: M5121_S0010_G0030_001_ane
+JP: 管理担当者は普段は有能な奴なんだが……
+EN: The person in charge is usually quite reliable, but lately...
+RU: 
+
+ID: M5121_S0010_G0040_001_ane
+JP: どうやら悩みがあるみたいで、仕事に身が入らないらしい。
+EN: Well, to be blunt, she's been slacking. I think there's some kind of personal issue distracting her.
+RU: 
+
+ID: M5121_S0010_G0050_001_ane
+JP: 何の悩みだかは知らんが、全体に影響を及ぼす前に何とかしなくてはな……
+EN: I don't know the whole story, but I'm going to have to find out so this doesn't disrupt our operation any more than it already has.
+RU: 
+
+ID: M5121_S0010_G0051_001_ane
+JP: 管理担当者はキャンプの奥に組んである足場を上がったところに\nいるはずだ。
+EN: You can find the person in charge on top of the scaffolding at the back of the camp.
+RU: 
+
+ID: M5121_S0010_G0052_001_ane
+JP: 良ければ、話をきいてやってくれ。
+EN: Would you mind talking to him?
+RU: 
+
+
+-- Section 3
+
+ID: M5121_S0010_G0060_001_manager
+JP: はあ……気になる……気になり過ぎる……
+EN: *sigh* Why can't I stop thinking about it...?
+RU: 
+
+ID: M5121_S0010_G0070_001_a9s
+JP: あのー、何が気になるんでしょうか？
+EN: Stop thinking about what?
+RU: 
+
+ID: M5121_S0010_G0080_001_manager
+JP: ん……貴方は？
+EN: Gya! What!? Who are you!?
+RU: 
+
+ID: M5121_S0010_G0090_001_a9s
+JP: 僕達はヨルハ部隊の人間です。
+EN: We're with YoRHa.
+RU: 
+
+ID: M5121_S0010_G0100_001_a9s
+JP: アネモネさんに、このキャンプの様子を見るように言われてて。
+EN: Anemone told us to make ourselves at home.
+RU: 
+
+ID: M5121_S0010_G0110_001_manager
+JP: なるほど……
+EN: Oh...r-right.
+RU: 
+
+ID: M5121_S0010_G0120_001_a9s
+JP: で、一体何が気になるんですか？
+EN: So. What can't you stop thinking about?
+RU: 
+
+ID: M5121_S0010_G0130_001_manager
+JP: ああ、実は同僚が持っていた『開くと音の鳴る箱』の事が\n気になって気になって。
+EN: Oh, it's just... One of my friends has a box that makes music when you open it, and I can't get the damn song out of my head.
+RU: 
+
+ID: M5121_S0010_G0140_001_manager
+JP: 箱を開けると、とても綺麗な音色が流れてくるの。
+EN: It's just so beautiful! I've never heard anything like it!
+RU: 
+
+ID: M5121_S0010_G0150_001_manager
+JP: けれど、そのメロディーが途中からどうしても曖昧になってしまって……
+EN: And to make it worse, I can only remember the first part of the song...
+RU: 
+
+ID: M5121_S0010_G0160_001_manager
+JP: ああ、気になる！
+EN: Daaah, it's driving me nuts!
+RU: 
+
+ID: M5121_S0010_G0170_001_manager
+JP: そもそも、あいつが早く帰ってくればいい話なのよね！ああもう！
+EN: I wish she'd just come back to camp so I could hear the damn thing again!
+RU: 
+
+ID: M5121_S0010_G0180_001_sele
+JP: 『開くと音の鳴る箱』を探す。
+EN: Go look for the missing item.
+RU: 
+
+ID: M5121_S0010_G0190_001_sele
+JP: 神経質な相手なので放置する。
+EN: Let the weirdo work it out herself.
+RU: 
+
+
+-- Section 4
+
+ID: M5121_S0010_G0200_001_a9s
+JP: この様子じゃ、仕事なんて手につかなそうですね……
+EN: Yeah, if we don't help her, she'll never get any work done.
+RU: 
+
+ID: M5121_S0010_G0210_001_a2b
+JP: 『開くと音の鳴る箱』か……
+EN: A box that plays sound? Odd.
+RU: 
+
+ID: M5121_S0010_G0220_001_pod042
+JP: 推測：名称はオルゴール。音楽が鳴る場所にある可能性。
+EN: Analysis: The item in question is likely a "music box." It should be located in an area where music is playing.
+RU: 
+
+ID: M5121_S0010_G0230_001_pod042
+JP: 近場では遊園地が候補として挙げられる。
+EN: Proposal: The local amusement park would be a logical area for reconnaissance.
+RU: 
+
+ID: M5121_S0010_G0240_001_a9s
+JP: すごく短絡的な発想だけど……
+EN: That's some fuzzy logic there, Pod...
+RU: 
+
+ID: M5121_S0010_G0250_001_a9s
+JP: 他にアテもないですし、行ってみましょうか。
+EN: But hey, might as well try it. Not like we have any other leads to go on.
+RU: 
+
+
+-- Section 5
+
+ID: M5121_S0010_G0060_001_manager
+JP: はあ……気になる……気になり過ぎる……
+EN: *sigh* Why can't I stop thinking about it...?
+RU: 
+
+ID: M5121_S0010_G0180_001_sele
+JP: 『開くと音の鳴る箱』を探す。
+EN: Go look for the missing item.
+RU: 
+
+ID: M5121_S0010_G0190_001_sele
+JP: 神経質な相手なので放置する。
+EN: Let the weirdo work it out herself.
+RU: 
+
+
+-- Section 6
+
+ID: M5121_S0010_G0000_300_manager
+JP: 『開くと音の鳴る箱』は見つかった？
+EN: Did you find the music box I asked you about?
+RU: 
+
+
+-- Section 7
+
+ID: M5121_S0010_G0260_001_a9s
+JP: あの資材置き場の担当者が言ってたオルゴールってこれかな？
+EN: Is this the "music box" she was looking for?
+RU: 
+
+ID: M5121_S0010_G0270_001_a9s
+JP: かなり錆びてるけど。
+EN: Man, this thing is all rusted over...
+RU: 
+
+ID: M5121_S0010_G0280_001_a2b
+JP: 死体……
+EN: Look. A corpse.
+RU: 
+
+ID: M5121_S0010_G0290_001_a9s
+JP: 持ち主は……このアンドロイドでしょうか？
+EN: You think the box belonged to her?
+RU: 
+
+ID: M5121_S0010_G0300_001_a9s
+JP: 様子からして、大分前に亡くなったみたいですけど。
+EN: Poor girl died a long time ago, by the looks of it.
+RU: 
+
+ID: M5121_S0010_G0310_001_a2b
+JP: ……とにかく、この箱を担当者に届けよう。
+EN: Let's bring this back to her friend.
+RU: 
+
+
+-- Section 8
+
+ID: M5121_S0030_G0000_001_a9s
+JP: すみません、探していた『開くと音の鳴る箱』ってこれの事でしょうか？
+EN: Excuse me. Is this the "music box" you were looking for?
+RU: 
+
+ID: M5121_S0030_G0010_001_manager
+JP: そう！これよこれ！どこにあったの？
+EN: THAT'S IT! Where did you find it?
+RU: 
+
+ID: M5121_S0030_G0020_001_a2b
+JP: 遊園地の……持ち主と思われるアンドロイドの遺体の近くに。
+EN: In the amusement park, next to the corpse of an android. Maybe that was its owner?
+RU: 
+
+ID: M5121_S0030_G0030_001_manager
+JP: あ……
+EN: ...Oh.
+RU: 
+
+ID: M5121_S0030_G0040_001_a9s
+JP: その人って……
+EN: Was she...
+RU: 
+
+ID: M5121_S0030_G0050_001_manager
+JP: ……
+EN: ......
+RU: 
+
+ID: M5121_S0030_G0060_001_manager
+JP: ……大分錆びちゃってるけど、修理すればきっとまた鳴るよね。
+EN: Well, it's awfully rusty, but with a little work I should be able to get it playing again.
+RU: 
+
+ID: M5121_S0030_G0070_001_a9s
+JP: ええ、もちろんです。
+EN: Of course.
+RU: 
+
+ID: M5121_S0030_G0080_001_manager
+JP: ……箱を持ってきてくれて、ありがとう。
+EN: Thank you for bringing the box to me.
+RU: 
+
+ID: M5121_S0030_G0090_001_manager
+JP: これで仕事にも身が入るってもの！
+EN: Now I can finally concentrate on my work again!
+RU: 
+
+ID: M5121_S0030_G0100_001_manager
+JP: あなた達も、奥に自由に出入りしていいからね。
+EN: Oh, and you two are welcome to enter the back anytime you like from now on.
+RU: 
+
+
+-- Section 9
+
+ID: M5121_S0010_G0000_300_manager
+JP: 『開くと音の鳴る箱』は見つかった？
+EN: Did you find the music box I asked you about?
+RU: 
+
+

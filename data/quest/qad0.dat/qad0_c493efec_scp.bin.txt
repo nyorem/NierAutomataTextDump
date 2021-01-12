@@ -1,0 +1,8 @@
+-- Section 1
+
+ID: M3000_S0320_G0070_001_telo
+JP: 識別信号機能停止
+EN: Identification signal not functioning
+RU: 
+
+

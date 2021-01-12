@@ -1,0 +1,862 @@
+-- Section 1
+
+ID: M5020_S0010_G0000_001_sarutoru
+JP: 実存は本質に先立つものだ……
+EN: Existence precedes essence.
+RU: 
+
+ID: M5020_S0010_G0010_001_a9s
+JP: あのー
+EN: Um...
+RU: 
+
+ID: M5020_S0010_G0020_001_sarutoru
+JP: 人は自分があろうとする姿以外にはあり得ず、また……
+EN: Man is nothing else but what he makes of himself. Additionally—
+RU: 
+
+ID: M5020_S0010_G0030_001_a9s
+JP: こーんーにーちーはー！
+EN: Um, hello?
+RU: 
+
+ID: M5020_S0010_G0040_001_sarutoru
+JP: ……なんだ、君達は？
+EN: Yes? And you are?
+RU: 
+
+ID: M5020_S0010_G0050_001_sarutoru
+JP: ああ、わかった。君達も私に講義を受けたいのだね？
+EN: Wait! Do not tell me! I have already deduced that you are here to listen to me expound upon the great mysteries of existence.
+RU: 
+
+ID: M5020_S0010_G0060_001_sarutoru
+JP: ではまず実存主義について話そう。
+EN: Well enough! Let us begin by discussing the concept of existentialism.
+RU: 
+
+ID: M5020_S0010_G0070_001_sarutoru
+JP: いいかい？本質存在とは現実存在と対するもので……
+EN: Essence and existence are two sides of the same coin.
+RU: 
+
+ID: M5020_S0010_G0080_001_sarutoru
+JP: そもそも現実存在とは……
+EN: And yet, what IS existence? I'm glad you asked! To answer that will require many long hours of—
+RU: 
+
+ID: M5020_S0010_G0090_001_a9s
+JP: 駄目だ……この人。
+EN: This is pointless.
+RU: 
+
+
+-- Section 2
+
+ID: M5020_S0010_G0100_001_n02
+JP: ああ……<SARU_JAN>に話しかけても無駄だよ。
+EN: There's no point in talking to <SARU_JAN>. We stopped trying to figure him out a while ago.
+RU: 
+
+ID: M5020_S0010_G0110_001_n02
+JP: テツガク、とかいう難しい話しかしない。
+EN: All he does is spout a bunch of mumbo-jumbo about something called "philosophy."
+RU: 
+
+ID: M5020_S0010_G0120_001_n02
+JP: その人の事が知りたければ。ファンにでも聞いてみる事だな。
+EN: If you're curious about him, you'll have better luck talking to his followers. They tend to use smaller words, at least.
+RU: 
+
+ID: M5020_S0010_G0130_001_a9s
+JP: ……ファン？
+EN: This guy has followers?
+RU: 
+
+ID: M5020_S0010_G0140_001_n02
+JP: 不思議な事に<SARU_JAN>のファンが各地にいるんだ。
+EN: More like fans, I suppose. But yes, there are a quite a few out there who buy what he's selling. Don't ask me why.
+RU: 
+
+ID: M5020_S0010_G0150_001_n02
+JP: 何でモテるのか私には判らないけどね。
+EN: Some folks just get into that sort of thing, I suppose.
+RU: 
+
+ID: M5020_S0010_G0160_001_n02
+JP: この村にも一人いたな……
+EN: There's even one <SARU_JAN> follower right here in this village.
+RU: 
+
+ID: M5020_S0010_G0170_001_n02
+JP: 顔に濃いペイントを施した機械生命体がそいつだよ。
+EN: You know the machine with the thick paint on her face? That's the one.
+RU: 
+
+
+-- Section 3
+
+ID: M5020_S0040_G0000_001_a9s
+JP: あの～
+EN: Hello?
+RU: 
+
+ID: M5020_S0040_G0010_001_sarutoru
+JP: なるほど、そうか。
+EN: Ah, yes. I see.
+RU: 
+
+ID: M5020_S0040_G0020_001_sarutoru
+JP: 夢とは閉ざされた想像界においての完璧な実現であり……
+EN: Dreams are the mind's version of reality perfected.
+RU: 
+
+ID: M5020_S0040_G0030_001_a9s
+JP: <SARU_JAN>。君宛てのプレゼントを預かってるんだけど……
+EN: Hey, <SARU_JAN>? We have a delivery for you.
+RU: 
+
+ID: M5020_S0040_G0040_001_sarutoru
+JP: ふむ、それなら聞こう。
+EN: Ah! Allow me to see it at once.
+RU: 
+
+ID: M5020_S0040_G0050_001_sarutoru
+JP: ……ふむ、なるほど。手紙か。
+EN: Interesting. A letter, is it?
+RU: 
+
+ID: M5020_S0040_G0060_001_a2b
+JP: それを渡した女性型ロボットは、
+EN: A female machine asked us to deliver it to you.
+RU: 
+
+ID: M5020_S0040_G0070_001_a2b
+JP: 貴方の事を何でも知っていて頼りになると言っていた。
+EN: She said she could rely on you, and that you know pretty much everything.
+RU: 
+
+ID: M5020_S0040_G0080_001_sarutoru
+JP: ふうん、ところで君達は実存が本質に先立つとは思わないかね？
+EN: Yes, yes. Now if I may, do you believe that existence precedes essence?
+RU: 
+
+ID: M5020_S0040_G0090_001_a9s
+JP: あのー、手紙の返事は？
+EN: Um, is this about the letter?
+RU: 
+
+ID: M5020_S0040_G0100_001_sarutoru
+JP: しないよ。なぜ？
+EN: No.
+RU: 
+
+ID: M5020_S0040_G0110_001_a9s
+JP: 手紙には、質問が書かれていたんじゃ……？
+EN: Right, but shouldn't you maybe respond to the letter?
+RU: 
+
+ID: M5020_S0040_G0120_001_sarutoru
+JP: 質問には、必ず答えなければならない義務があるのか？
+EN: Is one duty-bound to reply to every question spewed in their direction?
+RU: 
+
+ID: M5020_S0040_G0130_001_sarutoru
+JP: その義務とは誰が決めたんだい？
+EN: If such is your claim, then what power was it who placed this burdensome yoke about my neck?
+RU: 
+
+ID: M5020_S0040_G0140_001_a2b
+JP: ……これ以上、話すのは無駄。
+EN: This is a waste of time.
+RU: 
+
+ID: M5020_S0040_G0150_001_a9s
+JP: ……ですね。
+EN: You got that right.
+RU: 
+
+
+-- Section 4
+
+ID: M5020_S0040_G0160_001_a9s
+JP: <SARU_JAN>、ちょっといい？
+EN: Hello, <SARU_JAN>. Do you have a moment?
+RU: 
+
+ID: M5020_S0040_G0170_001_sarutoru
+JP: 過ぎ去る時間とは、つまり失われた時間なのだな。
+EN: Moments are transitory. One cannot possess them.
+RU: 
+
+ID: M5020_S0040_G0180_001_sarutoru
+JP: それは怠惰でひたすら無気力な——
+EN: A moment passed is a moment lost; a symbol of idle, unrestrained apathy that—
+RU: 
+
+ID: M5020_S0040_G0190_001_a9s
+JP: <SARU_JAN>宛てのプレゼントを預かってるんだけど。
+EN: Can you please just take this present already?
+RU: 
+
+ID: M5020_S0040_G0200_001_sarutoru
+JP: ふむ、それなら聞こう。
+EN: A gift? Let me see.
+RU: 
+
+ID: M5020_S0040_G0210_001_a9s
+JP: ええと……これですね。
+EN: Here you go.
+RU: 
+
+ID: M5020_S0040_G0220_001_sarutoru
+JP: ……ふむ、なるほど。
+EN: Ah, yes. Fascinating...
+RU: 
+
+ID: M5020_S0040_G0230_001_a2b
+JP: それを渡した女性型ロボットは、\n貴方の事をミステリアスでクールだと言っていた。
+EN: The machine who gave this to us said you were both "suspicious" and "alluring."
+RU: 
+
+ID: M5020_S0040_G0240_001_sarutoru
+JP: ふうん、単なるガラスだね。ガラス以外の何物でもない。つまりこれは——
+EN: It seems this so-called "gift" is nothing more than a piece of unadorned glass. Therefore, I can only surmise that—
+RU: 
+
+ID: M5020_S0040_G0250_001_a9s
+JP: あの、これをくれた女性に対して、何か一言は……？
+EN: Um, do you want us to bring a message back to the woman who gave this to you?
+RU: 
+
+ID: M5020_S0040_G0260_001_sarutoru
+JP: ないね。何もない。単なるガラスだしね。
+EN: For a mere trifle? No.
+RU: 
+
+ID: M5020_S0040_G0270_001_a9s
+JP: はあ……
+EN: Okay then.
+RU: 
+
+ID: M5020_S0040_G0280_001_a2b
+JP: ……行こう、９Ｓ。
+EN: Let's go.
+RU: 
+
+
+-- Section 5
+
+ID: M5020_S0040_G0185_001_a9s
+JP: あと、もう一つプレゼントがあって……
+EN: I have another gift for you...
+RU: 
+
+ID: M5020_S0040_G0200_001_sarutoru
+JP: ふむ、それなら聞こう。
+EN: A gift? Let me see.
+RU: 
+
+ID: M5020_S0040_G0210_001_a9s
+JP: ええと……これですね。
+EN: Here you go.
+RU: 
+
+ID: M5020_S0040_G0220_001_sarutoru
+JP: ……ふむ、なるほど。
+EN: Ah, yes. Fascinating...
+RU: 
+
+ID: M5020_S0040_G0230_001_a2b
+JP: それを渡した女性型ロボットは、\n貴方の事をミステリアスでクールだと言っていた。
+EN: The machine who gave this to us said you were both "suspicious" and "alluring."
+RU: 
+
+ID: M5020_S0040_G0240_001_sarutoru
+JP: ふうん、単なるガラスだね。ガラス以外の何物でもない。つまりこれは——
+EN: It seems this so-called "gift" is nothing more than a piece of unadorned glass. Therefore, I can only surmise that—
+RU: 
+
+ID: M5020_S0040_G0250_001_a9s
+JP: あの、これをくれた女性に対して、何か一言は……？
+EN: Um, do you want us to bring a message back to the woman who gave this to you?
+RU: 
+
+ID: M5020_S0040_G0260_001_sarutoru
+JP: ないね。何もない。単なるガラスだしね。
+EN: For a mere trifle? No.
+RU: 
+
+ID: M5020_S0040_G0270_001_a9s
+JP: はあ……
+EN: Okay then.
+RU: 
+
+ID: M5020_S0040_G0280_001_a2b
+JP: ……行こう、９Ｓ。
+EN: Let's go.
+RU: 
+
+
+-- Section 6
+
+ID: M5020_S0040_G0290_001_sarutoru
+JP: 最早、全ての物は必要が無いのだ。この場所も、この村も、そして私も——
+EN: Indeed, is there any purpose or need to the objects we find in the world? Consider, if you will, this place. Or this village. Or even myself, if such a—
+RU: 
+
+ID: M5020_S0040_G0300_001_a2b
+JP: 貴方宛てのプレゼントを預かってきている。
+EN: We're here with a present for you.
+RU: 
+
+ID: M5020_S0040_G0310_001_sarutoru
+JP: ふむ、それなら聞こう。
+EN: A present? Of what sort?
+RU: 
+
+ID: M5020_S0040_G0320_001_a9s
+JP: ええと……この化石か。
+EN: It's a fossil. One of your followers asked us to deliver it to you.
+RU: 
+
+ID: M5020_S0040_G0330_001_sarutoru
+JP: ……ふむ、なるほど。
+EN: I see, I see.
+RU: 
+
+ID: M5020_S0040_G0340_001_a2b
+JP: それを渡した女性型ロボットは、\n貴方の事を探究心旺盛で情熱的だと言っていた。
+EN: She said you were "indescribably passionate" when it came to learning. Or something like that.
+RU: 
+
+ID: M5020_S0040_G0350_001_sarutoru
+JP: 機械の化石か。何の役にも立たないなぁ。
+EN: A mechanical fossil. No use at all.
+RU: 
+
+ID: M5020_S0040_G0360_001_a9s
+JP: あの、これをくれた女性に対して、何か一言は……？
+EN: Do you want us to tell her anything on your behalf, or...
+RU: 
+
+ID: M5020_S0040_G0370_001_sarutoru
+JP: ないね。何もない。役に立たないガラクタだしね。
+EN: I'll not waste words on mere junk.
+RU: 
+
+ID: M5020_S0040_G0380_001_a9s
+JP: ガラクタって……
+EN: Junk!?
+RU: 
+
+ID: M5020_S0040_G0390_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 7
+
+ID: M5020_S0040_G0295_001_a2b
+JP: あと、もう一つプレゼントを預かってきている。
+EN: I have another present for you...
+RU: 
+
+ID: M5020_S0040_G0310_001_sarutoru
+JP: ふむ、それなら聞こう。
+EN: A present? Of what sort?
+RU: 
+
+ID: M5020_S0040_G0320_001_a9s
+JP: ええと……この化石か。
+EN: It's a fossil. One of your followers asked us to deliver it to you.
+RU: 
+
+ID: M5020_S0040_G0330_001_sarutoru
+JP: ……ふむ、なるほど。
+EN: I see, I see.
+RU: 
+
+ID: M5020_S0040_G0340_001_a2b
+JP: それを渡した女性型ロボットは、\n貴方の事を探究心旺盛で情熱的だと言っていた。
+EN: She said you were "indescribably passionate" when it came to learning. Or something like that.
+RU: 
+
+ID: M5020_S0040_G0350_001_sarutoru
+JP: 機械の化石か。何の役にも立たないなぁ。
+EN: A mechanical fossil. No use at all.
+RU: 
+
+ID: M5020_S0040_G0360_001_a9s
+JP: あの、これをくれた女性に対して、何か一言は……？
+EN: Do you want us to tell her anything on your behalf, or...
+RU: 
+
+ID: M5020_S0040_G0370_001_sarutoru
+JP: ないね。何もない。役に立たないガラクタだしね。
+EN: I'll not waste words on mere junk.
+RU: 
+
+ID: M5020_S0040_G0380_001_a9s
+JP: ガラクタって……
+EN: Junk!?
+RU: 
+
+ID: M5020_S0040_G0390_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 8
+
+ID: M5020_S0020_G0000_300_sarutoru
+JP: おや、君達も私の講義を受けにきたのかね？
+EN: Oh ho! Have you come to hear my lecture as well?
+RU: 
+
+ID: M5020_S0020_G0010_300_a9s
+JP: いえ、結構です。
+EN: I'm good, thanks.
+RU: 
+
+
+-- Section 9
+
+ID: M5020_S0020_G0000_300_sarutoru
+JP: おや、君達も私の講義を受けにきたのかね？
+EN: Oh ho! Have you come to hear my lecture as well?
+RU: 
+
+ID: M5020_S0020_G0010_300_a9s
+JP: いえ、結構です。
+EN: I'm good, thanks.
+RU: 
+
+
+-- Section 10
+
+ID: M5020_S0010_G0020_300_n02
+JP: 顔に濃いペイントを施した機械生命体は村の１階にいるよ。
+EN: The machine with the painted face is in the lower section of the village.
+RU: 
+
+
+-- Section 11
+
+ID: M5020_S0010_G0030_300_n02
+JP: <SARU_JAN>のことは少しわかったかい？
+EN: Have you learned a bit about <SARU_JAN> now?
+RU: 
+
+
+-- Section 12
+
+ID: M5020_S0070_G0060_001_n02
+JP: ああ、アンタ達か。
+EN: Oh, hey. You again.
+RU: 
+
+ID: M5020_S0070_G0070_001_n02
+JP: <SARU_JAN>だったら、もうここには居ないよ。
+EN: If you're looking for <SARU_JAN>, you're too late.
+RU: 
+
+ID: M5020_S0070_G0080_001_n02
+JP: 旅に出たんだ。
+EN: He set out on "a journey."
+RU: 
+
+ID: M5020_S0070_G0090_001_a9s
+JP: 旅？
+EN: A journey, huh?
+RU: 
+
+ID: M5020_S0070_G0100_001_n02
+JP: ああ……何でも自分を探しにいくんだ、とか。
+EN: Yes. He said he needed to go find himself or...something.
+RU: 
+
+ID: M5020_S0070_G0110_001_n02
+JP: アンタ達への手紙を預かってるから渡すよ。
+EN: Oh, but he left a letter for you. Here.
+RU: 
+
+
+-- Section 13
+
+ID: M5020_S0020_G0000_001_a9s
+JP: こんにちは……ちょっと聞きたい事があるんだけど。
+EN: Hello. Can we ask you a question?
+RU: 
+
+ID: M5020_S0020_G0010_001_a9s
+JP: 君は<SARU_JAN>ってロボットを知ってる？
+EN: Do you happen to know a machine named <SARU_JAN>?
+RU: 
+
+ID: M5020_S0020_G0020_001_robogirl
+JP: モチろん！　<SARU_JAN>さんはナンでも知っていてタヨリになる人。
+EN: I certainly do! Master <SARU_JAN> is a genius. You can rely on him for absolutely anything.
+RU: 
+
+ID: M5020_S0020_G0030_001_a9s
+JP: 頼りになる……？あれが？
+EN: Are we talking about the same <SARU_JAN> here?
+RU: 
+
+ID: M5020_S0020_G0040_001_robogirl
+JP: ワタシ、知らないコト多いから、お手紙書いた。ヨロシクね！
+EN: In fact, I was just thinking about how much wisdom he has to teach me, so I wrote him a letter asking for guidance. You'll take it to him, won't you?
+RU: 
+
+ID: M5020_S0020_G0050_001_a9s
+JP: え、ええ？
+EN: Huh!?
+RU: 
+
+ID: M5020_S0020_G0060_001_robogirl
+JP: 砂漠と遊園地にイル、女達にはマケたくない……！
+EN: I can't let that lady in the desert get to him first! Or that harpy in the amusement park...
+RU: 
+
+ID: M5020_S0020_G0070_001_a9s
+JP: 他にもいるのか……
+EN: Great. There are more of these weirdos?
+RU: 
+
+ID: M5020_S0020_G0080_001_a9s
+JP: っていうか、性別があるのか……こいつら。
+EN: And wait, they have genders?
+RU: 
+
+
+-- Section 14
+
+ID: M5020_S0020_G0040_300_robogirl
+JP: お手紙届けてくれました？
+EN: Did you deliver my letter?
+RU: 
+
+
+-- Section 15
+
+ID: M5020_S0060_G0000_001_robogirl
+JP: あ、やっとキタ！<SARU_JAN>さんカラのお返事は、ナンて？
+EN: There you are! Well? What did the master have to say about my letter?
+RU: 
+
+ID: M5020_S0060_G0010_001_a9s
+JP: それが……返事をする義務はない、とだけ。
+EN: Actually, he said it wasn't worthy of a response.
+RU: 
+
+ID: M5020_S0060_G0020_001_robogirl
+JP: サスガ！！<SARU_JAN>さんのそういうクールな所最高！
+EN: I KNEW it! Isn't he the greatest? I can't get enough of him.
+RU: 
+
+ID: M5020_S0060_G0030_001_a9s
+JP: 最高なんだ……
+EN: You don't say...
+RU: 
+
+
+-- Section 16
+
+ID: M5020_S0070_G0070_300_robogirl
+JP: <SARU_JAN>さんに新しいお手紙かかなくちゃ\n他の女には負けたくない！
+EN: I won't let those other women beat me to the punch—\nI must write Master <SARU_JAN> a new letter at once!
+RU: 
+
+
+-- Section 17
+
+ID: M5020_S0020_G0090_001_a9s
+JP: あの……
+EN: Um...
+RU: 
+
+ID: M5020_S0020_G0100_001_a9s
+JP: パスカル村にいる、<SARU_JAN>ってロボットを知ってる……？
+EN: Hello. Do you know of a machine named <SARU_JAN> who lives in the village?
+RU: 
+
+ID: M5020_S0020_G0110_001_robogirl
+JP: <SARU_JAN>様はとてもミステリアスで不思議な人ですわ。\nそれにとてもクールですのよ。
+EN: Master <SARU_JAN> is quite the mysterious gentleman. One might even go so far as to call him suspicious. And yet he's so alluring all the same!
+RU: 
+
+ID: M5020_S0020_G0120_001_a2b
+JP: ミステリアス……？クール……？
+EN: Suspicious...and alluring?
+RU: 
+
+ID: M5020_S0020_G0130_001_robogirl
+JP: そんなあの人にぴったりのプレゼントを用意しましたの。
+EN: Exactly. And I know just the gift for someone of that description!
+RU: 
+
+ID: M5020_S0020_G0140_001_robogirl
+JP: どうか届けてくださいな。
+EN: You'll deliver it to him straightaway, won't you?
+RU: 
+
+ID: M5020_S0020_G0150_001_robogirl
+JP: 砂漠のアノ女には……恋路をジャマさせない！
+EN: I won't let that terrible girl in the desert find a way to interfere with our love!
+RU: 
+
+
+-- Section 18
+
+ID: M5020_S0020_G0050_300_robogirl
+JP: プレゼントは届けていただけました？
+EN: Did you deliver my gift?
+RU: 
+
+
+-- Section 19
+
+ID: M5020_S0060_G0040_001_robogirl
+JP: <SARU_JAN>様にプレゼントを渡してくださったのね？
+EN: Did you give my gift to Master <SARU_JAN>?
+RU: 
+
+ID: M5020_S0060_G0050_001_robogirl
+JP: それで、返事は？
+EN: I must know what he said!
+RU: 
+
+ID: M5020_S0060_G0060_001_a9s
+JP: ええと……単なるガラスだって言ってたよ。
+EN: Well, he said it was a mere trifle.
+RU: 
+
+ID: M5020_S0060_G0070_001_robogirl
+JP: まあ！！なんという物事の真理を突いたお言葉！
+EN: Such insight! Such truth! He sees to the core of things in a way others cannot!
+RU: 
+
+ID: M5020_S0060_G0080_001_robogirl
+JP: 一生ついていきます！<SARU_JAN>様！
+EN: I shall follow you for the rest of my days, Master <SARU_JAN>!
+RU: 
+
+ID: M5020_S0060_G0090_001_a9s
+JP: 一生……ねぇ。
+EN: That's a long time.
+RU: 
+
+
+-- Section 20
+
+ID: M5020_S0070_G0080_300_robogirl
+JP: はぁ……<SARU_JAN>様……\nどうしたら振り向いてくださるのかしら……
+EN: Oh, Master <SARU_JAN>... What must I do to claim your attentions...?
+RU: 
+
+
+-- Section 21
+
+ID: M5020_S0020_G0160_001_a9s
+JP: あの～！
+EN: Hello there.
+RU: 
+
+ID: M5020_S0020_G0170_001_robogirl
+JP: あっ！
+EN: Ack!
+RU: 
+
+ID: M5020_S0020_G0180_001_a9s
+JP: え？
+EN: Huh?
+RU: 
+
+ID: M5020_S0020_G0190_001_robogirl
+JP: 貴方達、<SARU_JAN>様の村からいらしたのね……
+EN: You came here from Master <SARU_JAN>'s village, didn't you?
+RU: 
+
+ID: M5020_S0020_G0200_001_robogirl
+JP: 私には判る……ニオイで判る……
+EN: I can tell. I can smell him on you. *sniiiiiiiiff* Ahhhhh!
+RU: 
+
+ID: M5020_S0020_G0210_001_a9s
+JP: なんか怖いな……
+EN: Okay. That's weird.
+RU: 
+
+ID: M5020_S0020_G0220_001_robogirl
+JP: あの人は探究心旺盛で情熱的で素敵な人。あたしの憧れよ。
+EN: <SARU_JAN> is wonderful. He pursues new knowledge with a passion that is almost indescribable. I admire him as I do no other.
+RU: 
+
+ID: M5020_S0020_G0230_001_a2b
+JP: ……あれが？
+EN: You have issues.
+RU: 
+
+ID: M5020_S0020_G0240_001_robogirl
+JP: 貴方、見る目が無いわね～。男に騙されそうなタイプ。
+EN: And YOU clearly lack a discerning eye. I bet men take advantage of you all the time.
+RU: 
+
+ID: M5020_S0020_G0250_001_a2b
+JP: ……
+EN: Not exactly.
+RU: 
+
+ID: M5020_S0020_G0260_001_robogirl
+JP: あ、そうだ。
+EN: Ah, right.
+RU: 
+
+ID: M5020_S0020_G0270_001_robogirl
+JP: <SARU_JAN>様が興味を示しそうなモノを見つけたの。持っていって！
+EN: I found something that Master <SARU_JAN> is sure to be interested in. Please take it to him with all speed!
+RU: 
+
+
+-- Section 22
+
+ID: M5020_S0020_G0060_300_robogirl
+JP: 贈り物は渡してくれた？
+EN: Did you deliver my gift?
+RU: 
+
+
+-- Section 23
+
+ID: M5020_S0060_G0100_001_robogirl
+JP: ねえ！<SARU_JAN>様はあたしのプレゼントについて何か言ってた？
+EN: You there! Delivery boy! Pray tell what Master <SARU_JAN> thought of my present.
+RU: 
+
+ID: M5020_S0060_G0110_001_a9s
+JP: その……役に立たないガラクタだって言ってたよ。
+EN: He called it a useless piece of junk.
+RU: 
+
+ID: M5020_S0060_G0120_001_robogirl
+JP: あああっ……なんというサディスティックなプレイ！
+EN: Such cruelty! I've barely the words for it!
+RU: 
+
+ID: M5020_S0060_G0130_001_robogirl
+JP: ゾクゾクしちゃう！
+EN: When I think about his wanton sadism, it makes me... Oooooooh.
+RU: 
+
+ID: M5020_S0060_G0140_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 24
+
+ID: M5020_S0070_G0090_300_robogirl
+JP: 貴方……<SARU_JAN>様と親しいようだけど、抜け駆けは許さないわよ……
+EN: You seem quite friendly with Master <SARU_JAN>...\nSee that you don't steal him away from me!
+RU: 
+
+
+-- Section 25
+
+ID: M5020_S0070_G0000_001_a9s
+JP: なんだか、疲れましたね……
+EN: This is exhausting.
+RU: 
+
+ID: M5020_S0070_G0010_001_a9s
+JP: <SARU_JAN>は人の事を考えない男で……
+EN: <SARU_JAN> doesn't care at all about anyone but himself...
+RU: 
+
+ID: M5020_S0070_G0020_001_a9s
+JP: 相手は勝手に幻想を押し付けて、盲信する……
+EN: And yet his followers just keep talking about how great he is!
+RU: 
+
+ID: M5020_S0070_G0030_001_a9s
+JP: この関係に、一体、どんな意味があるんでしょうか？
+EN: What's the point of all this? And what's he even getting out of it?
+RU: 
+
+ID: M5020_S0070_G0040_001_a2b
+JP: ……<SARU_JAN>に聞けばいい。
+EN: Maybe you should ask him.
+RU: 
+
+
+-- Section 26
+
+ID: M5020_S0070_G0050_001_a9s
+JP: ……あれ？<SARU_JAN>はどこに行ったんだろう。
+EN: Hmm? Where's <SARU_JAN>?
+RU: 
+
+
+-- Section 27
+
+ID: M5020_S0070_G0120_001_a9s
+JP: 最後まで意味不明の人でしたね……
+EN: Well, he's nothing if not consistent. A weirdo right to the very end...
+RU: 
+
+ID: M5020_S0070_G0130_001_a9s
+JP: 人類も、男と女っていうのはこんな不思議な関係だったんでしょうか。
+EN: I wonder if all his followers being female had something to do with his weirdness. Did the human sexes interact with each other like this?
+RU: 
+
+ID: M5020_S0070_G0140_001_a2b
+JP: ……さあ。
+EN: Who knows...
+RU: 
+
+
+-- Section 28
+
+ID: M5020_S0030_G0000_001_a9s
+JP: ……２Ｂ、僕、思っている事があるんですけど。
+EN: Hey, 2B? I've been thinking about something.
+RU: 
+
+ID: M5020_S0030_G0010_001_a2b
+JP: 何？
+EN: What?
+RU: 
+
+ID: M5020_S0030_G0020_001_a9s
+JP: 美化……されてますよね、<SARU_JAN>さん。
+EN: Do you think this <SARU_JAN> fellow is being a little too...I dunno. Glorified?
+RU: 
+
+ID: M5020_S0030_G0030_001_a2b
+JP: 確かに……かなり……ね。
+EN: That's certainly one way to put it...
+RU: 
+
+
+-- Section 29
+
+ID: M5020_S0050_G0000_001_a9s
+JP: <SARU_JAN>は、プレゼントにまるで見向きもしませんでしたね。
+EN: <SARU_JAN> doesn't seem to appreciate these presents he's getting.
+RU: 
+
+ID: M5020_S0050_G0010_001_a9s
+JP: ……返事を待ってるかもしれませんし、
+EN: I suppose we should go tell his followers exactly what he thinks of them, huh?
+RU: 
+
+ID: M5020_S0050_G0020_001_a9s
+JP: 一応ファンの機械生命体達に伝えておきますか……
+EN: They'll be waiting for some kind of reply.
+RU: 
+
+

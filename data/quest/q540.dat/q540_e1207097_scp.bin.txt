@@ -1,0 +1,544 @@
+-- Section 1
+
+ID: M5540_S0000_G0010_001_op60
+JP: オペレーター６０より２Ｂへ機密レベル５通信。
+EN: Operator 6O to 2B. Be aware that the following transmission is classified Privilege Level 5.
+RU: 
+
+ID: M5540_S0000_G0020_001_op60
+JP: 廃墟地帯に派遣されていたヨルハ部隊員の一部が脱走。\nただちに対処してください。
+EN: A group of YoRHa fighters deployed to the city ruins have deserted. We need you to take care of them immediately.
+RU: 
+
+ID: M5540_S0000_G0030_001_op60
+JP: ……２Ｂさん、無理しないでくださいね。
+EN: But don't get yourself hurt, all right?
+RU: 
+
+ID: M5540_S0010_G0000_001_a9s
+JP: そんな……ヨルハ部隊員が脱走？\nそれに、レジスタンスキャンプを襲ったなんて……
+EN: YoRHa members deserting? And attacking the Resistance, no less...?
+RU: 
+
+ID: M5540_S0010_G0010_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5540_S0010_G0020_001_pod042
+JP: 提案：被害を抑える為に、早期の捜索と当該ヨルハ部隊員の捕縛。
+EN: Proposal: Rogue YoRHa units should be captured and detained in order to keep collateral damage at a minimum.
+RU: 
+
+ID: M5540_S0010_G0030_001_a9s
+JP: 捕縛って言ったって……
+EN: Detained? Easy for you to say.
+RU: 
+
+
+-- Section 2
+
+ID: M5540_S0000_G0010_001_op210
+JP: オペレーター２１Ｏより９Ｓへ機密レベル５通信。
+EN: Operator 21O to 9S. Be aware that the following transmission is classified Privilege Level 5.
+RU: 
+
+ID: M5540_S0000_G0020_001_op210
+JP: 廃墟地帯に派遣されていたヨルハ部隊員の一部が脱走。\nただちに対処してください。
+EN: A group of YoRHa fighters deployed to the city ruins have deserted. We need you to take care of them immediately.
+RU: 
+
+ID: M5540_S0000_G0030_001_op210
+JP: ９Ｓ……あまり無理しないように。
+EN: And 9S? ...Be careful.
+RU: 
+
+ID: M5540_S0010_G0000_001_a9s
+JP: そんな……ヨルハ部隊員が脱走？\nそれに、レジスタンスキャンプを襲ったなんて……
+EN: YoRHa members deserting? And attacking the Resistance, no less...?
+RU: 
+
+ID: M5540_S0010_G0010_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5540_S0010_G0020_001_pod042
+JP: 提案：被害を抑える為に、早期の捜索と当該ヨルハ部隊員の捕縛。
+EN: Proposal: Rogue YoRHa units should be captured and detained in order to keep collateral damage at a minimum.
+RU: 
+
+ID: M5540_S0010_G0030_001_a9s
+JP: 捕縛って言ったって……
+EN: Detained? Easy for you to say.
+RU: 
+
+
+-- Section 3
+
+ID: M5540_S0030_G0000_001_a2b
+JP: あれは……ヨルハ部隊……
+EN: They're from YoRHa.
+RU: 
+
+ID: M5540_S0030_G0010_001_pod042
+JP: 報告：捕縛命令を受けているヨルハ部隊員２２Ｂ及び６４Ｂと確認。
+EN: Alert: Targets are rogue units 22B and 64B, currently designated for detention.\n\n(need to get "two two B" and "six four B" version)
+RU: 
+
+ID: M5540_S0030_G0020_001_22b
+JP: えーっと……
+EN: Hey, is that—
+RU: 
+
+ID: M5540_S0030_G0030_001_64b
+JP: バカッ！追手だ！武装展開、隊長に連絡！
+EN: They've come for us, idiot! Prepare to engage—and inform the captain!
+RU: 
+
+
+-- Section 4
+
+ID: M5540_S0030_G0040_001_22b
+JP: はっ！はいっ！！
+EN: Got it!
+RU: 
+
+ID: M5540_S0030_G0060_001_a2b
+JP: 貴方達には任務放棄の罪で司令部から捕縛命令が下っている。\n大人しくして。
+EN: You're both currently wanted by Command for desertion. Disengage and surrender immediately.
+RU: 
+
+ID: M5540_S0030_G0070_001_64b
+JP: うるせえっ！！
+EN: Shut your trap!
+RU: 
+
+
+-- Section 5
+
+ID: M5540_S0030_G0080_001_22b
+JP: 隊長からの通信！撤退命令です！
+EN: Hold up! The captain is ordering a retreat!
+RU: 
+
+ID: M5540_S0030_G0090_001_64b
+JP: 了解！
+EN: Understood!
+RU: 
+
+
+-- Section 6
+
+ID: M5540_S0030_G0100_001_a9s
+JP: 逃げられた……
+EN: They got away...
+RU: 
+
+
+-- Section 7
+
+ID: M5540_S0030_G0010_001_pod042
+JP: 報告：捕縛命令を受けているヨルハ部隊員２２Ｂ及び６４Ｂと確認。
+EN: Alert: Targets are rogue units 22B and 64B, currently designated for detention.\n\n(need to get "two two B" and "six four B" version)
+RU: 
+
+ID: M5540_S0030_G0050_001_64b
+JP: クソッ……殺ってやる！！
+EN: Damn it... I'll kill you!
+RU: 
+
+
+-- Section 8
+
+ID: M5540_S0030_G0110_001_22b
+JP: よくも……よくも仲間をッ！！！
+EN: No... How could you!?
+RU: 
+
+
+-- Section 9
+
+ID: M5540_S0030_G0120_001_64b
+JP: ２２Ｂ！クソッ！クソオオオオッ！！
+EN: 22B! Ugh, damn it! Damn you to hell!
+RU: 
+
+
+-- Section 10
+
+ID: M5540_S0030_G0110_001_22b
+JP: よくも……よくも仲間をッ！！！
+EN: No... How could you!?
+RU: 
+
+
+-- Section 11
+
+ID: M5540_S0030_G0120_001_64b
+JP: ２２Ｂ！クソッ！クソオオオオッ！！
+EN: 22B! Ugh, damn it! Damn you to hell!
+RU: 
+
+
+-- Section 12
+
+ID: M5540_S0030_G0110_001_22b
+JP: よくも……よくも仲間をッ！！！
+EN: No... How could you!?
+RU: 
+
+
+-- Section 13
+
+ID: M5540_S0030_G0120_001_64b
+JP: ２２Ｂ！クソッ！クソオオオオッ！！
+EN: 22B! Ugh, damn it! Damn you to hell!
+RU: 
+
+
+-- Section 14
+
+ID: M5540_S0030_G0130_001_a8b
+JP: 一体、これは……２２Ｂ……６４Ｂ……
+EN: 22B? 64B? What the hell...?
+RU: 
+
+ID: M5540_S0030_G0140_001_pod042
+JP: 確認：逃亡ヨルハ機体の元隊長８Ｂ。
+EN: Alert: Target is former YoRHa captain 8B, currently wanted for desertion.
+RU: 
+
+ID: M5540_S0030_G0150_001_pod042
+JP: 推奨：捕縛。
+EN: Proposal: Disable and detain at once.
+RU: 
+
+ID: M5540_S0030_G0160_001_a8b
+JP: お前たちがやったのか！！
+EN: You... You did this!
+RU: 
+
+ID: M5540_S0030_G0170_001_a9s
+JP: お願いっ！抵抗しないでください！
+EN: Please! You have to stop fighting!
+RU: 
+
+ID: M5540_S0030_G0180_001_a8b
+JP: うるさいっ！何も……何も知らない癖に！！
+EN: Shut up! You don't know anything!
+RU: 
+
+
+-- Section 15
+
+ID: M5540_S0030_G0190_001_a2b
+JP: クッ……
+EN: Nnngh...
+RU: 
+
+ID: M5540_S0030_G0200_001_pod042
+JP: 報告：機体８Ｂは近接戦闘特化型モデル。
+EN: Analysis: Unit 8B specializes in close-quarters combat.
+RU: 
+
+ID: M5540_S0030_G0210_001_pod042
+JP: 推奨：遠距離攻撃による破壊。
+EN: Proposal: Destroy enemy with long-range attacks.
+RU: 
+
+ID: M5540_S0030_G0220_001_a9s
+JP: 破壊……破壊って……
+EN: ...Destroy? What happened to detain?
+RU: 
+
+
+-- Section 16
+
+ID: M5540_S0030_G0130_001_a8b
+JP: 一体、これは……２２Ｂ……６４Ｂ……
+EN: 22B? 64B? What the hell...?
+RU: 
+
+ID: M5540_S0030_G0140_001_pod042
+JP: 確認：逃亡ヨルハ機体の元隊長８Ｂ。
+EN: Alert: Target is former YoRHa captain 8B, currently wanted for desertion.
+RU: 
+
+ID: M5540_S0030_G0150_001_pod042
+JP: 推奨：捕縛。
+EN: Proposal: Disable and detain at once.
+RU: 
+
+ID: M5540_S0030_G0160_001_a8b
+JP: お前たちがやったのか！！
+EN: You... You did this!
+RU: 
+
+ID: M5540_S0030_G0170_001_a9s
+JP: お願いっ！抵抗しないでください！
+EN: Please! You have to stop fighting!
+RU: 
+
+ID: M5540_S0030_G0180_001_a8b
+JP: うるさいっ！何も……何も知らない癖に！！
+EN: Shut up! You don't know anything!
+RU: 
+
+
+-- Section 17
+
+ID: M5540_S0030_G0190_001_a2b
+JP: クッ……
+EN: Nnngh...
+RU: 
+
+ID: M5540_S0030_G0200_001_pod042
+JP: 報告：機体８Ｂは近接戦闘特化型モデル。
+EN: Analysis: Unit 8B specializes in close-quarters combat.
+RU: 
+
+ID: M5540_S0030_G0210_001_pod042
+JP: 推奨：遠距離攻撃による破壊。
+EN: Proposal: Destroy enemy with long-range attacks.
+RU: 
+
+ID: M5540_S0030_G0220_001_a9s
+JP: 破壊……破壊って……
+EN: ...Destroy? What happened to detain?
+RU: 
+
+
+-- Section 18
+
+ID: M5540_S0030_G0130_001_a8b
+JP: 一体、これは……２２Ｂ……６４Ｂ……
+EN: 22B? 64B? What the hell...?
+RU: 
+
+ID: M5540_S0030_G0140_001_pod042
+JP: 確認：逃亡ヨルハ機体の元隊長８Ｂ。
+EN: Alert: Target is former YoRHa captain 8B, currently wanted for desertion.
+RU: 
+
+ID: M5540_S0030_G0150_001_pod042
+JP: 推奨：捕縛。
+EN: Proposal: Disable and detain at once.
+RU: 
+
+ID: M5540_S0030_G0160_001_a8b
+JP: お前たちがやったのか！！
+EN: You... You did this!
+RU: 
+
+ID: M5540_S0030_G0170_001_a9s
+JP: お願いっ！抵抗しないでください！
+EN: Please! You have to stop fighting!
+RU: 
+
+ID: M5540_S0030_G0180_001_a8b
+JP: うるさいっ！何も……何も知らない癖に！！
+EN: Shut up! You don't know anything!
+RU: 
+
+
+-- Section 19
+
+ID: M5540_S0030_G0190_001_a2b
+JP: クッ……
+EN: Nnngh...
+RU: 
+
+ID: M5540_S0030_G0200_001_pod042
+JP: 報告：機体８Ｂは近接戦闘特化型モデル。
+EN: Analysis: Unit 8B specializes in close-quarters combat.
+RU: 
+
+ID: M5540_S0030_G0210_001_pod042
+JP: 推奨：遠距離攻撃による破壊。
+EN: Proposal: Destroy enemy with long-range attacks.
+RU: 
+
+ID: M5540_S0030_G0220_001_a9s
+JP: 破壊……破壊って……
+EN: ...Destroy? What happened to detain?
+RU: 
+
+
+-- Section 20
+
+ID: M5540_S0030_G0230_001_pod042
+JP: 全ての機体を破壊。ブラックボックス信号停止を確認。
+EN: All units destroyed. Black box signals confirmed offline.
+RU: 
+
+ID: M5540_S0030_G0240_001_pod042
+JP: 任務完了。
+EN: Mission complete.
+RU: 
+
+
+-- Section 21
+
+ID: M5540_S0030_G0250_001_a9s
+JP: 僕達……仲間の機体を……
+EN: We...killed them. Our fellow units.
+RU: 
+
+ID: M5540_S0030_G0260_001_a2b
+JP: ……
+EN: ......
+RU: 
+
+ID: M5540_S0030_G0270_001_a9s
+JP: どうして、この人達はレジスタンスキャンプから物資を盗んだりしたんだろう……
+EN: Why the hell did they steal from the Resistance in the first place?
+RU: 
+
+ID: M5540_S0030_G0280_001_a9s
+JP: ……そうだ。アネモネさんなら、何か知ってるかも。２Ｂ。
+EN: You think Anemone might know something, 2B?
+RU: 
+
+ID: M5540_S0030_G0290_001_a2b
+JP: ……わかった。
+EN: Let's find out.
+RU: 
+
+
+-- Section 22
+
+ID: M5540_S0030_G0300_001_ane
+JP: ん？どうした。何かあったのか？
+EN: Yes? Can I help you?
+RU: 
+
+ID: M5540_S0030_G0310_001_a9s
+JP: 実は、確認したい事があって……
+EN: We need to check something with you, actually.
+RU: 
+
+ID: M5540_S0030_G0320_001_a9s
+JP: 最近、ヨルハ部隊がこのキャンプから資源を盗んだという話を\n聞いたのですが。その事について。
+EN: Can you tell us about the YoRHa soldiers who were stealing your supplies?
+RU: 
+
+ID: M5540_S0030_G0330_001_ane
+JP: ヨルハに？そんな件は初耳だが。
+EN: This is the first I've heard of it.
+RU: 
+
+ID: M5540_S0030_G0340_001_a9s
+JP: ……え？
+EN: Huh?
+RU: 
+
+ID: M5540_S0030_G0350_001_ane
+JP: ここの資材は分散管理してるけど、各所からそうした報告は受けてないな。
+EN: I mean, we keep our supplies in multiple locations, but so far as I know, nothing's gone missing.
+RU: 
+
+ID: M5540_S0030_G0360_001_a9s
+JP: ……そうですか。ありがとうございます。
+EN: I see. Well, thanks.
+RU: 
+
+
+-- Section 23
+
+ID: M5540_S0030_G0370_001_a9s
+JP: 盗んでなんかいなかった……じゃあ、一体……
+EN: So it turns out those soldiers didn't actually steal anything. Which means...what?
+RU: 
+
+ID: M5540_S0030_G0380_001_a9s
+JP: ……
+EN: ......
+RU: 
+
+ID: M5540_S0030_G0390_001_a9s
+JP: 司令部に通信。こちら９Ｓ応答せよ。
+EN: 9S to Command, come in.
+RU: 
+
+ID: M5540_S0030_G0400_001_op210
+JP: こちら２１Ｏ。どうしました？
+EN: Operator 21O here. Go ahead.
+RU: 
+
+ID: M5540_S0030_G0410_001_a9s
+JP: 実は、逃亡したヨルハ部隊についてなのですが……
+EN: It's about the YoRHa soldiers who deserted.
+RU: 
+
+ID: M5540_S0030_G0420_001_op210
+JP: はい。こちらでもその情報は確認しました。
+EN: Copy that, 9S. We've confirmed their status on this end.
+RU: 
+
+ID: M5540_S0030_G0430_001_a9s
+JP: しかし、司令官から言われているような盗難事件はレジスタンスキャンプでは\n発生していませんでした。
+EN: No, but I mean... The Resistance says that none of their supplies are actually missing.
+RU: 
+
+ID: M5540_S0030_G0440_001_a9s
+JP: 一体……これって……
+EN: So what's going on here?
+RU: 
+
+ID: M5540_S0030_G0450_001_op210
+JP: ……当該案件へのアクセスは出来ません。
+EN: ...I lack access to the data concerning this mission.
+RU: 
+
+ID: M5540_S0030_G0460_001_a9s
+JP: え……？
+EN: Huh?
+RU: 
+
+ID: M5540_S0030_G0470_001_op210
+JP: 司令官命令によるものです。
+EN: The order came from the Commander herself.
+RU: 
+
+ID: M5540_S0030_G0480_001_a9s
+JP: え？どういう事ですか？
+EN: What? Operator, I don't understand—
+RU: 
+
+ID: M5540_S0030_G0490_001_op210
+JP: ９Ｓ……気をつけて。
+EN: Be careful, 9S.
+RU: 
+
+ID: M5540_S0030_G0500_001_op210
+JP: 私からの情報は以上です。
+EN: I have no further information.
+RU: 
+
+ID: M5540_S0030_G0510_001_a9s
+JP: あれっ？オペレーターさん！？
+EN: Huh? Operator? ...Operator?
+RU: 
+
+ID: M5540_S0030_G0520_001_a9s
+JP: どうして……
+EN: The hell is that all about?
+RU: 
+
+ID: M5540_S0030_G0530_001_a2b
+JP: ……行こう。９Ｓ。
+EN: Let's go.
+RU: 
+
+ID: M5540_S0030_G0540_001_a9s
+JP: でも……
+EN: But—
+RU: 
+
+ID: M5540_S0030_G0550_001_a2b
+JP: 私達は……戦うだけだ。
+EN: We're here to fight. That's all.
+RU: 
+
+

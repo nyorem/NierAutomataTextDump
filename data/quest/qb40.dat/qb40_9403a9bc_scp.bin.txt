@@ -1,0 +1,573 @@
+-- Section 1
+
+ID: M6010_S0080_G0510_300_op
+JP: ＜＜バンカーより地上部隊へ。\n任務の情報が更新されたから、データを転送しますね＞＞
+EN: "This is the Bunker. I'm uploading updated mission intel to you now."
+RU: 
+
+ID: M6010_S0080_G0520_300_op
+JP: ＜＜ちゃんと隊長の命令を聞いて、くれぐれも無理しないように！＞＞
+EN: "Make sure to listen to your commanding officer, and don't push yourself too hard."
+RU: 
+
+
+-- Section 2
+
+ID: M6010_S0080_G0530_300_op
+JP: あらあなた、任務はもう終わったの？
+EN: Hmm? Done with your mission already? Must be nice!
+RU: 
+
+
+-- Section 3
+
+ID: M6010_S0020_G1060_300_op
+JP: 機械生命体との和睦が成立すれば、これ以上の犠牲は\n出ないんだろうけど、そうと割り切れない人も中にはいるのよ。
+EN: If we made peace with the machines, no one else would have to die. Yet that's a trade-off some of us still aren't willing to make.
+RU: 
+
+
+-- Section 4
+
+ID: M6010_S0020_G1070_300_op
+JP: 人類に栄光あれ。
+EN: Glory to mankind.
+RU: 
+
+
+-- Section 5
+
+ID: M6010_S0010_G1030_300_op
+JP: 号令に熱が入りすぎて、任務内容を伝えてないみたいだけど、大丈夫かしら？
+EN: They're so obsessed with giving orders, they forget to provide details about the actual mission! I sure hope we're going to be okay...
+RU: 
+
+ID: M6010_S0010_G1040_300_op
+JP: まぁ、地上についたら私が連絡するから別にいいんだけど。
+EN: Still, I'll be managing things once everyone's on Earth, so at least I know THAT part will go smoothly.
+RU: 
+
+
+-- Section 6
+
+ID: M6010_S0010_G1050_300_op
+JP: 人類に栄光あれ。
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 7
+
+ID: M6010_S0080_G0340_300_op
+JP: ＜＜地上部隊、こちらバンカー。次の任務に必要なデータを転送します＞＞
+EN: "This is the Bunker. I'm uploading the data required for your next mission."
+RU: 
+
+
+-- Section 8
+
+ID: M6010_S0080_G0350_300_op
+JP: こんなところで何してるんですか？
+EN: ...What the hell are YOU doing here?
+RU: 
+
+ID: M6010_S0080_G0360_300_op
+JP: 戦闘部隊は今も地上で戦ってるんです。\n早く向かってください。
+EN: We're fighting a war on Earth, you know? And you need to get down there and help out NOW!
+RU: 
+
+
+-- Section 9
+
+ID: M6010_S0020_G0730_300_op
+JP: ……以上が任務の概要です。\n詳細は追って連絡します。
+EN: ...And that concludes the mission briefing. I'll contact you later with further details.
+RU: 
+
+
+-- Section 10
+
+ID: M6010_S0020_G0740_300_op
+JP: ……何ですか？その目は。
+EN: ...What? Why are you looking at me like that?
+RU: 
+
+
+-- Section 11
+
+ID: M6010_S0010_G0730_300_op
+JP: ……以上が任務の概要です。\n次に詳細ですが……
+EN: That concludes your mission summary. As for the detailed breakdown, the first thing to remember is...
+RU: 
+
+
+-- Section 12
+
+ID: M6010_S0010_G0740_300_op
+JP: ……何か御用ですか？\n今は任務の伝達中なので、邪魔しないでください。
+EN: Um, unless something is literally on fire, please go away. I'm in the middle of a critical mission briefing.
+RU: 
+
+
+-- Section 13
+
+ID: M6010_S0080_G0370_300_op
+JP: ＜＜地上部隊、こちらバンカー＞＞
+EN: "This is the Bunker."
+RU: 
+
+ID: M6010_S0080_G0380_300_op
+JP: ＜＜ちょっとバイタル反応が低下してるみたいだから、\n無理せず治療してね＞＞
+EN: "We're reading a sudden decrease in your vital signs. Please make sure you don't push yourself too hard."
+RU: 
+
+
+-- Section 14
+
+ID: M6010_S0080_G0390_300_op
+JP: ……あら、こんなところでどうしたの？\nあなた達が休んでるうちに、手柄をもらっちゃおうかしら。
+EN: ...You know, while you sit here lazing about and eating bon-bons, someone is probably down on Earth stealing your glory!
+RU: 
+
+
+-- Section 15
+
+ID: M6010_S0020_G0750_300_op
+JP: 最近すっかり仕事にも慣れちゃったみたいで、少しさみしいわ。
+EN: Lately, she's been doing all her work perfectly. I'm actually starting to miss when she needed help.
+RU: 
+
+
+-- Section 16
+
+ID: M6010_S0020_G0760_300_op
+JP: あなた達も息ぴったりね。\n私達も負けてられないわねぇ。
+EN: You guys always seem to be synched up. We're gonna make sure we are, too!
+RU: 
+
+
+-- Section 17
+
+ID: M6010_S0010_G0750_300_op
+JP: この子はまだ製造されて日が浅いせいか、すっごく緊張してるみたい。
+EN: This unit was only manufactured recently, so she's still quite nervous.
+RU: 
+
+
+-- Section 18
+
+ID: M6010_S0010_G0760_300_op
+JP: 情報は短く簡潔に、要点だけをまとめないと一人前とは言えないわね。
+EN: You aren't a full-fledged operator until you can summarize information accurately and concisely.
+RU: 
+
+ID: M6010_S0010_G0770_300_op
+JP: ちょっとくらいヘマをしたってフォローするのにねぇ。\n相棒だもの……あなた達もそうでしょう？
+EN: She can relax a little, though. I'll cover for her. She's my partner, after all. You guys know what that's like.
+RU: 
+
+
+-- Section 19
+
+ID: M6010_S0080_G0400_300_op
+JP: ＜＜地上部隊、こちらバンカー＞＞
+EN: "This is the Bunker."
+RU: 
+
+ID: M6010_S0080_G0410_300_op
+JP: ＜＜何か異常はありませんか？＞＞
+EN: "Are you experiencing anything unusual?"
+RU: 
+
+ID: M6010_S0080_G0415_300_op
+JP: ＜＜バイタル反応は正常みたいですが、検出できないエラーが潜んでるかも\nしれないのでそろそろ戻ってメンテナンスを……＞＞
+EN: " Your vital signs appear normal, but there's always the possibility of undetected errors. It's about time you returned for maintenance."
+RU: 
+
+ID: M6010_S0080_G0420_300_op
+JP: ＜＜ああちょっと、切らないでください！！！＞＞
+EN: "No, wait! Stay on the line!"
+RU: 
+
+
+-- Section 20
+
+ID: M6010_S0080_G0430_300_op
+JP: 通信がつながらない……もしかして何かあったんじゃ……
+EN: ...Dammit! I can't get through! What if something's happening?
+RU: 
+
+ID: M6010_S0080_G0440_300_op
+JP: ＜＜もしもし、聞こえますか？もしもーし！＞＞
+EN: "This is the Bunker! Come in! ...Do you read me!?"
+RU: 
+
+
+-- Section 21
+
+ID: M6010_S0020_G0810_300_op
+JP: いいですか？絶対に油断しないでくださいよ？
+EN: Don't ever let your guard down, you hear me?
+RU: 
+
+ID: M6010_S0020_G0820_300_op
+JP: 危ないと思ったらすぐ引いて、他の隊員に任せて……ちゃんと聞いてますか？
+EN: If you're in danger, back off and wait for reinforcements. Also, whenever— Hey! Are you listening to me!?
+RU: 
+
+
+-- Section 22
+
+ID: M6010_S0020_G0830_300_op
+JP: ……この間はたまたま、運良く無傷で帰ってこれたものの……\n次は大けがしたらと思うと気が重い……
+EN: You were damn lucky to escape unharmed the other day, you know? Next time things might not turn out so well.
+RU: 
+
+ID: M6010_S0020_G0840_300_op
+JP: いっそ私も戦闘特化型にモデルチェンジすれば……？
+EN: Maybe I should change to a combat model so I can help you out...
+RU: 
+
+
+-- Section 23
+
+ID: M6010_S0010_G0810_300_op
+JP: 本当に大丈夫ですか？
+EN: Are you feeling all right?
+RU: 
+
+ID: M6010_S0010_G0820_300_op
+JP: 回復薬は持ちました？数は足りてますか？\nバイタル反応が低下したらすぐに治療するんですよ？
+EN: Do you have enough recovery items? How are your vital signs? It's critical to deal with injuries right away!
+RU: 
+
+
+-- Section 24
+
+ID: M6010_S0010_G0830_300_op
+JP: はぁ……心配です……\n今からオペレーターモデルに転換願い出そうかな……
+EN: I'm so worried... Maybe I should talk to one of the operators and request a model change.
+RU: 
+
+
+-- Section 25
+
+ID: M6010_S0020_G0640_300_ys
+JP: ……お前達は信じてるか？これは誰のための戦争だ？
+EN: Do you believe... I mean, do you even know who this war is FOR at this point?
+RU: 
+
+ID: M6010_S0020_G0650_300_ys
+JP: ……なんでもない、失言だった。\n気にしないでくれ。
+EN: Er, never mind. I've said too much.
+RU: 
+
+
+-- Section 26
+
+ID: M6010_S0020_G0660_300_ys
+JP: 私を見張ったところで無駄だぞ。
+EN: ...You don't have to watch me like that, you know? I'm not planning a rebellion or anything.
+RU: 
+
+ID: M6010_S0020_G0670_300_ys
+JP: 別に謀反を企ててるわけじゃない。\nなんなら司令部に報告するか？
+EN: Feel free to report me to Command if you feel like it.
+RU: 
+
+ID: M6010_S0020_G0680_300_ys
+JP: ……どうせ聞いちゃくれないだろうがな。
+EN: They wouldn't listen even if you did.
+RU: 
+
+
+-- Section 27
+
+ID: M6010_S0010_G0640_300_ys
+JP: ……こっちは順調だ。\nああ、特に気づかれてる様子は……
+EN: Everything's proceeding smoothly. \nThere's no sign anyone's noticed any—
+RU: 
+
+ID: M6010_S0010_G0650_300_ys
+JP: なんだお前、あっちにいけ。
+EN: What's your problem? Get outta my face before I rearrange yours!
+RU: 
+
+
+-- Section 28
+
+ID: M6010_S0010_G0660_300_ys
+JP: おい、しつこいぞ。\n何の通信かって？そんなのお前に関係ないだろ。
+EN: Back off! This is none of your business!
+RU: 
+
+ID: M6010_S0010_G0670_300_ys
+JP: …………ああ、こっちの問題だ。\n気にしないでくれ。
+EN: ...Yeah, just a minor annoyance. Nothing to get your undies in a twist over.
+RU: 
+
+ID: M6010_S0010_G0680_300_ys
+JP: ほら、早く行った行った。
+EN: Hey, didn't you hear me the first time? Make like a machine and get outta here!
+RU: 
+
+
+-- Section 29
+
+ID: M6010_S0020_G0690_300_ys
+JP: 調子はどうだ？\n私達はまぁ……ぼちぼちだな。
+EN: Hey, how's it going? ...Hmm? Us? Uh, we're fine, I guess.
+RU: 
+
+
+-- Section 30
+
+ID: M6010_S0020_G0700_300_ys
+JP: 最初に比べて大分マシになったが、まだ全然だ。\nもっと精進しないとな。
+EN: Better than we were at the beginning, although we still have a ways to go. Lots of hard work ahead for sure.
+RU: 
+
+
+-- Section 31
+
+ID: M6010_S0010_G0690_300_ys
+JP: ……オペレーターの説明は細かすぎるんだ。\n現地で必要なデータさえあれば、後は適当にこっちで対処するんだが。
+EN: Man, these operators are so fussy! Wish they'd just get me the data I need and let me do my thing!
+RU: 
+
+
+-- Section 32
+
+ID: M6010_S0010_G0700_300_ys
+JP: 相棒がかなり緊張しているようだな……\nそんなに私は頼りなく見えるだろうか？
+EN: My partner seems...tense. Do you think it's something I did?
+RU: 
+
+
+-- Section 33
+
+ID: M6010_S0020_G0710_300_ys
+JP: 最近少しだけ任務に慣れてきたんです。\nまだまだ足を引っ張ってばかりだけど、いつかは私も……
+EN: Missions seem easier now—or maybe I'm just more used to them. I mean, I still get in the way sometimes, but I'm learning.
+RU: 
+
+
+-- Section 34
+
+ID: M6010_S0020_G0720_300_ys
+JP: ……任務了解です！\n精一杯頑張りますね！
+EN: Mission received loud and clear! I won't let you down!
+RU: 
+
+
+-- Section 35
+
+ID: M6010_S0010_G0710_300_ys
+JP: オペレーターさんが丁寧に説明してくれてるのに、私全然理解できなくて……\n先輩の足を引っ張らないか心配です……
+EN: The operators try hard to explain everything, but I'm still so confused. ...I just hope I don't get in anyone's way.
+RU: 
+
+
+-- Section 36
+
+ID: M6010_S0010_G0720_300_ys
+JP: ……あの、すみません……説明がちょっとわからなくて……\nもう一度お願いできませんか……？
+EN: Yeah, sorry, but I don't really get it. Can you explain it again? Maybe go a little slower this time?
+RU: 
+
+
+-- Section 37
+
+ID: M6010_S0020_G0770_300_ys
+JP: 仲間が戦ってるのに、危ないからって一人だけ引くわけにはいかないだろう。
+EN: When you're fighting alongside your comrades, you can't just run away when things get hairy.
+RU: 
+
+ID: M6010_S0020_G0780_300_ys
+JP: データはちゃんとバックアップしてあるんだし、怪我なんて修理すればすぐに治る。\n……オペレーターは心配性だなぁ。
+EN: That's why I make sure to back up my data regularly and repair any injuries right away. ...So someone tell those operators to just relax already!
+RU: 
+
+
+-- Section 38
+
+ID: M6010_S0020_G0790_300_ys
+JP: 戦闘部隊は戦うためにいるんだ。
+EN: Combat troops exist to fight.
+RU: 
+
+ID: M6010_S0020_G0800_300_ys
+JP: 私も仲間と一緒に人類の勝利に貢献したい。\nお前達もそうだろう？
+EN: My comrades and I want only to contribute to humanity's great victory. Can I assume you feel the same?
+RU: 
+
+
+-- Section 39
+
+ID: M6010_S0010_G0780_300_ys
+JP: そんなに心配しなくても大丈夫だ。\n回復薬は足りてるし、自分の体調管理くらいできる。
+EN: Don't worry, I can take care of myself. I've got plenty of recovery items.
+RU: 
+
+ID: M6010_S0010_G0790_300_ys
+JP: …………はぁ……
+EN: Uuuurgh...
+RU: 
+
+
+-- Section 40
+
+ID: M6010_S0010_G0800_300_ys
+JP: 心配してくれるのはありがたいんだが……\nこのまま永遠に出撃出来ない気がする……
+EN: Look, I'm grateful that people are concerned about me, but at some point they need to just let me go on a mission!
+RU: 
+
+
+-- Section 41
+
+ID: M6010_S0020_G0950_300_ys
+JP: お前達！先の作戦はよくやったな！\nこの調子で我々が活躍して、人類に栄光を取り戻すぞ！
+EN: You did great in the last mission. Such efforts are how we will win this war and bring glory to mankind!
+RU: 
+
+
+-- Section 42
+
+ID: M6010_S0020_G0960_300_ys
+JP: 正義が負けるなど、あってはならんことだ。\n先に散っていった仲間たちのためにも、必ず勝つぞ。
+EN: Justice cannot fail. We must endure on behalf of those who have fallen before us.
+RU: 
+
+ID: M6010_S0020_G0970_300_ys
+JP: 人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 43
+
+ID: M6010_S0010_G0940_300_ys
+JP: いいかお前達！人類の存続は我々の手にかかっている！\n気を引き締めて任務にかかるんだぞ！
+EN: Listen up! The future of the human race is in our hands! Now get out there and complete your missions!
+RU: 
+
+
+-- Section 44
+
+ID: M6010_S0010_G0950_300_ys
+JP: 機械生命体を見つけたら容赦するな！\n悪を許してはならない！
+EN: If you come across any machines, show no mercy and grant no quarter! Their evil must not be forgiven!
+RU: 
+
+ID: M6010_S0010_G0960_300_ys
+JP: 人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 45
+
+ID: M6010_S0020_G0980_300_ys
+JP: 自分も人類の勝利に貢献したいのに、皆の足を引っ張ってばかりで……\n次こそは……絶対……
+EN: I want to contribute to the victory of mankind, but right now, I just hold everyone back. I hope I finally get a chance to make a difference someday...
+RU: 
+
+
+-- Section 46
+
+ID: M6010_S0020_G0990_300_ys
+JP: ……人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 47
+
+ID: M6010_S0010_G0970_300_ys
+JP: 自分は隊長みたいに、機械生命体を沢山倒して人類の勝利に貢献するのが\n夢なんです。
+EN: Just like our commanding officer, my dream is to kill scores of machines and contribute to humanity's great victory.
+RU: 
+
+
+-- Section 48
+
+ID: M6010_S0010_G0980_300_ys
+JP: 人類に栄光あれ！
+EN: Glory to mankind!
+RU: 
+
+
+-- Section 49
+
+ID: M6010_S0020_G1000_300_ys
+JP: ……自分には、人類なんて見たこともない人たちのために誰かが死ぬのは\n嫌です。
+EN: I hate the thought of dying for humans when I've never even seen one.
+RU: 
+
+ID: M6010_S0020_G1010_300_ys
+JP: このまま皆でここに住んでいられたらいいのに……\nどうしてそれが許されないんだろう。
+EN: I just want to keep living here with my friends. Is that too much to ask?
+RU: 
+
+
+-- Section 50
+
+ID: M6010_S0020_G1020_300_ys
+JP: ……人類に栄光あれ。
+EN: Glory to mankind...
+RU: 
+
+
+-- Section 51
+
+ID: M6010_S0010_G0990_300_ys
+JP: 敵と戦うのは向いてないのに、戦闘部隊に配属されてしまった……\n今からでもオペレーターにチェンジできないかな……
+EN: Fighting isn't really my thing, but they assigned me to combat duty anyway. Wonder if I can transfer to being an operator...
+RU: 
+
+
+-- Section 52
+
+ID: M6010_S0010_G1000_300_ys
+JP: ……人類に栄光あれ。
+EN: Glory to mankind...
+RU: 
+
+
+-- Section 53
+
+ID: M6010_S0020_G1030_300_ys
+JP: 隊長、誰かがやられそうになるといつも庇うんですよ。
+EN: If one of us is going to get hit, the commanding officer steps in to take it in their place.
+RU: 
+
+ID: M6010_S0020_G1040_300_ys
+JP: その度にデータが巻き戻って、だから自分達と過ごした記憶なんてそんなに無いくせに、馬鹿ですよね。
+EN: But each time that happens, the officer's data resets—which means she never remembers any of us or what she did. It's so stupid.
+RU: 
+
+
+-- Section 54
+
+ID: M6010_S0020_G1050_300_ys
+JP: 人類に栄光あれ。
+EN: Glory to mankind.
+RU: 
+
+
+-- Section 55
+
+ID: M6010_S0010_G1010_300_ys
+JP: 隊長は形にこだわるタイプなんですよね。\nこんなところで号令なんかしてないで、さっさと任務に行きたいんですが……
+EN: Our commanding officer loooves formalities. Me? I'd rather just get the orders over with and start the mission already.
+RU: 
+
+
+-- Section 56
+
+ID: M6010_S0010_G1020_300_ys
+JP: 人類に栄光あれ。
+EN: Glory to mankind.
+RU: 
+
+

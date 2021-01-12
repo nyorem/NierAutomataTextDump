@@ -1,0 +1,273 @@
+-- Section 1
+
+ID: M5910_S0100_G0000_001_pascal
+JP: ひいいいっ！助けて……助けてください！！
+EN: Help! Help me!
+RU: 
+
+ID: M5910_S0100_G0010_001_a2
+JP: 機械生命体同士の……争い？
+EN: Are those machines fighting each other?
+RU: 
+
+
+-- Section 2
+
+ID: M5910_S0100_G0020_001_pascal
+JP: 大変ありがとうございました。
+EN: Thank you so much for saving me.
+RU: 
+
+
+-- Section 3
+
+ID: M5910_S0100_G0030_001_a2
+JP: 貴様も機械生命体だろう……
+EN: You're a machine too...
+RU: 
+
+ID: M5910_S0100_G0040_001_pascal
+JP: いいえ！貴方と戦うつもりはありません！
+EN: Wait, please! I have no intention of harming you!
+RU: 
+
+ID: M5910_S0100_G0050_001_pascal
+JP: 私の名前はパスカル。戦いを嫌う機械生命体です。
+EN: My name is Pascal. And while it's true that I am a machine lifeform, I also detest fighting of any kind.
+RU: 
+
+ID: M5910_S0100_G0060_001_a2
+JP: ……だから何だ。
+EN: Uh huh. And?
+RU: 
+
+ID: M5910_S0100_G0070_001_a2
+JP: 機械生命体に魂なんか無い。ただの殺戮機械だ。
+EN: Machines don't have souls. They're just murder bots with a fancy name.
+RU: 
+
+ID: M5910_S0100_G0080_001_a2
+JP: 私の仲間を何人も殺した罪を……償ってもらおう。
+EN: They killed so many of us...and I swore to make them pay.
+RU: 
+
+ID: M5910_S0100_G0090_001_pascal
+JP: そうですか、仕方ありませんね。
+EN: Ah...I see.
+RU: 
+
+ID: M5910_S0100_G0100_001_pascal
+JP: それで、貴方が……救われるのなら。
+EN: If that will save your soul, then so be it.
+RU: 
+
+ID: M5910_S0100_G0120_001_sele
+JP: パスカルを生かしておく。
+EN: Let Pascal live.
+RU: 
+
+ID: M5910_S0100_G0110_001_sele
+JP: パスカルを許さない。
+EN: Destroy Pascal.
+RU: 
+
+
+-- Section 4
+
+ID: M5910_S0100_G0080_001_a2
+JP: 私の仲間を何人も殺した罪を……償ってもらおう。
+EN: They killed so many of us...and I swore to make them pay.
+RU: 
+
+ID: M5910_S0100_G0090_001_pascal
+JP: そうですか、仕方ありませんね。
+EN: Ah...I see.
+RU: 
+
+ID: M5910_S0100_G0100_001_pascal
+JP: それで、貴方が……救われるのなら。
+EN: If that will save your soul, then so be it.
+RU: 
+
+ID: M5910_S0100_G0120_001_sele
+JP: パスカルを生かしておく。
+EN: Let Pascal live.
+RU: 
+
+ID: M5910_S0100_G0110_001_sele
+JP: パスカルを許さない。
+EN: Destroy Pascal.
+RU: 
+
+
+-- Section 5
+
+ID: M5910_S0100_G0130_001_pascal
+JP: ……殺さないのですか？
+EN: You...aren't going to kill me?
+RU: 
+
+ID: M5910_S0100_G0140_001_a2
+JP: うるさい……気が変わらない内にどこかに行け。
+EN: Just shut up and leave before I change my mind.
+RU: 
+
+ID: M5910_S0100_G0150_001_pascal
+JP: ……貴女は、
+EN: You...
+RU: 
+
+ID: M5910_S0100_G0155_001_pascal
+JP: …………
+EN: ...
+RU: 
+
+ID: M5910_S0100_G0160_001_pascal
+JP: ……いえ、何でもありません。
+EN: No. Never mind.
+RU: 
+
+ID: M5910_S0100_G0170_001_pascal
+JP: ありがとうございました。
+EN: You have my thanks.
+RU: 
+
+
+-- Section 6
+
+ID: M5910_S0010_G0000_001_kj
+JP: ん？見かけない顔だな。
+EN: Hmm? Haven't seen you before.
+RU: 
+
+
+-- Section 7
+
+ID: M5910_S0010_G0010_001_toolshop
+JP: あんた誰だ？
+EN: Who are you?
+RU: 
+
+
+-- Section 8
+
+ID: M5910_S0010_G0020_001_adjuster
+JP: ……
+EN: ......
+RU: 
+
+
+-- Section 9
+
+ID: M5910_S0010_G0040_001_resiwomanB
+JP: 貴女……どこかで見たことあるわね。
+EN: Have I seen you somewhere before?
+RU: 
+
+
+-- Section 10
+
+ID: M5910_S0010_G0050_001_resimanA
+JP: おいおい。その傷、大丈夫か？
+EN: Hey, you gonna be all right with those wounds?
+RU: 
+
+
+-- Section 11
+
+ID: M5910_S0200_G0090_001_ane
+JP: お前は、二号……生きてたのか。
+EN: Number Two! You're still alive.
+RU: 
+
+ID: M5910_S0200_G0100_001_a2
+JP: 久しぶりだな、アネモネ。
+EN: Sorry I haven't been in touch, Anemone.
+RU: 
+
+ID: M5910_S0200_G0110_001_ane
+JP: そうか……生きてたか。良かった。
+EN: You survived. That's all that matters.
+RU: 
+
+ID: M5910_S0200_G0120_001_ane
+JP: ……あの時、一緒に戦った奴らは皆死んだよ。
+EN: Though I fear that all of your fighting companions are long gone.
+RU: 
+
+ID: M5910_S0200_G0130_001_ane
+JP: 二十一号は……私がこの手で……
+EN: I had to kill Number 21 with my own hands.
+RU: 
+
+ID: M5910_S0200_G0140_001_a2
+JP: ……
+EN: ......
+RU: 
+
+ID: M5910_S0200_G0150_001_a2
+JP: ……すまなかったな。
+EN: I'm sorry.
+RU: 
+
+ID: M5910_S0200_G0160_001_ane
+JP: いや……
+EN: No, it's...
+RU: 
+
+ID: M5910_S0200_G0170_001_ane
+JP: そうだ！二号、君にそっくりな２Ｂっていうヨルハがいたんだよ。そいつは
+EN: Oh, that's right! Did you know there was a YoRHa member here named 2B that looked just like you? She's—
+RU: 
+
+ID: M5910_S0200_G0180_001_a2
+JP: 死んだよ。
+EN: She's dead.
+RU: 
+
+ID: M5910_S0200_G0190_001_ane
+JP: え？
+EN: What?
+RU: 
+
+ID: M5910_S0200_G0200_001_a2
+JP: ２Ｂは私が殺した。論理ウィルスに汚染されていたんだ。
+EN: 2B is dead. I killed her. She was infected with a logic virus.
+RU: 
+
+ID: M5910_S0200_G0210_001_ane
+JP: ……そうか。
+EN: Oh...
+RU: 
+
+ID: M5910_S0200_G0220_001_ane
+JP: このキャンプは自由に使ってくれ。施設の説明は……
+EN: Well, please make yourself at home in our camp. I'll have someone show you aro—
+RU: 
+
+ID: M5910_S0200_G0230_001_a2
+JP: 必要ない。
+EN: Not necessary.
+RU: 
+
+ID: M5910_S0200_G0240_001_a2
+JP: 彼女の記憶は……この剣に残っている。
+EN: Her memories are contained in this sword.
+RU: 
+
+ID: M5910_S0200_G0250_001_ane
+JP: ……わかった。
+EN: I see.
+RU: 
+
+ID: M5910_S0200_G0260_001_ane
+JP: ２Ｂの使ってた部屋は自由に使ってくれて構わない。
+EN: You can go ahead and use her old room, then.
+RU: 
+
+ID: M5910_S0200_G0270_001_ane
+JP: 私がここのリーダーをやってるんだ。皆には言っておく。
+EN: I'm in charge of the camp here. I'll make sure to tell everyone about you.
+RU: 
+
+

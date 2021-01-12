@@ -1,0 +1,30 @@
+ID: M1020_S0035_S0000_201_a9s
+JP: トオイ昔、山がフンカしました。
+EN: Once, long ago, a volcano erupted.
+RU: 
+
+ID: M1020_S0035_S0010_201_a9s
+JP: フンカの火の中から、カミサマが現れました。
+EN: From the fires of the eruption, a god emerged.
+RU: 
+
+ID: M1020_S0035_S0020_201_a9s
+JP: カミサマはキカイ達に、こう言いました。
+EN: One day, the god appeared before the machines and said:
+RU: 
+
+ID: M1020_S0035_S0030_201_a9s
+JP: イシキを、イタミを、ヨロコビを、カナシミを
+EN: "Consciousness, pain, joy, misery,
+RU: 
+
+ID: M1020_S0035_S0040_201_a9s
+JP: イカリを、シュウチを、コドクを、ミライを……
+EN: fury, shame, desolation, the future...
+RU: 
+
+ID: M1020_S0035_S0050_201_a9s
+JP: イキルイミを。
+EN: The meaning of life."
+RU: 
+

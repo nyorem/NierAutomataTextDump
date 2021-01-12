@@ -1,0 +1,40 @@
+ID: M1040_S0500_H0000_001_a2b
+JP: 敵大型兵器、全機機能停止を確認。
+EN: Target enemies offline. That should do it for the Goliaths.
+RU: 
+
+ID: M1040_S0500_H0010_001_a9s
+JP: 敵兵器が再充電してます！！
+EN: Look out! It's recharging!
+RU: 
+
+ID: M1040_S0500_H0020_001_a2b
+JP: くっ……
+EN:  
+RU: 
+
+ID: M1040_S0500_H0030_001_op60
+JP: 敵兵器の振動、さらに増加中。
+EN: Enemy vibrations are growing in intensity.
+RU: 
+
+ID: M1040_S0500_H0040_001_op60
+JP: 戦闘地域の地下空間が共鳴しています。
+EN: It's resonating in tandem with the area beneath the combat zone!
+RU: 
+
+ID: M1040_S0500_H0050_001_a9s
+JP: これは……
+EN: What the...?
+RU: 
+
+ID: M1040_S0500_H0060_001_cmd
+JP: まさか……数百年も姿を現さなかったエイリアンが……
+EN: Unbelievable... The aliens who haven't revealed themselves in hundreds of years...
+RU: 
+
+ID: M1040_S0500_H0070_001_cmd
+JP: 地下にいるだと……！？
+EN: were hiding underground!?
+RU: 
+

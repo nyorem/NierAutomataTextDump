@@ -1,0 +1,10 @@
+ID: M0010_S0090_H0000_101_pod042
+JP: 敵ノ破壊ヲ確認
+EN: Enemies destroyed.
+RU: 
+
+ID: M0010_S0090_H0010_101_a2b
+JP: いや……
+EN: Not quite.
+RU: 
+

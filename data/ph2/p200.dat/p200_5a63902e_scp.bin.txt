@@ -1,0 +1,39 @@
+-- Section 1
+
+ID: M1090_S0300_G0000_011_a2b
+JP: 
+EN: 
+RU: 
+
+ID: M1090_S0300_G0010_011_pod042
+JP: 警告：ＮＦＣＳ破損。近接戦闘が不可能。
+EN: Alert: NFCS destroyed. Close-range combat no longer operable.
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0300_G0020_021_a9s
+JP: 
+EN: 
+RU: 
+
+ID: M1090_S0300_G0030_021_pod153
+JP: 警告：ＮＦＣＳ破損。近接戦闘が不可能。
+EN: Alert: NFCS destroyed. Close-range combat no longer operable.
+RU: 
+
+
+-- Section 3
+
+ID: M1090_S0300_G0031_021_pod042
+JP: 警告：ＦＦＣＳ破損。遠距離攻撃が不可能。
+EN: Alert: FFCS destroyed. Ranged combat no longer operable.
+RU: 
+
+ID: M1090_S0300_G0032_021_pod153
+JP: 警告：ＦＦＣＳ破損。遠距離攻撃が不可能。
+EN: Alert: FFCS destroyed. Ranged combat no longer operable.
+RU: 
+
+

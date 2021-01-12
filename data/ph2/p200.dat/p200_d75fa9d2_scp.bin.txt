@@ -1,0 +1,31 @@
+-- Section 1
+
+ID: M1090_S0130_G0000_101_a2b
+JP: またコイツか……
+EN: You again?
+RU: 
+
+
+-- Section 2
+
+ID: M1090_S0130_G0002_101_pod042
+JP: 警告：周辺の機械生命体が当地域に集結中。
+EN: Alert: Local machine lifeforms are converging on the area.
+RU: 
+
+ID: M1090_S0130_G0003_101_a2b
+JP: これじゃあ、キリが無い……
+EN: This is never going to end...
+RU: 
+
+ID: M1090_S0130_G0004_101_pod042
+JP: 予測：敵大型兵器が叫ぶ事により、周囲の機械生命体を呼び寄せている。
+EN: Hypothesis: The Goliath-class enemy's scream has summoned the local machine lifeforms.
+RU: 
+
+ID: M1090_S0130_G0005_101_pod042
+JP: 推奨：敵大型兵器の破壊。
+EN: Proposal: Destroy the Goliath.
+RU: 
+
+

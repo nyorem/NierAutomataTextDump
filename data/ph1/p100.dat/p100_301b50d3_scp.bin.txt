@@ -1,0 +1,188 @@
+-- Section 1
+
+ID: M0010_S0220_G1030_101_a9s
+JP: ２Ｂさん！
+EN: 2B? Uh, ma'am?
+RU: 
+
+ID: M0010_S0220_G1040_101_a2b
+JP: 何？
+EN: What is it?
+RU: 
+
+ID: M0010_S0220_G1050_101_a9s
+JP: 事前に調査しておいたマップデータを転送しておきますね。
+EN: I was going to send you the map data I collected earlier.
+RU: 
+
+ID: M0010_S0220_G1060_101_a2b
+JP: 了解。
+EN: Do it.
+RU: 
+
+ID: M0010_S0220_G1110_101_a9s
+JP: ２Ｂさん。僕……嬉しいです。
+EN: You know, ma'am, I'm glad you're here.
+RU: 
+
+ID: M0010_S0220_G1120_101_a2b
+JP: 何が？
+EN: Why?
+RU: 
+
+ID: M0010_S0220_G1130_101_a9s
+JP: 僕達スキャナータイプは、単独での現地の事前調査が主です。
+EN: Scanners like me mostly work alone. Scouting out enemy lines and all that?
+RU: 
+
+ID: M0010_S0220_G1140_101_a9s
+JP: だから、誰かと一緒に行動出来るって、楽しいんです。
+EN: I don't usually get a partner. It's kind of fun!
+RU: 
+
+ID: M0010_S0220_G1150_101_a2b
+JP: ……感情を持つ事は禁止されている。
+EN: ...Emotions are prohibited.
+RU: 
+
+ID: M0010_S0220_G1160_101_a9s
+JP: あっ……すみません！
+EN: S-sorry, ma'am!
+RU: 
+
+ID: M0010_S0220_G1170_101_a2b
+JP: それと……
+EN: And another thing...
+RU: 
+
+ID: M0010_S0220_G1180_101_a2b
+JP: 『さん』は付けなくて、いい。
+EN: Stop calling me "ma'am".
+RU: 
+
+ID: M0010_S0220_G1190_101_a9s
+JP: ……え？
+EN: Huh?
+RU: 
+
+ID: M0010_S0220_G1200_101_a2b
+JP: 私の名前に敬称は必要ない。
+EN: It's unnecessary.
+RU: 
+
+ID: M0010_S0220_G1210_101_a9s
+JP: ……わかりました。２Ｂ！
+EN: All right, then. 2B it is!
+RU: 
+
+ID: M0010_S0220_G1220_101_a2b
+JP: 広いな……この廃墟。
+EN: This place sure is big.
+RU: 
+
+ID: M0010_S0220_G1230_101_a9s
+JP: ここは昔、人類の兵器工場だったらしいですよ。
+EN: I guess humans used to use it as a weapons factory.
+RU: 
+
+ID: M0010_S0220_G1240_101_a9s
+JP: 今ではすっかり機械生命体だらけですが……
+EN: But now it's just crawling with machines.
+RU: 
+
+ID: M0010_S0220_G1250_101_a9s
+JP: 敵はこの工場を再利用して、機械生命体を増産しているようです。
+EN: The enemy seems to have repurposed the facility to increase their overall machine production.
+RU: 
+
+ID: M0010_S0220_G1260_101_a2b
+JP: 全滅させないと無限に湧いてくるって事か……
+EN: So if we don't destroy it, they'll just keep coming.
+RU: 
+
+ID: M0010_S0220_G1266_101_a2b
+JP: ……何？
+EN: ...What?
+RU: 
+
+ID: M0010_S0220_G1267_101_a9s
+JP: 旧世界のデータを使って適当な事を喋ってるんです。
+EN: It's just accessing random nonsensical data from the old world.
+RU: 
+
+ID: M0010_S0220_G1268_101_a9s
+JP: 機械生命体のやる事に意味なんかないですよ。
+EN: There's no actual meaning behind anything machines do.
+RU: 
+
+ID: M0010_S0700_G1040_101_a2b
+JP: 一通り工場を探索したけど、目標らしき兵器は発見出来ず。
+EN: I surveyed the entire factory, but couldn't find anything resembling our target.
+RU: 
+
+ID: M0010_S0700_G1060_101_a9s
+JP: もしかしたら別の場所に移動しちゃったかもしれませんね。
+EN: Maybe they...I dunno. Moved it somewhere?
+RU: 
+
+ID: M0010_S0700_G1031_101_a2b
+JP: あれは……
+EN: Is that...?
+RU: 
+
+ID: M0010_S0700_G0032_101_a9s
+JP: ああ、鳥ですか。
+EN: You mean the birds?
+RU: 
+
+ID: M0010_S0700_G0033_101_a9s
+JP: 環境の変化があったのか、動物や植物は\n旧世界の時よりも増えているみたいですね。
+EN: Yeah, there's more plants and animals here than there used to be. Probably because the environment's changed.
+RU: 
+
+ID: M0010_S0700_G1061_101_a9s
+JP: その橋の先に別の施設があるはずです。
+EN: There should be another facility across that bridge.
+RU: 
+
+ID: M0010_S0700_G1062_101_a9s
+JP: ちょっと遠いですが、移動してみましょうか。
+EN: It's a bit of a hike, but should we check it out?
+RU: 
+
+ID: M0010_S0700_G1070_101_a9s
+JP: しかし、司令部が敵兵器の予測位置を間違えるなんて、珍しいですね。
+EN: It's not like Command to get a location wrong. I guess even they get bad intel from time to time, huh?
+RU: 
+
+ID: M0010_S0700_G1080_101_a2b
+JP: いや。
+EN: Hmm.
+RU: 
+
+ID: M0010_S0700_G1090_101_a2b
+JP: どうかな……
+EN: I wouldn't bet on that.
+RU: 
+
+ID: M0010_S0733_G0005_001_a2b
+JP: 　
+EN: 
+RU: 
+
+ID: M0010_S0733_G0000_201_a9s
+JP: ２Ｂ！？どうしたのっ！！
+EN: 2B? Wh-what's going on!?
+RU: 
+
+ID: M0010_S0733_G0010_201_pod153
+JP: 敵大型兵器と交戦に入った模様。
+EN: She appears to be engaging the target enemy.
+RU: 
+
+ID: M0010_S0733_G0020_201_a9s
+JP: 援護しなきゃ……急ごう！
+EN: We have to help her! Let's go!
+RU: 
+
+

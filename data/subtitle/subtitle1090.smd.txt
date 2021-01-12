@@ -1,0 +1,25 @@
+ID: M3060_S0030_H0000_001_a9s
+JP: 君達は……！？
+EN: Wait, you?
+RU: 
+
+ID: M3060_S0030_H0010_001_ppl
+JP: ９Ｓ……
+EN: 9S.
+RU: 
+
+ID: M3060_S0030_H0020_001_dbl
+JP: 来ると思っていたよ。
+EN: We've been expecting you.
+RU: 
+
+ID: M3060_S0030_H0030_001_dbl
+JP: ここは私達がなんとかする。
+EN: The two of us will take things from here!
+RU: 
+
+ID: M3060_S0030_H0040_001_ppl
+JP: 君は『塔』への扉を開いて。
+EN: You need to open the door to the Tower!
+RU: 
+

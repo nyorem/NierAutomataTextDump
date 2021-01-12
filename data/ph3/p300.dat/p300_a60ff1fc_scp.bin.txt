@@ -1,0 +1,175 @@
+-- Section 1
+
+ID: M3000_S0330_G0000_001_a2b
+JP: ポッド！司令部に通信、状況確認！
+EN: Pod, report our status to Command!
+RU: 
+
+ID: M3000_S0330_G0010_001_pod042
+JP: 不可能：機械生命体による妨害電波を感知。
+EN: Alert: All communications are currently being jammed.
+RU: 
+
+ID: M3000_S0330_G0020_001_a2b
+JP: クソッ！
+EN: God damn it!
+RU: 
+
+ID: M3000_S0330_G0030_001_a9s
+JP: ２Ｂ！
+EN: 2B!
+RU: 
+
+ID: M3000_S0330_G0040_001_a9s
+JP: 妨害電波を出している個体をマークした！
+EN: I located the unit that's jamming our comms.
+RU: 
+
+ID: M3000_S0330_G0050_001_a2b
+JP: わかった！
+EN: Got it.
+RU: 
+
+ID: M5920_S0010_G0280_001_pod042
+JP: 目標地点の情報を入手。マップにマーク。
+EN: Target location data obtained. Marking on map.
+RU: 
+
+
+-- Section 2
+
+ID: M3000_S0330_G0060_001_a9s
+JP: あのデカイのから妨害電波が出ているようです！
+EN: The jamming is coming from that thing!
+RU: 
+
+
+-- Section 3
+
+ID: M3000_S0330_G0070_001_a9s
+JP: これでジャミングは解除された筈…！
+EN: That should take care of the jamming.
+RU: 
+
+ID: M3000_S0330_G0080_001_a2b
+JP: 司令部に通信！状況報告と救援要請！
+EN: Pod, send an emergency distress signal to Command!
+RU: 
+
+ID: M3000_S0330_G0090_001_pod042
+JP: ……
+EN: ......
+RU: 
+
+ID: M3000_S0330_G0100_001_a2b
+JP: ポッド！！
+EN: Pod!
+RU: 
+
+ID: M3000_S0330_G0110_001_pod042
+JP: 通信ロスト。司令部に接続出来ず。
+EN: Alert: Connection lost. Unable to reach Command.
+RU: 
+
+ID: M3000_S0330_G0120_001_a2b
+JP: くそっ、まだジャミングが……
+EN: Damn it, they're STILL jamming us?
+RU: 
+
+ID: M3000_S0330_G0130_001_pod042
+JP: 否定：通信環境は良好。
+EN: Negative. Signal reception is clear.
+RU: 
+
+ID: M3000_S0330_G0140_001_pod042
+JP: 通信ロストは接続認証の失敗によるもの。
+EN: Connection lost due to server-side authentication failure.
+RU: 
+
+ID: M3000_S0330_G0150_001_pod042
+JP: 現在、司令部の通信機能は完全に沈黙。
+EN: No responses coming from Command on any channel.
+RU: 
+
+ID: M3000_S0330_G0160_001_a2b
+JP: バンカーが……一体、何が！？
+EN: Shit. What happened to the Bunker?
+RU: 
+
+
+-- Section 4
+
+ID: M3000_S0330_G0170_001_a2b
+JP: 駄目だッ……キリがない！
+EN: I can't keep doing this forever!
+RU: 
+
+ID: M3000_S0330_G0180_001_a9s
+JP: ２Ｂ！考えがある！
+EN: 2B! I have an idea!
+RU: 
+
+ID: M3000_S0330_G0190_001_a9s
+JP: バンカーには非常用のバックドアがあるから、
+EN: It's possible to access the Bunker through a backdoor in the system.
+RU: 
+
+ID: M3000_S0330_G0195_001_a9s
+JP: そこから僕と２Ｂのパーソナルログデータを全部アップロードして、
+EN: I can use that to initiate an emergency upload of our personal log data.
+RU: 
+
+ID: M3000_S0330_G0200_001_a9s
+JP: その後、ここをブラックボックス反応で吹き飛ばす！
+EN: Then we set our black boxes to self-destruct and take 'em all out at once!
+RU: 
+
+ID: M3000_S0330_G0210_001_a2b
+JP: ……わかった！
+EN: ...Sounds good!
+RU: 
+
+ID: M3000_S0330_G0220_001_a9s
+JP: データアップロード、３０％完了！
+EN: Data upload 30 percent complete.
+RU: 
+
+ID: M3000_S0330_G0230_001_a9s
+JP: ５０％完了！
+EN: 50 percent complete!
+RU: 
+
+ID: M3000_S0330_G0240_001_a9s
+JP: ７０％超えた！
+EN: We just hit 70 percent!
+RU: 
+
+ID: M3000_S0330_G0250_001_a2b
+JP: ９Ｓッ！まだ！？
+EN: Are you done yet!?
+RU: 
+
+ID: M3000_S0330_G0260_001_a9s
+JP: もう少し！９２％！
+EN: Almost! We're at 92 percent!
+RU: 
+
+ID: M3000_S0330_G0270_001_a9s
+JP: ２Ｂッ！ブラックボックスを！！
+EN: 2B! Your black box!
+RU: 
+
+
+-- Section 5
+
+ID: M5920_S0010_G0310_001_pod042
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: 
+
+ID: M5920_S0010_G0320_001_pod042
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: 
+
+

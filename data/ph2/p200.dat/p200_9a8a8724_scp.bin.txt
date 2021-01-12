@@ -1,0 +1,13 @@
+-- Section 1
+
+ID: M1080_S0080_G0180_201_a9s
+JP: 出口までのルートを確保完了です！
+EN: Exit route secured!
+RU: 
+
+ID: M1080_S0080_G0190_201_a2b
+JP: ありがとう！
+EN: Thanks!
+RU: 
+
+
