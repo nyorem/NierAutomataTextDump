@@ -21,10 +21,13 @@ SPEAKERS = {
     "resiman"    : "Resistance Member (man)",
     "resiwoman"  : "Resistance Member (woman)",
     "resiwoman2" : "Resistance Member (woman)",
+    "hennnawresi": "Strange Resistance Member",
     "pascal"     : "Pascal",
+    "robo"       : "Robot",
     "eng"        : "Engels",
     "adam"       : "Adam",
     "eve"        : "Eve",
+    "sele"       : "Selection (in a textbox)",
 }
 
 ALL_MISSIONS_FILE = "scripts/data/ALL_MISSIONS.txt"
@@ -95,16 +98,22 @@ HTML_TEMPLATE = """
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <link rel="stylesheet" href="../css/yorha.min.css"/>
+        <link rel="stylesheet" href="../css/style.css"/>
         <title>Nier:Automata - {title}</title>
     </head>
     <body>
         <h1>Nier:Automata</h1>
         <h2>{title}</h2>
 
-        <p>
-            <a href="../index.html">Home</a>
-        </p>
+        <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="#" id="show-jp">Show Japanese</a></li>
+            <li><a href="#" id="show-en">Show English</a></li>
+        </ul>
+
         {text}
+
+        <script src="../js/main.js"></script>
     </body>
 </html>
 """
@@ -112,9 +121,14 @@ HTML_TEMPLATE = """
 LINE_TEMPLATE = """
         <figure>
             <figcaption>{caption}</figcaption>
-            <div>
-                <p>{japanese}</p>
-                <p>{english}</p>
+            <div class="container">
+                <div>
+                    <p class="jp-{idx}">{japanese}</p>
+                    <p class="en-{idx}">{english}</p>
+                </div>
+                <div>
+                    <button class="switch-lang-{idx}">Switch</button>
+                </div>
             </div>
         </figure>
 """
@@ -170,12 +184,14 @@ class TextDump(object):
             print("Exporting to {}...".format(fname))
 
         contents = ""
-        for id, v in self.data.items():
+        for idx, (id, v) in enumerate(self.data.items()):
             if (filter is not None) and (re.match(filter, id) is None):
                 continue
 
             idParsed, jp, en, filename = v
-            contents += LINE_TEMPLATE.format(caption=idParsed.getSpeaker(), japanese=jp, english=en)
+            contents += LINE_TEMPLATE.format(caption=idParsed.getSpeaker(),
+                                             idx=idx,
+                                             japanese=jp, english=en)
         contents = HTML_TEMPLATE.format(title=title, text=contents)
 
         with open(fname, "w") as f:
@@ -188,7 +204,9 @@ if __name__ == "__main__":
         ALL_MISSIONS = [ mission.strip() for mission in ALL_MISSIONS ]
 
     # Parse all text
-    DIRS = ["data/ph1", "data/ph2", "data/ph3", "data/ph4", "data/phf"]
+    DIRS = ["data/core",
+            "data/ph1", "data/ph2", "data/ph3", "data/ph4", "data/phf",
+            ]
 
     textDump = TextDump()
     for d in DIRS:
