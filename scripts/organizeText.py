@@ -14,6 +14,7 @@ SPEAKERS = {
     "a4b"        : "4B",
     "op60"       : "Operator 6O",
     "op210"      : "Operator 21O",
+    "cmd"        : "Commander",
     "pod042"     : "Pod 042",
     "pod153"     : "Pod 153",
     "ane"        : "Anemone",
@@ -57,6 +58,16 @@ class LineID(object):
             return "UNKNOWN ({})".format(self.speaker)
         return SPEAKERS[self.speaker]
 
+    # TODO: check criterion
+    def belongToRouteAB(self):
+        missionNumber = int(self.mission[1:])
+        return missionNumber >= 10 and missionNumber <= 1090
+
+    # TODO: check criterion
+    def belongToRouteCDE(self):
+        missionNumber = int(self.mission[1:])
+        return missionNumber >= 3000 and missionNumber <= 3060
+
     def __str__(self):
         s = ""
         s += "mission={},".format(self.mission)
@@ -91,8 +102,7 @@ class LineID(object):
         elif s == "H":
             return 2
 
-HTML_TEMPLATE = """
-<!DOCTYPE html>
+HTML_TEMPLATE = """<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8"/>
@@ -131,6 +141,37 @@ LINE_TEMPLATE = """
                 </div>
             </div>
         </figure>
+"""
+
+INDEX_TEMPLATE = """<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" href="css/yorha.min.css"/>
+        <title>Nier:Automata - text dump</title>
+    </head>
+    <body>
+        <h1>Nier:Automata</h1>
+
+        <h2>List of available missions</h2>
+
+        <h3>Route A/B</h3>
+        <ul>
+{missionsAB}
+        </ul>
+
+        <h3>Route C/D/E</h3>
+        <ul>
+{missionsCDE}
+        </ul>
+
+        <h3>Unknown</h3>
+        <ul>
+{missionsMISC}
+        </ul>
+    </body>
+</html>
 """
 
 class TextDump(object):
@@ -181,7 +222,7 @@ class TextDump(object):
 
     def exportHtml(self, fname, title, filter=None, verbose=False):
         if verbose:
-            print("Exporting to {}...".format(fname))
+            print("Exporting to {}...".format(fname), end="")
 
         contents = ""
         for idx, (id, v) in enumerate(self.data.items()):
@@ -189,10 +230,55 @@ class TextDump(object):
                 continue
 
             idParsed, jp, en, filename = v
+
+            if len(jp) == 0 or len(en) == 0:
+                continue
+
             contents += LINE_TEMPLATE.format(caption=idParsed.getSpeaker(),
                                              idx=idx,
                                              japanese=jp, english=en)
+        # Do not write empty missions
+        if len(contents) == 0:
+            print("empty, SKIPPING")
+            return
+
         contents = HTML_TEMPLATE.format(title=title, text=contents)
+
+        with open(fname, "w") as f:
+            f.write(contents)
+        print("OK")
+
+    def exportIndex(self, fname, verbose=False):
+        if verbose:
+            print("Exporting index to {}...".format(fname))
+
+        missions = set()
+        missionsAB = ""
+        missionsCDE = ""
+        missionsMISC = ""
+
+        for id, v in self.data.items():
+            idParsed, _, _, _ = v
+            missionId = idParsed.mission[1:]
+
+            if missionId in missions:
+                continue
+            missions.add(missionId)
+
+            li = '            <li><a href="missions/{missionId}.html">{missionId}</a></li>\n'.format(missionId=missionId)
+
+            if idParsed.belongToRouteAB():
+                missionsAB += li
+            elif idParsed.belongToRouteCDE():
+                missionsCDE += li
+            else:
+                missionsMISC += li
+
+        missionsAB = missionsAB[:-1] # remove last '\n'
+        missionsCDE = missionsCDE[:-1] # remove last '\n'
+        missionsMISC = missionsMISC[:-1] # remove last '\n'
+        contents = INDEX_TEMPLATE.format(missionsAB=missionsAB, missionsCDE=missionsCDE,
+                                         missionsMISC=missionsMISC)
 
         with open(fname, "w") as f:
             f.write(contents)
@@ -223,7 +309,7 @@ if __name__ == "__main__":
     # Export
     # First route, first mission
     # textDump.exportText("output/mission0010.txt",
-    #                     filter=r"M0010_.+_.+_[01]\d+_.", verbose=True)
+    #                     filter=r"M0010_.+_.+_\d+_.", verbose=True)
     # textDump.exportHtml("website/missions/0010.html", title="Misssion 0010",
     #                     filter=r"M0010_.+_.+_[01]\d+_.", verbose=True)
 
@@ -232,4 +318,5 @@ if __name__ == "__main__":
     for mission in ALL_MISSIONS:
         textDump.exportHtml("website/missions/{}.html".format(mission[1:]),
                             title="Mission {}".format(mission[1:]),
-                            filter=r"{}_S\d+_.+_[01]\d+_.".format(mission), verbose=True)
+                            filter=r"{}_S\d+_.+_\d+_.".format(mission), verbose=True)
+    textDump.exportIndex("website/index.html", verbose=True)
