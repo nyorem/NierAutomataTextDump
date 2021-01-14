@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Running publish script
         run: |
-          git config --global user.email "Jocelyn.Meyron@insa-lyon.fr"
-          git config --global user.name "Jocelyn MEYRON"
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
           scripts/publish.sh
