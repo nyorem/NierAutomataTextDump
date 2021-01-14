@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+rm -rf website/missions
+mkdir website/missions
 scripts/organizeText.py
 
 cd website

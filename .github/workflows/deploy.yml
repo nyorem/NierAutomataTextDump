@@ -11,4 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Running publish script
-        run: scripts/publish.sh
+        run: |
+          git config --global user.email "Jocelyn.Meyron@insa-lyon.fr"
+          git config --global user.name "Jocelyn MEYRON"
+          scripts/publish.sh
