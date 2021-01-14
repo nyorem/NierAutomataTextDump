@@ -4,7 +4,9 @@ import os
 import re
 
 SPEAKERS = {
+    # YorHa
     "a2b"        : "2B",
+    "a3b"        : "3B",
     "a7b"        : "7B",
     "a8b"        : "8B",
     "a9s"        : "9S",
@@ -12,23 +14,51 @@ SPEAKERS = {
     "a2"         : "A2",
     "a1d"        : "1D",
     "a4b"        : "4B",
+    "cap"        : "YorHa Unit captain",
+    "op"         : "Operator",
     "op60"       : "Operator 6O",
     "op210"      : "Operator 21O",
     "cmd"        : "Commander",
+    "pod"        : "Pod",
     "pod042"     : "Pod 042",
     "pod153"     : "Pod 153",
+    "human"      : "Council of Humanity",
+    # Resistance
     "ane"        : "Anemone",
+    "jackas"     : "Jackass",
+    "dbl"        : "Devola",
+    "ppl"        : "Popola",
     "resi"       : "Resistance Member",
     "resiman"    : "Resistance Member (man)",
     "resiwoman"  : "Resistance Member (woman)",
     "resiwoman2" : "Resistance Member (woman)",
-    "hennnawresi": "Strange Resistance Member",
+    "hennawresi" : "Strange Resistance Member",
+    "toolshop"   : "Tool Shop", # TODO: better name
+    "bs"         : "Shop", # TODO: find which shop
+    # Robots
     "pascal"     : "Pascal",
+    "child"      : "Robot Child",
+    "children"   : "Robot Children",
+    "eml"        : "Emil",
+    "rbot9s"     : "9S (Robot)",
     "robo"       : "Robot",
+    "smachine"   : "Sad Machine",
+    "largerobot" : "Big Robot (King of the Forest kingdom)",
+    "smallrobot" : "Small Robot (member of the Forest kingdom)",
+    "all"        : "All Robots",
+    "prst"       : "Priest Robot",
     "eng"        : "Engels",
+    "vw"         : "Opera Singer (Beauvoir)",
     "adam"       : "Adam",
     "eve"        : "Eve",
+    "girls"      : "Red Girls (N2)",
+    # Misc
     "sele"       : "Selection (in a textbox)",
+    "select"     : "Selection (in a textbox)",
+    "pollutions" : "Dialogue with noise", # TODO: better name
+    "announce"   : "Announcement",
+    "system"     : "System",
+    "unknown"    : "Unknown",
 }
 
 ALL_MISSIONS_FILE = "scripts/data/ALL_MISSIONS.txt"
@@ -156,12 +186,12 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 
         <h2>List of available missions</h2>
 
-        <h3>Route A/B</h3>
+        <h3>Routes A/B</h3>
         <ul>
 {missionsAB}
         </ul>
 
-        <h3>Route C/D/E</h3>
+        <h3>Routes C/D/E</h3>
         <ul>
 {missionsCDE}
         </ul>
