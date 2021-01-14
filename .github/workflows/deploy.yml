@@ -10,8 +10,13 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
       - name: Running publish script
         run: |
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
           scripts/publish.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
