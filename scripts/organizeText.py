@@ -139,6 +139,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <link rel="stylesheet" href="../css/yorha.min.css"/>
         <link rel="stylesheet" href="../css/style.css"/>
+        <link rel="icon" type="image/png" href="../images/yorha16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="../images/yorha32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="../images/yorha64.png" sizes="64x64">
+        <link rel="icon" type="image/png" href="../images/yorha128.png" sizes="128x128">
         <title>Nier:Automata - {title}</title>
     </head>
     <body>
@@ -179,6 +183,10 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <link rel="stylesheet" href="css/yorha.min.css"/>
+        <link rel="icon" type="image/png" href="images/yorha16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="images/yorha32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="images/yorha64.png" sizes="64x64">
+        <link rel="icon" type="image/png" href="../images/yorha128.png" sizes="128x128">
         <title>Nier:Automata - text dump</title>
     </head>
     <body>

@@ -15,8 +15,8 @@ jobs:
           fetch-depth: 0
       - name: Running publish script
         run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
+          git config --global user.name "Jocelyn MEYRON"
+          git config --global user.email Jocelyn.Meyron@insa-lyon.fr
           scripts/publish.sh
       - name: Pushing changes
         uses: ad-m/github-push-action@master
